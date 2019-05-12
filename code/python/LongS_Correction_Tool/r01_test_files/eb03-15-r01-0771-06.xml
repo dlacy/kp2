@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-15-r01-0771-06"
+                facs="gri_33125011197759_0779.tif" type="entry">
+
+                <p><label>RABELAIS</label> (Francis), a French writer famous ſor his facetiouſneſs,
+                    was born at Chinonin Touraine about the year 1483. . He was ſirſt a Francifcan⅛
+                    friar ; but quitting his religious hablt ſtudied phyſic at Montpelier, where he
+                    took his doctor’s degree. It is ſaid, that the chancellor du Pratt ha ing
+                    aboliſhed the privileges of the faculty of phyſic atv Montpelier by a decree of
+                    the parliament, Rabelais h ad the addreſs to make him revoke what he had don e ;
+                    and that thofe who were madc doctors of that univerſity wore Rabelais’s robe,
+                    which is there held in great veneration. Some time after, he came to Rome, in
+                    quality of phyſician in ordinary to Cardinal John du Bellay archbiſhop of Paris.
+                    Rabelais is ſaid to have uſed the freedom to jeer Pope Paul III. to his face. He
+                    had quitted his religious connections for the ſake of leading a life more
+                    agreeable to his taſte ; but renewed them on a ſecond journey to Rome, when he
+                    obtained, in 1536, a brief to qualify him for holding eccleſiaſtical benefices ;
+                    and, by the intereſt of his friend Cardinal John du Bellay, he was received as a
+                    ſecular canon in the abbey of St Maur near Paris. His profound knowledge in
+                    phyſic rendered him doubly uſeful ; he being as ready, and at leaſt as well
+                    qualified, to prefcribe for the body as for the foul : but as he was a man of
+                    wit and humour, many ridiculous things are laid to his charge, of which he was
+                    quite innocent. He publiſhed ſeveral things ; but his chief performance is a
+                    ſtrange incoherent romance, called the <hi rend="italic">IIfiory oſ Gargantua
+                        and Pantagruel,</hi> being a ſatire upon prieſts, popes, fools, and knaves
+                    of all kinds. This work contains a wild, irregular profuſion of wit, learning,
+                    obſcenſty, low conceits, and arrant nonſenſe ; hence the ſhrewd-neſs of his
+                    ſatire, in ſome places where he is to be underſtood, gains him credit ſor thoſe
+                    where no meaning is diſcoverable. Some alluſions may undoubtedly have been ſo
+                    temporary and local as to be now quite loſt : but it is too much to conclude
+                    thus in favour of every unintelligible rhapſody ; for we are not without Engliſh
+                    writers of great talents, whoſe ſportive geniufes have betrayed them into
+                    puerilities, no leſs incoherent at</p>
+                <pb xml:id="eb03-15-r01-0772" facs="gri_33125011197759_0780.tif"/>
+                <p>the times of writing than thoſe of Rabelais appear above two centuries after. He
+                    died about 1553.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

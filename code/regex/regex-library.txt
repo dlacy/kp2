@@ -1,0 +1,48 @@
+\Notepad++ Regex for search and replace
+
+   # The Regex Cheat Sheet:
+        # http://www.rexegg.com/regex-quickstart.html
+        #
+        # The Online Regex Tester:
+        # https://regex101.com/
+
+
+\n       newline character
+\r 		 carriage return character (line break = \r\n)
+.        any single character except \n
+[a-f]	 Any lower-case letters from a to f
+\w		 alphanumeric characters plus "_"
+\W		 non-word characters
+\s		 any single whitespace character—tab, carriage return linefeed, or space
+\S		 non-whitespace characters
+\u		 uppercase letters
+\l		 lowercase letters
+\d		 any numeric digit; same as [0-9])
+\D		 non-digits
+
+Where n is 1 through 9 refers to the first through ninth tagged region when replacing. For example, if the search string was Fred([1-9])XXX and the replace string was Sam\1YYY , when applied to Fred2XXX this would generate Sam2YYY .
+\<       This matches the start of a word using Scintilla's definitions of words.
+\>       This matches the end of a word using Scintilla's definition of words.
+\x       This allows you to use a character x that would otherwise have a special meaning. For example, \[ would be interpreted as [ and not as the start of a character set.
+^        This matches the start of a line (unless used inside a set, see above).
+$        This matches the end of a line.
+*        This matches 0 or more times. For example, Sa*m matches Sm , Sam , Saam , Saaam and so on.
++        This matches 1 or more times. For example, Sa+m matches Sam , Saam , Saaam and so on.
+?		Matched the preceding expression 0 or 1 time. Equivalent to {0,1}
+\L		 Changes the next match to lowercase (or \U for uppercase). To convert all uppercase letters to lowercase:
+			Find ([A-Z])
+			Replace \L\1
+			
+(...)	Marks a region for tagging a match; so what's inside ( ) you can use in "replace with" using \1, \2 etc.
+[...]   This indicates a set of characters, for example, [abc] means any of the characters a, b or c. You can also use ranges, for example [a-z] for any lower case character.
+[^...]  The complement of the characters in the set. For example, [^A-Za-z] means any character except an alphabetic character.
+{4}		Like the asterisk, but meaning "four characters fitting this description." Because curly braces are used in XSLT stylesheets to show which parts of an attribute value template are expressions to be evaluated, be careful when using these in a regular expression specified in an attribute value: escape the curly braces by repeating them (in this case, {{4}}) to tell an XSLT 2.0 processor not to treat the curly braces as attribute value template expression delimiters. 
+{n,}	Matches at least n occurrences of the preceding expression. N must be a positive integer. For example, /a{2,}/ will match "aa", "aaaa" and "aaaaa" but not "a"
+{n,m}	Where n and m are positive integers and n <= m. Matches at least n and at most m occurrences of the preceding expression. When m is omitted, it's treated as ∞. For example, /a{1,3}/ matches nothing in "cndy", the 'a' in "candy," the first two a's in "caandy," and the first three a's in "caaaaaaandy". Notice that when matching "caaaaaaandy", the match is "aaa", even though the original string had more a's in it.
+			
+REGEX and XSLT
+XPath 2.0 offers three new functions that use regular expressions:
+    tokenize(), which I described last month.
+    matches(), which returns a boolean true or false depending on whether the text in its first argument matches the regular expression in its second argument.
+    replace(), which searches the string in its first argument for the pattern in its second argument, replacing any found occurrence with the string in the third argument and returning the result.
+			

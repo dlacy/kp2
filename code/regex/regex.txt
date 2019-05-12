@@ -1,0 +1,13 @@
+1) f/r space around <p> and </p> tags
+
+\s+<\/p\>
+</p>
+
+<p\>\s+
+<p>
+
+
+“ 
+ ”
+ ‘
+ ’

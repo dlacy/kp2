@@ -1,0 +1,7 @@
+REGEX for footnotes
+
+To strip font formatting from @ codes:
+
+Find: <span class="font\d" style="font-style:italic;">(@{2,3})</span>
+Repl: \1
+

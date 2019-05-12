@@ -1,0 +1,48 @@
+       <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Style5"/>
+                <w:keepNext w:val="0"/>
+                <w:keepLines w:val="0"/>
+                <w:widowControl w:val="0"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                <w:tabs>
+                    <w:tab w:pos="489" w:val="left"/>
+                </w:tabs>
+                <w:bidi w:val="0"/>
+                <w:ind w:left="0" w:firstLine="360"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:sz w:val="14"/>
+                    <w:szCs w:val="14"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CharStyle4"/>
+                    <w:vertAlign w:val="superscript"/>
+                </w:rPr>
+                <w:t>@@@</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CharStyle4"/>
+                    <w:vertAlign w:val="superscript"/>
+                    <w:lang w:val="la-001" w:eastAsia="la-001" w:bidi="la-001"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CharStyle4"/>
+                    <w:lang w:val="la-001" w:eastAsia="la-001" w:bidi="la-001"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CharStyle4"/>
+                </w:rPr>
+                <w:t>In calculations where this expression is involved it is convenient to remem</w:t>
+                <w:softHyphen/>
+                <w:t>ber that log</w:t>
+            </w:r>

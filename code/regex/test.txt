@@ -1,0 +1,10 @@
+<p><hi rend="Body_text_(4)_"><seg rend="superscript">@@@1</seg>See on Báb and Babism, Mirza Kazem Beg, in <seg rend="italic">Journ. </seg><seg rend="italic">Asiatique, </seg>ser. 6, vols. vii. viii. </p>
+<p><hi rend="Body_text_(5)_"><seg rend="superscript">@@@1</seg>	<seg rend="italic">Maschine zum Prüfen </seg><seg rend="italic">d. </seg> <hi rend="superscript">@@@2</hi> Still-births are excluded.</p>
+<p><hi rend="superscript">@@@3</hi> Adding natural increase of 1868 to population of <hi rend="smallcaps">1867</hi> (Kolb).</p>
+<p><hi rend="superscript italic">@@@4</hi> Estimate deducting natural increase of 1869-1870 from figure in census of 1871. </p>
+<p><hi rend="superscript smallcaps">@@@4</hi> <hi rend="italic">Ibid.,</hi> 1884.</p>
+<hi rend="superscript">@@@2</hi> Still-births are excluded.   <hi rend="superscript">@@@3</hi> Adding natural increase of 1868 to population of <hi rend="smallcaps">1867</hi> (Kolb).</p>
+
+\s*<(hi|seg|=|"|\w|\s)*>@@@
+
+(.|")\s*("|\>|\<|\/|\w|\s|=)*\s*@@@

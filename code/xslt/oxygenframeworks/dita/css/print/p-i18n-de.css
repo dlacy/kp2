@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/* Title in the TOC page */
+*[class ~= "toc/title"][empty]:lang(de):before { 
+	content: "Inhaltsverzeichnis"; 
+}
+
+/* This string is used in the TOC page header. */
+*[class ~= "map/map"]:lang(de) {
+    string-set: toc-header "Inhaltsverzeichnis";
+}
+
+/* Title in the Index page */
+*[class ~= "index/groups"]:lang(de):before {
+	content: "Stichwortverzeichnis";
+}
+*[class ~= "index/groups"]:lang(de) {
+  	bookmark-label:"Stichwortverzeichnis";  
+  	-ah-bookmark-label:"Stichwortverzeichnis";	
+}
+
+
+/* Titles in the TOC. */
+*[class ~= "map/topicref"][is-part] > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:lang(de):before{
+   content:"Teil " counter(toc-part, upper-roman) ". " !important;
+}
+*[class ~= "map/topicref"][is-chapter]:not([is-part]) > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:lang(de):before{
+   content:"Kapitel " counter(toc-chapter) ". " !important;
+}
+
+/* Titles in the content. */
+*[class ~= "topic/topic"][is-part] > *[class ~= "topic/title"]:lang(de):before {
+    content: "Teil " counter(part, upper-roman) ". ";
+}
+*[class ~= "topic/topic"][is-chapter]:not([is-part]) > *[class ~= "topic/title"]:lang(de):before {
+    content: "Kapitel " counter(chapter) ". ";
+}
+
+
+/* Links. */
+*[class ~= "topic/xref"][href]:lang(de):after,
+*[class ~= "topic/link"][href]:lang(de):after {
+    content: " (auf Seite " target-counter(attr(href), page) ")";
+}

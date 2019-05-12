@@ -1,0 +1,12 @@
+TO MAKE .BAT FILE RUN
+
+In the command prompt, check assoc and ftype. By default this should look like:
+
+C:\>assoc .bat
+.bat=batfile
+
+C:\>ftype batfile
+batfile="%1" %*
+
+If it's not, see assoc /? and ftype /? how to change it.
+
