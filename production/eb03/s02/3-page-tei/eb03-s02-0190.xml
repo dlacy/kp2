@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:58:38Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>diſtant countries, and renders it eaſy to tranſport the commodities of one nation to
+                another, but its waters riſing in the air deſcend in ſhowers to fertiliſe the earth
+                and nouriſh the vegetable kingdom, and collecting into rivers flow onwards, bringing
+                fertility and wealth and commerce along with them, and again return to the ſea to
+                repeat the fame round.</p>
+            <p>The knowledge of this proceſs of nature might, one would think, have convinced
+                philoſophers that the proportion between ſea and land continued always nearly the
+                ſame. Philoſophers however have formed different theories about this as well as moſt
+                other ſubjects, maintaining on the one hand that the ſea is continually encroaching
+                on the land, and on the other that the land is conſtantly gaining on the ſea. Both
+                ſides have ſupported their theories by arguments, demonſtrations, and
+                uncontrovertible facts!</p>
+            <p>The height of the mountains, ſay the philoſophers who ſupport the encroachments of
+                the ſea, is continually diminiſhing; expoſed to the violence of every ſtorm, the
+                hardeſt rocks muſt at laſt give way and tumble down. The rivers are continually
+                ſweeping along with them particles of earth which they depoſite in the bottom of the
+                ſea. Both the depth of the ocean then and the height of the dry land muſt be always
+                decreaſing; the waters therefore muſt, unleſs a part of them were annihilated,
+                ſpread over a greater extent of ſurface in proportion as theſe cauſes operate. This
+                reaſoning, convincing as it is, might be confirmed by a great number of facts: it
+                will be sufficient however to mention one or two. In the reign of Auguſtus the iſle
+                of Wight made a part of Britain, ſo that the Engliſh croſſed over to it at low water
+                with cart loads of tin; yet that iſland is at preſent ſeparated from Britain by a
+                channel half a mile wide. The Godwin ſands on the eaſtern ſhore of England were
+                formerly the fertile eſtate of earl Godwin. Nor are the encroachments of the ſea
+                confined to Britain. In the bay of Baiæ near Naples there are remains of houſes and
+                ſtreets ſtill viſible below the preſent level of the ſea. The ſea therefore is
+                making continued encroachments upon the land; and the time will come, ſay they, when
+                the waters will again cover the ſurface of the earth.</p>
+            <p>Such are the arguments of thoſe philoſophers who maintain the continual encroachments
+                of the ſea. Thoſe who maintain the oppoſite theory, that the land is gradually
+                gaining on the ſea, though they pretend not to deny the facts advanced by their
+                opponents, affirm that they are altogether inſufficient to eſtabliſh the hypotheſis
+                which they were brought forward to ſupport. Though the rivers carry down particles
+                of earth into the ſea, theſe, ſay they, are either accumulated on other ſhores, or,
+                collecting in the bottom of the ocean, harden into ſtone, which being poſſeſſed of a
+                vegetative power riſes by degrees above the ſurface of the ſea and form rocks, and
+                mountains, and iſlands. The vegetative nature of ſtone indeed is ſufficient, of
+                itſelf, to convince us that the quantity of earth muſt be daily accumulating, arid
+                conſequently that the ſurface of the ſea is diminiſhing in extent. Celſius, a
+                Swediſh philoſopher (for this diſpute has been carried on in Sweden with the
+                greateſt keenneſs), has endeavoured to build this</p>
+            <p>theory with more ſolid materials than vegetable ſtone. In a curious memoir, pubiſſhed
+                in 1743, he aſſerts that the Baltic and the Atlantic, at leaſt that part of it which
+                waſhes Norway, is conſtantly diminiſhing; and he proves this by the teſtimony of a
+                great many aged pilots and fiſhermen, who affirmed that the ſea was become much
+                ſhallower in many places than it had been during their youth: that many rocks
+                formerly covered with water were now ſeveral feet above the ſurface of the ſea: that
+                loaded veſſels uſed formerly to ride in many places where pinnaces and barks could
+                now with difficulty ſwim. He produces inſtances of ancient ſea-port towns now
+                ſeveral leagues from the ſhore, and of anchors and wrecks of veſſels found far
+                within the country. He mentions a particular rock which 168 years before was at the
+                bottom of the ſea, but was then raiſed eight feet above its ſurface. In another
+                place where the water 50 years before had reached to the knee there was then none.
+                Several rocks, too, which during the infancy of ſome old pilots had been two feet
+                under water, were then three feet above it. From all theſe obſervations M. Celſius
+                concludes, that the water of the Baltic decreaſes in height 4<hi rend="superscript"
+                    >1</hi>/<hi rend="subscript">2</hi> lines in a year, 4 inches 5 lines in 18
+                years, 4 feet 5 inches in a hundred years, and in a thouſand years 45 feet.
+                Conſcious, however, that theſe facts, how concluſive ſoever as far as relates to the
+                Baltic, can never determine the general queſtion, M. Celſius advances another
+                argument in ſupport of his theory. All that quantity of moiſture, ſays he, which is
+                imbibed by plants is loſt to the general maſs of water, being converted into earth
+                by the putrefaction of vegetables. This notion had been mentioned by Newton, and was
+                adopted by Van Helmont: if granted, it follows as a conſequence that the earth is
+                continually increaſing and the water diminiſhing in a very rapid degree.</p>
+            <p>Such are the arguments advanced in ſupport of both theories; for it is needleſs to
+                mention a notion of Linnaeus that the whole earth was formerly covered with water
+                except a ſingle mountain. When fairly weighed, they amount to nothing more than
+                this, that the ſea has encroached upon the land in ſome places, and retired in
+                others; a concluſion which we are very willing to allow. What was advanced by thoſe
+                philoſophers, who maintain that the ſea is continually encroaching on the land,
+                about the depth of the ſea conſtantly diminiſhing, muſt remain a mere aſſertion till
+                they prove by experiments, either that this is really the caſe, or that nature has
+                no way of reſtoring thoſe particles of earth which are waſhed down by the rivers.
+                Nor have they any good reaſon to affirm that the height of the mountains is
+                decreaſing. Can a ſingle uncontrovertible inſtance be produced of this? Are the Alps
+                or the Apennines, or Taurus, or Caucaſus, leſs lofty now than they were a thouſand
+                years ago? We mean not to deny that the rain actually waſhes down particles of earth
+                from the mountains, nor to affirm that the hardeſt rocks are able to refill
+                continual ſtorms, nor that many mountains have ſuffered, and continue to ſuffer
+                daily, from a thouſand accidents. But the effects produced by all theſe cauſes are
+                ſo trifling as to be altogether imperceptible @@<hi rend="smallcaps">(a).</hi>
+                Nature has aſſiduouſly guarded againſt ſuch accidents; ſhe has formed the mountains
+                of the moſt dura-</p>
+            <p>@@@(A). M. Gensanne pretends that the Pyrenean mountains become an inch lower every
+                ten years. But even ac<pb n="191"> </pb>cording to his own calculation, it would
+                require a million of years to level theſe mountains with the plain, though they
+                continued to decreaſe at the ſame rate; and philoſophers tell us that this rate is
+                conſtantly diminiſhing!</p>
+        </body>
+    </text>
+</TEI>

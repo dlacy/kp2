@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:50:39Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>infantry, and 400 men at arms. Edward would not permit them to enter Scotland by the
+                uſual way, as he himſelf did not yet chooſe openly to take part in their quarrel.
+                For this reaſon they were obliged to take ſhipping, and landed at a place called <hi
+                    rend="italic">Ravenſhare, Ravenspur,</hi> or <hi rend="italic">Ravensburgh,</hi>
+                at the mouth of the Humber @@(<hi rend="smallcaps">h).</hi> Randolph, having
+                intelligence of the Engliſh preparations, had marched an army to the frontiers of
+                Eaſt Lothian; but, being afterwards informed of the naval armament, he marched
+                northwards; but died at Muſſelburgh, ſix miles eaſt of Edinburgh, on the 20th of
+                July 1332. With him died the glory of Scotland. The earl of Marr, a man whoſe only
+                merit conſiſted in his being related to the royal family, was choſen to ſucceed him
+                in the regency.—Edward, in the mean time, fell upon a moſt curious expedient to ſhow
+                the juſtice of his cauſe. In March 1332, he had publiſhed a prohibition for any
+                perſon to infringe the treaty of Northampton. The diſinherited lords had been
+                ſuffered to embark, expreſsly for the purpoſe of invading Scotland, after this
+                prohibition was publiſhed. <hi rend="italic">After they were gone,</hi> Henry de
+                Percy was empowered to puniſh thoſe who ſhould preſume to array themſelves in
+                contempt of his prohibition; and becauſe he underſtood that the Scots were arming in
+                order to repel thoſe invaders whom Edward had indirectly ſent againſt them, he
+                empowered Henry de Percy to arm againſt them.</p>
+            <p>On the 31st of July, Edward Baliol and his aſſociates landed in the neighbourhood of
+                Kinghorn, on the Forth; routed the earl of Fife, who oppoſed them; and marched next
+                day to Dunfermline. Having then ordered his fleet to wait for him at the mouth of
+                the Tay, he proceeded northwards, and encamped on the Miller’s acre at Forteviot,
+                with the river Earn in front. Nothing, however, could be more dangerous than his
+                ſituation at preſent, and his deſtruction would have been inevitable. The earl of
+                Marr was encamped with a numerous army on the oppoſite bank of the river Earn, in
+                the neighbourhood of Duplin; and another, nearly as numerous, had advanced from the
+                ſouth, through the Lothians and Sfirlingſhire, and fixed its quarters at
+                Auchterarder, eight miles to the west of Forteviot. Historians differ as to the
+                number of the two armies. Fordun ſays, that the regent had with him 30,000 men, and
+                the earl of March as many; and that Baliol had between 500 and 600 men at arms, that
+                is, horſemen completely armed. Hemingford reckons each of the Scots armies at
+                40,000, and Baliol’s at 500 armed men. Knyghton ſays, that Baliol, when he landed in
+                Fife, had 300 armed men, and 3000 more of different forts; but that he had in all
+                only 2500 men in his camp at Earn. In this deſperate ſituation, the Engliſh general
+                formed a deſign of attacking the Scots in their camp. They were directed to a ford
+                by Andrew Murray of Tullibardine. The Scots kept no watch, but abandoned themſelves
+                to intemperance and riotous mirth; while their enemies, led by Alexander Moubray,
+                croſſed the river at midnight. They aſcended a riſing ground, came unperceived on
+                the right flank of the Scottiſh army, and made a dreadful ſlaughter. At the first
+                attack, young Randolph halted with 300 men at arms to oppoſe the enemy; and being
+                ſeconded by Murdoch earl of Menteith, Alexander Fraſer, and Robert Bruce natural ſon
+                to the late king, he gave a check te the Engliſh, and maintained the combat on equal
+                terms. But now the regent himſelf, along with the whole multitude, ruſhed forward to
+                battle without the leaſt order: ſo that while the hindmoſt preſſed on, the foremoſt
+                were thrown down, trodden upon, and ſuffocated. The ſlaughter laſted many hours, and
+                the remains of this vaſt army were utterly diſperſed. Many men of eminence were
+                killed; among whom were Donald earl of Marr, author of the whole cataſtrophe; Thomas
+                earl of Moray, Murdoch earl of Menteith, Robert earl of Carrick,</p>
+            <p><hi rend="smallcaps">@@@(h)</hi> This place does not now exiſt; having been
+                overwhelmed by the ſea many centuries ago.</p>
+        </body>
+    </text>
+</TEI>

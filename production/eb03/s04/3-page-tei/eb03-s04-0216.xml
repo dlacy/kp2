@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:20Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>be wanting : for a liquor which answers to N⁰ 4 will sink N<hi rend="superscript"
+                    >o</hi> 2 by heating it a few degrees, and therefore N⁰ 3 may be ſpared. This is
+                a great advantage in ordinary buſineſs. A nice hydrometer is not only an expenſive
+                inſtrument, but exceedingly delicate, being ſo very thin. If broken or even bruiſed,
+                it is uſeleſs, and can hardly be repaired except by the very maker.</p>
+            <p>As the only queſtion here is, to determine how many gallons of exciſe proof ſpirits
+                is contained in a quantity of liquor, the artiſt has conſtructed this ſeries of
+                bubbles in the ſimpleſt manner poſſible, by previouſly making 40 or 50 mixtures of
+                ſpirits and water, and then adjuſting the bubbles to theſe mixtures. In ſome ſets
+                the number on each bubble is the number of gallons of proof ſpirits contained in 100
+                gallons of the liquor. In other ſets the number on each bubble expreſſes the gallons
+                of water which will make a liquor of this ſtrength, if added to 14 gallons of
+                alcohol. Thus, if a liquor anſwers to N⁰ 4, then 4 gallons of water added to 14
+                gallons of alcohol will make a liquor of this ſtrength. The firſt is the beſt method
+                ; for we ſhould be miſtaken in ſuppoſing that 18 gallons, which anſwer to N⁰ 4,
+                contains exactly 14 gallons of alcohol : it contains more than 14, for a reaſon to
+                be given by and by.</p>
+            <p>By examining the ſpecific gravity of bodies, the philoſopher has made ſome very
+                curious diſcoveries. The moſt remarkable of theſe is the change which the denſity of
+                bodies suffers by mixture. It is a moſt reaſonable expectation, that when a cubic
+                foot of one ſubſtance is mixed <hi rend="italic">any how</hi> with a cubic foot of
+                another, the bulk of the mixture will be two cubic feet ; and that 8 gallons of
+                water joined to 18 gallons of oil will fill a veſſel of 36 gallons. Accordingly this
+                was never doubted ; and even Archimedes, the moſt ſcrupulous of mathematicians,
+                proceeded on this ſupposition in the ſolution of his famous problem, the diſcovery
+                of the proportion of ſilver and gold in a mixture of both. He does not even mention
+                it as a poſtulate that <hi rend="italic">may</hi> be granted him, ſo much did he
+                conceive it to be an axiom. Yet a little reflection ſeems sufficient to make it
+                doubtful and to require examination. A box filled with muſket-balls will receive a
+                conſiderable quantity of ſmall ſhot, and after this a conſiderable quantity of fine
+                sand, and after this a conſiderable quantity of water. Something like this might
+                happen in the admixture of bodies of porous texture. But ſuch ſubſtances as metals,
+                glaſs, and fluids, where no diſcontinuity of parts can be perceived, or was
+                suſpected, ſeem free ſrom every chance oſ this kind oſ introſuſception. Lord Bacon,
+                however, without being a naturaliſt or mathematician <hi rend="italic">ex
+                    professo,</hi> interred from the mobility of fluids that they consiſted of
+                diſcrete particles, which muſt have pores interpoſed, whatever be their figure. And
+                if we aſcribe the different denſities, or other ſenſible qualities, to difference in
+                ſize or figure of thoſe particles, it muſt frequently happen that the ſmaller
+                particles will be lodged in the interſtices between the larger, and thus contribute
+                to the weight of the ſenſible maſs without increaſing its bulk. He therefore
+                ſuspects that mixtures will be in general leſs bulky than the ſum of their
+                ingredients.</p>
+            <p>Accordingly, the examination of this queſtion was one of the firſt employments of the
+                Royal Socſety of London, and long before its inſtitution had occupied the attention
+                of the gentlemen who afterwards composed it. The regiſter of the Society’s early
+                meetings</p>
+            <p>contains many experiments on this ſubject, with mixtures of gold and ſilver, of other
+                metals, and of various fluids, examined by the hydroſtatical balance of Mr Boyle. Dr
+                Hooke made a prodigious number, chiefly on articles of commerce, which were
+                unfortunately loſt in the fire of London.</p>
+            <p>It was ſoon found, however, that Lord Bacon’s conjecture had been well founded, and
+                that bodies changed their density very ſenſibly in many caſes. In general, it was
+                found that bodies which had a ſtrong chemical affinity increaſed in denſity, and
+                that their admixture was accompanied with heat.</p>
+            <p>By this dilcovery it is manifeſt that Archimedes had not ſolved the problem of
+                detecting the quantity of silver mixed with the gold in King Hiero’s crown, and that
+                the phyſical ſolution of it requires experiments made on all the kinds of matter
+                that are mixed together. We do not find that this has been done to this day,
+                although we may affirm that there are few queſtions of more importance. It is a very
+                curious fact in chemiſtry, and it would be moſt deſirable to be able to reduce it to
+                ſome general laws ; For inſtance, to aſcertain what is the proportion of two
+                ingredients which produces the greateſt change of denſity. This is important in the
+                ſcience of phyſics, becauſe it gives us considerable information as to the mode of
+                action of thoſe natural powers or forces by which the particles of tangible matter
+                are united. If this introſuſception, concentration, compenetration, or by whatever
+                name it be called, were a mere reception of the particles of one ſubſtance into the
+                interſtices of thoſe of another, it is evident that the greateſt concentration would
+                be obſerved when a ſmall quantity of the recipiend is mixed with, or diſſeminated
+                through, a great quantity of the other. It is thus that a ſmall quantity of fine
+                fand will be received into the interſtices of a quantity of ſmall ſhot, and will
+                increaſe the weight of the bagful, without increaſing its bulk. The caſe is nowiſe
+                different when a piece of freeſtone has grown heavier by imbibing or abſorbing a
+                quantity of water. If more than a certain quantity of fand has been added to the
+                ſmall ſhot, it is no longer concealed. In like manner, various quantities of water
+                may combine with a maſs of clay, and increaſe its ſize and weight alike. All this is
+                very conceivable, occaſioning no difficulty,</p>
+            <p>But this is not the caſe in any of the mixtures we are now conſidering. In all theſe,
+                the firſt additions of either of the two ſubſtances produce but an inconſiderable
+                change of general denſity ; and it is in general moſt remarkable, whether it be
+                condensation or rarefaction, when the two ingredients are nearly of equabulks. We
+                can illuſtrate even this difference, by reflecting on the imbibition of water by
+                vegetable ſolids, ſuch as timber. Some kinds of wood, have their weight much more
+                increaſed than their bulks ; other kinds of wood are more enlarged in bulk than in
+                weight. The like happens in grains. This is curious, and ſhows in the moſt
+                unqueſtionable manner that the particles of bodies are not in contact, but are kept
+                together by forces which act at a diſtance. For this diſtance between the centres of
+                the particles is moſt evidently ſuſceptible of variation ; and this variation is
+                occaſioned. by the introduction of another ſubſtance, which, by acting on the
+                particles by attraction or repulſion, diminiſhes or increaſes their mutual actions,
+                and makes new diſtances</p>
+        </body>
+    </text>
+</TEI>

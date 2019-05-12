@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:57:52Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>rate Jew, and its ſtyle is remarkable for ſimplicity. It abounds more with Hebraiſms
+                than any of the other goſpels; and contains ſome ſtrong oriental figures which are
+                not readily underſtood by an European.</p>
+            <p>This goſpel is cited once by Clemens Romanus, by Barnabas three times, by Ignatius
+                five times, by Juſtin Martyr fix times, by Irenæus, and above forty times by Clemens
+                Alexandrinus.</p>
+            <p>The book which we intitle the Acts of the Apoſtles connects the goſpels and the
+                epiſtles. It is evidently a continuation of Luke’s goſpel, which appears both from
+                the introduction and from the atteſtations of ancient Christians. Both are dedicated
+                to Theophilus; and in the beginning of the Acts a reference is made to his goſpel,
+                which he calls <hi rend="italic">a former treatiſe,</hi> recording the actions and
+                diſcourſes of Jeſus till his aſcenſion to heaven. Luke is mentioned as the author of
+                the Acts of the Apoſtles by Irenæus, by Tertullian, by Origen, and Euſebius.</p>
+            <p>From the frequent uſe of the firſt perſon plural, it is manifeſt that Luke the author
+                was preſent at many of the tranſactions which he relates. He appears to have
+                accompanied Paul from Troas to Philippi. He attended him alſo to Jeruſalem, and
+                afterwards to Rome, where he remained for two years. He is mentioned by Paul in
+                ſeveral of thoſe epiſtles which were written from Rome, particularly in the 2d
+                epiſtle to Timothy, and in the epiſtle to Philemon.</p>
+            <p>This book contains the hiſtory of the Chriſtian church for the ſpace of about 28 or
+                30 years, from the time of our Saviour’s aſcenſion to Paul’s arrival at Rome in the
+                year 60 or 61. As it informs us that Paul reſided two years in Rome, it muſt have
+                been written after the year 63; and as the death of Paul is not mentioned, it is
+                probable it was compoſed beſore that event, which happened A. D. 65.</p>
+            <p>The Acts of the Apoſtles may be divided into ſeven parts. I. The account of our
+                Saviour’s aſcenſion, and of the occurrences which happened on the firſt Pentecoſt
+                after that event, contained in chap. i. ii. 2. The transactions of the Chriſtians σf
+                the circumciſion at Jeruſalem, in Judea, and Samaria, chap. iii.—ix. xi. I—21. xii.
+                3. Tranſactions in Cæſarea, and the admiſſion of the Gentiles, chap. x. 4. The firſt
+                circuit of Barnabas and Paul among the Gentiles, chap. xi. 22. xiii. xiv. 5. Embaſſy
+                to Jeruſalem, and the firſt council held in that city, chap. xv. <hi rend="italic"
+                    >6.</hi> Paul’s ſecond journey, chap. xvi.—xxi. 7. His arreſtment, trial, appeal
+                to Cæſar, and journey to Rome, chap. xxi. to the end of the book.</p>
+            <p>The Acts of the Apoſtles are cited by Clemens Romanus, by Polycarp, by Juſtin Martyr,
+                thirty times by Irenæus, and ſeven times by Clemens Alexandrinus.</p>
+            <p>All the eſſential doctrines and precepts of the Christian religion were certainly
+                taught by our Saviour himſelf, and are contained in the goſpels. The epiſtles may be
+                conſidered as commentaries on the doctrines of the goſpel, addreſſed to particular
+                ſocieties, accommodated to their reſpective ſituations; intended to refute the</p>
+            <p>errors and false notions which prevailed among them, and to inculcate thoſe virtues
+                in which they were moſt deficient.</p>
+            <p>The plan on which theſe <hi rend="smallcaps">Letters</hi> are written is, firſt, to
+                decide the controverſy, or refute the erroneous notions which had ariſen in the
+                ſociety to which the epiſtle was addreſſed: And, ſecondly, to recommend thoſe duties
+                which their falſe doctrines might induce them to neglect; at the same time
+                inculcating in general exhortations the moſt important precepts of Christian
+                morality.</p>
+            <p>Of the epiſtles fourteen were written by St Paul. Theſe are not placed according to
+                the order of time in which they were compoſed, but according to the ſuppoſed
+                precedence of the ſocieties or perdons to whom they were addressed. It will be
+                proper therefore to exhibit here their chronological order according to Dr
+                Lardner.</p>
+            <p><hi rend="smallcaps">A TABLE</hi> of St Paul's <hi rend="smallcaps">Epistles,</hi>
+                with the Places where, and times when, written, according to Dr Lardner.</p>
+            <table>
+                <row>
+                    <cell>Epistles</cell>
+                    <cell>Places.</cell>
+                    <cell><hi rend="italic">A.</hi> D.</cell>
+                </row>
+                <row>
+                    <cell>1 Theſſalonians</cell>
+                    <cell>Corinth ^</cell>
+                    <cell>52</cell>
+                </row>
+                <row>
+                    <cell>2 Theſſalonians</cell>
+                    <cell>Corinth</cell>
+                    <cell>52</cell>
+                </row>
+                <row>
+                    <cell>Galatians</cell>
+                    <cell>Corinth or Epheſus </cell>
+                    <cell>near the end of 52 or beginning of 53</cell>
+                </row>
+                <row>
+                    <cell>I Corinthians</cell>
+                    <cell>Epheſus</cell>
+                    <cell>the beginning of 53</cell>
+                </row>
+                <row>
+                    <cell>I Timothy</cell>
+                    <cell>Macedonia</cell>
+                    <cell><hi rend="italic">56</hi></cell>
+                </row>
+                <row>
+                    <cell>Titus</cell>
+                    <cell>Macedonia or near it</cell>
+                    <cell>bef. the end of 56</cell>
+                </row>
+                <row>
+                    <cell>2 Corinthians</cell>
+                    <cell>Macedonia</cell>
+                    <cell>about October 57</cell>
+                </row>
+                <row>
+                    <cell>Romans</cell>
+                    <cell>Corinth</cell>
+                    <cell>about February 58</cell>
+                </row>
+                <row>
+                    <cell>Epheſians</cell>
+                    <cell>Rome</cell>
+                    <cell>about April 61</cell>
+                </row>
+                <row>
+                    <cell>2 Timothy</cell>
+                    <cell>Rome</cell>
+                    <cell>about May 61</cell>
+                </row>
+                <row>
+                    <cell>Philippians</cell>
+                    <cell>Rome</cell>
+                    <cell>bef. the end of 62</cell>
+                </row>
+                <row>
+                    <cell>Coloſſians</cell>
+                    <cell>Rome</cell>
+                    <cell>bef. the end of 62</cell>
+                </row>
+                <row>
+                    <cell>Philemon</cell>
+                    <cell>Rome</cell>
+                    <cell>bef. the end of 62</cell>
+                </row>
+                <row>
+                    <cell>Hebrews</cell>
+                    <cell><p>Rome or</p><p>Italy</p></cell>
+                    <cell>in Spring of 63</cell>
+                </row>
+            </table>
+            <p>A <hi rend="smallcaps">Table</hi> of the <hi rend="smallcaps">CathoiIc Epistles</hi>
+                and the <hi rend="smallcaps">REVELATI</hi>ON, according to Dr Lardner.</p>
+            <table>
+                <row>
+                    <cell>Epiſtle.</cell>
+                    <cell>Place.</cell>
+                    <cell><hi rend="italic">A.</hi> D.</cell>
+                </row>
+                <row>
+                    <cell>James</cell>
+                    <cell>Judea</cell>
+                    <cell><p><hi rend="superscript">61</hi></p><p><hi rend="italic">or</hi> beg. of
+                            62</p></cell>
+                </row>
+                <row>
+                    <cell>The two Epiſtles of Peter</cell>
+                    <cell>Rome</cell>
+                    <cell>64</cell>
+                </row>
+                <row>
+                    <cell>1 John</cell>
+                    <cell>Epheſus</cell>
+                    <cell>about 80</cell>
+                </row>
+                <row>
+                    <cell><p>2d and 3d of</p><p>John</p></cell>
+                    <cell>Epheſus</cell>
+                    <cell>between 80 and 90</cell>
+                </row>
+                <row>
+                    <cell>Jude</cell>
+                    <cell>Unknown</cell>
+                    <cell>64 or 65</cell>
+                </row>
+                <row>
+                    <cell>Revelation</cell>
+                    <cell>Patmos or Epheſus</cell>
+                    <cell><hi rend="italic">95 or 96</hi></cell>
+                </row>
+            </table>
+            <p>It is more difficult to underſtand the epiſtolary writings than the goſpels; the
+                cauſe of which is evident. Many things are omitted in a letter, or ſlightly
+                mentioned becauſe ſuppoſed to be known by the perſon to whom it is addreſſed. To a
+                ſtranger this will create much</p>
+        </body>
+    </text>
+</TEI>

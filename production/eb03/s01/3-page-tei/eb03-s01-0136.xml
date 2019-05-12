@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:49:23Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>1. The <hi rend="italic">arquata,</hi> or curlew, frequents our ſea-coaſts and
+                marſhes in the winter time in large flocks, walking on the open ſands; feeding on
+                ſhells, frogs, crabs, and other marine infects.@@ In summer they retire to the
+                mountainous and unfrequented parts of the country, where they pair and breed. Their
+                eggs are of a pale olive colour, marked with irregular but diſtinct ſpots of pale
+                brown. Their fleſh is very rank and fiſhy, not- withſtanding an old Engliſh proverb
+                in its favour. Curlews differ much in weight and ſize; ſome weighing 37 ounces,
+                others not 22: the length of the largeſt to the tip of the tail, 25 inches; the
+                breadth, three feet five inches; the bill is ſeven inches long: the head, neck, and
+                coverts of the wings are of a pale brown; the middle of each feather, black; the
+                breaſt and belly white, marked with narrow oblong black lines: the back is white,
+                ſpotted with a few black ſtrokes: the quill feathers are black, but the inner webs
+                ſpotted with white; the tail is white, tinged with red, and beautifully barred with
+                black; the legs are long, ſtrong, and of a bluiſh grey colour; the bottoms of the
+                toes flat and broad, to enable it to walk on the ſoft mud, in ſearch of food.</p>
+            <p>2 The <hi rend="italic">phaeopus,</hi> or whimbrel, is much leſs frequent on our
+                ſhores than the curlew; but its haunts, food, and general appearance, are much the
+                ſame. It is obſerved to viſit the neighbourhood of Spalding (where it is called the
+                    <hi rend="italic">curlew knot</hi>) in vaſt flocks in April, but continues there
+                no longer than May; nor is it ſeen there any other time of the year: it ſeems at
+                that ſeaſon to be on its paſſage to its breeding place, which Mr Pennant ſuſpects to
+                be among the Highlands of Scotland. The ſpecific difference is the ſize; this never
+                exceeding the weight of 12 ounces.</p>
+            <p>3. The <hi rend="italic">rusticola,</hi> or woodcock, during ſummer inhabits the Alps
+                of Norway, Sweden, Poliſh Pruſſia, the march of Brandenburg, and the northern parts
+                of Europe: they all retire from thoſe countries the beginning of winter, as ſoon as
+                the froſts commence; which force them into milder climates, where the ground is
+                open, and adapted to their manner of feeding. They live on worms and inſects, which
+                they ſearch for with their long bills in ſoft grounds and moiſt woods. — Woodcocks
+                generally arrive here in flocks, taking advantage of the night or a miſt: they ſoon
+                ſeparate; but before they return to their native haunts, pair. They feed and fly by
+                night; beginning their flight in the evening, and return the ſame way or through the
+                ſame glades to their day retreat. They leave England the latter end of February, or
+                beginning of March; not but they have been known to continue here accidentally.
+                Theſe birds appear in Scotland firſt on the eaſtern coaſts, and make their progreſs
+                from eaſt to weſt. They do not arrive in Breadalbane, a central part of the kingdom,
+                till the beginning or middle of November; nor the coaſts of Nether Lorn, or of
+                Roſsſhire, till December or January: they are very rare in the remote Hebrides, and
+                in the Orkneys. A few ſtragglers now and then arrive there. They are equally ſcarce
+                in Caithneſs. Our ſpecies of woodcock is unknown in North America: but a kind is
+                found that has the general appearance of it; but is ſcarce half the ſize, and wants
+                the bars on the breaſt and belly. The weight of the woodcock is uſually about 12
+                ounces; the length near 14 inches; and the breadth, 26; the bill is three inches
+                long, duſky towards the end, reddiſh at the baſe; tongue ſlender, long, ſharp, and
+                hard at the point; the eyes large, and placed near the top of the head, that they
+                may not be injured when the bird thruſts its bill into the ground; from the bill to
+                the eyes is a black line; the fore-head is a reddiſh aſh colour; the crown of the
+                head, the hind part of the neck, the back, the coverts of the wings, and the
+                ſcapulars, are prettily barred with a ferruginous red, black, and grey; but on the
+                head the black predominates: the quill-feathers are duſky, indented with red marks.
+                The chin is of a pale yellow; the whole under ſide of the body is of a dirty white,
+                marked with numerous tranſverſe lines of a duſky colour. The tail conſiſts of 12
+                feathers, duſky or black on the one web, and marked with red on the other; the tips
+                above, are aſh coloured, below white; which, when ſhooting on the ground was in
+                vogue, was the ſign the fowler diſcovered the birds by. The legs and toes are livid;
+                the latter divided almoſt to their very origin, having only a very ſmall web between
+                the middle and interior toes; as thoſe of the two ſpecies of ſnipes found in
+                England.</p>
+            <p>4. The <hi rend="italic">oegocephala,</hi> or godwit, weighs 12 ounces and a half;
+                the length is 16 inches; the breadth 27; the bill is four inches long, turns up a
+                little, black at the end, the reſt a pale purple; from the bill to the eye is a
+                broad white ſtroke; the feathers of the head, neck, and back, are of a light reddiſh
+                brown, marked in the middle with a duſky ſpot; the belly and vent feathers white,
+                the tail regularly barred with black and white. The ſix firſt quill-feathers are
+                black; their interior edges of a reddiſh brown; the legs in ſome are duſky, in
+                others of a greyiſh blue, which perhaps may be owing to different ages; the exterior
+                toe is connected as far as the firſt joint of the middle toe with a ſtrong ſerrated
+                membrane. The male is diſtinguiſhed from the female by ſome black lines on the
+                breaſt and throat; which in the female are wanting. Theſe birds are taken in the
+                fens, in the ſame ſeaſon and in the ſame manner with the ruffs and reeves @@*; and
+                when fattened are eſteemed a great delicacy, and ſell for half a crown or five
+                ſhillings a piece. A ſtale of the ſame ſpecies is placed in the net. They appear in
+                ſmall flocks on our coaſts in September, and continue with us the whole winter; they
+                walk on the open ſands like the curlew, and feed on insects.</p>
+            <p>5. The <hi rend="italic">glottis, </hi>or greenſhank, is in length to the end of the
+                tail, 14 inches; to that of the toes, 20; its breadth, 25. The bill is two inches
+                and a half long; the upper mandible black, ſtraight, and very ſlender; the lower
+                reflects a little upwards; the head and upper part of the neck are aſh-coloured,
+                marked with ſmall duſky lines pointing down; over each paſſes a white line; the
+                coverts, the ſcapulars, and upper part of the back, are of a browniſh aſh-colour;
+                the quill-feathers duſky, but the inner webs ſpeckled with white; the breaſt, belly,
+                thighs, and lower part of the back, are white; the tail is white, marked with
+                undulated duſky bars: the inner coverts of the wings finely croſſed with double and
+                treble rows of a duſky colour. It is a bird of an elegant ſhape, and ſmall weight in
+                proportion to its dimenſions, weighing only ſix ounces. The legs are very long and
+                ſlender, and bare above two inches higher than the knees he exterior toe is united
+                to the middle toe, as far as the ſecond joint, by a ſtrong</p>
+            <p>@@@ [mu] Plate CCCCXLV.</p>
+            <p>@@@ [m] *See <hi rend="italic">Tringo</hi>.</p>
+        </body>
+    </text>
+</TEI>

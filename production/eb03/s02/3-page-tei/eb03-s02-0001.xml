@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:54:01Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SCOTLAND CONTD <hi rend="smallcaps">James</hi> could never forgive Henry for the loſs
+                of his brave officer. He ſent to demand ſatisfaction; but all the anſwer he received
+                was, that Barton and his crews were lawleſs pirates, and that what had been done
+                againſt them ought never to have been reſented amongſt ſovereign princes. James
+                aſſerted, that Barton was no pirate, becauſe he bore his commiſſion; and that he
+                ought to have been convicted of piratical acts before he was treated as being guilty
+                of them. Henry intimated to James, that he was willing to accommodate the affair by
+                way of negociation; but James thought himſelf affronted by the propoſal.</p>
+            <p>Various negociations took place concerning this and other affairs till the year 1513;
+                when James, though he had for ſome time before been fully reſolved upon a war with
+                England, thought it highly neceſſary that it ſhould have the ſanction of his
+                parliament, which he aſſembled for that purpoſe. The young nobility were not only
+                inſpired with the ſentiments of James, but had been won over by the French; and the
+                majority of them, as well as of the clergy (which was ſomewhat extraordinary, as
+                James was, in effect, to fight againſt the pope and his allies), were keen for a war
+                with England. The old counſellors, on the other hand, who ſaw the flouriſhing ſtate
+                of Scotland, ariſing from a long peace and their commerce, which was protected by a
+                fleet, dreaded the ruinous conſequences of the war. The queen naturally headed this
+                party; and ſhe was joined by the earl oſ Angus and the wiſeſt part of the nobility.
+                Their arguments made no impreſſion upon James, who had received a preſent from Louis
+                of four ſhips laden with wine and flour, and two ſhips of war completely equipped,
+                one of them carrying 34 pieces of braſs ordnance. He promiſed to the French queen,
+                upon his honour, that he would take the field againſt the Engliſh; and ſhe had ſent
+                him a freſh letter, gently reproaching him for want of gallantry, and for not being
+                ſo good as his word. In ſhort, the reaſonings of the wiſeſt and beſt part oſ the
+                nobility were over ruled, and the expedition againſt England was reſolved on.</p>
+            <p>The earl of Hume, who was chamberlain of Scotland, was, at this juncture, at the head
+                of 7000 or 8000 men, with whom he committed prodigious de</p>
+            <p>vaſtations on the Engliſh borders. Henry’s queen, Catharine of Spain, whom he had
+                left regent of his dominions, iſſued a commiſſion of array, directed to Sir Thomas
+                Lovel, knight of the garter, for aſſembling the militia of the counties of
+                Nottingham, Derby, Warwick, Leiceſter, Stafford, Rutland, Northampton, and Lincoln.
+                The management of the war, however, was chiefly committed to the earl of Surry, who
+                aſſembled the militia of Cheſter, Lancaſter, Northumberland, Weſtmoreland,
+                Cumberland, and the biſhopric of Durham. The earl of Hume had by this time laid
+                great part of Northumberland waſte; and his men were returning home laden with
+                booty. The earl of Surry, reſolving to intercept them, ordered Sir William Bul∙ mer
+                to form an ambuſh with 1000 archers, at a place called <hi rend="italic"
+                    >Broomhou</hi>ſ<hi rend="italic">e,</hi> which was extremely convenient for that
+                purpoſe, as the Scots were obliged to paſs that way. As the latter expected nothing
+                of that kind, Bulmer executed his orders with great ſucceſs. The archers aſſaulted
+                the Scots all at once, and made ſo good uſe of their arrows, that their main body
+                was put to flight, 500 were killed, and 400 taken, with the Lord Hume’s ſtandard,
+                which he left on the field of battle; the greateſt part of the plunder being
+                recovered at the fame time. The commonalty of Scotland termed this expedition of the
+                Lord Hume’s the <hi rend="italic">Ill road.</hi></p>
+            <p>James was more exaſperated than ever by this defeat, and continued his preparations
+                for invading England with additional vigour. His queen did all that became a wiſe
+                and prudent wife to divert him. from his fatal purpoſe. She endeavoured to work upon
+                his ſuperſtition, by recounting to him her ominous dreams and boding apprehenſions.
+                James treating theſe as mere illuſions and fictions of the brain, ſhe had recourſe
+                to other arts. While James was waiting at Linlithgow for the arrival of his army
+                from the north and the Highlands, he aſſiſted one afternoon at the veſpers in the
+                church of St Michael. Being placed in one of the canon’s ſeats, a venerable, comely
+                man oſ about 52 years of age, entered, drefſed in a long garment of an azure colour,
+                and girded round with a towel or roll of linen, his forehead bald, and his yellow
+                locks hanging down his ſhoulders; in ſhort, he was drefſed and</p>
+        </body>
+    </text>
+</TEI>

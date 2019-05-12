@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:41Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>the arches deſcribed, the bend mould muſt be ſo placed on the riſing line of the
+                floor, that the back of it may touch the back of the under breadth ſweep. But the
+                general practice is, to deſcribe all the floor ſweeps with compaſſes, as well as the
+                under breadth ſweeps, and to reconcile theſe two by a mould wſhich is an arch of a
+                circle, its radius being the same with that of the reconciling ſweep by which the
+                midſhip frame was formed. It is uſual for all the floor ſweeps to be of the same
+                radius ; and in order to find their centres a line is formed on the floor plan for
+                the half breadth of the floor. As this line cannot be deſcribed on the ſurface of a
+                ſhip, it is therefore only an imaginary line. Instead of it ſome make uſe of a
+                diagonal in the body plane to limit the half breadth of the floor upon every rising
+                line, and to erect perpendiculars at the ſeveral interſections, in the lame manner
+                as for the midſhip frame.</p>
+            <p>After the ſweeps are all deſcribed, recpurſe is had to moulds, or some such
+                contrivance, to form the hollow of the timbers, much in the same manner as in whole
+                moulding ; and when all the timbers are formed, they muſt be proved by ribband and
+                water lines, and altered, it necessary, to make fair curves.</p>
+            <p>The preceding methods of deſcribing the ſeveral planes or ſections of a ſhip being
+                well underſtood, it will be a very eaſy matter to conſtruct draughts for any
+                propoſed ſhip : and as the above planes were deſcribed ſeparately and independent of
+                each other, it is therefore of little conſequence which is firſt deſcribed. In the
+                following application, however, the plane oſ elevation will be first drawn, then
+                part of the floor plan, and lastly the body plan : and in connecting theſe plans the
+                most rational and simple methods will be employed.</p>
+            <table>
+                <row>
+                    <cell cols="3">
+                        <hi rend="smallcaps">Chap.</hi> IV. <hi rend="italic">Application
+                            of the foregoing Rules to the Construction of Ships.</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell cols="3"><hi rend="smallcaps">Sect.</hi> I. <hi rend="italic">To construct
+                            a Ship intended to carry a considerable burden in proportion to her
+                            general Dimensions, and to draw little Water.</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <hi rend="smallcaps">Dimensions.</hi>
+                    </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <hi rend="italic">F.</hi>
+                    </cell>
+                    <cell>
+                        <hi rend="italic">In.</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell>Length between the wing tranſom and a perpendicular from the rabbet of the
+                        ſtem at the height of breadth line</cell>
+                    <cell>80</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Main half breadth moulded</cell>
+                    <cell>11</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Half breadth at the height of breadth line at the ſtern</cell>
+                    <cell>7</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Top-timber half breadth></cell>
+                    <cell>10</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height of the ſtem above the upper edge of the keel</cell>
+                    <cell>17</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the breadth line at the ſtem</cell>
+                    <cell>13</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height of the breadth line at the ſtern</cell>
+                    <cell>12</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>Upper height of breadth at the main frame</cell>
+                    <cell>7</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Lower height of breadth</cell>
+                    <cell>5</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell>Height of middle line of wales at the ſtern </cell>
+                    <cell>10</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of middle line of wales at the main frame </cell>
+                    <cell>6</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell>Height of middle line of wales at the ſtem.</cell>
+                    <cell>10</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Breadth of the wales</cell>
+                    <cell>I</cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>Height of top-timber at midſhips</cell>
+                    <cell>14</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>&#8212;&#8212;at ſtern</cell>
+                    <cell>18</cell>
+                    <cell>0</cell>
+                </row>
+            </table>
+            <p>Draw the line <hi rend="italic">ab</hi> (fig. 33.) equal to 80 feet, from a
+                convenient scale : divide it into as many equal parts plus one as there are to be
+                frames, which let be 16, and through each point of division draw perpendiculars.
+                Make <hi rend="italic">be</hi> equal to 17 feet, the perpendicular height of the top
+                of the ſtem above the upper edge of the keel, and deſcribe the ſtem by Prob. II.
+                Make <hi rend="italic">a d</hi> equal to 10<hi rend="superscript">1</hi>/<hi
+                    rend="subscript">2 </hi>feet, the height oſ the middle line oſ the wales at the
+                ſtern, and <hi rend="italic">a e</hi> equal to the propoſed: rake of the post, which
+                may be about 2 feet ; join <hi rend="italic">de ;</hi> and draw the line f <hi
+                    rend="italic">g</hi> repreſenting the aft-side of the post. Describe the counter
+                and ſtern by Problem VI. and VII. Make ⊕<hi rend="italic">h</hi> equal to 14 ſeet,
+                the top-timber height at the main frame, and <hi rend="italic">i k</hi> equal to 18
+                ſeet, the height at the ſtern ; and through the three points <hi rend="italic">c, h,
+                    k,</hi> deſcribe the curve limiting the top-timbers by Problem I. Make <hi
+                    rend="italic">bd</hi> equal to 10 feet, the height of the middle line of the
+                wales at the item, and ⊕H equal to 6 feet 10 inches, the height at the main frame ;
+                and the curve dHd being deſcribed will repreſent the middle line of the wales. At
+                the diſtance of 10½ inches on each side of this line draw two curves parallel
+                thereto, and the wales will be completed in this plan. Make <hi rend="italic">b
+                    l</hi> equal to 13<hi rend="superscript">1</hi>/<hi rend="subscript">2
+                </hi>feet, the height of the breadth line at the ſtem ; <hi rend="italic">a m</hi>
+                equal to 12 <hi rend="superscript">1</hi>/4 feet, the height at the ſtern ; and I⊕
+                K⊕ equal to 5 feet 10 inches and 7 feet 4 inches reſpectively ; and draw the upper
+                breadth line lKm and lower breadth line lI <hi rend="italic">m.</hi> From the line
+                    <hi rend="italic">a b</hi> lay downwards the breadth of the keel, which may he
+                about one foot, and draw the line L <hi rend="italic">t</hi> parallel to <hi
+                    rend="italic">a b.</hi></p>
+            <p>Let the line L <hi rend="italic">r,</hi> which is the lower edge of the keel,
+                repreſent alſo the middle line of the floor plan. Produce all the perpendiculars
+                repreſenting the frames : make ⊗M (fig. 31.) equal to 11 feet, the main half breadth
+                at midſhips; through <hi rend="italic">m</hi> (fig. 30.) draw the line m N
+                perpendicular to <hi rend="italic">a b,</hi> and make <hi rend="italic">p</hi> N
+                equal to 74 ſeet, and draw the main half breadth line NMr by Problem IV. Deſcribe
+                also the top-timber half breadth line PO <hi rend="italic">r,</hi> ⊕O being equal to
+                10 ½ ſeet, and form the projecting part of the ſtem <hi rend="italic">qrst.</hi></p>
+            <p>In order that the top-timber line, may look fair on the bow, and to prevent the
+                foremoſt top-timbers from being too ſhort, it is neceſſary to lift or raiſe the
+                ſheer from the round of the bow to the ſtem. For this puroſe the following method is
+                uſually employed : Produce the circular ſheer before the ſtem in the plane of
+                elevation at pleaſure ; then place a batton to the round of the bow in the half
+                breadth plan, and mark on it the ſtations of the ſquare timbers and the side of the
+                ſtem ; apply the batton to the ſheer plan, and place it to the ſheer of the ſhip,
+                keeping the ſtations of the timbers on the batton well with thoſe on the ſheer plan
+                for ſeveral timbers before dead-flat, where they will not alter ; then mark the
+                other timbers and the ſtem on the ſheer line produced ; through theſe points draw
+                lines parallel, to the keel, to interſect their correſponding timbers and the ſtem.
+                in the ſheer plan ; then a curve deſcribed theſe last points will be the ſheer of
+                the ſhip round the bow, lifted as required : and the heights of the timbers thus
+                lengthened are to be transferred to the body- plan as before.</p>
+            <p>Draw the line AB (fig. 32.) equal to 22 feet, the whole breadth ; from the middle of
+                which draw the perpendicular CD : make CE equal to half the thickneſs.</p>
+
+        </body>
+    </text>
+</TEI>

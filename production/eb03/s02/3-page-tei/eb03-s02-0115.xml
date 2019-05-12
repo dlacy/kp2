@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:56:48Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>adding it to the other, which he found ready compoſed to his hand, he made it a
+                complete hiſtory of the Jewiſh reſtoration.</p>
+            <p>This book 13 written in Chaldee from chap. iv. 8. to chap. vii. 27. As this part of
+                the work chiefly contains letters, converſations, and decrees expreſſed in that
+                language, the fidelity of the hiſtorian has probably induced him to take down the
+                very words which were uſed. The people, too, had been accuſtomed to the Chaldee
+                during the captivity, and probably underſtood it better than Hebrew; for it appears
+                from Nehemiah’s account, chap. viii. 2, 8. that all could not underſtand the
+                law.</p>
+            <p>The book of Nehemiah, as has been already obſerved, bears, in the Latin bibles, the
+                title of the <hi rend="italic">ſecond book</hi> of <hi rend="italic">Eſdras;</hi>
+                the ancient canons likewiſe give it the ſame name, becauſe, perhaps, it was
+                conſidered as a ſequel to the book of Ezra. In the Hebrew bibles it has the name of
+                    <hi rend="italic">Nehemiah</hi> prefixed to it; which name is retained in the
+                Engliſh bible. But though that chief is by the writer of the ſecond book of
+                Maccabees affirmed to have been the author of it, there cannot, we think, be a doubt
+                but that either it was written at a later period, or had additions made to it after
+                Nehemiah’s death.</p>
+            <p>With the book of Nehemiah the hiſtory of the Old Teſtament concludes. This is
+                ſuppoſed to have taken place about A. M. 3574- A. C. 434. But Prideaux with more
+                probablity has fixed it at A. M. 3595. See <hi rend="smallcaps">Nehemiah.</hi></p>
+            <p>It is uncertain who was the author of the book of Eſther. <hi rend="italic"
+                    >Clement</hi> of Alexandria, and many commentators, have aſcribed it to
+                Mordecai; and the book itſelf ſeems to favour this opinion; for we are told in chap.
+                ix. 20. that “Mordecai wrote theſe things.” Others have ſuppoſed that Ezra was the
+                author; but the more probable opinion of the Talmudiſts is, that the great ſynagogue
+                (ſee <hi rend="smallcaps">Synagogue),</hi> to perpetuate the memory of the
+                deliverance of the Jews from the conſpiracy of Hainan, and to account for the origin
+                of the feaſt of Purim, ordered this book to be compoled, very likely of materials
+                left by Mordecai, and afterwards approved and admitted it into the ſacred canon. The
+                time when the events which it relates happened, is ſuppoſed by ſome to have been in
+                the reign of Artaxerxes Longimanus, and by others in that of Darius the ſon of
+                Hyſtaſpes, called by the ſacred penman <hi rend="italic">Ahaſuerus.</hi></p>
+            <p>Concerning the author of the book of Job there are many different opinions. Some have
+                ſuppoſed that Job himſelf wrote it in <hi rend="italic">Syriac</hi> or <hi
+                    rend="italic">Arabic,</hi> and that it was afterwards tranſlated by Moſes.
+                Others have thought that El<hi rend="italic">ihu</hi> wrote it; and by others it is
+                aſcribed to Moſes, to Solomon, to Iſaiah, and to Ezra. To give even an abridgment of
+                the arguments brought in ſupport of theſe various opinions would fill a volume, and
+                at laſt leave the reader in his preſent uncertainty. He who has leiſure and
+                inclination to weigh them may ſtudy the ſecond ſection of the ſixth book of
+                Warburton’s Divine Legation of Moſes, together with the ſeveral works there referred
+                to; but the queſtion at iſſue is of very little importance to us. The book of job,
+                by whomſoever it was written, and whether it be a real hiſtory, or a dramatical poem
+                founded on hiſtory, has been always eſteemed a portion of canonical ſcripture, and
+                is one of the moſt ſublime compoſitions in the ſacred volume.</p>
+            <p>The book of Job appears to ſtand ſingle and unparalleled in the ſacred volume. It
+                ſeems to have little connection with the other writings of the Hebrews, and no
+                relation whatever to the affairs of the Iſraelites. The ſcene is laid in Iduaea
+                @@(H); the hiſtory of an inhabitant of that country is the baſis of the
+                narrative;</p>
+            <p><hi rend="smallcaps">@@@(h</hi>) “The information which the learned have endeavoured
+                to collect from the writings and geography of the Greeks concerning the country and
+                reſidence of Job and his friends, appears to me (lays Dr Lowth) ſo very
+                inconcluſive, that I am inclined to take a quite different method for the ſolution
+                of this queſtion, by applying ſolely to the Sacred Writings: the hints with which
+                they have furniſhed me towards the illuſtration of this ſubject, I ſhall explain as
+                briefly as poſſible.</p>
+            <p>“The land of <hi rend="italic">Uz,</hi> or <hi rend="italic">Gnutz,</hi> is evidently
+                    <hi rend="italic">Idumae,</hi> as appears from Lam. iv. 21. <hi rend="italic"
+                    >Uz</hi> was the grandſon of Seir the Horite, Gen. xxxvi. 20, 21, 28. 1. Chron.
+                i. 38, 42. Seir inhabited that mountainous tract which was called by his name
+                antecedent to the time of Abraham; but his poſterity being expelled, it was occupied
+                by the Idumaeans: Gen. xiv. 6. Deut. ii. 12. Two other men are mentioned of the name
+                    <hi rend="italic">Uz;</hi> one the grandſon of Shem, the other the ſon of
+                Nachυr, the brother of Abraham; but whether any diſtrict was called after their name
+                is not clear. Idumæa is a part of Arabia Petræa, ſituated on the ſouthern extremity
+                of the tribe of Judah: Numb, xxxiv. 3. Joſh. xv. 1, 21. The land of Uz therefore
+                appears to have been between Egypt and Philiſtia, Jer. xxv. 20. where the order of
+                the places ſeems to have been accurately obſerved in reviewing the different nations
+                from Egypt to Babylon; and the ſame people ſeem again to be deſcribed in exactly the
+                ſame ſituations, Jer. xlvi—1.</p>
+            <p><hi rend="italic">“Children of the East,</hi> or <hi rend="italic">Eastern
+                    people,</hi> ſeems to have been the general appellation for that mingled race of
+                people (as they are called, Jer. xxv. 20.) who inhabited between Egypt and the
+                Euphrates, bordering upon judea from the ſouth to the call; the Idumaeans, the
+                Amalekites, the Midianites, the Moabites, the Ammonites. See Judges vi. 3. and Iſa.
+                xi. 14. Of theſe the Idumaeans and Amalekites certainly poſſeſſed the ſouthern
+                parts. See Numb. xxxiv. 3, xiii. 29. 1 Sam. xxvii. 8, 10. This appears to be the
+                true ſtate of the cale: The whole region between Egypt and Euphrates was called the
+                Eaſt, at firſt in reſpect to Egypt (where the learned Joſ. Mede thinks the
+                Iſraelites acquired this mode ofſpeaking. Mede’s <hi rend="italic">Works,</hi> p.
+                580.), and afterwards abſolutely and without any relation to ſituation or
+                circumſtances. Abraham is ſaid to have ſent the ſons of his concubines, Hagar and
+                Keturah, “eaſtward, to the country which is commonly called the Eaſt." Gen. xxv. 6.
+                where the name of the region ſeems to have been derived from the ſame ſituation.
+                Solomon is reported “to have excelled in wiſdom all the Eaſtern people, and all
+                Egypt,” 1 Kings iv. 30.; that is, all the neighbouring people on that quarter: for
+                    <pb n="116"></pb>there were people beyond the boundaries of Egypt, and
+                bordering on the ſouth of Judea, who were famous for wiſdom, namely, the Idumaeans
+                (ſee Jer. xlix. 7. Ob, 8.), to whom we may well believe this paſſage might have ſome
+                relation. Thus Jehovah addreſſes the Babylonians; “Ariſe, aſcend unto Kedar, and lay
+                waſte the children of the Eaſt,” (Jer. xlix. 28). notwithſtanding theſe were really
+                ſituated to the weſt of Babylon. Although Job, therefore, be accounted one of the
+                orientals, it by no means follows that his reſidence muſt be in Arabia Deſerta.</p>
+            <p><hi rend="italic">“Eliphaz</hi> the <hi rend="italic">Temanite</hi> was the ſon of
+                Eſau, and Teman the ſon of Eliphaz, (Gen. xxxvi. 10, 11.), The Eliphaz of Job was
+                without a doubt of this race. Teman is certainly a city of Idumaea, (Jer. xlix, 7,
+                20. Ezek. XXV. 13. Amos i. 11, 12. Ob. 8, 9.).</p>
+            <p><hi rend="italic">“Bildad the Shuhite: Shuah</hi> was one of the ſons of Abraham by
+                Keturah, whoſe poſterity were numbered among the people of the Eaſt, and his
+                ſituation was probably contiguous to that of his brother Midian, and of his nephews
+                Shebah and Dedan, (ſee Gen. xxv. 2, and 3.) Dedan is a city of Idumaea (Jer. xlix.
+                8.), and ſeems to have been ſituated on the eaſtern side, as Teman was on the west,
+                (Ezek. xxv. 13.). From Sheba originated the Sabaeans in the paſſage from Arabia
+                Felix to the Red Sea: Sheba is united to Midian (Iſa. lx. 6.); it is in the ſame
+                region however with Midian, and not far from Mount Horeb, (Exod. ii. 15. iii.
+                1.)</p>
+            <p><hi rend="italic">“Zophar</hi> the <hi rend="italic">Naamathite:</hi> among the
+                cities which by lot fell to the tribe of Judah, in the neighbourhood of Idumaea,
+                Naama is enumerated, (Joſh. xv. 21, 41.) Nor does this name elſewhere occur; this
+                probably was the country of Zophar.</p>
+            <p><hi rend="italic">“Elihu</hi> the Buz<hi rend="italic">ite:</hi> Buz occurs but once
+                as the name of a place or country (Jer. xxv. 23.), where it is mentioned along with
+                Dedan and Thema: Dedan, as was juſt now demonſtrated, is a city of Idumæa; Thema
+                belonged to the children of Iſhmael, who are ſaid to have inhabited from Havilah,
+                even to Shur, which is in the diſtrict of Egypt, (Gen. xxv. 15. 18.) Saul, however,
+                is ſaid to have ſmitten the Amalekites from Havilah even to Shur, which is in the
+                diſtrict of Egypt, (I Sam. xv. 7.) Havilah cannot, therefore, be very far from the
+                boundaries of the Amalekites; but the Amalekites never exceeded the boundaries of
+                Arabia Petraea. (See Reland Palaestin. lib. i. c. xiv.) Thema, therefore, lay
+                ſomewhere between Havilah and the deſert of Shur, to the ſouthward of Judea. Thema
+                is alſo mentioned in connection with Sheba, (Job vi. 19.)</p>
+            <p>“Upon a fair review of theſe facts, I think we may venture to conclude, ſtill with
+                that modeſty which ſuch a queſtion demands, that Job was an inhabitant of Arabia
+                Petraea, as well as his friends, or at leaſt of that neighbourhood. To this ſolution
+                one objection may be raided: it may be aſked, How the Chaldeans, who lived on the
+                borders of the Euphrates, could make depredations on the camels of Job, who lived in
+                Idumaea at ſo great a diſtance? This too is thought a ſufficient cauſe for aſſigning
+                Job a ſituation in Arabia Deſerta, and not far from the Euphrates. But what ſhould
+                prevent the Chaldeans, as well as the Sabaeans, a people addicted to rapine, and
+                roving about at immenſe diſtances for the ſake of plunder, from wandering through
+                theſe defenceleſs regions, which were divided into tribes and families rather than
+                into nations, and pervading from Euphrates even to Egypt? Further, I would aſk on
+                the other hand, whether it be probable that all the friends of Job who lived in
+                Idumaea and its neighbourhood, ſhould inſtantly be informed of all that could happen
+                to Job in the deſert of Arabia and on the confines of Chaldea, and immediately
+                repair thither ? Or whether it be reaſonable to think, that, ſome of them being
+                inhabitants of Arabia Deſerta, it ſhould be concerted among them to meet at the
+                reſidence of Job; ſince it is evident, that Eliphaz lived at Theman, in the extreme
+                parts of Idumaea? With reſpect to the <hi rend="italic">Aisitas </hi>of Ptolemy (for
+                ſo it is written, and not <hi rend="italic">Ausitas)</hi> it has no agreement, not
+                ſo much as in a ſingle letter with the Hebrew Gnutz The LXX indeed call that country
+                by the name <hi rend="italic">Ausitida,</hi> but they deſcribe it as ſituated in
+                Idumaea; and they account Job himſelf an Idumaean, and a deſcendant of Eſau.” See
+                the Appendix of the L<hi rend="smallcaps">XX</hi> to the book of Job, and <hi
+                    rend="italic">Hyde Not.</hi> in <hi rend="italic">Peritzol.</hi> chap. xi. <hi
+                    rend="italic">Lowth on Hebrew Poetry.</hi></p>
+        </body>
+    </text>
+</TEI>

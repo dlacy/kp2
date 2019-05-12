@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:22Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>neceſſary for bringing all things again into equilibrium. We refer the curious reader
+                to the ingenious theory of the Abbé Boſcovſeh for an excellent illuſtration of this
+                ſubject ( <hi rend="italic">Theor. Phil. Nat.</hi> de Solutione Chemica).</p>
+            <p>This queſtion is no leſs important to the man of buſineſs. Till we know the
+                condenſation of thoſe metals by mixture, we cannot tell the quantity of alloy in
+                gold and ſilver by means of their ſpecific gravity ; nor can we tell the quantity of
+                pure alcohol in any ſpirituous liquor, or that of the valuable ſalt in any ſolution
+                of it. For want of this knowledge, the dealers in gold and ſilver are obliged to
+                have recourſe to the tedious and difficult teſt of the aſſay, which cannot be made
+                in all places or by all men. It is therefore much to be wiſhed, that ſome persons
+                would inſtitute a ſeries of experiments in the moſt intereſting caſes : for it muſt
+                be obſerved, that this change of denſity is not always a ſmall matter ; it is
+                ſometimes very conſiderable and paradoxical. A remarkable inſtance may be given of
+                it in the mixture of braſs and tin for bells, great guns, optical speculums, &amp;c.
+                The ſpecific gravity of caſt braſs is nearly 8,oc6, and that of tin is nearly 7,363.
+                If two parts of braſs be mixed with one of tin, the ſpecific gravity is 8,917 ;
+                whereas, if each had retained its former bulk, the ſpecific gravity would have been
+                only 7,7.93</p>
+            <p>2×8,006+7,363 </p>
+            <p><hi rend="italic">= 3 A</hi> mixture of equal parts</p>
+            <p>ſhould have the ſpecific gravity 7,684 ; but it is 8,441. A mixture of two parts tin
+                with one part braſs, inſtead of being 7,577, is 8,027.</p>
+            <p>In all theſe caſes there is a great increaſe of ſpecific gravity, and conſequently a
+                great condenſation of parts or contraction of bulk. The firſt mixture of eight cubic
+                inches of braſs, for inſtance, with four cubic inches of tin, does not produce 12
+                cubic inches of bell-metal, but only 10<hi rend="superscript">1</hi>/<hi
+                    rend="subscript">2 </hi>nearly, having ſhrunk <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">5</hi>. It would appear that the diſtances of the braſs
+                particles are moſt affected, or perhaps it is the braſs that receives the tin into
+                its pores ; for we find that the condenſations in theſe mixtures are nearly
+                proportional to the quantities of the braſs in the mixtures. It is remarkable that
+                this mixture with the lighteſt of all metals has made a compoſition more heavy and
+                denſe than braſs can be made by any hammering.</p>
+            <p>The moſt remarkable inſtance occurs in mixing iron with platina. If 10 cubic inches
+                of iron are mixed with of platina, the bulk of the compound is only 9<hi
+                    rend="superscript">3</hi>/<hi rend="subscript">4</hi> inches. The iron therefore
+                has not ſimply received the platina into its pores : its own particles are brought
+                nearer together. There are ſimilar reſults in the ſolution of turbith mineral, and
+                of ſome other ſalts, in water. The water, inſtead of riſing in the neck of the
+                veſſel, when a ſmall quantity of the ſalt has been added to it, ſinks conſiderably,
+                and the two ingredients occupy leſs room than the water did alone.</p>
+            <p>The ſame thing happens in the mixture of water with other fluids and different fluids
+                with each other : But we are not able to trace any general rule that is obſerved
+                with abſolute preciſion. In moſt caſes of fluids the greateſt condenſation happens
+                when the bulks of the ingredients are nearly equal. Thus, in the mixture of alcohol
+                and water, we have the greateſt condensation when 16<hi rend="superscript"
+                    >1</hi>/<hi rend="subscript">2 </hi>ounces of alcohol are mixed with 20 ounces
+                of water, and the condenſation is about <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">30</hi> of the whole bulk of the ingredients. It is extremely
+                va</p>
+            <p>rious in different ſubſtances, and no claſſification of them can be made in this
+                reſpect,</p>
+            <p>A diſsertation has been publiſhed on this ſubject by Dr Hahn of Vienna, intitled <hi
+                    rend="italic">De Efficacia Mixtionis in mutandis Corporum Voluminibus,</hi> in
+                which all the remarkable inſtances of the variation of denſity have been collected.
+                All that we can do (as we have no directing principle) is to record ſuch inſtances
+                as are of chief importance, being articles of commerce.</p>
+            <p>The firſt that occurs to us is the mixtures oſ alcohol and water in the compoſition
+                of ſpirituous liquors. This has been conſidered by many with great care. The moſt
+                ſcrupulous examination of this, or perhaps of any mixture, has been lately made by
+                Dr Blagden (now Sir Charles Blagden) of the Royal Society, on the requiſition of the
+                Board of Exciſe. He has publiſhed an account of the examination in the Philoſophical
+                Tranſactions of London in 1791 and 1792. We ſhall give an account of it under the
+                article <hi rend="italic smallcaps">Spirituous</hi><hi rend="italic"> Liquors ;</hi>
+                and at preſent only ſelect one column, in order to ſhow the condenſation. The
+                alcohol was almoſt the ſtrongeſt that can be produced, and its ſpecific gravity,
+                when of the temperature 60⁰, was 0,825. The whole mixtures were of the ſame
+                temperature.</p>
+            <p>Column I. contains the pounds, ounces, or other meaſures by weight, of alcohol in the
+                mixture. Column 2. contains the pounds or ounces of water. Column 3. is the ſum of
+                the bulks of the ingredients, the bulk of a pound or ounce of water being accounted
+                1. Column 4. is the obſerved ſpecific gravity of the mixture, taken from Dr
+                Blagden's diſſertation. Column 5. is the ſpecific gravity which would have been
+                obſerved if the ingredients had each retained its own ſpecific gravity. This we
+                calculated by dividing the ſum oſ the two numbers of the firſt and ſecond columns by
+                the correſponding number of the third. Column 6. is the difference of column 4. and
+                column 5. and exhibits the condenſation.</p>
+            <table>
+                <row>
+                    <cell>A.</cell>
+                    <cell>W.</cell>
+                    <cell>Volume.</cell>
+                    <cell>Sp. Grav<hi rend="superscript">y</hi> obſerved.</cell>
+                    <cell>Sp. Grav<hi rend="superscript">y</hi> calculated.</cell>
+                    <cell>Condenſation.</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>0</cell>
+                    <cell>24,2424</cell>
+                    <cell>0,8250</cell>
+                    <cell>0,8250</cell>
+                    <cell>00</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>1</cell>
+                    <cell>25,2424</cell>
+                    <cell>0,8360</cell>
+                    <cell>0,8320</cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>2</cell>
+                    <cell>26,2424</cell>
+                    <cell>0,8457</cell>
+                    <cell>0,8383</cell>
+                    <cell>74</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>3</cell>
+                    <cell>27,2424</cell>
+                    <cell>0,8543</cell>
+                    <cell>0,8443</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>4</cell>
+                    <cell>28,2424</cell>
+                    <cell>0,8621</cell>
+                    <cell>0,8498</cell>
+                    <cell>123</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>5</cell>
+                    <cell>29,2424</cell>
+                    <cell>0,8692</cell>
+                    <cell>0,8549</cell>
+                    <cell>143</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>6</cell>
+                    <cell>30,2424</cell>
+                    <cell>0,8757</cell>
+                    <cell>0,8597</cell>
+                    <cell>160</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>7</cell>
+                    <cell>31,2424</cell>
+                    <cell>0,8,817</cell>
+                    <cell>0,8642</cell>
+                    <cell>175</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>8</cell>
+                    <cell>32,2424</cell>
+                    <cell>0,8872</cell>
+                    <cell>0,8684</cell>
+                    <cell>188</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>9</cell>
+                    <cell>33,2424</cell>
+                    <cell>0,8923</cell>
+                    <cell>0,8724</cell>
+                    <cell>199</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>10</cell>
+                    <cell>34,2424</cell>
+                    <cell>0,8971</cell>
+                    <cell>0,8761</cell>
+                    <cell>216</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>I I</cell>
+                    <cell>35,2424</cell>
+                    <cell>0,9014</cell>
+                    <cell>0,8796</cell>
+                    <cell>218</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>I 2</cell>
+                    <cell>36,2424</cell>
+                    <cell>0,9055</cell>
+                    <cell>0,8829</cell>
+                    <cell>226</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>13</cell>
+                    <cell>37,2424</cell>
+                    <cell>0,9093</cell>
+                    <cell>0,8860</cell>
+                    <cell>233</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>14</cell>
+                    <cell>38,2424</cell>
+                    <cell>0,9129</cell>
+                    <cell>0,8891</cell>
+                    <cell>238</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>15</cell>
+                    <cell>39,2424</cell>
+                    <cell>0,9162</cell>
+                    <cell>0,8919</cell>
+                    <cell>243</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>16</cell>
+                    <cell>40,2424</cell>
+                    <cell>0,9193</cell>
+                    <cell>0,8946</cell>
+                    <cell>247</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>17</cell>
+                    <cell>41,2424</cell>
+                    <cell>0,9223</cell>
+                    <cell>0,8971</cell>
+                    <cell>252</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>18</cell>
+                    <cell>42,2424</cell>
+                    <cell>0,9250</cell>
+                    <cell>c,8996</cell>
+                    <cell>254</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>19</cell>
+                    <cell>43,2424</cell>
+                    <cell>0,9276</cell>
+                    <cell>0,9019</cell>
+                    <cell>257</cell>
+                </row>
+                <row>
+                    <cell>20</cell>
+                    <cell>20</cell>
+                    <cell>44,2424</cell>
+                    <cell>0,9300</cell>
+                    <cell>0,9041</cell>
+                    <cell>259</cell>
+                </row>
+                <row>
+                    <cell>19</cell>
+                    <cell>20</cell>
+                    <cell>43,0303</cell>
+                    <cell>0,9325</cell>
+                    <cell>0,9063</cell>
+                    <cell>262</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

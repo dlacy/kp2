@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:12Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell>Temperature of Water.</cell>
+                    <cell>Bulk of Water.</cell>
+                    <cell>Specific Gravity.</cell>
+                </row>
+                <row>
+                    <cell>30</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>99910</cell>
+                    <cell>2,00090</cell>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>99070</cell>
+                    <cell>1,00094</cell>
+                </row>
+                <row>
+                    <cell>45</cell>
+                    <cell>99914</cell>
+                    <cell>1,00086</cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>99932</cell>
+                    <cell>1,00068</cell>
+                </row>
+                <row>
+                    <cell>55</cell>
+                    <cell>99962</cell>
+                    <cell>1,00038</cell>
+                </row>
+                <row>
+                    <cell>60</cell>
+                    <cell>100000</cell>
+                    <cell>1,00000</cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell>100050</cell>
+                    <cell>0,99950</cell>
+                </row>
+                <row>
+                    <cell>70</cell>
+                    <cell>100106</cell>
+                    <cell>0,99894</cell>
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell>100171</cell>
+                    <cell>0,99830</cell>
+                </row>
+                <row>
+                    <cell>80</cell>
+                    <cell>100242</cell>
+                    <cell>0,99759</cell>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>100320</cell>
+                    <cell>0,99681</cell>
+                </row>
+                <row>
+                    <cell>90</cell>
+                    <cell>100404</cell>
+                    <cell>0,99598</cell>
+                </row>
+                <row>
+                    <cell>95</cell>
+                    <cell>100501</cell>
+                    <cell>0,99502</cell>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>1006θ2</cell>
+                    <cell>0,99402</cell>
+                </row>
+            </table>
+            <p>Thoſe gentlemen obſerved the expanſion of water to be very anomalous between 32⁰ and
+                45⁰. This is diſtinctly ſeen during the gradual cooling of water to the point of
+                freezing. It contracts for a while, and then ſuddenly expands. But we ſeldom have
+                occaſion to meaſure ſpecific gravities in ſuch temperature.</p>
+            <p>The reader is now sufficiently acquainted with the principles of this hydrostatical
+                method of determining the ſpecific gravity of bodies, and can judge of the propriety
+                of the forms which may be propoſed for the experiment.</p>
+            <p>The ſpecific gravity of a fluid may be determined either by filling with it a veſſel
+                with a narrow neck, or by weighing a ſolid body that is immerſed in it. It is hard
+                to ſay which is the beſt way. The laſt is not ſubject to any error in filling,
+                becauſe we may ſuſpend the ſolid by a fine wire, which will not diſplace any
+                ſenſible quantity of the fluid ; and if the ſolid is but a little heavier than the
+                fluid, the balance being loaded only with the exceſs, will be very ſenſible to the
+                ſmalleſt want of equilibrium. But this advantage is perhaps compenſated by an
+                obstruction to the motion of the ſolid up or down in the fluid, ariſing from
+                viscidity. When the weight in the oppoſite ſcale is yet too ſmall, we ſlowly add
+                more, and at laſt grain by grain, which gradually brings the beam to the level. When
+                it is exactly level, the weight in the ſcale is ſomewhat too great; for it not only
+                balances the preponderance of the ſolid, but alſo this viſcidity of the fluid. But
+                we may get rid of this error. Add a ſmall quantity more ; this will bring the beam
+                over to the other side. Now put as much into the ſcale on the ſame side with the
+                ſolid ; this will not reſtore the beam to its level. We muſt add more till this be
+                accompliſhed ; and this addition is the meaſure of the viſeidity of the fluid, and
+                muſt be ſubtracted from the weight that was in the other ſcale when the beam came
+                first to a level. This effect of viſcidity is not inſenſible, with nice apparatus,
+                even in the pureſt water, and in many fluids it is very conſiderable—and, what is
+                worſe, it is very changeable. It is greatly diminiſhed by heat ; and this is an
+                additional reaſon for making thoſe trials in pretty warm temperatures. But for
+                fluids of which the viſcidity is conſiderable, this method is by no means proper ;
+                and we muſt take the</p>
+            <p>other, and weigh them in a veſſel with a narrow neck. Mercury muſt alſo be treated in
+                this way, becauſe we have no ſolid that will sink in it but gold and platina.</p>
+            <p>It is not ſo eaſy as one would imagine to fill a veſſel preciſely to the ſame degree
+                upon every trial. But if we do not operate on too ſmall quantities, the unavoidable
+                error may be made altogether inſignificant, by having the neck of the veſſel very
+                ſmall. If the veſſel hold a pound of water, and the neck do not exceed a quarter of
+                an inch (and it will not greatly retard the operation to have it half this ſize),
+                the examinator muſt be very careleſs indeed to err one part in two thouſand ; and
+                this is perhaps as near as we can come with a balance. We muſt always recollect that
+                the capacity of the veſſel changes by heat, and we muſt know this variation, and
+                take it into the account. But it is affectation to regard (as Mr Homberg would make
+                us believe that he did) the diſtenſion of the veſſel by the preſſure of the fluid.
+                His experiments of this kind have by no means the conſiſtency with each other that
+                ſhould convince us that he did not commit much greater errors than what aroſe from
+                diſtenſion.</p>
+            <p>In examining either ſolids or fluids, we muſt be careful to free their ſurface, or
+                that of the veſſel in which the fluid is to be weighed, from air, which frequently
+                adheres to it in a peculiar manner, and, by forming a bubble, increaſes the apparent
+                bulk of the ſolid, or diminiſhes the capacity of the veſſel. The greateſt part of
+                what appears on thoſe occaſions ſeems to have exiſted in the fluid in a ſtate of
+                chemical union, and to be ſet at liberty by the ſuperior attraction of the fluid for
+                the contiguous ſolid body. Theſe air bubbles muſt be carefully bruſhed off by hand.
+                All greasy matters muſt be cleared off for the ſame reaſon : they prevent the fluid
+                from coming into contact.</p>
+            <p>We muſt be no leſs careful that no water is imbibed by the ſolid, which would
+                increaſe its weight without increaſing its bulk. In ſome caſes, however, a very long
+                maceration and imbibition is neceſſary. Thus, in examining the ſpecific gravity of
+                the fibrous part of vegetables, we ſhould err exceedingly if we imagined it as ſmall
+                as appears at firſt. We believe that in moſt plants it is at leaſt as great as
+                water, for after long maceration they sink in it.</p>
+            <p>It is almoſt needleſs to ſay that the niceſt and moſt ſenſible balances are neceſſary
+                for this examination. Balances are even conſtructed on purpoſe, and fitted with
+                ſeveral pieces of apparatus, which make the examination eaſy and neat. We have
+                deſcribed (ſee <hi rend="smallcaps">Balance) </hi>Mr Graveſande’s as one of the moſt
+                convenient of any. His contrivance for obſerving the fractions of a grain is
+                extremely ingenious and expeditious, eſpecially for detecting the effect of
+                viſcidity.</p>
+            <p>The hydrometer, or aecometer, is another inſtrument for aſcertaining the ſpecific
+                gravity of fluids. This very pretty inſtrument is the invention of a lady, as
+                eminent for intellectual accompliſhments as ſhe was admired for her beauty. Hypatia,
+                the learned daughter of the celebrated mathematician Theon of Alexandria, became for
+                eminent for her mathematical knowledge, that ſhe was made public profeſſor of the
+                ſcience in the firſt ſchool in the world. She wrote a commentary on the works of
+                Apollonius and of Diophantus, and compoſed Aſtronomical Tables ; all of which are
+                loſt. Theſe rare</p>
+        </body>
+    </text>
+</TEI>

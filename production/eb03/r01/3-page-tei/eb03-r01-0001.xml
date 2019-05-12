@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>transformed from HTML to TEI by eb-html2tei</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>RR or r, a liquid confonant, being the 17th letter of our alphabet. Its found is
+                formed by a guttural extruſion of the breath vibrated through the mouth, with a fort
+                of quivering motion of the tongue drawn from the teeth, and canulated with the tip a
+                little ele-vated towards the palate. In Greek words it is fre-quently aſpirated with
+                an <hi rend="italic">h</hi> after it, as in <hi rend="italic">rhapſody, rhetoric,
+                    ice.</hi> otherwiſe it is always followed by a vowel at the beginning of words
+                and ſyllables.</p>
+            <p>In the notes of the ancients, R. or RO. ſigniſies</p>
+            <p><hi rend="italic">Roma ;</hi> R. C. <hi rend="italic">Romana civitas ;</hi> R. G. C.
+                    <hi rend="italic">rei gerendœ caofa ;</hi> R. F. E. D. <hi rend="italic">recte
+                    factum et dictum ;</hi> R. G. F. <hi rend="italic">regis</hi><hi rend="italic"
+                    >ſilius;</hi> R. P. <hi rend="italic">res publica,</hi> or <hi rend="italic"
+                    >Romani principes ;</hi> and R. R. R. F. F. F. <hi rend="italic">res </hi><hi
+                    rend="italic"/><hi rend="italic">Romana ruet ferro, fame, flamma.</hi></p>
+            <p>Uſed as a numeral, R anciently ſtood for 80 ; and with a daſh over it, thus R, for
+                80,000; but the Greek</p>
+            <p><hi rend="italic">r</hi>, p, with a ſmall mark over it, ſignified 100; with the fame
+                mark under it, it denoted 1000 X 100 ; thus ç</p>
+            <p>ſigniſied 100,coo. In the Hebrew numeration i denoted 230 : and with two horizontal
+                points over it 1000 X 200 ; thus u = 200,000.</p>
+            <p>In the preſcriptions of phyſicians, R or Ç» ſtands for <hi rend="italic">recipe,
+                    i.</hi> e. "take.”</p>
+            <p>RAAB, a town of Lower Hungary, capital of Ja-vérin, with a caſtle and a biſhop's fee.
+                It is a ſtrong frontier bulwark againſt the Turks, and has two bridges, one over a
+                double ditch, and another that leads towards Alba Regalis. The forrounding countryis
+                plain, and</p>
+        </body>
+    </text>
+</TEI>

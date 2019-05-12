@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:50:53Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>extended not only through the lower ranks, but had pervaded the higher claſſes alſo.
+                The inhabitants of the borders, indeed, paid very little regard to the orders of
+                their reſpective ſovereigns; so that daily hoſtilities were committed by them upon
+                each other when there was peace between the ſovereigns. The inhabitants of theſe
+                countries had eſtabliſhed with one another certain conventions, which have ſince
+                been collected, and go by the name of the <hi rend="italic">Border laws.</hi> The
+                families of Douglas and Percy, whoſe eſtates lay contiguous to one another, were at
+                perpetual variance. It had been common for the borderers of both kingdoms, during a
+                truce, to frequent cach others fairs; and a ſervant of the earl of March had been
+                Killed in a fray at that of Roxburgh, which was ſtill in the hands of the Engliſh.
+                Juſtice for this murder was demanded from lord Percy; but he flighted the
+                cornplaint. On this the earl of March, with his brother the earl of Moray,
+                aſſembling their followers, entered the next fair that was held in Roxburgh,
+                plundered and burnt the town, and killed all the English who fell into tlheir hands.
+                The Engliſh borderers were ordered to lay waste the lands of the earl of March; but,
+                in their way thither, deſtroyed the eſtate of Sir John Gordon, a man of great
+                property in the ſouth of Scotland. Sir John in his turn invaded England, from whence
+                he drove off a large booty in cattle, and a number of priſoners. In his retreat he
+                was attacked by a body of freſh troops under Sir John Liſburn, at a place called <hi
+                    rend="italic">Carαrn.</hi> An obſtinate encounter followed. The Scots were five
+                times repulſed; but at laſt they renewed the charge with such fury, that they made
+                Liſburn, his brother, and ſeveral other perſons of diſtinction, priſoners, together
+                with all their ſurviving ſoldiers. On this lord Percy with 7000 men encamped at
+                Duns, in the ſouth of Scotland; but was obliged to retire, probably for want of
+                ſubſiſtence for his army. In the mean time, Muſgrave, the governor of Berwick, who
+                had been ordered to join Percy with a detachment from the garriſon, was on his march
+                intercepted, defeated, and taken priſoner by Sir John Gordon; after which the border
+                war became general on both ſides. The issue of theſe diſturbances is but little
+                known; however, in 1377, we find them raging with more violence than ever. The fair
+                of Roxburgh was once more the ſcene of action, and the town was again, burnt down by
+                the Scots. Lord Percy, who was now</p>
+        </body>
+    </text>
+</TEI>

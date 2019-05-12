@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:50:50Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>his foragers cut off, ſo that he was reduced to diſtreſs; and at laſt his fleet being
+                totally deſtroyed by a ſtorm, he was obliged to return to England without
+                accompliſhing any thing.</p>
+            <p>In the mean time the prince of Wales, who had been left by his father to carry on the
+                war in France, defeated and took priſoner John king of France at the battle of
+                Poictiers. In this battle were 3000 Scots, who had gone over as auxiliaries to the
+                French monarch, and who ſuffered extremely. However, the ſucceſs of Edward, inſtead
+                of rendering him haughty, ſeemed to have a contrary effect; and, by the mediation of
+                Pope Innocent, a truce for two years was concluded with France, in which the Scots
+                were comprehended. During this interval, the ranſom of the king of Scots was ſettled
+                at 100,000 merks to be paid in ten years; for which 20 hoſtages were to be given as
+                formerly. In conſequence of this treaty, David at laſt obtained his liberty in 1358;
+                and Edward laid aſide all hopes of ever ſubduing Scotland. As for Baliol, he was now
+                ſunk in oblivion; and it is not known what became of him, or when he died.</p>
+            <p>David, though now reſtored to liberty, found himſelf greatly embarraſſed with the
+                payment of ſuch a large ſum as had been ſtipulated for his ranſom; the kingdom of
+                Scotland being then in a moſt miſerable and exhauſted ſituation. After ſending his
+                queen, and going into England himſelf, he could obtain no greater favour than a
+                reſpite of a few months for the payment of the ſecond moiety; ſo that he was at laſt
+                conſtrained to aſk aſſiſtance from France. This could ſcarcely be expected in the
+                diſtrefled ſituation of that kingdom; however, it</p>
+            <p>was at laſt agreed, that 50,000 marks ſhould be paid to Scotland, in case the Scots
+                would conſent to renew the war the following year. Neither party, however, kept
+                their word; and David, being ſtill greatly diſtreſsed about the remainder of his
+                ranſom, at laſt entered into a very extraordinary negociation with Edward, by which
+                he conſented that the king of England ſhould be his ſucceſſor to the throne of
+                Scotland. But this negociation was defeated through the invincible hatred which the
+                Scots bore to an Engliſh governor. David then, being entirely unable to diſcharge
+                the remainder of his ranſom, was obliged to enter into a new treaty; by which the
+                kingdom of Scotland became indebted to Edward the ſum of 100,000 pounds Sterling, to
+                be paid by equal proportions within the ſpace of 25 years, during which there ſhould
+                be a truce between the two nations.</p>
+            <p>From this time we meet with little more of any moment in the reign of King David.
+                After the death of his Queen Johanna, the ſiſter of Edward, he married a Scots
+                woman, of mean birth, named Margaret Logie; but by neither of his wives had he any
+                children. Queen Margaret he divorced, on what pretence is not known; however, ſhe
+                left the kingdom, and complained perſonally to the pope, who treated her as David’s
+                lawful wife, and enjoined her huſband to receive her as ſuch under the moſt ſevere
+                penalties. What effect theſe threats had on the king is not known; but it is certain
+                that Margaret never returned to Scotland; and, on the 22d of February 1371, David
+                himſelf died, leaving the kingdom to his nephew Robert Stewart, the firſt of that
+                family who ſat on the throne of Scotland @@(K).</p>
+            <p>@@@ <hi rend="smallcaps">(K)</hi> Concerning the origin of the Stewart family, we
+                have the following account by the Scots hiſtorians. Fleance, the ſon of the
+                celebrated Banquo, after his father’s murder by Macbeth, fled into Wales, where he
+                had a ſon named <hi rend="italic">Walter,</hi> by a princeſs of that country. After
+                the reſtoration of Malcolm Canmore, this Walter returned to Scotland, where he was
+                promoted to the high ſtewardſhip, a dignity held by ſervice, and which intitled the
+                poſſeſſor to all the privileges of a baron. Waiter was now diſtinguiſhed, from this
+                office, by the title of <hi rend="italic">Walter the Stewart,</hi> which deſcended
+                to his poſterity; and <hi rend="italic">Steward,</hi> afterwards <hi rend="italic"
+                    >Stewart,</hi> or <hi rend="italic">Stuart,</hi> became their ſurname.</p>
+            <p>On this ſubject Lord Hailes has the following remarks. “Our hiſtorians have recorded
+                the achievements of Walter the Stewart of Scotland in the reign of Malcolm III. He
+                is ſaid to have been the father of Alan, and the grandfather of that Walter who was
+                indeed Stewart of Scotland in the reign of David I. and Malcolm IV. It may perhaps
+                be aſcribed to ſtrange prejudices, or to a ſpirit of ſcepticiſm, when I declare,
+                that hitherto I have ſeen no evidence that ſuch a perſon as Walter Stewart of
+                Scotland, in the reign of Malcolm III. did ever exiſt.</p>
+            <p>“We are gravely told, ‘That Walter the ſon of Fleance, the ſon of Banquo, Thane of
+                Lochaber, having killed a man at the court of Griffith, prince of Wales, fought
+                refuge with Edward the Confeſſor; and having killed another man at Edward’s court,
+                fought refuge with Alan the Red, earl of Brittany: That, on the Norman invaſion, he
+                came to England with the earl of Brittany, and ſignalized himſelf at the battle of
+                Haſtings in 1066: That the earl of Brittany, by his firſt wife Emma, daughter of
+                Siward earl of Northumberland, had an only child Chriſtina; and that he bellowed her
+                in marriage on the young hero.” This is the ſtory which, after various improvements
+                ſince the days of Boece, has had the good fortune to obtain credit.</p>
+            <p>“That Walter, before he had well attained to the age of manhood, ſhould have ſlain
+                two men in private quarrels, is a circumſtance improbable, yet poſſible; and
+                therefore I object not to it. But his alliance with the earl of Brittany cannot be
+                ſo eaſily admitted.</p>
+            <p>“Alan, ſurnamed <hi rend="italic">le Roux,</hi> a younger ſon of Eudo earl of
+                Brittany, was one of the gallant adventurers who came over with William the
+                Conqueror; <hi rend="italic">he had neither territories nor court.</hi> The
+                hiſtorians of Brittany poſitively aſſert that he had no children. Beſides, it is
+                hard to ſay by what accident Alan <hi rend="italic">le Roux</hi> ſhould have become
+                acquainted with Emma the daughter of Siward earl of Northumberland! I ſuppoſe that
+                our hiſtorians invented this alliance, in order to ſtrengthen the connection between
+                Walter the Stewart and Malcom III.</p>
+            <pb n="774"> </pb>
+            <p>"According to another account, the genealogy of their families stands thus:</p>
+            <table>
+                <row>
+                    <cell> </cell>
+                    <cell><p>Siward Earl of Northumberland.<note><p><hi rend="italic">There was a
+                                        certain princeſs of Denmark who brought forth a ſon to a
+                                        </hi>bear.<hi rend="italic"> This ſon was called
+                                        </hi>Bern,<hi rend="italic"> and, natural enough like, had
+                                        cars like a bear. He was the father of Siward earl of
+                                        Northumberland. </hi>Brompton,<hi rend="italic"> p. 915. ap.
+                                        Twiſden.</hi></p></note></p></cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>Emma = Alan Earl of Brittany.</p></cell>
+                    <cell> </cell>
+                    <cell>Another daughter = Duncan king of Scots.</cell>
+                </row>
+                <row>
+                    <cell><p>Chriſtina = Walter the Stewart.</p></cell>
+                    <cell> </cell>
+                    <cell>Malcolm III.</cell>
+                </row>
+            </table>
+            <p>"Thus the mother of Walter the Stewart and Malcolm III. were couſins-german.</p>
+            <p>"According to another account, the genealogy of their families stands thus:</p>
+            <table>
+                <row>
+                    <cell>Siward Earl of Nurthumberland.</cell>
+                    <cell> </cell>
+                    <cell><p>His sister = wife of Duncan.</p></cell>
+                </row>
+                <row>
+                    <cell>
+                        <p>Emma=Alan Earl of Brittany.</p></cell>
+                    <cell> </cell>
+                    <cell><p>Malcolm III.</p></cell>
+                </row>
+                <row>
+                    <cell><p>Chriſtina=Walter the Stewart.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+            </table>
+            <p>"Thus the mother of Walter the Stewart and Malcolm III. were couſins-german.</p>
+            <p>“It is ſaid, ‘That Walter the Stewart had a ſon, Alan, alſo Stewart of Scotland.’ The
+                evidence of this is to be found in a charter granted by Earl Goſpatrick, and in
+                another charter granted by his ſon Waldeve Earl of March, at Dunbar. In them Alden,
+                or Aldan Dapifer, is mentioned as a witneſs; that is, ſay our antiquaries, <hi
+                    rend="italic">Allan, the stewart of Scotland.</hi></p>
+            <p>"This is the fundamental propoſition on which the genealogy of the houſe of Stuart,
+                as it is commonly underſtood, may be ſaid to reſt. It will be remarked, that this
+                hypotheſis takes it for granted, that <hi rend="italic">Alden </hi>or <hi
+                    rend="italic">Aldan,</hi> and <hi rend="italic">Alan,</hi> are the ſame; upon
+                what authority I know not. The Alden mentioned in the two charters ſeems to have
+                been the ſtewart of Earl Goſpatrick, and oſ Earl Waldeve, not the ſtewart of
+                Scotland.</p>
+            <p>To the charter by Earl Goſpatrick, there are eight witneſſes: ‘Andrew the
+                arch-deacon; Adam his brother; Nigel the chaplain; Ketel the ſon oſ Dolphin; Ernald;
+                    <hi rend="italic">Alden the Stewart</hi> (Dapifer); Adam the ſon of Alden; Adam,
+                the ſon of Goſpatrick.’ Is it poſſible for credulity itſelf to believe, that the <hi
+                    rend="italic">Alden</hi> placed ſo low in ſuch company, was the <hi
+                    rend="italic">high stewart oſ Scotland,</hi> a man at leaſt as honourable as
+                Goſpatrick himſelf? I can have no doubt, that the witneſſes to this charter were the
+                dependents or houſehold-ſervants of Earl Goſpatrick; and that if we interpret <hi
+                    rend="italic">Nigellus Capellanus</hi> to be <hi rend="italic">Nigel the earl's
+                    chaplain,</hi> we mult interpret <hi rend="italic">Aldenus Dapiſer</hi> to be
+                    <hi rend="italic">Alden the earl's stewart.</hi></p>
+            <p>“To the charter granted by Earl Waldeve, there are nine witneſſes. <hi rend="italic"
+                    >Alden Dapiſer</hi> is the ſeventh in order. There are only three among them who
+                ſeem to have been landed men: 'Elias de Hadeſtandena (probably <pb n="775"> </pb>
+                Haſſenden), William de Copland, and William de Hellebat (q. Elbottle); all the three
+                are placed before <hi rend="italic">Alder Dapiſer.</hi></p>
+            <p>“It has been remarked, "That in thoſe days the title of <hi rend="italic"
+                    >stewart</hi> or <hi rend="italic">dapiſer</hi> was too high a title to be given
+                to the retainer of an earl.' I anſwer, that the Saxon Chronicle, <hi rend="italic"
+                    >anno</hi> 1093, ſays, ‘Morael of Boebbahurh was thaes eorles stiward,' i.e.
+                Morel of Bamborough was this earl’s stewart<hi rend="italic">,</hi> or the ſtewart
+                of Robert Earl of Northumberland. Beſides, to a charter granted by Earl Goſpatrick
+                the Elder, <hi rend="italic">Lambertus Dapiſer</hi> is a witneſs. If <hi
+                    rend="italic">Lambertus Dapiſer</hi>, in a charter of Goſpatrick the Elder,
+                implies <hi rend="italic">Lambert the stewart of the family of March,</hi> why
+                ſhould <hi rend="italic">Aldenas Dapiſer,</hi> in the charters of the son and
+                grandſon of Goſpatrick, imply <hi rend="italic">the stewart of Scotland?</hi></p>
+            <p>"I believe that no defender of the common hypotheſis will anſwer this objection, by
+                pretending that <hi rend="italic">Lambertus Dapiſer</hi> was indeed stewart <hi
+                    rend="italic">of Scotland.</hi> Such an anſwer would leave no room for Walter
+                ſtewart of Scotland, who is held to have been a diſtinguiſhed perſonage in the reign
+                of Malcolm III.</p>
+            <p>“It is curious to see upon what flight grounds our antiquaries have eſtabliſhed the
+                connection between <hi rend="italic">Aldenus Dapiſer</hi> and the houſe of Stewart,
+                    <hi rend="italic">Walterus filius Alani</hi> appears to have flouriſhed in the
+                reign of David I. In the reign of Malcolm IV. he is termed <hi rend="italic"
+                    >Dapiſer.</hi> Hence it has been raſhly concluded, that <hi rend="italic"
+                    >Walterus Dapiſer filius Alani</hi> was the ſon of that <hi rend="italic"
+                    >Aldenus Dapiſer</hi> who is a witneſs to the charters of Goſpatrick and
+                Waldeve.</p>
+            <p>“I perſuade myself, that <hi rend="italic">Alden Dapifer,</hi> and <hi rend="italic"
+                    >Alen the father oſ Walter</hi> ſtewart of Scotland, in the reign of Malcolm IV.
+                were different persons; and that they had nothing in common but the Chriſtian name,
+                if indeed they had that in common.</p>
+            <p>“Some of my readers may demand, ‘<hi rend="italic">Who</hi> then was Alen, the father
+                of Walter, ſtewart of Scotland in the reign of Malcolm IV.?’</p>
+            <p>"I can only anſwer this queſtion by demanding, ‘<hi rend="italic">Who</hi> was the
+                father of Martach Earl of Marre in the reign of Malcolm III.; of Gilchriſt Earl of
+                Angus in the reign of Alexander I.; of Fergus Lord of Galloway in the reign of
+                Malcolm IV.; or of Friſkinus de Moravia, anceſtor of the family of Sutherland, in
+                the reign of William the Lion? Or, to keep in the ſuppoſed line of the royal family
+                of Stewart, '<hi rend="italic">Who</hi> was the father oſ Banquho Thane of
+                Loehaber?’</p>
+            <p>“Many anſwers may no doubt be made to this laſt queſtion. Kennedy ſays, that the
+                father of Banquho was one of the ſeven ſons of Corc king of Munster; Sir George
+                M'Kenzie, Of Ferquhard, the ſon of Kenneth III.; and Simpſon, The ſon of Ferquhard
+                Thane of Lochaber, the ſon of Kenneth, the ſon of Murdoch, the ſon of Doir, the ſon
+                of Eth king of Scotland.</p>
+            <p>“It is remarkable, that Abercrombie relates all thoſe contradictory ſtories, without
+                ever ſuſpecting the natural inference ariſing from them, ‘That if noble perſons are
+                not ſatisfied with a long pedigree, proved by authentic inſtruments, they muſt
+                believe in flattering and ignorant fictions; and that if they ſcorn to wait for the
+                dawn of record to enlighten their deſcent, they muſt bewilder themſelves in dark and
+                fabulous genealogies.’</p>
+            <p>“In the reign of David I. before the middle of the 12th century, the family of the
+                Stewarts was opulent and powerful. It may therefore have ſubsiſted for many ages
+                previous to that time; but when, and what was its commencement, we cannot
+                determine."</p>
+        </body>
+    </text>
+</TEI>

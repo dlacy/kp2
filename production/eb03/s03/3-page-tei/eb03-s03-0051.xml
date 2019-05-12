@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:02:59Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>writer into a ſpectator, ſo as to figure, in some obſcure manner, an action as
+                paſſing in his sight and hearing. In that figured ſituation, being led naturally to
+                write like a ſpectator, he entertains his readers with his own reflections, with
+                cool deſcription, and florid declamation ; inſtead of making them eye-witneſſes, as
+                it were, to a real event, and to every movement of genuine paſſion. Thus moſt of our
+                plays appear to be cast in the same mould ; perſonages without character, the mere
+                outlines of paſſion, a tireſome monotony, and a pompous declamatory ſtyle.</p>
+            <p>This deſcriptive manner of repreſenting paſſion is a very cold entertainment ; our
+                ſympathy is not raiſed by deſcription ;. we muſt firſt be lulled into a dream of
+                reality, and every thing muſt appear as paſſing in our light. Unhappy is the player
+                of genius who acts a part in what may be termed a <hi rend="italic">deſcriptive
+                    tragedy ;</hi> after aſſuming the very paſſion that is to be repreſented, how is
+                he cramped in action, when he muſt utter, not the ſentiments of the paſſion he
+                feels, but a cold deſcription in the language of a byſtander ? It is that
+                imperfection, undoubtedly, in the bulk of our plays, which confines our ſtage almoſt
+                entirely to Shakeſpeare, notwithſtanding his many irregularities. In our late
+                Engliſh tragedies, we ſometimes find ſentiments tolerably well adapted to a plain
+                paſſion : but we muſt not in any of them expect a ſentiment expreſſive of character
+                ; and, upon that very account, our late performances of the dramatic kind are for
+                the moſt part intolerably inſipid.</p>
+            <p>But it may be proper to illuſtrate this ſubject by examples. The firſt examples ſhall
+                be of ſentiments that appear the legitimate offspring of paſſion ; to which ſhall be
+                oppoſed what are deſcriptive only, and illegitimate : and in making this compariſon,
+                the inſtances ſhall be borrowed from <bibl><author>Shakeſpeare</author></bibl> and
+                        <bibl><author>Corneille</author></bibl>, who for genius in dramatic
+                compoſition ſtand uppermoſt in the rolls of fame.</p>
+            <p>I. <bibl><author>Shakeſpeare</author></bibl> ſhall furniſh the firſt example, being
+                of ſentiments dictated by a violent and perturbed paſſion :</p>
+            <sp>
+                <speaker>Lear.</speaker>
+                <l>—Filial ingratitude!</l>
+                <l>Is it not as if this mouth ſhould tear this hand</l>
+                <l>For lifting food toſt ?—But I’ll puniſh home ;</l>
+                <l>No, I will weep no more.—In ſuch a night,</l>
+                <l>To ſhut me out !—Pour on, I will endure.</l>
+                <l>In ſuch a night as this ! O Regan, Gonerill,</l>
+                <l>Your old kind father, whoſe frank heart gave all—</l>
+                <l>O ! that way madneſs lies ; let me ſhun that ;</l>
+                <l>No more of that.—</l>
+            </sp>
+            <sp>
+                <speaker>Kent.</speaker>
+                <l>Good, my lord, enter here.</l>
+            </sp>
+            <sp>
+                <speaker>Lear.</speaker>
+                <l>Prithee, go in thyſelf, ſeek thine own eaſe,</l>
+                <l>This tempeſt will not give me leave to ponder</l>
+                <l>On things would hurt me more : —but I’ll go in ;</l>
+                <l>In, boy, go firſt. You houſeleſs poverty— </l>
+                <l>Nay, get thee in ; I’ll pray, and then I’ll ſleep—</l>
+                <l>Poor naked wretches, whereſoe’er you are,</l>
+                <l>That bide the pelting of this pitileſs ſtorm !</l>
+                <l>How ſhall your houſeleſs heads, and unfed ſides,</l>
+                <l>Your loop’d and window’d raggedneſs defend you</l>
+                <l>From ſeaſons ſuch as theſe !—Ο I have ta’en</l>
+                <l>Too little care of this ! take phyſic, Pomp ;</l>
+                <l>Expoſe thyſelf to feel what wretches feel,</l>
+                <l>That thou may’ſt ſhake the ſuperflux to them,</l>
+                <l>And ſhow the heav’ns more juft.</l>
+            </sp>
+            <bibl><title>King Lear</title>, act 3. sc. 5.</bibl>
+            <p>With regard to the French author, truth obliges us to acknowledge, that he deſcribes
+                in the ſtyle of a ſpectator, inſtead of expreſſing paſſion like one who feels it ;
+                which naturally betrays him into a tireſome monotony, and a pompous declamatory
+                ſtyle. It is ſcarce neceſſary to give examples, for he never varies from that tone.
+                We ſhall, however, take two paſſages at a venture, in order to be confronted with
+                thoſe tranſcribed above. In the tragedy of <bibl><title>Cinna</title></bibl>, alter
+                the conspiracy was diſcovered, Æmilia, having nothing in view but racks and death to
+                herſelf and her lover, receives a pardon from Auguſtus, attended with the brighteſt
+                circumſtances of magnanimity and tenderneſs. This is a lucky ſituation for
+                repreſenting the paſſions of surpriſe and gratitude in their different ſtages, which
+                ſeem naturally to be what follow. Theſe paſſions, raiſed at once to the utmoſt
+                pitch, and being at firſt too big for utterance, muſt, for ſome moments, be
+                expreſſed by violent geſtures only : ſo ſoon as there is vent for words, the firſt
+                expreſſions are broken and interrupted : at laſt, we ought to expect a tide of
+                intermingled ſentiments, occaſioned by the fluctuation of the mind between the two
+                paſſions. Æmilia is made to behave in a very different manner : with extreme
+                coolness ſhe deſcribes her own ſituation, as if ſhe were merely a ſpectator ; or
+                rather the poet takes the taſk off her hands:</p>
+            <sp>
+                <l>Et je me rends, Seigneur, à ces hautes bontés :</l>
+                <l>Je recouvre la vûe auprès de leurs clartés.</l>
+                <l>Je connois mon forfait qui me sembloit juſtice ;</l>
+                <l>Et ce que n’avoit pû la terreur du supplice,</l>
+                <l>Je fens naître en mon ame un repentir puissant,</l>
+                <l>Et mon cœur en secret me dit, qu’il y consent.</l>
+                <l>Le ciel a resolu votre grandeur suprême ;</l>
+                <l>Et pour preuve, Seigneur, je n’en veux que moi-même.</l>
+                <l>J’ose avec vanité me donner cet éclat,</l>
+                <l>Puisqu’il change mon cœur, qu’il veut changer l’état.</l>
+                <l>Ma haine va mourir, que j’ai crue immortelle;</l>
+                <l>Elle est morte, et ce cœur devient sujet fidele ;</l>
+                <l>Et prenant déformais cette haine en horreur,</l>
+                <l>L’ardeur de vous servir succede à sa fureur.</l>
+            </sp>
+            <bibl>Act 5. sc. 3</bibl>
+            <p>So much in general upon the genuine ſentiments of paſſion. We proceed to particular
+                obſervations. And, firſt, paſſions ſeldom continue uniform any conſiderable time :
+                they generally fluctuate, ſwelling and ſubſiding by turns, often in a quick
+                ſucceſſion ; and the ſentiments cannot be juſt unleſs they correſpond to ſuch
+                fluctuation. Accordingly, a climax never ſhows better than in expreſſing a ſwelling
+                paſſion : the following paſſages may ſuffice for an illuſtration.</p>
+            <sp>
+                <speaker>Almeria.</speaker>
+                <l>—How haſt thou charm’d</l>
+                <l>The wildneſs of the waves and rocks to this ;</l>
+                <l>That thus relenting they have giv’n thee back</l>
+                <l>To earth, to light and life, to love and me ?</l>
+            </sp>
+            <bibl><title>Mourning Bride</title>, act 1. ſc. 7.</bibl>
+            <sp>
+                <l>I would not be the villain that thou think’ſt</l>
+                <l>For the whole ſpace that’s in the tyrant’s graſp,</l>
+                <l>And the rich earth to boot.</l>
+            </sp>
+            <bibl><title>Macbeth</title>, act 4. ſc. 4.</bibl>
+        </body>
+    </text>
+</TEI>

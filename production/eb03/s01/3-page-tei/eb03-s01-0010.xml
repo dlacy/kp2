@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:46:16Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="smallcaps">SABLE,</hi> in heraldry, ſignifies "black; ” and is borrowed
+                from the French, as are most terms in this ſcience: in engraving it is expreſſed by
+                both horizontal and perpendicular lines croſſing each other. Sable of itſelf
+                ſigniſies conſtancy, learning, and grief; and ancient heralds will have it, that
+                when it is compounded with</p>
+            <table>
+                <row>
+                    <cell>Or.</cell>
+                    <cell>it signifies</cell>
+                    <cell>Honour.</cell>
+                </row>
+                <row>
+                    <cell> Arg. </cell>
+                    <cell> </cell>
+                    <cell>Fame.</cell>
+                </row>
+                <row>
+                    <cell>Gul. </cell>
+                    <cell> </cell>
+                    <cell>Reſpect.</cell>
+                </row>
+
+                <row>
+                    <cell>Azu.</cell>
+                    <cell> </cell>
+                    <cell>Application.</cell>
+                </row>
+
+                <row>
+                    <cell>Ver.</cell>
+                    <cell> </cell>
+                    <cell>Comfort.</cell>
+                </row>
+
+                <row>
+                    <cell>Pur.</cell>
+                    <cell> </cell>
+                    <cell>Auſterity.</cell>
+                </row>
+
+            </table>
+            <p>The occaſion that introduced this colour into heraldry is thus related by Alexander
+                Niſhet, p. 8. The duke of Anjou, king of Sicily, after the loſs of that kingdom,
+                appeared at a tournament in Germany all in black, with his ſhield of that tincture,
+                    <hi rend="italic">ſemé de larmes,</hi></p>
+            <p>i. e. beſprinkled with drops of water, to repreſent tears, indicating by that both
+                his grief and loſs.</p>
+            <p>SABLESTAN, or <hi rend="smallcaps">Sablustan,</hi> a province of Aſia, in Persia, on
+                the frontiers of Indoſtan; bounded on the north by Khoraſan; on the eaſt, by the
+                mountains of Balk and Candahar; on the ſouth, by Sageſtan or Segeſtan; and on the
+                weft, by Heri. It is a mountainous country, very little known to Europeans; nor is
+                it certain which is the capital town.</p>
+            <p>SABRE, a kind of ſword or ſcimitar, with a very broad and heavy blade, thick at the
+                back, and a little falcated or crooked towards the point. It is the ordinary weapon
+                worn by the Turks, who are ſaid to be very expert in the uſe of it.</p>
+            <p>SABURRA, in medicine, uſually denotes any collection of half putrid indigeſted matter
+                in the ſtomach and inteſtines, by which the operation of digeſtion is impeded.</p>
+            <p>SABURRÆ, GRITTS, in natural hiſtory; a genus of foſſils, found in minute maſſes,
+                forming together a kind of powder, the ſeveral particles of which are of no
+                determinate ſhape, nor have any tendency to the figure of cryſtal, but ſeem rudely
+                broken fragments of larger maſſes; not to be diſſolved or diſunited by water, but
+                retaining their figure in it, and not cohering by means of it into a maſs;
+                conſiderably opake, and in many ſpecies fermenting with acids; often fouled with
+                heterogene matters, and not unfrequently taken in the coarſer ſtony and mineral or
+                metalline particles.</p>
+            <p>Gritts are of various colours, as, 1. The ſtony and ſparry gritts, of a bright or
+                greyiſh white colour. 2. The red ſtony gritts. 3. The green ſtony gritts, compoſed
+                of homogene ſparry particles. 4. The yellow gritt, of which there is only one
+                ſpecies. 5. The black and blackiſh gritts, compoſed of ſtony or talky particles.</p>
+            <p>SACÆA, a feaſt which the ancient Babylonians and other orientals held annually in
+                honour of the deity Anaitis. The Sacæa were in the Eaſt what the Saturnalia were at
+                Rome, viz. a feaſt for the ſlaves. One of the ceremonies was to chooſe a priſoner
+                condemned to death, and allow him all the pleaſures and gratifications he would
+                wiſh, before he were carried to execution.</p>
+            <p>SACCADE, in the manege, is a jerk more or leſs violent, given by the horſeman to the
+                horſe, in pulling or twitching the reins of the bridle all on a sudden</p>
+            <p>and with one pull, and that when a horſe lies heavy upon the hand, or obſtinately
+                arms himſelf.</p>
+            <p>This is a correction uſed to make a horſe carry well; but it ought to be uſed
+                diſcreetly, and but ſeldom.</p>
+            <p>SACERDOTAL, ſomething belonging to prieſts. See <hi rend="smallcaps">Priest.</hi></p>
+            <p>SACCULUS, in anatomy, a diminutive of ſaccus, ſigniſies a little bag, and is applied
+                to many parts of the body.</p>
+            <p>SACCHARUM, <hi rend="smallcaps">Sugar,</hi> or the <hi rend="italic">Sugar-Cane,</hi>
+                in botany: A genus of the digynia order, belonging to the triandria claſs of plants;
+                and in the natural method ranking under the 4th order, <hi rend="italic"
+                    >Grαmina.</hi> There is no calyx, but a long down; the corolla is bivalved.
+                There is but one ſpecies of this genus, viz. the officina. It is a native of Africa,
+                the Eaſt Indies, and of Brazil; from whence it was introduced into our Weft India
+                iſlands ſoon after they were ſettled. The ſugar-cane is the glory and the pride of
+                thoſe iſlands. It amply rewards the induſtrious planter, enriches the Britiſh
+                merchant, gives bread to thouſands of manufacturers and ſeamen, and brings an
+                immenſe revenue to the crown. For the proceſs of making ſugar, ſee <hi
+                    rend="smallcaps">Sugar.</hi></p>
+            <p>Sugar, formerly a luxury, is now become one of the neceſſaries of life. In crop-time
+                every negro on the plantations, and every animal, even the dogs, grow fat. This
+                ſufficiently points out the nouriſhing and healthy qualities of ſugar. It has been
+                alleged, that the eating of ſugar ſpoils the colour of, and corrupts, the teeth:
+                this, however, proves to be a miſtake, for no people on the earth have finer teeth
+                than the negroes in Jamaica. Dr Alſton, formerly professor of botany and materia
+                medica at Edinburgh, endeavoured to obviate this vulgar opinion: he had a fine ſet
+                of teeth, which he aſcribed ſolely to his eating great quantities of ſugar.
+                Externally too it is often uſeful: mixed with the pulp of roaſted oranges, and
+                applied to putrid or ill-diſpoſed ulcers, it proves a powerful corrector.</p>
+            <p>SACCHI (Andrea), a celebrated painter, born at Rome in 1594. He was the diſciple of
+                Franciſco Albano, whom he afterwards ſurpaſſed in taſte and cor- rectness. He
+                diſtinguiſhed himſelf in a very eminent degree by his paintings in freſco; and a
+                ſtrong emulation ſubſiſting between him and Pietro de Cortona, they each arrived at
+                a degree of perfection that neither of them might have known without ſuch a
+                competition. The works of Sacchi have ſuch intrinfic merit, and are finiſhed with
+                ſuch uncommon care and ſkill, as will always ſecure the applauſe of the judicious,
+                and preſerve their true value. He died in 1668.</p>
+            <p>SACHEVEREL (Dr Henry), a famous clergyman of the Tory faction in the reign of queen
+                Anne; who diſtinguiſhed himſelf by indecent and ſcurrilous sermons and writings
+                againſt the diſſenters and revolution principles. He owed his conſequence, however,
+                to being indiſcreetly proſecuted by the houſe of lords for his aſſize-ſermon at
+                Derby, and his 5th of November ſermon at St Paul’s in 1709; in which he aſſerted the
+                doctrine of non-reſistance to government in its utmoſt extent; and reflected
+                ſeverely on the act of toleration. The high and low church parties were very violent
+                at that time; and the trial of Sacheverel inflamed the high-church party to
+                dangerous riots and excesses: he was, however, ſuſpended for three years, and his
+                sermons burned by the common hangman. The Tories being</p>
+        </body>
+    </text>
+</TEI>

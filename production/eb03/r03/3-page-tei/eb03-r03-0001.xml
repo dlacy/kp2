@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>eb03-r03</title>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>transformed from HTML to TEI by eb-html2tei</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ROOF CONTD threads, or props, of planes, and we may ſubſtitute the one for the other. We ſhall
+                find this ſubſtſtution extremely uſeful, becauſe we eaſily conceive diſtinct notions
+                of the ſupport of a body by ſtrings.</p>
+            <p>Obſerve farther, that if the whole figure be inverted, and ſtrings be ſubſtituted for
+                props, and props for ſtrings, the equilibrium will ſtill obtain : for by comparing
+                fig. 5. with fig. 6. we ſee that the vertical line through the centre of gravity
+                will paſe through the in-terſection of the two ſtrings or props.; and this is
+                all that is lſeceſſary for the equilibrium : only it muſt be obſerved in the
+                ſubſtſtution of props for threads, and of threads for props, that it it be done
+                without inverting the whole figure, a ſtable equilibrium becomes a tottering one,
+                and <hi rend="italic">vice verſa.</hi></p>
+            <p>This is a moſt uſeſul propoſition, eſpecially to the unlettered artiſan, and enables
+                him to make a practical life of problems which the greateſt mechanical geniuſes have
+                found no eaſy taſk to ſolve. An inſtance will  ſhow the extent and utility of it.
+                Suppoſe it were required to make a manſard or kirb roof whoſe width is AB (fig. 7.),
+                and conſiſting of the four equal rafters AC, CD, DE, EB. There can be no doubt but
+                that its beſt form is that which will put all the parts in equilibrio, ſo that no
+                ties or ſtays may be neceſſary for oppoſing the unbalanced thruſt of any part of it.
+                Make a chain <hi rend="italic">a c d e b</hi> (fig. 8.) of four equal pieces,
+                looſely connected by pin-joints, round which the parts are perfectly moveable.
+                Suſpend this from two pins <hi rend="italic">a, b,</hi> fixed in a horizontal line.
+                This chain or feſtoon will arrange itſelf in ſuch a form that its parts are in
+                equilibrio. Then we know that if the figure be inverted, it will compoſe the frame
+                or truſs of a kirb-roof <hi rend="italic">α</hi><hi rend="italic">γ </hi>ς<hi
+                    rend="italic"> b, </hi>which is alſo in equilibrio, the thruſts of the pieces
+                balancing each other in the ſame manner that the mutual pulls of the hanging feſtoon
+                    <hi rend="italic">a c d e b</hi> did. If the proportion of the height <hi
+                    rend="italic">d f</hi> to the width <hi rend="italic">a, b</hi> is not ſuch
+                as pleaſes, let the pins <hi rend="italic">a,</hi><hi rend="italic">b</hi> be placed
+                nearer or more diſtant, till a proportion between the width and height is obtained
+                which pleaſes, and then make the figure ACDEB fig. 7. ſimilar to it. It is evident
+                that this propoſition will apply in the ſame manner to the determination of the form
+                of an arch of a bridge ; but this is not a proper place for a farther
+                diſcuſſion.</p>
+            <p>We are now able to compute all the thruſts and other preſſures which are exerted by
+                the parts of a roof on each other and on the walls. Let AB (fig. 9.) be a beam
+                ſtanding anyhow obliquely, and G its centre of gravity. Let us ſuppoſe that the ends
+                of it are ſup-ported in any directions AC, BD, by ſtrings, props, or planes. Let
+                theſe directions meet in the point P of the vertical line PG paſſing through its
+                centre of gravity. Through G draw lines G<hi rend="italic">a</hi>, <hi rend="italic"
+                    >G</hi><hi rend="italic">b</hi> parallel to PB, PA. Then</p>
+            <lb/>
+            <table>
+                <row>
+                    <cell cols="1" rows="1"><p>The weight of the beam        </p><p>The preſſure or
+                            thruſt at A are proportional to -</p></cell>
+                    <cell cols="1" rows="1"><p>PG</p><p>P<hi rend="italic">a</hi></p></cell>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"><p>The preſſure at B    </p></cell>
+                    <cell cols="1" rows="1"><p>P<hi rend="italic">b</hi></p></cell>
+                </row>
+            </table>
+            <p>For when a body is in equilibrio between three forces, theſe forces are proportional
+                to the ſides of a triangle which have their directions.</p>
+            <p>In like manner, if A g be drawn parallel to P <hi rend="italic">b<hi rend="sub"
+                        >i</hi></hi> we ſhall have</p>
+            <lb/>
+            <table>
+                <row>
+                    <cell cols="1" rows="1"><p>Weight of the beam</p></cell>
+                    <cell cols="1" rows="1"><p>P<hi rend="italic">g</hi></p></cell>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"><p>Thruſt on A    proportional to</p></cell>
+                    <cell cols="1" rows="1"><p>PA</p></cell>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"><p>Thruſt on B    </p></cell>
+                    <cell cols="1" rows="1"><p>B<hi rend="italic">g</hi></p></cell>
+                </row>
+            </table>
+            <lb/>
+            <p>Or, drawing B <hi rend="sub">y</hi> parallel to P<hi rend="italic">a</hi></p>
+            <table>
+                <row>
+                    <cell cols="1" rows="1"><p>Weight of beam</p></cell>
+                    <cell cols="1" rows="1"><p>   <hi rend="sup">Py</hi></p></cell>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"><p>Thruſt at A </p></cell>
+                    <cell cols="1" rows="1"><p>are proportional to B<hi rend="italic"
+                        >y</hi></p></cell>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"><p>Thruſt at B</p></cell>
+                    <cell cols="1" rows="1"><p>   PB</p></cell>
+                </row>
+            </table>
+            <lb/>
+            <p>It cannot be diſputed that, if ſtrength alone be conſidered, the proper form of a
+                roof is that which puts the whole in equilibrio, ſo that it would remain in
+                that ſhape although all the joints were perfectly looſe or flexible. If it has any
+                other ſhape, additional ties or braces are neceſſary for preſerving it, and the
+                parts are unneceſſarily ſtrained. When this equilibrium is obtained, the rafters
+                which compoſe the roof are all acting on each other in the direction of their
+                lengths ; and by this action, combined with their weights, they ſuſtain no ſtrain
+                but that of compreſſion, the ſtrain of all others that they are the moſt able to
+                reſiſt. We may conſider them as ſo many inflexible lines having their
+                weights accumulated in their centres of gravity. But it will allow an eaſier
+                inveſtigation of the ſubject, if we ſuppoſe the weights to be at the joints, equal
+                to the real vertical preſſures which are exerted on theſe points. Theſe are very
+                easily computed: for it is plain, that the weight of the beam AB (fig. 9.) is to the
+                part of this weight that is ſupported at B as AB to AG. Therefore, if W repreſent
+                the weight of the beam, the vertical preſ-</p>
+            <p>AG</p>
+            <p>ſure at B will be W X AB, and the vertical preſſure BG </p>
+            <p>at A will be W × AB∙ In like manner, the prop BF</p>
+            <p>being conſidered as another beam, and <hi rend="italic">f</hi> as its centre of
+                gravity and <hi rend="italic">w</hi> as its weight, a part of this weight, equal to
+                    <hi rend="italic">w</hi>    is ſupported at B, and the whole vertical</p>
+            <p>AG    <hi rend="italic">f</hi> F</p>
+            <p>preſſure at B is W X -+<hi rend="italic">w</hi> ×BF∙ And thus we greatly Amplify the
+                conduction of the mutual thruſts of roof frames. We need hardly obſerve, that
+                although theſe preſſures by which the parts of a frame ſupport each other in
+                oppoſition to the vertical action of gravity, are always exerted in the direction of
+                the pieces, they may be reſolved into preſſures acting in any other direction which
+                may engage our attention.</p>
+            <p>All that we propoſe to deliver on this ſubject at preſent may be included in the
+                following propoſition.</p>
+            <p>Let ABCDE (fig· 10.) be an aſſemblage of rafters in a vertical plane, retting on two
+                fixed points A and E in a horizontal line, and perfectly moveable round all the
+                joints A, B, C, D, E ; and let it be ſuppoſed to be in equilibrio, and let us
+                inveſtigate what adjuſtment of the different circumſtances of weight and inclination
+                of its different parts is neceſſary for producing this equilibrium.</p>
+            <p>Let F, G, H, I, be the centres of gravity of the diſſerent rafters, and let theſe
+                letters expreſs the weights of each. Then (by what has been ſaid above) the
+                weight</p>
+            <p>AF</p>
+            <p>which preſſes B directly downwards is F X + G X</p>
+            <p>CG        BG</p>
+            <p>The weight on C is in like manner G X BC+</p>
+            <p>DH CH El H × and that on D is H X CD + I ×DE∙</p>
+            <p>Let A <hi rend="italic">b e</hi> JE be the figure ABCDE inverted, in the manner
+                already deſcribed. It may be conceived as a thread faſtened at A and E, and loaded
+                at <hi rend="italic">b. c<hi rend="sub">i</hi></hi> and</p>
+            <lb/>
+        </body>
+    </text>
+</TEI>

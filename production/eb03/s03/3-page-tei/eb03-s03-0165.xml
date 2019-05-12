@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:45Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="3">
+                <row>
+                    <cell> </cell>
+                    <cell><hi rend="italic">F.</hi></cell>
+                    <cell><hi rend="italic">In.</hi></cell>
+                </row>
+                <row>
+                    <cell>perpendicular on the upper edge of the keel</cell>
+                    <cell>3 </cell>
+                    <cell>4 </cell>
+                </row>
+                <row>
+                    <cell>Aft part of the port abaft the rabbet at the upper edge of the keel</cell>
+                    <cell>2</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Aft part of the port abaft the rabbet at the wing tranſom</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                </row>
+                <row>
+                    <cell>Stern-port fore and aft on the keel</cell>
+                    <cell>3</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>Ditto ſquare at the head </cell>
+                    <cell>2</cell>
+                    <cell>0 ½</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Counters.—</hi>The touch of the lower counter at the
+                        middle line, abaft the aft part of the wing tranſom</cell>
+                    <cell>7</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Round aft of the lower counter</cell>
+                    <cell>1</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Round up of the lower counter</cell>
+                    <cell>
+                        <p>0</p>
+                    </cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>The touch of the upper counter at the middle line, abaft the aft part of
+                        the wing tranſom </cell>
+                    <cell>9</cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>Round aft of the upper counter</cell>
+                    <cell>I</cell>
+                    <cell>3½</cell>
+                </row>
+                <row>
+                    <cell>Round up of the upper counter</cell>
+                    <cell>0</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell>Aft part of the ſtern-timber at the middle line, at the height of the top
+                        timber line, abaft the aft part of the wing tranſom</cell>
+                    <cell>12</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Round aft of the wing tranſom</cell>
+                    <cell>0</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Round up of the wing tranſom</cell>
+                    <cell>0</cell>
+                    <cell>5½</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Draught of water. Load</hi> draught of water from the
+                        upper edge of the afore keel</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>afore</cell>
+                    <cell>20</cell>
+                    <cell> 5</cell>
+                </row>
+                <row>
+                    <cell> abaft</cell>
+                    <cell>20 </cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Channels.—</hi>Foremoſt end of the fore channel afore
+                        timber R</cell>
+                    <cell>1 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>The channel to be in length</cell>
+                    <cell>37 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>And in thickneſs at the outer edge</cell>
+                    <cell>0 </cell>
+                    <cell>4 ½</cell>
+                </row>
+                <row>
+                    <cell>The dead eyes to be 12 in number and in diameter</cell>
+                    <cell> 1 </cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Foremoſt end of the main channel afore timber 9</cell>
+                    <cell> 0 </cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell>The channel to be in length</cell>
+                    <cell>38 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>And in thickneſs at the outer edge</cell>
+                    <cell>0 </cell>
+                    <cell>4½</cell>
+                </row>
+                <row>
+                    <cell>The dead eyes to be 14 in number and in diameter</cell>
+                    <cell> 1 </cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Foremoſt end of the mizen-channel abaft timber 27</cell>
+                    <cell> 2 </cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>The channel to be in length</cell>
+                    <cell>20 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>And in thickneſs at the outer edge</cell>
+                    <cell>0 </cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>The dead eyes to be 7 in number and in diameter</cell>
+                    <cell> 1 </cell>
+                    <cell>0</cell>
+                </row>
+            </table>
+
+            <p>DIMENSIONS of the ſeveral Parts of the Bodies.</p>
+            <table cols="17">
+                <row>
+                    <cell><hi rend="italic">Fore Body.</hi></cell>
+                    <cell cols="16"><hi rend="italic">Timbers Names.</hi></cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell cols="2">⊕</cell>
+                    <cell cols="2">C</cell>
+                    <cell cols="2">G</cell>
+                    <cell cols="2">L</cell>
+                    <cell cols="2">P</cell>
+                    <cell cols="2">T</cell>
+                    <cell cols="2">W</cell>
+                    <cell cols="2">Y</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. hi.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                    <cell cols="2">Ft. In.</cell>
+                </row>
+                <row>
+                    <cell>Lower height of breadth</cell>
+                    <cell>22 </cell>
+                    <cell>6</cell>
+                    <cell>22 </cell>
+                    <cell>6</cell>
+                    <cell>22 </cell>
+                    <cell>7</cell>
+                    <cell>23 </cell>
+                    <cell>0</cell>
+                    <cell>23 </cell>
+                    <cell>11</cell>
+                    <cell>25</cell>
+                    <cell> 7</cell>
+                    <cell>26</cell>
+                    <cell>10</cell>
+                    <cell>28</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell>Upper height of breadth</cell>
+                    <cell>24 </cell>
+                    <cell>10</cell>
+                    <cell>24 </cell>
+                    <cell>10</cell>
+                    <cell>24 </cell>
+                    <cell>10</cell>
+                    <cell>24 </cell>
+                    <cell>10½</cell>
+                    <cell>25 </cell>
+                    <cell>3½</cell>
+                    <cell>26 </cell>
+                    <cell>4½</cell>
+                    <cell>27 </cell>
+                    <cell>4½</cell>
+                    <cell>29 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the top-timber line</cell>
+                    <cell>37 </cell>
+                    <cell>5</cell>
+                    <cell>37 </cell>
+                    <cell>7</cell>
+                    <cell>38 </cell>
+                    <cell>0</cell>
+                    <cell>38 </cell>
+                    <cell>5</cell>
+                    <cell>39 </cell>
+                    <cell>1</cell>
+                    <cell>39 </cell>
+                    <cell>10</cell>
+                    <cell>40 </cell>
+                    <cell>4</cell>
+                    <cell>40 </cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>Height of the riſing line @@*</cell>
+                    <cell>0 </cell>
+                    <cell>0</cell>
+                    <cell>0 </cell>
+                    <cell>5½</cell>
+                    <cell>3 </cell>
+                    <cell>10</cell>
+                    <cell>9 </cell>
+                    <cell>10</cell>
+                    <cell>18 </cell>
+                    <cell>6</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Height of the cutting down</cell>
+                    <cell>2 </cell>
+                    <cell>3½</cell>
+                    <cell>2 </cell>
+                    <cell>3½</cell>
+                    <cell>2</cell>
+                    <cell>3½</cell>
+                    <cell>2 </cell>
+                    <cell>8</cell>
+                    <cell>3 </cell>
+                    <cell>10</cell>
+                    <cell>6 </cell>
+                    <cell>4</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Main half breadth</cell>
+                    <cell>24 </cell>
+                    <cell>5½</cell>
+                    <cell>24</cell>
+                    <cell>5½</cell>
+                    <cell>24 </cell>
+                    <cell>4½</cell>
+                    <cell>24 </cell>
+                    <cell>0½</cell>
+                    <cell>23 </cell>
+                    <cell>2½</cell>
+                    <cell>20 </cell>
+                    <cell>2</cell>
+                    <cell>17 </cell>
+                    <cell>0</cell>
+                    <cell>11 </cell>
+                    <cell>0½</cell>
+                </row>
+                <row>
+                    <cell>Top-timber half breadth</cell>
+                    <cell>20 </cell>
+                    <cell>11</cell>
+                    <cell>20 </cell>
+                    <cell>10</cell>
+                    <cell>20 </cell>
+                    <cell>9</cell>
+                    <cell>20 </cell>
+                    <cell>6</cell>
+                    <cell>20 </cell>
+                    <cell>0</cell>
+                    <cell>18 </cell>
+                    <cell>9½</cell>
+                    <cell>17 </cell>
+                    <cell>10</cell>
+                    <cell>16 </cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Half breadth of the riſing</cell>
+                    <cell>8 </cell>
+                    <cell>7</cell>
+                    <cell>8 </cell>
+                    <cell>4</cell>
+                    <cell>6 </cell>
+                    <cell>5½</cell>
+                    <cell>2 </cell>
+                    <cell>9</cell>
+                    <cell>5 </cell>
+                    <cell>7</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell cols="16">Outſide</cell>
+                </row>
+                <row>
+                    <cell>Length of the lower breadth fweeps</cell>
+                    <cell>19 </cell>
+                    <cell>2</cell>
+                    <cell>18 </cell>
+                    <cell>9</cell>
+                    <cell>ι8 </cell>
+                    <cell>3</cell>
+                    <cell>17 </cell>
+                    <cell>3</cell>
+                    <cell>15 </cell>
+                    <cell>11</cell>
+                    <cell>14 </cell>
+                    <cell>1</cell>
+                    <cell>12 </cell>
+                    <cell>7</cell>
+                    <cell>12 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Firſt diagonal line</cell>
+                    <cell>7 </cell>
+                    <cell>9</cell>
+                    <cell>7 </cell>
+                    <cell>8¼</cell>
+                    <cell>7 </cell>
+                    <cell>7</cell>
+                    <cell>7 </cell>
+                    <cell>1</cell>
+                    <cell>6 </cell>
+                    <cell>3</cell>
+                    <cell>3 </cell>
+                    <cell>8</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Second ditto</cell>
+                    <cell>13 </cell>
+                    <cell>9</cell>
+                    <cell>13 </cell>
+                    <cell>8½</cell>
+                    <cell>13 </cell>
+                    <cell>4½</cell>
+                    <cell>12 </cell>
+                    <cell>1</cell>
+                    <cell>10 </cell>
+                    <cell>3</cell>
+                    <cell>7 </cell>
+                    <cell>1½</cell>
+                    <cell>4 </cell>
+                    <cell>6</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Third ditto</cell>
+                    <cell>20 </cell>
+                    <cell>0</cell>
+                    <cell>19 </cell>
+                    <cell>11</cell>
+                    <cell>19 </cell>
+                    <cell>2</cell>
+                    <cell>17 </cell>
+                    <cell>7</cell>
+                    <cell>15 </cell>
+                    <cell>1</cell>
+                    <cell>11 </cell>
+                    <cell>1</cell>
+                    <cell>8 </cell>
+                    <cell>3¼</cell>
+                    <cell>3 </cell>
+                    <cell>4½</cell>
+                </row>
+                <row>
+                    <cell>Fourth ditto </cell>
+                    <cell>23 </cell>
+                    <cell>4½</cell>
+                    <cell>23 </cell>
+                    <cell>4½</cell>
+                    <cell>23 </cell>
+                    <cell>0</cell>
+                    <cell>21 </cell>
+                    <cell>8½</cell>
+                    <cell>18 </cell>
+                    <cell>11</cell>
+                    <cell>14 </cell>
+                    <cell>8½</cell>
+                    <cell>11 </cell>
+                    <cell>5</cell>
+                    <cell>6 </cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Fifth ditto</cell>
+                    <cell>24 </cell>
+                    <cell>8</cell>
+                    <cell>24 </cell>
+                    <cell>8</cell>
+                    <cell>24 </cell>
+                    <cell>4½</cell>
+                    <cell>23 </cell>
+                    <cell>5½</cell>
+                    <cell>21 </cell>
+                    <cell>2½</cell>
+                    <cell>17 </cell>
+                    <cell>1</cell>
+                    <cell>13 </cell>
+                    <cell>8½</cell>
+                    <cell>7 </cell>
+                    <cell>11</cell>
+                </row>
+                <row>
+                    <cell>Sixth ditto </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Seventh ditto</cell>
+                    <cell>24 </cell>
+                    <cell>1½</cell>
+                    <cell>24 </cell>
+                    <cell>1½</cell>
+                    <cell>24 </cell>
+                    <cell>0</cell>
+                    <cell>23 </cell>
+                    <cell>9</cell>
+                    <cell>22 </cell>
+                    <cell>1O</cell>
+                    <cell>20 </cell>
+                    <cell>10½</cell>
+                    <cell>18 </cell>
+                    <cell>6½</cell>
+                    <cell>14 </cell>
+                    <cell>7</cell>
+                </row>
+            </table>
+            <p>@@@* Riſing height 11 feet ro inches at dead flat, from which all the other riſings
+                muſt be ſet off.</p>
+        </body>
+    </text>
+</TEI>

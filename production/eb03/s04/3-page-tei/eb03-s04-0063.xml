@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:20:30Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>and creeping : the leaves, below the water, are capillary ; above it are pinnated :
+                the umbels are biſid. It grows in ditches and ponds. 3. <hi rend="italic"
+                    >Segetum,</hi> corn parſley, or honeywort. The ſtems are numerous, ſlender,
+                ſtriated, branched, and leaning ; the leaves are pinnated ; the pinnae are oval,
+                pointed, and ſerrated, six or eight pair, and one at the end ; the umbels ſmall and
+                drooping ; the flowers minute and white. It grows in corn-fields and hedges. 4.
+                    Ve<hi rend="italic">rticillatum,</hi> verticillate ſiſon, has ſmall leaves in
+                whirls, and capillary ; the ſtem is two feet, with few leaves ; the common umbel is
+                compoſed of 8 or 10 rays, the partial of 18 or 20; both involucra are compoſed of
+                five or six oval acute foliola; the flowers are all hermaphrodite, and the petals
+                white.</p>
+            <p>SISTRUM, or <hi rend="smallcaps">Cistrum,</hi> a kind of ancient muſical inſtrument
+                uſed by the prieſts of Iſis and Oſiris. It is deſcribed by Spon as of an oval form,
+                in manner of a racket, with three ſticks traverſing it breadthwiſe ; which playing
+                freely by the agitation of the whole infiniment, yielded a kind of found which to
+                them ſeemed melodious. Mr Malcolm takes the ſiſtrum to be no better than a kind of
+                rattle. Oiſelius obſerves, that the ſiſtrum is found repreſented on ſeveral medals,
+                and on taliſmans.</p>
+            <p>SISYMBRIUM, <hi rend="smallcaps">water-cresses,</hi> in botany : A genus of plants
+                belonging to the claſs of <hi rend="italic">tetradynamia, </hi>and to the order of
+                    <hi rend="italic">ſiliquoſa ;</hi> and in the natural ſyſtem ranged under the
+                39th order, <hi rend="italic">Siliquoſa.</hi> The ſiliqua, or pod, opens with valves
+                ſomewhat ſtraight. The calyx and corolla are expanded. There are 29 species, of
+                which eight are natives of Britain ; the naſturtium, or common water-creſs ;
+                ſylveſtre, water-rocket ; amphibium, water-radiſh ; terreſtre, annual water-radiſh ;
+                monenſe ; ſophia, flixweed ; irio, broad-leaved hedge- muſtard.</p>
+            <p>1 .The naſturtium grows on the brinks of rivulets and water ditches. The leaves have
+                from 6 to 8 pair of ſmooth ſucculent and ſeſſile pinnæ ; the flowers are ſmall and
+                white, and grow in ſhort spikes or tufts. The leaves of water-creſſes have a
+                moderately pungent taſte, emit a quick penetrating ſmell, like that of muſtard ſeed,
+                but much weaker. Their pungent matter is taken up both by watery and ſpirituous
+                menſtrua, and accompanies the aqueous juice, which iſſues copiouſly upon expreſſion.@@
+                It is very volatile, ſo as to ariſe in great part in diſtillation with rectified
+                ſpirit, as well as with water, and almoſt totally to exhale in drying the leaves, or
+                in- ſpiſſating by the gentleſt heat to the conſiſtence of an extract, either the
+                expreſſed juice, or the watery or ſpirituous tinctures. Both the inſpiſſated juice,
+                and the watery extract, diſcover to the taſte a ſaline impregnation, and in keeping
+                throw up cryſtalline effloreſcences to the ſurface. On diſtilling conſiderable
+                quantities of the herb with water, a ſmall proportion of a ſubtile volatile very
+                pungent oil is obtained.</p>
+            <p>Water-creſſes obtain a place in the Materia Medica for their antiſcorbutic qualities,
+                which have been long very generally acknowledged by physicians.@@ They are alſo
+                ſuppoſed to purify the blood and humours, and to open viſceral obſtructions. They
+                are nearly allied to ſcurvy-graſs, but are more mild and pleaſant, and for this
+                reason are frequently eaten as ſalad. In the pharmacopoeias the juice of this plant
+                is directed with that of ſcurvy-graſs and Seville oranges : and Dr Cullen has
+                remarked, that the addition of acids renders the juices of</p>
+            <p>the plantæ siliquoſae more certainly effectual, by determining them more powerfully
+                to an aceſcent fermentation.</p>
+            <p>2. Silveſtre, or water-rocket.@@ The ſtem is weak, branched, and above a foot high.
+                The leaves are pinnated ; the pinnæ lance-ſhaped, and ſerrated ; the flowers ſmall,
+                and yellow ; and grow frequently in ſhallow water.</p>
+            <p>3. Amphibium, or water-radiſh. The ſtem is firm, erect, and two or three feet high ;
+                the leaves are pinnatiſtd, and ſerrated ; the flowers are yellow, and in ſpikes ;
+                the pods are ſomewhat oval, and ſhort. It grows in water.</p>
+            <p>4. Terreſtre, or land-rocket. The leaves are pinnatiſid ; the pods are filled with
+                ſeed ; the root is annual, and white ; the ſtem is angular, red-green, and
+                ſmooth.</p>
+            <p>5. Murale, or wall-rocket. The ſtems are rough, and about eight inches high ; the
+                leaves grow on foot-ſtalks, lance-ſhaped, ſmooth, ſinuated, and ſerrated; the
+                flowers are yellow ; the pods a little compreſſed, and slightly carinated. It grows
+                on ſandy ground in the North, Angleſea, &amp;c.</p>
+            <p>6. Monenſe, or yellow rocket. The ſtem is ſmooth, and about 6 or 8 inches high ; the
+                leaves are pinnatifid; the pinnæ remote, generally 7 pair ; the flower is yellow ;
+                the petals entire ; the calyx is cloſed. It grows in the Iſle of Man.</p>
+            <p>7. Irio, broad leaved rocket, or hedge muſtard ; the ſtem is ſmooth, and about two
+                feet high ; the leaves are broad, naked, pinnated, and halberd ſhaped at the end ;
+                the flowers are yellow, and the pods erect. It grows on waſte ground.</p>
+            <p>8. Sophia, flixweed. The ſtem is firm, branched, and two or three feet high ; the
+                leaves are multifid ; the ſegments are narrow ; the flowers are yellow ; the petals
+                much leſs than the calyx ; the pods are long, ſtiff, curved, without ſtyle, and
+                erect ; the ſeeds are minute, and yellow. It grows on walls, waſte ground,
+                &amp;c.</p>
+            <p>SISYPHUS, in fabulous hiſtory, one of the deſcendents of Eolus, married Merope, one
+                of the Pleiades, who bore him Glaucus. He reſided at Epyra in Peloponneſus, and was
+                a very crafty man. Others ſay, that he was a Trojan ſecretary, who was puniſhed for
+                diſcovering ſecrets of ſtace ; and others again, that he was a notorious robber,
+                killed by Theſeus. However, all the poets agree that he was puniſhed in Tartarus for
+                his crimes, by rolling a great ſtone to the top of a hill, which conſtantly
+                recoiled, and, rolling down inceſſantly, renewed his labour.</p>
+            <p>SISYRINCHIUM, in botany: A genus of plants belonging to the claſs of <hi
+                    rend="italic">gynandria,</hi> and order of <hi rend="italic">triandria;</hi> and
+                in the natural ſyſtem ranged under the 6th order, <hi rend="italic">Enſata.</hi> The
+                ſpatha is diphyllous ; there are 6 plane petals. The capſule is trilocular and
+                inferior. There are two species, the bermudiana and palmifolium.</p>
+            <p>SITE, denotes the ſituation of an houſe, &amp;c. and ſometimes the ground-plot or
+                ſpot oſ earth it ſtands on.</p>
+            <p>SITTA <hi rend="smallcaps">Nuthatch,</hi> in ornithology : A genus belonging to the
+                claſs of <hi rend="italic">aves,</hi> and order of <hi rend="italic">pica.</hi> It
+                is thus characterized by Dr Latham.@@ The bill is for the moſt part ſtraight ; on the
+                lower mandible there is a ſmall angle ; noſtrils ſmall, covered with briſtles
+                reflected over them ; tongue ſhort, horny at the end, and jagged ; toes placed three
+                forward and one backward ;</p>
+            <p>@@@[mu] L<gap/>ie's Materia Medica.</p>
+            <p>@@@[mu] <gap/>elville's Medical Botany, p. 135.</p>
+            <p>@@@[mu] Berkenbout's Synopsis of Natural History.</p>
+            <p>@@@[mu] Latham's Orthinology, vol. ii. p. 647, &amp;c.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:04:36Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>he is expenſive while living, in eating up our graſs, &amp;c. it may be anſwered that
+                it is quite the contrary ; for he can feed where every other animal has been before
+                him and grazed all they could find ; and that if he takes a little graſs on our
+                downs or in our fields, he amply repays us for every blade of graſs in the richneſs
+                of the manure which he leaves behind him. He protects the hands from the cold wintry
+                blaſt, by providing them with the ſofteſt leather gloves. Every gentleman’s library
+                is alſo indebted to him for the neat binding of his books, for the ſheath of his
+                ſword, and for cases for his inſtruments ; in ſhort, not to be tedious in mentioning
+                the various uſes of leather, there is hardly any furniture or utenſil of life but
+                the ſheep contributes to render either more uſeful, convenient, or ornamental.</p>
+            <p>As the ſheep is ſo valuable an animal, every piece of information concerning the
+                proper method of managing it muſt be of importance. It will not therefore be uſeleſs
+                nor unentertaining to give ſome account of the manner of managing ſheep in Spain, a
+                country famous for producing the beſt wool in the world.</p>
+            <p>In Spain there are two kinds of ſheep : the coarſe- woolled ſheep, which always
+                remain in their native country, and are houſed every night in winter ; and the
+                fine-wooled ſheep, which are always in the open air, and travel every ſummer from
+                the cool mountains of the northern parts of Spain, to feed in winter on the ſouthern
+                warm plains of Andalusia, Mancha, and Eſtramadura. Of theſe latter, it appears from
+                accurate computations, that there are about five millions @@( <hi rend="smallcaps"
+                    >b</hi> ) ; and that the wool and fleſh of a flock of 10,000 ſheep produce
+                yearly about 24 reals a head, or about the value of 12 Engliſh ſixpences, one of
+                which belongs to the owner, three to the king, and the other eight are allowed for
+                the expences of paſture, tythes, ſhepherds, dogs, ſalt, ſhearing, &amp;c. Ten
+                thouſand ſheep form a flock, which is divided into ten tribes, under the management
+                of one perſon, who has abſolute dominion over fifty ſhepherds and fifty dogs.</p>
+            <p>M. Bourgoanne, a French gentleman, who reſided many years in Spain, and directed his
+                inquiries chiefly to the civil government, trade, and manufactures, of that country,
+                gives the following account of the wandering ſheep of Segovia. “ It is (says he) in
+                the neighbouring mountains that a part of the wandering ſheep feed during the fine
+                ſeaſon.@@ They leave them in the month of October, paſs over thoſe which ſeparate
+                the two Caſtiles, croſs New Caſtile, and diſperſe themſelves in the plains of
+                Eſtramadura and Andaluſia. For ſome years paſt thoſe of the two Caſtiles, which are
+                within reach of the Sierra-Morena, go thither to paſs the win</p>
+            <p>ter ; which, in that part of Spain, is more mild : the length of their day’s journey
+                is in proportion to the paſture they meet with. They travel in flocks from 1000 to
+                1200 in number, under the conduct of two ſhepherds ; one of whom is called the <hi
+                    rend="italic">Mayoral,</hi> the other the <hi rend="italic">Zagal.</hi> When
+                arrived at the place of their deſtination, they are diſtributed in the paſtures
+                previouſly aſſigned them. They return in the month of April ; and whether it be
+                habit or natural inſtinct that draws them towards the climate, which at this ſeaſon
+                becomes moſt proper for them, the inquietude which they manifeſt might, in case of
+                need, ſerve as an almanac to their conductors.”</p>
+            <p>Mr Arthur Young, in that patriotic work which he conducted with great induſtry and
+                judgment, the Annals of Agriculture, gives us a very accurate and intereſting
+                account of the Pyrenean or Catalonian ſheep.</p>
+            <p>“ On the northern ridge, bearing to the west, are the paſtures of the Spaniſh flocks.
+                This ridge is not, however, the whole ; there are two other mountains, quite in a
+                different ſituation, and the ſheep travel from one to another as the paſturage is
+                ſhort or plentiful. I examined the ſoil of theſe mountain paſtures, and found it in
+                general ſtony ; what in the west of England would be called a st<hi rend="italic"
+                    >one brash,</hi> with ſome mixture of loam, and in a few places a little peaty.
+                The plants are many of them untouched by the ſheep ; many ferns, narciſſus, violets,
+                &amp;c. but burnet <hi rend="italic">(poterium ſanguisorba}</hi> and the
+                narrow-leaved plantain <hi rend="italic">(plantago lanceοlata)</hi> were eaten, as
+                may be ſuppoſed, cloſe. I looked for trefoils, but found ſcarcely any : it was very
+                apparent that ſoil and peculiarity of herbage had little to do in rendering theſe
+                heights proper for ſheep. In the northern parts of Europe, the tops of mountains
+                half the height of theſe (for we were above ſnow in July) are bogs, all are ſo which
+                I have ſeen in our iſlands, or at leaſt the proportion of dry land is very trifling
+                to that which is extremely wet : Here they are in general very dry. Now a great
+                range of dry land, let the plants be what they may, will in every country suit
+                ſheep. The flock is brought every night to one ſpot, which is ſituated at the end of
+                the valley on the river I have mentioned, and near the port or paſſage of Picada :
+                it is a level ſpot ſheltered from all winds. The ſoil is 8 or 9 inches deep of old
+                dung, not at all incloſed : from the freedom from wood all around, it ſeems to be
+                choſen partly for ſafety againſt wolves and bears. Near it is a very large ſtone, or
+                rather rock, fallen from the mountain. This the ſhepherds have taken for a ſhelter,
+                and have built a hut againſt it ; their beds are ſheep-ſkins, and their door ſa
+                ſmall that they crawl in. I faw no place for fire ; but they have it, ſince they
+                dress here the fleſh of their ſheep,</p>
+            <p>@@@[mu] Bourgoanne's Travels, vol. i. p. 53.</p>
+            <p><hi rend="smallcaps">@@@(b)</hi> In the 16th century the travelling ſheep were
+                eſtimated at ſeven millions : under Philip III. the number was diminiſhed to two
+                millions and a half. Uſtariz, who wrote at the beginning of this century, made it
+                amount to four millions. .The general opinion is, that at preſent it does not exceed
+                five millions. If to this number the eight millions of ſtationary ſheep be added, it
+                will make nearly thirteen millions of animals, all managed contrary to the true
+                intereſts of Spain, for the advantage of a few individuals. For the proprietors of
+                ſtationary flocks alſo have privileges which greatly reſemble thoſe of the members
+                of the Meſta. According to Arriquebar, Spain contains eight millions of fine-wooled
+                ſheep, ten millions of coarſe-wooled, and five hundred thouſand bulls, oxen, and
+                cows.</p>
+        </body>
+    </text>
+</TEI>

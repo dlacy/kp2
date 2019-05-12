@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:19Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>garithm of 0,73. from that of 1.068793,viz. 0,0288937, and take 0.0041393, the 40th
+                part of the difference. Multiply this by 1, 2, 3, &amp;c. and add the logarithm of
+                0,73 to each of the products. The ſums are the logarithms of the ſpecific gravities
+                required. Theſe will be found to proceed ſo equably, that they may be interpolated
+                ten times by a ſimple table of proportional parts without the ſmalleſt ſensible
+                error. Therefore the ſtem may be divided into a hundred parts very ſenſible to the
+                eye (each being nearly the 20th of an inch), and 400 degrees of ſpecific gravity
+                obtained within the range, which is as near as we can examine this matter by any
+                hydrometer. Thus the ſpecific gravities correſponding to n⁰ 26, 27, 28, 29, are as
+                follow :</p>
+            <table>
+                <row>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell>1st. Diff.</cell>
+                    <cell>2d Diff.</cell>
+                </row>
+                <row>
+                    <cell rows="2">26</cell>
+                    <cell rows="2">0,93529</cell>
+
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>895</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell rows="2">27</cell>
+                    <cell rows="2">0,94424</cell>
+                    <cell> </cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>904</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell rows="2">28</cell>
+                    <cell rows="2">0,95328 </cell>
+                    <cell> </cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>913</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>29</cell>
+                    <cell>0,96241</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+            </table>
+            <p>Nay, the trouble of inſpecting a table may be avoided, by forming on a ſcale the
+                logarithms of the numbers between 7300 and 1068,793, and placing along ſide of it a
+                ſcale of the ſame length divided into 400 equal parts, numbered from 0 to 400. Then,
+                looking ſor the mark ſhown by the hydrometer on this ſcale of equal parts, we see
+                oppoſite to it the ſpecific gravity.</p>
+            <p>We have been thus particular in the illuſtration of this mode of conſtruction,
+                becauſe <hi rend="italic">it</hi> is really a beautiful and commodious inſtrument,
+                which may be of great uſe both to the naturaliſt and to the man of buſineſs. — A
+                table may be compriſed in 20 octavo pages, which will contain the ſpecific gravities
+                of every fluid which can intereſt either, and anſwer every queſtion relative to
+                their admixture with as much preciſion as the obſervations can be made. We therefore
+                recommend it to our readers, and we recommend the very example which we have given
+                as one of the moſt convenient. The inſtrument need not exceed eight inches in
+                length, and may be contained in a pocket caſe of 2 inches broad and as many deep,
+                which will alſo contain the ſcale, a thermometer, and even the table for applying it
+                to all fluids which have been examined.</p>
+            <p>It is unfortunate that no graduated hydrometer can be made ſo eaſily for the
+                examination of the corrofive mineral acids @@<hi rend="smallcaps">(a).</hi> Theſe
+                muſt be made oſ glaſs, and we cannot depend on the accurate cylindric form of any
+                glaſs item. But if any ſuch can be procured, the conſtruction is the ſame. The
+                divided ſcale may either be on thin paper palled on the inside of the ſtem, or it
+                may be printed on the ſtem itſelf from a plate, with ink made of a metallic calx,
+                which will attach itſelf to the glaſs with a very moderate heat. We would recommend
+                common white enamel, or arſenical glaſs, as the fitteſt material for the whole
+                inſtrument; and the ink uſed, in taking the impreſſion of the ſcale, may be the ſame
+                that is uſed for the low priced printing on Delft ware pottery. Firſt form the ſcale
+                on the ſtem. Then, having measured the ſolid contents of the graduated part as
+                exactly as poſſible, and determined on the general ſhape of the ball and
+                counterpoiſe below, calculate its ſize, ſo that it may be a little leſs than ten
+                times that of the</p>
+            <p>ſtem. The glaſs blower can copy this very nearly, and join it to the ſtem. Then make
+                two brines or other liquors, which ſhall have ſpecific gravities in the ratio of 10
+                to 11. Load the inſtrument ſo that it may link to 0 in the lighteſt. When put into
+                the heavieſt, it ſhould riſe to 10. If it does not riſe ſo high, the immerſed part
+                is too ſmall. Let the glaſs blower enlarge the ball of the counterpoiſe a little.
+                Repeat this trial till it be exact. Nothing now remains but to form the weights :
+                And here we obſerve, that when the inſtrument is to have a very great range, as for
+                examining all ſtates of the vitriolic acid, it has a chance of being very tottering
+                when loaded with the greateſt weight on the top of ſo long a ſcale. To avoid this,
+                Mr Quin and others have added ſome of. their weights below.— But this will not suit
+                the preſent conſtruction, becauſe it will alter the proportion between the bulks of
+                the ſtem and immerſed part. Therefore let theſe weights consiſt of cylinders of
+                metal ſmall enough to go into the ſtem, and let them be ſoldered to the end of long
+                wires, which will let them go to the bottom, and leave a ſmall hook or ring at top.
+                Theſe can lie alongſide of the inſtrument in its caſe. This is indeed the beſt
+                construction for every hydrometer, becauſe it makes it incomparably more ſteady. The
+                inſtrument is poiſed by ſmall ſhot or mercury. But it will be much better to do it
+                with Newton’s fuſible metal (three parts of tin, five parts of lead, and eight parts
+                of biſmuth) in coarſe filings. When the exact quantity has been put in, the
+                inſtrument may be ſet in a veſſel of oil, and this kept on the fire till all is
+                completely melted. It ſoon freezes again, and remains fast. If this metal is not to
+                be had, let a few bits of ſealing-wax be added to the mercury or ſhot, to make up
+                the counterpoiſe. When heated, it will float a-top, and when it freezes again it
+                will keep all faſt. Thus we ſhall make a very complete and cheap inſtrument.</p>
+            <p> There is yet another method of examining the ſpecific gravities of fluids, firſt
+                propoſed by Dr Wilſon, late profeſſor of aſtronomy in the university oſ Glaſgow.
+                This is by a ſeries of ſmall glaſs bubbles, differing equally, or according to ſome
+                rule, from each other in ſpecific gravity, and each marked with its proper number.
+                When theſe are thrown into a fluid which is to be examined, all thoſe which are
+                heavier than the fluid will fall to the bottom. Then holding the veſſel in the hand,
+                or near a fire or candle, the fluid expands, and one of the floating bubbles begins
+                to sink. Its ſpecific gravity, therefore, was either equal to, or a little leſs
+                than, that of the fluid ; and the degree of the thermometer, when it began to sink,
+                will inform us how much it was deficient, if we know the law of expansion of the
+                liquor. Sets of theſe bubbles fitted for the examination of ſpirituous liquors, with
+                a little treatiſe ſhowing the manner of uſing them, and calculating by the
+                thermometer, are made by Mr Brown, an ingenious artiſt of Glaſgow, and are often
+                used by the dealers in spirits, being found both accurate and expeditious.</p>
+            <p>Alſo, though a bubble or two ſhould be broken, the ſtrength of ſpirits may easily be
+                had by means of the remainder, unleſs two or three in immediate ſucceſſion</p>
+            <p><hi rend="smallcaps">@@@(a)</hi> It would be worth while to try copper enamelled.</p>
+        </body>
+    </text>
+</TEI>

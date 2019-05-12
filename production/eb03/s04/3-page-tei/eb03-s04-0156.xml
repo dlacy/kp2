@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:22:47Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell> </cell>
+                    <cell>Mellowness of tone.</cell>
+                    <cell>Sprightly notes.</cell>
+                    <cell>Plaintive notes.</cell>
+                    <cell>Compass.</cell>
+                    <cell>Execution.</cell>
+                </row>
+                <row>
+                    <cell>Nightingale</cell>
+                    <cell>19</cell>
+                    <cell>14</cell>
+                    <cell>19</cell>
+                    <cell>19</cell>
+                    <cell>19</cell>
+                </row>
+                <row>
+                    <cell>Sky-lark</cell>
+                    <cell>4</cell>
+                    <cell>19</cell>
+                    <cell>4</cell>
+                    <cell>18</cell>
+                    <cell>18</cell>
+                </row>
+                <row>
+                    <cell>Wood-lark</cell>
+                    <cell>18</cell>
+                    <cell>4</cell>
+                    <cell>17</cell>
+                    <cell>12</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell>Tit-lark</cell>
+                    <cell>12</cell>
+                    <cell>I 2</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>Linnet</cell>
+                    <cell>12</cell>
+                    <cell>16</cell>
+                    <cell>12</cell>
+                    <cell>16</cell>
+                    <cell>18</cell>
+                </row>
+                <row>
+                    <cell>Goldfinch</cell>
+                    <cell>4</cell>
+                    <cell>19</cell>
+                    <cell>4</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>Chaffinch</cell>
+                    <cell>4</cell>
+                    <cell>12</cell>
+                    <cell>4</cell>
+                    <cell>8</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell>Greenfinch</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Hedge-ſparrow</cell>
+                    <cell>6</cell>
+                    <cell>0</cell>
+                    <cell>6</cell>
+                    <cell>4</cell>
+                    <cell>4'</cell>
+                </row>
+                <row>
+                    <cell>Aberdavine or fiſkin</cell>
+                    <cell>2</cell>
+                    <cell>4</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Red-poll</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Thruſh</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Blackbird</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                    <cell>0</cell>
+                    <cell>2</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>Robin</cell>
+                    <cell>6</cell>
+                    <cell>16</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>Wren</cell>
+                    <cell>0</cell>
+                    <cell>12</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Reed ſparrow</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                    <cell>0</cell>
+                    <cell>2</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>Black-cap, or Norfolk mock nightingale</cell>
+                    <cell>14</cell>
+                    <cell>12</cell>
+                    <cell>12</cell>
+                    <cell>14</cell>
+                    <cell>14</cell>
+                </row>
+            </table>
+            <p>SONNA, a book of Mahometan traditions, which all the orthodox muſſulmen are required
+                to believe.</p>
+            <p>SONNERATIA, in botany ; a genus of plants belonging to the claſs of <hi rend="italic"
+                    >icoſandria,</hi> and to the order of mon<hi rend="italic">οgynia.</hi> The
+                calyx is cut into six ſegments ; the petals are six; the capſule is multilocular and
+                ſucculent ; and the cells contain many ſeeds. The only ſpecies is the <hi
+                    rend="italic">acida.</hi></p>
+            <p>SONNET, in poetry, a compoſition contained in 14 verſes, viz. two ſtanzas or meaſures
+                of four verſes each, and two of three, the eight firſt verſes being all in three
+                rhimes.</p>
+            <p>SONNITES, among the Mahometans, an appellation given to the orthodox muſſulmen or
+                true believers ; in oppoſition to the ſeveral heretical sects, particularly the
+                Shiites or followers of Ali.</p>
+            <p>SOOJU, or Sov. See <hi rend="smallcaps">Dolichos.</hi></p>
+            <p>SOONTABURDAR, in the Eaſt Indies ; an attendant, who carries a ſilver bludgeon in his
+                hand about two or three feet long, and runs before the palanquin. He is inferior to
+                the Chubdar ; the propriety of an Indian newaury requiring two Soontaburdars ſor
+                every Chubdar in the train. The Chubdar proclaims the approach of viſitors, &amp;c.
+                He generally carries a large ſilver ſtaff about five feet long in his hands : and
+                among the Nabobs he proclaims their praiſes aloud as he runs before their
+                palanquins.</p>
+            <p>SOOT, a volatile matter ariſing from wood and other fuel along with the ſmoke ; or
+                rather, it is the ſmoke itſelf condenſed and gathered to the ſides of the chimney.
+                Tho’ once volatile, however, soot cannot be again reſolved into vapour ; but, if
+                diſtilled by a ſtrong fire, yields a volatile alkali and empyreumatic oil, a
+                conſiderable quantity of fixed matter remaining at the bottom of the diſtilling
+                veſſel. If burnt in an open fire, it flames with a thick ſmoke, whence other foot is
+                produced. It is uſed as a material for making ſal ammoniac, and as a manure. See <hi
+                    rend="smallcaps">Chemistry,</hi> n⁰ 796.; and <hi rend="smallcaps"
+                    >Agriculture,</hi> n⁰ 20.</p>
+            <p><hi rend="italic">Sοοt-Black.</hi> See <hi rend="italic">Colour-Making.</hi></p>
+            <p>SOPHI, or SOFI, a title given to the emperor of</p>
+            <p>Persia ; importing as much as wiſe, ſage, or philoſopher.</p>
+            <p>The title is by ſome ſaid to have taken its riſe from a young ſhepherd named <hi
+                    rend="italic">Sοphi,</hi> who attained to the crown of Persia in 1370 ; others
+                derive it from the <hi rend="italic">ſophoi</hi> or ſages anciently called <hi
+                    rend="italic">magi.</hi> Voſſius gives a different account of the word : sophi
+                in Arabic, he obſerves, ſignifies <hi rend="italic">wool</hi> ; and he adds, that it
+                was applied by the Turks out of deriſion to the kings of Perſia ever ſince Iſhmael’s
+                time; becauſe, according to their ſcheme of religion, he is to wear no other
+                covering on his head but an ordinary red woollen fluff; whence the Persians are alſo
+                called <hi rend="italic">hetzelbaſchs,</hi> q. d. <hi rend="italic">red-heads.</hi>
+                But Bochart assures us, that sophi in the original Perſian language, ſignifies one
+                that is pure in his religion, and who prefers the ſervice of God in all things : and
+                derives it from an order of religious called by the ſame name. The ſophis value
+                themſelves on their illuſtrious extraction. They are deſcended in a right line from
+                Houſſein, ſecond son of Ali, Mahomet’s couſin, and Fatima, Mahomet’s daughter.</p>
+            <p><hi rend="smallcaps">Sophis,</hi> or <hi rend="italic">Sofees.</hi> a kind of order
+                of religious among the Mahometans in Perſia, anſwering to what are otherwiſe called
+                    <hi rend="italic">dervises,</hi> and among the Arabs and Indians <hi
+                    rend="italic">faquirs.</hi> Some will have them called ſophis from a kind of
+                coarſe camblet which they wear called <hi rend="italic">ſouf,</hi> from the city
+                Souf in Syria, where it is principally manufactured. The more eminent of thoſe
+                ſophis are complimented with the title s<hi rend="italic">chiek,</hi> that is, <hi
+                    rend="italic">reverend,</hi> much as in Romiſh countries the religious are
+                called <hi rend="italic">reverend fathers. </hi>Schiek sophi, who laid the
+                foundation of the grandeur of the royal houſe of Perſia, was the founder, or rather
+                the reſtorer of this order: Iſhmael, who conquered Perſia, was himſelf a sophi, and
+                greatly valued himſelf on his being ſo. He choſe all the guards of his person from
+                among the religious of this order; and would have all the great lords of his court
+                ſophis. The king of Perſia is ſtill grandmaſter of the order; and the lords continue
+                to enter into it, though it be now fallen under ſome contempt.</p>
+            <p>SOPHISM, in logic, a ſpecious argument having the appearance of truth, but leading to
+                falſehood. Sophiſms are reduced by Ariſtotle into eight claſſes, an arrangement so
+                juſt and comprehenſive, that it is equally proper in preſent as in former times. 1.
+                    <hi rend="italic">ignoratio elenchi, </hi>in which the ſophiſt ſeems to
+                determine the queſtion, while he only does it in appearance. Thus the queſtion, “
+                Whether excels of wine be hurtful?” ſeems to be determined by proving, that wine
+                revives the ſpirits and gives a man courage: but the principal point is here kept
+                out of sight ; for ſtill it may be hurtful to health, to fortune, and reputation. 2.
+                    <hi rend="italic">Petitio principii,</hi> a begging of the queſtion, or taking
+                for granted that which remains to be proved, as if any one ſhould undertake to prove
+                that the soul is extended through all the parts of the body, becauſe it reſides in
+                every member. This is affirming the ſame thing in different words. 3. Reaſoning in a
+                circle ; as when the Roman Catholics prove the Scriptures to be the word of God by
+                the authority of the church, and the authority of the church from the Scriptures. 4.
+                    <hi rend="italic">Non causa pro cauſa,</hi> or the aſſigning of a falſe cauſe to
+                any effect. Thus the ſuppoſed principle, that nature abhors a vacuum, was applied to
+                explain the riſing of water in a pump before Galileo diſcovered that it was owing to
+                the preſſure of the</p>
+        </body>
+    </text>
+</TEI>

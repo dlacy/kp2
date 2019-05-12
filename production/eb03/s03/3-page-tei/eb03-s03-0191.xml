@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:24Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>of the ſhip for his purpoſe. By this government judge <hi rend="italic">of</hi> the
+                ſhips requiſite for tranſport ſervice, and by this are all revenue charges on the
+                ſhip computed. It is no leſs difficult to anſwer this queſtion by any general rule
+                which ſhall be very exact, becauſe it depends not only on the cubical dimenſions of
+                the ſhip’s bottom, but alſo on the ſcantling of her whole frame, and in ſhort on the
+                weight of every thing which properly makes part of a ſhip ready to receive on board
+                her cargo. The weight of timber is variable ; the ſcantling of the frame is no leſs
+                ſo. We muſt therefore be contented with an average value which is not very remote
+                from the truth ; and this average is to be obtained, not by any mathematical
+                diſcuſſion, but by obſervation of the burthen or cargo actually received, in a great
+                variety of cases. But ſome fort of rule of calculation muſt be made out. This is and
+                muſt be done by perſons not mathematicians. We may therefore expect to find it
+                incapable of being reduced to any principle, and that every builder will have a
+                different rule. Accordingly the rules given for this purpoſe are in general very
+                whimſical, measures being uſed and combined in a way that ſeems quite unconnected
+                with ſtercometry or the meaſurement of solids. The rules for calculation are even
+                affected by the intereſts of the two parties oppoſitely concerned in the reſult. The
+                calculation for the tonnage by which the cuſtoms are to be exacted by government are
+                quite different from the rule by which the tonnage of a transport hired by
+                government is computed ; and the ſame ſhip hired as a tranſport will be computed
+                near one half bigger than when paying importation duties.</p>
+            <p>Yet the whole of this might be made a very simple buſineſs and very exact. When the
+                ſhip is launched, let her light-water line be marked, and this with the cubical
+                contents of the immerſed part be noted down, and be engroſſed in the deed by which
+                the property of the ſhip is conveyed from hand to hand. The weight of her maſts,
+                sails, rigging, and ſea-ſtores, is moſt eaſily obtained ; and every builder can
+                compute the cubical contents of the body when immerſed to the load water line. The
+                difference of theſe is unqueſtionably the burthen of the ſhip.</p>
+            <p>It is evident from what has been already ſaid in the laſt chapter, that if the number
+                of cubic feet of water which the ſhip diſplaces when light, or, which is the ſame,
+                the number of cubic feet below the light water line, found by the preceding method
+                of calculation, be ſubtracted from the number of cubic feet contained in the bottom
+                below the load water line, and the remainder reduced to tons by multiplying by 74,
+                the number of pounds in a cubic foot of ſea water, and divided by 2240, the number
+                of pounds in a ton, the quotient will be the tonnage.</p>
+            <p>But as this method is very troubleſome, the following rule for this purpoſe is that
+                which is uſed in the king’s and merchant’s ſervice.</p>
+            <p>Let fall a perpendicular from the foreſide of the ſtem at the height of the hawſe
+                holes @@<hi rend="smallcaps">(h),</hi> and another perpendicular from the back of
+                the main poſt at the height</p>
+            <p>of the wing tranſom. From the length between theſe two perpendiculars deduct
+                three-fifths of the extreme breadth @@(I), and alſo as many times 2 ½ inches as
+                there are feet in the height of the wing tranſom above the upper edge of the keel ;
+                the remainder is the length of the keel for tonnage. Now multiply this length by the
+                extreme breadth, and the product by half the extreme breadth, and this laſt product
+                divided by 94 is the tonnage required.</p>
+            <p>Or, multiply the length of the keel for tonnage by the ſquare of the extreme breadth,
+                and the product divided by 188 will give the tonnage.</p>
+            <table>
+                <row>
+                    <cell cols="4"><p><hi rend="italic">Calculation oſ the Tonnage of an Eighty Gun
+                                Ship.</hi></p><p>I. According to the true method.</p></cell>
+                </row>
+                <row>
+                    <cell><p>The weight of the ſhip at her launching draught of water</p><p>The
+                            weight of the furniture</p></cell>
+                    <cell>aching</cell>
+                    <cell><p>tons</p><p>1593</p><p>195</p></cell>
+                    <cell><p>lbs</p><p>406</p><p>720</p></cell>
+                </row>
+                <row>
+                    <cell cols="2">The weight of the ſhip at her light wa-</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>ter mark</cell>
+                    <cell> </cell>
+                    <cell>1788</cell>
+                    <cell>1126</cell>
+                </row>
+                <row>
+                    <cell cols="3">The weight of the ſhip at the load watermark 3652</cell>
+                    <cell><hi rend="smallcaps">1983</hi></cell>
+                </row>
+                <row>
+                    <cell>Real burthen</cell>
+                    <cell> </cell>
+                    <cell>1864</cell>
+                    <cell>857</cell>
+                </row>
+                <row>
+                    <cell cols="2">II. By the common rule.</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell cols="2">Length from the foreſide of the ſtem at</cell>
+                    <cell>Ft</cell>
+                    <cell>inch.</cell>
+                </row>
+                <row>
+                    <cell>the height of the hawſe holes,</cell>
+                    <cell>to the</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell cols="2">aft ſide of the main poſt, at the height</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>of the wing tranſom</cell>
+                    <cell> </cell>
+                    <cell>185</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell cols="2">Three-fifths of the extreme breadth</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>is - - 29 f.</p><p>Height of the wing tranſom</p></cell>
+                    <cell>9 ½ in.</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>is 2 8 f. 4 in. which multiplied by 24 inches is 6</cell>
+                    <cell>8 ½</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Sum 36</cell>
+                    <cell>6</cell>
+                    <cell>36</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Length of the keel for tonnage</cell>
+                    <cell> </cell>
+                    <cell>149</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Extreme breadth</cell>
+                    <cell> </cell>
+                    <cell>49</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell>Product</cell>
+                    <cell> </cell>
+                    <cell>7416</cell>
+                    <cell>10 ½</cell>
+                </row>
+                <row>
+                    <cell>Half the extreme breadth</cell>
+                    <cell>-</cell>
+                    <cell>24</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell cols="2">94)184185</cell>
+                    <cell>8 <hi rend="superscript">3</hi>/<hi rend="subscript">4</hi></cell>
+                </row>
+                <row>
+                    <cell cols="2">Burthen according to the common</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>rule</cell>
+                    <cell>-</cell>
+                    <cell>1959</cell>
+                    <cell>929</cell>
+                </row>
+                <row>
+                    <cell>Real burthen</cell>
+                    <cell> </cell>
+                    <cell cols="2">1864 857</cell>
+                </row>
+                <row>
+                    <cell>Difference</cell>
+                    <cell>-</cell>
+                    <cell>95</cell>
+                    <cell>72</cell>
+                </row>
+            </table>
+            <p>Hence an eighty gun ſhip will not carry the tonnage ſhe is rated at by about 95 tons.
+                As the body of this ſhip is fuller than in ſhips of war in general, there is
+                therefore a nearer agreement between the tonnages found by the two different
+                methods. It may be obſerved that ſhips of war carry leſs tonnage than they are rated
+                at by the common rule, and that moſt merchants ſhips carry</p>
+            <p><hi rend="smallcaps">@@@( h</hi> ) In the merchant ſervice this perpendicular is let
+                fall from the fore ſide of the ſtem at the height of the wing tranſom, by reaſon of
+                the hawſe-holes being generally ſo very high in merchant ſhips, and their ſtems alſo
+                having a great rake forward.</p>
+            <p>@@@(I) The breadth understood in this place is the breadth from outside to outſide of
+                the plank.</p>
+        </body>
+    </text>
+</TEI>

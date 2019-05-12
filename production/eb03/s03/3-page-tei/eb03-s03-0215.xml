@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:07:01Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell cols="4"><hi rend="smallcaps">Patent Shot.</hi></cell>
+                </row>
+                <row>
+                    <cell>N⁰ 8.</cell>
+                    <cell>I ounce</cell>
+                    <cell> </cell>
+                    <cell>620</cell>
+                </row>
+                <row>
+                    <cell>7</cell>
+                    <cell>id.</cell>
+                    <cell>.</cell>
+                    <cell>480</cell>
+                </row>
+                <row>
+                    <cell>×<hi rend="smallcaps">(b)</hi>**</cell>
+                    <cell> id.</cell>
+                    <cell> </cell>
+                    <cell>300</cell>
+                </row>
+                <row>
+                    <cell>1</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>220</cell>
+                </row>
+                <row>
+                    <cell>2</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>180</cell>
+                </row>
+                <row>
+                    <cell>3</cell>
+                    <cell>id.</cell>
+                    <cell> </cell>
+                    <cell>157</cell>
+                </row>
+                <row>
+                    <cell>4</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>105</cell>
+                </row>
+                <row>
+                    <cell>5</cell>
+                    <cell>id.</cell>
+                    <cell> </cell>
+                    <cell>83</cell>
+                </row>
+                <row>
+                    <cell cols="4"><hi rend="smallcaps">Common Shot.</hi></cell></row>
+                <row>
+                    <cell>N⁰ 7.</cell>
+                    <cell>1 ounce</cell>
+                    <cell> </cell>
+                    <cell>350</cell>
+                </row>
+                <row>
+                    <cell>6</cell>
+                    <cell>id.</cell>
+                    <cell>.</cell>
+                    <cell>260</cell>
+                </row>
+                <row>
+                    <cell>5</cell>
+                    <cell>id.</cell>
+                    <cell> </cell>
+                    <cell>235</cell>
+                </row>
+                <row>
+                    <cell>4</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>190</cell>
+                </row>
+                <row>
+                    <cell> 3</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>140</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">2</hi></cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>110</cell>
+                </row>
+                <row>
+                    <cell>1</cell>
+                    <cell>id.</cell>
+                    <cell>-</cell>
+                    <cell>95</cell>
+                </row>
+            </table>
+            <p>For a fowling-piece of a common caliber, which is from 24 to 30 balls to the pound
+                weight, a dram and a quarter, or at moſt a dram and a half, of good powder ; and an
+                ounce, or an ounce and a quarter of ſhot, is ſufficient. But when ſhot of a larger
+                ſize is uſed, ſuch as N⁰ 5. the charge of ſhot may be increaſed one- fourth, for the
+                purpoſe of counterbalancing in ſome degree what the ſize of the ſhot loses in the
+                number of pellets, and alſo to enable it to garniſh the more. For this purpoſe the
+                ſportſman will find a meaſure marked with the proper gauges very convenient to him.
+                An inſtrument of this nature has been made by an ingenious artiſt of London, Egg, of
+                the Haymarket.</p>
+            <p>A conſequence of overloading with ſhot, is the powder has not ſufficient ſtrength to
+                throw it to its proper diſtance ; for if the object fired at be diſtant, one-half of
+                the pellets compoſing the charge, by their too great quantity and weight, will
+                ſtrike againſt each other, and fall by the way ; and thoſe which reach the mark will
+                have ſmall force, and will produce but little or no effect.</p>
+            <p>The uſe of the <hi rend="italic">wadding</hi> is to carry the ſhot in a body to a
+                certain diſtance from the muzzle of the piece. It ought to be of ſoft and pliable
+                materials. The beſt kind of wadding, in the opinion of an experienced fowler, is a
+                piece of an old hat ; but this cannot be obtained in ſufficient quantity. Next to it
+                nothing is better than ſoft brown paper, which combines ſuppleneſs with conſiſtence,
+                moulds itſelf to the barrel, and never falls to the ground within 12 or 15 paces
+                from the muzzle of the piece. Tow anſwers very well, and cork has been extolled for
+                poſſeſſing the peculiar virtue of increaſing the range and cloſeneſs of the
+                ſhot.</p>
+            <p>The wadding ought to be quite cloſe in the barrel, but not rammed too hard ; for if
+                it be rammed too cloſe, or be of a rigid ſubſtance, the piece will recoil, and the
+                ſhot will ſpread too much. On the other hand, if the wadding be very looſe, or is
+                compoſed of too ſoft materials, ſuch as wool or cotton, the diſcharge will not
+                poſſeſs proper force.</p>
+            <p>In loading a piece, the powder ought to be ſlightly rammed down by only preſſing the
+                ramrod two or three times on the wadding, and not by drawing up the ramrod and then
+                returning it into the barrel with a jerk of</p>
+            <p>the arm ſeveral times. For when the powder is violently compreſſed, ſome of the
+                grains muſt be bruiſed, which will prevent the exploſion from being quick, and will
+                ſpread the ſhot too wide. In pourin the powder into the barrel, the meaſure ought to
+                be held ſo as that the powder may fall moſt readily to the bottom. That no grains
+                may adhere to the ſides of the barrel, the butt-end of the piece may be ſtruck
+                against the ground. The ſhot ought never to be rammed down with force : it is
+                ſufficient to ſtrike the butt-end of the gun againſt the ground as before. Then the
+                wadding is to be put down gently. A ſportſman ought never to carry his gun under his
+                arm with the muzzle inclined downwards, for this practice looſens the wadding and
+                charge too much.</p>
+            <p>Immediately after the piece is fired it ought to be reloaded ; for while the barrel
+                is ſtill warm, there is no danger of any moiſture lodging in it to hinder the powder
+                from falling to the bottom. As it is found that the coldneſs of the barrel, and
+                perhaps the moiſture condenſed in it, diminishes the force of the powder in the
+                firſt ſhot ; it is proper to fire off a little powder before the piece is loaded.
+                Some prime before loading, but this is not proper unleſs the touch-hole be very
+                large. After every diſcharge the touch-hole ought to be pricked, or a ſmall feather
+                may be inſerted to clear away any humidity or foulneſs that has been contracted.</p>
+            <p>The ſportſman having loaded his piece, muſt next prepare to fire. For this purpoſe he
+                ought to place his hand near the entrance of the ramrod, and at the ſame time graſp
+                the barrel firmly. The muzzle ſhould be a little elevated, for it is more uſual to
+                ſhoot low than high. This direction ought particularly to be attended to when the
+                object is a little diſtant ; becauſe ſhot as well as ball only moves a certain
+                diſtance point blank, when it begins to deſcribe the curve of the parabola.</p>
+            <p>Practice ſoon teaches the ſportſman the proper distance at which he ſhould ſhoot. The
+                diſtance at which he ought infallibly to kill any kind of game with patent ſhot,
+                    N<hi rend="superscript">o</hi> 3. provided the aim be well taken, is from 25 to
+                35 paces for the footed, and from 40 to 45 paces for the winged, game. Beyond this
+                diſtance even to 50 or 55 paces, both partridges and hares are ſometimes killed ;
+                but in general the hares are only ſlightly wounded, and carry away the ſhot ; and
+                the partridges at that diſtance preſent ſo ſmall a ſurface, that they frequently
+                eſcape untouched between the ſpaces of the circle. Yet it does not follow that a
+                partridge may not be killed with N⁰ 3 patent ſhot at 60 and even 70 paces diſtance,
+                but then theſe ſhots are very rare.</p>
+            <p>In ſhooting at a bird flying, or a hare running acroſs, it is neceſſary to take aim
+                before the object in proportion to its diſtance at the time of firing. If a
+                partridge flies acroſs at the diſtance of 30 or 35 paces, it will be ſufficient to
+                aim at the head, or at moſt but a ſmall ſpace before it. If it be 50, 60, or 70
+                paces distant, it is then requiſite to aim at leaſt half a foot before the head. The
+                ſame practice ought to be obſerved in ſhooting at a hare, rabbit, or fox, when
+                running in a croſs direction ; at the ſame time making due allowance</p>
+            <p><hi rend="smallcaps">@@@(b)</hi> The reader will obſerve, that the patent ſhot has no
+                N⁰ <hi rend="italic">6.</hi> the × being ſubſtituted in its place, and that the
+                numbers do not follow each other in the order of progreſſion : the reaſon of this we
+                cannot aſſign.</p>
+        </body>
+    </text>
+</TEI>

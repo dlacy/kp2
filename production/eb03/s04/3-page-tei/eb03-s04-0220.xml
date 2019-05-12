@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:27Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell cols="2">Specific Gravity.</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Ol. Vit.</cell>
+                    <cell>Water.</cell>
+                    <cell><p>Obſerved.</p></cell>
+                    <cell>Calculated.</cell>
+                    <cell>Cond.</cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>× O</cell>
+                    <cell>1,877</cell>
+                    <cell>1.877</cell>
+                    <cell>.00</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>4</cell>
+                    <cell>1,644</cell>
+                    <cell>1,501</cell>
+                    <cell>,143</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>8</cell>
+                    <cell>1,474</cell>
+                    <cell>1,350</cell>
+                    <cell>,124</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>12</cell>
+                    <cell>1,381</cell>
+                    <cell>1,269</cell>
+                    <cell>,112</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>16</cell>
+                    <cell>1,320</cell>
+                    <cell>1,219</cell>
+                    <cell>,101</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>20</cell>
+                    <cell>1,274</cell>
+                    <cell>1,184</cell>
+                    <cell>,090</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>24</cell>
+                    <cell>1,243</cell>
+                    <cell>1,159</cell>
+                    <cell>,084</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>28</cell>
+                    <cell>1,2 I I</cell>
+                    <cell>1,140</cell>
+                    <cell>,071</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>32</cell>
+                    <cell>1,195</cell>
+                    <cell>1,125</cell>
+                    <cell>,070</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>36</cell>
+                    <cell>1,183</cell>
+                    <cell>1,113</cell>
+                    <cell>,070</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>40</cell>
+                    <cell>1,172</cell>
+                    <cell>1,103</cell>
+                    <cell>,070</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>50</cell>
+                    <cell>1,148</cell>
+                    <cell>1,084</cell>
+                    <cell>,064</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>60</cell>
+                    <cell>1,128</cell>
+                    <cell>1,069</cell>
+                    <cell>,059</cell>
+                </row>
+            </table>
+            <p>Here is obſerved a much greater condenſation than in the mixture of alcohol and
+                water. But we cannot aſſign the proportion of ingredients which produces the
+                greateſt condenſation ; becauſe we cannot, in any caſe, say what is the proportion
+                of the ſaline and watery ingredients. The ſtrongeſt oil of vitriol is already a
+                watery ſolution; and it is by a conſiderable and uncertain detour that Mr Kirwan has
+                aſſigned the proportion of 612 and 388 nearly. If this be the true ratio, it is
+                unlike every other ſolution that we are acquainted with ; for in all ſolutions of
+                ſalts, the ſalt occupies leſs room in its liquid form than it did when ſolid ; and
+                here it would be greatly the reverſe.</p>
+            <p>This ſolution is remarkable alſo for the copious emergence of heat in its dilutions
+                with more water. This has been aſcribed to the great ſuperiority of water in its
+                capacity for heat ; but there are facts which render this very doubtful. A veſſel of
+                water, and another of oil of vitriol, being brought ſrom a cold room into a warm
+                one, they both imbibe heat, and riſe in their temperature ; and the water employs
+                nearly the ſame time to attain the temperature of the room.</p>
+            <p>Aquafortis or nitrous acid is another fluid very much employed in commerce ; ſo that
+                it is of importance to aſcertain the relation between its ſaline ſtrength and its
+                ſpecific gravity. We owe alſo to Mr Kirwan a table for this purpoſe.</p>
+            <p>The moſt concentrated ſtate into which it can easily be brought is ſuch, that 1000
+                grains of it conſiſts of 563 grains of water and 437 of dry acid. In this ſtate its
+                ſpecific gravity is 1,557. Let this be called <hi rend="italic">nitrous
+                add.</hi></p>
+            <table>
+                <row>
+                    <cell>Nitr. Ac.</cell>
+                    <cell>Water.</cell>
+                    <cell cols="3"></cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>× O</cell>
+                    <cell>1,557</cell>
+                    <cell>1,557</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>I</cell>
+                    <cell>1,474</cell>
+                    <cell>1,474</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>6</cell>
+                    <cell>1,350</cell>
+                    <cell>1,273</cell>
+                    <cell>0,077</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>11</cell>
+                    <cell>1,269</cell>
+                    <cell>1,191</cell>
+                    <cell>o,078</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>16</cell>
+                    <cell>1,214.</cell>
+                    <cell>1,147</cell>
+                    <cell>0,067</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>21</cell>
+                    <cell>1,175</cell>
+                    <cell>1,120</cell>
+                    <cell>0,055</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>26</cell>
+                    <cell>1,151</cell>
+                    <cell>1,101</cell>
+                    <cell>0,050</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>31</cell>
+                    <cell>1,127</cell>
+                    <cell>1,087</cell>
+                    <cell>0,040</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>36</cell>
+                    <cell>1,106</cell>
+                    <cell>1,077</cell>
+                    <cell>c,029</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>41</cell>
+                    <cell>1,086</cell>
+                    <cell>1,068</cell>
+                    <cell>0,018</cell>
+                </row>
+            </table>
+            <p>There is not the ſame uniformity in the denſities of this acid in its different
+                ſtates of dilution. This ſeems owing to the variable proportion of the deleterious
+                and vital air which compose this acid. It is more denſe in</p>
+            <p>proportion as it contains more of the latter ingredient.</p>
+            <p>The proportions of the aeriform ingredients of the muriatic acid are ſo very
+                variable, and ſo little under our command, that we cannot frame tables of its
+                ſpecific gravity which would enable us to judge of its ſtrength.</p>
+            <p>It is a general property of theſe acids, that they are more expanſible by heat as
+                they are more concentrated.</p>
+            <p>There is another claſs of fluids which it would be of great conſequence to reduce to
+                ſome rules with reſpect to ſpecific gravity, namely, the ſolutions oſ ſalts, gums,
+                and reſins. It is intereſting to the philoſopher to know in what manner ſalts are
+                contained in theſe watery ſolutions, and to diſcover the relation between their
+                ſtrength and denſity ; and to the man of buſineſs it would be a moſt deſirable thing
+                to have a criterion of the quantity of ſalt in any brine, or of extractible matter
+                in a decoction. It would be equally deſirable to thoſe who are to purchaſe them as
+                to thoſe who manufacture or employ them. Perhaps we might aſcertain in this way the
+                value of ſugar, depending on the quantity of ſweetening matter which it contains ; a
+                thing which at preſent reſts on the vague determination of the eye or palate. It
+                would therefore be doing a great ſervice to the public, if ſome intelligent perſon
+                would undertake a train of experiments with this view. Accuracy alone is required ;
+                and it may be left to the philoſophers to compare the facts, and draw the
+                conſequences reſpecting the internal arrangement of the particles.</p>
+            <p>One circumſtance in the ſolution of ſalts is very general ; and we are inclined, for
+                ſerious reaſons, to think it univerſal: this is a diminution of bulk. This indeed in
+                ſome ſalts is inconſiderable. Sedative ſalt, for inſtance, hardly ſhows any
+                diminution, and might be conſidered as an exception, were it not the ſingle
+                inſtance. This circumſtance, and ſome conſiderations connected with our notions of
+                this kind of ſolution, diſpoſe us to think that this ſalt differs in contraction
+                from others only in degree, and that there is ſome, though it was not ſenſible, in
+                the experiments hitherto made.</p>
+            <p>Theſe experiments, indeed, have not been numerous. Thoſe of Mr Achard of Berlin, and
+                of Dr Richard Watſon of Cambridge, are perhaps the only ones of which we have a
+                deſcriptive narration, by which we can judge of the validity of the inferences drawn
+                from them. The ſubject is not ſuſceptible of much accuracy ; for salts in their
+                ſolid form are ſeldom free from cavities and ſhivery interſtices, which do not admit
+                the water on their firſt immerſion, and thereby appear of greater bulk when we
+                attempt to meaſure their ſpecific gravity by weighing them in fluids which do not
+                diſſolve them, ſuch as ſpirits of turpentine. They alſo attach to themſelves, with
+                conſiderable tenacity, a quantity of atmoſpheric air, which merely adheres, but
+                makes no part of their compoſition. This eſcapes in the act of ſolution, being ſet
+                at liberty by the ſtronger affinity of the water. Sal gem, however, and a few
+                others, may be very accurately meaſured; and in theſe inſtances the degree of
+                contraction is very conſtant.</p>
+            <p>The following experiments of Dr Watſon appear to us the moſt inſtructive as to this
+                circumſtance. A glaſs veſſel was uſed, having a ſlender cylindrical neck, and
+                holding 67 ounces of pure water when filled to a cer-</p>
+        </body>
+    </text>
+</TEI>

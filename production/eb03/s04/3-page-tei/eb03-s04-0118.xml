@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:21:51Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ven in the evening, and the penalty of obſtructing is 100 l. Every maker of ſoap
+                before he begins any making, if within the bills of mortality, ſhall give 12 hours,
+                if elſewhere 24 hours, notice in writing to the officer, of the time when he intends
+                to begin, on pain of 50 l. No maker ſhall remove any ſoap unſiirveyed on pain of 20
+                l. without giving proper notice of his intention. And if any maker ſhall conceal any
+                ſoap or materials, he ſhall forfeit the ſame, and alſo 500l. Every barrel of ſoap
+                ſhall contain 256 lb. avoirdupois, half barrel 128 lb. firkin 64lb. half-firkin
+                32lb. beſides the weight or tare of each caſk : and all ſoap, excepting hard cake
+                ſoap and ball ſoap, ſhall be put into ſuch caſks and no other, on pain of
+                forfeiture, and 5 l. The maker ſhall weekly enter in writing at the next office the
+                ſoap made by him in each week, with the weight and quantity at each boiling, on pain
+                of 50 l ; and within one week after entry clear off the duties, on pain of double
+                duty. See, beſides the ſtatutes above cited, 5 Geo. III. cap. 43. 12 Geo. III. cap.
+                46. 11 Geo. cap. 30. 1 Geo. ſtat. 2. cap. 36.</p>
+            <p><hi rend="italic">Starkey's </hi><hi rend="italic smallcaps">Soap.</hi> See <hi
+                    rend="smallcaps">Chemistry,</hi> n⁰ 1027.</p>
+            <p><hi rend="italic">Acid </hi><hi rend="italic smallcaps">Soap.</hi> This is formed by
+                the addition of concentrated acids to the expreſſed oils. Thus the oil is rendered
+                partially soluble in water ; but the union is not ſufficiently complete to anſwer
+                any valuable purpoſe,</p>
+            <p><hi rend="italic">Soap-Berry Tree.</hi> See <hi rend="smallcaps">Sapindus.</hi></p>
+            <p><hi rend="italic">Soap-Earth.</hi> See <hi rend="smallcaps">Steatites.</hi></p>
+            <p>SOAPWORT. See <hi rend="smallcaps">Saponaria.</hi></p>
+            <p>SOC (Sax.), ſignifies power or liberty to miniſter juſtice or execute laws : alſo the
+                circuit or territory wherein ſuch power is exerciſed. ‘ Whence our law-Latin word
+                    <hi rend="italic">ſocca</hi> is uſed for a ſeigniory or lordſhip enfranchiſed by
+                the king, with the liberty oſ holding or keeping a court of his s<hi rend="italic"
+                    >ockmen :</hi> And this kind of liberty continues in divers parts oſ England to
+                this day, and is known by the names of <hi rend="italic">ſoke</hi> and <hi
+                    rend="italic">ſoken.</hi></p>
+            <p>SOCAGE, in its moſt general and extenſive ſignification, ſeems to denote a tenure by
+                any certain and determinate ſervice.@@ And in this ſenſe it is by our ancient writer
+                s conſtantly put in oppoſition to chivalry or knight-ſervice, where the render was
+                precarious and uncertain. The ſervice muſt therefore be certain, in order to
+                denominate it ſocage ; as to hold by fealty and 20 s. rent ; or, by homage, fealty,
+                and 20 s. rent ; or, by homage and fealty without rent ; or, by fealty and certain
+                corporal ſervice, as ploughing the lord’s land for three days ; or, by fealty only
+                without any other ſervice : for all theſe are tenures in ſocage.</p>
+            <p>Socage is of two sorts : free-socage, where the ſervices are not only certain but
+                honourable ; and <hi rend="italic">villein-</hi>ſoeage, where the ſervices, though
+                certain, are of a baſer nature (ſee <hi rend="smallcaps">Villenage).</hi> Such as
+                hold by the former tenure are called, in Glanvil and other ſubſequent authors, by
+                the name of <hi rend="italic">liberi sοkemanni,</hi> or tenants in free- ſocage. The
+                word is derived from the Saxon appellation soc<hi rend="italic">,</hi> which
+                ſignifies liberty or privilege ; and, being joined to an uſual termination, is
+                called <hi rend="italic">ſocage,</hi> in Latin socagium<hi rend="italic"> ;</hi>
+                ſignifying thereby a free or privileged tenure.</p>
+            <p>It ſeems probable that the ſocage-tenures were the relics of Saxon liberty; retained
+                by ſuch perſons as had neither,forfeited them to the king, nor been obliged to
+                exchange their tenure for the more honourable, as it was called, but at the ſame
+                time more burthenſome, te</p>
+            <p>nure of knight-ſervice. This is peculiarly remarkable in the tenure which prevails in
+                Kent, called <hi rend="italic">gavelkind, </hi>which is generally acknowledged to be
+                a ſpecies of focage-tenure ; the preſervation whereof inviolate from the innovations
+                of the Norman conqueror is a fact univerſally known. And thoſe who thus preſerved
+                their liberties were ſaid to hold in free and common ſocage.</p>
+            <p>As therefore the grand criterion and distinguiſhing mark of this ſpecies of tenure
+                are the having its renders or ſervices aſcertained, it will include under it all
+                other methods of holding free lands by certain and invariable rents and duties ; and
+                in particular, <hi rend="italic">Petit </hi><hi rend="italic smallcaps">Serjeanty,
+                    </hi><hi rend="italic">Tenure in </hi><hi rend="italic smallcaps">Burgage,</hi>
+                and <hi rend="smallcaps">Gavelkind.</hi> See theſe articles.</p>
+            <p>SOCIETY, a number of rational and moral beings, united for their common preſervation
+                and happineſs.</p>
+            <p>There are ſhoals of fiſhes, herds of quadrupeds, and flocks of birds. But till
+                obſervation enable us to determine with greater certainty, how far the inferior
+                animals are able to look through a ſeries of means to the end which theſe are
+                calculated to produce, how far their conduct may be influenced by the hope of reward
+                and the fear of punishment, and whether they are at all capable of moral
+                diſtinctions—we cannot with propriety apply to them the term <hi rend="italic"
+                    >Society.</hi> We call crows, and beavers, and ſeveral other ſpecies oſ animals,
+                    <hi rend="italic">gregarious ;</hi> but it is hardly good Engliſh to ſay that
+                they are <hi rend="italic">ſocial.</hi></p>
+            <p>It is only human ſociety, then, that can become the ſubject of our preſent
+                inveſtigation. The phenomena which it preſents are highly worthy of our notice.</p>
+            <p>Such are the advantages which each individual evidently derives from living in a
+                ſocial ſtate ; and ſo helpleſs does any human being appear in a solitary ſtate, that
+                we are naturally led to conclude, that if there ever was a period at which mankind
+                were ſolitary beings, that period could not be of long duration ; for their aversion
+                to ſolitude and love of society would ſoon induce them to enter into ſocial union.
+                Such is the opinion which we are led to conceive, when we compare our own condition
+                as members of civilized and enlightened society with that of the brutes around us,
+                or with that of ſavages in the earlier and ruder periods of ſocial life. When we
+                hear of Indians wandering naked through the woods, deſtitute of arts, unskilled in
+                agriculture, ſcarce capable oſ moral diſtinctions, void of all religious ſentiments,
+                or poſſeſſed with the moſt abſurd notions concerning ſuperior powers, and procuring
+                means of ſubſiſtence in a manner equally precarious with that of the beaſts of
+                prey—we look down with pity on their condition, or turn from it with horror. When we
+                view the order of cultivated ſociety, and conſider our inſtitutions, arts, and
+                manners—we rejoice over our ſuperior wiſdom and happineſs.</p>
+            <p>Man in a civilized ſtate appears a being of a ſuperior order to man in a ſavage ſtate
+                ; yet ſome philoſophers tell us, that it is only he who, having been educated in
+                ſociety. has been taught to depend upon others, that can be helpleſs or miſerable
+                when placed in a ſolitarv ſtate. They view the ſavage who exerts himſelf with
+                intrepidity to ſupply his wants, or bears them with fortitude, as the greateſt hero,
+                and poſſeſſing the greateſt happineſs. And therefore if we agree with them, that the
+                propenſities of nature may have prompted men to</p>
+            <p>@@@[mu] <hi rend="italic">Blackft. Comment. </hi>vol. ii.</p>
+        </body>
+    </text>
+</TEI>

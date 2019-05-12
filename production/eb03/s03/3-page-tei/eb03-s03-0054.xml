@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:03:04Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <sp>
+                <l>Ride on thy wings, and thou with thy compeers,</l>
+                <l>Us’d to the yoke, draw’ſt his triumphant wheels</l>
+                <l>In progreſs thro’ the road of heav'n star-pav'd.</l>
+            </sp>
+            <bibl><title>Paradise Lost</title>, b. 4.</bibl>
+            <p>The concluding epithet forms a grand and delightful image, which cannot be the
+                genuine offspring of rage.</p>
+            <p>4. Sentiments too artificial for a ſerious paſſion. The firſt example is a ſpeech of
+                Percy expiring.</p>
+            <sp>
+                <l>O, Harry, thou haſt robb’d me of my growth :</l>
+                <l>I better brook the loſs of brittle life,</l>
+                <l>Than thoſe proud titles thou haſt won of me ; [fleſh.</l>
+                <l>They wound my thoughts worſe than thy ſword my</l>
+                <l>But thought’s the ſlave of life, and life time’s fool; </l>
+                <l>And time, that takes ſurvey of all the world,</l>
+                <l>Muſt have a stop.</l>
+            </sp>
+            <bibl><title>First Part, Henry IV.</title> act 5. sc. 9.</bibl>
+            <p>The ſentiments of the <bibl><title><hi rend="italic">Mourning
+                    Pride</hi></title></bibl> are for the most part no leſs delicate than just
+                copies of nature : in the following exception the picture is beautiful, but too
+                artful to be ſuggeſted by ſevere grief.</p>
+            <sp>
+                <speaker>Almeria.</speaker>
+                <l>O no ! Time gives increaſe to my afflictions.</l>
+                <l>The circling hours, that gather all the woes</l>
+                <l>Which are diffus’d through the revolving year,</l>
+                <l>Come heavy laden with th’ oppreſſive weight</l>
+                <l>To me ; with me, ſuccessively, they leave</l>
+                <l>The ſighs, the tears, the groans, the reſtleſs cares,</l>
+                <l>And all the damps of grief, that did retard their flight;</l>
+                <l>They ſhake their downy wings, and ſcatter all</l>
+                <l>The dire collected dews on my poor head ;</l>
+                <l>Then fly with joy and ſwiftneſs from me.</l>
+            </sp>
+            <bibl>Act 1. sc. 1.</bibl>
+            <p>In the ſame play, Almeria feeing a dead body, which ſhe took to be Alphonſo’s,
+                expreſſes ſentiments ſtrained and artificial, which nature ſuggeſts not to any
+                perſon upon ſuch an occaſion :</p>
+            <sp>
+                <l>Had they or hearts or eyes, that did this deed ?</l>
+                <l>Could eyes endure to guide ſuch cruel hands ?</l>
+                <l>Are not my eyes guilty alike with theirs,</l>
+                <l>That thus can gaze, and yet not turn to ſtone ?</l>
+                <l>—I do not weep ! The ſprings of tears are dry’d,</l>
+                <l>And of a ſudden I am calm, as if <stage>[ der’d !</stage></l>
+                <l>All things were well ; and yet my huſband’s mur-</l>
+                <l>Yes, yes, I know to mourn : I’ll ſluice this heart,</l>
+                <l>The ſource of wo, and let the torrent in.</l>
+            </sp>
+            <bibl>Act. 5. sc. 11.</bibl>
+            <p><bibl><author>Pope</author>’s <title>elegy to the memory of an unfortunate
+                        lady</title></bibl>, expreſſes delicately the moſt tender concern and ſorrow
+                that one can feel for the deplorable fate of a perſon of worth. Such a poem, deeply
+                ſerious and pathetic, rejects with diſdain all fiction. Upon that account, the
+                following passage deserves no quarter ; for it is not the language of the heart, but
+                of the imagination indulging its flights at eaſe, and by that means is eminently
+                diſcordant with the ſubject. It would be a ſtill more ſevere cenſure, if it ſhould
+                be aſcribed to imitation, copying indiſcreetly what has been ſaid by others :</p>
+            <lg>
+                <l>What tho’ no weeping loves thy aſhes grace,</l>
+                <l>Nor poliſh’d marble emulate thy face ?</l>
+                <l>What though no ſacred earth allow thee room,</l>
+                <l>Nor hallow’d dirge be mutter’d o’er thy tomb ?</l>
+                <l>Yet ſhall thy grave with riſing flow’rs be dreſt,</l>
+                <l>And the green turf lie lightly on thy breaſt :</l>
+                <l>There ſhall the morn her earlieſt tears beſtow,</l>
+                <l>There the firſt roſes of the year ſhall blow ;</l>
+                <l>While angels with their ſilver wings o’erſhade</l>
+                <l>The ground, now ſacred by thy relics made.</l>
+            </lg>
+            <p>5. Fanciful or finical ſentiments. Sentiments that degenerate into point or conceit,
+                however they may amuſe in an idle hour, can never be the offspring of any ſerious or
+                important paſſion. In the <bibl><title><hi rend="italic">Jeruſalem</hi></title> of
+                        <author>Taſſo</author></bibl>, Tancred, after a single combat, ſpent with
+                fatigue and loſs of blood, falls into a ſwoon ; in which ſituation, underſtood to be
+                dead, he is diſcovered by Erminia, who was in love with him to distraction. A more
+                happy ſituation cannot be imagined, to raiſe grief in an inſtant to its higheſt
+                pitch ; and yet, in venting her ſorrow, ſhe deſcends moſt abominably into antithesis
+                and conceit even of the loweſt kind :</p>
+            <sp>
+                <l>E in lui verso d’ineſſicabil vena</l>
+                <l>Lacrime, e voce di ſoſpiri miſta.</l>
+                <l>In che miſero punto hor qui me mena</l>
+                <l>Fortuna ? a che veduta amara e triſta ?</l>
+                <l>Dopo gran tempo i’ ti ritrovo a pena</l>
+                <l>Tancredi, e ti riveggio, e non ſon viſta</l>
+                <l>Viſta non ſon da te, benche preſente</l>
+                <l>T trovando ti perdo eternamente.</l>
+            </sp>
+            <bibl>Canto 19. st. 105.</bibl>
+            <p>Armida’s lamentation reſpecting her lover Rinaldo is in the ſame vicious taſte.
+                        <bibl><hi rend="italic">Vid.</hi> canto 20. ſtan. 124, 125, 126.</bibl></p>
+            <sp>
+                <speaker>Queen.</speaker>
+                <l>Give me no help in lamentation,</l>
+                <l>I am not barren to bring forth complaints :</l>
+                <l>All ſprings reduce their currents to mine eyes,</l>
+                <l>That I, being govern’d by the wat’ry moon,</l>
+                <l>May lend forth plenteous tears to drown the world,</l>
+                <l>Ah, for my huſband, for my dear lord Edward.</l>
+            </sp>
+            <bibl><title>King Richard III.</title> act. 2. ſc. 2.</bibl>
+            <p>Jane Shore utters her laſt breath in a witty conceit :</p>
+            <sp>
+                <l>Then all is well, and I ſhall ſleep in peace </l>
+                <l>Tis very dark, and I have loſt you now </l>
+                <l>Was there not ſomething I would have bequeath’d you?</l>
+                <l>But I have nothing left me to beſtow,</l>
+                <l>Nothing but one ſad ſigh. Oh mercy, Heav’n ! <stage>[ Dies.</stage></l>
+            </sp>
+            <bibl>Act 5.</bibl>
+            <p>Gilford to Lady Jane Gray, when both were condemned to die :</p>
+            <sp>
+                <l>Thou ſtand’ſt unmov’d ;</l>
+                <l>Calm temper fits upon thy beauteous brow ;</l>
+                <l>Thy eyes that flow’d ſo faſt for Edward’s loſs,</l>
+                <l>Gaze unconcern’d upon the ruin round thee,</l>
+                <l>As if thou had’ſt reſolv’d to brave thy fate,</l>
+                <l>And triumph in the midſt of deſolation.</l>
+                <l>Ha! ſee, it ſwells, the liquid cryſtal riſes,</l>
+                <l>It ſtarts in ſpite of thee-- but I will catch if,</l>
+                <l>Nor let the earth be wet with dew ſo rich.</l>
+            </sp>
+            <bibl><title>Lady Jane Gray</title>, act 4. near the end.</bibl>
+            <p>The concluding ſentiment is altogether finical, unſuitable to the importance of the
+                occaſion, and even to the dignity of the paſſion of love.</p>
+        </body>
+    </text>
+</TEI>

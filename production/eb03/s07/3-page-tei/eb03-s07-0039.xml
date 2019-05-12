@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T20:11:18Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>A.</p>
+            <p><hi rend="italic">ABDOMEN,</hi> wounds of, n⁰ 15, 16. How treated, 26.</p>
+            <p>Collection of water in, 263, 264. Of air in, 265. Of a dead perſon, how to be opened,
+                429.</p>
+            <p><hi rend="italic">Abſceſs lumbar,</hi> ch. v. ſect. iv. Abscesses in general, how to
+                be treated, n⁰ 47—50. In the globe of the eye, chap xiii. ſect. iv.</p>
+            <p><hi rend="italic">Abſceſſus</hi> in medulla, n⁰ 119.</p>
+            <p><hi rend="italic">Achilles,</hi> tendon of, wounds of it, how cured, n⁰ 24.</p>
+            <p><hi rend="italic">Amputation</hi> in general, ch. xxxiv. ſect. i. Amputating the arm
+                and fore-arm, ſect. ii. The thigh, ſect. iii. The leg, ſect. iv. At the joints of
+                the extremities, ſect. v. At the ſhoulder joint, n⁰ 413. At the joints of the
+                fingers, 415.</p>
+            <p><hi rend="italic">Anel's</hi> probe and syringe, account of, n⁰ 224, 225. Aneurism<hi
+                    rend="italic">s,</hi> ch. xi. True or encyſted, n⁰ 165. Falſe or diffuſed, 166.
+                Varicoſe, 167. Cauſes, diagnoſis, prognoſis, &amp;c. 168— 171. Remarkable one cured
+                by Mr John Bell, 172. Operation for, how to be performed, 174. How the patient is to
+                be treated afterwards, 180, &amp;c.</p>
+            <p>Ani <hi rend="italic">prolapſus,</hi> ch. xxx. ſect. iv. <hi rend="italic">Antrum
+                    Maxillare,</hi> abſcesses in, ch. xvi. ſect. vi.</p>
+            <p>Anus, diſeaſes of, ch. xxx. Condylomatous excreſcences of, ſect. ii. Imperforated,
+                ſect.</p>
+            <p>V.</p>
+            <p><hi rend="italic">Arm,</hi> amputation of, ch. xxxiv. ſect. ii.</p>
+            <p><hi rend="italic">Arteries,</hi> wounds of, n⁰ 11. Method of tying them, 162, 163.
+                Tumors from, ch. xi. A<hi rend="italic">rteriotomy,</hi> ch. viii ſect. iii.</p>
+            <p>B.</p>
+            <p><hi rend="italic">Bandages,</hi> ch. xxxvi. For the head, n⁰ 419. For the face, 420.
+                For the neck, 421. For the breaſt, &amp;c. 421.</p>
+            <p><hi rend="italic">Bladder,</hi> ſtone in, ch xxvii. B<hi rend="italic"
+                    >lood-letting,</hi> ch. viii. Conſequences which ſometimes attend it, n⁰ 18
+                Opinions concerning the cauſes of theſe conſequences, 19— 22. How to be obviated,
+                23.</p>
+            <p><hi rend="italic">Boils</hi> of the gums, n⁰ 240.</p>
+            <p><hi rend="italic">Bones,</hi> diſeaſes of ch. vii. Carious in the joints, how the I
+                ends are to be removed, ch. [ xxxiv. ſect. V.</p>
+            <p><hi rend="italic">Brain,</hi> affections of, from external violence, ch. xii.
+                Compreſſion of, ſect. i. Concuſſions of, ſect. ii. Inflammation of, ſect. iii.</p>
+            <p><hi rend="italic">Breasts</hi> of women, inflammation of, ch. V. ſect. i. Cancer of,
+                n⁰ 76—78. See Thorax.</p>
+            <p><hi rend="italic">Brittleneſs</hi> of the bones, n⁰ 122. <hi rend="italic"
+                    >Bronchocele,</hi> or tumor on the fore part of the neck, ch vi. ſect. V.</p>
+            <p><hi rend="italic">Bronchotomy,</hi> or inciſion made in the wind-pipe, n⁰ 254.</p>
+            <p><hi rend="italic">Buboes,</hi> venereal, ch. v. ſect iii. <hi rend="italic"
+                    >Bubonocele,</hi> or rupture in the groin, ch. xxiii. ſect. ii.</p>
+            <p><hi rend="italic">Burns,</hi> conſequences and cure of, ch. iv. ſect. V.</p>
+            <p><hi rend="italic">Burſae Mucosae,</hi> ſwellings of, ch. vi. ſect. ii.</p>
+            <p>C.</p>
+            <p><hi rend="italic">Calculus.</hi> See <hi rend="italic">Stone.</hi></p>
+            <p><hi rend="italic">Cancers,</hi> ch. iv. ſect. iii. Of the eye, ch. xiii. ſect.
+                vii.</p>
+            <p><hi rend="italic">Cancerous lip,</hi> how extirpated, ch. xvi. ſect. iii.</p>
+            <p><hi rend="italic">Capſular ligaments,</hi> collections within, ch. vi. ſect. iii.</p>
+            <p><hi rend="italic">Carious bones,</hi> how the ends of are to be removed, ch. xxxiv.
+                ſect. V.</p>
+            <p><hi rend="italic">Cataract of the eye,</hi> ch. xiix. ſect. viii.</p>
+            <p><hi rend="italic">Chilblains,</hi> n⁰ 86.</p>
+            <p><hi rend="italic">Circocele,</hi> n⁰ 312.</p>
+            <p><hi rend="italic">Clavicle,</hi> fractures of, n⁰ 387. Luxation of, 369.</p>
+            <p><hi rend="italic">Concision of the brain,</hi> n⁰ 189, 190.</p>
+            <p><hi rend="italic">Contuſions and ſprains,</hi> ch. v. ſect. vi.</p>
+            <p><hi rend="italic">Cornea,</hi> ſpecks on, n⁰ 204. <hi rend="italic">Corns,</hi> n⁰
+                107.</p>
+            <p><hi rend="italic">Cranium,</hi> fracture and depreſſion of, ch. xii. ſect. i. How to
+                open it, n⁰ 428.</p>
+            <p><hi rend="italic">Cupping,</hi> n⁰ 146. Dry, 45. <hi rend="italic">Cystic
+                    hernia,</hi> n⁰ 291.</p>
+            <p>D.</p>
+            <p><hi rend="italic">Dead body, </hi>how opened, c. xxxvii. How embalmed, ch.
+                xxxviii.</p>
+            <p><hi rend="italic">Deafneſs,</hi> cauſes and cure of, ch. xvii.</p>
+            <p><hi rend="italic">Dislocation.</hi> See <hi rend="italic">Luxation.</hi></p>
+            <p><hi rend="italic">Distortion,</hi> ch. xxxiii. Of the ſpine, n⁰ 404. Of the limbs,
+                405.</p>
+            <p><hi rend="italic">Dropsical ſwellings of the joints, n</hi>⁰ 95—99. Of the eye,
+                n⁰209.</p>
+            <p><hi rend="italic">Dropſy,</hi> operation for, n⁰ 264. <hi rend="italic">Dropſy
+                    of</hi> the lachrymal sac, n⁰ 220.</p>
+            <p>E.</p>
+            <p><hi rend="italic">Ear,</hi> diſeaſes of, ch. xvii. Lobes of, how perforated, n⁰ 251,
+                    <hi rend="italic">Elbow,</hi> luxation at, n⁰ 374. Embalming, method of, ch.
+                xxxviii. <hi rend="italic">Emphyema,</hi> or pus collected in the thorax, n⁰
+                261.</p>
+            <p><hi rend="italic">es,</hi> diſeaſes of, ch.xiii. Specks, films, or excreſcences on,
+                ſect. iii. Abſcesses in the globe of, ſect. XV. Dropſical ſwellings of, ſect. v.
+                Cancer of, ſect. vii. Cataract of, ſect. viii.</p>
+            <p><hi rend="italic">Eyeball,</hi> protruſion of, ſect. vi. Wounds of, n⁰ 199.</p>
+            <p><hi rend="italic">Eyelashes,</hi> inverſion of, n⁰ 201. <hi rend="italic"
+                    >Eyelids,</hi> wounds of, n⁰ 198. Diſeaſes of, ch. xiii. ſect. ii.</p>
+            <p><hi rend="italic">Eustachian tube,</hi> affections of, n⁰ 250.</p>
+            <p><hi rend="italic">Excreſcence</hi> on the white of the eye, n⁰ 206.</p>
+            <p><hi rend="italic">Exomphalos,</hi> n⁰ 289.</p>
+            <p><hi rend="italic">Exostosis,</hi> or excreſcence from a bone, n⁰ 115.</p>
+            <p><hi rend="italic">Extremities,</hi> ſuperior, fractures of the bones of, ch. xxxii.
+                ſect. iv. Inferior, fractures of the bones of, ſect. V.</p>
+            <p>F.</p>
+            <p><hi rend="italic">Eabricius ab Aquapendente,</hi> ſcrew invented by, n⁰ <hi
+                    rend="italic">226.</hi></p>
+            <p><hi rend="italic">Fingers,</hi> fracture of, n⁰ 396. Amputation at the joints of,</p>
+            <p><hi rend="italic">Fistula</hi> in perinæo, ch. xxix. ſect. V. In ano, ch. xxx ſect.
+                iii. Lachrymalis, ch. xiv.</p>
+            <p><hi rend="italic">Fissures,</hi> or simple fractures of the skull, ch. xii. ſect.
+                iv.</p>
+            <p><hi rend="italic">Foot,</hi> fracture of the bones of, n⁰ 400. Amputation at the
+                joints of, 417.</p>
+            <p><hi rend="italic">Fore-arm,</hi> fracture of the bones of, n⁰ 393.</p>
+            <p><hi rend="italic">Fractures</hi> in general, ch. xxxii. ſect. i. Of the noſe, n⁰ 385.
+                Of the lower jaw, 386. Of the clavicles, 387. Of the ribs, 388. Of the ſternum, 389.
+                Of the vertebras, 390. Of the ſcapula, 391. Of the humerus, 392. Of the bones of the
+                fore-arm, 393. Of the olecranum,394. Of the bones of the wriſt, 395. Of the fingers,
+                396. Of the thigh-bone, 397. Compound, ch. xxxii. ſect. vi.</p>
+            <p><hi rend="italic">Fungi</hi> in the brain after being trepanned, n⁰ 188.</p>
+            <p>G.</p>
+            <p><hi rend="italic">Ganglions,</hi> ch. vi. ſect. it.</p>
+            <p><hi rend="italic">Gangrene,</hi> ch. iii. ſect. ii. Dry, n⁰ 51. White, 52. Means of
+                preventing, 54, 55. In caſes of hernia, 281.</p>
+            <p><hi rend="italic">Goitre,</hi> or swelling on the neck, ch. vi. ſect v.</p>
+            <p><hi rend="italic">Gummi,</hi> or ſoft tumor on the ſurface of a bone, n⁰ 117.</p>
+            <p><hi rend="italic">Gums,</hi> boils and excreſcences of, ch. xvi. ſect. V.</p>
+            <p><hi rend="italic">Gunpowder,</hi> burns occaſioned by, how cured, n 81.</p>
+            <p><hi rend="italic">Gun-shot wounds,</hi> n⁰ 30—36.</p>
+            <p>H.</p>
+            <p><hi rend="italic">Haematocele Scroti,</hi> or collection of blood in the ſcrotum, ch.
+                xxiv. ſect. iv.</p>
+            <p><hi rend="italic">Hœmorrhagies,</hi> n⁰ 17. <hi rend="italic">Hemorrhoids,</hi> or
+                piles, ch. XXX . ſect. i.</p>
+            <p><hi rend="italic">Hare-lip,</hi> ch. xvi. ſect. ii.</p>
+            <p><hi rend="italic">Head,</hi> wounds of, n⁰ 27. Luxation of, 366.</p>
+            <p><hi rend="italic">Hernia,</hi> or rupture of the inteſtines, ch. xxiii. ſect. i.
+                Inguinal and ſcrotal, ſect. ii. Congenita, ſect. iii. Femoral and crural, ſect. iv.
+                Umbilical, n⁰ 289. Ventral, 290. Cyſtic, 291. Vaginalis, 293.</p>
+            <p><hi rend="italic">Hip-joint,</hi> luxation of, n⁰ 376. Amputation at, 416.</p>
+            <p><hi rend="italic">Hiſtory of Surgery,</hi> n⁰ 2—6.</p>
+            <p><hi rend="italic">Hydrocele,</hi> or watery ſwelling of the ſcrotum, ch xxiv.
+                Anaſarcous of the ſcrotum, ſect. i. Of the tunica vaginalis teſtis, ſect. ii. Of the
+                ſpermatic cord, ſect. iii. Anaſarcous of the ſpermatic cord, n⁰ 307, 308. Encyſted
+                of the ſpermatic cord, 309, 310.</p>
+            <p><hi rend="italic">Hydrops ſacculi lachrymalis.</hi> See <hi rend="italic">Fistula
+                    lachrymalis.</hi></p>
+            <p><hi rend="italic">Hymen,</hi> imperforated, ch. xxx. ſect. vi.</p>
+            <p>I.</p>
+            <p><hi rend="italic">Jaw,</hi> lower, luxation of, n⁰ 365. Fracture of, 386.</p>
+            <p><hi rend="italic">Imperforated nostrils,</hi> ch. xv. ſect. iii. Anus, ch. xxx. ſect.
+                v. Hymen, ſect. vi.</p>
+            <p><hi rend="italic">Indolent tumors,</hi> ch. vi. Steatomatous and ſarcomatous, ſect.
+                i. Scrophulous, sect. v.</p>
+            <p><hi rend="italic">Inflammation</hi> and its conſequences, ch. iii. Of the breaſts of
+                women, ch. v. ſect. i. Of the teſticles, ſect. ii. Of the brain and its membranes,
+                ch. xii. ſect. iii.</p>
+            <p><hi rend="italic">Intestines,</hi> rupture of, ch. xxiii.</p>
+            <p><hi rend="italic">Instruments,</hi> ſurgical. See <hi rend="italic">Explanation oſ
+                    the plates,</hi> p. 187. <hi rend="italic">Joints,</hi> wounds of, n⁰ 28.
+                Dropſical ſwellings in, n⁰ 95—98. Concretions in, 99—101. Of the extremities,
+                amputation at, ch. xxxiv. ſect. v.</p>
+            <p>ch. ix.</p>
+        </body>
+    </text>
+</TEI>

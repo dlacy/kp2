@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:46:57Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>generally but one large black ſpot, though ſometimes a ſingle ſmall one attends it;
+                whereas the pectoral fins of the trout are more numerouſly marked. <hi rend="italic"
+                    >6thly,</hi> The ſpurious or fat fin on the back is never tipped with red; nor
+                is the edge of the anal fin white. <hi rend="italic">6thly,</hi> The ſpots on the
+                body are fewer, and not ſo bright: it is alſo marked from the back to the ſides with
+                fix or ſeven large bluiſh bars; but this is not a certain character, as the fame is
+                ſometimes found in young trouts.<hi rend="italic"> 7thly,</hi> The tail of the
+                ſamlet is much more forked than that of the trout. Theſe fi<hi rend="italic"
+                    >fkirfιnsts, </hi>h are very frequent in the rivers of Scotland, where they are
+                called <hi rend="italic">pars.</hi> They are alſo common in the Wye, where they are
+                known by the name of <hi rend="italic">ſkirlings,</hi> or <hi rend="italic"
+                    >laſprings.</hi></p>
+            <p>6. The alpinus, or red charr (umbla minor, or caſe charr of
+                Pennant), is an inhabitant of the lakes of the north, and of thoſe of the
+                mountainous parts of Europe. It affects clear and pure waters, and is very rarely
+                known to wander into running ſtreams, except into ſuch whoſe bottom is ſimilar to
+                the neighbouring lake. It is found in vaſt abundance in the cold lakes on the
+                ſummits of the Lapland Alps, and is almoſt the only fiſh that is met with in any
+                plenty in thoſe regions; where it would be wonderful bow they ſubſiſted, had not
+                Providence ſupplied them with innumerable larvæ of the gnat kind: theſe are food to
+                the fiſh, who in their turn are a ſupport to the migratory Laplanders, in their
+                ſummer voyages to the diſtant lake. In ſuch excurſions thoſe vacant people find a
+                luxurious and ready repaſt in theſe fiſh, which they dreſs and eat without the
+                addition of ſauces; for exer- ciſe and temperance render uſeleſs the inventions of
+                epi- curiſm. There are but few lakes in our iſland that produce this fiſh; and even
+                thoſe not in any abundance. It is found in Ullſwater and Windermere in Weſtmoreland;
+                in Llyn Quellyn, near the foot of Snowdon; and, before the diſcovery of the copper-
+                mines, in thoſe of Llynberris; but the mineral ſtreams have entirely deſtroyed the
+                fiſh in the laſt lakes. In Scotland it is found in Loch Inch, and other neighbouring
+                lakes, and is ſaid to go into the Spey to ſpawn.</p>
+            <p>“The largeſt and moſt beautiful we ever received (ſays Mr Pennant) were taken in
+                Windermere, and were communicated by the Rev. Mr Fariſh of Carliſle, with an account
+                of their natural hiſtory. He ſent five ſpecimens; two under the name of the <hi
+                    rend="italic">caſe charr,</hi> male and female; another he called the <hi
+                    rend="italic">geld charr,</hi> i. e. a charr which had not ſpawned the preceding
+                ſeaſon, and on that account is reckoned to be in the greateſt perfection. The two
+                others were inſcribed, the <hi rend="italic">red charr,</hi> the <hi rend="italic"
+                    >ſilver</hi> or <hi rend="italic">gild charr,</hi> the <hi rend="italic">carpia
+                    lacus benaci,</hi>
+                <hi rend="smallcaps">Raii </hi><hi rend="italic">Syn. Piſc.</hi> 66. which laſt are
+                in Weſtmoreland diſtinguiſhed by the epithet <hi rend="italic">red,</hi> by reaſon
+                of the fleſh aſſuming a higher colour than the other when dreſſed.</p>
+            <p>“The umbla minor, or caſe charr, ſpawns about Michaelmas, and chiefly in the river
+                Brathy, which uniting with another called the <hi rend="italic">Rowthay,</hi> about
+                a quarter of a mile above the lake, they both fall into it together. The Brathy has
+                a black rocky bottom; the bottom of the Row thay is a bright ſand, and into this the
+                charr are never obſerved to enter. Some of them, however, ſpawn in the lake; but
+                always in ſuch parts of it which are ſtony, and reſemble the channel of the Brathy.
+                They are ſuppoſed to be in the higheſt perſection about May, and continue ſo alt the ſummer; yet are rarely caught after April.
+                When they are ſpawning in the river they will take a bait, but at no other time;
+                being commonly taken, as well as the other ſpecies, in what they <hi rend="italic"
+                    >breast-nests,</hi> which are in length about 24 fathoms, and about five where
+                broadeſt. — The ſeaſon which the other ſpecies ſpawn in is from the beginning of
+                January to the end of March. They are never known to aſcend the rivers, but always
+                in thoſe parts of the lake which are ſpringy, where the bottom is ſmooth and ſandy,
+                and the water warmeſt. The ſiſhermen judge of this warmth, by obſerving that the
+                water ſeldom freezes in the places where they ſpawn except in intenſe froſts, and
+                then the ice is thinner than in other parts of the lake. They are taken in greateſt
+                plenty from the end of September to the end of November; at other times they are
+                hardly to be met with. This ſpecies is much more eſteemed for the table than the
+                other, and is very delicate when potted. The length of the red charr to the diviſion
+                in its tail was 12 inches; its biggeſt circumference almoſt 7. The firſt dorſal fin
+                was five inches and three quarters from the tip of its noſe, and conſiſted of 12
+                branched rays, the firſt of which was ſhort, the fifth the longeſt; the fat fin was
+                very ſmall. Each of the five fiſh had double noſtrils, and ſmall teeth in the jaws,
+                roof of the mouth, and on the tongue. —The jaws of the caſe-charr are perfectly
+                even; on the contrary, thoſe of the red-charr were unequal, the upper jaw being the
+                broadeſt, and the teeth hung over the lower, as might be perceived on paſſing the
+                finger over them. —The geld or barren charr was rather more ſlender than the others,
+                as being without ſpawn. The back was of a gloſſy duſky blue; the ſides ſilvery,
+                mixed with blue, ſpotted with pale red; the ſides of the belly were of a pale red,
+                the bottom white. The tails of each bifurcated. ”</p>
+            <p>7. The thymallus, or grayling, haunts clear and rapid ſtreams, and particularly thoſe
+                that flow through mountainous countries. It is found in the rivers of Derbyſhire; in
+                ſome of thoſe of the north; in the Tame near Ludlow; in the Lug, and other ſtreams
+                near Leominſter; and in the river near Chriſtchursh, Hampſhire. It is alſo very
+                common in Lapland: the inhabitants make life of the guts of this fiſh inſtead of
+                rennet, to make the cheeſe which they get from the milk of the rein-deer. It is a
+                voracious fiſh, riſes freely to the fly, and will very eagerly take a bait. It is a
+                very ſwift ſwimmer, and diſappears like the tranſient paſſage of a ſhadow, from
+                whence we believe it derived the name of <hi rend="italic">umbra.</hi></p>
+            <p>Effugienſque oculos celeri levis <hi rend="italic">umbra </hi>natatu. <hi
+                    rend="italic">Auſon,</hi></p>
+            <p>The <hi rend="italic">umbra</hi> ſwift eſcapes the quickeſt eye.</p>
+            <p><hi rend="italic">Thymalus</hi> and <hi rend="italic">thymus</hi> are names beſtowed
+                on it on account of the imaginary ſcent, compared by ſome to that of thyme; but we
+                never could perceive any particular ſmell. It is a fiſh of an elegant form; leſs
+                deep than that of a trout: the largeſt we ever heard of was taken near Ludlow, which
+                was about half a yard long, and weighed four pounds fix ounces; but this was a very
+                rare inſtance. The irides are ſilvery, tinged with yellow: the teeth very minute,
+                ſeated in the jaws and the roof of the mouth, but none on the tongue: the head is
+                duſky; the covers of the gills of a gloſſy green: the back and ſides of a fine
+                ſilvery grey; but when the fiſh is juft</p>
+        </body>
+    </text>
+</TEI>

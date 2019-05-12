@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:18:59Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>and ſome Tartar tribes ſubdued: but these conqueſts were not permanent ; and we hear
+                of no further communication between Ruſſia and Siberia till the time of John
+                Baſilowitz II. It was opened again at that time by means of one Anika Strogonoſſ, a
+                Russian merchant who had eſtabliſhed ſome ſalt-works at a town in the government of
+                Archangel. This man carried on a trade with the inhabitants of the north-west parts
+                of Siberia, who brought every year to the town above- mentioned large quantities of
+                the fineſt furs. Thus he acquired a very conſiderable fortune in a ſhort time ; when
+                at laſt the czar, perceiving the advantages which would accrue to his ſubjects from
+                having a regular intercourſe with Siberia, determined to enlarge the communication
+                which was already opened. With this view he ſent into Siberia a body of troops,
+                which croſſed the Yugorian mountains, that form part of the north- eaſtern boundary
+                of Europe. They ſeem, however, not to have paſſed the Irtiſh, or to have penetrated
+                farther than the weſtern branch of the river Oby. Some Tartar tribes were laid under
+                contribution, and a chief named <hi rend="italic">Tediger</hi> conſented to pay an
+                annual tribute of 1000 fables. But this produced no laſting advantage to Ruſſia ;
+                for, ſoon after, Yediger was defeated and taken priſoner by Kutchum Khan, a
+                deſcendant of the great Jenghiz Khan : and thus the allegiance of this country to
+                Ruſſia was diſſolved.</p>
+            <p>For ſome time we hear of no further attempts made by the Russians on Siberia; but in
+                1577 the foundation of a permanent conqueſt was laid by one Yermac Temofeeff, a
+                Coſſack of the Don. This man was at firſt the head of a party of banditti who
+                infeſted the Ruffians in the province of Caſan ; but being defeated by the troops of
+                the czar, he retired with 6000 of his followers into the interior parts of that
+                province. Continuing his courſe ſtill eaſtward, he came to Orel, the moſt eaſterly
+                of all the Ruffian settlements. Here he took up his winter-quarters : but his
+                reſtleſs genius did not ſuffer him to continue for any length of time in a ſtate of
+                inactivity ; and from the intelligence he procured concerning the ſituation of the
+                neighbouring Tartars of Siberia, he turned his arms towards that quarter.</p>
+            <p>Siberia was at that time partly divided among a number of ſeparate princes, and
+                partly inhabited by the various tribes of independent Tartars. Of the former Kutchum
+                Khan was the moſt powerful ſovereign. His dominions conſiſted of that tract of
+                coun</p>
+            <p>try which now forms the ſouth-weſtern part of thc province of Tobolſk ; and ſtretched
+                from the banks of the Irtiſh and Oby to thoſe of the Tobol and Tura. His principal
+                reſidence was at Sibir, a ſmall fortreſs upon the river Irtiſh, not far from the
+                preſent town of Tobolſk, and of which ſome ruins are ſtill to be ſeen. After a
+                courſe of unremitted fatigue, and a ſeries of victories which almoſt exceed belief,
+                but of which we have not room to give the detail, our intrepid adventurer
+                diſpoſſeſſed this prince of his dominions, and ſeated himſelf on the throne of
+                Sibir. The number of his followers, however, being greatly reduced, and perceiving
+                he could not depend on the affection oſ his new ſubjects, he had recourſe to the
+                czar of Muſcovy, and made a tender of his new acquiſitions to that monarch, upon
+                condition of receiving immediate and effectual ſupport. This propoſal was received
+                with the greateſt ſatisfaction by the czar ; who granted him a pardon for all former
+                offences, and ſent him the required ſuccours. Yermac, however, being ſoon after
+                drowned in an unſucceſsful excursion, the Russians began to lose their footing in
+                the country. But freſh reinforcements being ſeaſonably ſent, they not only recovered
+                their ground, but puſhed their conqueſts far and wide ; wherever they appeared, the
+                Tartars were either reduced or exterminated. New towns were built, and colonies were
+                planted on all ſides. Before a century had well elapſed, all that vaſt tract of
+                country now called <hi rend="italic">Siberia,</hi> which ſtretches from the confines
+                of Europe to the Eaſtern Ocean, and from the Frozen Sea to the preſent frontiers of
+                China, was annexed to the Russian dominions.</p>
+            <p>The air of Siberia is, in general, extremely piercing, the cold there being more
+                ſevere than in any other part of the Ruffian dominions. The Siberian rivers are
+                frozen very early, and it is late in the ſpring before the ice is thawed @@<hi
+                    rend="smallcaps">(a).</hi> If the corn does not ripen in Auguſt, there is little
+                hope of a harveſt in this country ; and in the province of Jeniſeiſk it is ſometimes
+                covered with ſnow before the peaſants can reap it. To defend the inhabitants againſt
+                this extreme ſeverity of the climate, Providence ſeems more liberally to have dealt
+                out to them wood for fuel and furs for clothing. As the winter’s day in the north
+                parts of Siberia laſt but a few hours, and the ſtorms and flakes of ſnow darken the
+                air ſo much, that the inhabitants, even at noon, cannot ſee to do any thing without
+                artificial lights, they sleep away the greateſt part of that ſeaſon.</p>
+            <p><hi rend="smallcaps">@@@(a)</hi> M. Gmelin, M. Muller, and two other philoſophers,
+                ſet out in the year 1733 to explore the dreary regions of Siberia, by deſire of the
+                empreſs Anne of Ruſſia. After ſpending nine years and a half in obſerving every
+                thing that was remarkable, they returned to Peterſburgh, ; and an account of this
+                journey was publiſhed by M. Gmelin. In order to examine how far the froſt had
+                penetrated into the ground, M. Gmelin, on the 18th of June, at a place called
+                Jacutia, ordered the earth to be dug in high ground ; they found mould to the depth
+                of 11 inches, under which they met with looſe fand to two feet and a half further,
+                after which it grew harder, and at half a foot deeper ſo hard as ſcarce to give way
+                to the tools ; ſo that the ground ſtill remained unthawed at not leſs than the depth
+                of four feet. He made the ſame experiment in a lower ſituation ; the ſoil was 10
+                inches deep, after that a looſe sand for two feet and ten inches, below which all
+                was frozen and hard. At Jacutia the inhabitants preſerve in cellars ſeveral forts of
+                berries, which they reckon among their dainties, perfectly good and freſh the whole
+                year, though these cellars are ſcarce a fathom deep. At the fortreſs of Argun, in
+                little more than 50 degrees of latitude, the inhabitants relate that, the earth in
+                many places is never thawed above a yard and half, and that the internal cold of the
+                earth will ſcarce permit a well to be dug, of which they bring an inſtance that
+                happened not long before the author’s arrival at that place. They deſigned to ſink a
+                well near a houſe at <pb n="453"> </pb>ſome diſtance from the river Argun, for which purpoſe they thawed the earth by
+                degrees, and dug ſome fathoms till they had penetrated a fathom and half below the
+                level of the river, but found no ſpring. Hence perhaps we may venture to affert,
+                that beſides the great elevation of the earth in theſe countries, there is another
+                cauſe, perhaps latent in the earth itſelf, of this extraordinary cold, naturally
+                ſuggeſted to us by considering the cavity of an old ſilver mine at Argun, which
+                being exhauſted of its ore, now ſerves the inhabitants in ſummer time for a cellar
+                to keep their proviſions: this place is ſo extremely cold as to preſerve fleſh meats
+                from putrefaction in the hotteſt ſummers, and to ſink the mercury in de Liſle’s
+                thermometer to 146 and 147. The author travelling from Nerſchoi towards Argun, to
+                viſit the works of the ſilver mines in that place, Auguſt 1735, <hi
+                    rend="superscript">came</hi> to the river Orkija, near Soloniſchaia, on July the
+                1st, from whence he arrived a little before dark at the village of Seventua, diſtant
+                from the river 27 leagues. In this journey he and his fellow travellers for more
+                than four leagues felt it vaſtly cold ; ſoon after they came into a warm air, which
+                continued ſome leagues ; after which the cold returned ; and thus are travellers
+                ſubjected to perpetual viciſſitudes of warmth and cold. But it is obſerved, in
+                general, that the eaſtern parts are colder than the weitem, though ſituated in the
+                same latitude ; for as in thoſe eaſtern regions ſome tracts of land are much colder
+                than the rest, their effects muſt be felt by the neighbouring parts. And this
+                conjecture is favoured by the thermometrical obſervations made with M. de L’Iſle’s
+                inſtrument in all parts of Siberia, in which the mercury was depreſted to the 226th
+                degree, even in thoſe parts that lie very much towards the ſouth, as in the
+                territory of Selinga, which ſaid degree anſwers in Fahrenheit’s thermometer to about
+                <hi rend="italic">55</hi>.5 below 0, but the ſame thermometer ſometimes
+                indicated, a much greater cold. At the fort of Kiringa, on Feb. 10. 1738, at 8 in
+                the morning, the mercury ſtood at 240, which anſwers nearly to 72 below 0 in
+                Fahrenheit’s. On the 23d off the ſame month it was a degree lower. At the ſame
+                place, December 11. at three in the afternoon, it ſtood at 254 in De Liſle’s
+                thermometer, and very near 90 in Fahrenheit’s ; on December 29. at four in the
+                afternoon; at 263 ; on November 27. at noon, at 270 ; January 9. at 275, which
+                ſeveral depreſſions anſwer in Fahrenheit’s to 99.44, 107.73, and 113.65; on January
+                5. at 5 in the morning, at 262, an hour after at 281, but at eight o’clock it
+                returned to 250, and there remained till 6 in the afternoon, and then roſe by
+                degrees till an hour before midnight, when it ſtood at 202. So that the greateſt
+                depreſſion of the mercury anſwers in Fahrenheit’s thermometer to 120.76 degrees
+                below 0, which is indeed very ſurpriſing, and what no body ever imagined before.
+                While this cold laſted at Jenisea, the ſparrows and magpies fell to the ground,
+                ſtruck dead, as it were, with the froſt, but revived if they were ſoon brought into
+                a warm room. The author was told alſo that numbers of wild beaſts were found in the
+                woods dead and ſtiff with the froſt, and ſeveral travellers had their blood and
+                juices quite frozen in their veſſels. The air itſelf at that time was ſo dismal,
+                that you would think it changed to ice, as it was a thick fog, which was not
+                diſſipable by any exhalations, as in the ſpring and autumn, and the author could
+                ſcarce ſtand three minutes in the porch of his houſe for the cold.</p>
+        </body>
+    </text>
+</TEI>

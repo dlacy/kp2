@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:50:51Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Some authors tell us, that at the acceſſion of Robert II. his title was diſputed by
+                William earl of Douglas. If any ſuch claim was preferred, an aſſembly of the States
+                ſet it aſide, and it was reſolved that Robert ſhould be crowned at Scone; and to
+                take away for the future all diſputes concerning the ſucceſſion, a particular act
+                was framed, by which the kingdom was ſecured to Robert and his heirs.</p>
+            <p>The new king being thus eſtabliſhed on the throne, endeavoured to renew the war with
+                the Engliſh, in order to recover from them the town of Berwick, and ſome other
+                places on the borders. In this, however, he failed; and as 56,000 pounds of David’s
+                ranſom ſtill remained unpaid, Robert bound himſelf to diſcharge it at the rate of
+                4000 marks every midſummer. He then propoſed an alliance with France; but the terms
+                demanded by that kingdom being, that Scotland ſhould be obliged to make war with
+                England whenever France ſhould require it, Robert could not by any means be induced
+                to conſent to ſuch a requiſition, which would have obliged him to break through the
+                most ſolemn treaties, whenever the king of France ſhould think proper to break with
+                England. A new treaty,</p>
+            <p>therefore, was entered into, by which it was provided, that neither Scotland nor
+                France ſhould be obliged to make war with England; and by another clauſe, that the
+                diſpenſation or authority even of the pope himſelf ſhould never free the kings or
+                kingdoms of France and Scotland from the obligations they lay under to aſſiſt one
+                another, as often as required, in oppoſition to the kingdom of England. In cafe of a
+                competition for the crown of Scotland, the king of France and his heirs were to take
+                care that no Engliſh influence was uſed; but that the matter being by the greateſt
+                and beſt part of the nation decided conformably to the laws and eſtabliſhment of
+                Scotland, he ſhould with all his power defend and aſſiſt the perſon ſo eſtabliſhed.
+                Lastly, it was agreed that no Frenchman ſhould ever henceforth ſerve for wages, or
+                otherwiſe, againſt Scotland, nor any Scotſman againſt France.</p>
+            <p>This laſt article occasioned a recal of all the Scots from the Engliſh armies, which
+                Edward looked upon to be a prelude to an invaſion. He accordingly iſſued writs for
+                aſſembling all the militia in the north of England. At this time an invincible
+                hatred ſubſiſted between the neighbouring people of both nations, which</p>
+            <p>“According to one account, the genealogies of their families ſtand thus:</p>
+            <p>Siward earl of Northumberland*.</p>
+            <p>Emma= Alan earl of Brittany. Another daughters Duncan king of Scots.</p>
+            <p>Chriſtina=Walter the Stewart. Malcolm III.</p>
+            <p>“Thus Walter the Stewart and Malcolm III. were couſins-german.</p>
+        </body>
+    </text>
+</TEI>

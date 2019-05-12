@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-04-20T21:20:52Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SPECIFIC CONTD We ſee the ſame augmentation of the denſity of the ſalt in the diluted brines here as
+                in the caſe of common ſalt. Thus a brine, of which the cubic foot weighs 1482
+                ounces, or which has the ſpecific gravity 1,482, contains 800 ounces of dry alkali
+                and 682 of water. Therefore, if we ſuppoſe the denſity of the water unchanged, there
+                remains the bulk of 318 ounces of water to receive 840 ounces of ſalt: its denſity
+                is therefore 800/318, = 2,512 nearly. But in the brine whoſe weight <hi
+                    rend="italic">per </hi>foot is only 1016 there are 20 ounces of ſalt, and
+                therefore 996 of water ; and there is only four ounce-meaſures of water, that is,
+                the bulk of four ounces of water, to receive 20 ounces of ſalt. Its ſpecific gravity
+                therefore is 20/4, ≡ 5, almoſt twice as great as in the ſtrong brine. Accordingly Mr
+                Achard is diſpoſed to admit the abſorption (as it is careleſsly termed) in the caſe
+                of ſal tart. But it is a general (we think an univerſal) fact in the ſolution of
+                ſalts. It muſt be carefully diſtinguiſhed from the firſt contraction of bulk which
+                ſalts undergo in passing from a ſolid to a fluid form. The contraction now under
+                conſideration is analogous to the contraction of oil of virtriol when diluted with
+                water ; for oil of vitriol muſt be conſidered as a very ſtrong brine which we cannot
+                dephlegmate by diſtillation, and therefore cannot obtain the dry ſaline ingredient
+                in a separate form, ſo as to obſerve its ſolid denſity, and ſay how much it
+                contracts in firſt becoming fluid. The way of conceiving the first contraction in
+                the act of ſolution as a lodging of the particles of the one ingredient on the
+                interſtices of the other, “ <hi rend="italic">ou ils ſe nichent, en augmentant le
+                    poids ſans affecter le volume de la ſaumure,"</hi> as Eller and Lambert expreſs
+                themſelves, is impoſſible here, when both are fluids. Indeed it is but a ſlovenly
+                way of thinking in either caſe, and ſhould be avoided, becauſe inadvertent perſons
+                are apt to uſe as a phyſical principle what is merely a mode of ſpeech.</p>
+            <p>We learn from the table, that a hydrometer with equidiſtant diviſions on a
+                cylindrical or priſmatical stem is still more erroneous than in the brines of common
+                ſalt.</p>
+            <p>We learn from the experiments of Kirwan, Lavoisier, and others, that dry ſalt of
+                tartar contains about ¼th of
+                its weight of fixed air. In many applications of this ſalt to the purpoſes of
+                manufacture, this ingredient is of no uſe. In ſome it is hurtful, and muſt be
+                abstracted by lime. Soap-maker’s ley conſiſts of the pure alkaline ſalt dissolved in
+                water. It is therefore of importance to aſcertain its quantity by means of the
+                ſpecific gravity of the brine. For this purpoſe, we took a ley of ſal tart whoſe
+                ſpecific gravity was 1,20417, containing 314 oz. of mild alkali in a cubic foot of
+                ley, and we rendered it nearly cauſtic by lime. The ſpecific gravity was then
+                1,1897. This is a very unexpected reſult. Nothing is employed with more ſucceſs than
+                quick-lime for dephlegmating any watery fluid. We ſhould rather have expected an
+                increaſe of ſpecific gravity by the abſtraction of ſome of the water of the
+                menſtruum, and perhaps the water of the cryſtallization, and the aerial part of the
+                ſalt. But we muſt aſcribe this to the great denſity in which the fixed air exiſts in
+                the mild alkali.</p>
+            <p>It is unneceſſary to give ſimilar tables for all the ſalts, unleſs we were writing a
+                diſſertation on the theory of their ſolution. We ſhall only obſerve, that we
+                examined with particular attention ſal ammoniac, becauſe Mr Achard, who denies what
+                is called the abſorption of ſalts, finds himſelf obliged to allow ſomething like it
+                in this ſalt. It does not, however, differ from thoſe of which we have given an
+                account in detail in any other reſpect than this, that the changes of fluid denſity
+                are much leſs than in others (inſtead of being greater, as Achard’s experiments seem
+                to indicate) in all brines of moderate ſtrength. But in the very weak brines there
+                is indeed a remarkable difference ; and if we have not committed an error in our
+                examination, the addition of one part of ſal ammoniac to 64 of water occupies leſs
+                room than the water alone. We think that we have met with this as an accidental
+                remark by ſome author, whoſe work we do not recollect. But we do not choose to rest
+                ſo much on our form of the experiment in ſuch weak brines. The following mixtures
+                will abundantly ſerve for conſtructing the table of its ſtrength : Sal ammoniac =
+                960 grains was diſſolved in 3506 grains of water, making a brine of 4466 grains. A
+                phial which held 1600 grains water held 1698 of this brine. It contained
+                1698x960/4460, or 365 grains of ſalt. The ſpecific gravity was 1690/1600,= 1061, and
+                the cubic foot weighed 1061 ounces. It alſo contained1061x365/1698, or 228 ounces of
+                ſalt. By repeated abſtraction of brine, and replacing with water, we had the
+                following ſeries :</p>
+            <table>
+                <row>
+                    <cell>Series.</cell>
+                    <cell>Brine.</cell>
+                    <cell>Sp. Gr.</cell>
+                    <cell>Oz. Salt in Cub. F.</cell>
+                </row>
+                <row>
+                    <cell>Weight of brine,</cell>
+                    <cell>1<hi rend="italic">st,</hi> 1698</cell>
+                    <cell>1,061</cell>
+                    <cell>228</cell>
+                </row>
+                <row>
+                    <cell>After taking out ¼,</cell>
+                    <cell>2<hi rend="italic">d,</hi> 1676</cell>
+                    <cell>1,048</cell>
+                    <cell>171</cell>
+                </row>
+                <row>
+                    <cell>After taking out <hi rend="superscript">1</hi>/<hi rend="subscript"
+                        >3</hi>,</cell>
+                    <cell>3<hi rend="italic">d,</hi> 1653</cell>
+                    <cell>1,033</cell>
+                    <cell>114</cell>
+                </row>
+                <row>
+                    <cell>After taking out ½,</cell>
+                    <cell>4<hi rend="italic">th,</hi> 1630</cell>
+                    <cell>1,019</cell>
+                    <cell>57</cell>
+                </row>
+                <row>
+                    <cell>After taking out ½,</cell>
+                    <cell>5<hi rend="italic">th,</hi> 16l6</cell>
+                    <cell>1,010</cell>
+                    <cell>28½</cell>
+                </row>
+                <row>
+                    <cell>½</cell>
+                    <cell>>6<hi rend="italic">th,</hi> 1610</cell>
+                    <cell>1,0063</cell>
+                    <cell>14¼</cell>
+                </row>
+                <row>
+                    <cell>½</cell>
+                    <cell>7<hi rend="italic">th,</hi> 1605</cell>
+                    <cell>1,0038</cell>
+                    <cell>7<hi rend="superscript">1</hi>/<hi rend="subscript">3</hi></cell>
+                </row>
+            </table>
+            <p>This ſeries is extremely regular, and the progreſs of denſity may be confidently
+                deduced from it.</p>
+            <p>From the whole of this diſquiſition on the relation between the ſpecific gravities of
+                brines and the quantities of ſalt contained, we ſee in general that it may be
+                gueſſed at, with a uſeful degree of preciſion, from the denſity or ſpecific gravity
+                of ſaturated ſolutions. We therefore conclude with a list of the ſpecific gravities
+                of ſeveral ſaturated ſolutions, made with great care by the bishop of
+                Landaff.—Thetemperaturewas 42⁰. The first numerical column is the denſity of
+                ſaturated brine, and the next is the denſity of a brine conſiſting of 12 parts (by
+                weight) of water and one of ſalt. From this may be inferred the quantity in the
+                ſaturated ſolution, and from this again may be inferred the quantity correſponding
+                to inferior denſities.</p>
+            <table>
+                <row>
+                    <cell>Borax,</cell>
+                    <cell>1,010</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Cor. Sublim.</cell>
+                    <cell>1,037</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Alum,</cell>
+                    <cell>1,033</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Glaub. Salt,</cell>
+                    <cell>1,054</cell>
+                    <cell>1,029</cell>
+                </row>
+                <row>
+                    <cell>Common Salt,</cell>
+                    <cell>1,198</cell>
+                    <cell>1,059</cell>
+                </row>
+                <row>
+                    <cell>Sal. cath. amar.</cell>
+                    <cell>1,232</cell>
+                    <cell>1,039</cell>
+                </row>
+                <row>
+                    <cell>Sal ammon.</cell>
+                    <cell>1,072</cell>
+                    <cell>1,026</cell>
+                </row>
+                <row>
+                    <cell>Vol. alk. mite,</cell>
+                    <cell>1,087</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Nitre,</cell>
+                    <cell>1,095</cell>
+                    <cell>1,050</cell>
+                </row>
+                <row>
+                    <cell>Rochelle ſalt,</cell>
+                    <cell>1,114</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Blue vitriol,</cell>
+                    <cell>1,150</cell>
+                    <cell>1,052</cell>
+                </row>
+                <row>
+                    <cell>Green vitriol,</cell>
+                    <cell>1,157</cell>
+                    <cell>1,043</cell>
+                </row>
+                <row>
+                    <cell>White vitriol,</cell>
+                    <cell>1,386</cell>
+                    <cell>1,045</cell>
+                </row>
+                <row>
+                    <cell>Pearl aſh,</cell>
+                    <cell>1,534</cell>
+                    <cell/>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

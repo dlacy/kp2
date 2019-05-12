@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:22:58Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ry perſon who pretends to explain other phenomena in a ſimilar manner. Then, and not
+                till then, he is able to ſay what classes of phenomena will admit of the explanation
+                : and, when all this is done, his explanation is ſtill an <hi rend="italic"
+                    >hypothesis,</hi> till he is able to prove, from other indisputable ſources, the
+                exiſtence and agency of the ſame thing analogous to the elaſtic fluid, from which
+                all is borrowed.</p>
+            <p>Such conſiderations would juſtify us for conſidering with great attention the nature
+                of sound. But a work like this will not give room for a full diſcuſſion ; and we
+                muſt refer our readers to the writers who treat it more at large. Much curious
+                information may be got from the pains-taking authors of the laſt century ; ſuch as
+                Lord Bacon; Kircher; Merſennus ; Caſſerius in his great work <hi rend="italic">De
+                    Voce et Auditu ;</hi> Perrault in his <hi rend="italic">Diſſertation du
+                    Bruit</hi> ; Muſſenbroek in his great Syſtem of Natural Philosophy, in 3 vols
+                4t0 ; and in his <hi rend="italic">Essais de Physique</hi> ; and the writings of the
+                celebrated phyſiologiſts of the preſent age. We alſo refer to what has been ſaid by
+                us in the article <hi rend="smallcaps">Acoustics.</hi></p>
+            <p>At preſent therefore we muſt content ourſelves with giving a ſhort hiſtory of the
+                ſpeculations of philosophers on this ſubject, tracing out the ſteps by which we have
+                arrived at the knowledge which we have of it. We apprehend this to be or great
+                importance ; becauſe it ſhows us what kind of evidence we have for its truth, and
+                the paths which we muſt ſhun if we wiſh to proceed farther: and we truſt that the
+                progreſs which we have made will appear to be so real, and the object to be attained
+                so alluring to a truly philoſophical mind, that men of genius will be incited to
+                exert their utmoſt efforts to paſs the preſent boundaries of our real progress.</p>
+            <p>In the infancy oſ philoſophy, sound was held to be a ſeparate exiſtence, ſomething
+                which would be, although no hearing animal exiſted. This was conceived as wafted
+                through the air to our organ of hearing, which it was ſuppoſed to affect in a manner
+                reſembling that in which our noſtrils are affected when they give us the ſenſation
+                of ſmell. It was one of the Platonic <hi rend="smallcaps">species, </hi>fitted for
+                exciting the intellectual ſpecies, which is the immediate object of the soul’s
+                contemplation.</p>
+            <p>Yet, even in thoſe early years of ſcience, there were ſome, and, in particular, the
+                celebrated founder oſ the ſtoic ſchool, who held that sound, that is, the cauſe of
+                sound, was only the particular motion of external groſs matter, propagated to the
+                ear, and there producing that agitation of the organ by which the soul is
+                immediately affected with the ſenſation of sound. Zeno, as quoted by Diogenes
+                Laertius@@*, ſays, “ Hearing is produced by the air which intervenes between the
+                thing sounding and the ear. The air is agitated in a ſpherical form, and moves off
+                in waves, and falls on the ear, in the ſame manner as the water in a ciſtern
+                undulates in circles when a ſtone has been thrown into it.” The ancients were not
+                remarkable for preciſion, either of conception or argument in their diſcuſſions, and
+                they were contented with a general and vague view of things. Some followed the
+                Platonic notions, and many the opinion of Zeno, but without any farther attempts to
+                give a diſtinct conception of the explanation, or to compare it with experiment.</p>
+            <p>But in later times, during the ardent reſearches in the laſt century into the
+                phenomena of nature, this be</p>
+            <p>came an intereſting ſubject of inquiry, the invention of the air-pump gave the firſt
+                opportunity of deciding by experiment whether the elastic undulations of air were
+                the cauſes of sound: and the trial fully eſtabliſhed this point ; for a bell rung
+                    <hi rend="italic">in vacua</hi> gave no sound, and one rung in condenſed air
+                gave a very loud one. It was therefore received as a doctrine in general phyſics
+                that air was the vehicle of sound.</p>
+            <p>The celebrated Galileo, the parent of mathematical philoſophy, diſcovered the nature
+                of that connection between the lengths of muſical cords and the notes which they
+                produced, which had been obſerved by Pythagoras, or learned by him in his travels in
+                the eaſt, and which he made the foundation of a refined and beautiful ſcience, the
+                theory of muſic. Galileo ſhowed, that the real connection subſiſted between the
+                tones and the vibrations of theſe cords, and that their different degrees of
+                acuteneſs corresponded to the different frequency of their vibrations The very
+                elementary and familiar demonſtration which he gave of this connection did not
+                ſatisfy the curious mathematicians of that inquiſitive age, and the mechanical
+                theory of muſical cords was proſecuted to a great degree of refinement. In the
+                courſe of this inveſtigation, it appeared that the cord vibrated in a manner
+                preciſely ſimilar to a pendulum vibrating in a cycloid. It muſt therefore agitate
+                the air contiguous to it in the ſame manner ; and thus there is a particular kind of
+                agitation which the air <hi rend="italic">can</hi> receive and maintain, which is
+                very intereſting.</p>
+            <p>Sir Iſaac Newton took up this queſtion as worthy of his notice ; and endeavoured to
+                aſcertain with mathematical preciſion the mechaniſm of this particular claſs of
+                undulations, and gave us the fundamental theorems concerning the undulations of
+                elaſtic fluids, which make the 47, &amp;c. propositions of Book II. of his
+                Principles of Natural Philoſophy. They have been (perhaps haſtily) conſidered as
+                giving the fundamental doctrines concerning the propagation of sound. They are
+                therefore given in this work in the article <hi rend="smallcaps">Acoustics</hi> ;
+                and a variety of facts are narrated in the article <hi rend="smallcaps">Pneumatics,
+                </hi>to ſhow that ſuch undulations <hi rend="italic">actually obtain</hi> in the air
+                of our atmoſphere, and are accompanied by a ſet of phenomena of sound which
+                preciſely tally or correſpond to all the mechanical circumſtances of theſe
+                undulations. In the mean time, the anatomiſts and phyſiologiſts were buſily employed
+                in examining the ſtructure of our organs of hearing. Impreſſed with the validity of
+                this doctrine of aerial undulations being the cauſes of sound, their reſearches were
+                always directed with a view to diſcover thoſe circumſtances in the ſtructure of the
+                ear which rendered it an organ ſuſceptible of agitations from this cauſe ; and they
+                diſcovered many which appeared as contrivances for making it, a drum, on which the
+                aerial undulations from without muſt make very forcible impulſes, so as to produce
+                very sonorous undulations in the air contained in it. Theſe therefore they
+                conſidered as the <hi rend="italic">immediate</hi> objects of ſenſation, or the
+                immediate cauſes of sound.</p>
+            <p>But ſome anatomiſts ſaw that this would not be a full account of the matter : for
+                after a drum is agitated, it has done all that it can do ; it has produced a noiſe.
+                But a farther proceſs goes on in our tar : here is behind the membrane, which is the
+                head of this drum a curious mechanism, which communicates the agitations</p>
+            <p>@@@[m] <gap/>B. vii. p. 158.</p>
+        </body>
+    </text>
+</TEI>

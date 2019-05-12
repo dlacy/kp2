@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:50:10Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">of</hi> war, after having ſworn never to bear arms againſt
+                England.</p>
+            <p>In the mean time, Baliol, by the advice of his parliament, ſolemnly and openly
+                renounced his allegiance to Edward, ſending the following declaration.</p>
+            <p>“To the magnificent prince, Edward, by the grace of God, king of England; John, by
+                the ſame grace, king of Scotland.</p>
+            <p>“Whereas you, and others of your kingdom, you not being ignorant, or having cauſe of
+                ignorance, by your violent power, have notoriouſly and frequently done grievous and
+                intolerable injuries, contempts, grievances, and ſtrange damages againſt us, the
+                liberties of our kingdom, and againſt God and juſtice; citing us, at your pleaſure,
+                upon every flight ſuggeſtion, out of our kingdom; unduly vexing us; ſeizing our
+                caſtles, lands, and poſſeſſions, in your kingdom; unjuſtly, and for no fault of
+                ours, taking the goods of our ſubjects, as well by ſea as land, and carrying them
+                into your kingdom; killing our merchants, and others of our kingdom; carrying away
+                our ſubjects and impriſoning them: For the reformation of which things, we ſent our
+                meſſengers to you, which remain not only unredreſſed, but there is every day an
+                addition of worſe things to them; for now you are come with a great army upon the
+                borders, for the diſinheriting us, and the inhabitants of our kingdom; and,
+                proceeding, have inhumanly committed ſlaughter, burnings, and violent invaſions, as
+                well by ſea as land: We not being able to ſuſtain the ſaid injuries, grievances, and
+                damages any longer, nor to remain in your fealty or homage, extorted by your violent
+                oppreſſion, we reſtore them to you, for ourſelf, and all the inhabitants of our
+                kingdom, as well for the lands we hold of you in your kingdom, as for your pretended
+                government over us.”</p>
+            <p>Edward was preſented with this renunciation by the hands of the intrepid Henry abbot
+                of Aberbrothwick; and as it was favourable to his political views, he received it
+                rather with contempt than anger. “The fooliſh traitor,” ſaid he to the abbot, “ſince
+                he will not come to us, we will go to him.” The abbot had been perſuaded by his
+                enemies, of whom he had many in Scotland, to preſent this letter, in hopes that
+                Edward would have put him to death; but he had addrefs enough to eſcape ſafe out of
+                his hands, without receiving any other anſwer.</p>
+            <p>Though this ſcheme of renunciation had been concerted ſome time before, the
+                declaration was not ſent to Edward till after the taking of Berwick. The fate of
+                Scotland, however, after it, was ſoon decided. The Earl of March had taken part with
+                Edward, but the counteſs betrayed his caſtle of Dunbar into the hands of the Scots.
+                Edward ſent a choſen body of troops to recover the place. The whole force of
+                Scotland oppoſed them on the heights above Dunbar; but leaving their advantageous
+                poſt, and pouring down on their enemies in confuſion, they were diſperſed and
+                defeated.</p>
+            <p>The caſtle of Dunbar ſurrendered at diſcretion; that of Roxburgh followed the ſame
+                example; the caſtle of Edinburgh ſurrendered after a ſhort ſiege; and Stirling was
+                abandoned. The Scots, in the mean time, were guilty of the greateſt extravagances.
+                During the ſhort interval between the loſs of Berwick and the defeat at Dunbar, an
+                order was made for expelling all the Engliſh eccleſiaſtics who held benefices in
+                England; all the partizans of England, and all neutrals, were declared traitors, and
+                their eſtates confiſcated. But the great ſucceſſes of Edward ſoon put an end to
+                theſe impotent acts of fury. Baliol was obliged to implore the mercy, of the
+                conqueror. Diverted of his royal ornaments, and bearing a white rod in his hand, he
+                performed a moſt humiliating penance; confeſſing, that by evil and falſe counſel,
+                and through his own ſimplicity, he had grievoufly offended his liege lord. He
+                recapitulated his various tranſgreſſions, in concluding an alliance with France
+                while at enmity with England; in contracting his ſon with the niece of the French
+                king; in renouncing his fealty; in attacking the Engliſh territories, and in
+                reſisting Edward. He acknowledged the juſtice of the Engliſh invaſion and conqueſt;
+                and therefore he, of his own free conſent, reſigned Scotland, its people, and their
+                homage, to his liege-lord Edward, 2d July 1296.</p>
+            <p>The king of England purſued his conqueſts, the barons everywhere crowding in to ſwear
+                fealty to him, and renounce their allegiance with France. His journey ended at
+                Elgin, from whence he returned ſouth- ward; and, as an evidence of his having made
+                an abſoute conqueſt of Scotland, he carried off from Scone the wooden chair in which
+                the kings were wont to be crowned. This chair had for its bottom the fatal ſtone
+                regarded as the national palladium @@<hi rend="smallcaps">(d).</hi> Some of the</p>
+            <p><hi rend="smallcaps">@@@(d)</hi> " This ſtone is thus deſcribed by W. Hemingford, T.
+                i. p. 37. “Apud monaſterium de Scone poſitus erat lapis pergrandis in eccleſia Dei,
+                juxta magnum altare, concavus quidem <hi rend="italic">ad modum rotundae cathedrae
+                    confectus,</hi> in quo futuri reges loco quaſi coronationis ponebantur ex more.
+                Rege itaque novo in lapide poſito, miſſarum ſolemnia incepta peraguntur, et
+                praeterquam in elevatione facri dominici corporis, semper lapidatus, manſit.” And
+                again, T. i. p. 100. “In redeundo per Scone, praecepit tolli et Londoniis cariari,
+                    <hi rend="italic">lapidem</hi> illum, in quo, ut supra dictum eſt, Reges
+                Scotorum solebant poni loco coronationis ſuae, <hi rend="italic">et hoc in signum
+                    regni conquesti et resignati.”</hi> Walfingham mentions the uſe to which Edward
+                put this ſtone: “Ad Weſtmonaſterium tranſtulit illum, jubens inde fieri celebrantium
+                cathedram ſacerdotum.” This account of <hi rend="italic">the fatal stone</hi> is
+                here tranſcribed, that it may be compared with the appearance of the ſtone that now
+                bears its name at Weſtminſter.</p>
+            <p>Fordun has preſerved the ancient rhymes conerning it; L. xi. c. 25.</p>
+            <p>“Hic rex ſic totam Scotiam fecit ſibi notam,</p>
+            <p>Qui fine menſura tulit inde jocalia plura,</p>
+            <p>Et pariter lapidem, Scotorum quem fore federn</p>
+            <p>Regum decrevit fatum; quod ſic inolevit,</p>
+            <p><hi rend="italic">Ni fallat fatum, Scoti quocunque locatum</hi></p>
+            <p><hi rend="italic">Invenient lapidem, regnare tenentur ibidem."</hi></p>
+            <pb n="747"> </pb>
+            <p>This was the ſtone which Gathelus ſent from Spain with his ſon when he invaded
+                Ireland, which king Fergus won in Ireland, brought oven with him, and placed at
+                Scone, As the moſt proper authority for a ſtory of this nature, ſee <hi
+                    rend="italic">Acts of Sir William Wallace, by Blind Hurry,</hi> B. i. c. 4.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:28Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>tain mark. The neck above this mark had a ſcale of equal parts pasted on it. It was
+                filled to the mark with water. Twenty-four penny weights of ſalt were thrown into it
+                as ſpeedily as poſſible, and the bulk of the ſalt was meaſured by the elevation of
+                the water. Every thing was attended to which could retard the immediate ſolution,
+                that the error ariſing from the ſolution of the firſt particles, before the reſt
+                could be put in, might be as ſmall as poſſible ; and in order that both the abſolute
+                bulk and its variations might be obtained by ſome known ſcale, 24 pennyweights of
+                water were put in. This raiſed the ſurface 58 parts of the ſcale. Now we know
+                exactly the bulk of 24 pennyweights of pure water. lt is 2,275 cubic inches ; and
+                thus we obtain every thing in abſolute meaſures : And by comparing the bulk of each
+                ſalt, both at its firſt immerſion and after its complete ſolution, we obtain its
+                ſpecific gravity, and the change made on it in paſſing from a ſolid to a fluid form.
+                The following table is an abſtract of theſe experiments. The firſt column of numbers
+                is the elevation of the ſurface immediately after immerſion ; the ſecond gives the
+                elevation when the ſalt is completely diſſolved ; and the third and fourth columns
+                are the ſpecific gravities of the ſalts in theſe two ſtates.</p>
+            <table>
+                <row>
+                    <cell>Twenty-four Pennyweights.</cell>
+                    <cell>I.</cell>
+                    <cell>II.</cell>
+                    <cell>III.</cell>
+                    <cell>IV.</cell>
+                </row>
+                <row>
+                    <cell>Water</cell>
+                    <cell>58</cell>
+                    <cell cols="3"/>
+
+                </row>
+                <row>
+                    <cell>Glauber’s ſalt</cell>
+                    <cell>42</cell>
+                    <cell>36</cell>
+                    <cell>1,380</cell>
+                    <cell>1,611</cell>
+                </row>
+                <row>
+                    <cell>Mild volatile alkali</cell>
+                    <cell>40</cell>
+                    <cell>33</cell>
+                    <cell>1,450</cell>
+                    <cell>1,787</cell>
+                </row>
+                <row>
+                    <cell>Sal ammoniac</cell>
+                    <cell>40</cell>
+                    <cell>39</cell>
+                    <cell>1,450</cell>
+                    <cell>1,487</cell>
+                </row>
+                <row>
+                    <cell>Refined white ſugar </cell>
+                    <cell>39</cell>
+                    <cell>36</cell>
+                    <cell>1,487</cell>
+                    <cell>1,611</cell>
+                </row>
+                <row>
+                    <cell>Courſe brown ſugar</cell>
+                    <cell>39</cell>
+                    <cell>36</cell>
+                    <cell>1,487</cell>
+                    <cell>1,611</cell>
+                </row>
+                <row>
+                    <cell>White ſugarcandy</cell>
+                    <cell>37</cell>
+                    <cell>36</cell>
+                    <cell>1,567</cell>
+                    <cell>1,611</cell>
+                </row>
+                <row>
+                    <cell>Lymington Glauber’s ſalt</cell>
+                    <cell>35</cell>
+                    <cell>29</cell>
+                    <cell>1,657</cell>
+                    <cell>2,000</cell>
+                </row>
+                <row>
+                    <cell>Terra foliata tartari</cell>
+                    <cell>37</cell>
+                    <cell>3°</cell>
+                    <cell>1,567</cell>
+                    <cell>1,933</cell>
+                </row>
+                <row>
+                    <cell>Rochelle ſalt</cell>
+                    <cell>33’</cell>
+                    <cell>28</cell>
+                    <cell>1,757</cell>
+                    <cell>2,071</cell>
+                </row>
+                <row>
+                    <cell>Alum not quite diſſolved</cell>
+                    <cell>33</cell>
+                    <cell>28</cell>
+                    <cell>1,757</cell>
+                    <cell>2,061</cell>
+                </row>
+                <row>
+                    <cell>Borax not one-half diſſolved in two days</cell>
+                    <cell>33</cell>
+                    <cell>31</cell>
+                    <cell>1,757</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Green vitriol</cell>
+                    <cell>32</cell>
+                    <cell>26</cell>
+                    <cell>1,812</cell>
+                    <cell>2,230</cell>
+                </row>
+                <row>
+                    <cell>White vitriol</cell>
+                    <cell>30</cell>
+                    <cell>24</cell>
+                    <cell>1,933</cell>
+                    <cell>2,416</cell>
+                </row>
+                <row>
+                    <cell>Nitre</cell>
+                    <cell>30</cell>
+                    <cell>21</cell>
+                    <cell>1,933</cell>
+                    <cell>2,766</cell>
+                </row>
+                <row>
+                    <cell>Sal gem from Northwich</cell>
+                    <cell>2?</cell>
+                    <cell>17</cell>
+                    <cell>2,143</cell>
+                    <cell>3,411</cell>
+                </row>
+                <row>
+                    <cell>Blue vitriol</cell>
+                    <cell>26</cell>
+                    <cell>20</cell>
+                    <cell>2,230</cell>
+                    <cell>2,900</cell>
+                </row>
+                <row>
+                    <cell>Pearl aſhes</cell>
+                    <cell>25</cell>
+                    <cell>10</cell>
+                    <cell>2,320</cell>
+                    <cell>5,800</cell>
+                </row>
+                <row>
+                    <cell>Tart. vitriolatus</cell>
+                    <cell>22</cell>
+                    <cell>II</cell>
+                    <cell>2,636</cell>
+                    <cell>5,272</cell>
+                </row>
+                <row>
+                    <cell>Green vitriol calcined to white</cell>
+                    <cell>22</cell>
+                    <cell>I I</cell>
+                    <cell>2,636</cell>
+                    <cell>5,272</cell>
+                </row>
+                <row>
+                    <cell>Dry ſalt of tartar</cell>
+                    <cell>2 I</cell>
+                    <cell>13</cell>
+                    <cell>2,761</cell>
+                    <cell>4,461</cell>
+                </row>
+                <row>
+                    <cell>Basket ſea-ſalt</cell>
+                    <cell>19</cell>
+                    <cell>15</cell>
+                    <cell>3,052</cell>
+                    <cell>3,866</cell>
+                </row>
+                <row>
+                    <cell>Corroſive ſublimate</cell>
+                    <cell>14</cell>
+                    <cell>10</cell>
+                    <cell>4,142</cell>
+                    <cell>5,800</cell>
+                </row>
+                <row>
+                    <cell>Turbith mineral</cell>
+                    <cell>9</cell>
+                    <cell>0</cell>
+                    <cell>6,444</cell>
+                    <cell> </cell>
+                </row>
+            </table>
+            <p>The inspection of this liſt naturally ſuggeſts two ſtates of the caſe as particularly
+                intereſting to the philoſopher studying the theory of ſolution. The firſt ſtate is
+                when the lixivium approaches to ſaturation. In the very point of saturation any
+                addition of ſalt retains its bulk unchanged. In diluted brines, we ſhall ſee that
+                the denſity of the fluid ſalt is greater, and gradually diminiſhes as we add more
+                ſalt. It is an important queſtion, Whether this diminution goes on continually, till
+                the fluid denſity of the ſalt is the ſame with its ſolid denſity ? or, Whether there
+                is an abrupt paſſage from ſome</p>
+            <p>degree of the one to the fixed degree of the other, as we obſerve in the freezing of
+                iron, the ſetting of ſtucco, and ſome other inſtances ?</p>
+            <p>The other intereſting ſtate is that of extreme dilution, when the differences between
+                the ſucceſſive densities bear a great proportion to the denſities themſelves, and
+                thus enable the mathematician to aſcertain with ſome preciſion the variations of
+                corpuſcular force, in conſequence of a variation of diſtance between the particles.
+                The ſketch of an inveſtigation of this important queſtion given by Boſcovich, in his
+                Theory of Natural Philoſophy, is very promiſing, and ſhould incite the philoſophical
+                chemiſt to the ſtudy. The firſt thing to be done is to compare the law of ſpecific
+                gravity ; that is, the relation between the ſpecific gravity and quantity of ſalt
+                held in ſolution.</p>
+            <p>Wiſhing to make this work as uſeful as poſſible, we have ſearched for experiments,
+                and trains of experiments, on the denſity of the many brines which make important
+                articles of commerce ; but we were mortified by the ſcantineſs of the information,
+                and diſappointed in our hopes of being able to combine the detached obſervations,
+                ſuited to the immediate views of their authors, in ſuch a manner as to deduce from
+                them ſcales (as they may be called) of their ſtrength. We rarely found theſe
+                detached obſervations attended with circumſtances which would connect them with
+                others ; and there was frequently ſuch a diſcrepancy, nay oppoſition, in ſerieſes of
+                experiments made for aſcertaining the relation between the denſity and the ſtrength,
+                that we could not obtain general principles which enable us to conſtruct tables of
+                ſtrength <hi rend="italic">à priori.</hi></p>
+            <p>Mr Lambert, one of the firſt mathematicians and philoſophers of Europe, in a
+                diſſertation in the Berlin Memoirs (1762), gives a narration of experiments on the
+                brines of common ſalt, from which he deduces a very great condensation, which he
+                attributes to an abſorption in the weak brines of the salt, or a lodgement of its
+                particles in the interſtſees of the particles oſ water. Mr Achard of the ſame
+                academy, in 1785, gives a very great liſt of experiments on the bulks of various
+                brines, made in a different way, which ſhow no ſuch introſusception ; and Dr Watson,
+                formerly regius profeſſor of chemiſtry at Cambridge, and now biſhop of Landaff,
+                thinks this confirmed by experiments which he narrates in his Chemical Eſſays. We
+                ſee great reaſon for heſitating our aſſent to either side, and do not think the
+                experiments deciſive. We incline to Mr Lambert’s opinion ; for this reaſon, that in
+                the ſucceſſive dilutions of oil of vitriol and aquafortis there is a moſt evident
+                and remarkable condenſation. Now what are these but brines, of which we have not
+                been able to get the ſaline ingredient in a ſeparate form ? The experiments of Mr
+                Achard and Dr Watſon were made in ſuch a way that a ſingle grain in the meaſurement
+                bore too great a proportion to the whole change of specific gravity. At the ſame
+                time, ſome of Dr Watſon’s are ſo ſimple in their nature that it is very difficult to
+                with hold the aſſent.</p>
+            <p>In this ſtate of uncertainty, in a ſubject which ſeems to us to be of public
+                importance, we thought it our duty to undertake a train of experiments to which
+                recourſe may always be had. Works like this are ſeldom conſidered as ſources of
+                original information ; and it is thought sufficient when the know</p>
+        </body>
+    </text>
+</TEI>

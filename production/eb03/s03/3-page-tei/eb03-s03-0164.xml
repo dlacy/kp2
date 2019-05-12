@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:44Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>vation, and in the body plan, at equal diſtances from the upper edge of the keel.
+                Then the diſtances between the middle line of the body plan, and the ſeveral points
+                of interſection of theſe lines with the frames, are to belaid off from the middle
+                line in the floor plan upon the correſponding frames ; and if the line drawn through
+                theſe points form a fair curve, the frames are truly drawn in the body plan.</p>
+            <p>In figs. 30. and 32. there are drawn four water lines at any equal diſtances from the
+                keel, and from each other. Theſe lines are then transferred from fig. 32. to fig.
+                31; and the lines paſſing through theſe points make fair curves.</p>
+            <p>The tranſoms are deſcribed by Problem VIII. it is therefore unnecessary to repeat the
+                proceſs. A riſing line of the floor timbers is commonly drawn in the plane of
+                elevation.</p>
+            <p>As this is intended only as an introductory example, ſeveral particulars have
+                therefore been omitted ; which, however, will be exemplified in the following
+                ſection.</p>
+            <p><hi rend="smallcaps">Sect.</hi> IV. <hi rend="italic">To describe the ſeveral Plans
+                    of a Ship of War propoſed to carry</hi> 80 <hi rend="italic">Guns upon two
+                    Decks.</hi></p>
+            <p>As it is propoſed in this place to ſhow the method of deſcribing the plans of a ſhip
+                of a very conſiderable ſize, it therefore ſeems proper to give the dimenſions of
+                every particular part neceſſary in the delineation of theſe plans. The ſeveral plans
+                of this ſhip are contained in Plate CCCCLXI. figs 33, and 34. But as it would very
+                much confuſe the figures to have a reference to every operation, and as the former
+                example is deemed a ſufficient illuſtration, the letters of reference are upon theſe
+                accounts omitted in the figures.</p>
+            <table>
+                <row>
+                    <cell><hi rend="smallcaps">Principal Dimensions.</hi></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Lengths.—</hi> Length on the gun or lower deck from the
+                        aft part of the rabbet of the ſtem to the aft part of the rabbet of the
+                        poſt</cell>
+                    <cell><p><hi rend="italic">F.</hi></p><p>182</p></cell>
+                    <cell><p><hi rend="italic">In.</hi></p><p>0</p></cell>
+                </row>
+                <row>
+                    <cell>Length from the foremoſt perpendicular to dead flat</cell>
+                    <cell>63</cell>
+                    <cell>11 ¾</cell>
+                </row>
+                <row>
+                    <cell>Length from the foremoſt perpendicular to timber Y</cell>
+                    <cell>4</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Length from after perpendicular to timber 37 -</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Room and ſpace of the timbers</cell>
+                    <cell>2</cell>
+                    <cell>8 ¾</cell>
+                </row>
+                <row>
+                    <cell>Length of the quarter-deck from the aft part of the ſtern</cell>
+                    <cell>95</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Length of the forecaſtle from the fore part of the beak-head</cell>
+                    <cell>49</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Length of round-houſe deck from the aft part of the ſtern</cell>
+                    <cell>51</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Heights.—</hi>Height of the gun or lower deck from the
+                        upper edge of the keel to the under fide of the plank at dead flat</cell>
+                    <cell>24</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the gun or lower deck from the upper edge of the keel to the
+                        under side of the plank at foremoſt perpendicular</cell>
+                    <cell>26</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>Height of the gun or lower deck from the upper edge of the keel to the
+                        under side of the plank at after perpendicular</cell>
+                    <cell>26</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>Height from the upper fide of the gun-deck plank to the under fide of the
+                        upper deck plank, all fore and aft</cell>
+                    <cell>7</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height from the upper fide of the upper deck plank to the under side of
+                        the greater deck plank</cell><cell> </cell><cell> </cell></row>
+                 <row>
+                     <cell>afore</cell> <cell>6</cell><cell>10</cell>
+                 </row> 
+                <row>
+                    <cell>abaft</cell><cell>6</cell><cell>11</cell>
+                </row>
+                 <row>
+                    <cell>Height to the under fide of forecaſtle plank, afore and abaft</cell>
+                    <cell>6</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height from the upper fide of the ashore quarter-deck plank to the under
+                        ſide of the round-houſe plank</cell><cell> </cell><cell> </cell>
+                </row>
+                <row>
+                    <cell>afore</cell> <cell>6</cell><cell>9</cell>
+                </row> 
+                <row>
+                    <cell>abaft</cell><cell>6</cell><cell>10</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge of the main wales at foremoſt
+                        perpendicular</cell>
+                    <cell>24</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge of the main wales at dead flat</cell>
+                    <cell>20</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge of the main wales at after perpendicular</cell>
+                    <cell>26</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge oſ the channel wales at foremoſt
+                        perpendicular</cell>
+                    <cell>32</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge oſ the channel wales at dead flat</cell>
+                    <cell>29</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the lower edge of the channel wales at after
+                        perpendicular</cell>
+                    <cell>34</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Height of the upper fide of the wing tranſom -</cell>
+                    <cell>28</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Height of the touch of the lower counter at the middle line</cell>
+                    <cell>33</cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>Height of the touch of the upper counter at the middle line</cell>
+                    <cell>36</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>Height of the top-timber line at the after part of the ſtern timber</cell>
+                    <cell>44</cell>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Breadths.—</hi>Main wales in breadth from lower to upper
+                        edge</cell>
+                    <cell>4</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Channel wales in breadth from lower to upper edge -</cell>
+                    <cell>3</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>Waiſt rail in breadth</cell>
+                    <cell>0</cell>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell>Diſtance between the upper edge of the channel wales and the under edge of
+                        the waiſt rail - - -</cell>
+                    <cell>2</cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>Sheer rail in breadth</cell>
+                    <cell>0</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Diſtance between the ſheer rail and the rail above from timber 13 to the
+                        ſtern</cell>
+                    <cell>2</cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>Diſtance between the ſheer rail and the rail above from timber 7 to timber
+                        11</cell>
+                    <cell>I</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Diſtance between the ſheer rail and the rail above from timber C to the
+                        forepart of beak-head</cell>
+                    <cell>I</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>And the ſaid rail to be in breadth</cell>
+                    <cell>0</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>Plank ſheer to be in thickneſs</cell>
+                    <cell>0</cell>
+                    <cell>2 ⅛</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Gentres of the masts.—</hi> From the foremoſt
+                        perpendicular to the centre oſ the mainmaſt on the gun-deck</cell>
+                    <cell>103</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>From the foremoſt perpendicular to the centre of the foremaſt on the
+                        gun-deck</cell>
+                    <cell>20</cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>From the after perpendicular to the centre of the mizenmaſt on the
+                        gun-deck</cell>
+                    <cell>28</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Stem.—</hi>The centre of the ſweep of the ſtem abaft
+                        timber P -</cell>
+                    <cell>0</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Height of ditto from the upper edge of the keel</cell>
+                    <cell>26</cell>
+                    <cell>I</cell>
+                </row>
+                <row>
+                    <cell>Stem moulded</cell>
+                    <cell>I</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>Foremoſt part of the head afore the perpendicular</cell>
+                    <cell>2</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>Height of ditto from the upper edge of the keel</cell>
+                    <cell>38</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Stern-post. Aft</hi> part of the rabbet afore the</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

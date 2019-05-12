@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:22:08Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>by the Rev. Dr Smith of Campbelton and others, but chiefly by the Rev. Dr Stewart of
+                Luſs, by the appointment and at the expence of the ſociety : and as ſoon as the
+                remaining part can be got ready, the whole will be ſold at ſo low a price as the
+                poor may without difficulty afford. This plan the ſociety have judiciously choſen,
+                in order to prevent diſcontent and murmuring ; effects which the diffuſion oſ the
+                Scriptures ought never to produce ; but which could not possibly have been
+                prevented, had the diſtribution been gratuitous, and of courſe partial.</p>
+            <p>For ſome years paſt the funds of the ſociety have rapidly accumulated, from the very
+                liberal donations of ſeveral individuals. </p>
+            <table>
+                <row>
+                    <cell>Lady Glenorchy</cell>
+                    <cell>L. 5,000</cell>
+                </row>
+                <row>
+                    <cell>By a perſon unknown</cell>
+                    <cell>10,000</cell>
+                </row>
+                <row>
+                    <cell>Lord Van Vryhouven of Holland</cell>
+                    <cell>20,000 </cell>
+                </row>
+                <row>
+                    <cell>Miſs Gray of Teasses</cell>
+                    <cell>3,500</cell>
+                </row>
+            </table>
+            <p>In conſequence of theſe great additions to their ſtock, inſinuations have been thrown
+                out that the ſociety have become ſo wealthy as to be at a loſs for proper objects on
+                which to beſtow their increaſed revenue. If ſuch an opinion be <hi rend="italic"
+                    >ſeriouſly</hi> entertained by any one, we muſt beg him to remember, that the
+                ſociety have erected and endued no leſs than 323 ſchools for religion, the firſt
+                principles of literature and induſtry, at the annual expence of L. 3214, 10s.
+                Sterling ; and that at theſe ſeminaries are educated from 14,000 to 15,000 children
+                ; who, but for the means of inſtruction thus obtained, would in all probability be
+                bred up in ignorance and idleneſs : That they employ 12 miſſionary miniſters and
+                catechiſts in remote parts of the Highlands and iſlands, or among the ignorant
+                Highlanders ſettled in the great towns of Scotland, at the annual expence of L. 296
+                : That they beſtow a burſary or penſion of L. 15 <hi rend="italic">per annum</hi> on
+                each of six ſtudents of divinity having the Gaelic language : That they employ two
+                miſſionary miniſters and one ſchoolmaſter among the Oneida and Stockbridge Indians
+                of North America (being the deſtination of certain legacies bequeathed to them for
+                that purpoſe), at the annual expence of L. 140. Such is their fixed ſcheme of annual
+                expenditure, amounting in all to L.3740, 10s. Sterling—a ſum it will be acknowledged
+                of very conſiderable magnitude. The whole of their incidental expences ariſing from
+                the Gaelic tranſlation of the Scriptures of the Old Teſtament ; from annuities which
+                they have to pay, in conſequence of ſums left them as reſiduary legatees ; from land
+                and houſe-taxes ; ſrom enabling candidates for the office of ſchoolmaſter to come to
+                Edinburgh for examination ; from furniſhing books to poor ſcholars in their various
+                ſchools ; and from removing ſchoolmaſters from one ſtation to another, is generally
+                about L. 875, which added to the former ſum makes the whole annual expence amount to
+                L. 4615, 10 s.</p>
+            <p>If it be inquired at what expence, in the <hi rend="italic">management </hi>of it,
+                this extenſive and complicated charity is annually conducted, we are authoriſed to
+                ſay, that the treaſurer,</p>
+            <p>bookholder, and clerk, are allowed each L. 25 <hi rend="italic">per annum,</hi> the
+                ſame ſalaries which were annexed to theſe offices from the commencement of the
+                ſociety. The beadle or officer is allowed L. 12 <hi rend="italic">per annum.</hi> No
+                ſalary whatever is enjoyed by any of the other officers of the ſociety. The
+                ſecretary, comptroller, accountant, and librarian, although ſubjected, ſome of them
+                eſpecially, to no ſmall expence of time and labour, have no pecuniary recompenſe or
+                emolument. Theirs are labours of love, for which they ſeek and expect no other
+                reward than the consciouſneſs of endeavouring to promote the beſt intereſts of
+                mankind. The whole amount of the expence of managing the buſineſs of the ſociety,
+                including the above ſalaries, and coals, candle, ſtationary ware, poſtages, and
+                other incidents, exceeds not at an average L. 115 <hi rend="italic">per annum.</hi>
+                From this ſtatement it appears, that hitherto at leaſt the directors have been at no
+                loſs for important objects within the proper ſphere of their inſtitution on which to
+                beſtow their increaſed funds. They have, it is true, the diſpoſal of very
+                conſiderable ſums for promoting the objects of the inſtitution ; but they are ſo far
+                from accumulating wealth, that every year their expenditure, notwithſtanding the
+                late increaſe of their capital, exceeds rather than falls ſhort of their income.
+                They have depended upon a kind Providence and a generous public to refund theſe
+                anticipations of their revenue, and hitherto they have never been diſappointed.</p>
+            <p>Thus has the Society for Propagating Chriſtian Knowledge proceeded for almoſt a
+                century. It was founded by the pious exertions of a few private individuals, whoſe
+                names are unknown to the world ; and its funds, by faithful and judicious
+                management, as well as by generous contributions, have now become of ſuch magnitude,
+                as to excite the hope that they will be productive of the moſt valuable effects. The
+                benefits ariſing from public ſocieties, it is well known, depend entirely upon the
+                management of their directors. If ſo, the advantages which have accrued from this
+                ſociety inside it to the praiſe and gratitude of the nation. While eager to increaſe
+                the number of ſchools, the ſociety have not been inattentive to their proſperity. In
+                the year 1771 Mr Lewis Drummond, a gentleman in whom they placed great confidence,
+                was commiſſioned by them to viſit their ſchools, and to make an exact report of
+                their ſtate and circumſtances. Again, in the year 1790, a commiſſion was granted to
+                the Rev. Dr Kemp, one of the miniſters of Edinburgh and ſecretary to the ſociety, to
+                viſit all the ſchools on their eſtabliſhment. This laborious and gratuitous task he
+                accompliſhed in the courſe of four ſummers with much ability and care, and highly to
+                the ſatisfaction of the ſociety. At his return he communicated a variety of
+                important information reſpecting the ſtate of the Highlands and iſlands, and the
+                means neceſſary for their improvement in religion, literature, and induſtry ; an
+                abſtract of which was publiſhed by the ſociety in appendixes to the anniverſary
+                sermons preached before them in the years 1789, 90, 91, and 92 @@(c).</p>
+            <p>@@@(c) It is well known, that the number of Roman Catholics in the Highlands is
+                conſiderable ; but it muſt give much pleaſure to the Proteſtant reader to be
+                informed, that the ancient malignant ſpirit of Popery has in that diſtrict given
+                place to mildneſs and liberality. This is chiefly owing to the gentleman who
+                ſuperintends the prieſts in that quarter, whoſe mind is enlightened by ſcience and
+                learning. So far from being hoſtile to the views of the ſociety, he recommended to
+                his clergy to promote them. They accordingly received the secretary with much
+                politeneſs ; exhorted the people to ſend their children to the Proteſtant ſchools to
+                be inſtructed in literature, to be taught to read the Scriptures in their own
+                language, and to be made acquainted with thoſe great principles of religion in which
+                all Chriſtians are agreed. What a bleſſed reformation!</p>
+        </body>
+    </text>
+</TEI>

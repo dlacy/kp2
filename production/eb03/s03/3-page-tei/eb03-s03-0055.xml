@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:03:05Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Corneille, in his <bibl><title>Examen of the Cid,</title></bibl> anſwering an
+                objection, That his ſentiments are ſometimes too much refined for perſons in deep
+                diſtreſs, obſerves, that if poets did not indulge ſentiments more ingenious or
+                refined than are prompted by paſſion, their performances would often be low, and
+                extreme grief would never ſuggeſt but exclamations merely. This is in plain language
+                to assert, that forced thoughts are more agreeable than thoſe that are natural, and
+                ought to be preferred.</p>
+            <p>The <hi rend="italic">Second</hi> claſs is of ſentiments that may belong to an
+                ordinary paſſion, but are not perfectly concordant with it, as tinctured by a
+                Angular character.</p>
+            <p>In the laſt act of that excellent comedy <bibl><title>The Careless
+                    Husband,</title></bibl> Lady Eaſy, upon Sir Charles’s reformation, is made to
+                expreſs more violent and turbulent ſentiments of joy than are conſiſtent with the
+                mildneſs of her character.</p>
+            <sp>
+                <speaker>Lady Eaſy.</speaker>
+                <p>O the soft treaſure! O the dear reward of long-deſiring love. Thus! thus to have
+                    you mine, is ſomething more than happineſs ; 'tis double life, and madneſs of
+                    abounding joy.</p>
+            </sp>
+            <p>The following inſtances are deſcriptions rather than ſentiments, which compoſe a <hi
+                    rend="italic">third</hi> claſs.</p>
+            <p>Of this deſcriptive manner of painting the paſſions, there is in the
+                        <bibl><title>Hippolytus</title> of <author>Euripides</author>, act v.</bibl>
+                an illuſtrious inſtance, <hi rend="italic">viz.</hi> the ſpeech of Theſeus, upon
+                hearing of his ſon’s diſmal exit. In <bibl><author>Racine</author>’s tragedy of
+                        <title>Esther</title></bibl>, the queen hearing of the decree iſſued againſt
+                her people, inſtead of expreſſing ſentiments ſuitable to the occaſion, turns her
+                attention upon herſelf, and deſcribes with accuracy her own ſituation.</p>
+            <sp>
+                <p>Juſte ciel ! tout mon fang dans mes veines se glace.</p>
+            </sp>
+
+            <bibl>Act 1. sc. 3.</bibl>
+            <p>Again,</p>
+            <sp>
+                <speaker>Aman.</speaker>
+                <p>C’en eſt fait. Mon orgueil eſt forcé de plier. L’inexorable Aman eſt reduit à
+                    prier.</p>
+            </sp>
+            <bibl><title>Esther</title>, act 3. sc. 5.</bibl>
+            <sp>
+                <speaker>Athalie.</speaker>
+                <l> Quel prodige nouveau me trouble et m’embarraſſe ?</l>
+                <l>La douceur de sa voix, son ensance, ſa grace,</l>
+                <l>Font insensiblement à mon inimitié</l>
+                <l>Succeder Je serois senlible à la pitié ?</l>
+            </sp>
+            <bibl><title>Athalie</title>, act 2. sc. 7.</bibl>
+            <sp>
+                <speaker>Titus.</speaker>
+                <l>O de ma paſſion fureur desesperée !</l>
+            </sp>
+            <bibl><title>Brutus oſ Voltaire</title>, act 3. ſc. 6.</bibl>
+            <p>What other are the foregoing inſtances but deſcribing the paſſion another feels ?</p>
+            <p>The <hi rend="italic">fourth</hi> claſs is of ſentiments expreſſed too early or too
+                late.</p>
+            <p>Some examples mentioned above belong to this claſs. Add the following from
+                        <bibl><title>Venice Preserved</title>, act 5</bibl>. at the dole of the
+                ſcene between Bélvidera and her father Priuli. The account given by Belvidera of the
+                danger ſhe was in, and of her huſband’s threatening to murder her, ought naturally
+                to have alarmed her relenting father, and to have made him expreſs the moſt
+                perturbed ſentiments. Inſtead of which, he diſſolves into tenderneſs and love for
+                his daughter, as if he had already delivered her from danger, and as if there were a
+                perfect tranquillity :</p>
+            <sp>
+                <l>Canſt thou forgive me all my follies paſt !</l>
+                <l>I’ll henceforth be indeed a father ; never,</l>
+                <l>Never more thus expoſe, but cheriſh thee,</l>
+                <l>Dear as the vital warmth that feeds my life,</l>
+                <l>Dear as thoſe eyes that weep in fondneſs o’er thee :</l>
+                <l>Peace to thy heart.</l>
+            </sp>
+            <p>Immoral ſentiments expoſed in their native colours, inſtead of being concealed or
+                diſguised, compoſe the <hi rend="italic">fifth </hi>claſs.</p>
+            <p>The Lady Macbeth, projecting the death of the king, has the following ſoliloquy :</p>
+            <sp>
+                <l>—The raven himſelf’s not hoarse</l>
+                <l>That croaks the fatal entrance of Duncan</l>
+                <l>Under my battlements. Come, all you ſpirits</l>
+                <l>That tend on mortal thoughts, unſex me here,</l>
+                <l>And fill me from the crown to the toe, top full</l>
+                <l>Of direct cruelty ; make thick my blood,</l>
+                <l>Stop up th’ acceſs and paſſage to remorſe,</l>
+                <l>That no compunctious viſitings of nature</l>
+                <l>Shake my fell purpoſe.</l>
+            </sp>
+            <bibl><title>Macbeth</title>, act 1. ſc. 7.</bibl>
+            <p>This ſpeech is not natural. A treacherous murder was never perpetrated even by the
+                moſt hardened miſcreant without compunction : and that the lady here muſt have been
+                in horrible agitation, appears from her invoking the infernal ſpirits to fill her
+                with cruelty, and to stop up all avenues to remorſe. But in that ſtate of mind it is
+                a never-failing artifice off ſelf-deceit to draw the thickeſt veil over the wicked
+                action, and to extenuate it by all the circumſtances that imagination can ſuggeſt :
+                and if the crime cannot bear diſguiſe, the next attempt is to thruſt it out of mind
+                altogether, and to ruſh on to action without thought. This laſt was the huſhand’s
+                method.</p>
+            <sp>
+                <l>Strange things I have in head, that will to hand ;</l>
+                <l>Which muſt be acted ere they muſt be ſcann’d.</l>
+            </sp>
+            <bibl>Act 3. sc. 5.</bibl>
+            <p>The lady follows neither of theſe courſes, but in a deliberate manner endeavours to
+                fortify her heart in the commiſſion of an execrable crime, without even attempting
+                to colour it. This, we think, is not natural ; we hope there is no ſuch wretch to be
+                found as is here repreſented.</p>
+            <p>The <hi rend="italic">last</hi> claſs comprehends ſentiments that are unnatural, as
+                being ſuited to no character nor paſſion. Theſe may be ſubdivided into three
+                branches : firſt, ſentiments unſuitable to the conſtitution of man, and to the laws
+                of his nature ; second, inconsiſtent ſentiments ; third, ſentiments that are pure
+                rant and extravagance.</p>
+            <p>When the fable is of human affairs, every event, every incident, and every
+                circumſtance, ought to be natural, otherwiſe the imitation is imperfect. But an
+                imperfect imitation is a venial fault, compared with that of running croſs to
+                nature. In the <bibl><title>Hippolytus</title> of <author>Euripides</author> (act
+                    iv. ſc. 5.)</bibl>, Hippolytus, wiſhing for another ſelf in his own ſituation, “
+                How much (ſays he) ſhould I be touched with his misfortune !” as if it were natural
+                to grieve more for the misfortune of another than for one’s own.</p>
+            <sp>
+                <speaker>Oſmyn.</speaker>
+                <p> Yet I behold her—yet—and now no more. Turn your lights inward, eyes, and view my
+                    thought ; So ſhall you ſtill behold her—’Twill not be.</p>
+            </sp>
+        </body>
+    </text>
+</TEI>

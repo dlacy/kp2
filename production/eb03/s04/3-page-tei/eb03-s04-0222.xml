@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:30Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ledge already diffused is judſicously compiled. But a due reſpect for the public, and
+                gratitude for the very honourable reception hitherto given to our labours, induce us
+                to exert ourſelves with honeſt zeal to merit the continuance of public favour. We
+                aſſure our readers that the experiments were made with care, and on quantities
+                sufficiently large to make the unavoidable irregularities in ſuch caſes quite
+                inſignificant. The law of denſity was aſcertained in each ſubſtance in two ways. We
+                diſſolved different portions of ſalt in the ſame quantity of water, and examined the
+                ſpecific gravity of the brine by weighing it in a vessel with a narrow neck. The
+                portions of ſalt were each of them one- eighth of what would make a nearly ſaturated
+                solution of the temperature 55. We did not make the brine ſtronger, that there might
+                be no riſk of a precipitation in form of cryſtals. We conſidered the ſpecific
+                gravities as the ordinates of a curve, of which the abscissæ were the numbers of
+                ounces of dry ſalt contained in a cubic foot of the brine. Having thus obtained
+                eight ordinates correſponding to 1, 2, 3, 4, 5, 6, 7, and 8 portions of ſalt, the
+                ordinates or ſpecific gravities for every other proportion of ſalt were had by the
+                uſual methods of interpoſition.</p>
+            <p>The other method was, by firſt making a brine nearly ſaturated, in which the
+                proportion of salt and water was exactly determined. We then took out one-eighth of
+                the brine, and filled up the veſſel with water, taking care that the mixture ſhould
+                be complete ; for which purpoſe, beſides agitation, the diluted brine was allowed to
+                remain 24 hours before weighing. Taking out one-eighth of the brine alſo takes out
+                one eighth of the ſalt ; ſo that the proportion of ſalt and water in the diluted
+                brine was known. It was now weighed, and thus we determined the ſpecific gravity for
+                a new proportion of ſalt and water.</p>
+            <p>We then took out one-ſeventh of the brine. It is evident that this takes out
+                one-eighth of the original quantity of ſalt ; an abſtraction equal to the former. We
+                filled the veſſel with water with the ſame precautions ; and in the ſame manner we
+                proceeded till there remained only one-eighth of the original quantity of ſalt.</p>
+            <p>The ſpecific gravities by theſe two methods agreed extremely well. In the very
+                deliqueſcent ſalts the firſt method exhibited ſome ſmall irregularities, ariſing
+                from the unequal quantities of water which they had imbibed from the atmoſphere. We
+                therefore confided moſt in the experiments made with diluted brines.</p>
+            <p>That the reader may judge of the authority of the tables which we ſhall insert, we
+                ſubmit to his inſpection one ſeries of experiments.</p>
+            <p>Two thouſand one hundred and eighty-eight grains of very pure and dry (but not
+                decrepitated) common ſalt, prepared in large cryſtals, were diſſolved in 6562 grains
+                of diſtilled water of the temperature 55⁰. A ſmall matraſs with a narrow neck, which
+                held 4200 grains of diſtilled water, was filled with this brine. Its contents
+                weighed 5027 grains. Now 6562 + 2188 : 2188 = 5027 : 1256,75. Therefore the bottle
+                of brine contained 1256,75 grains of ſalt diſſolved in 3770,25 grains of water. Its
+                ſpecific gravity is -= 5027</p>
+            <p>or 1,196905 ; and a cubic foot of brine weighs 1196,9 ounces avoirdupois. Alſo 5027 :
+                1256,75 =</p>
+            <p>1196,9 : 299,28. Therefore a cubic foot of this brine contains 299,28 ounces of
+                perfectly dry ſalt.</p>
+            <p>The ſubſequent ſteps of the proceſs are repreſented as follows.</p>
+            <table>
+                <row>
+                    <cell>Salt.</cell>
+                    <cell>Brine.</cell>
+                    <cell>Water.</cell>
+                    <cell>Wt. of Cub. Ft.</cell>
+                    <cell>Salt in Cub. Ft.</cell>
+                </row>
+                <row>
+                    <cell><p>8)1256,75</p><p>157,1</p></cell>
+                    <cell><p>8)5027</p><p>628,4</p></cell>
+                    <cell>3770,25 = <hi rend="superscript">1</hi>/<hi rend="subscript">8 </hi>of
+                        brine.</cell>
+                    <cell>1196,5</cell>
+                    <cell><p>299,28</p><p>37,41 <hi rend="superscript">1</hi>/<hi rend="subscript"
+                        >8</hi></p></cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>4398,6</p><p>527,4</p></cell>
+                    <cell><p>Remains. Water to fill it</p><p>again.</p><p>2d Brine.</p><p><hi
+                        rend="superscript">1</hi>/<hi rend="subscript">7 </hi>taken
+                        out.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>7) 1099,6</p><p>157,1</p></cell>
+                    <cell><p>7)4926,0</p><p>703,7</p></cell>
+                    <cell> </cell>
+                    <cell>1172,7</cell>
+                    <cell><p>261,87</p><p>37,41</p></cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>4222,3</p><p>604,7</p></cell>
+                    <cell>Water added.</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>942,5</p><p>157,1</p></cell>
+                    <cell><p>6)4827,0</p><p>804,5</p></cell>
+                    <cell>3d Brine. Taken out.</cell>
+                    <cell>1149,3</cell>
+                    <cell>224,46</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>4022,5</p><p>706,5</p></cell>
+                    <cell>Remains. Water added.</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>785,4 157,1</cell>
+                    <cell><p>5)4729,0</p><p>946</p></cell>
+                    <cell>4th Brine. Taken out.</cell>
+                    <cell>1125,9</cell>
+                    <cell>187,05</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>3783</p><p>847</p></cell>
+                    <cell><p>Remains.</p><p>Water added.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>628,3</p><p>157,1</p></cell>
+                    <cell><p>4) 4630</p><p>1157,5</p></cell>
+                    <cell>5th Brine. Taken out.</cell>
+                    <cell>1102,3</cell>
+                    <cell>149,64</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>3472,5</p><p>1054,5</p></cell>
+                    <cell><p>Remains.</p><p>Water added.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>471,2</cell>
+                    <cell><p>3)4527</p><p>1509</p></cell>
+                    <cell>6th Brine. Taken out.</cell>
+                    <cell>1077,9</cell>
+                    <cell>112,23</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>3018</p><p>1405</p></cell>
+                    <cell><p>Remains.</p><p>Water added.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>314,1</cell>
+                    <cell><p>2)4423</p><p>2212</p></cell>
+                    <cell>7th Brine. Taken out.</cell>
+                    <cell>10533</cell>
+                    <cell>74,82</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>2211</p><p>2102</p></cell>
+                    <cell><p>Remains.</p><p>Water added.</p></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>157,0</cell>
+                    <cell>4313</cell>
+                    <cell>8th Brine.</cell>
+                    <cell>1027,9</cell>
+                    <cell>37,41</cell>
+                </row>
+            </table>
+            <p>Thus, by repeated abſtraction of brine, ſo as always to take out <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">8</hi>th of the ſalt contained in
+                one conſtant bulk, we have obtained a brine conſiſting of 157 grains of ſalt united
+                with 4313— 157, or 4156 grains of water. 4313</p>
+            <p>Its ſpecific gravity is 1,0279, and a cubic foot</p>
+            <p>of it weighs 1028 ounces, and contains 37<hi rend="superscript">4</hi>/<hi
+                    rend="subscript">10</hi> ounces of dry ſalt. In like manner may the ſpecific
+                gravity, the weight of a cubic foot, and the ſalt it contains, be eſtimated for the
+                intermediate brines.</p>
+            <p>When theſe eight quantities of ſalt contained in a cubic foot are made the abſciſſae,
+                and the weights of the cubic foot of brine are the correſponding ordinates, the</p>
+
+        </body>
+    </text>
+</TEI>

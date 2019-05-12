@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:48:15Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Walpole to have it reſtored, for ever cut off this confiderable ſupply; which
+                poſſibly had been only delayed, and might have been recovered by proper
+                application.</p>
+            <p>His diſtreſs now became ſo great, and ſo notorious, that a ſcheme was at length
+                concerted for procuring him a permanent relief. It was propoſed that he ſhould
+                retire into Wales, with an allowance of 501. <hi rend="italic">per annum,</hi> on
+                which he was to live privately, in a cheap place, for ever quitting his town-haunts,
+                and reſigning all farther pretenſions to fame. This offer he ſeemed gladly to
+                accept; but his intentions were only to deceive his friends, by retiring for a
+                while, to write another tragedy, and then to return with it to London in order to
+                bring it upon the ſtage.</p>
+            <p>In 1739, he ſet out for Swanſey, in the Briſtol ſtage- coach, and was furniſhed with
+                15 guineas to bear the expence of his journey. But, on the 14th day after his
+                departure, his friends and benefactors, the principal of whom was no other than the
+                great Mr Pope, who expected to hear of his arrival in Wales, were ſurpriſed with a
+                letter from Savage, inſormingthem that he was yet upon the road, and could not
+                proceed for want of money. There was no other remedy than a remittance; which was
+                ſent him, and by the help of which he was enabled to reach Briſtol, from whence he
+                was to proceed to Swanſey by water. At Briſtol, however, he found an embargo laid
+                upon the ſhipping; ſo that he could not immediately obtain a paſſage. Here,
+                therefore, being obliged to ſtay for ſome time, he, with his uſual facility, ſo
+                ingratiateel himſelf with the principal inhabitants, that he was frequently invited
+                to their houſes, diſtinguiſhed at their public entertainments, and treated with a
+                regard that highly gratified his vanity, and therefore eaſily engaged his
+                affections. At length, with great reluctance, he proceeded to Swanſey; where he
+                lived about a year, very much diſſatisfied with the</p>
+            <p>diminution of his ſalary; for he had, in his letters, treated his contributors ſo
+                inſolently, that moſt of them withdrew their ſubſcriptions. Here be finiſhed his
+                tragedy, and reſolved to return with it to London: which was ſtrenuouſly oppoled by
+                his great and confiant friend Mr Pope; who propoſed that Savage ſhould put this play
+                into the hands of Mr Thomſon and Mr Mallet, in order that they might ſit it for the
+                ſtage, that his friends ſhould receive the profits it might bring in, and that the
+                author ſhould receive the produce by way of annuity. This kind and prudent ſcheme
+                was rejected by Savage with the utmoſt contempt. He declared he would not ſubmit his
+                works to any one’s correction; and that he would no longer be kept in
+                leading-ſtrings. Accordingly he ſoon returned to Briſtol, in his way to London; but
+                at Briſtol, meeting with a repetition of the lame kind treatment he had before found
+                there, he was tempted to make a ſecond ſtay in that opulent city for ſome time. Here
+                he was again not only careſſed and treated, but the ſum of 30l. was raiſed for him,
+                with which it had been happy if he had immediately departed for London: But he never
+                conſidered that a frequent repetition of ſuch kindneſs was not to be expected, and
+                that it was poſſible to tire out the generoſity of his Briſtol friends, as he had
+                before tired his friends everywhere elſe. In ſhort, he remained here till his
+                company was no longer welcome. His viſits in every family were too often repeated;
+                his wit had lolt its novelty, and his irregular behaviour grew troubleſome.
+                Neceſſity came upon him before he was aware; his money was ſpent, his clothes were
+                worn out, his appearance was ſhabby, and his preſence was diſgultſul at every table.
+                He now began to find every man from home at whoſe houſe he called; and he found it
+                difficult to obtain a dinner. Thus reduced, it would have been prudent in him to
+                have withdrawn from the place; but prudence and Savage were never</p>
+        </body>
+    </text>
+</TEI>

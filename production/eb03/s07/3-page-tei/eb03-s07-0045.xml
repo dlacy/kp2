@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T20:11:27Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>at a particular ſum, the preſent single payment paid on admission is found by
+                ſubtracting the value of the annual payment during the joint lives from the whole
+                preſent value of the annuity in one payment. Suppoſe, for inſtance, the annual
+                payments to be fixed at five guineas, the annuity to be 30 l. the rate of intereſt
+                four <hi rend="italic">per cent,</hi> and the joint lives each 40; the value of the
+                annuity in one preſent ſingle payment is 101. 11. The value of five guineas or 5.25
+                    <hi rend="italic">per annum,</hi> is (5.25 multiplied by 9.82 the value of the
+                joint lives) 51.55 ; which, subtracted from 101.11. gives 1.49.5, the anſwer.</p>
+            <p>If a ſociety takes in all the marriages among perſons of a particular profession
+                within a given diſtrict, and ſubjects them for perpetuity to a certain equal and
+                common tax or annual payments, in order to provide life annuities for all the widows
+                that ſhall result from theſe marriages ; ſince, at the commencement of ſuch an
+                eſtablishment, all the oldeſt, as well as the youngeſt, marriages are to be intitled
+                equally to the propoſed benefit, a much greater number of annuitants will come
+                immediately upon it than would come upon any similar eſtabliſhment which limited
+                itſelf in the admission of members to perſons not exceeding a given age. This will
+                check that accumulation of money which ſhould take place at firſt, in order to
+                produce an income equal to the diſburſements at the time when the number of
+                annuitants comes to a <hi rend="italic">maximum</hi> ; and therefore will be a
+                particular burden upon the eſtabliſhment in its infancy. For this ſome compenſation
+                muſt be provided ; and the equitable method of providing it is, by levying fines at
+                the beginning of the eſtabliſhment on every member exceeding a given age,
+                proportioned to the number of years which he has lived beyond that age. But if ſuch
+                fines cannot be levied, and if every payment muſt be equal and common, whatever
+                diſparity there may be in the value of the expectations of different members, the
+                fines muſt be reduced to one common one, anſwering as nearly as poſſible to the
+                diſadvantage, and payable by every member at the time when the eſtabliſhment begins.
+                After this, the eſtabliſhment will be the ſame with one that takes upon it all at
+                the time they marry; and the tax or annual payment of every member adequate to its
+                ſupport will be the annual payment during marriage due from perſons who marry at the
+                mean age at which, upon an average, all marriages may be conſidered as commencing.
+                The fines to be paid at firſt are, for every particular member, the same with the
+                difference between the value of the expectation to him at his preſent age, and what
+                would have been its value to him had the ſcheme begun at the time he married. Or,
+                they are, for the whole body of members, the difference between the value of the
+                common expectation, to perſons at the mean age of all married perſons taken together
+                as they exiſt in the world, and to perſons at that age which is to be deemed their
+                mean age when they marry.</p>
+            <p>Suppoſe we wiſh to know the preſent value of an annuity to be enjoyed by one life,
+                for what may happen to remain of it beyond another life, after a given term ; that
+                is, provided both lives continue from the preſent time to the end of a given term of
+                years ; the method of calculating is this : Find the value of the annuity for two
+                lives, greater by the given term of years than the given lives ; diſcount this value
+                for the given term; and then multiply by the probability, that the two given lives
+                ſhall both continue the given term ; and the product will be the anſwer. Thus, let
+                the two lives be each the term ſeven years, the annuity l. 10, intereſt Four <hi
+                    rend="italic">per cent.</hi> The given lives, increaſed by ſeven years, become
+                each 57. The value of two joint lives, each 37, is (by Table II.) 10.25. The value
+                of a ſingle life at 37 is (by the table under the article <hi rend="smallcaps"
+                    >Annuity)</hi> 13.67. The former ſubtracted from the latter is 3.42, or the
+                value of an annuity for the life of a perſon 317 years of age, after another of the
+                ſame age, as has been ſhown above. 3.42 dd- counted for ſeven years (that is,
+                multiplied by 0.76 the value of 11. due at the end of ſeven years) is 2.6. The
+                probability that a ſingle life at 30 ſhall continue ſeven years is <hi
+                    rend="superscript">49</hi>∕<hi rend="subscript">56</hi>
+                <hi rend="smallcaps">@@(b).</hi> The probability, therefore, that two ſuch lives ſhall
+                continue ſeven years, is 2401∕3136, or in decimals 0.765 ; and 2.6 multiplied by
+                0.765 is 1.989, the number of years purchaſe which ought to be given for an annuity
+                to be enjoyed by a life now 30 years of age, after a life of the same age, provided
+                both continue ſeven years. The annuity then being 10 l<hi rend="smallcaps">.</hi>
+                its preſent value is 1.19.89.</p>
+            <p>Suppoſe the value is required of an annuity to be enjoyed for what may happen to
+                remain of one life after another, provided the life in expectation continues a given
+                time. I. Find the preſent value of the annuity for the remainder of the life in
+                expectation after the given time, which is done in this manner : Multiply the
+                preſent value of the life at the given time by the preſent value of 1 l. to be
+                received at that time, and multiply the product again by the probability that the
+                life in expectation will continue ſo long. Let the given time which the life in
+                expectation is to continue be 15 years, and let the perſon then be arrived at 50
+                years of age. A life at fifty, according to Μ. de Moivre’s valuation of lives, and
+                reckoning intereſt at <hi rend="italic">four per cent.</hi> is worth 11.34 years
+                purchaſe. The preſent value of 1 l. to be received at the end of 15 years, is
+                0.5553, and the probability that a life at 35 will continue 15 years is <hi
+                    rend="superscript">146</hi>∕<hi rend="subscript">490</hi>. Theſe three values
+                multiplied into one another give L.4.44 for the preſent value ot the life in
+                expectation. 2. Find the value of the reverſion, provided both lives continue the
+                given time, by the rule given in parag. 5th. 3. Add theſe values together, and the
+                ſum will be the anſwer in a ſingle preſent payment. We ſhall now illuſtrate this
+                rule by an example.</p>
+            <p>An annuity of 10 l. for the life of a person now 30, is to commence at the end of 11
+                years, if another perſon now 40 ſhould be then dead ; or, if this ſhould not happen
+                at the end of any year beyond 11 years in which the former ſhall happen to survive
+                the latter : What is the preſent value of ſuch an annuity, reckoning intereſt at
+                four <hi rend="italic">per cent.</hi> and taking the probabilities of life as they
+                are in Dr Hailey’s table, given in the article <hi rend="smallcaps">Mortality
+                ?</hi></p>
+            <p>The value of 10l. <hi rend="italic">per annum,</hi> for the remainder of the life of
+                a perſon now 30, after 11 years is L. 69.43. The probability that a perſon 40 years
+                of age ſhall live 11 years, is, by Dr Halley's table, <hi rend="superscript"
+                    >335</hi>∕<hi rend="subscript">445</hi>. The probability, therefore, that he
+                will die in 11 years, is ſubtracted from unity @@(C), or which multiplied by
+                1.69.43, gives 1. 17.16.—The value of the reverſion, provided both live 11 years, is
+                17 l. and this value added to the former, makes l. 34.16. the value required in a
+                ſingle preſent paymcnt ; which payment divided by 1. 11.43, the value of two joint
+                lives, aged 30 and 40, with unity added, gives 3 l. ; or the value required in
+                annual payments during the joint lives, the firſt payment to be made
+                immediately.</p>
+            <p>@@@(b) The probability that a given life shall continue any number of years, or reach
+                a given age, is (as is well known) the fraction, whose numerator is the number of
+                the living in any table of observations opposite to the given age, and denominator,
+                the number opposite to the present age of the given life.</p>
+            <p>@@@(c) For the difference between unity and the fraction expressing the probability
+                thta an event will happen, gives the probability that it will not happen.</p>
+        </body>
+    </text>
+</TEI>

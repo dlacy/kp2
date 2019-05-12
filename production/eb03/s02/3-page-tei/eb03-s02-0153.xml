@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:57:44Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>by Montſaucon. That they are found too in the <hi rend="italic">Codex Vaticanus,</hi>
+                though not frequently, is related by Birch in his <hi rend="italic"
+                    >Prolegomena,</hi> p. 14.</p>
+            <p>As the fact has not been generally known, that the ancients pointed their
+                manuscripts, and as it is an important and intereſting fact, we ſhall preſent our
+                readers with the firſt ſix lines of St John’s Goſpel, as they are pointed in the
+                Alexandrine manuſcript:</p>
+            <p>ΕΝΑΡΧΗΝΟΛΟΓΟΣΚΑΙΟΛΟΓΟΣΗΝ</p>
+            <p>ΠΡΟΣΤΟΝΘΝ ΚΑΙΘΣΗΝΟΛΟΓΟΣ·</p>
+            <p>ΟϓΤΟΣΗΝΕΝΑΡΧΗΠΡΟΣΤΟΝΘΝ</p>
+            <p>ΠΑΝϓΑΔΙΑϓΤΟϓΕΓΟ·ΚΑΙΧΩ</p>
+            <p>ΡΕΙΣΑϓΤΟϓΕΓΕΝΕΤΟΟϓΔΕΕΝ·</p>
+            <p>ΟΓΕΓΟΝΕΝΕΝΑϓΤΩΖΩΗΗΝ·</p>
+            <p>Whether any points for marking the ſenſe were uſed by the apoſtles, cannot be
+                determined; but the points now in uſe have been invented ſince.</p>
+            <p>In the fourth century, Jerome began to add the comma and colon to the Latin verſion;
+                and they were then inſerted in many more ancient manuſcripts. In the fifth century,
+                Euthalius a deacon of Alexandria divided the New Teſtament into lines. This diviſion
+                was regulated by the ſenſe, ſo that each line ended where ſome pauſe was to be made
+                in ſpeaking. And when a copyiſt was diſpoſed to contract his ſpace, and therefore
+                crowded the lines into each other, he then placed a point where Euthalius had
+                terminated the line. In the eighth century, the ſtroke was invented which we call a
+                comma. In the Latin manuſcripts, Jerome’s points were introduced by Paul Warnfried
+                and Alcuin, at the command of Charlemagne. In the ninth century, the Greek note of
+                interrogation(;) was firſt uſed. At the invention of printing the editors placed the
+                points arbitrarily, probably without beſtowing the neceſſary attention; and
+                Stephens, in particular, varied his points in every edition @@<hi rend="smallcaps"
+                    >(d).</hi></p>
+            <p>The meaning of many paſſages in the Scripture has been altered by falſe pointing. We
+                ſhall produce one inſtance of this: Mat. v. 34. is commonly pointed in this manner,
+                εγω δε λεγω υμιν, μη ομοσαι ολως· μητε εν τω ϱραχω<hi rend="italic">, </hi>and
+                conſequently tranſlated, “But I ſay unto you, ſwear not at all.” But if, inſtead of
+                the colon placed after ολως we ſubſtitute a comma, the tranſlation will be, “But I
+                ſay to you that you ought by no means to ſwear, either by heaven, for it is his
+                throne, or by earth, for it is his footſtool.” The command of Chriſt therefore
+                applies particularly to the abuſe of oaths among the Phariſees, who on every trivial
+                occaſion ſwore by the heaven, the earth, the temple, the head, &amp;c. but it
+                implies no prohibition to take an oath in the name of the Deity on ſolemn and
+                important occaſions.</p>
+            <p>The ancients divided the New Teſtament into two kinds of chapters, ſome longer and
+                ſome ſhorter. This method appears to be more ancient than St Jerome, for be expunged
+                a paſſage from the New Teſtament which makes an entire chapter. The longer kind of
+                chapters were called <hi rend="italic">breves,</hi> the ſhorter <hi rend="italic"
+                    >capitula.</hi> St Mat</p>
+            <p>thew contained, according to Jerome, 68 breves; Mark contained 48; Luke 83; and John
+                18. All the evangeliſts together conſiſted of 217 breves and 1126 capitula. The
+                inventor of our modern diviſion into chapters was Hugo de S. Caro, a French
+                Dominican friar who lived in the 13th century.</p>
+            <p>The ancients had two kinds of verſes, one of which they called ςιχοι, and the other
+                ρηματα. The r<hi rend="italic">emata </hi>were lines which contained a certain
+                number of letters, like our printed books, and therefore often broke off in the
+                middle of a word. Joſephus’s 20 books of Antiquities contained 60,000 of them,
+                though in Ittiquis’s edition there are only 40,000 broken lines.</p>
+            <p><hi rend="italic">Stichi</hi> were lines meaſured by the ſenſe: according to an
+                ancient written lift mentioned by Father Simin, there were in the New Teſtament
+                18,612 of theſe.</p>
+            <p>The verſes into which the New Teſtament is now divided are more modern, and an
+                imitation of the diviſion of the Old Teſtament. Robert Stephens, the firſt inventor,
+                introduced them in his edition in the year 1551. He made this diviſion on a journey
+                from Lyons to Paris; and, as his ſon Henry, tells us in the preface to the
+                Concordance of the New Teſtament, he made it <hi rend="italic">inter
+                    equitandum.</hi> This phraſe probably means, that when he was weary of riding,
+                he amuſed himſelf with this work at his inn.</p>
+            <p>This invention of the learned printer was ſoon introduced into all the editions of
+                the New Teſtament; and it muſt be confeſſed, that in conſulting and quoting the
+                Scriptures, and in framing concordances for them, a ſubdiviſion into minute parts is
+                of the greateſt utility. But all the purpoſes of utility could ſurely have been
+                gained, without adopting the haſty and indigeſted diviſion of Stephens, which often
+                breaks the ſenſe in pieces, renders plain paſſages obſcure, and difficult paſſages
+                unintelligible. To the injudicious diviſion of Stephens we may aſcribe a great part
+                of the difficulties which attend the interpretation of the New Teſtament, and a
+                great many of thoſe abſurd opinions which have diſgraced the ages of the
+                Reformation. For as ſeparate verſes appear to the eyes of the learned, and to the
+                minds of the unlearned, as ſo many detached ſentences, they have been ſuppoſed to
+                contain complete ſenſe, and they have accordingly been explained without any regard
+                to the context, and often in direct oppoſition to it. Were any modern hiſtory or
+                continued diſcourſe divided into fragments with as little regard to the ſenſe, we
+                ſhould ſoon find, that as many oppoſite meanings could be forced upon them as have
+                been forced upon the books of the New Teſtament. The diviſion into verſes has been
+                ſtill more injurious to the Epiſtles than to the Goſpels, for there is a cloſe
+                connection between the different parts of the Epiſtles, which the verſes entirely
+                diſſolve. It is therefore to be wiſhed that this diviſion into verſes were laid
+                aſide. The Scriptures ought to be divided into paragraphs, according to the ſenſe;
+                and the figures ought to be thrown into the margin. In this way, the figures will
+                retain their utility</p>
+            <p><hi rend="smallcaps">@@@(d)</hi> The reader will perceive that the account of the
+                origin of points is different from that given under <hi rend="smallcaps"
+                    >Punctuation.</hi> But the beſt authors differ upon this ſubject. We ſhall
+                perhaps reconcile the difference, by ſuppoſing that points were invented at the time
+                here mentioned, but were not in general uſe till the time mentioned under the
+                article <hi rend="smallcaps">Punctuation.</hi></p>
+        </body>
+    </text>
+</TEI>

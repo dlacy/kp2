@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:19:51Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>tween the two hanks, which ſerves for a head-band to tie them.</p>
+            <p>You muſt obſerve that your water be juſt in a proper degree of heat. When it is too
+                hot, the thread is dead, and has no body ; when it is too cold, the ends which form
+                the thread do not join well, and form a harſh ill-qualified ſilk.</p>
+            <p>You muſt change the water in your baſon four times a-day for your dupions and
+                choquette, and twice only for good cocoons when you wind fine ſilk ; but if you wind
+                coarſe ſilk, it is neceſſary to change it three or four times. For if you were not
+                to change the water, the ſilk would not be ſo bright and gloſſy, becauſe the worm
+                contained in the cocoons foul it very conſiderably. You muſt endeavour as much as
+                poſſible to wind with clear water, for if there are too many worms in it, your ſilk
+                is covered with a kind of dust which attracts the moth, and deſtroys your ſilk.</p>
+            <p>You may wind your ſilk of what ſize you pleaſe, from one cocoon to 1000 ; but it is
+                difficult to wind more than 30 in a thread. The nicety, and that in which conſiſts
+                the greateſt difficulty, is to wind even ; becauſe as the cocoon winds off, the end
+                is finer, and you muſt then join other cocoons to keep up the ſame ſize. This
+                difficulty of keeping the ſilk always even is ſo great, that (excepting a thread of
+                two cocoons, which we call such) we do not ſay a ſilk of three, of four, or of ſix
+                cocoons ; but a ſilk of three to four, of four to five, of fix to ſeven cocoons. If
+                you proceed to a coarſer, ſilk, you cannot calculate ſo nicely as to one cocoon more
+                or leſs. We ſay, for example, from 12 to 15, from 15 to 20, and ſo on.</p>
+            <p>What number of worms are neceſſary to produce a certain quantity of ſilk has not been
+                aſcertained. And as different perſons who wished to determine this point have had
+                different reſults, the truth ſeems to be, that from various circumſtances the ſame
+                number of worms may produce more ſilk at one time than at another. It is related in
+                the ſecond volume of the Tranſactions of the Society for encouraging Arts, &amp;c.
+                that Mrs Williams obtained nearly an ounce and a half of ſilk from 244 cocoons. Mr
+                Swayne from 50 cocoons procured 100 grains. Miſs Rhodes obtained from 250 of the
+                largeſt cocoons, three quarters of an ounce and a dram. From a paper in the ſecond
+                volume of the American Tranſactions, which we have before referred to in the courſe
+                of this article, we are informed that 150 ounces oſ good cocoons yield about 11
+                ounces of ſilk from five to ſix cocoons : if you wind coarſer, ſomething more. But
+                what appears aſtoniſhing, Mr Salvatore Bertezen, an Italian, to whom the Society for
+                encouraging Arts, &amp;c. adjudged their gold medal, raiſed five pounds of excellent
+                ſilk from 12,000 worms.</p>
+            <p>The cocoons produce a thread of very unequal length ; you may meet with ſome that
+                yield 1200 elk, whilſt others will ſcarcely afford 200 ells. In general, you may
+                calculate the production of a cocoon from 500 to 600 ells in length.</p>
+            <p>As there is every reaſon to hope that the ſilk manufacture will ſoon be carried on
+                with ardour in this country, and to a great extent, we are happy to learn that the
+                ſilk-loom has been much improved lately by Mr Sholl of Bethnal-Green. It appears
+                from the evidence of ſeveral gentlemen converſant in that branch of ſilk weaving to
+                which this loom is particularly adapted,@@ that</p>
+            <p>the advantages oſ this conſtruction are, the gaining light, a power of ſhortening the
+                porry occaſionally, ſo as to suit any kind of work, being more portable, and having
+                the gibbet firmly fixed, together with the diminution of price ; which, compared
+                with the old loom, is as five pounds, the price of a loom on the old conſtruction,
+                to three pounds ten ſhillings, the price of one of thoſe contrived by Mr Sholl ; and
+                that, as the proportion of light work is to ſtrong work as nine to one, this sort of
+                loom promiſes to be of very conſiderable advantage, particularly in making modes, or
+                other black work.</p>
+            <p>As a plate of this loom, with proper references, will render its advantages moſt
+                intelligible, we ſhall ſubjoin theſe : Plate CCCCLXVI. A, A, The fills; B, B, The
+                breaſt-roll poſts : C, The cut tree; D, F), The uprights ; E, The burdown ; F, The
+                batton ; G, The reeds; H, The harneſs ; I. The breaſt-roll ; K, The cheeſe; L, The
+                gibbet: M, The treddles ; N, The tumblers ; 0, Short eounter-meſhes ; P, Long
+                counter- meſhes ; Q, The porry ; R, R, Cane roll poſts ; S, The cane-roll ; T, The
+                weight bar and weight ; U, U, Counter-weights ; W, The breaking rod ; X, X, Crois
+                rods.</p>
+            <p><hi rend="italic">SILK-Worm.</hi> See <hi rend="smallcaps">Silk.</hi></p>
+            <p>SILPHA, <hi rend="smallcaps">Carrion-beetle,</hi> in natural hiſtory ; a genus of
+                animals belonging to the claſs of <hi rend="italic">inſectae,</hi> and to the order
+                of <hi rend="italic">coleopterae.</hi> The antennæ are clavated ; the clava are
+                perfoliated ; the elytra marginated ; the head is prominent; and the thorax
+                marginated. There are 94 ſpecies, of which ſeven only are natives of Britain and
+                Ireland. I. The <hi rend="italic">veſpillo.</hi> The margin of the thorax broad. The
+                ſhells abbreviated, black, with two yellow belts. The thighs of the hind legs large,
+                with a ſpine near their origin. Length near one inch. It infeſts dead bodies. 2. The
+                    <hi rend="italic">biphuſtulata,</hi> is black ; the antennæ are long and ſmall,
+                and there are two red ſpots on the middle of each ſhell. The length is one-third of
+                an inch. 3. The <hi rend="italic">pustulala,</hi> is black and oblong : there are
+                four brown ſpots on the ſhells : the length is one-fifth of an inch. It lives on
+                trees. 4.@@ The <hi rend="italic">quadripunctata.</hi> The head, antennæ, and legs
+                black- Margin oſ the thorax and ſhells are of a pale yellow, with four black ſpots.
+                The length half an inch. It is found in Cain-wood, near Hampſtead. 5. The <hi
+                    rend="italic">ſabuloſa,</hi> is black ; the antennæ are ſhort and globular ;
+                there are five striae on each ſhell. The ſhells and wings are ſhort. There are five
+                joints on the two firſt feet, four on the rest. It lives in sand. 6. The <hi
+                    rend="italic">aquatica,</hi> is brown, with a green bronze tinge. There are four
+                ribs on the thorax. On each ſhell there are 10 ſtriae. The length is one-fifth of an
+                inch. 7. The <hi rend="italic">pulicaria,</hi> is black and oblong ; the ſhells are
+                abbreviated ; the abdomen is rounded at the extremity ; the thorax and ſhells are
+                ſcarce marginated ; the length is one line. It is found frequently running on
+                flowers.</p>
+            <p>SILPHIUM, in botany ; A genus of plants belonging to the claſs of ſyngeneſia, and to
+                the order of polygamia neceſſaria ; and in the natural ſyſtem arranged under the
+                49th order, <hi rend="italic">compositae.</hi> The receptacle is paleaceous ; the
+                pappus has a two-horned margin, and the calyx is ſquarroſe. There are eight ſpecies
+                ; the laciniatum, terebinthinum, perfoliatum, connatum, aſterisicum, trifoliatum,
+                ſoldaginoides, and trilobatum. The firſt six of theſe are natives of North
+                America.</p>
+            <p>@@@[mu] Transactions of the Society for encouraging Arts, &amp;c. vol. viii.</p>
+            <p>@@@[mu] Berkenhout, vol. i.</p>
+        </body>
+    </text>
+</TEI>

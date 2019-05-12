@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T20:02:05Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ments of thoſe caſuiſts who have undertaken the deſpicable office of advocates for
+                the crime of ſuicide. Their talents might ſurely have been employed more uſefully to
+                the world, and more honourably to themſelves, than in pleading for a crime which, if
+                it were committed by every man to whom their principles would make it lawful, would
+                totally destroy ſome of the nobleſt virtues, fortitude, patience, and reſignation ;
+                nay, would deſtroy ſociety itſelf, and teach us to deſpiſe the opinion that this
+                world is a state of preparation for another. “ I came into life without my own
+                conſent, and may I not quit it at pleaſure?” (say the advocates for ſuicide). If,
+                becauſe we came into life without our own conſent, we might quit it at pleaſure, why
+                may we not ſpend our life alſo as we pleaſe ? Why may we not rob and murder, and
+                commit every kind of crime, if <hi rend="italic">mere inclination </hi>is to be the
+                rule of action ? Thus upon the principles of ſuicide the highwayman and murderer may
+                reaſon, and every man may find a ſufficient apology for any crime which he is
+                tempted to commit. Or this abſurdity may be otherwiſe anſwered ; As we came into
+                life without our own conſent, we must have come with the conſent of ſome other being
+                ; and logic ſays, that with the conſent of that Being only can we lawfully quit
+                it.</p>
+            <p>It is ſufficient shortly to say, that ſuicide is contrary to the strongeſt principle
+                of the human conſtitution, ſelf-preſervation ; that it is rebellion againſt God ;
+                that it is cruelty to the feelings and reputation, and often takes away the
+                ſubſiſtence of a wife, a child, or a father ; that it proves a want of fortitude to
+                brave misfortunes ; that it delivers only from imagined to plunge into real evils.
+                We may add, that almoſt every inſtance of ſuicide of which we have heard was raſh,
+                imprudent, and premature, interrupted a uſeful life, or prevented a more honourable
+                death. Had Cato’s pride permitted him to yield himſelf to the generality of Cæsar,
+                his character and his influence might have contributed to retard the ſlavery of his
+                country, which his death tended to hasten. Had Brutus and Cassius not executed the
+                fatal reſolution which they had formed, of dying by their own hands in case of
+                misfortune, the battle of Philippi might have had a very different iſſue. Had
+                Hannibal ſurrendered himſelf to the Romans, inſtead of ſwallowing person, he would
+                have gained more glory in braving their tortures than he won in the battle of Cannæ
+                ; for to die innocently and heroically is the greateſt exertion of human
+                fortitude.</p>
+            <p>As ſuicide was deemed a crime by the moſt illuſtrious and virtuous of the Greek and
+                Roman philoſophers, it was conſidered as a crime by the laws, and treated with
+                ignominy. By the law of Thebes suicides were to have no honours paid to their memory
+                @@*. The Athenian law ordained the hand which committed the deed to be cut off, and
+                burned apart from the rest of the body. The body was not buried with the uſual
+                solemnites, but was ignominiouſly thrown into ſome pit. In Cea and Maſſilia (the
+                ancient <hi rend="italic">Marseilles),</hi> it was conſidered as a crime againſt the
+                state ; and it was therefore neceſſary for thoſe who wiſhed to destroy themſelves to
+                obtain permiſſion from the magiſtrates. @@* Plutarch acquaints us, that an
+                unaccountable paſſion for suicide ſeized the Mileſian virgins ; from indulging which
+                they could not be prevented by the tears and entreaties of parents and friends : but
+                what perſuaſion and entreaty could not effect was accompliſhed by very different
+                means. A decree was issued, “ that the body of every young woman who hanged herſelf
+                ſhould be dragged naked through the ſtreets by the same rope with which she had
+                committed the deed.” This wise edict put a complete flop to the extraordinary
+                frenzy, and ſuicide was no longer committed by the virgins of Miletus.</p>
+            <p>In the early part of the Roman hiſtory there ſeems to have been ſeldom occaſion for
+                framing any laws againſt ſuicide. The only inſtance recorded occurs in the reign of
+                Taiquinius Priſcus. The ſoldiers who were appointed to make drains and common
+                ſewers, thinking themſelves diſgraced by ſuch ſervile offices, put themſelves to
+                death in great numbers. The king ordered the bodies of all the ſelf-murderers to be
+                expoſed on croſſes, and this put an effectual ſtop to the practice. It is doubtful
+                whether there was any ſtanding law againſt ſuicide during the exiſtence of the
+                republic ; but during the reign of the emperors it was thought proper to lay it
+                under certain regulations, though not abſolutely to condemn it as a crime.@@ In
+                Juſtinian’s Digeſts there is a law, by which it was enacted, “ that if persons
+                accuſed, or who had been found guilty, of any crime ſhould make away with
+                themſelves, their effects ſhould be</p>
+            <p>@@@[m]* Petite Comment. in Leges Atticas, p. 523.</p>
+            <p>@@@[m]* Plutarch on the Virtues of Women. </p>
+            <p>@@@[mu] Lib. xlviii. Tit. xxi. par. 3.</p>
+          
+        </body>
+    </text>
+</TEI>

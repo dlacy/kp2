@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:19:35Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell><hi rend="italic">The retreat,</hi></cell>
+                    <cell>To retreat.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Drum ceasing,</hi></cell>
+                    <cell>To halt.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Two shοrt rolls,</hi></cell>
+                    <cell>To perform the flank firing.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The dragoon march,</hi></cell>
+                    <cell>To open the battalion.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The grenadier march,</hi></cell>
+                    <cell>To form the column.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The troop,</hi></cell>
+                    <cell>To double divisions.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The long roll,</hi></cell>
+                    <cell>To form the ſquare.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The grenadier march,</hi></cell>
+                    <cell>To reduce the ſquare to the column.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The preparative,</hi></cell>
+                    <cell>To make ready and fire.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">The general,</hi></cell>
+                    <cell>To ceaſe firing.</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Two long rolls,</hi></cell>
+                    <cell>To bring or lodge the colours.</cell>
+                </row>
+            </table>
+            <p>SIGNATURE, a ſign or mark impreſſed upon any thing, whether by nature or art. Such is
+                the general ſignification of the word ; but in the plural number it has been uſed,
+                in a particular ſenſe, to denote thoſe external marks by which phyſiognomiſts and
+                other dabblers in the occult ſciences pretend to diſcover the nature and internal
+                qualities of every thing on which they are found. According to Lavater, every
+                corporeal object is characterized by ſignatures peculiar to itſelf.</p>
+            <p>The doctrine of ſignatures, like alchemy and aſtrology, was very prevalent during the
+                15th and 16th centuries ; and was conſidered as one of the occult ſciences which
+                conferred no ſmall degree of honour on their respective profeſſors. Some of theſe
+                philosophers, as they thought fit to ſtyle themselves, maintained that plants,
+                minerals, and animals, but particularly plants, had ſignatures impreſſed on them by
+                the hand of nature, indicating to the adept the <hi rend="italic">therapeutic</hi>
+                uſes to which they might be applied. Others, ſuch as the myſtic theoſophiſts and
+                chemiſts of that day, proceeded much farther in abſurdity, maintaining that every
+                ſubſtance in nature lad either <hi rend="italic">external</hi> ſignatures
+                immediately diſcernible, or <hi rend="italic">internal</hi> ſignatures, which, when
+                brought into view by fire or menſtrua, denoted its connection with ſome fiderial or
+                celestial archetype. Of the doctrine of signatures, as it relates merely to the
+                therapeutic uſes of plants and minerals, traces are to be found in the works of ſome
+                of the greateſt authors of antiquity ; but the celeſtial ſignatures, we believe,
+                were diſcovered only by the moonlight of the moukiſh ages, Pliny informs us@@*, that
+                the marble called <hi rend="italic">aphites,</hi> from its being ſpotted ike a
+                ſerpent, was diſcovered by thoſe ſpots to be a sovereign remedy for the bite of that
+                animal ; and that he colour of the <hi rend="italic">haematites</hi> or blood-ſtone
+                intimated that it was fit to be employed to ſtop an hemorrhagy ; but we do not
+                recollect his attributing the virtues of theſe minerals to a ſiderial or celeſtial
+                influence.</p>
+            <p><hi rend="smallcaps">Signature,</hi> a ſigning of a perſon’s name at the botom of an
+                act or deed written by his own hand.</p>
+            <p><hi rend="smallcaps">Signature,</hi> in printing, is a letter put at the bottom of
+                the firſt page at leaſt, in each ſheet, as a direction to the binder in folding,
+                gathering, and. collating, hem. The ſignatures conſiſt of the capital, letters of
+                the alphabet, which change in every ſheet : if there be tore ſheets than letters in
+                the alphabet, to the capital letter is added a ſmall one of the ſame sort, as A a, B
+                b ; which are repeated as often as neceſſary. In large volumes it is eaſy to
+                diſtinguiſh the number of alphabets, after the firſt three or four, by placing a
+                figure before he literature, as 5 B, 6 B, &amp;c.</p>
+            <p>SIGNET, one of the king’s ſeals, made uſe of in sealing his private letters, and all
+                grants that paſs by</p>
+            <p>bill ſigned under his majeſty’s hand : it is always in the cuſtody of the ſecretaries
+                of ſtate.</p>
+            <p><hi rend="smallcaps">Signet,</hi> in Scots law. See <hi rend="smallcaps">Law,</hi>
+                Part III. §17. </p>
+            <p>SILENE, <hi rend="smallcaps">Catchfly,</hi> or <hi rend="italic">Viſcous
+                    Campion,</hi> in botany : A genus of plants belonging to the claſs of <hi
+                    rend="italic">decandria,</hi> and order of <hi rend="italic">trigynia</hi> ; and
+                in the natural ſyſtem arranged under the 22d <hi rend="italic"
+                    >order,caryophylleœ.</hi> The calyx is ventricoſe; the petals are five in
+                number, bifid and unguiculated, and crowned by a nectarium ; the capſule is
+                cylindrical, covered, and trilocular. There are 26 ſpecies, of which 7 are natives
+                of Britain and Ireland. 1. <hi rend="italic">Anglica,</hi> the ſmall corn campion or
+                catchfly. The ſtem is weak, hairy, and above a foot high ; the leaves are oblong,
+                and grow in pairs at the joints ; the flowers are ſmall, white, and entire; they
+                ſtand on footſtalks which iſsue from the alæ of the leaves ; they are erect,
+                alternate, ſingle, and lateral. It grows in corn-fields, and flowers in June and
+                July, 2. <hi rend="italic">Nutans,</hi> Nottingham catchfly, The ſtem is about two
+                feet high, and firm ; the radical leaves are broad, obtuſe, and grow in a tuft;
+                thoſe on the ſtem are narrow and acute : the flowers are white, and grow in lateral
+                panicles ; the petals are bifid and curled ; the calyx is long, bellying a little,
+                with ten longitudinal striae. It grows in paſtures, and flowers in June and July. 3.
+                    <hi rend="italic">Amœna,</hi> ſea-campion. The ſtem is two or three feet long,
+                ſlender, procumbent, and branched alternately : the leaves are long and narrow : the
+                flowers are white, and grow on oppoſite footſtalks, three on each, in unilateral
+                bunches : the calyx is hairy and purpliſh, and has ten angles. It grows on the ſouth
+                coaſt, and flowers in June and July. 4. Con<hi rend="italic">oidea,</hi> greater
+                corn catchfly, or campion. The leaves are narrow and soft ;. the calyx is conical,
+                with 30 striae ; the flowers proceed from the divarications of the ſtem ; the petals
+                are entire. It grows in corn fields, and flowers in June. 5. <hi rend="italic"
+                    >Noctiflora,</hi> night-flowering catch- fly. The ſtem is about two feet high,
+                and forked; the calyx has ten angles, is ſomewhat clammy, and oval, with longer
+                teeth than the other ſpecies ; the petals are of a reddiſh. white. 6. <hi
+                    rend="italic">Armenia,</hi> broad-leaved catchfly, The ſtem is about 18 inches
+                high, and erect, with few branches ; the leaves are ſmooth, ſeſſile, and broad at
+                the baſe ; the flowers terminal, in faſtigiate bundles, ſmall, and red. It may be
+                ſeen on the banks of rivers, and is in flower in July and Auguſt. 7. <hi
+                    rend="italic">Acaulis,</hi> moſs</p>
+            <p>campion. The radical leaves are ſpread on the ground like a tuft of moſs ; the ſtalks
+                are about an inch long, and naked, bearing each a ſingle purple flower. This laſt
+                ſpecies grows on mountains, and has been found, in Wales and Scotland, within half a
+                mile from their top. It is in flower in July.</p>
+            <p>SILESIA, a duchy of Germany, bounded on the eaſt by Poland ; on the west, by Bohemia
+                and Lower Luſatia ; on the ſouth, by a chain of mountains, and a thicket of
+                conſiderable extent which ſeparates it from Hungary; and to the north, by the
+                marquiſate of Brandenburg and Poland. From north-weſt to ſouth- eaſt it is about 274
+                miles, and about 100 where broadeſt : but it is much contracted at both ends. Upon
+                the frontiers of this country, to the west and ſouth, are very high mountains, and
+                ſome likewiſe in other parts of it. One of the ridges upon the frontiers is ſtyled
+                the <hi rend="italic">Riphaean Mountains,</hi> another the <hi rend="italic"
+                    >Moravian,</hi> another the <hi rend="italic">Bohemian,</hi> and another the <hi
+                    rend="italic">Hungarian, Crapack,</hi> or Car-</p>
+            <p>@@@[m] Hist. Nat. lib. 34.</p>
+        </body>
+    </text>
+</TEI>

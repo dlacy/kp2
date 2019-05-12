@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-04-20T21:21:36Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>proper for the ſeveral kinds of working. Hemp, flax, nettle-thread, and other like
+                vegetable matters, are to be wetted in ſpinning : ſilks, wools, &amp;<hi
+                    rend="italic">c.</hi> are ſpun dry, and do not need water ; yet there is a way
+                of ſpinning or reeling silk as it comes off the caſes or balls, where hot and even
+                boiling water is to be uſed (see <hi rend="smallcaps">Silk). </hi>The vaſt variety,
+                and the importance of thoſe branches of our manufactures, which are produced from
+                cotton, wool, and flax, ſpun into yarn, together with the cheapneſs of proviſions,
+                and the low price of labour in many foreign countries, which are our rivals in
+                trade, have occaſioned many attempts at home to render ſpinning more eaſy, cheap,
+                and expeditious. For which see <hi rend="italic smallcaps">Cotton</hi><hi
+                    rend="italic"> Spinning</hi> and <hi rend="italic smallcaps">Cotton</hi><hi
+                    rend="italic"> Mills.</hi></p>
+            <p>Theſe contrivances have in ſome parts of Scotland been applied to the ſpinning of
+                flax;@@ but a very conſiderable improvement has lately been made by Mr Antis of
+                Fulneck near Leeds of the common ſpinning wheel. It is well known, that hitherto
+                much time has been loſt by ſtopping the wheel in order to ſhit the thread from one
+                ſtaple on the flyer to another ; but in Mr Antis’s wheel the bobbin is made to move
+                backwards and forwards, ſo as to prevent the neceſſity of this perpetual
+                interruption, as well as to obviate the Ganger of breaking the thread and losing the
+                end. This is effected by the axis of the great wheel being extended through the
+                pillar next the ſpinner, and formed into a pinion of one leaf A, which takes into a
+                wheel B, ſeven inches diameter, having on its periphery 97 teeth; ſo that 97
+                revolutions of the great wheel caule one of the leſſer wheel. On this leſſer wheel
+                is fixed a ring of wire c c c; which, being ſupported on six legs, ſtands obliquely
+                to the wheel itſelf, touching it at one part, and projecting nearly three quarters
+                of an inch at the oppoſite one ; near the side of this wheel is an upright lever C,
+                about 15 inches long, moving on a centre, three inches from its lower extremity, and
+                connected at the top to a Aiding bar D; from which rises an upright piece of braſs
+                E, which working in the notch of a pulley drives the bobbin F backward and forward,
+                according as the oblique wire forces a pin G in or out, as the wheel moves round. To
+                regulate and asſiſt the alternate motion, a weight H hangs by a line to the sliding
+                bar, aind paſſing over a pulley rises and falls as the bobbin advances or recedes,
+                and tends conſtantly to keep the pin in contact with the wire. It is evident, from
+                this deſcription. that one ſtaple only is wanted to the flyer ; which, being placed
+                near the extremity K, the thread palling through it is by the motion of the bobbin
+                laid regularly thereon. For this invention the Society inſtituted at London for the
+                Encouragement of Arts, &amp;c. gave the author a premium of twenty guineas.</p>
+            <p>SPINOSUS <hi rend="smallcaps">caulis,</hi> in botany ; a stem covered with strong
+                woody prickles, whole roots are not ſuperficial, but proceeding from the body of the
+                ſtem. When applied to a leaf, <hi rend="italic">ſpinoſum fοlium,</hi> it indicates
+                the margin running out into rigid points or prickles, <hi rend="italic">quod margine
+                    exit in acumina duriοra, rigida, pungentia.</hi></p>
+            <p>SPINOUS, in botany. See <hi rend="smallcaps">Spinosus.</hi></p>
+            <p><hi rend="italic smallcaps">SPInous</hi><hi rend="italic"> Fishes,</hi> ſuch as have
+                ſome of the rays of the back-fins running out into thorns or prickles, as the perch,
+                &amp;c.</p>
+            <p>SPINOZA (Benedict), was born at Amſterdam the 34th November 1632, His father was a
+                Jew of Portugal, by profeſſion a merchant. After being taught Latin by a physician,
+                he applied himſelf for many years to the ſtudy of theology, and afterwards devoted
+                himſelf entirely to philoſophy. He began very early to be diſſatisfied with the
+                Jewiſh religion ; and as his temper was open, he did not conceal his doubts From the
+                ſynagogue. The Jews, it is ſaid, offered to tolerate his infidelity, and even
+                promiſed him a pension of a thouſand dollars <hi rend="italic">per annum,</hi> if he
+                would remain in their ſociety, and continue outwardly to practiſe their ceremonies.
+                But if this offer was really made, he rejected it, perhaps from his aversion to
+                hypocriſy, or rather becauſe he could not endure the reſtraint which it would have
+                imposed. He alſo refuſed the legacy of a very conſiderable fortune, to the prejudice
+                of the natural heirs ; and he learned the art of poliſhing glaſs for ſpectacles,
+                that he might ſubſiſt independently of every one.</p>
+            <p>He would probably have continued in the ſynagogue for ſome time longer, if it had not
+                been for an accident. As he was returning home one evening from the theatre, he was
+                stabbed by a Jew : the wound was flight ; but the attempt naturally led Spinoza to
+                conclude that the Jews had formed the deſign of aſſaſſinating him. After leaving the
+                ſynagogue, he became a Chriſtian, and frequented the churches of the Lutherans and
+                Calviniſts. He now devoted himſelf more than ever to his favourite philoſophical
+                ſpeculations ; and finding himſelf frequently interrupted by the visits of his
+                friends, he left Amſterdam, and settled at the Hague, where he often continued for
+                three months together without ever ſtirring from his lodging. During his reſidence
+                in that city, his hoſteſs, who was a Lutheran, asked him one day if ſhe could be
+                ſaved while the continued in her religion ? “ Yes (replied Spinoza), “provided you
+                join to your religion a peaceable and virtuous life ’’ From this anſwer it has been
+                concluded that he was a Christan in appearance only, while in reality he regarded
+                all religions as indifferent. But this concluſion would be too ſevere, even if the
+                woman had been a Mahometan. H is <hi rend="italic">Tractatus
+                    Theolοgico-politicus</hi>, which was publiſhed about that time, is a better
+                proof of his inſincerity than a thouſand ſuch conclusions ; tor this book contains
+                all thoſe doctrines in embryo which were afterwards unfolded in his Op<hi
+                    rend="italic">era Posthuma,</hi> and which are generally conſidered as a ſyſtem
+                of atheiſm.</p>
+            <p>His fame, which had now ſpread far and wide, obliged him ſometimes to interrupt his
+                philoſophical reveries. Learned men viſited him from all quarters While the prince
+                of Condé commanded the French army in Utrecht, he intreated Spinoza to viſit him;
+                and though he was abſent when the philoſopher arrived, he returned immediately, and
+                spent a conſiderable time with him in converſation. The elector Palatine offered to
+                make Spinoza profeſſor of philoſophy at Heidelberg ; which, however, he
+                declined.</p>
+            <p>He died of a conſumption at the Hague on the 21st February 1677, at the age or 45.
+                His life was a perpetual contradiction to his opinions. He was temperate, liberal,
+                and remarkably diſintereſted ; he was ſociable, affable, and friendly. His
+                converſation was agreeable and inſtructive, and never deviated from the ſtricteſt
+                propriety.</p>
+            <p>The only edition of the works of Spinosa that we have ſeen is in two volumes ſmall
+                4to; the former of</p>
+            <p>@@@[mu] Trans. of the Society for the encouragement of Arts, &amp;c.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:10Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>as to touch the lower edge of the keel at the same time. The ſeveral risings of the
+                floor and heights of the cutting down line are marked on the rising ſquare, and the
+                half breadth of the keel ſet off from the side of it.</p>
+            <p>The moulds being thus prepared, we ſhall apply them to mould timber 7. The timber
+                being firſt properly ſided to its breadth, lay the bend mould upon it, ſo as may
+                beſt anſwer the round according to the grain of the wood ; then lay the rising
+                ſquare to the bottom of the bend mould, ſo that the line drawn acroſs the bend mould
+                at timber 7 may coincide with the line repreſenting the middle of the keel upon the
+                riſing ſquare ; and draw a line upon the timber by the side of the ſquare, or let
+                the line be ſcored or cut by a tool made for that purpoſe, called a <hi
+                    rend="italic">raſeing knife @@( </hi><hi rend="smallcaps">e</hi> ) ; this line
+                ſo raſed will be the side of the keel. Then the ſquare muſt be moved till the side
+                of it comes to 7 on the bend mould, and another line muſt be raſed in by the side of
+                it to repreſent the middle of the keel. The other side of the keel muſt likewiſe be
+                raſed after the ſame manner, and the point 7 on the riſing ſquare be marked on each
+                side of the keel, and a line raſed acroſs at theſe points to repreſent the upper
+                edge oſ the keel. From this line the height of the cutting down line at 7 muſt be
+                ſet up, and then the riſing ſquare may be taken away, and the timber may be raſed by
+                the bend mould, both inſide and outſide, from the head to the floor firmark ; or it
+                may be carried lower if neceſſary. After the ſirmarks and head of the timbers are
+                marked, the bend mould may likewiſe be taken away, and then the hollow mould applied
+                to the back of the ſweep in ſuch a manner that the point 7 upon it may interſect the
+                upper side of the keel, before ſet off by the riſing ſquare ; and when in this
+                poſition the timber may be raſed by it, which will complete the outſide of the
+                timbers. The inſide of the timbers may likewiſe be formed by the hollow mould. The
+                ſcantling at the keel is given by the cutting down before ſet off. The mould muſt be
+                ſo placed as to touch the ſweep of the inſide of the timber formed before by the
+                bend mould, and paſs through the cutting down point.</p>
+            <p>The uſe of the ſirmarks is to find the true places of the futtocks ; for as they are
+                cut off three or four inches ſhort of the keel, they muſt be ſo placed that the
+                futtock and floor ſirmarks may be compared and coincide. Notwithſtanding which, if
+                the timbers are not very carefully trimmed, the head of the futtock may be either
+                within or without its proper half breadth ; to prevent which a half breadth ſtaff is
+                made uſe of.</p>
+            <p>The half breadth ſtaff may be one inch ſquare, and of any convenient length. Upon one
+                side of it are ſet off from one end the ſeveral half breadths of all the timbers in
+                the after body, and thoſe of the fore body upon the oppoſite side. On the other two
+                ſides are ſet off the ſeveral heights of the ſheer, the after body on one side, and
+                the fore body on its oppoſite. Two ſides of the ſtaff are marked <hi rend="italic"
+                    >half breadths,</hi> and the other two ſides <hi rend="italic">heights oſ the
+                    ſheer.</hi></p>
+            <p>The ſtaff being thus prepared, and the floor-timbers</p>
+            <p>faſtened on the keel, and levelled acroſs, the futtocks muſt next be faſtened to the
+                floor timbers ; but they muſt be ſet firſt to their proper half breadth and height.
+                The half breadth ſtaff, with the aſſiſtance of the ram line @@*, ſerves to ſet them
+                to the half breadth : for as the keel of a boat is generally perpendicular to the
+                horizon, therefore the line at which the plummet is ſuſpended, and which is moveable
+                on the ram line, will be perpendicular to the keel. Whence we may by it ſet the
+                timbers perpendicular to the keel, and then ſet them to their proper half breadths
+                by the ſtaff : and when the two ſirmarks coincide, the futtock will be at its proper
+                height, and may be nailed to the floor timbers, and alſo to the breadth ribband,
+                which may be ſet to the height of the ſheer by a level laid acroſs, taking the
+                height of the ſheer by the ſtaff from the upper ſide of the keel ; by which means we
+                ſhall diſcover if the ribband is exactly the height oſ the sheer ; and if not, the
+                true height may be ſet off by a pair of compaſſes from the level, and marked on the
+                timbers.</p>
+            <p><hi rend="smallcaps">Chap.</hi> VI. Of<hi rend="italic"> the Practice of
+                    Ship-building.</hi></p>
+            <p><hi rend="smallcaps">The</hi> elevation, projection, and half-breadth plans, oſ a
+                propoſed ſhip being laid down on paper, we muſt next proceed to lay down theſe
+                ſeveral plans on the mould loft of the real dimenſions of the ſhip propoſed to be
+                built, and from which moulds for each ſeparate part are to be made. The method of
+                laying down theſe plans, from what has been already ſaid, will, it is preſumed, be
+                no very difficult taſk to accompliſh, as it is no more than enlarging the dimenſions
+                of the original draughts ; and with reſpect to the moulds, they are very eaſily
+                formed agreeable to the figure of the ſeveral parts of the ſhip laid down in the
+                mould loft.</p>
+            <p>Blocks of wood are now to be prepared upon which the keel is to be laid. Theſe blocks
+                are to be placed at nearly equal diſtances, as of five or six feet, and in ſuch a
+                manner that their upper ſurfaces may be exactly in the ſame plane, and their middle
+                in the ſame ſtraight line. This laſt is eaſily done by means of a line ſtretched a
+                little more than the propoſed length of the keel ; and the upper planes of theſe
+                blocks may be verified by a long and ſtraight rule ; and the utmoſt care and
+                precaution muſt be taken to have theſe blocks properly bedded. Each block may be
+                about six or eight inches longer than the keel is in thickneſs ; their breadth from
+                12 to 14 inches, and. their depth from a foot to a foot and half.</p>
+            <p>The dimenſions of the keel are to be taken from the mould loft, and the keel is to be
+                prepared accordingly. As, however, it is ſeldom poſſible to procure a piece of wood
+                of ſufficient length ſor a keel, eſpecially if for a large ſhip, it is, therefore,
+                for the moſt part neceſſary to compoſe it of ſeveral pieces, and theſe pieces are to
+                be ſcarſed together, and ſecurely bolted, ſo as to make one entire piece. It muſt,
+                however, be obſerved, that the pieces which compoſe the keel ought to be of ſuch
+                lengths, that a ſcarf may not be oppoſite to the ſtep of any of the maſts. Rabbets
+                are to be formed on each ſide of the keel to receive the edge of the planks next</p>
+            <p><hi rend="smallcaps">@@@(e)</hi> The term <hi rend="italic">raſeing</hi> is uſed when
+                any line is drawn by ſuch an inſtrument inſtead of a pencil.</p>
+            <p>@@@[m]* See next Chapter.</p>
+        </body>
+    </text>
+</TEI>

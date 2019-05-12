@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:13Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">scuppers,</hi> or leaden tubes, that carry the water off from the
+                decks, are then placed in holes cut through the ſhip’s ſides ; and the <hi
+                    rend="italic">ſtandards</hi> repreſented in the <hi rend="smallcaps">Midship
+                    Frame,</hi> Plate CCCXIV. bolted to the beams and ſides above the decks to which
+                they belong. The poop lanthorns are laſt fixed upon their cranes over the stern, and
+                the <hi rend="italic">bilge-ways</hi> or <hi rend="italic">cradles</hi> placed under
+                the bottom to conduct the ſhip ſteadily into the water whilſt launching.</p>
+            <p>As the various pieces which have been mentioned above are explained at large in their
+                proper places, it is therefore ſuperfluous to enter into a more particular
+                deſcription of them here.</p>
+            <p><hi rend="smallcaps">Chap.</hi> VII, <hi rend="italic">Of Improvements in the Masts
+                    and Rudder.</hi></p>
+            <p><hi rend="smallcaps">Since</hi> the article <hi rend="smallcaps">Mast</hi> was
+                printed, an account of a method for reſtoring maſts of ſhips when wounded, or
+                otherwiſe injured, in an eaſy, cheap, and expeditious manner, by Captain Edward
+                Pakenham of the royal navy, has been publiſhed in the tenth volume of the
+                Tranſactions of the Society for the Encouragement of Arts, &amp;c. Captain Pakenham
+                introduces his invention with the following obſervations:@@</p>
+            <p>“ Among the various accidents which ſhips are liable to at ſea, none call more for
+                the attention and exertion of the officer than the ſpeedy refitting of the maſts ;
+                and having obſerved, in the courſe of laſt war, the very great deſtruction made
+                among the lower maſts of our ſhips from the enemy’s mode of fighting, as well as the
+                very great expence and delay in refitting a fleet after an action, particularly
+                acroſs the Atlantic—a very ſimple expedient has ſuggeſted itſelf to me as a reſource
+                in part ; which appears ſo very ſpeedy and ſecure, that the capacity of the meaneſt
+                ſailor will at once conceive it. I therefore think it my duty to ſtate my ideas of
+                the advantages likely to reſult from it ; and I ſhall feel myſelf exceedingly happy
+                ſhould they in anywiſe contribute to remedy the evil.</p>
+            <p>“ My plan, therefore, is, to have the heels of all lower maſts ſo formed as to become
+                the heads : but it is not the intention of the above plan to have the ſmalleſt
+                alteration made in the heels of the preſent lower maſts ; for as all line-of-battle
+                ſhips maſts are nine inches in diameter larger at the heel than at the head, it will
+                follow, that by letting in the treſſel-trees to their proper depth, the maſt will
+                form its own cheeks or hounds ; and I flatter myſelf the following advantages will
+                reſult from the above alteration.</p>
+            <p>Firſt, I must beg to obſerve, that all line-of-battle ſhips bury one-third of their
+                lower maſts, particularly three-deckers ; it therefore follows, that if the wounds
+                are in the upper third, by turning the maſt ſo as to make the heel the head, it will
+                be as good as new ; for, in eight actions I was preſent in laſt war, I made the
+                following obſervations:</p>
+            <p>“ That in the ſaid actions fifty-eight lower maſts were wounded, and obliged to be
+                ſhifted, thirty-two of which had their wounds in the upper third, and of courſe the
+                ſhips detained until new maſts were made. And when it is conſidered that a lower
+                maſt for a 90 or 74 ſtands government in a ſum not leſs, I am informed, than 2000 l.
+                to 2300 l. the advantages acroſs the Atlantic reſulting from the aforeſaid plan will
+                be particularly obvious ; not to mention the probability of there being no fit ſpars
+                in the country, which was the caſe in</p>
+            <p>the inſtances of the Iſis and Princeſs Royal; and as I was one of the lieutenants of
+                the Iſis at that time, I am more particular in the circumſtance of that, ſhip. The
+                Iſis had both her lower maſts wounded above the cathar pins in her action with the
+                Cæſar, a French 74 ; and as there were no ſpars at New York, the Iſis was detained
+                five weeks at that place.— Now, if her maſts had been fitted on the plan I have
+                propoſed, I am confident ſhe would have been ready for ſea in 48 hours ; and as a
+                further proof, I beg leave to add, that the whole fleet, on the glorious 12th of
+                April, had not the leaſt accident of any conſequence except what befel their lower
+                maſts, which detained them between eight and ten weeks at Jamaica.</p>
+            <p>“ The delay of a ſhip while a new maſt is making, and probably the fleet being
+                detained for want of that ſhip, which frequently occurred in the courſe of laſt war,
+                the taking of ſhipwrights from other work, with a variety of inconveniences not
+                neceſſary to mention here, muſt be obvious to every officer that has made the
+                ſmalleſt obſervations on ſea actions.</p>
+            <p>“ You will further obſerve, that this ſubſtſtute is formed on the most ſimple
+                principle, fitted to the meaneſt capacity, and calculated to benefit all ſhips, from
+                a firſt-rate down to the ſmalleſt merchantman, in caſes of an accident by ſhot, a
+                ſpring, a rottenneſs, particularly as theſe accidents generally happen in the upper
+                third of the maſt and above the cheeks.</p>
+            <p>“ It might probably be objected, that a difficulty and ſome danger might ariſe from
+                the wounded part of the maſt being below ; but this will at once be obviated, when
+                it is remembered, that as the wounded part is below the wedges, it may with eaſe be
+                both fiſhed, caſed, and ſecured, to any ſize or degree you pleaſe, with the addition
+                of its being wedged on each deck.”</p>
+            <p>Fig. 41. repreſents a maſt of a firſt-rate in its proper ſtate, the figures
+                repreſenting its thickneſs at the different divisions.</p>
+            <p>Fig. 42. the ſame maſt inverted, the heel forming the head, and the tressel-trees let
+                into their proper depth, the additional thickneſs of the maſt forming its own
+                cheeks.</p>
+            <p>Fig. 43. the propoſed maſt, the figures repreſenting the thickneſs of the maſt in the
+                propoſed alterations ; <hi rend="italic">a,</hi> the heel made ſquare ; <hi
+                    rend="italic">b,</hi> the letting in of the treſſel- trees ; <hi rend="italic"
+                    >c,</hi> the third proportion of thickneſs continued up to where the fourth is
+                in the preſent maſt, or at leaſt ſome little diſtance above the lower part of the
+                cheeks, which is always looked upon as the weakest part of the maſt ; and by its
+                being ſo proportioned, the maſt, when turned, will be nearly as ſtrong in the
+                partners as before.</p>
+            <p>As the expence of a maſt is much greater than is generally imagined, it is therefore
+                thought proper to ſubjoin the following ſtatement of the ſeveral articles uſed in
+                making a 74 gun ſhip’s mainmaſt.@@</p>
+            <table cols="5">
+                <row>
+                    <cell cols="2"> </cell>
+                    <cell cols="3"><hi rend="italic">Value.</hi></cell>
+                </row>
+                <row>
+                    <cell cols="2">Fishes for a spindle, 21 inches, 2 nails of two maſts,</cell>
+                    <cell>L. 101 </cell>
+                    <cell> 3</cell>
+                    <cell> 11</cell>
+                </row>
+                <row>
+                    <cell cols="2">Two side fiſhes, 22 inches, 2 ditto, </cell>
+                    <cell>133</cell>
+                    <cell> 10</cell>
+                    <cell> 9</cell>
+                </row>
+                <row>
+                    <cell cols="2">Fore and aft fiſhes, 22 inches, 2 nails of one maſt,</cell>
+                    <cell>66</cell>
+                    <cell> 13</cell>
+                    <cell> 10</cell>
+                </row>
+                <row>
+                    <cell>Fish</cell>
+                    <cell>21½ inches, 1 nail of half a maſt,</cell>
+                    <cell> 29</cell>
+                    <cell> 8</cell>
+                    <cell> 5</cell>
+                </row>
+                <row>
+                    <cell>Iron</cell>
+                    <cell>On the fore part. 3 qrs 19 lbs</cell>
+                    <cell> 1</cell>
+                    <cell> 5</cell>
+                    <cell> 9</cell>
+                </row>
+                <row>
+                    <cell cols="2">Aries load baulk, 2 loads 22 feet,</cell>
+                    <cell> 12</cell>
+                    <cell> 2</cell>
+                    <cell> 5</cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>Carried over </cell>
+                    <cell>L. 344</cell>
+                    <cell>5</cell>
+                    <cell> 1</cell>
+                </row>
+            </table>
+            <p>@@@[mu] Page 209.</p>
+            <p>@@@[mu] Papers on Naval Architecture, Part 2.</p>
+        </body>
+    </text>
+</TEI>

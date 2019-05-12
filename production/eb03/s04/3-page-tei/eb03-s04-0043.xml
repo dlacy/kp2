@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:20:00Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>when loaded with their young, which cling to them. They are the prey of leopards and
+                others of the feline race ; and of ſerpents, which purſue them to the ſummits of the
+                trees, and ſwallow them entire. They are not carnivorous, but for miſchief’s ſake
+                will rob the neſts of birds of the eggs and young. In the countries where they moſt
+                abound, the ſagacity of the feathered tribe is more marvelouſly shown in their
+                contrivances to fix the neſt beyond the reach of theſe invaders.</p>
+            <p>The simiæ being more numerous in their ſpecies than any other animals, and differing
+                greatly in their appearances, it ſeemed neceſſary to methodize and ſubdivide the
+                genus. Accordingly Mr Ray firſt diſtributed them into three claſſes.</p>
+            <p><hi rend="italic">Simiae,</hi> Apes, ſuch as wanted tails.</p>
+            <p><hi rend="italic">Cercopitheci,</hi> Monkeys, ſuch as had tails.</p>
+            <p><hi rend="italic">Papiones,</hi> Baboons, thoſe with ſhort tails ; to distinguiſh
+                them from the common monkeys, which have very long ones.</p>
+            <p>The principal marks by which the ſpecies of this genus are diſtinguiſhable from each
+                other, are derived, 1st, from the tail, which is either long, ſhort, or altogether
+                wanting, or is ſtraight, or prehenſile ; 2dly, from the buttocks, which are naked,
+                and furniſhed with callosities, or are covered with hair ; 3dly, from the nails,
+                which are flat and rounded like those of man, or ſharp pointed like the claws of
+                beaſts in general ; 4thly, from the preſence or abſence of a beard on the chin ;
+                and, 5thly, from the cheeks being provided with, or wanting, pouches in their under
+                parts. For greater convenience, the ſpecies of this genus, which are very numerous,
+                are arranged under five ſubordinate divisions, conſidered as distinct genera by ſome
+                authors, and not without reason. Three of theſe ſubdiviſions were adopted by
+                Linnaeus ; but Dr Gmelin, following Buffon, has added other two taken from the third
+                diviſion of his great precursor. Theſe ſubdiviſions are the simi<hi rend="italic"
+                    >ae, papiones, cercopitheci, ſapaji,</hi> and <hi rend="italic"
+                >ſagoini.</hi></p>
+            <p>I. The <hi rend="smallcaps">Simiæ,</hi> or <hi rend="smallcaps">Apes.</hi> They have
+                no tails. The viſage is flat ; the teeth, hands, fingers, feet, toes, and nails,
+                reſemble thoſe of man, and they walk naturally erect. This diviſion includes the
+                simiæ, or apes properly ſo called, which are not found in America.</p>
+            <p>1. The chimpanzee, the ſimia troglodytes of Linnaeus, common in the mountains of
+                Sierra Leona, reſembles man more than the orang-outang. This animal was firſt
+                brought to Europe in 1738, when it was exhibited as a snow in London. The following
+                deſcription of one that was kept ſome months at the colony of Sierra Leona is given
+                by Wadſtrom, in his Eſſay on Colonization @@*. He was nearly two feet high ; but the
+                full ſtature is nearly five feet. He was covered with black hair, long and thick on
+                the back, but ſhort and thin on the breaſt and belly. His face was bare ; his hands
+                and his head reſembled those of an old black man, except that the hair on his head
+                was ſtraight. He ate, drank, slept, and sat at table, like a human being. At firſt
+                he crept on all fours, on the outside of his hands ; but, when grown larger, he
+                endeavoured to go erect, ſupporting himſelf by a ſtick. He was melancholy, but
+                always good natured.</p>
+            <p>2. The ſatyrus, orang-outang, or great ape, has a flat face, and a deformed
+                reſemblance of the human ;</p>
+            <p>ears like thoſe of a man ; the hair on the head longer than on the body. The body and
+                limbs are</p>
+            <p>covered with reddiſh and ſhaggy hair ; longeſt on the back, thinneſt on the
+                fore-parts. The face and paws are swarthy ; the buttocks covered with hair. They
+                inhabit the interior parts of Africa, the iſles of Sumatra, Borneo, and Java. Are
+                ſolitary, and live in the moſt desert places. They grow to the height of six feet ;
+                have prodigious ſtrength, and will overpower the ſtrongeſt man. The old ones are
+                ſhot with arrows, the young alone can be taken alive. They live entirely on fruits
+                and nuts. They will attack and kill the negroes who wander in the woods ; will drive
+                away the elephants, and beat them with their fills or pieces of wood ; and will
+                throw ſtones at people that offend them. They ſleep in trees ; and make a fort oſ
+                ſhelter from the inclemency of the weather. They are of a grave appearance and
+                melancholy diſposition, and even when young not inclined to frolic. They go erect,
+                and are vaſtly ſwift and agile. Theſe accounts are chiefly taken from Andrew Battel,
+                an Engliſh ſailor, who was taken priſoner 1589, and lived many years in the inner
+                parts of Congo ; his narrative is plain, and ſeems very authentic. It is preſerved
+                in Purchas’s collection. Froger @@* informs us, “ that thoſe along the banks of the
+                river Ganges are larger and more miſchievous than in any part of Africa : the
+                negroes dread them, and cannot travel alone in the country without running the
+                hazard of being attacked by theſe animals, who often preſent them with a ſtick, and
+                force them to fight. I have heard the Portugueſe ſay, that they have often ſeen them
+                hoiſt up young girls, about ſeven or eight years old, into trees, and that they
+                could not be wreſted from them without a great deal of difficulty. The moſt part of
+                the negroes imagine them to be a foreign nation come to inhabit their country, and
+                that they do not speak for fear of being compelled to work.” When taken young, they
+                are capable of being tamed, and taught to perform many menial offices. Francis
+                Pyrard @@* relates, “ that in the province of Sierra Leona, there is a ſpecies ſo
+                ſtrong limbed, and ſo induſtrious, that, when properly trained and fed, they work
+                like ſervants ; that they generally walk on the two hind feet ; that they pound any
+                ſubſtances in a mortar ; that they go to bring water from the river in ſmall
+                pitchers, which they carry full on their heads. But when they arrive at the door, if
+                the pitchers are not ſoon taken off, they allow them to fall ; and when they
+                perceive the pitchers overturned and broken, they weep and lament.” Father Jarric
+                @@*, quoted by Nieremberg, ſays the ſame thing, nearly in the same terms. With
+                regard to the education of theſe animals, the teſtimony of Shoutten @@* accords with
+                that of Pyrard. “ They are taken (he remarks) with ſnares, taught to walk on their
+                hind feet, and to uſe their fore feet as hands in performing different operations,
+                as rinsing glaſſes, carrying drink round the company, turning a ſpit, &amp;c.” “ I
+                saw at Java</p>
+            <p>(ſays Guat @@*) a very extraordinary ape. It was a female. She was very tall, and
+                often walked erect on her hind feet. On theſe oceasions, ſhe concealed with her
+                hands the parts which diſtinguiſh the ſex. Except the eye-brows, there was no hair
+                on her face, which pretty much reſembled the groteſque ſemale faces I ſaw among the
+                Hottentots at the Cape. She made her bed very neatly every day, lay upon her side,
+                and covered herſelf with the bed cloaths. When her head ached, ſhe bound it up with
+                a handkerchieſ ; and it was amusing to ſee</p>
+            <p>@@@*[m] Part ii. p. 273.</p>
+            <p>@@@*[m] Descript. Historique du Royaume de Macacar, p. 51.</p>
+            <p>@@@*[m] Voyages de Francois Pyrard, tom. ii. p. 331.</p>
+            <p>@@@*[m] Eus. Nieremberg, Hist. Nat. Peregrin. lib. ix. cap. 45.</p>
+            <p>@@@*[m] Voyages de Guat. Shout ten aux Indes Orientales.</p>
+            <p>@@@*[m] Voyage de Fr. le Guat, tom. ii. p. 96.</p>
+        </body>
+    </text>
+</TEI>

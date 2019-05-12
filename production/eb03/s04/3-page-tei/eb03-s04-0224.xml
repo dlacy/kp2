@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:33Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>taining the ſpecific gravity of diſſolved ſalts. In one of them (not particularly
+                narrated) he found that a quantity of diſſolved ſalt occupied the same bulk in two
+                very different ſtates of dilution. We cannot pretend to reconcile this with our
+                experiments. We have given theſe as they flood ; and we think them concluſive,
+                becauſe they were ſo numerous and ſo perfectly confident with each other ; and their
+                reſult is ſo general, that we have not found an exception. Common ſalt is by no
+                means the moſt remarkable inſtance of condenſation. Vegetable alkali, ſal ammoniac,
+                and ſome others, exhibit much greater condenſation.</p>
+            <p>We thought this a proper opportunity of conſidering this queſtion, which is
+                intimately connected with the principles of chemical ſolution, and was not perhaps
+                conſidered in sufficient detail under the article <hi rend="smallcaps"
+                    >Chemistry.</hi> We learn from it in general, that the quantities of ſalt in
+                brines increaſe at ſomewhat a greater rate than their ſpecific gravities. This
+                difference is in many cases of ſenſible importance in a commercial view. Thus an
+                alkaline lixivium for the purpoſes of bleaching or ſoap-making, whoſe ſpecific
+                gravity is 1,234, or exceeds that of water by 234, contains 361 ounces of ſalt in a
+                cubic foot ; a ley, which exceeds the weight of water twice as much, or 468 ounces
+                    <hi rend="italic">per</hi> cubic foot, contains 777 ounces of ſalt, which
+                exceeds the double of 361 by 55 ounces more than 7 <hi rend="italic">per cent.</hi>
+                Hence we learn, that hydrometers for diſcovering the ſtrength of brines, having
+                equal diviſions on a cylindrical ſtem, are very erroneous ; for even if the
+                increments of ſpecific gravity were proportional to the quantities of ſalt in a
+                gallon of brine, the diviſions at the bottom of the ſtem ought to be ſmaller than
+                thoſe above.</p>
+            <p>The conſtruction of the following table oſ ſtrengths from the above narrated ſeries
+                of brines is sufficiently obvious. Column 1st is the ſpecific gravity as diſcovered
+                by the balance or hydometer, and alſo is the number of ounces in a cubic foot of the
+                brine. Col. 2d is the ounces of the dry ſalt contained in it.</p>
+            <table>
+                <row>
+                    <cell cols="5"><hi rend="italic">Table of Brines of Common Salt.</hi></cell>
+                </row>
+                <row>
+                    <cell>Weight Cub. Ft. Brine.</cell>
+                    <cell>Salt in Cub. F.</cell>
+                    <cell> </cell>
+                    <cell>Weight Cub. Ft. Brine.</cell>
+                    <cell>Salt in Cub. F.</cell>
+                </row>
+                <row>
+                    <cell>1,000</cell>
+                    <cell>0</cell>
+                    <cell> </cell>
+                    <cell>1,115</cell>
+                    <cell>170</cell>
+                </row>
+                <row>
+                    <cell>1,008</cell>
+                    <cell>10</cell>
+                    <cell> </cell>
+                    <cell>1,122</cell>
+                    <cell>180</cell>
+                </row>
+                <row>
+                    <cell>1,015</cell>
+                    <cell>20</cell>
+                    <cell> </cell>
+                    <cell>1,128</cell>
+                    <cell>190</cell>
+                </row>
+                <row>
+                    <cell>1,022</cell>
+                    <cell>30</cell>
+                    <cell> </cell>
+                    <cell>1,134</cell>
+                    <cell>200</cell>
+                </row>
+                <row>
+                    <cell>1,029</cell>
+                    <cell>40</cell>
+                    <cell> </cell>
+                    <cell>1,140</cell>
+                    <cell>210</cell>
+                </row>
+                <row>
+                    <cell>1,036</cell>
+                    <cell>50</cell>
+                    <cell> </cell>
+                    <cell>1147</cell>
+                    <cell>220</cell>
+                </row>
+                <row>
+                    <cell>1,043</cell>
+                    <cell>60</cell>
+                    <cell> </cell>
+                    <cell>1,153</cell>
+                    <cell>230</cell>
+                </row>
+                <row>
+                    <cell>1,050</cell>
+                    <cell>70</cell>
+                    <cell> </cell>
+                    <cell>1,159</cell>
+                    <cell>240</cell>
+                </row>
+                <row>
+                    <cell>1,057</cell>
+                    <cell>80</cell>
+                    <cell> </cell>
+                    <cell>1,165</cell>
+                    <cell>250</cell>
+                </row>
+                <row>
+                    <cell>1,064</cell>
+                    <cell>90</cell>
+                    <cell> </cell>
+                    <cell>1,172</cell>
+                    <cell>260</cell>
+                </row>
+                <row>
+                    <cell>1,070</cell>
+                    <cell>100</cell>
+                    <cell> </cell>
+                    <cell>1,178</cell>
+                    <cell>270</cell>
+                </row>
+                <row>
+                    <cell>1,077</cell>
+                    <cell>110</cell>
+                    <cell> </cell>
+                    <cell>1,184</cell>
+                    <cell>280</cell>
+                </row>
+                <row>
+                    <cell>1,083</cell>
+                    <cell>120</cell>
+                    <cell> </cell>
+                    <cell>1,190</cell>
+                    <cell>290</cell>
+                </row>
+                <row>
+                    <cell>1,090</cell>
+                    <cell>130</cell>
+                    <cell> </cell>
+                    <cell>1,197</cell>
+                    <cell>300</cell>
+                </row>
+                <row>
+                    <cell>1,096</cell>
+                    <cell>140</cell>
+                    <cell> </cell>
+                    <cell>1,203</cell>
+                    <cell>310</cell>
+                </row>
+                <row>
+                    <cell>1,103</cell>
+                    <cell>150</cell>
+                    <cell> </cell>
+                    <cell>1,206</cell>
+                    <cell>316</cell>
+                </row>
+                <row>
+                    <cell>1,109</cell>
+                    <cell>160</cell>
+                    <cell> </cell>
+                    <cell>1,208</cell>
+                    <cell>320</cell>
+                </row>
+            </table>
+            <p>The table differs conſiderably from Mr Lambert’s. The quantities of ſalt
+                correſponding to any ſpecific gravity are about <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">18</hi>th leſs than in his table But the reader will see that
+                they correſpond with the ſeries of</p>
+            <p>experiments above narrated; and theſe were but a few of many which all correſponded
+                within an hundredth part. The cauſe iof the difference ſeems to be, that moſt kinds
+                of common ſalt contain magneſian ſalts, which contain a very great proportion of
+                water neceſſary for their cryſtallization. The ſalt which we uſed was of the pureſt
+                kind, but ſuch as may be had from every ſalt work, by Lord Dundonald’s very eaſy
+                proceſs, viz. by paſſing through it a ſaturated ſolution boiling hot, which carries
+                off with it about <hi rend="superscript">4</hi>/<hi rend="subscript">5</hi>ths of
+                all the bitter ſalts. Our aim being to aſcertain the quantities of pure ſea- ſalt,
+                and to learn by the by its relation to water in reſpect of density, we thought it
+                neceſſary to uſe the pureſt ſalt. We alſo dried it for ſeveral days in a ſtove, ſo
+                that it contained no water not abſolutely neceſſary for its cryſtallization. An
+                ounce of ſuch ſalt will communicate a greater ſpecific gravity to water than an
+                ounce of a salt that is leſs pure, or that contains extraneous water.</p>
+            <p>The ſpecific gravity 1,090 is that of ordinary pickles, which are eſtimated as to
+                ſtrength by floating an egg.</p>
+            <p>We cannot raiſe the ſpecific gravity higher than 1,206 by simply diſſolving ſalt in
+                cold water. But it will become much denſer, and will even attain the ſpecific
+                gravity 1,240 by boiling, then holding about 366 ounces in the cubic foot of hot
+                brine. But it will depoſit by cooling, and when of the temperature 55⁰ or 60⁰,
+                hardly exceeds 1,206. We obtained a brine by boiling till the ſalt grained very
+                rapidly. When it cooled to 60⁰, its ſpecific gravity was 1,2063 ; for a veſſel which
+                held 3506 grains of distilled water held 4229 of this brine. This was evaporated to
+                dryneſs, and there were obtained 1344 grains of ſalt. By this was computed the
+                number interpoſed between 310 and 320 in the table. We have however raiſed the
+                ſpecific gravity to 1,217, by putting in no more ſalt than was neceſſary for thi$
+                denſity, and uſing heat. It then cooled down to 60⁰ without quitting any ſalt ; but
+                if a few grains of ſalt be thrown into this brine, it will quickly deposit a great
+                deal more, and its denſity will decreaſe to 1,206. We find this to hold in all salts
+                ; and it is a very inſtructive fact in the theory of cryſtallization ; it reſembles
+                the effect which a magnet produces upon iron filings in its neighbourhood. It makes
+                them temporary magnets, and cauſes them to arrange themſelves as if they had been
+                really made permanent magnets. Juſt ſo a cryſtal already formed diſpoſes the reſt to
+                cryſtallize. We imagine that this analogy is complete, and that the forces are
+                ſimilar in both caſes.</p>
+            <p>The above table is computed for the temperature 55⁰ ; but in other temperatures the
+                ſtrength will be different on two accounts, viz. the expanſion of the brine and the
+                diſſolving power of the water. Water expands about 40 parts in 1000 when heated from
+                60⁰ to 212⁰. Saturated brine expands about 48 parts, or <hi rend="superscript"
+                    >1</hi>/<hi rend="subscript">5</hi>th more than water; and this exceſs of
+                expanſion is nearly proportional to the quantity of ſalt in the brine. If therefore
+                any circumſtance ſhould oblige us to examine a brine in a temperature much above
+                60⁰, allowance ſhould be made for this. Thus, ſhould the ſpecific gravity of brine
+                of the temperature 130 (which is nearly half way between 60 and 212 ) be 1,140, we
+                muſt increaſe it by 20 (half of 40 ) ; and having found the ſtrength 24
+                correſponding to this corrected ſpecific gravity, we muſt correct it again by adding
+                1 to the ſpecific gravity for every 45 ounces of ſalt.</p>
+        </body>
+    </text>
+</TEI>

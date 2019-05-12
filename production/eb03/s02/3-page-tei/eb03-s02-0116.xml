@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:56:49Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>the characters who ſpeak are Idumaeans, or at leaſt Arabians of the adjacent country,
+                all originally of the race of Abraham. The language is pure Hebrew, although the
+                author appears to be an Idumaean; for it is not improbable that all the poſterity of
+                Abraham, Iſraelites, Idumaeans, and Arabians, whether of the family of Keturah or
+                Iſhmael, ſpoke for a conſiderable length of time one common language. That the
+                Idumaeans, however, and the Temanites in particular, were eminent for the reputation
+                of wiſdom, appears by the teſtimony of the prophets Jeremiah and Obadiah@@⁋: Baruch
+                alſo particularly mentions them among “the authors (or expounders) of fables, and
+                ſearchers out of underſtanding@@§”</p>
+            <p>The principal perſonage in this poem is Job; and in his character is meant to be
+                exhibited (as far as is conſiſtent with human infirmity) an example of perfect
+                virtue. This is intimated in the argument or introduction, but is ſtill more
+                eminently diſplayed by his</p>
+            <p>own actions and ſentiments. He is holy, devout, and moſt piouſly and reverently
+                impreſſed with the ſacred awe of his divine Creator; he is alſo upright, and
+                conſcious of his own integrity; he is patient of evil, and yet very remote from that
+                inſenſibility or rather ſtupidity to which the Stoic ſchool pretended. Oppreſſed
+                therefore with unparalleled misfortunes, he laments his miſery, and even wiſhes a
+                releaſe by death; in other words, he obeys, and gives place to the dictates of
+                nature. Irritated, however, by the unjuſt inſinuations and the severe reproaches of
+                his pretended friends, he is more vehemently exaſperated, and the too great
+                confidence in his own righteouſneſs leads him to expoſtulate with God in terms
+                ſcarcely conſiſtent with piety and ſtrict decorum.</p>
+            <p>It muſt be obſerved, that the firſt ſpeech of Job, though it burſts forth with all
+                the vehemence of paſſion, consists wholly of complaint, “the words and ſentiments of
+                a deſpairing perſon, empty as the wind@@*;”</p>
+            <p>@@@[m]⁋ Jer. xlix. 7. Ob. 8. </p>
+            <p>@@@[m]§ Baruch iii. 22. 23.</p>
+            <p>@@@[m]* Job vi. 26.</p>
+         </body>
+    </text>
+</TEI>

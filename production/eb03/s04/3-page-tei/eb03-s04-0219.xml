@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:25Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ther b, the bulk of the added ingredient, ſuffers any change. We ſhall have occaſion
+                by and by to reſume the consideration of this queſtion, which is of the firſt moment
+                in the theory of ſpecific gravities, and has great influence in many tranſactions of
+                commerce.</p>
+            <p>This ſeries of ſpecific gravities is not ſo well fitted for commercial tranſactions.
+                In theſe the uſual queſtion is, how many gallons oſ alcohol is there in a caſk, or
+                ſome number of gallons of ſpirit ? and it is more directly anſwered by means of a
+                table, formed by mixing the ingredients in aliquant parts of one conſtant bulk. The
+                following table, conſtructed from the experiments of Mr Briſſon of the academy of
+                Paris, and publiſhed in the Memoirs for 1769, is therefore inſerted.</p>
+            <table>
+                <row>
+                    <cell>W.</cell>
+                    <cell>A.</cell>
+                    <cell>Density obſerved.</cell>
+                    <cell>Density computed.</cell>
+                    <cell>Condensation</cell>
+                    <cell>Bulk of 10,000 grains.</cell>
+                </row>
+                <row>
+                    <cell>0</cell>
+                    <cell>16</cell>
+                    <cell>0,8371</cell>
+                    <cell>O,837i</cell>
+                    <cell> </cell>
+                    <cell>1,0000</cell>
+                </row>
+                <row>
+                    <cell>1</cell>
+                    <cell>15</cell>
+                    <cell>0,8527</cell>
+                    <cell>0,8473</cell>
+                    <cell>63</cell>
+                    <cell><p>0,9937</p><p>O,9885</p></cell>
+                </row>
+                <row>
+                    <cell>2</cell>
+                    <cell>14</cell>
+                    <cell>0,8674</cell>
+                    <cell>0,8575</cell>
+                    <cell>115</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>3</cell>
+                    <cell>13</cell>
+                    <cell>0,8815</cell>
+                    <cell>0,8677</cell>
+                    <cell>157</cell>
+                    <cell>0,9844</cell>
+                </row>
+                <row>
+                    <cell>4</cell>
+                    <cell>I 2</cell>
+                    <cell>0,8947</cell>
+                    <cell>0,8778</cell>
+                    <cell>189</cell>
+                    <cell>0,98 I I</cell>
+                </row>
+                <row>
+                    <cell>5</cell>
+                    <cell>I I</cell>
+                    <cell>0,9075</cell>
+                    <cell>0,8880</cell>
+                    <cell>214</cell>
+                    <cell>0,9786</cell>
+                </row>
+                <row>
+                    <cell>6</cell>
+                    <cell>10</cell>
+                    <cell>0,9199</cell>
+                    <cell>0,8982</cell>
+                    <cell>235</cell>
+                    <cell>0,9765</cell>
+                </row>
+                <row>
+                    <cell>7</cell>
+                    <cell>9</cell>
+                    <cell>0,9317</cell>
+                    <cell>0,9084</cell>
+                    <cell>251</cell>
+                    <cell>o,9749</cell>
+                </row>
+                <row>
+                    <cell>8</cell>
+                    <cell>8</cell>
+                    <cell>0,9427</cell>
+                    <cell>0,9186</cell>
+                    <cell>256</cell>
+                    <cell>0,9744</cell>
+                </row>
+                <row>
+                    <cell>9</cell>
+                    <cell>7</cell>
+                    <cell>0,9519</cell>
+                    <cell>0,9287</cell>
+                    <cell>243</cell>
+                    <cell>0,9757</cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>6</cell>
+                    <cell>0,9598</cell>
+                    <cell>0,9389</cell>
+                    <cell>217</cell>
+                    <cell>0,9783</cell>
+                </row>
+                <row>
+                    <cell>I I</cell>
+                    <cell>5</cell>
+                    <cell>0,9674</cell>
+                    <cell>0,9491</cell>
+                    <cell>189</cell>
+                    <cell>0,98 I I</cell>
+                </row>
+                <row>
+                    <cell>12</cell>
+                    <cell>4</cell>
+                    <cell>0,9733</cell>
+                    <cell>0,9593</cell>
+                    <cell>144</cell>
+                    <cell>0,9856</cell>
+                </row>
+                <row>
+                    <cell>13</cell>
+                    <cell>3</cell>
+                    <cell>0,9791</cell>
+                    <cell>0,9695</cell>
+                    <cell>99</cell>
+                    <cell>0,9901</cell>
+                </row>
+                <row>
+                    <cell>14</cell>
+                    <cell>2</cell>
+                    <cell>0,9852</cell>
+                    <cell>0,9796</cell>
+                    <cell>57</cell>
+                    <cell>0,9943</cell>
+                </row>
+                <row>
+                    <cell>15</cell>
+                    <cell>I</cell>
+                    <cell>0,9919</cell>
+                    <cell>0,9898</cell>
+                    <cell>21</cell>
+                    <cell>0,9979</cell>
+                </row>
+                <row>
+                    <cell>16</cell>
+                    <cell>0</cell>
+                    <cell>1,0000</cell>
+                    <cell>1,0000</cell>
+                    <cell> </cell>
+                    <cell>1,0000</cell>
+                </row>
+            </table>
+            <p>In this table the whole quantity of ſpirituous liquor is always the ſame. The firſt
+                column is the number of meaſures (gallons, pints, inches, &amp;c.) of water in the
+                mixture ; and column 2d gives the meaſures of alcohol. Column 3d is the ſpecific
+                gravity which was obſerved by Mr Briſſon. Column 4th is the ſpecific gravity which
+                would have been obſerved if the ſpirits, or water, or both, had retained their
+                ſpecific density unchanged. And the 5th column marks the augmentation of ſpecific
+                gravity or density in parts of 10,000. A 6th column is added, ſhowiag the bulk of
+                the 16 cubic meaſures of the two ingredients. Each meaſure may be conceived as the
+                16th part of 10,000, or 625 ; and we may ſuppoſe them cubic inches, pints, gallons,
+                or any solid meaſure.</p>
+            <p>This table ſcarcely differs from Sir Charles Blagden’s ; and the very ſmall
+                difference that may be obſerved, ariſes from Mr Briſſon’s having uſed an alcohol not
+                ſo completely rectified. Its ſpecific gravity is 0,8371, whereas the other was only
+                0,8250.</p>
+            <p>Here it appears more diſtinctly that the condenſation is greateſt when the two
+                ingredients are of equal bulk.</p>
+            <p>Perhaps this ſeries of ſpecific gravities is as declarative as the other, whether or
+                not there is a change of density induced on either of the ingredients. The whole
+                bulk being always the ſame, it is plain that the</p>
+            <p>ſucceſſive equal additions to one of the ingredients is a ſucceſſive equal
+                abſtraction of the other. The change produced, therefore, in the weight of the
+                whole, is the difference between the weight of the ingredient which is taken out and
+                the weight of the equal meaſure of the other which ſupplies its place. Therefore, if
+                neither ingredient changes its density by mixture, the weights of the mixtures will
+                be in arithmetical progreſſion. If they are not, there is a variation of density in
+                one or both the ingredients.</p>
+            <p>We ſee this very clearly in the mixtures of water and alcohol. The firſt ſpecific
+                gravity differs from the ſecond by 156, and the laſt differs from the preceding by
+                no more than 81. Had neither of the densities changed, the common difference would
+                have been 102. We obſerve alſo, that the augmentation of ſpecific gravity, by the
+                ſucceſſive addition of a meaſure of water, grows leſs and leſs till 12 meaſures of
+                water is mixed with 4 of alcohol, when the augmentation is only 58, and then it
+                increaſes again to 81.</p>
+            <p>It alſo appears, that the addition of one meaſure of water to a quantity of alcohol
+                produces a greater change of density than the mixture of one meaſure of alcohol to a
+                quantity of water. Hence ſome conclude, that the water diſappears by being lodged in
+                the interſtices of the ſpirit. But it is more agreeable to the juſtest notions which
+                we can form of the internal conſtitution of tangible bodies to ſuppoſe that the
+                particles of water diminiſh the diſtances between the particles of alcohol by their
+                ſtrong attractions, and that this diminution (exceedingly minute in itſelf ) becomes
+                ſenſible on account oſ the great number or particles whoſe diſtances are thus
+                diminiſhed. This is merely a probability founded on this, that it would require a
+                much greater diminution of diſtances if it was the particles of water which had
+                their diſtances thus diminiſhed. But the greater probability is, that the
+                condenſation takes place in both.</p>
+            <p>We have been ſo particular in our conſideration of this mixture, becauſe the law of
+                variation of density has, in this inſtance, been aſcertained with ſuch precision by
+                the elaborate examination of Sir Charles Blagden, ſo that it may ſerve as an example
+                of what happens in almoſt every mixture of bodies. It merits a still farther
+                diſcuſſion, becauſe it is intimately connected with the action of the corpuſcular
+                forces; and an exact knowledge of the variations of diſtance between the particles
+                will go far to aſcertain the law of action of theſe forces. But the limits of a Work
+                like this will not permit us to dwell longer on this ſubject. We proceed therefore
+                to give another uſeful table.</p>
+            <p>The vitriolic or ſulphuric acid is of extensive uſe in manufactures under the name of
+                oil of vitriol. Its value depends entirely on the ſaline ingredient, and the water
+                is merely a vehicle for the acid. This, being much denſer than water, affects its
+                ſpecific gravity, and thus gives us a method of aſcertaining its ſtrength.</p>
+            <p>The ſtrongeſt oil of vitriol that can be eaſily manufactured contains 612 <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">20</hi> grains of dry acid,
+                united with 387 <hi rend="superscript">1</hi>/<hi rend="subscript">20</hi> grains of
+                water, which cannot be ſeparated from it by diſtillation, making 1000 grains of <hi
+                    rend="smallcaps">oil of vitriol.</hi> Its ſpecific gravity in this ſtate is
+                1,877.</p>
+            <p>The following table ſhows its ſpecific gravity at the temperature 55⁰, when diluted
+                by the ſucceſſive addition of parts of water by weight.</p>
+        </body>
+    </text>
+</TEI>

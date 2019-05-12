@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:02:58Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ſource of wild conjecture, and not of sound philosophy. We view the contraction and
+                expanſion of the ſenſitive plant in the ſame light as we do gravitation, chemical
+                attraction, electricity, and magnetiſm, as a singular fact, the circumſtances of
+                which we may be fully acquainted with, but muſt deſpair of underſtanding its
+                cauſe.</p>
+            <p>What has been ſaid under this article chiefly refers to the <hi rend="italic">mimoſa
+                    ſenfitiva</hi> and <hi rend="italic">pudica.</hi> For a full account of the
+                motions of vegetables in general, ſee <hi rend="italic">Vegetable Motion,</hi> under
+                the article <hi rend="smallcaps">Motion.</hi></p>
+            <p>SENTENCE, in law, a judgment paſſed in court by the judge in ſome process, either
+                civil or criminal. See <hi rend="smallcaps">Judgment.</hi></p>
+            <p><hi rend="smallcaps">Sentence,</hi> in grammar, denotes a period ; or a ſet of words
+                comprehending ſome perfect ſenſe or ſentiment of the mind. The buſineſs of pointing
+                is to diſtinguiſh the ſeveral parts and members of ſentences, ſo as to render the
+                ſenſe thereof as clear, diſtinct, and full as poſſible. See <hi rend="smallcaps"
+                    >Punctuation.</hi></p>
+            <p>In every ſentence there are two parts neceſſarily required ; a noun for the ſubject,
+                and a definite verb : whatever is found more than theſe two, affects one of them,
+                either immediately, or by the intervention of ſome other, whereby the firſt is
+                affected.</p>
+            <p>Again, every ſentence is either simple or compound: a simple ſentence is that
+                conſiſting of one ſingle ſubject, and one finite verb.—A compound ſentence contains
+                ſeveral ſubjects and finite verbs, either expreſsly or implicitly.</p>
+            <p>A simple ſentence needs no point or diſtinction ; only a period to cloſe it : as, “ A
+                good man loves virtue for itſelf.”— In ſuch a ſentence, the ſeveral adjuncts affect
+                either the ſubject or the verb in a different manner. Thus the word <hi
+                    rend="italic">good</hi> expresses the quality of the ſubject, <hi rend="italic"
+                    >virtue</hi> the object of the action, and <hi rend="italic">for itſelf </hi>the
+                end thereof.—Now none of theſe adjuncts can be ſeparated from the reft of the
+                ſentence : for if one be, why ſhould not all the reſt ? and if all be, the ſentence
+                will be minced into almoſt as many parts as there are words.</p>
+            <p>But if ſeveral adjuncts be attributed in the ſame manner either to the ſubject or the
+                verb, the ſentence becomes compound, and is to be divided into parts.</p>
+            <p>In every compound ſentence, as many ſubjects, or as many finite verbs as there are,
+                either expreſsly or implied, ſo many diſtinctions may there be. Thus, “ My hopes,
+                fears, joys, pains, all centre in you.” And thus <hi rend="italic">Catilina abiit,
+                    exceſfit, evasit, erupit.</hi> The reason of which pointing is obvious ; for as
+                many ſubjects or finite verbs as there are in a ſentence, ſo many members does it
+                really contain. Whenever, therefore, there occur. more nouns than verbs, or
+                contrariwiſe, they are to be conceived as equal. Since, as every ſubject requires
+                its verbs, ſo every verb requires its ſubject, wherewith it may agree : excepting,
+                perhaps, in ſome figurative expreſſions.</p>
+            <p>SENTICOSÆ (from <hi rend="italic">ſentis,</hi> a “ briar or bramble) ;” the name of
+                the 35th order in Linnaeus’s fragments of a natural method, conſiſting of roſe,
+                bramble, and other plants, which reſemble them in port and external ſtructure. See
+                    <hi rend="smallcaps">Botany,</hi> page 465.</p>
+            <p>SENTIMENT, according to Lord Karnes, is a term appropriated to ſuch thoughts as are
+                prompted by paſſion. It differs from a perception ; for a perception ſigniſies the
+                add by which we become conscious of external objects. It differs from conſciouſnefs
+                of an internal action, ſuch as thinking, ſuſpending thought, inclining, reſolving,
+                willing, &amp;c. And it differs from the conception of a relation among objects ; a
+                conception of that kind being termed <hi rend="italic">opinion.</hi></p>
+            <p><hi rend="smallcaps">Sentiments,</hi> in poetry. To talk in the language of muſic,
+                each paſſion hath a certain tone, to which every ſentiment proceeding from it ought
+                to be tuned with the greateſt accuracy : which is no eaſy work, eſpecially where
+                ſuch harmony ought to be ſupported during the courſe of a long theatrical
+                repreſentation. In order to reach ſuch delicacy of execution, it is neceſſary that a
+                writer aſſume the preciſe character and paſſion of the personage repreſented ; which
+                requires an uncommon genius. But it is the only difficulty ; for the writer, who,
+                annihilating himſelf, can thus become another perſon, need be in no pain about the
+                ſentiments that belong to the aſſumed character : theſe will flow without the leaſt
+                ſtudy, or even preconception ; and will frequently be as delightfully new to himſelſ
+                as to his reader. But if a lively picture even of a ſingle emotion require an effort
+                of genius, how much greater the effort to compoſe a passionate dialogue with as many
+                different tones of paſſion as there are ſpeakers ? With what ductility of feeling
+                muſt that writer be endued, who approaches perfection in ſuch a work ; when it is
+                neceſſary to aſſume different and even oppoſite characters and paſſions in the
+                quickeſt ſucceſſion ? Yet this work, difficult as it is, yields to that of compoſing
+                a dialogue in genteel comedy, exhibiting characters without paſſion. The reason is,
+                that the different tones of character are more delicate, and leſs in fight, than
+                thoſe of paſſion ; and, accordingly, many writers, who have no genius for drawing
+                characters, make a ſhift to represent, tolerably well, an ordinary paſſion in its
+                ſimple movements. But of all works of this kind, what is truly the moſt difficult,
+                is a characteriſtical dialogue upon any philofophical ſubject ; to interweave
+                characters with reaſoning, by ſuiting to the character of each ſpeaker a peculiarity
+                not only of thought but of expreſſion, requires the perfection of genius, taſte, and
+                judgment.</p>
+            <p>How difficult dialogue-writing is, will be evident, even without reaſoning, from the
+                miſerable compoſitions of that kind found without number in all languages. The art
+                of mimicking any ſingularity in geſture or in voice, is a rare talent, though
+                directed by sight and hearing, the acuteſt and moſt lively of our external ſenſes :
+                how much more rare muſt that talent be, of imitating characters and internal
+                emotions, tracing all their different tints, and repreſenting them in a lively
+                manner by natural ſentiments properly expressed ? The truth is, ſuch execution is
+                too delicate for an ordinary genius; and for that reason the bulk of writers,
+                inſtead of expressing a paſſion as one does who feels it, content themſelves with
+                deſcribing it in the language of a ſpectator. To awake passion by an internal effort
+                merely, without any external cauſe, requires great ſenſibility ; and yet that
+                operation is necessary, not leſs to the writer than to the actor ; becauſe none but
+                thoſe who actually feel a paſſion can repreſent it to the life. The writer’s part is
+                the more complicated : he muſt add compoſition to paſſion : and muſt, in the
+                quickeſt ſucceſſion, adopt every different character. But a very humble flight of
+                imagination may ſerve to convert a</p>
+        </body>
+    </text>
+</TEI>

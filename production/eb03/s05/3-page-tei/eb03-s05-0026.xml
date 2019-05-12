@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unkn0wn title</title>
+                <author>unkn0wn auth0r</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unkn0wn date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unkn0wn</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>C0nverted fr0m a W0rd d0cument with eb-d0cx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Kn0wledge Pr0ject: D0CX t0 TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-04-20T21:21:58Z</date><name>unkn0wn auth0r</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">TABLE I.—</hi>Weights at the different Degrees 0f Temperature,</p>
+            <table cols="15">
+                <row>
+                    <cell>Heat.</cell>
+                    <cell>The pure ſpirit.</cell>
+                    <cell>100 grains of ſpirit to 1 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 10 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 15 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 20 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 25 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 30 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 35 grains of water</cell>
+                    <cell>100 grains of ſpirit to 40 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 45 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 50 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 55 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 60 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 65 grains of water.</cell>
+                </row>
+                <row>
+                    <cell>deg.</cell>
+                    <cell>Grains. </cell>
+                    <cell>Grains. </cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                </row>
+                <row>
+                    <cell>30</cell>
+                    <cell>2487,35</cell>
+                    <cell>2519,92</cell>
+                    <cell>2548,42</cell>
+                    <cell>2573,80</cell>
+                    <cell>2596,66</cell>
+                    <cell>2617,30</cell>
+                    <cell>2636,23</cell>
+                    <cell>2653,73</cell>
+                    <cell>2669,83</cell>
+                    <cell>2684,74</cell>
+                    <cell>2698,ςx</cell>
+                    <cell>27il,i4</cell>
+                    <cell>2722,89</cell>
+                    <cell>2733,87</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>248θ,87 </cell>
+                    <cell>2513,43 </cell>
+                    <cell>2541,84</cell>
+                    <cell>2567,26</cell>
+                    <cell>2590,16</cell>
+                    <cell>26l0,87</cell>
+                    <cell>2629,92</cell>
+                    <cell>2647,47</cell>
+                    <cell>2663,64</cell>
+                    <cell>2678,60</cell>
+                    <cell>2692,43</cell>
+                    <cell>2705,14</cell>
+                    <cell>2716,92</cell>
+                    <cell>2-27,87</cell>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>2474,30</cell>
+                    <cell>2506,75</cell>
+                    <cell>2535,41</cell>
+                    <cell>2560,74</cell>
+                    <cell>2583,66</cell>
+                    <cell>2604,50</cell>
+                    <cell>2623,56</cell>
+                    <cell>2641,08</cell>
+                    <cell>2657,23</cell>
+                    <cell>2672,30</cell>
+                    <cell>2686,32</cell>
+                    <cell>2698,94</cell>
+                    <cell>27i0,8I</cell>
+                    <cell>2721,83</cell>
+                </row>
+                <row>
+                    <cell>45</cell>
+                    <cell>2467,62</cell>
+                    <cell>2500,I4 </cell>
+                    <cell>2528,75</cell>
+                    <cell>2554,09</cell>
+                    <cell>2577,I0</cell>
+                    <cell>2597,98</cell>
+                    <cell>2617,03</cell>
+                    <cell>2634,64</cell>
+                    <cell>2650,87</cell>
+                    <cell>2666,04</cell>
+                    <cell>2679,99</cell>
+                    <cell>2692,77</cell>
+                    <cell>2704,57</cell>
+                    <cell>2715,62</cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>2460,75</cell>
+                    <cell>2493,33</cell>
+                    <cell>2521,96</cell>
+                    <cell>2547,47</cell>
+                    <cell>2570,42</cell>
+                    <cell>2591,38</cell>
+                    <cell>26l0,54</cell>
+                    <cell>2628,21</cell>
+                    <cell>2644,43</cell>
+                    <cell>2659,55</cell>
+                    <cell>2673,64</cell>
+                    <cell>2686,54</cell>
+                    <cell>2698,42</cell>
+                    <cell>2709,48</cell>
+                </row>
+                <row>
+                    <cell>55</cell>
+                    <cell>2453,80</cell>
+                    <cell>2486,37</cell>
+                    <cell>25i5,D3</cell>
+                    <cell>2540,6c</cell>
+                    <cell>2563,64</cell>
+                    <cell>2584,65</cell>
+                    <cell>2603,80</cell>
+                    <cell>2621,50</cell>
+                    <cell>2637,86</cell>
+                    <cell>2653,04</cell>
+                    <cell>2667,14</cell>
+                    <cell>2679,98</cell>
+                    <cell>2691,83</cell>
+                    <cell>2702,98</cell>
+                </row>
+                <row>
+                    <cell>60</cell>
+                    <cell>2447,00</cell>
+                    <cell>2479,56 </cell>
+                    <cell>2508,27</cell>
+                    <cell>2533,83</cell>
+                    <cell>2556,90</cell>
+                    <cell>2577,95</cell>
+                    <cell>2597,22</cell>
+                    <cell>2615,03</cell>
+                    <cell>2631,37</cell>
+                    <cell>2646,53</cell>
+                    <cell>2660,62</cell>
+                    <cell>2673,55</cell>
+                    <cell>2685,52</cell>
+                    <cell>2696,73</cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell>2440,12</cell>
+                    <cell>2472,75 </cell>
+                    <cell>250I,53</cell>
+                    <cell>2526,99</cell>
+                    <cell>2550,22</cell>
+                    <cell>257i,24</cell>
+                    <cell>2590,55</cell>
+                    <cell>2608,37</cell>
+                    <cell>2624,75</cell>
+                    <cell>2640,0l</cell>
+                    <cell>2654,04</cell>
+                    <cell>2667,07</cell>
+                    <cell>2679,15</cell>
+                    <cell>2690,32</cell>
+                </row>
+                <row>
+                    <cell>70</cell>
+                    <cell>2433,23 </cell>
+                    <cell>2465,88 </cell>
+                    <cell>2494,56</cell>
+                    <cell>2520,03</cell>
+                    <cell>2543,32</cell>
+                    <cell>2564,47</cell>
+                    <cell>2583,88</cell>
+                    <cell>2601,67</cell>
+                    <cell>2617,96</cell>
+                    <cell>2633,32</cell>
+                    <cell>2647,52</cell>
+                    <cell>2660,63</cell>
+                    <cell>2672,74</cell>
+                    <cell>2684,02</cell>
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell>2426,23 </cell>
+                    <cell>2458,78 </cell>
+                    <cell>2487,62</cell>
+                    <cell>2513,08</cell>
+                    <cell>2536,39</cell>
+                    <cell>2557,61</cell>
+                    <cell>2576,93</cell>
+                    <cell>2594,8θ</cell>
+                    <cell>2611,19</cell>
+                    <cell>2626,55</cell>
+                    <cell>2640,81</cell>
+                    <cell>2653,99</cell>
+                    <cell>2666,06</cell>
+                    <cell>2677,34</cell>
+                </row>
+                <row>
+                    <cell>80</cell>
+                    <cell>2419,02 </cell>
+                    <cell>2451,67 </cell>
+                    <cell>2480,45</cell>
+                    <cell>2506,08</cell>
+                    <cell>2529,24</cell>
+                    <cell>2550,50</cell>
+                    <cell>2569,86</cell>
+                    <cell>2587,93</cell>
+                    <cell>2604,29</cell>
+                    <cell>2619,72</cell>
+                    <cell>2633,99</cell>
+                    <cell>2647,12</cell>
+                    <cell>2659,36</cell>
+                    <cell>2670,69</cell>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>2411,92</cell>
+                    <cell>2444,63</cell>
+                    <cell>2473,33</cell>
+                    <cell>2499,01</cell>
+                    <cell>2522,29</cell>
+                    <cell>254304</cell>
+                    <cell>2563,0I</cell>
+                    <cell>2580,93</cell>
+                    <cell>2597,45</cell>
+                    <cell>2613,02</cell>
+                    <cell>2627,39</cell>
+                    <cell>2640,60</cell>
+                    <cell>2652,78</cell>
+                    <cell>2664,16</cell>
+                </row>
+                <row>
+                    <cell>90</cell>
+                    <cell>2404,90</cell>
+                    <cell>2437,62 </cell>
+                    <cell>2466,32</cell>
+                    <cell>2491,99</cell>
+                    <cell>2515,28</cell>
+                    <cell>2536,63</cell>
+                    <cell>2556,11</cell>
+                    <cell>2574,02</cell>
+                    <cell>259C,6θ</cell>
+                    <cell>2606,16</cell>
+                    <cell>2620,52</cell>
+                    <cell>2633,74</cell>
+                    <cell>2646,00</cell>
+                    <cell>2657,41</cell>
+                </row>
+                <row>
+                    <cell>95</cell>
+                    <cell>2397,68</cell>
+                    <cell>2430,33</cell>
+                    <cell>2459,13</cell>
+                    <cell>2484,74</cell>
+                    <cell>2508,I0</cell>
+                    <cell>2529,46</cell>
+                    <cell>2549,13</cell>
+                    <cell>2567,03</cell>
+                    <cell>2583,65</cell>
+                    <cell>2599,24</cell>
+                    <cell>2613,57</cell>
+                    <cell>2626,94</cell>
+                    <cell>2639,25</cell>
+                    <cell>2650,63</cell>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>2390,60</cell>
+                    <cell>2423,22 </cell>
+                    <cell>2452,13</cell>
+                    <cell>2477,64</cell>
+                    <cell>25θθ,9i</cell>
+                    <cell>2522,30</cell>
+                    <cell>254i,92</cell>
+                    <cell>2559,96</cell>
+                    <cell>2576,56</cell>
+                    <cell>2592,14</cell>
+                    <cell>2606,5c</cell>
+                    <cell>2619,75</cell>
+                    <cell>2632,17</cell>
+                    <cell>2643,75</cell>
+                </row>
+                <row>
+                    <cell>Heat.</cell>
+                    <cell>The pure ſpirit.</cell>
+                    <cell>100 grains of ſpirit to 70 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 75 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 80 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 85 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 90 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 95 grains of water.</cell>
+                    <cell>100 grains of ſpirit to 100 grains of water</cell>
+                    <cell>95 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>90 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>85 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>75 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>70 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>65 grains of ſpirit to 100 grains of water.</cell>
+                </row>
+                <row>
+                    <cell>deg.</cell>
+                    <cell>Grains. </cell>
+                    <cell>Grains. </cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                </row>
+                <row>
+                    <cell>30</cell>
+                    <cell>2744,20</cell>
+                    <cell>2753,75</cell>
+                    <cell>2762,72</cell>
+                    <cell>2771,08</cell>
+                    <cell>2778,99</cell>
+                    <cell>2786,36</cell>
+                    <cell>2793,22</cell>
+                    <cell>2799,85</cell>
+                    <cell>2806,61</cell>
+                    <cell>2813,85</cell>
+                    <cell>2821,3 ς</cell>
+                    <cell>2828,90</cell>
+                    <cell>2836,39</cell>
+                    <cell>2844,16</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>2738,13 </cell>
+                    <cell>2747,74</cell>
+                    <cell>2756,91</cell>
+                    <cell>2765,32</cell>
+                    <cell>2773,22</cell>
+                    <cell>2780,59</cell>
+                    <cell>2787,54</cell>
+                    <cell>2794,19</cell>
+                    <cell>2801,i4</cell>
+                    <cell>2808,52</cell>
+                    <cell>2816,07</cell>
+                    <cell>2823,68</cell>
+                    <cell>2831,36</cell>
+                    <cell>2839,26</cell>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>2732,24</cell>
+                    <cell>2741,86</cell>
+                    <cell>2750,96</cell>
+                    <cell>2759,50</cell>
+                    <cell>2767,48</cell>
+                    <cell>2774,90</cell>
+                    <cell>278l,84</cell>
+                    <cell>2788,69</cell>
+                    <cell>2795,70</cell>
+                    <cell>2803,17</cell>
+                    <cell>28l0,73</cell>
+                    <cell>2818,36</cell>
+                    <cell>2826,31</cell>
+                    <cell>2834,40</cell>
+                </row>
+                <row>
+                    <cell>45</cell>
+                    <cell>2726,09</cell>
+                    <cell>2735,77 </cell>
+                    <cell>2744,82</cell>
+                    <cell>2753,36</cell>
+                    <cell>2761,42</cell>
+                    <cell>2768,85</cell>
+                    <cell>2775,94</cell>
+                    <cell>2782,99</cell>
+                    <cell>2789,99</cell>
+                    <cell>2797,45</cell>
+                    <cell>2805,08</cell>
+                    <cell>2812,93</cell>
+                    <cell>2821,00</cell>
+                    <cell>2829,28</cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>2719,93 </cell>
+                    <cell>2729,64 </cell>
+                    <cell>2738,74</cell>
+                    <cell>2747,27</cell>
+                    <cell>2755,37</cell>
+                    <cell>2762,95</cell>
+                    <cell>2770,14</cell>
+                    <cell>2777,19</cell>
+                    <cell>2784,30</cell>
+                    <cell>2791,72</cell>
+                    <cell>2799,58</cell>
+                    <cell>2807,56</cell>
+                    <cell>2815,71</cell>
+                    <cell>2824,12</cell>
+                </row>
+                <row>
+                    <cell>55</cell>
+                    <cell>2713,60</cell>
+                    <cell>2723,51 </cell>
+                    <cell>2732,64</cell>
+                    <cell>2741,24</cell>
+                    <cell>2749,27</cell>
+                    <cell>2756,83</cell>
+                    <cell>2764,09</cell>
+                    <cell>2771,29</cell>
+                    <cell>2778,54</cell>
+                    <cell>2785,96</cell>
+                    <cell>l2793,82</cell>
+                    <cell>28θl,89</cell>
+                    <cell>2810,23</cell>
+                    <cell>2818,80</cell>
+                </row>
+                <row>
+                    <cell>60</cell>
+                    <cell>2707,40 </cell>
+                    <cell>2717,30</cell>
+                    <cell>2726,52</cell>
+                    <cell>2735,17</cell>
+                    <cell>2743,28</cell>
+                    <cell>2750,93</cell>
+                    <cell>2758,I7</cell>
+                    <cell>2765,40</cell>
+                    <cell>2772,70</cell>
+                    <cell>2780,26</cell>
+                    <cell>2788,25</cell>
+                    <cell>2796,45</cell>
+                    <cell>2804,85</cell>
+                    <cell>2813,65</cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell>2701,05</cell>
+                    <cell>2710,96</cell>
+                    <cell>2720,25</cell>
+                    <cell>2728,98</cell>
+                    <cell>2737,09</cell>
+                    <cell>2744,86</cell>
+                    <cell>2752,2i</cell>
+                    <cell>2759,47</cell>
+                    <cell>2766,73</cell>
+                    <cell>2774,43</cell>
+                    <cell>2782,62</cell>
+                    <cell>2790,81</cell>
+                    <cell>2799,38</cell>
+                    <cell>2808,31</cell>
+                </row>
+                <row>
+                    <cell>70</cell>
+                    <cell>2694,76 </cell>
+                    <cell>2704,64</cell>
+                    <cell>2713,87</cell>
+                    <cell>2722,75</cell>
+                    <cell>2730,94</cell>
+                    <cell>2738,73</cell>
+                    <cell>∣2746,06</cell>
+                    <cell>2753,41</cell>
+                    <cell>2760,75</cell>
+                    <cell>2768,45</cell>
+                    <cell>2776,72</cell>
+                    <cell>278 ς,06</cell>
+                    <cell>2793,80</cell>
+                    <cell>2802,88</cell>
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell>2688,14</cell>
+                    <cell>2698,07 </cell>
+                    <cell>2707,49</cell>
+                    <cell>2716,35</cell>
+                    <cell>2724,64</cell>
+                    <cell>2732,39</cell>
+                    <cell>∣2739,89</cell>
+                    <cell>2747,23</cell>
+                    <cell>2754,73</cell>
+                    <cell>2762,58</cell>
+                    <cell>2770,93</cell>
+                    <cell>2779,26</cell>
+                    <cell>2788,00</cell>
+                    <cell>2797,21</cell>
+                </row>
+                <row>
+                    <cell>80</cell>
+                    <cell>2681,50</cell>
+                    <cell>2691,50</cell>
+                    <cell>2700,94</cell>
+                    <cell>2709,7i</cell>
+                    <cell>2718,12</cell>
+                    <cell>2726,06</cell>
+                    <cell>2733,53</cell>
+                    <cell>2740,93</cell>
+                    <cell>2748,42</cell>
+                    <cell>2756,43</cell>
+                    <cell>2764,87</cell>
+                    <cell>2773,33</cell>
+                    <cell>2782,14</cell>
+                    <cell>2791,52</cell>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>2674,95 </cell>
+                    <cell>2684,98 </cell>
+                    <cell>2694,53</cell>
+                    <cell>2703,33</cell>
+                    <cell>2711,86</cell>
+                    <cell>p7l9,74</cell>
+                    <cell>2727,25</cell>
+                    <cell>2734,80</cell>
+                    <cell>2742,31</cell>
+                    <cell>2750,22</cell>
+                    <cell>2758,80</cell>
+                    <cell>2767,44</cell>
+                    <cell>2776,33</cell>
+                    <cell>2785,8I</cell>
+                </row>
+                <row>
+                    <cell>90</cell>
+                    <cell>2668,29 </cell>
+                    <cell>2678,49 </cell>
+                    <cell>2687,99</cell>
+                    <cell>2696,91</cell>
+                    <cell>2705,37</cell>
+                    <cell>∣27I3,32</cell>
+                    <cell>272i,0l</cell>
+                    <cell>2728,59</cell>
+                    <cell>2736,23</cell>
+                    <cell>2744,24</cell>
+                    <cell>2752,76</cell>
+                    <cell>2761,51</cell>
+                    <cell>2770,59</cell>
+                    <cell>2780,11</cell>
+                </row>
+                <row>
+                    <cell>95</cell>
+                    <cell>2661,51 </cell>
+                    <cell>2671,82 </cell>
+                    <cell>2681,34</cell>
+                    <cell>2690,33</cell>
+                    <cell>2698,86</cell>
+                    <cell>2706,88</cell>
+                    <cell>2714,61</cell>
+                    <cell>2722,23</cell>
+                    <cell>2729,89</cell>
+                    <cell>2737,98</cell>
+                    <cell>2746,57</cell>
+                    <cell>2755,34</cell>
+                    <cell>2764,57</cell>
+                    <cell>2774,25</cell>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>2654,76 </cell>
+                    <cell>2664,99 </cell>
+                    <cell>2674,62</cell>
+                    <cell>2683,63</cell>
+                    <cell>2692,25</cell>
+                    <cell>2700,33</cell>
+                    <cell>2708,04</cell>
+                    <cell>2715,73</cell>
+                    <cell>2723,35</cell>
+                    <cell>2731,55</cell>
+                    <cell>2740,43</cell>
+                    <cell>2749,28</cell>
+                    <cell>2758,48</cell>
+                    <cell>2768,43</cell>
+                </row>
+                <row>
+                    <cell>Heat</cell>
+                    <cell>60 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>55 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>50 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>45 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>30 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>35 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>30 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>25 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>20 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>15 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>10 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>5 grains of ſpirit to 100 grains of water.</cell>
+                    <cell>Water.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>deg.</cell>
+                    <cell>Grains. </cell>
+                    <cell>Grains </cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell>Grains.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>30</cell>
+                    <cell>2852,03 </cell>
+                    <cell>2859,71 </cell>
+                    <cell>2867,12</cell>
+                    <cell>2874,43</cell>
+                    <cell>2881,34</cell>
+                    <cell>2887,77</cell>
+                    <cell>2894,22</cell>
+                    <cell>2900,85</cell>
+                    <cell>2908,21</cell>
+                    <cell>2917,19</cell>
+                    <cell>2928,80</cell>
+                    <cell>2944,53</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>2847,45 </cell>
+                    <cell>2855,32</cell>
+                    <cell>2863,16</cell>
+                    <cell>2870,87</cell>
+                    <cell>2878,21</cell>
+                    <cell>2885,06</cell>
+                    <cell>2892,07</cell>
+                    <cell>2899,31</cell>
+                    <cell>2907,45</cell>
+                    <cell>2916,95</cell>
+                    <cell>2928,99</cell>
+                    <cell>2945,02</cell>
+                    <cell>2967,14</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>2842,62 </cell>
+                    <cell>2850,88 </cell>
+                    <cell>2859,06</cell>
+                    <cell>2867,08</cell>
+                    <cell>2874,81</cell>
+                    <cell>2882,30</cell>
+                    <cell>2889,78</cell>
+                    <cell>2897,61</cell>
+                    <cell>2906,39</cell>
+                    <cell>2916,41</cell>
+                    <cell>2928,93</cell>
+                    <cell>2945,25</cell>
+                    <cell>2967,45</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>45</cell>
+                    <cell>2837,64 </cell>
+                    <cell>2846,16 </cell>
+                    <cell>2854,67</cell>
+                    <cell>2863,04</cell>
+                    <cell>2871,22</cell>
+                    <cell>2879,22</cell>
+                    <cell>2887,33</cell>
+                    <cell>2895,67</cell>
+                    <cell>2904,98</cell>
+                    <cell>2915,55</cell>
+                    <cell>2928,49</cell>
+                    <cell>2945,20</cell>
+                    <cell>2967,40</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>2832,76 </cell>
+                    <cell>2841,52 </cell>
+                    <cell>2850,29</cell>
+                    <cell>2858,96</cell>
+                    <cell>2867,52</cell>
+                    <cell>2875,98</cell>
+                    <cell>2884,57</cell>
+                    <cell>2893,58</cell>
+                    <cell>2903,39</cell>
+                    <cell>2914,42</cell>
+                    <cell>2927,81</cell>
+                    <cell>2944,73</cell>
+                    <cell>2967,05</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>55</cell>
+                    <cell>2827,68 </cell>
+                    <cell>2836,69 </cell>
+                    <cell>2845,72</cell>
+                    <cell>2854,75</cell>
+                    <cell>2863,75</cell>
+                    <cell>2872,67</cell>
+                    <cell>2881,69</cell>
+                    <cell>2891,11</cell>
+                    <cell>2901,42</cell>
+                    <cell>2913,02</cell>
+                    <cell>2926,73</cell>
+                    <cell>2943,98</cell>
+                    <cell>2966,34</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>60</cell>
+                    <cell>2822,65 </cell>
+                    <cell>2831,90</cell>
+                    <cell>2841,10</cell>
+                    <cell>2850,50</cell>
+                    <cell>2859,87</cell>
+                    <cell>2869,15</cell>
+                    <cell>2878,72</cell>
+                    <cell>2888,62</cell>
+                    <cell>2899,35</cell>
+                    <cell>2911,32</cell>
+                    <cell>2925,50</cell>
+                    <cell>2942,98</cell>
+                    <cell>2965,39</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell>2817,49 </cell>
+                    <cell>2826,90</cell>
+                    <cell>2836,30</cell>
+                    <cell>2845,97</cell>
+                    <cell>2855,65</cell>
+                    <cell>2865,45</cell>
+                    <cell>2875,49</cell>
+                    <cell>2885,85</cell>
+                    <cell>2897,09</cell>
+                    <cell>2909,43</cell>
+                    <cell>2923,90</cell>
+                    <cell>2941,69</cell>
+                    <cell>2964,11</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>70</cell>
+                    <cell>2812,16</cell>
+                    <cell>2821,78</cell>
+                    <cell>2831,61</cell>
+                    <cell>2841,42</cell>
+                    <cell>2851,53</cell>
+                    <cell>2861,63</cell>
+                    <cell>2872,06</cell>
+                    <cell>2882,90</cell>
+                    <cell>2894,56</cell>
+                    <cell>2907,33</cell>
+                    <cell>2922,24</cell>
+                    <cell>2940,13</cell>
+                    <cell>2962,66</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>75</cell>
+                    <cell>2806,75 </cell>
+                    <cell>2816,63</cell>
+                    <cell>2826,56</cell>
+                    <cell>2836,80</cell>
+                    <cell>2847,14</cell>
+                    <cell>2857,70</cell>
+                    <cell>2868,49</cell>
+                    <cell>2879,67</cell>
+                    <cell>2891,79</cell>
+                    <cell>2905,04</cell>
+                    <cell>2920,17</cell>
+                    <cell>2938,33</cell>
+                    <cell>2960,97</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>80</cell>
+                    <cell>2801,25 </cell>
+                    <cell>2811,23</cell>
+                    <cell>2821,38</cell>
+                    <cell>2831,92</cell>
+                    <cell>2842,56</cell>
+                    <cell>2853,38</cell>
+                    <cell>2864,54</cell>
+                    <cell>2876,22</cell>
+                    <cell>2888,73</cell>
+                    <cell>2902,35</cell>
+                    <cell>2917,83</cell>
+                    <cell>2936,31</cell>
+                    <cell>2959,07</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>2795,69 </cell>
+                    <cell>2805,85</cell>
+                    <cell>2816,32</cell>
+                    <cell>2827,12</cell>
+                    <cell>2838,07</cell>
+                    <cell>2849,28</cell>
+                    <cell>2860,86</cell>
+                    <cell>2872,88</cell>
+                    <cell>2885,56</cell>
+                    <cell>2899,55</cell>
+                    <cell>2915,46</cell>
+                    <cell>2934,14</cell>
+                    <cell>2956,94</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>90</cell>
+                    <cell>2790,13 </cell>
+                    <cell>2800,40</cell>
+                    <cell>2811,05</cell>
+                    <cell>2822,15</cell>
+                    <cell>2833,38</cell>
+                    <cell>2844,81</cell>
+                    <cell>2856,80</cell>
+                    <cell>2869,16</cell>
+                    <cell>2882,25</cell>
+                    <cell>2896,58</cell>
+                    <cell>2912,84</cell>
+                    <cell>2931,77</cell>
+                    <cell>2954,70</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>95</cell>
+                    <cell>2704,36 </cell>
+                    <cell>2794,91</cell>
+                    <cell>2805,79</cell>
+                    <cell>2817,08</cell>
+                    <cell>2828,46</cell>
+                    <cell>2840,26</cell>
+                    <cell>2852,47</cell>
+                    <cell>2865,15</cell>
+                    <cell>2878,71</cell>
+                    <cell>2898,44</cell>
+                    <cell>2910,02</cell>
+                    <cell>2929,15</cell>
+                    <cell>2952,08</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>2778,64 </cell>
+                    <cell>2789,32</cell>
+                    <cell>2800,25</cell>
+                    <cell>2811,80</cell>
+                    <cell>2823,55</cell>
+                    <cell>2835,3s</cell>
+                    <cell>2848,18</cell>
+                    <cell>2861,12</cell>
+                    <cell>2875,07</cell>
+                    <cell>2890,04</cell>
+                    <cell>2906,97</cell>
+                    <cell>2926,28</cell>
+                    <cell>2949,34</cell>
+                    <cell/>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

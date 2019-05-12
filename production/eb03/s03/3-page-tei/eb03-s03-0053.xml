@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:03:02Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <sp>
+                <speaker>AEmilia.</speaker>
+                <l>Oh ! my good lord, I would ſpeak a word with you.</l>
+            </sp>
+            <sp>
+                <speaker>Othello.</speaker>
+                <l>Yes, ’tis Æmilia—By and by.—She’s dead.</l>
+                <l>’Tis like ſhe comes to ſpeak of Caſſio’s death ;</l>
+                <l>The noiſe was high.— Ha ! no more moving ?</l>
+                <l>Still as the grave. Shall ſhe come in ? wer’t good ?</l>
+                <l>I think ſhe ſtirs again — No—what’s the beſt ?</l>
+                <l>If ſhe come in, ſhe'll, ſure, ſpeak to my wife :</l>
+                <l>My wife ! my wife ! what wife ? I have no wife ;</l>
+                <l>Oh inſupportable ? oh heavy hour !</l>
+            </sp>
+            <bibl><title>Othello</title>, act 5. ſc. 7.</bibl>
+            <p>A fourth obſervation is, That nature, which gave us paſſions, and made them extremely
+                beneficial when moderate, intended undoubtedly that they ſhould be ſubjected to the
+                government of reaſon and conſcience. It is therefore againſt the order of nature,
+                that paſſion in any case ſhould take the lead in contradiction to reaſon and
+                conſcience : ſuctr a ſtate of mind is a fort of anarchy which every one is aſhamed
+                of and endeavours to hide or diſſemble. Even love, however laudable, is attended
+                with a conſcious ſhame when it becomes immoderate : it is covered from the world,
+                and diſcloſed only to the beloved object :</p>
+            <sp>
+                <l>Et que l’amour ſouvent de remors combattu</l>
+                <l>Paroisse une foiblesse, et non une vertu.</l>
+            </sp>
+            <p><hi rend="italic"><bibl><author>Boileau</author>, <title>l’Art Poet.</title> chant.
+                        3. l. 101.</bibl></hi></p>
+            <sp>
+                <l>O, they love leaſt that let men know they love.</l>
+            </sp>
+            <bibl><title>Two Gentlemen of Verona</title>, act 1.sc. 3.</bibl>
+            <p>Hence a capital rule in the repreſentation of immoderate paſſions, that they ought to
+                be hid or diſſembled as much as poſſible. And this holds in an eſpecial manner with
+                reſpect to criminal paſſions : one never counſels the commiſſion of a crime in plain
+                terms ; guilt muſt not appear in its native colours, even in thought ; the propoſal
+                muſt be made by hints, and by repreſenting the action in ſome favourable light. Of
+                the propriety of ſentiment upon ſuch an occaſion, Shakespeare, in the <hi
+                    rend="italic"><bibl><title>Tempest</title></bibl>,</hi> has given us a beautiful
+                example, in a ſpeech by the uſurping duke of Milan, adviſing Sebaſtian to murder his
+                brother the king of Naples :</p>
+            <sp>
+                <speaker>Antonio.</speaker>
+                <l>—What might,</l>
+                <l>Worthy Sebaſtian,—O, what might—no more.</l>
+                <l>And yet, methinks, I ſee it in thy face</l>
+                <l>What thou ſhouldſt be : the occaſion ſpeaks thee, and</l>
+                <l>My ſtrong imagination ſees a crown</l>
+                <l>Dropping upon thy head.</l>
+            </sp>
+            <bibl>Act 2. ſc. 2.</bibl>
+            <p>A picture of this kind, perhaps ſtill finer, is exhibited in <bibl><hi rend="italic"
+                            ><title>King John</title>,</hi> where that tyrant ſolicits <hi
+                        rend="italic">(act 3. ſc. 5.)</hi></bibl> Hubert to murder the young prince
+                Arthur ; but it is too long to be inſerted here.</p>
+            <p>II. As things are beſt illuſtrated by their contraries, we proceed to faulty
+                ſentiments, diſdaining to be indebted for examples to any but the moſt approved
+                authors. The firſt claſs ſhall conſiſt of ſentiments that accord not with the
+                paſſion ; or, in other words, ſentiments that the paſſion does not naturally
+                ſuggeſt. In the ſecond claſs ſhall be ranged ſentiments that may belong to an
+                ordinary paſſion, but unſuitable to it as tinctured by a ſingular character.
+                Thoughts that properly are not ſentiments, but rather deſcriptions, make a third.
+                Sentiments that belong to the paſſion represented, but are faulty as being
+                introduced too early or too late, make a fourth, Vicious ſentiments expoſed in their
+                native dreſs, inſtead of being concealed or diſguiſed, make a fifth. And in the laſt
+                claſs shall be collected ſentiments ſuited to no character nor paſſion, and
+                therefore unnatural.</p>
+            <p>The <hi rend="italic">first</hi> claſs contains faulty ſentiments of various kinds,
+                which we ſhall endeavour to diſtinguiſh from each other.</p>
+            <p>1. Of ſentiments that are faulty by being above the tone of the paſſion, the
+                following may ſerve as an example :</p>
+            <sp>
+                <speaker>Othello.</speaker>
+                <l> —O my soul’s joy !</l>
+                <l>If after every tempeſt come ſuch calms,</l>
+                <l>May the winds blow till they have waken’d death :</l>
+                <l>And let the labouring bark climb hills of ſeas</l>
+                <l>Olympus high, and duck again as low</l>
+                <l>As hell’s from heaven ?</l>
+            </sp>
+            <bibl><title>Othello</title>, act 2. sc. 6.</bibl>
+            <p>This ſentiment may be ſuggeſted by violent and inflamed paſſion ; but is not ſuited
+                to the ſatisfaction, however great, that one feels upon eſcaping danger.</p>
+            <p>2. Inſtance of ſentiments below the tone of the paſſion. Ptolemy, by putting Pompey
+                to death, having incurred the diſpleaſure of Cæsar, was in the utmoſt dread of being
+                dethroned : in that agitating ſituation, Corneille makes him utter a ſpeech full of
+                cool reflection, that is in no degree expreſſive of the paſſion.</p>
+            <sp>
+                <l>Ah ! ſi je t’avois crû, je n’aurois pas de maître,</l>
+                <l>Je serois dans le trône où le ciel m’a fait naître ;</l>
+                <l>Mais c’est une imprudence aſſez commune aux rois,</l>
+                <l>D’écouter trop d’avis, et se tromper au choix.</l>
+                <l>Le Destin les aveugle au bord du précipice,</l>
+                <l>Ou ſi quelque lumiere en leur ame se glisse, </l>
+                <l>Cette fausse clarté dont il les eblouit,</l>
+                <l>Le plonge dans une gouffre, et puis s’evanouit.</l>
+            </sp>
+            <bibl><title>La Mort de Pompé</title>, act 4. sc. 4.</bibl>
+            <p>3. Sentiments that agree not with the tone of the paſſion ; as where a pleaſant
+                ſentiment is grafted upon a painful paſſion, or the contrary. In the following
+                inſtances, the ſentiments are too gay for a ſerious paſſion :</p>
+            <sp>
+                <l>No happier taſk theſe faded eyes purſue ;</l>
+                <l>To read and weep is all they now can do.</l>
+            </sp>
+            <bibl><title>Eloiſa to Abelard</title>, l.47.</bibl>
+            <p>Again ;</p>
+            <sp>
+                <l>Heav’n firſt taught letters for ſome wretch’s aid,</l>
+                <l>Some baniſh’d lover, or ſome captive maid :</l>
+                <l>They live, they ſpeak, they breathe what love inſpires,</l>
+                <l>Warm from the soul, and faithful to its fires ;</l>
+                <l>The virgin’s wiſh without her fears impart,</l>
+                <l>Excuſe the bluſh, and pour out all the heart ;</l>
+                <l>Speed the ſoft intercourſe from soul to foul,</l>
+                <l>And waft a ſigh from Indus to the pole.</l>
+            </sp>
+            <bibl><title>Eloiſa to Abelard</title>, l.51.</bibl>
+
+            <p>Theſe thoughts are pretty : they suit <bibl><title>Pope</title></bibl>, but not
+                Eloiſa.</p>
+            <sp>
+                <l>Satan, enraged by a threatening of the angel Gabriel, anſwers thus :</l>
+                <l>Then when I am thy captive, talk of chains,</l>
+                <l>Proud limitary cherub ; but ere then Far heavier load thyſelf expect to feel</l>
+                <l>From my prevailing arm, though heaven’s King</l>
+            </sp>
+        </body>
+    </text>
+</TEI>

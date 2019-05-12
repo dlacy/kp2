@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:20:49Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>us that ſo late as the ninth or tenth century a man, when fairly purchaſed, was, in
+                England, as much the property oſ the buyer as the horſe on which he rode, or the ox
+                which dragged his plough. In the ſame country, now ſo nobly tenacious of freedom and
+                the rights of man, a ſpecies of ſlavery ſimilar to that which prevailed among the
+                ancient Germans ſubſiſted even to the end of the ſixteenth century. This appears
+                from a commiſſion iſſued by Queen Elizabeth in 1574, for inquiring into the lands
+                and goods of all her <hi rend="italic">bond-men</hi> and <hi rend="italic"
+                    >bond-women</hi> in the counties of Cornwall, Devon, Somerſet,and Glouceſter, in
+                order to compound with them for their manumiſſion, that they might enjoy their lands
+                and goods as freemen @@*. In Scotland there certainly exiſted an order of ſlaves or
+                bond-men, who tilled the ground, were attached to the soil, and with it were
+                transferable from one proprietor to another, at a period <hi rend="italic">ſo</hi>
+                late as the thirteenth century ; but when or how thoſe villains, as they were
+                called, obtained their freedom, ſeems to be unknown to every lawyer and antiquary of
+                the preſent day. Coalliers and ſalters were, in the ſame country, ſlaves till little
+                more than 20 years ago, that they were manumitted by an act of the Britiſh
+                legiſlature, and reſtored to the rights of freemen and citizens. Before that period
+                the ſons of coalliers could follow no buſineſs but that of their fathers ; nor were
+                they at liberty to ſeek employment in any other mines than thoſe to which they were
+                attached by birth, without the conſent of the lord of the manor, who, if he had no
+                uſe for their ſervices himſelf, transferred them by a written deed to ſome
+                neighbouring proprietor.</p>
+            <p>That the ſavage nations of Africa were at any period of hiſtory exempted from this
+                opprobrium of our nature which ſpread over all the reſt of the world, the
+                enlightened reader will not ſuppoſe. It is indeed in that vaſt country that ſlavery
+                has in every age appeared in its uglieſt form. We have already obſerved, that about
+                the era of the Trojan war, a commerce in ſlaves was carried on between Phoenicia and
+                Lybia : and the Carthaginians, who were a colony of Phoenicians, and revered the
+                cuſtoms, manners, and religion of their parent ſtate, undoubtedly continued the
+                Tyrian traffic in human fleſh with the interior tribes of Africa. Of this we might
+                reſt aſſured, although we had no other evidence of the fact than what results from
+                the practice of human ſacrifices ſo prevalent in the republic of Carthage. The
+                genuine inſtincts of nature are often ſubdued by dire ſuperſtition, but they cannot
+                be wholly eradicated ; and the rich Carthaginian, when a human victim was demanded
+                from him to the gods, would be ready to ſupply the place of his own child by the ſon
+                of a poor ſtranger, persidiouſly purchaſed at whatever price. That this was, indeed,
+                a very common practice among them, we learn from the teſtimony of various
+                hiſtorians@@*, who aſſure us, that when Agathocles the tyrant of Syracuſe had
+                overthrown their generals Hanno and Bomilcar, and threatened Carthage itſelf with a
+                ſiege, the people attributed their misfortunes to the juſt anger of Saturn for
+                having been worſhipped, for ſome years, by the ſacrifices of children meanly born
+                and ſecretly <hi rend="italic">bought,</hi> inſtead of thoſe of noble extraction.
+                Theſe ſubſtitutions of one offering for another were conſidered as a profane
+                deviation from the religion of their fore- fathers ; and therefore to expiate the
+                guilt of ſo horrid an impiety, a ſacriſice of two hundred children of the</p>
+            <p>firſt rank was on that occaſion made to the bloody god. As the Carthaginians were a
+                commercial people, we cannot ſuppoſe that they purchaſed ſlaves only for ſacrifices.
+                They undoubtedly condemned many of their priſoners of war to the ſtate of ſervitude,
+                and either sold them to foreigners, or diſtributed them among their ſenators and the
+                leaders of their armies. Hanno, who endeavoured to uſurp the ſupreme power in
+                Carthage whilſt that republic was engaged in war with Timoleon in Sicily @@*, armed
+                twenty thouſand of his ſlaves in order to carry his nefarious purpoſe into execution
+                ; and Hannibal, after his deciſive victory at Cannae, sold to the Greeks many of his
+                priſoners whom the Roman ſenate refuſed to redeem @@*. That illuſtrious commander
+                was indeed more humane, as well as more politic, than the generality of his
+                countrymen. Before his days it was cuſtomary with the Carthaginians either to
+                maſſacre their captives in cold blood, that they might never again bear arms againſt
+                them, or to offer them in ſacriſice as a grateful acknowledgment to the gods by
+                whoſe aſſiſtance they believed that they were vanquiſhed ; but this was not always
+                done even by their moſt ſuperſtitious or moſt unprincipled leaders. Among other rich
+                ſpoils which Agathocles, after his victory already mentioned, found in the camp of
+                Hanno and Bomilcar, were twenty thouſand pair of fetters and manacles, which thoſe
+                generals had provided for ſuch of the Sicilian prisoners as they intended to
+                preſerve alive and reduce to a ſtate of ſlavery.</p>
+            <p>With the ancient ſtate of the other African nations we are but very little
+                acquainted. The Numidians, Mauritanians, Getulians, and Garamantes, are indeed
+                mentioned by the Roman hiſtorians, who give us ample details of the battles which
+                they fought in attempting to preſerve their national independence ; but we have no
+                particular account of their different manners and cuſtoms in that age when Rome was
+                diſputing with Carthage the sovereignty of the world. All the African ſtates of
+                which we know any thing, were in alliance with one or other of thoſe rival
+                republics; and as the people of thoſe ſtates appear, to have been leſs enlightened
+                than either the Romans or the Carthaginians, we cannot ſuppoſe that they had purer
+                morals, or a greater regard for the ſacred rights of man, than the powerful nations
+                by whom they were either protected or oppreſſed. They would, indeed, inſenſibly
+                adopt their cuſtoms ; and the ready market which Marius found for the prisoners
+                taken in the town Capſa, although Salluſt acknowledges @@* that the ſale was
+                contrary to the laws of war, ſhows that ſlavery was then no ſtrange thing to the
+                Nunaidians. It ſeems indeed to have prevailed through all Africa from the very firſt
+                peopling of that unexplored country ; and we doubt if in any age of the world the
+                unhappy negro was abſolutely secure of his perſonal freedom, or even of not being
+                sold to a foreign trader.</p>
+            <p>It is the common opinion that the practice of making ſlaves of the negroes is of a
+                very modern date ; that it owes its origin to the incurſions of the Portuguese on
+                the weitem coaſt oſ Africa ; and that but for the cunning or cruelty of Europeans,
+                it would not now exiſt, and would never have exiſted. But all this is a complication
+                of miſtakes. A learned writer has lately proved, with a force of evidence which
+                admits of no reply@@*, that from the Coaſt of Guinea a great trade in ſlaves</p>
+            <p>@@@[m] Kames's Sketches, book i. sketch 5.</p>
+            <p>@@@[m] Polyb. Q. Curt. Diod. Sic. See also Ancient Universal History, vol. xv. </p>
+            <p>@@@[m] Justin. lib. xxi. cap. 6. a Universal History.</p>
+            <p>@@@[m] Tit. L. Appian Zonaras.</p>
+            <p>@@@[m] Bell. J. cap. 91. </p>
+            <p>@@@[m] Whitaker's Review of Gibbon's Roman History. </p>
+        </body>
+    </text>
+</TEI>

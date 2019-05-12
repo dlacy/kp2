@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:18Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell cols="3"><p><hi rend="italic">An Estimate of the Weight of the Eighty Gun
+                                Ship in </hi>Plates CCCCLX. and CCCCLXI. as fitted for <hi
+                                rend="italic">Sea,</hi></p><p><hi rend="italic"> with six Months
+                                Provisiοns.</hi></p></cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Weight of the Hull N⁰ of ft.</hi></cell>
+                    <cell><p>N⁰ of lbs.</p></cell>
+                    <cell>Tons. Lbs.</cell>
+                </row>
+                <row>
+                    <cell><p>of Oak timber at 66 lb. to </p><p>the cubic foot 48497</p></cell>
+                    <cell>3200802</cell>
+                    <cell>1428 2082</cell>
+                </row>
+                <row>
+                    <cell>Fir timber at 48 lb. to</cell>
+                    <cell>213936</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>the cubic foot 4457</cell>
+                    <cell> </cell>
+                    <cell>95 1136</cell>
+                </row>
+                <row>
+                    <cell>Elm timber at 32 lb. to</cell>
+                    <cell> </cell>
+                    <cell>12 160</cell>
+                </row>
+                <row>
+                    <cell>the cubic foot 520</cell>
+                    <cell>27040</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Carve work and lead work</cell>
+                    <cell>4651</cell>
+                    <cell>2 171</cell>
+                </row>
+                <row>
+                    <cell>Iron work, rudder irons,</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>chain-plates, nails, &amp;c.</cell>
+                    <cell>88254</cell>
+                    <cell>39 894</cell>
+                </row>
+                <row>
+                    <cell>Pitch, tar, oakum, and </cell>
+                    <cell> </cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell>paint </cell>
+                    <cell>17920</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Cook-room fitted with 7</cell>
+                    <cell>16123</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>fire hearth </cell>
+                    <cell> </cell>
+                    <cell>7 443</cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell>3568726</cell>
+                    <cell>593 406</cell>
+                </row>
+                <row>
+                    <cell cols="2"><p><hi rend="italic">Weight of the Furniture.</hi></p><p> N⁰ of
+                            lb.</p><p>Complete ſet of mails and yards, </p><p>with the spare geer
+                            161000</p></cell>
+                    <cell><p>Tons. Lbs.</p><p>71 1960</p></cell>
+                </row>
+                <row>
+                    <cell>Anchors with their stocks, and</cell>
+                    <cell> 39996</cell>
+                    <cell>17 1916</cell>
+                </row>
+                <row>
+                    <cell>matter’s flores</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Rigging</cell>
+                    <cell>69128</cell>
+                    <cell>30 1928</cell>
+                </row>
+                <row>
+                    <cell>Sails, complete ſet, and ſpare</cell>
+                    <cell>32008</cell>
+                    <cell>14 648</cell>
+                </row>
+                <row>
+                    <cell>Cables and hawſers</cell>
+                    <cell>73332</cell>
+                    <cell>32 1652</cell>
+                </row>
+                <row>
+                    <cell>Blocks, pumps, and boats</cell>
+                    <cell cols="2">62056 27 1576</cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell cols="2"><p>437520195 720</p></cell>
+                </row>
+                <row>
+                    <cell cols="3"><hi rend="italic">Weight of the Guns and Ammunition.</hi></cell>
+                </row>
+                <row>
+                    <cell>Guns with their carriages</cell>
+                    <cell>377034</cell>
+                    <cell>168 714</cell>
+                </row>
+                <row>
+                    <cell>Powder and shot, powder barrels,"</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>&amp;c.</cell>
+                    <cell>116320</cell>
+                    <cell>51 2080</cell>
+                </row>
+                <row>
+                    <cell>Implements for the powder</cell>
+                    <cell><p>6500</p></cell>
+                    <cell>2 2020</cell>
+                </row>
+                <row>
+                    <cell>Ditto for guns, crows, handſpikes,</cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>&amp;c.</cell>
+                    <cell>21573</cell>
+                    <cell>9 1413</cell>
+                </row>
+                <row>
+                    <cell>Sum -</cell>
+                    <cell>521427</cell>
+                    <cell>232 1747</cell>
+                </row>
+                <row>
+                    <cell cols="2"><p><hi rend="italic">Weight of the Officers Stores,</hi> &amp;c.
+                            </p><p>Carpenter’s flores 20187</p></cell>
+                    <cell>9 2<hi rend="italic">7</hi></cell>
+                </row>
+                <row>
+                    <cell><p>Boatſwam’s stores</p><p>Gunner’s flores</p></cell>
+                    <cell>21112 8964</cell>
+                    <cell><p>9 952</p><p>4 4</p></cell>
+                </row>
+                <row>
+                    <cell>Caulker’s flores</cell>
+                    <cell>5200</cell>
+                    <cell>2 720</cell>
+                </row>
+                <row>
+                    <cell>Surgeon and chaplain’s effects</cell>
+                    <cell>11096</cell>
+                    <cell>4 2136</cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell>66559</cell>
+                    <cell>29 1599</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Weight of the Proνisions</hi></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Provisions for six months for 700 7</cell>
+                    <cell>858970</cell>
+                    <cell>383 1050</cell>
+                </row>
+                <row>
+                    <cell>men, with all their equipage </cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Water, casks, and captain’s table</cell>
+                    <cell>933900.</cell>
+                    <cell>416 2060</cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell>1792870</cell>
+                    <cell>800 870</cell>
+                </row>
+            </table>
+            <table>
+                <row>
+                    <cell cols="4"><hi rend="italic">Weight of the Men, &amp;c.</hi></cell>
+                </row>
+                <row>
+                    <cell><p>Seven hundred men with their effects, including the officers and their
+                            effects </p><p>Ballast</p></cell>
+                    <cell cols="2">N⁰ of lbs. Tons.</cell>
+                    <cell><p>Lbs.</p><p>1121</p></cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell><p>316961</p><p>1478400</p></cell>
+                    <cell><p>141</p><p>660</p></cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell>1795361</cell>
+                    <cell>801</cell>
+                    <cell>II2I</cell>
+                </row>
+                <row>
+                    <cell cols="2"><hi rend="italic">RECAPITULATION.</hi></cell>
+                    <cell> </cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell><p>The hull</p><p>The furniture</p></cell>
+                    <cell><p>3568726</p><p>437520</p></cell>
+                    <cell><p>1593</p><p>195</p></cell>
+                    <cell><p>406</p><p>720</p></cell>
+                </row>
+                <row>
+                    <cell>Guns and ammunition</cell>
+                    <cell>521427</cell>
+                    <cell>232</cell>
+                    <cell>1747</cell>
+                </row>
+                <row>
+                    <cell>Officers flores</cell>
+                    <cell>66559</cell>
+                    <cell>29</cell>
+                    <cell>1599</cell>
+                </row>
+                <row>
+                    <cell>Provisions</cell>
+                    <cell>1792870</cell>
+                    <cell>800</cell>
+                    <cell>870</cell>
+                </row>
+                <row>
+                    <cell>Weight of the men and ballast</cell>
+                    <cell>1795361</cell>
+                    <cell>801</cell>
+                    <cell>1121</cell>
+                </row>
+                <row>
+                    <cell>Sum</cell>
+                    <cell>8182463</cell>
+                    <cell>3652</cell>
+                    <cell>1983</cell>
+                </row>
+            </table>
+            <p>Agreeable to the above eſtimate, we find that the eighty gun ſhip, with every thing
+                on board and fit for ſea, when brought down to the load water line, weighs 8,182,463
+                pounds, or nearly 3653 tons. It may now be known if the load water line in the
+                draught be properly placed, by reducing the immerſed part of the body into cubic
+                feet. For if the eighty gun ſhip, when brought down to the load water line, weighs
+                3653 tons, the quantity of water diſplaced muſt alſo be 3653 tons : now a cubic foot
+                of ſalt water being ſuppoſed to weigh 74 pounds, if therefore 8182463 be divided by
+                74, the quotient is 110573, the number of cubical feet which she muſt diſplace
+                agreeable to her weight.</p>
+            <p>It is now neceſſary to find the number of cubic feet contained in the ſhip’s bottom
+                below the load water line by calculation. If the bottom was a regular ſolid, this
+                might be very eaſily done ; but as it is otherwiſe, we muſt be ſatisfied with the
+                following method by approximation, firſt given by M. Bouguer.</p>
+            <p>Take the lengths of every other of the lines that repreſent the frames in the
+                horizontal plane upon the upper water line ; then find the ſum of theſe together,
+                with half the foremoſt and aftermoſt frames. Now multiply that ſum by the diſtance
+                between the frames, and the product is the area of the water line contained between
+                the foremoſt and aftermoſt frames: then find the area of that part abaft the after
+                frame, which forms a trapezium, and alſo the poſt and rudder ; find alſo the area of
+                that part afore the foremaſt frame, and alſo of the ſtem and gripe ; then theſe
+                areas being added to that firſt found, and the ſum doubled, will be the area of the
+                ſurface of the whole water line. The reaſon of this rule will be obvious to thoſe
+                acquainted with the firſt principles of mathematics.</p>
+            <p>The areas of the other water line may be found in the same manner : then the ſum of
+                all theſe areas, except that of the uppermoſt and lowermoſt, of which only one half
+                of each muſt be taken, being multiplied by the diſtance between the water lines
+                (theſe lines in the plane of elevation being equidiſtant from each other), and the
+                product will be the ſolid content of the ſpace contained between the lower and load
+                water lines.</p>
+        </body>
+    </text>
+</TEI>

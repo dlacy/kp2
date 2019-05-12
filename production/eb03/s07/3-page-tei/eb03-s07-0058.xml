@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T20:11:48Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>of Good Hope on the one fide, and from Karrjtſchetka to India and japan on the other.
+                It is alſo found in all parts of North America, and in ſeveralof the Weft Indian
+                Iſlands. In Europe it diſappears during the winter months. It appears generally a
+                little after the vernal equinox ; but rather earlier in the ſouthern, and later in
+                the northern latitudes. It adheres to the uſual ſeaſons with much regularity ; for
+                though the months of February and^iarch ſhould be uncommonly mild, and April and May
+                remarkably cold, it never deviates from its ordinary time. In the cold ſpring of
+                '740 ſome appeared in France before the infects on which they feed had become
+                numerous enough to iupport them, and great numbers died@@. In the mild and even warm
+                ſpring of 1 7 74 they appeared no earlier than uſual. They remain in ſome warm
+                countries the whole year. Kolben affures us that this is the cafe at the Cape of
+                Good Hope ; but (he lays) they are more numerous in winter. Some birds of this
+                ſpecies live, during winter, even in Europe ; for example, on the coaſt of Genoa,
+                where they ſpend the ni;?ht in the open country on the orange ſhrubs.</p>
+            <p>2. The <hi rend="italic">martins</hi> are alſo widely diffuſed through the old
+                continent ; but the countries where they reſide or viſit have not been marked by
+                naturaliſts with much attention. 3. The <hi rend="italic">sand martins</hi> are
+                found in every part of Europe, and frequently ſpend the winter in Malta@@. Two birds
+                of this ſpecies were ſeen in Perigord in France, on the 27th December 1775, when
+                there was a ſoutherly wind, attended with a little rain@@. 4. The <hi rend="italic"
+                    >ſvaiſt</hi> viſits the whole continent of Europe ; has alſo been obſerved at
+                the Cape of Good Hope, and in Carolina in North America. 5. The <hi rend="italic"
+                    >goat-ſuckers</hi> are not very common birds, yet are widely ſcattered They are
+                found in every country between Sweden and Africa : they are found alſo in India. In
+                April the ſouth-weſt wind brings them to Malta, and in autumn they repaſs in great
+                numbers.</p>
+            <p>Mr Markwick of Catsfield, near Battle in Suffex, has drawn up an accurate table,
+                expreſſing the day of the month on which the birds, commonly called <hi
+                    rend="italic">migratory,</hi> appeared in ſpring, and diſappeared in autumn, for
+                16 years, from 1768 to 1783 incluſive.@@ The obſervations were made at Catsſield. From
+                this table we ſhall extract the dates for five years, and add the very few
+                obſervations which we have been able to collect reſpecting the time when the ſwallow
+                appears and diſappears in other countries.</p>
+            <table cols="6">
+                <row>
+                    <cell/>
+                    <cell cols="2"><hi rend="superscript">1</hi>779.</cell>
+                    <cell/>
+                    <cell cols="2">1781.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell><hi rend="italic">First seen.</hi></cell>
+                    <cell><hi rend="italic">Last seen.</hi></cell>
+                    <cell/>
+                    <cell><hi rend="italic">First seen.</hi></cell>
+                    <cell><hi rend="italic">Last seen.</hi></cell>
+                </row>
+                <row>
+                    <cell>Chim. SwaL</cell>
+                    <cell>Ap. 14.</cell>
+                    <cell>O&lt;fl. 29.</cell>
+                    <cell>Sand Mart.</cell>
+                    <cell>Ap. 26.</cell>
+                    <cell>Sep. I.</cell>
+                </row>
+                <row>
+                    <cell>Martins</cell>
+                    <cell>14.</cell>
+                    <cell>1J∙</cell>
+                    <cell>Swift</cell>
+                    <cell>May 12.</cell>
+                    <cell>I.</cell>
+                </row>
+                <row>
+                    <cell>Sand Mart.</cell>
+                    <cell>May 7.</cell>
+                    <cell/>
+                    <cell/>
+                    <cell>1782.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Swift</cell>
+                    <cell>9∙</cell>
+                    <cell/>
+                    <cell>Chim. Swal.</cell>
+                    <cell>Ap. 22.</cell>
+                    <cell>Sep. I.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>17 80.</cell>
+                    <cell/>
+                    <cell>Martins</cell>
+                    <cell>26.</cell>
+                    <cell>Nov. 2.</cell>
+                </row>
+                <row>
+                    <cell>China. Swal</cell>
+                    <cell/>
+                    <cell>Nov. 3.</cell>
+                    <cell>Sand Mart.</cell>
+                    <cell>May 13.</cell>
+                    <cell>Aug. 28.</cell>
+                </row>
+                <row>
+                    <cell>Martins</cell>
+                    <cell>Ap. 29.</cell>
+                    <cell>3∙</cell>
+                    <cell>Swift</cell>
+                    <cell>iS.</cell>
+                    <cell>28.</cell>
+                </row>
+                <row>
+                    <cell>Sand Mart.</cell>
+                    <cell>8.</cell>
+                    <cell>Sep. S.</cell>
+                    <cell/>
+                    <cell>1783.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Swift</cell>
+                    <cell>May 6.</cell>
+                    <cell>8.</cell>
+                    <cell>Chim. Swal.</cell>
+                    <cell>Ap. 13,</cell>
+                    <cell>Nov. 6.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>1781.</cell>
+                    <cell/>
+                    <cell>Martins</cell>
+                    <cell>May I.</cell>
+                    <cell>6.</cell>
+                </row>
+                <row>
+                    <cell>Chim. Swal.</cell>
+                    <cell>Ap. 8.</cell>
+                    <cell>O&lt;S. 15,</cell>
+                    <cell>Sand Mart.</cell>
+                    <cell>July 25.</cell>
+                    <cell>Sep. I.</cell>
+                </row>
+                <row>
+                    <cell>Mai tins</cell>
+                    <cell>May 12.</cell>
+                    <cell>Sep. 7.</cell>
+                    <cell>Swift</cell>
+                    <cell>May 13.</cell>
+                    <cell>Nov. 6.</cell>
+                </row>
+            </table>
+            <table>
+                <row>
+                    <cell cols="2">China. Swal.</cell>
+                    <cell><p>Swifts.</p><p><hi rend="italic">Appear</hi></p></cell>
+                    <cell>Martin». <hi rend="italic">about</hi></cell>
+                    <cell>S. Mart.</cell>
+                </row>
+                <row>
+                    <cell>In Burgundy@@</cell>
+                    <cell/>
+                    <cell/>
+                    <cell>Ap. 9.</cell>
+                    <cell>Ap. 12.</cell>
+                </row>
+                <row>
+                    <cell>In Selborne, Hampiħire@@</cell>
+                    <cell>Ap. 4.</cell>
+                    <cell>Λp. 24.</cell>
+                    <cell>Ap. 30.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>In South Zele, Devonflιire f</cell>
+                    <cell>*5∙</cell>
+                    <cell>May i.</cell>
+                    <cell>May 15.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>In Blackburn, L,ancaflιire ∣</cell>
+                    <cell><hi rend="superscript">a</hi>S&gt;∙</cell>
+                    <cell>Λp∙ 28.</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>In Upſal in Sweden@@</cell>
+                    <cell/>
+                    <cell/>
+                    <cell>May 9.</cell>
+                    <cell/>
+                </row>
+            </table>
+            <p>Were tables of the ſame kind made in every different country, particularly within the
+                torrid zone, it would be eaſy to determine the queſtion which we have been conſi-
+                dering. To many, perhaps, it may not appear a matter of ſuch importance as to be
+                worth the labour. We acknowledge it to be rather a curious than an important inquiry
+                ; yet it is one which muſt be highly gratifying to every mind that can admire the
+                wiſdom of the Great Architect of nature. The inſtinct of the ſwallow is indeed
+                wonderful : it appears among us juſt at the time wſhen infects become numerous ; and
+                it continues with us during the hot weather, in order to prevent them ſrom
+                multiplying too much. It diſappears when theſe infects are no longer troubleſomc. It
+                is never found in folitude ; it is the friend of man, and always takes up its
+                reſidence with us, that it may protect our houſes and our ſtreets ſrom being annoyed
+                with ſwarms of flies.</p>
+            <p><hi rend="italic">SwHLLOw-Wort,</hi> in botany. See <hi rend="smallcaps"
+                    >Asclepias.</hi></p>
+            <p>SWAMMERDAM (John), a celebrated and learned natural philpſopher, was the ſon of John
+                James Swammerdam, an apothecary and famous naturaliſt of Amſterdam, and was born in
+                1637. His father intended him for the church, and with this view had him inſtructed
+                in Latin and Greek ; but he, thinking himſelf unequal to ſo important a taſk,
+                prevailed with his father to conſent to his applying himſelf to phyſic. As he was
+                kept at home till he ſhould be properly qualified to engage in that ſtudy, he was
+                frequently employed in cleaning his father’s curioſities, and putting every thing in
+                its proper place. This inſpired our author with an early taſte for natural hiſtory ;
+                ſo that, not content with the ſurvey of the curioſities his father had pur- chaſed,
+                he ſoon began to make a collection of his own, which he compared with the accounts
+                given of them by the beſt writers. When grown up, he ſeriouſly attended to his
+                anatomical and medical ſtudies ; yet ſpent part of the day and the night in
+                diſcovering, catching, and examining the flying infects proper to thole times, not
+                only in the province <hi rend="superscript">, </hi>of Holland, but in thoſe of
+                Guelderland and Utrecht.—- Thus initiated in natural hiſtory, he went to the
+                univerſity of Leyden in 165Ί ; and in 1663 was admittcd a candidate of phyſic in
+                that univerſity. His attention being now engaged by anatomy, he began to conſider
+                how the parts of the body, prepared by diſſection, could be preſerved, and kept in
+                confiant order for anatomical demonſtration ; and herein he lucceeded, as he had
+                done before in his nice contrivances for diſſecting and managing the minuteſt
+                infects. Our author afterwards made a journey into France, where he ſpent ſome time
+                at Saumur, and wſhere he became acquainted with ſeveral learned men. In 1667 he
+                returned to Leyden, and took his degree of Doctor of Phyſic. The next year the grand
+                duke of Tuſeany being in Holland in order to fee the curioſities of the country,
+                came to view thoſe of our author and his father ; and on this occalion Swammerdam
+                made ſome anatomical diſſections of infects in the pre- ſence of that prince, who
+                was ſtruck with admiration at our author’s great ſkill in managing them, eſpecially
+                at his proving that the future butterfly lay with all its parts neatly folded up in
+                a caterpillar, tty actually removing the integuments that covered the former, and
+                extricating and exhibiting all its parts, however minute, with incredible ingenuity,
+                by means of inſtruments of inconceivable ſineneſs. On this occafion the duke offered
+                our author 12,000 florins for his ſhare of the collection, on condition of his
+                removing them himſelf into Tuſcany, and coming to live at the court of Florence ;
+                but Swammerdam, who hated a court life, declined his highnefs’s propoſal. Tn 1663,
+                he publiſh- ed a General Hiſtory of Infects. About this time, his father began to
+                take offence at his inconſiderately neglecting the practice of phyſic, which might
+                have ſupported him in affluence ; and would neither ſupply him with money nor
+                clothes. This reduced him to ſome. difficulties. In 1675 he
+                publiſhed his Hiſtory of the Ephemeras ; and his father dying the ſame year,
+                left him a fortune ſufficient for his ſup-</p>
+            <p>@@@[m] <hi rend="italic">Buffon's Natural History of Birds,</hi> vol. vi. p. 527.</p>
+            <p>@@@[m] <hi rend="italic">Ibid.</hi> 527.</p>
+            <p>@@@[m] <hi rend="italic">Ibid.</hi> 484.</p>
+            <p>@@@[m] <hi rend="italic">Transactions of the Linnaean Society,</hi> vol. 1.</p>
+            <p>@@@[m] <hi rend="italic">Buffon,</hi> Ibid.</p>
+            <p>@@@[m] <hi rend="italic">White's Natural History of Selborne.</hi> </p>
+            <p>@@@[m] <hi rend="italic">Buffon,</hi> Ibid.</p>
+        </body>
+    </text>
+</TEI>

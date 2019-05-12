@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:02:03Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>tries, Germany, Denmark, Sweden, Poland, and Muſcovy. Each of the ſecretaries has an
+                apartment in all the royal houſes, both for their own accommodation and their
+                officers; they have alſo a table at the king’s charge, or elfe board-wages. The two
+                ſecretaries for Britain have each two under ſecretaries, and one chief clerk; with
+                an uncertain number of other clerks and tranſlators, all wholly depending on them.
+                To the ſecretaries of ſtate belong the cuſtody of that ſeal properly called the
+                ſignet, and the direction of two other offices, one called the <hi rend="italic"
+                    >paper-office,</hi> and the other the <hi rend="italic">ſignet office. </hi>In
+                addition to theſe, there is at preſent (1795) a ſecretary for the war department,
+                whoſe office muſt be temporary. 2. Secretary of an embaſſy, a perſon attending an
+                ambaſſador, for writing diſpatches relating to the negociation. There is a great
+                difference between the ſecretary of an embaſſy and the ambaſſador’s ſecretary; the
+                laſt being a domeſtic or menial of the ambaſſador, and the firſt a fervant or
+                miniſter of the prince. 3. The ſecretary of war, an officer of the war-office, who
+                has two chief clerks under him, the laſt of which is the ſecretary’s meſſenger.
+                There are alſo ſecretaries in moſt of the other offices.</p>
+            <p>SECRETION, in the animal œconomy. See <hi rend="smallcaps">Physiology,</hi> ſect.
+                VI.</p>
+            <p>SECT, a collective term, comprehending all ſuch as follow the doctrines and opinions
+                of ſome famous divine, philoſopher, &amp;c.</p>
+            <p>SECTION, in general, denotes a part of a divided thing, or the diviſion itſelf. Such,
+                particularly, are the ſubdiviſions of a chapter; called alſo <hi rend="italic"
+                    >paragraphs </hi>and <hi rend="italic">articles:</hi> the mark of a ſection is
+                §.</p>
+            <p><hi rend="smallcaps">Section,</hi> in geometry, denotes a ſide or ſurface of a body
+                or figure cut off by another; or the place where lines, planes, &amp;c. cut each
+                other.</p>
+            <p>SECTOR, in geometry, is a part of a circle comprehended between two radii and the
+                arch; or it is a mixed triangle, formed by two radii and the arch of a circle.</p>
+            <p><hi rend="smallcaps">Sector,</hi> is alſo a mathematical inſtrument, of great uſe in
+                finding the proportion between quantities of the ſame kind: as between lines and
+                lines, ſurfaces and ſurfaces, &amp;c. whence the French call it the <hi
+                    rend="italic">compaſs of proportion.</hi> The great advantage of the ſector
+                above the common ſcales, &amp;c. is, that it is made ſo as to fit all radii and all
+                ſcales. By the lines of chords, ſines, &amp;c. on the ſector, we have lines of
+                chords, ſines, &amp;c. to any radius betwixt the length and breadth of the lector
+                when open.</p>
+            <p>The real inventor of this valuable inſtrument is unknown; yet of ſo much merit has
+                the invention appeared, that it was claimed by Galileo, and diſputed by nations.</p>
+            <p>The ſector is founded on the fourth propoſition of the ſixth book of Euclid; where it
+                is demonſtrated, that ſimilar triangles have their homologous ſides proportional. An
+                idea of the theory of its conſtruction may be conceived thus. Let the lines AB, AC
+                (Plate CCCCXLVIII. fig. 5.) repreſent the legs of the ſector; and AD, AE, two equal
+                lections from the centre: if, now the points CB and DE be connected, the lines CB
+                and DE will be parallel; therefore the triangles ADE, ACB will be ſimilar; and
+                conſequently the ſides AD, DE, AB, and BC, proportional; that is, as AD: DE: AB: BC:
+                whence, if AD be the half, third, or fourth part of AB; DE will be a half, third, or
+                fourth part of CB: and the ſame holds of all the reſt. If, therefore, AD be the
+                chord, ſine, or tangent, of any number of degrees to the radius AB; DE will be the
+                ſame to the radius BC.</p>
+            <p><hi rend="italic">Deſcription of the Sector.</hi> The inſtrument conſiſts of two
+                rulers or legs, of braſs or ivory, or any other matter, repreſenting the radii,
+                moveable round an axis or joint, the middle of which expreſſes the centre; whence
+                are drawn on the faces of the rulers ſeveral ſcales, which may be diſtinguiſhed into
+                ſingle and double.</p>
+            <p>The double ſcales, or lines graduated upon the faces of the inſtrument, and which are
+                to be uſed as ſectoral lines, proceed from the centre; and are, 1. Two ſcales of
+                equal parts, one on each leg, marked <hi rend="smallcaps">lin.</hi> or <hi
+                    rend="smallcaps">l.</hi> each of theſe ſeales, from the great extenſiveneſs of
+                its uſe, is called the <hi rend="italic">line oſ lines. 2.</hi> Two lines of chords
+                marked c<hi rend="smallcaps">ho.</hi> or c. 3. Two lines of ſecants marked <hi
+                    rend="smallcaps">sec. </hi>or s. A line of polygons marked <hi rend="smallcaps"
+                    >pol.</hi> Upon the other face the ſectoral lines are, 1. Two lines of lines
+                marked <hi rend="smallcaps">sin.</hi> or s. 2. Two lines of tangents marked <hi
+                    rend="smallcaps">tan.</hi> or T. 3. Between the line of tangents and ſines there
+                is another line of tangents to a leſſer radius, to ſupply the defect of the former,
+                and extending from 45⁰to 75⁰, marked t.</p>
+            <p>Each pair of theſe lines (except the line of polygons) is ſo adjuſted as to make
+                equal angles at the centre; and conſequently at whatever diſtance the ſector be
+                opened, the angles will be always reſpectively equal. That is, the diſtance between
+                10 and 10 on the line of lines, will be equal to 60 and 60 on the line of chords, 90
+                and 90 on the line of ſines, and 45 and 45 on the line of tangents.</p>
+            <p>Beſides the ſectoral ſcales, there are others on each face, placed parallel to the
+                outward edges, and uſed as thoſe oſ the common plane ſcale. I. Theſe are a line of
+                inches. 2. A line of latitudes. 3. A line of hours. 4. A line of inclination of
+                meridians. 5. A line of chords. Three logarithmic ſcales, namely, one oſ numbers,
+                one of ſines, and one of tangents; theſe are uſed when the ſector is fully opened,
+                the legs forming one line @@<hi rend="smallcaps">(a).</hi></p>
+            <p>The value of the diviſions on moſt of the lines are determined by the figures
+                adjacent to them; theſe proceed by tens, which conſtitute the diviſions of the firſt
+                order, and are numbered accordingly; but the value of the diviſions on the line of
+                lines, that are diſtinguiſhed by figures, is entirely arbitrary, and may repreſent
+                any value that is given to them; hence the figures 1, 2, 3, 4, &amp;c. may denote
+                either 10, 20, 30, 40, or 100, 200, 300, 400, and ſo on.</p>
+            <p><hi rend="italic">The line oſ lines</hi> is divided into ten equal parts, numbered 1,
+                2, 3, to 10; theſe may be called d<hi rend="italic">ivisions of the first
+                    order;</hi> each of theſe are again ſubdivided into 10 other equal parts, which
+                may be called <hi rend="italic">diviſions oſ the second order;</hi> each of theſe is
+                divided into two equal parts, forming <hi rend="italic">diviſions oſ the third
+                    order.</hi> The diviſions on all the ſcales are contained between four parallel
+                lines;</p>
+            <p><hi rend="smallcaps">@@@(a)</hi> The lines are placed in different orders on
+                different lectors, but they may eaſily be found by theſe general directions.</p>
+        </body>
+    </text>
+</TEI>

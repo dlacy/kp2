@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:49:20Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>wood. There is but one village; and that is built on a rock, which runs up like a
+                ſugar-loaf, and is 10 miles from the harbour of St George. The inhabitants are all
+                Greeks, the cadi being the only Turk among them.</p>
+            <p>SCIROCHO, or <hi rend="smallcaps">Sirocho,</hi> a name generally given in Italy to
+                every unfavourable wind. In the ſouth-weſt it is applied to the hot ſuffocating
+                blaſts from Africa, and in the north-eaſt it means the cold bleak winds from the
+                Alps.</p>
+            <p>SCIRPUS, in botany: A genus of the monogynia order, belonging to the triandria claſs
+                of plants; and in the natural method ranking under the 3d order, <hi rend="italic"
+                    >Calamariae.</hi> The glumes are paleaceous, and imbricated all round. There is
+                no corolla; and only one beardleſs ſeed.</p>
+            <p>SCIRRHUS, in ſurgery and medicine, a hard tumor of any part of the body, void of
+                pain, ariſing, as is ſuppoſed, from the inſpiſſation and induration of the fluids
+                contained in a gland, though it may alſo appear in any other part of the body,
+                eſpecially in the fat; being one of the ways in which an inflammation terminates.
+                Theſe tumors are exceedingly apt to degenerate into cancers.</p>
+            <p>SCITAMINEÆ. See <hi rend="smallcaps">Botany,</hi> p. 459.</p>
+            <p>SCIURUS, the <hi rend="smallcaps">squirrel</hi>; a genus of quadrupeds belonging to
+                the order of glires. It has two fore-teeth in each jaw, the ſuperior ones ſhaped
+                like wedges, and the inferior ones compreſſed. There are 11 ſpecies; of which the
+                moſt remarkable are,</p>
+            <p>1. The <hi rend="italic">vulgaris,</hi> or common ſquirrel, with ears terminated with
+                long tufts of hair; large, lively, black eyes; head, body, legs, and tail, of a
+                bright reddiſh brown; breaſt and belly white; hair on each ſide the tail lies flat.
+                In Sweden and Lapland, it changes in winter into grey. In Ruſſia it is ſometimes
+                found black. In many parts of England there is a beautiful variety, with milk white
+                tails. —This ſpecies inhabits Europe and North America, the northern and the
+                temperate parts of Aſia: and a variety is even found as far ſouth as the iſle of
+                Ceylon. It is a neat, lively, active animal; lives always in woods: in the ſpring,
+                the female is ſeen purſued from tree to tree by the males, feigning an eſcape from
+                their embraces; makes its neſt of moſs and dried leaves between the fork of two
+                branches; brings three or four young at a time; has two holes to its neſt; ſtops up
+                that on the ſide the wind blows, as Pliny juſtly remarks; lays in a hoard of winter
+                proviſion, Rich as nuts, acorns, &amp;c.; in ſummer, feeds on buds and young ſhoots;
+                is particularly fond of thoſe of fir, and the young cones; ſits up to eat, and uſes
+                its forefeet as hands; covers itſelf with its tail; leaps to a ſurpriſing diſtance;
+                when diſpoſed to croſs a river, a piece of bark is its boat, its tail the ſail; is
+                in great plenty in Dunmallet, and there called <hi rend="italic">Conn.</hi> Boys
+                frequently nurſe this beautiful and active animal under cats.</p>
+            <p>There are three creatures, the ſquirrel, the field- mouſe, and the bird called the
+                    <hi rend="italic">nuthatch,</hi> which live much on hazel nuts; and yet they
+                open them each in a different way. The firſt, after raſping off the ſmall end,
+                ſplits the ſhell in two with his long fore-teeth, as a man does with his knife; the
+                ſecond nibbles a hole with his teeth, ſo regular as if drilled with a wimble, and
+                yet ſo ſmall, that one would wonder how the kernel can be extracted through it;
+                while the laſt pecks an irregular ragged hole with its bill; but as this artiſt has
+                no paws to hold the nut firm while he pierces it, like an adroit workman, he fixes
+                it, as it were in a vice, in ſome cleft of a tree, or in ſome crevice; when,
+                ſtanding over it, he perforates the ſtubborn ſhell. While at work, they make a
+                rapping noiſe, that may be heard at <hi rend="italic">a</hi> conſiderable diſtance.”
+                    <hi rend="italic">White’s Seibοrne.</hi></p>
+                <p>2. The <hi rend="italic">cinereus,</hi>@@ or grey
+                    ſquirrel, with plain ears; hair of a dull grey colour, mixed with black, and
+                    often tinged with dirty yellow; belly and inſides of the legs white; tail long,
+                    buſhy, grey, and ſtriped with black: ſize of a half-grown rabbit. —Inhabits the
+                    woods of Northern Aſia, North America, Peru, and Chili. They are very numerous
+                    in North America, do incredible damage to the plantations of maize, run up the
+                    ſtalks and eat the young ears. Deſcend in vaſt flocks from the mountains, and
+                    join thoſe that inhabit the lower parts; are proſcribed by the provinces, and a
+                    reward of three-pence per head given for every one that is killed. Such a number
+                    was deſtroyed one year, that Pennſylvania alone paid in rewards L. 8000 of its
+                    currency. Make their neſts in hollow trees, with moſs, ſtraw, wool, &amp;c. Feed
+                    on maize in the ſeaſon, and on pine cones, acorns, and maſts of all kinds: form
+                    holes under-ground, and there depoſit a large ſtock of winter proviſion. Deſcend
+                    from the trees, and viſit their magazines when in want of meat; are particularly
+                    buſy at the approach of bad weather; during the cold ſeaſon keep in their neſt
+                    for ſeveral days together; ſeldom leap from tree to tree, only run up and down
+                    the bodies; their hoards often deſtroyed by ſwine; when their magazines are
+                    covered with deep ſnow, the ſquirrels often periſh for want of food; are not
+                    eaſily ſhot, nimbly changing their place when they ſee the gun levelled; have
+                    the actions of the common ſquirrel; are eaſily tamed; and their fleſh is
+                    eſteemed very delicate. Their furs, which are imported under the name of <hi
+                        rend="italic">petit-gris</hi>, are valuable, and uſed as linings to
+                    cloaks.</p>
+                <p> 3. The <hi rend="italic">niger,</hi> or black ſquirrel, with plain ears;
+                    ſometimes wholly black, but often marked with white on the noſe, the neck, or
+                    end of the tail; the tail ſhorter than that of the former; the body equal. It
+                    inhabits the north of Aſia, North America, and Mexico; breeds and aſſociates in
+                    ſeparate troops; is equally numerous with the former; commits as great ravages
+                    among the maize; makes its neſt in the ſame manner, and forms, like them,
+                    magazines for winter food. The fineſt are taken near the lake Baikal, and about
+                    Barguzinſkoi-oſtrog, upon the Upper Angara, in the diſtrict of Nertſchinſk,
+                    which are the beſt in all Siberia; theſe continue black the whole year, the
+                    others grow ruſty in ſummer. — There is a variety with plain ears; coarſe fur
+                    mixed with dirty white and black; throat and inſide of the legs and thighs
+                    black; tail much ſhorter than thoſe of ſquirrels uſually are; of a dull yellow
+                    colour, mixed with black; body of the ſize of the grey ſquirrel. It inhabits
+                    Virginia; the planters call it the <hi rend="italic">cat ſquirrel.</hi></p>
+                <p> 4. The <hi rend="italic">flavus,</hi> or fair ſquirrel, with the body and tail
+                    of a flaxen colour; of a very ſmall ſize, with plain round ears, and rounded
+                    tail. Inhabits the woods near Amadabad, the capital of Guzurat, in great
+                    abundance, leap, ing from tree to tree. Linnaeus ſays it is an inhabitant of
+                    South America.</p>
+                <p> 5. The <hi rend="italic">ſtriatus,</hi> or ground ſquirrel, with plain
+                    ears;</p>
+            <p>@@@ [mu] Plate CCCCXLY. Fig 1.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,297 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000005775a820, pid=6848, tid=0x0000000000003bfc
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_202-b08) (build 1.8.0_202-b08)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.202-b08 mixed mode windows-amd64 compressed oops)
+# Problematic frame:
+# V  [jvm.dll+0x71a820]
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000015cc2800):  JavaThread "C2 CompilerThread1" daemon [_thread_in_native, id=15356, stack(0x0000000016590000,0x0000000016690000)]
+
+siginfo: ExceptionCode=0xc0000005, ExceptionInformation=0x0000000000000008 0x000000005775a820
+
+Registers:
+RAX=0x00000000576af798, RBX=0x00000000191f4358, RCX=0x0000000017c92900, RDX=0x000000001668c460
+RSP=0x000000001668c0f8, RBP=0x000000001668c4f0, RSI=0x0000000000000003, RDI=0x0000000017c92900
+R8 =0x0000000000000210, R9 =0x0000000000053e68, R10=0x0000000000000000, R11=0x000000000000001b
+R12=0x0000000000000000, R13=0x0000000018421020, R14=0x0000000000000018, R15=0x0000000000000019
+RIP=0x000000005775a820, EFLAGS=0x0000000000010283
+
+Top of Stack: (sp=0x000000001668c0f8)
+0x000000001668c0f8:   00000000574ab2c5 000000001668c4f0
+0x000000001668c108:   00000000191f2690 0000000018421310
+0x000000001668c118:   0000000000000000 00000000191f2728
+0x000000001668c128:   00000000185c5400 00000000190274c0
+0x000000001668c138:   00000000000003d8 0000000015d11b98
+0x000000001668c148:   0000000015d117c0 0000000000000000
+0x000000001668c158:   000000001668c4f0 0000000015d117b0
+0x000000001668c168:   000000001668c600 000000001668c280
+0x000000001668c178:   00000000574acc6d 0000000000000042
+0x000000001668c188:   0000000000000002 0000000000000210
+0x000000001668c198:   0000000015eedff8 0000000000000006
+0x000000001668c1a8:   0000000015d117b0 000000001807dcb0
+0x000000001668c1b8:   0000000018084a20 0000000018085c98
+0x000000001668c1c8:   0000000000067748 0000000000000006
+0x000000001668c1d8:   0000000015d12770 0000000015d12770
+0x000000001668c1e8:   0000000015d12780 0000000015d12b58 
+
+Instructions: (pc=0x000000005775a820)
+0x000000005775a800:   00 00 00 00 ff ff ff ff 00 00 00 00 40 00 00 00
+0x000000005775a810:   c0 a7 71 00 00 00 00 00 00 00 00 00 00 00 00 00
+0x000000005775a820:   01 00 00 00 00 00 00 00 00 00 00 00 10 0e 7e 00
+0x000000005775a830:   48 a8 71 00 20 a8 71 00 00 00 00 00 00 00 00 00 
+
+
+Register to memory mapping:
+
+RAX=0x00000000576af798 is an unknown value
+RBX=0x00000000191f4358 is an unknown value
+RCX=0x0000000017c92900 is an unknown value
+RDX=0x000000001668c460 is pointing into the stack for thread: 0x0000000015cc2800
+RSP=0x000000001668c0f8 is pointing into the stack for thread: 0x0000000015cc2800
+RBP=0x000000001668c4f0 is pointing into the stack for thread: 0x0000000015cc2800
+RSI=0x0000000000000003 is an unknown value
+RDI=0x0000000017c92900 is an unknown value
+R8 =0x0000000000000210 is an unknown value
+R9 =0x0000000000053e68 is an unknown value
+R10=0x0000000000000000 is an unknown value
+R11=0x000000000000001b is an unknown value
+R12=0x0000000000000000 is an unknown value
+R13=0x0000000018421020 is an unknown value
+R14=0x0000000000000018 is an unknown value
+R15=0x0000000000000019 is an unknown value
+
+
+Stack: [0x0000000016590000,0x0000000016690000],  sp=0x000000001668c0f8,  free space=1008k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x71a820]
+
+
+Current CompileTask:
+C2:   2271 3055       4       net.sf.saxon.tree.tiny.TinyTree::ensureNodeCapacity (193 bytes)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x0000000015d5a800 JavaThread "Service Thread" daemon [_thread_blocked, id=6440, stack(0x0000000016890000,0x0000000016990000)]
+  0x0000000015cd3800 JavaThread "C1 CompilerThread3" daemon [_thread_blocked, id=1308, stack(0x0000000016790000,0x0000000016890000)]
+  0x0000000015cc3800 JavaThread "C2 CompilerThread2" daemon [_thread_blocked, id=8748, stack(0x0000000016690000,0x0000000016790000)]
+=>0x0000000015cc2800 JavaThread "C2 CompilerThread1" daemon [_thread_in_native, id=15356, stack(0x0000000016590000,0x0000000016690000)]
+  0x0000000015cbb000 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=2272, stack(0x0000000016490000,0x0000000016590000)]
+  0x0000000015cb9000 JavaThread "Attach Listener" daemon [_thread_blocked, id=2756, stack(0x0000000016390000,0x0000000016490000)]
+  0x0000000013dce800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=10372, stack(0x0000000016290000,0x0000000016390000)]
+  0x0000000015cb0800 JavaThread "Finalizer" daemon [_thread_blocked, id=13608, stack(0x0000000016090000,0x0000000016190000)]
+  0x0000000002ef9000 JavaThread "Reference Handler" daemon [_thread_blocked, id=5424, stack(0x0000000015b90000,0x0000000015c90000)]
+  0x0000000002e02800 JavaThread "main" [_thread_blocked, id=10700, stack(0x0000000002d00000,0x0000000002e00000)]
+
+Other Threads:
+  0x0000000013db9000 VMThread [stack: 0x0000000015a90000,0x0000000015b90000] [id=10060]
+
+VM state:at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x0000000002c8d5f0] Threads_lock - owner thread: 0x0000000013db9000
+
+heap address: 0x00000000f0000000, size: 256 MB, Compressed Oops mode: 32-bit
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x0000000100000000
+
+Heap:
+ PSYoungGen      total 76288K, used 51384K [0x00000000fab00000, 0x0000000100000000, 0x0000000100000000)
+  eden space 65536K, 62% used [0x00000000fab00000,0x00000000fd2b62f0,0x00000000feb00000)
+  from space 10752K, 99% used [0x00000000ff580000,0x00000000ffff8040,0x0000000100000000)
+  to   space 10752K, 0% used [0x00000000feb00000,0x00000000feb00000,0x00000000ff580000)
+ ParOldGen       total 175104K, used 7000K [0x00000000f0000000, 0x00000000fab00000, 0x00000000fab00000)
+  object space 175104K, 3% used [0x00000000f0000000,0x00000000f06d6268,0x00000000fab00000)
+ Metaspace       used 19055K, capacity 19332K, committed 19456K, reserved 1067008K
+  class space    used 2429K, capacity 2488K, committed 2560K, reserved 1048576K
+
+Card table byte_map: [0x00000000122c0000,0x0000000012350000] byte_map_base: 0x0000000011b40000
+
+Marking Bits: (ParMarkBitMap*) 0x0000000057865ce0
+ Begin Bits: [0x0000000012b50000, 0x0000000012f50000)
+ End Bits:   [0x0000000012f50000, 0x0000000013350000)
+
+Polling page: 0x0000000000f50000
+
+CodeCache: size=245760Kb used=12716Kb max_used=12733Kb free=233043Kb
+ bounds [0x0000000002f00000, 0x0000000003b80000, 0x0000000011f00000]
+ total_blobs=3753 nmethods=3389 adapters=272
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 2.247 Thread 0x0000000015cd3800 3397       3       java.util.HashMap::clear (50 bytes)
+Event: 2.248 Thread 0x0000000015cd3800 nmethod 3397 0x0000000003b638d0 code [0x0000000003b63a40, 0x0000000003b63e10]
+Event: 2.249 Thread 0x0000000015cc2800 nmethod 3366 0x0000000003b6ca90 code [0x0000000003b6cd80, 0x0000000003b6dbb8]
+Event: 2.249 Thread 0x0000000015cc2800 3055       4       net.sf.saxon.tree.tiny.TinyTree::ensureNodeCapacity (193 bytes)
+Event: 2.251 Thread 0x0000000015cd3800 3398   !   3       java.io.WinNTFileSystem::resolve (362 bytes)
+Event: 2.254 Thread 0x0000000015cd3800 nmethod 3398 0x0000000003b6f290 code [0x0000000003b6fb00, 0x0000000003b755d8]
+Event: 2.258 Thread 0x0000000015cd3800 3399       3       java.util.concurrent.ConcurrentHashMap::get (162 bytes)
+Event: 2.259 Thread 0x0000000015cd3800 nmethod 3399 0x0000000003b6a3d0 code [0x0000000003b6a5e0, 0x0000000003b6b158]
+Event: 2.259 Thread 0x0000000015cc3800 nmethod 3054 0x0000000003b7c0d0 code [0x0000000003b7c2c0, 0x0000000003b7da90]
+Event: 2.259 Thread 0x0000000015cc3800 3078       4       java.util.Arrays::copyOf (13 bytes)
+
+GC Heap History (4 events):
+Event: 1.264 GC heap before
+{Heap before GC invocations=1 (full 0):
+ PSYoungGen      total 76288K, used 65536K [0x00000000fab00000, 0x0000000100000000, 0x0000000100000000)
+  eden space 65536K, 100% used [0x00000000fab00000,0x00000000feb00000,0x00000000feb00000)
+  from space 10752K, 0% used [0x00000000ff580000,0x00000000ff580000,0x0000000100000000)
+  to   space 10752K, 0% used [0x00000000feb00000,0x00000000feb00000,0x00000000ff580000)
+ ParOldGen       total 175104K, used 0K [0x00000000f0000000, 0x00000000fab00000, 0x00000000fab00000)
+  object space 175104K, 0% used [0x00000000f0000000,0x00000000f0000000,0x00000000fab00000)
+ Metaspace       used 15967K, capacity 16128K, committed 16384K, reserved 1062912K
+  class space    used 2175K, capacity 2210K, committed 2304K, reserved 1048576K
+Event: 1.276 GC heap after
+Heap after GC invocations=1 (full 0):
+ PSYoungGen      total 76288K, used 10726K [0x00000000fab00000, 0x0000000100000000, 0x0000000100000000)
+  eden space 65536K, 0% used [0x00000000fab00000,0x00000000fab00000,0x00000000feb00000)
+  from space 10752K, 99% used [0x00000000feb00000,0x00000000ff579998,0x00000000ff580000)
+  to   space 10752K, 0% used [0x00000000ff580000,0x00000000ff580000,0x0000000100000000)
+ ParOldGen       total 175104K, used 5734K [0x00000000f0000000, 0x00000000fab00000, 0x00000000fab00000)
+  object space 175104K, 3% used [0x00000000f0000000,0x00000000f0599bc8,0x00000000fab00000)
+ Metaspace       used 15967K, capacity 16128K, committed 16384K, reserved 1062912K
+  class space    used 2175K, capacity 2210K, committed 2304K, reserved 1048576K
+}
+Event: 1.901 GC heap before
+{Heap before GC invocations=2 (full 0):
+ PSYoungGen      total 76288K, used 76262K [0x00000000fab00000, 0x0000000100000000, 0x0000000100000000)
+  eden space 65536K, 100% used [0x00000000fab00000,0x00000000feb00000,0x00000000feb00000)
+  from space 10752K, 99% used [0x00000000feb00000,0x00000000ff579998,0x00000000ff580000)
+  to   space 10752K, 0% used [0x00000000ff580000,0x00000000ff580000,0x0000000100000000)
+ ParOldGen       total 175104K, used 5734K [0x00000000f0000000, 0x00000000fab00000, 0x00000000fab00000)
+  object space 175104K, 3% used [0x00000000f0000000,0x00000000f0599bc8,0x00000000fab00000)
+ Metaspace       used 17819K, capacity 18046K, committed 18304K, reserved 1064960K
+  class space    used 2320K, capacity 2359K, committed 2432K, reserved 1048576K
+Event: 1.910 GC heap after
+Heap after GC invocations=2 (full 0):
+ PSYoungGen      total 76288K, used 10720K [0x00000000fab00000, 0x0000000100000000, 0x0000000100000000)
+  eden space 65536K, 0% used [0x00000000fab00000,0x00000000fab00000,0x00000000feb00000)
+  from space 10752K, 99% used [0x00000000ff580000,0x00000000ffff8040,0x0000000100000000)
+  to   space 10752K, 0% used [0x00000000feb00000,0x00000000feb00000,0x00000000ff580000)
+ ParOldGen       total 175104K, used 7000K [0x00000000f0000000, 0x00000000fab00000, 0x00000000fab00000)
+  object space 175104K, 3% used [0x00000000f0000000,0x00000000f06d6268,0x00000000fab00000)
+ Metaspace       used 17819K, capacity 18046K, committed 18304K, reserved 1064960K
+  class space    used 2320K, capacity 2359K, committed 2432K, reserved 1048576K
+}
+
+Deoptimization events (10 events):
+Event: 2.224 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x00000000035e67f4 method=net.sf.saxon.om.NameChecker.getQNameParts(Ljava/lang/CharSequence;)[Ljava/lang/String; @ 8
+Event: 2.224 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b41730 method=net.sf.saxon.expr.AxisExpression.iterate(Lnet/sf/saxon/expr/XPathContext;)Lnet/sf/saxon/tree/iter/AxisIterator; @ 82
+Event: 2.225 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b41730 method=net.sf.saxon.expr.AxisExpression.iterate(Lnet/sf/saxon/expr/XPathContext;)Lnet/sf/saxon/tree/iter/AxisIterator; @ 82
+Event: 2.227 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b41730 method=net.sf.saxon.expr.AxisExpression.iterate(Lnet/sf/saxon/expr/XPathContext;)Lnet/sf/saxon/tree/iter/AxisIterator; @ 82
+Event: 2.228 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b41730 method=net.sf.saxon.expr.AxisExpression.iterate(Lnet/sf/saxon/expr/XPathContext;)Lnet/sf/saxon/tree/iter/AxisIterator; @ 82
+Event: 2.230 Thread 0x0000000002e02800 Uncommon trap: reason=unstable_if action=reinterpret pc=0x0000000003b22a24 method=net.sf.saxon.tree.tiny.SiblingIterator.next()Lnet/sf/saxon/om/NodeInfo; @ 118
+Event: 2.233 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b55ba4 method=net.sf.saxon.value.StringValue.codepointEquals(Lnet/sf/saxon/value/StringValue;)Z @ 90
+Event: 2.234 Thread 0x0000000002e02800 Uncommon trap: reason=class_check action=maybe_recompile pc=0x0000000003b55ba4 method=net.sf.saxon.value.StringValue.codepointEquals(Lnet/sf/saxon/value/StringValue;)Z @ 90
+Event: 2.237 Thread 0x0000000002e02800 Uncommon trap: reason=unstable_if action=reinterpret pc=0x000000000363fb40 method=java.util.HashMap$HashIterator.<init>(Ljava/util/HashMap;)V @ 38
+Event: 2.258 Thread 0x0000000002e02800 Uncommon trap: reason=unstable_if action=reinterpret pc=0x00000000034ae26c method=java.util.concurrent.ConcurrentHashMap.get(Ljava/lang/Object;)Ljava/lang/Object; @ 138
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (10 events):
+Event: 0.707 Thread 0x0000000002e02800 Exception <a 'java/io/FileNotFoundException'> (0x00000000fc971078) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\prims\jni.cpp, line 710]
+Event: 0.843 Thread 0x0000000002e02800 Exception <a 'java/io/FileNotFoundException'> (0x00000000fd2acf60) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\prims\jni.cpp, line 710]
+Event: 0.844 Thread 0x0000000002e02800 Exception <a 'java/lang/ClassNotFoundException': sun/net/www/protocol/d/Handler> (0x00000000fd2bd450) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\classfile\systemDictionary.cpp, line 210]
+Event: 0.844 Thread 0x0000000002e02800 Exception <a 'java/lang/ClassNotFoundException': sun/net/www/protocol/d/Handler> (0x00000000fd2bfe28) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\classfile\systemDictionary.cpp, line 210]
+Event: 0.845 Thread 0x0000000002e02800 Exception <a 'java/io/FileNotFoundException'> (0x00000000fd2c1ff0) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\prims\jni.cpp, line 710]
+Event: 1.655 Thread 0x0000000002e02800 Implicit null exception at 0x000000000363213b to 0x000000000363222d
+Event: 2.009 Thread 0x0000000002e02800 Implicit null exception at 0x00000000036318b3 to 0x00000000036319d5
+Event: 2.106 Thread 0x0000000002e02800 Exception <a 'java/io/FileNotFoundException'> (0x00000000fc44e3d8) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\prims\jni.cpp, line 710]
+Event: 2.107 Thread 0x0000000002e02800 Exception <a 'java/io/FileNotFoundException'> (0x00000000fc46c118) thrown at [C:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u202\12323\hotspot\src\share\vm\prims\jni.cpp, line 710]
+Event: 2.237 Thread 0x0000000002e02800 Implicit null exception at 0x000000000363f9b7 to 0x000000000363fb25
+
+Events (10 events):
+Event: 2.259 loading class java/text/MessageFormat done
+Event: 2.259 loading class java/text/MessageFormat$Field
+Event: 2.259 loading class java/text/MessageFormat$Field done
+Event: 2.259 loading class java/text/FieldPosition$Delegate
+Event: 2.259 loading class java/text/FieldPosition$Delegate done
+Event: 2.259 loading class java/lang/Shutdown
+Event: 2.259 loading class java/lang/Shutdown done
+Event: 2.259 loading class java/lang/Shutdown$Lock
+Event: 2.259 loading class java/lang/Shutdown$Lock done
+Event: 2.259 Executing VM operation: Exit
+
+
+Dynamic libraries:
+0x00007ff7bc4a0000 - 0x00007ff7bc4d7000 	c:\program files\oxygen xml editor 21\jre\bin\java.exe
+0x00007ffa97f60000 - 0x00007ffa9814d000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffa97780000 - 0x00007ffa97833000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffa940c0000 - 0x00007ffa94353000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffa97b50000 - 0x00007ffa97bf3000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffa96880000 - 0x00007ffa9691e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffa96c60000 - 0x00007ffa96cfe000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffa97a20000 - 0x00007ffa97b42000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffa97d90000 - 0x00007ffa97f27000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffa94610000 - 0x00007ffa94630000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffa96a20000 - 0x00007ffa96a49000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffa947a0000 - 0x00007ffa9493a000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffa94700000 - 0x00007ffa947a0000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffa94940000 - 0x00007ffa94a3a000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffa83fc0000 - 0x00007ffa84239000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.437_none_05b63dca071e5dd6\COMCTL32.dll
+0x00007ffa973e0000 - 0x00007ffa9770c000 	C:\WINDOWS\System32\combase.dll
+0x00007ffa94680000 - 0x00007ffa946fe000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffa95190000 - 0x00007ffa951be000 	C:\WINDOWS\System32\IMM32.DLL
+0x0000000058360000 - 0x0000000058432000 	c:\program files\oxygen xml editor 21\jre\bin\msvcr100.dll
+0x0000000057040000 - 0x00000000578e5000 	c:\program files\oxygen xml editor 21\jre\bin\server\jvm.dll
+0x00007ffa96930000 - 0x00007ffa96938000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffa7e560000 - 0x00007ffa7e569000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffa91ee0000 - 0x00007ffa91f04000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffa8eb30000 - 0x00007ffa8eb3a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffa97710000 - 0x00007ffa9777d000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ffa91eb0000 - 0x00007ffa91edd000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffa94630000 - 0x00007ffa9467a000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x00007ffa88190000 - 0x00007ffa8819f000 	c:\program files\oxygen xml editor 21\jre\bin\verify.dll
+0x00007ffa81b60000 - 0x00007ffa81b89000 	c:\program files\oxygen xml editor 21\jre\bin\java.dll
+0x00007ffa837e0000 - 0x00007ffa837f6000 	c:\program files\oxygen xml editor 21\jre\bin\zip.dll
+0x00007ffa951c0000 - 0x00007ffa966b0000 	C:\WINDOWS\System32\SHELL32.dll
+0x00007ffa97cd0000 - 0x00007ffa97d78000 	C:\WINDOWS\System32\shcore.dll
+0x00007ffa94a40000 - 0x00007ffa9518a000 	C:\WINDOWS\System32\windows.storage.dll
+0x00007ffa93fc0000 - 0x00007ffa93fe4000 	C:\WINDOWS\System32\profapi.dll
+0x00007ffa93f60000 - 0x00007ffa93fbd000 	C:\WINDOWS\System32\powrprof.dll
+0x00007ffa96c00000 - 0x00007ffa96c52000 	C:\WINDOWS\System32\shlwapi.dll
+0x00007ffa93ff0000 - 0x00007ffa94001000 	C:\WINDOWS\System32\kernel.appcore.dll
+0x00007ffa94360000 - 0x00007ffa94377000 	C:\WINDOWS\System32\cryptsp.dll
+0x00007ffa92a50000 - 0x00007ffa92c3d000 	C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=UTF-8 -Xmx256m -Dant.home=C:\Program Files\Oxygen XML Editor 21\tools\ant 
+java_command: org.apache.tools.ant.launch.Launcher -lib C:\Program Files\Oxygen XML Editor 21\classes -lib C:\Program Files\Oxygen XML Editor 21\lib\oxygen-basic-utilities.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\oxygen-patched-resolver.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\oxygen-patched-xerces.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\oxygen-patched-saxon-9.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\saxon9-sql.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\oxygen-patched-saxon-6.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\xml-apis-ext.jar -lib C:\Program Files\Oxygen XML Editor 21\lib\log4j.jar -f D:\eb-corpus\code\xslt\oxygenframeworks\tei\xml\tei\stylesheet\docx\build-from.xml -DinputFile=D:\eb-corpus\production\eb03\s05\2-page-docx/eb03-s05-0034.docx -Dlang=en -DoutputFile=D:\eb-corpus\production\eb03\s05\2-page-docx/../3-page-tei/eb03-s05-0034.xml -Doxygenlib=C:\Program Files\Oxygen XML Editor 21/lib -Dprofile=default -Dwebhelp.trial.license=no
+java_class_path (initial): C:\Program Files\Oxygen XML Editor 21\tools\ant/lib/ant-launcher.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Program Files\Oxygen XML Editor 21\.\jre\bin;C:\Program Files\Python37\Scripts\;C:\Program Files\Python37\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Calibre2\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files\Pandoc\;C:\Users\comid\AppData\Local\Microsoft\WindowsApps;C:\Users\comid\AppData\Local\GitHubDesktop\bin;C:\Users\comid\AppData\Local\Microsoft\WindowsApps;;C:\Users\comid\AppData\Local\Programs\Microsoft VS Code\bin;c:\program files\oxygen xml editor 21\jre\bin
+USERNAME=comid
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 17763 (10.0.17763.437)
+
+CPU:total 8 (initial active 8) (4 cores per cpu, 2 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, aes, clmul, erms, ht, tsc, tscinvbit, tscinv
+
+Memory: 4k page, physical 33498804k(23247572k free), swap 67261108k(52978408k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.202-b08) for windows-amd64 JRE (1.8.0_202-b08), built on Dec 15 2018 19:54:30 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Sat Apr 20 17:22:22 2019
+timezone: Eastern Daylight Time
+elapsed time: 2 seconds (0d 0h 0m 2s)
+

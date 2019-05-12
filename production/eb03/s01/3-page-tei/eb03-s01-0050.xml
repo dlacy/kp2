@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:47:15Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>time to draw it out. This part of the proceſs is performed by raking the ſalt to one
+                fide of the pan into a long heap, where it drains a while from the brine, and is
+                then filled out into barrows or other proper veſſels, and carried into the
+                ſtore-houſe, and delivered into the cuſtody of his majeſty’s officers. And in this
+                manner the whole proceſs is performed in 24 hours; the ſalt being uſually drawn
+                every morning.</p>
+            <p>In the ſtore-houſe the ſalt is put hot into drabs, which are partitions like ſtalls
+                for horſes, lined on three ſides and at the bottom with boards, and having a
+                ſliding- board on the fore-ſide to put in or draw out as occaſion requires. The
+                bottoms are made ſhelving, being higheſt at the back-ſide, and gradually inclining
+                forwards; by which means the ſaline liquor, which remains mixed with the ſalt,
+                eaſiiy drains from it; and the ſalt, in three or four days, becomes ſufficiently
+                dry; and is then taken out of the drabs, and laid up in large heaps, where it is
+                ready for ſale.</p>
+            <p>The ſaline liquor which drains from the ſalt is not a pure brine of common ſalt, but
+                hath a ſharp and bitter taſte, and is therefore called <hi rend="italic"
+                    >bittern;</hi> this liquor, at ſome works, they ſave for particular uſes, at
+                others throw away. A conſiderable quantity of this bittern is left at the bottom of
+                the pan after the proceſs is finiſhed; which, as it contains much ſalt, they ſuffer
+                to remain in the pan, when it is filled up with ſea-water. But at each proceſs this
+                liquor becomes more ſharp and bitter, and alſo increaſes in quantity: ſo that, after
+                the third or fourth proceſs is finiſhed, they are obliged to take it out of the pan;
+                otherwiſe it mixes in ſuch quantities with the ſalt, as to give it a bitter taſte,
+                and diſpoſes it to grow ſoft and run in the open air, and renders it unfit for
+                domeſtic uſes.</p>
+            <p>After each proceſs there alſo adheres to the bottom and ſides of the pan a white
+                ſtony cruſt, of the ſame calcareous ſubſtance with that before collected from the
+                boiling liquor. This the operators call<hi rend="italic"> ſtone-ſcratch,</hi>
+                diſtinguiſhing the other found in the lead-pans by the name of <hi rend="italic"
+                    >powder-ſcratch.</hi> Once in eight or ten days they ſeparate the ſtone-ſcratch
+                from their pans with iron picks, and in ſeveral places find it a quarter of an inch
+                in thickneſs. If this ſtony cruſt is ſuffered to adhere to the pan much longer, it
+                grows ſo thick that the pan is burnt by the fire, and quickly wears away.</p>
+            <p>In M. de Pagés’s Travels round the World, we find the following important fact. “I
+                had been anxious (ſays that author) to aſcertain by compariſon, whether ſea-water
+                contains felt in greater quantity under the torrid than under the other zones; and
+                my experiments on this ſubject ſerved to ſhow, contrary to what I expected, that
+                ſea-water is impregnated with ſalt in leſs quantity within than without the tropics.
+                ” Theſe experiments were made on a hundred pounds of ſea-water, taken at the depth
+                of ten fathoms, and weighed in water-ſcales. M. de Pages has given a table of theſe
+                experiments, from which it appears that 100 lb. of ſea- water in 46⁰ I2'' S. lat.
+                gave 4<hi rend="superscript">1</hi>/<hi rend="subscript">2</hi> lb. of ſalt, and in
+                1⁰ 16" only 3<hi rend="superscript">1/</hi><hi rend="subscript">2</hi> lb.; and that
+                in 74 N. lat. it gave 4<hi rend="superscript">3</hi>/<hi rend="subscript">4</hi> lb.
+                and in 4⁰ 22' only 3<hi rend="superscript">1</hi>/<hi rend="subscript">2</hi> lb.
+                theſe being the higheſt and loweſt latitudes in which the experiments were made, and
+                alſo the greateſt and leaſt quantities of ſalt.</p>
+            <p><hi rend="italic">Duty</hi> on SALT, is a diſtinct branch of his majeſty’s</p>
+            <p>extraordinary revenue, and confiſts in an exciſe of 3 s, 4 d. per buſhel impoſed upon
+                all ſalt, by ſeveral ſtatutes of King William and other ſubſequent reigns. This is
+                not generally called an exciſe, becauſe under the management of different
+                commiſſioners: but the commiſſioners of the ſalt-duties have, hy ſtatute 1 Ann, c.
+                21. the ſame powers, and muſt obſerve the fame regulations, as thoſe of other
+                exciſes. This tax had uſually been only temporary; but by ſtatute 26 Geo. II. c. 3.
+                was made perpetual.</p>
+            <p><hi rend="italic">Triple</hi>
+                <hi rend="italic smallcaps">Salts,</hi> a kind of ſalts formed by the union of three
+                ingredients; the common neutrals being compoſed only of two. They are but lately
+                diſcovered; and it is chiefly to the induſtry of Mr Bergman that we owe the
+                knowledge we have of them. Sometimes we meet even with ſalts of four ingredients; in
+                which cafe we call the reſulting compounds <hi rend="italic">quadruple</hi> ſalts.
+                The moſt remarkable of theſe complicated ſubſtances are the following.</p>
+
+            <p> 1. <hi rend="italic">Aphronitrum,</hi> or mineral alkali, combined with a ſmall
+                quantity of calcareous earth. The three ingredients here are fixed air, pure alkali,
+                and calcareous earth. “This ſalt (fays Cronſtedt) is ſo ſtrongly united with the
+                calcareous earth, that the latter enters with it into the very cryſtals of the ſalt;
+                though, by repeated ſolutions, the earth is by degrees ſeparated from it, and falls
+                to the bottom after every ſolution. ” Cartheuſer aſſerts, that, on throwing into its
+                ſolution in water a fixed mineral alkali, the calcareous earth was precipitated; and
+                on the contrary, by adding oil of vitriol, nitrous acid was expelled, and a
+                Glauber’s ſalt produced; “from which (ſays M. Magellan) it is evident, that the
+                aphronitrum is a triple felt ariſing from the combination of the nitrous acid with
+                calcareous earth and mineral fixed alkali. ” Wallerius mentions three ſpecies of
+                this ſalt; <hi rend="italic">viz.</hi> one which contains only a mixture of
+                calcareous earth with fixed mineral alkali. This, he ſays, is the aphronitrum of the
+                ancients; but he thinks that it ought to be rather called <hi rend="italic"
+                    >aphronatron,</hi> as they beſtowed the name of <hi rend="italic">natron</hi>
+                upon the mineral alkali. The ſecond ſpecies is that deſcribed by Cronſtedt under the
+                title of <hi rend="italic">calcareous nitre.</hi> The third is that deſcribed by
+                Hoffman under the title of <hi rend="italic">aphrοnitrum janenſe,</hi> into whoſe
+                compofition the vitriolic acid enters. It is a kind of Glauber’s felt, and is
+                frequently confounded with it.</p>
+            <p>The aphronitrum of Cronſtedt is deſcribed by him as appearing on old walls and below
+                vaults, or in places where it cannot be waſhed away by the rain. When it contains
+                any conſiderable quantity of calcareous earth, it ſhoots into rhomboidal cryſtals, a
+                figure frequently affected by the calcareous earth when it ſhoots into cryſtals: but
+                when the aphronitrum is purer, it forms priſmatic cryſtals. From theſe
+                circumſtances, M. Magellan thinks, that the aphronitrum is not only a triple but a
+                multiple felt; as theſe pieces of old mortar, covered with this white froſt, on
+                ancient walls, are the very ſame from which the ſaltpetre-makers extract the mother
+                water of nitre; after mixing with it the vegetable aſhes to furniſh the alkali.</p>
+            <p> 2. Common ſalt with magnefia, or mineral alkali, contaminated by muriatic magneſia.
+                This is a compound of common felt with magneſia, and is very deliqueſcent, owing to
+                the compound of magneſia and ſpi-</p>
+        </body>
+    </text>
+</TEI>

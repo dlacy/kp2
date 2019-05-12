@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-04-20T21:21:44Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>fore him, without attending to any thing elſe, or thinking of its paradoxical author,
+                or even of the Great Being who created the matter both of him and of it ; but he
+                cannot for an instant contemplate the yellow colour of its vellum boards without
+                thinking of triple extenſion, or, in other words, of body. The book therefore is a
+                    <hi rend="italic">ſubstance,</hi> becauſe conceivable by itſelf ; the colour is
+                an <hi rend="italic">attribute</hi> or <hi rend="italic">quality,</hi> becauſe it
+                cannot be conceived by itſelf, but neceſſarily leads to the conception of ſomething
+                elſe. But if Spinoza’s meaning be, that nothing is a ſubſtance but what is conceived
+                as exiſting from eternity, independent of every thing as a cauſe, his definition
+                cannot be admitted : for every man conceives that which in himſelf thinks, and
+                wills, and is conscious, as a ſubſtance ; at the same time that he has the beſt
+                evidence poſſible that he exiſted not as a conſcious, thinking, and active being,
+                from eternity.</p>
+            <p>His fourth axiom is thus expreſſed : “ Effectus cognitio a cognitione causæ dependet,
+                et eandem involvit;” and his fifth, "Quæ nihil commune cum se invicem habent, etiam
+                per se invicem intelligi non poſſunt, live conceptus unius alterius conceptum non
+                involvit.” The former of theſe propoſitions, ſo far from being ſelf-evident, is not
+                even true ; and the latter is capable of two ſenſes very different from each other.
+                That every effect proceeds from <hi rend="italic">a cauſe,</hi> is indeed an axiom ;
+                but finely we may know the effect accurately, though we be ignorant of the <hi
+                    rend="italic">particular</hi> cauſe from which it proceeds (ſee <hi
+                    rend="smallcaps">Philosophy,</hi> n⁰ 36 ; and <hi rend="smallcaps">Physics,</hi>
+                n⁰ 91, &amp;C.) ; nor does the knowledge of the one by any means involve the
+                knowledge of the other. If different things have nothing in common, it is indeed
+                true that the knowledge of one of them will not give us an <hi rend="italic"
+                    >adequate conception</hi> of the other ; but it will in many cases compel us to
+                believe, that the other <hi rend="italic">exists</hi> or has exiſted. A parcel of
+                gunpowder lying at rest has nothing in common with the velocity of a cannon-ball ;
+                yet when we know that a ball has been driven with velocity from a cannon, we infer
+                with certainty that there has been a parcel of powder at rest in the chamber of that
+                cannon.</p>
+            <p>It is upon ſuch ambiguous definitions and axioms as theſe that Spinoza has raiſed his
+                pretended demonstrations, that one ſubſtance cannot produce another ; that every
+                ſubſtance muſt neceſſarily be infinite ; that no ſubſtance exiſts or can be
+                conceived beſides God ; and that extended ſubſtance or body is one of the infinite
+                    <hi rend="italic">attributes</hi> of God. We ſhall not waste our own time or the
+                reader’s with a formal confutation of theſe impious abſurdities. We truſt they are
+                sufficiently confuted in other articles of this work (ſee <hi rend="smallcaps"
+                    >Metaphysics, </hi>Part III. <hi rend="smallcaps">Providence,</hi> and <hi
+                    rend="smallcaps">Theology,</hi> Part I.) ; and whoever wiſhes for a more
+                particular examination of the author’s principles, may find it in Dr Clarke’s
+                Demonſtration of the Being and Attributes of God. The truth, however, is, that no
+                man will need the aſſiſtance of that eminent metaphyſician to diſcover the fallacy
+                of the reasoning by which they are attempted to be proved, if he affix <hi
+                    rend="italic">any one preciſe meaning</hi> to the definitions and axioms, and
+                adhere to that meaning ſteadily thro’ the whole procels of the pretended
+                demonſtrations.</p>
+            <p>By way of apology for this jargon, it has been lately ſaid, that “ Spinoza takes the
+                word substa<hi rend="italic">nce</hi> in its moſt ſimple and perfect ſenſe; which is
+                necessary, as he writes mathematically, and propoſes a simple idea as the foundation
+                oſ his theory. @@What is the proper ſignification of a ſubſtance? Is it not that
+                which ſtands alone, which has the cauſe of its exiſtence within itſelf ? I wiſh that
+                this ſimple meaning of the word could be univerſally admitted in philoſophy.
+                Strictly ſpeaking, no worldly thing is a ſubſtance ; ſince all mutually depend on
+                each other, and finally on God, who, in this exalted ſenſe, is the only <hi
+                    rend="italic">ſubstance.</hi> The word <hi rend="italic">modification</hi>
+                founds harſh and improper, and therefore it cannot be expected to gain a place in
+                philoſophy ; but if the ſchool of Leibnitz may term matter the <hi rend="italic"
+                    >appearance of ſubstances, </hi>why may not Spinoza be allowed a bolder term?
+                Worldly subſtances are kept in union by divine power, as it was by divine power that
+                they had exiſtence. They repreſent also, if you pleaſe, <hi rend="italic"
+                    >modified</hi> appearances of divine power ; each according to the ſtation, the
+                time, and the organs, in and with which it appears. The phraſe uſed by Spinoza is
+                concise, and it gives an unity and simplicity to his whole ſyſtem, however ſtrange
+                it may found in our ears.”</p>
+            <p>From this account of Spinoziſm, one who had never looked into the works of the author
+                would be led to ſuppoſe that his ſyſtem is the same with that of Berkeley ; which,
+                denying the exiſtence of material ſubſtance, attributes all our perceptions of what
+                we call the qualities of body to the immediate agency oſ the Deity on our minds (ſee
+                    <hi rend="smallcaps">Metaphysics,</hi> Part II. Chap. 3.) But Spinoza’s doctrine
+                is very different. According to him, bodies are either attributes or affections of
+                God; and as he ſays there is but one extended ſubſtance, he affirms that ſubſtance
+                to be indivisible, and employs a long ſcholium @@* to prove that thoſe are miſtaken
+                who ſuppoſe it finite and not <hi rend="italic">esſential to the Deity.</hi> That we
+                do not miſrepreſent his ſentiments, the learned reader will be convinced by the two
+                following definitions, with which he introduces that part of his ethics which treats
+                of the nature and origin of mind. 1. “ Per corpus intelligo modum, qui Dei
+                eſſentiam, quatenus, ut res extenſa conſideratur, certo et determinato modo
+                exprimit.” 2. “ Ad essentiam alicujus rei id pertinere dico, quo dato res neceſſario
+                ponitur, et quo sublato res neceſſario tollitur ; vel id, fine quo res, et vice
+                verſa quod fine re nec eſſe nec concipi poteſt.” In conformity with theſe
+                definitions, he attempts to prove that God@@ is an extended as well as a thinking
+                ſubſtance ; that as a thinking ſubſtance he is the cause of the idea of a circle,
+                and as an extended ſubſtance of the <hi rend="italic">circle</hi> itſelf ; and that
+                the minds of men are not ſubſtances, but certain modifications of the divine
+                attributes ; or, as he sometimes expreſses it, “ Quod humanae mentis actuale
+                conſtituit, eſt idea rei ſingularis actu exiſtentis.” Hence, he ſays, it follows
+                that the human mind is a part of the intellect of the infinite God ; so that when we
+                ſpeak of the human mind perceiving this or that, we can only mean that God, not as
+                he is infinite, but as he appears in the human mind or conſtitutes its eſſence, has
+                this or that idea ; and when we ſpeak of God’s having this or that idea, we muſt
+                conceive of Him not only as conſtituting the human mind, but as, together with it,
+                having the idea of something elſe @@<hi rend="smallcaps">(a).</hi> In another place
+                he tells us, that the human mind is nothing but the <hi rend="italic">idea</hi></p>
+            <p><hi rend="italic">@@@[mu] Herder's Dialogues concerning God.</hi></p>
+            <p><hi rend="italic">@@@[m]* See his Prop. xv. &amp;c.</hi></p>
+            <p><hi rend="italic">@@@[m] Prop. ii. vii. xi. Part 2.</hi></p>
+            <p><hi rend="smallcaps">@@@(a)</hi> Hinc sequitur mentem humanam partem eſſe infiniti
+                intellectus Dei ; ac proinde cum dicimus, mentem humanam hoc vel illud percipere,
+                nihil aliud dicimus quam quod Deus, non quatenus infinitus est, sed quatenus per
+                naturam humanæ mentis explicatur, five quatenus humanæ mentis essentiam conſtituſt,
+                hanc vel illam habet ideam : et cum dicimus Deum hanc vel illam ideam habere, non
+                tantum, quatenus naturam humanæ mentis constituit ; sed quatenus simul cum mente
+                humana alterius rei etiam habet ideam. <hi rend="italic">Corol.</hi> prop. xi. part
+                2.</p>
+        </body>
+    </text>
+</TEI>

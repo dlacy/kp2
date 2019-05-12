@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:56:54Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>collection of divine ſongs. The Chriſtian church has from the beginning made them a
+                principal part of her holy ſervices; and in the primitive times it was almoſt a
+                general rule that every biſhop, prieſt, and religious perſon, ſhould have the
+                pſalter by heart.</p>
+            <p>Many learned fathers, and not a few of the moderns, have maintained that <hi
+                    rend="italic">David</hi> was the author of them all. Several are of a different
+                opinion, and inſiſt that David wrote only 72 of them; and that thoſe without titles
+                are to be aſcribed to the authors oſ the preceding pſalms, whoſe names are affixed
+                to them. Thoſe who ſuppoſe that David alone was the author, contend, that in the New
+                Teſtament, and in the language of the church universal, they are expreſsly called
+                the <hi rend="italic">Pſalms oſ David. </hi>That David was the principal author of
+                theſe hymns is univerſally acknowledged, and therefore the whole collection may
+                properly enough go under his name; but that he wrote them all, is a palpable
+                miſtake. Nothing certain can be gathered from the titles of the pſalms; for although
+                unqueſtionably very ancient, yet authors are not agreed as to their authority, and
+                they differ as much about their ſignification. The Hebrew doctors generally agree
+                that the 92d pſalm was compoſed by Adam; an opinion which for many reaſons we are
+                not inclined to adopt. There ſeems, however, to be no doubt but that ſome of them
+                were written by Moſes; that Solomon was the author of the 49th; and that others were
+                occaſioned by events long poſterior to the flouriſhing era of the kingdom of Judah.
+                The 137th particularly is one of thoſe which mentions the captivity of Babylon.</p>
+            <p>The following arrangement of the Pſalms, after a careful and judicious examination,
+                has been adopted by Calmet.</p>
+            <p>1. Eight Pſalms of which the date is uncertain, <hi rend="italic">viz. 1</hi>, 4, 19,
+                81, 91, 110, 139, 145. The firſt of theſe was compoſed by David or Ezra, and was
+                ſung in the temple at the feaſt of trumpets held in the beginning of the year and at
+                the feaſt of tabernacles. The 81ſt is attributed to Aſaph, and 110th to David. The
+                authors of the reſt are unknown.</p>
+            <p>2. The Pſalms compoſed by David during the persecution of Saul. Theſe are ſeventeen,
+                11, 31, 34, 56, 16, 54, 52, 109, 17, 22, 35, 57, 58, 142, 140, 141, 7.</p>
+            <p>3. The Pſalms compoſed by David at the beginning of his reign, and after the death of
+                Saul. Theſe are ſixteen, 2,9, 24, 63, 101, 29, 20, 21, 28, 39, 40, 41, 6, 51, 32,
+                33.</p>
+            <p>4. The Pſalms written by David during the rebellion of Abialom are eight in number;
+                3, 4, 53, 62, 70, 71, 143, 144.</p>
+            <p>5. The Pſalms written between the death of Abſalom and the captivity, which are ten,
+                18, 30, 72, 47, 78, 82, 83, 76, 74, 79: of theſe David wrote only three; 18, 30, and
+                72.</p>
+            <p>6. The Pſalms compoſed during the captivity, which amount to forty. Theſe were
+                chiefly compoſed by the of Rendants of Aſaph and Korah: they are, 10, 12, 13, 14,
+                53, 15, 25, 26, 27, 28, 36, 37, 42, 43, 44, 49, 50, 60, 64, 69, 73, 75, 77, 80, 84,
+                86, 88, 89, 90, 92, 93, 94, 95, 99, 120, 121, 123, 130, 131, 132.</p>
+            <p>Laſtly, Thoſe hymns of joy and thankſgiving, written upon the releaſe from the
+                Babyloniſh captivity, and at the building and dedication of the temple. Theſe are,
+                122, 61, 63, 124, 23, 87, 85, 46, 47, 48, from 96 to 117 incluſive, 126, 133 to 137
+                incluſive, 149, 150, 146, 147, 148, 59, 65, 66, 67, 118, 125,</p>
+            <p>127, 128, 129, 138. According to this diſtribution, only 45 are poſitively aſſigned
+                to David.</p>
+            <p>Joſephus, and moſt of the ancient writers, aſſert, that the Pſalms were compoſed in
+                numbers: little, however, reſpecting the nature and principles of the Hebrew
+                verſification is known.</p>
+            <p>There exiſted a certain kind of poetry among the Hebrews, principally intended, it
+                ſhould ſeem, for the aſſiſtance of the memory; in which, when there was little
+                connection between the ſentiments, a fort of order or method was preſerved, by the
+                initial letters oſ each line or ſtanza following the order of the alphabet. Of this
+                there are ſeveral examples extant among the ſacred poems @@(I); and in theſe
+                examples the verſes are ſo exactly marked and defined, that it is impoſſible to
+                miſtake them for proſe; and particularly if we attentively conſider the verſes, and
+                compare them with one another, ſince they are in general ſo regularly accommodated,
+                that word anſwers to word, and almoſt ſyllable to ſyllable. This being the caſe,
+                though an appeal can ſcarcely be made to the ear on this occaſion, the eye itſelf
+                will diſtinguiſh. the poetic diviſion and arrangement, and alſo that ſome labour and
+                accuracy has been employed in adapting the words to the meaſure.</p>
+            <p>The Hebrew poetry has likewiſe another property altogether peculiar to metrical
+                compoſition. It admits foreign words and certain particles, which ſeldom occur in
+                proſe compoſition, and thus forms a diſtinct poetical dialect. One or two of the
+                peculiarities alſo of the Hebrew verſification it may be proper to remark, which as
+                they are very obſervable in thoſe poems in which the verſes are defined by the
+                initial letters, may at leaſt be reaſonably conjectured of the reſt. The firſt of
+                theſe is, that the verſes are very unequal in length; the ſhorteſt conſifting oſ ſix
+                or ſeven ſyllables; the longeſt extending to about twice that number: the ſame poem
+                is, however, generally continued throughout in verſes not very unequal to each
+                other. It muſt alfo be obſerved, that the cloſe of the verſe generally falls where
+                the members of the ſentences are divided.</p>
+            <p>But although nothing certain can be defined concerning the metre of the particular
+                verſes, there is yet another artifice of poetry to be remarked of them when in a
+                collective ſtate, when ſeveral of thcm are taken together. In the Hebrew poetry, as
+                is before remarked, there may be obſerved a certain conformation of the ſentences ;
+                the nature of which is, that a complete ſenſe is almoſt equally infuſed into every
+                component part, and that every member conſtitutes an entire verſe. So that as the
+                poems divide themſelves in a manner ſpontane- ouſly into periods, for the moſt part
+                equal; ſo the periods themſelves are divided into verſes, moſt common-</p>
+            <p><hi rend="italic">@@@(I) Pſalms XXV. xxxiv. xxxvii. cxi. cxii. cxix. cxlv. Prov.
+                    xxxi. from the 10th verſe to the end. The whole of the Lamentations of Jeremiah
+                    except the laſt chapter,</hi></p>
+        </body>
+    </text>
+</TEI>

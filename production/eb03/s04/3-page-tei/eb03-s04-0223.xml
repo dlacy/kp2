@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:24:31Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>curve will be found to be extremely regular, reſembling a hyperbolic arch whoſe
+                aſſymptote makes an angle of 30⁰ with the axis. Ordinates were then interpolated
+                analytically for every 10 ounces of contained ſalt, and thus the table was
+                conſtructed. We did not, however, rest it on one ſeries alone ; but made others, in
+                which <hi rend="superscript">1</hi>/<hi rend="subscript">4</hi>th of the ſalt was
+                repeatedly abſtracted. They agreed, in the caſe of common ſalt, with great
+                exactneſs, and in ſome others there were ſome very inconsiderable
+                irregularities.</p>
+            <p>To ſhow the authority of the tables of ſtrength was by no means our only motive for
+                giving an example of the proceſs. It may be of uſe as a pattern for ſimilar
+                experiments. But, beſides, it is very inſtructive. We see, in the firſt place, that
+                there is a very ſenſible change of density in one or both of the ingredients. For
+                the ſeries is of that nature (as we have formerly explained), that if the
+                ingredients retained their denſities in every proportion of commixture, the ſpecific
+                gravities would have been in arithmetical progreſſion ; whereas we ſee that their
+                differences continually diminiſh as the brines grow more dense. We can form ſome
+                notion of this by comparing the different brines. Thus in the firſt brine, weighing
+                5027 grains, there are 3770 grains of water in a veſſel holding 4200. If the density
+                of the water remains the ſame, there is left for the ſalt only as much ſpace as
+                would hold 430 grains of water. In this ſpace are lodged 1257 grains of ſalt, and
+                its ſpecific</p>
+            <p>gravity, in its liquid form, is <hi rend="superscript">1257</hi>/<hi rend="subscript"
+                    >430</hi> = 2,8907 very nearly. But in the 8th brine the quantity of water is
+                4156, the ſpace left for 157 grains of ſalt is only the bulk oſ 44 grains of water,
+                and the density of the ſalt is</p>
+            <p><hi rend="superscript">157</hi>/<hi rend="subscript">44 </hi>= 3,568, conſiderably
+                greater than before. This</p>
+            <p>induced us to continue the dilution of the brine as follows, beginning with the 8th
+                brine.</p>
+            <table>
+                <row>
+                    <cell><p>157</p><p>78,5</p></cell>
+                    <cell>2)4313 8th brine 2156,5</cell>
+                </row>
+                <row>
+                    <cell>78,5</cell>
+                    <cell><p>2156,5</p><p>2105,5</p><p>2)4262,0 9th brine</p></cell>
+                </row>
+                <row>
+                    <cell>39,7</cell>
+                    <cell>2131</cell>
+                </row>
+                <row>
+                    <cell>39,7</cell>
+                    <cell><p>2131</p><p>2102</p><p>2)4233 10th brine</p></cell>
+                </row>
+                <row>
+                    <cell>19,8</cell>
+                    <cell><p>2116,5</p><p>2116, 5</p><p>2102</p><p>4218 11th brine.</p></cell>
+                </row>
+            </table>
+            <p>This laſt brine contains 4198,2 grains of water, leaving only the bulk of 1,8 grains
+                of water to contain 19,8 of ſalt, ſo that the ſalt is ten times denſer than water.
+                This will make the ſtrength 243 inſtead of 210 indicated by the ſpeciſic gravity.
+                But we do not pretend to meaſure the denſities with accuracy in theſe diluted
+                brines. It is evident from the proceſs that a ſingle grain of exceſs or defect in
+                taking out the brine</p>
+            <p>and replacing it with water has a ſenſible proportion to the whole variation. But we
+                ſee with sufficient evidence, that from the ſtrong to the weak brines the ſpace left
+                for the portion oſ ſalt is continually diminiſhing. In the firſt dilution 527<hi
+                    rend="superscript">l</hi>/<hi rend="subscript">2</hi> grains of water were added
+                to fill up the veſſel ; but <hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >8</hi>th of its contents of pure water is only 525 ; ſo that here is a
+                diminution of 2<hi rend="superscript">1</hi>/<hi rend="subscript">2 </hi>grains in
+                the ſpace occupied by the remaining ſalt. The ſubſequent additions are 604,7 ; 706,5
+                ; 847 ; 1054,5 ; 1405 ; 2102 ; 2105,5 ; 2102; 2102; inſtead of 600; 700; 840; 1050;
+                1400 ; 2100; 2100; 2100; 2100. Nothing can more plainly ſhow the condenſation in
+                general, though we do not learn whether it happens in one or both of the ingredients
+                ;nor do the experiments ſhow with sufficient accuracy the progreſſion of this
+                diminution. The exceſſes of the added water being only six or ſeven grains, we
+                cannot expect a nice repartition. When the brine is taken out, the upper part of the
+                veſſel remains lined with a briny film containing a portion of ſalt and water,
+                perhaps equal or ſuperior to the differences. Had our time permitted, we ſhould have
+                examined this matter with ſcrupulous attention, uſing a veſſel with a ſtill narrower
+                neck, and in each dilution abſtracting one half of the brine. The curve whoſe
+                abſciſſae and ordinates repreſent the weight of the contained ſalt and the weight of
+                a conſtant bulk of the brine, exhibits the beſt and moſt ſynoptical view of the law
+                of condenſation, becauſe the poſition of the tangent in any point, or the</p>
+            <p>value of the ſymbol <hi rend="superscript">x</hi>/<hi rend="subscript">y</hi>, always
+                ſhows the rate at which</p>
+            <p>the ſpecific gravity increaſes or diminiſhes. We are inclined to think that the curve
+                in all caſes is of the hyperbolic kind, and complete ; that is, having the tangent
+                perpendicular to the axis at the beginning of the curve. The mathematical reader
+                will eaſily gueſs the phyſical notions which incline us to this opinion ; and will
+                alſo ſee that it is hardly poſſible to diſcover this experimentally, becauſe the
+                miſtake of a ſingle grain in the very ſmall ordinates will change the poſition of
+                the tangent many degrees. It was for this reaſon that we thought it uſeleſs to
+                proſecute the dilution any farther. But we think that it may be proſecuted much
+                farther in Dr Watſon's or Mr Achard’s method, viz. by diſſolving equal weights of
+                ſalt in two veſſels, of very different capacities, having tubular necks, in which
+                the change of bulk may be very accurately obſerved. We can only conclude, that the
+                condenſation is greateſt in the ſtrongeſt brines, and probably attains its maximum
+                when the quantities of true ſaline matter and water are nearly equal, as in the,
+                caſe of vitriolic acid, &amp;c.</p>
+            <p>We conſider theſe experiments as abundantly ſufficient for deciding the queſtion “
+                Whether the ſalt can be received into the pores of the water, or the water into the
+                pores of the ſalt, ſo as to increaſe its weight without increaſing its bulk?" and we
+                muſt grant that it may. We do not mean that it is simply lodged in the pores as sand
+                is lodged in the interſtices of ſmall ſhot ; but the two together occupy leſs room
+                than when ſeparate. The experiments of Mr Achard were insufficient for a decision,
+                becauſe made on ſo ſmall a quantity as 600 grains of water. Dr Watſon’s experiments
+                have, for the moſt part, the ſame defect. Some of them, however, are of great value
+                in this queſtion, and are very fit for aſcer-</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:22:10Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>The following table will exhibit at a glance the funds, eſtabliſhment, and
+                expenditure, of the ſociety, from a few years after its commencement to the preſent
+                time. Where the number of ſcholars is not mentioned, the defect may be ſupplied by
+                taking an average from thoſe years where a computation has been made. Where the
+                capital is not mentioned, it may eaſily be made out by conſidering the ſalaries as
+                the intereſt.</p>
+            <table>
+                <row>
+                    <cell>A. D.</cell>
+                    <cell>Capital.</cell>
+                    <cell>Schools.</cell>
+                    <cell>Scholars.</cell>
+                </row>
+                <row>
+                    <cell>1713</cell>
+                    <cell> </cell>
+                    <cell>12</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1715</cell>
+                    <cell>L.6,177</cell>
+                    <cell>25</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1719</cell>
+                    <cell>8,168</cell>
+                    <cell>48</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1727</cell>
+                    <cell>9,131</cell>
+                    <cell>78</cell>
+                    <cell>2757</cell>
+                </row>
+                <row>
+                    <cell>1732</cell>
+                    <cell>13,318</cell>
+                    <cell>109</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1742</cell>
+                    <cell>19,287</cell>
+                    <cell>128</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1753</cell>
+                    <cell>24,308</cell>
+                    <cell>152</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell>1758</cell>
+                    <cell>28,413</cell>
+                    <cell>176</cell>
+                    <cell>6409</cell>
+                </row>
+                <row>
+                    <cell>1781</cell>
+                    <cell>34,000 Salaries</cell>
+                    <cell>180</cell>
+                    <cell>7000</cell>
+                </row>
+                <row>
+                    <cell>1793</cell>
+                    <cell>3,080</cell>
+                    <cell>307</cell>
+                    <cell>12,913</cell>
+                </row>
+                <row>
+                    <cell>1794</cell>
+                    <cell>3214</cell>
+                    <cell>323</cell>
+                    <cell>14,370</cell>
+                </row>
+            </table>
+            <p>Hitherto we have taken no notice of the correſponding board which was eſtabliſhed at
+                London ſo early as the year 1729, to receive ſubſcriptions and lay out firms. That
+                board indeed remained long inactive ; but in 1773 its members began to co-operate
+                more cordially with their brethren in Scotland. Since that period an annual ſermon
+                has been preached in recommendation of the charity ; and the preacher is now
+                ſelected without any regard to the religious denomination to which he belongs ;
+                ſometimes from the church of England, ſometimes from the church of Scotland, and
+                ſometimes from ſectaries of different perſuaſions. The meetings of the correſpondent
+                board have been attended by many of the nobility and gentry, who have made great
+                exertions to promote the views of the ſociety. From its preſent flouriſhing ſtate
+                therefore, from the indefatigable exertion and laudable zeal of the managers, and
+                from the countenance and ſupport which they have received from perſons of the firſt
+                rank and reſpectability in the nation, the benevolent mind may look forward with
+                much confidence and ſatisfaction to a period not very diſtant, when its beneficial
+                effects ſhall be felt not only in the Highlands, but ſhall be communicated to the
+                reſt of the nation. We have been thus particular in our account of the Society for
+                Propagating Chriſtian Knowledge, becauſe we have had acceſs to the moſt authentic
+                ſources of information, and becauſe we know it to be an inſtitution calculated to
+                enlighten and improve a conſiderable part of the Britiſh nation.</p>
+            <p>3. <hi rend="italic">Society of the Sons of the Clergy,</hi> was incorporated by King
+                Charles II. in 1678, by the name of <hi rend="italic">The Governors of the Charity
+                    for Relief of the Poor Widows and Children of Clergymen.</hi> This ſociety is
+                under the direction and management of a preſident and vice-preſident, three
+                treaſurers, and a court of aſſiſtants compoſed of forty members. Several hundreds of
+                widows and chil</p>
+            <p>dren of the clergy have annually received conſiderable relief from this uſeful
+                charity.</p>
+            <p>4. <hi rend="italic">Society for the Sons of the Clergy of the Establiſhed Church of
+                    Scotland,</hi> was inſtituted at Edinburgh in February 1790, and was conſtituted
+                a body corporate by his majesty’s royal charter in 1792. The ſociety, after ſeveral
+                meetings, are of opinion, that the period in which the families of clergymen feel
+                moſt urgently the need both of friends and of pecuniary aid, is that which commences
+                with the introduction of the ſons either to an univerſity or to buſineſs, and
+                terminates with their eſtabliſhment in their reſpective profeſſions ; that many of
+                the miniſters of this church, living at great diſtances from the ſeats either of
+                univerſities or of buſineſs, posseſs incomes which, in the preſent ſtate of the
+                country, are inadequate to the purpoſes of procuring for their ſons either the
+                literary or profeſſional education which might enable them to come forward' with
+                credit end ſucceſs in the world ; that the ſons of clergymen, from domeſtic tuition
+                and example, have in genetal very advantageous means of receiving in their early
+                years the impreſſions of virtue and honour, together with the rudiments of liberal
+                knowledge ; and that of courſe the public intereſt may be promoted, by enabling this
+                class of young men to obtain their ſhare in the reſpectable ſituations of life. The
+                views of the ſociety have been limited to the ſons only of clergymen ; as they are
+                of opinion, that within the limits which they have fixed, the field of beneficence
+                will be ſtill very extenſive, and the claims for aid as many and as great as their
+                funds can be ſuppoſed able to anſwer, at leaſt for many years to come. If the
+                ſociety ſhall ever be in a ſituation to undertake more than the aids which will·be
+                necessary in bringing forward the ſons of the clergy, it may then be conſidered in
+                what manner the daughters alſo may become ſharers in its bounty.</p>
+            <p>5. <hi rend="italic">Royal Humane Society,</hi> was inſtituted in London in 1774, for
+                the recovery of perſons drowned or otherwiſe ſuffocated. We have already given ſome
+                account of societies inſtituted in other countries with the ſame views, and have
+                alſo copied the directions of this ſociety for the recovery of life, for which ſee
+                the article <hi rend="smallcaps">Drowning.</hi> We have therefore only to ſtate,
+                that the plan of this ſociety is ſo adverſe to any private intereſted views, that it
+                acquits its founders of all ſordid motives. For the medical practitioners accept no
+                pecuniary recompenſe for the time which they devote to a difficult and tedious
+                proceſs ; for the anxiety which they feel while the event is doubtful ; for the
+                mortification which they too often undergo, when death, in ſpite of all their
+                efforts, at laſt carries off his prey ; nor for the inſults to which they willingly
+                expoſe themſelves from vulgar incredulity. Their ſole reward is in the holy joy of
+                doing good. Of an inſtitution thus free in its origin from the ſuſpicion of
+                ambitious views, and in its plan renouncing ſelf-intereſt in every ſhape,
+                philanthropy muſt be the only baſis. The good intention therefore of the ſociety is
+                proved by its conſtitution ;</p>
+ 
+        </body>
+    </text>
+</TEI>

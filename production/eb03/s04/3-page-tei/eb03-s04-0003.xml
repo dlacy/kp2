@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:19:01Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Theſe ſevere winters are rapidly ſuceeeded by ſummers, in which the heat is ſo
+                intenſe that the Tunguſians, who live in the province of Jakutſk, go almoſt naked.
+                Here is ſcarcely any night during that ſeaſon ; and towards the Frozen Ocean the ſun
+                appears continually above the horizon. The vegetables and fruits of the earth are
+                here extremely quick in their growth.</p>
+            <p>The whole track of land beyond the 60th degree of north latitude is a barren waſte ;
+                for the north part of Siberia yields neither corn nor fruits ; though barley is
+                known frequently to come to perfection in Jakutſk.— For this reaſon, the inhabitants
+                of the northern parts are obliged to live on fiſh and fleſh, but the Russians are
+                ſupplied with corn from the ſouthern parts of Siberia, where the soil is
+                ſurpriſingly fertile. The countries beyond the lake of Baikal, especially towards
+                the eaſt, as far as the river Argun, are remarkably fruitful and pleaſant ; but ſuch
+                is the indolence of the inhabitants, that ſeveral fine tracts of land, which would
+                make ample returns to the peaſant for cultivating them, lie neglected. The paſtures
+                are excellent in this country, which abounds in fine horned cattle, horses, goats,
+                &amp;c. on which the Tartars chiefly depend for ſubſiſtence. How</p>
+            <p>ever, there are ſeveral ſteppes, or barren waſtes, and unimprovable tracts in theſe
+                parts ; and not a single fruit tree is to be ſeen. There is great variety of
+                vegetables, and in ſeveral places, particularly near Kraſnaia Sloboda, the ground is
+                in a manner overrun with aſparagus of an extraordinary height and delicious flavour.
+                The bulbs of the Turkiſh bundes, and other forts of lilies, are much uſed by the
+                Tartars inſtead of bread. This want of fruit and corn is richly compenſated by the
+                great quantities of wild and tame beaſts, and fowls, and the infinite variety of
+                fine fiſh which the country affords @@<hi rend="smallcaps">(b.)</hi></p>
+            <p>In that part of Siberia which lies near the Ice Sea, as well as in ſeveral other
+                places, are woods of pine, larch, and other trees ; beſides which, a conſiderable
+                quantity of wood is thrown aſhore by the waves of the Ice Sea; but whence it comes
+                is not yet aſcertained.</p>
+            <p>Beſides the wild fowl with which Siberia abounds, there is a prodigious number of
+                quadrupeds, ſome of which are eatable, and others valuable for their ſkins or
+                furs.</p>
+            <p>The animals moſt valued for their ſkins are the black</p>
+            <p><hi rend="smallcaps">@@@(b)</hi> The oak, though frequent in Ruſſia, it is ſaid, is
+                not to be found through this vaſt region nearer than, the banks of the Argun and
+                Amur, in the dominions of China. The white poplar, the aspen, the black poplar, the
+                common ſallow, and ſeveral ſpecies of the willow, are very common. The Norway and
+                ſilver fir form great foreſts ; but the former does not grow beyond the 60th degree
+                of north latitude, and the latter not beyond 5.8 degrees. To this dreary region of
+                Siberia, Europe is indebted for that excellent ſpecies of oats called Av<hi
+                    rend="italic">ena Sibirica,</hi> and our gardens are enlivened with the gay and
+                brilliant flowers brought from the same country.</p>
+        </body>
+    </text>
+</TEI>

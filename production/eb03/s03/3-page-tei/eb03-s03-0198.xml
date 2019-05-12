@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:35Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>vertical ſection paſſing through the keel, and dividing the ſhip into two equal and
+                similar parts, at a certain diſtance from the ſtern, and altitude above the
+                heel.</p>
+            <p>ln order to determine the centre of gravity of the immerſed part of a (hip’s bottom,
+                we muſt begin with determining the centre of gravity of a ſection of the ſhip
+                parallel to the keel, as ANDFPB (fig. 56.), bounded by the parallel lines AB, DF,
+                and by the equal and ſimilar curves AND, BPF.</p>
+            <p>If the equation of this curve were known, its centre of gravity would be eaſily found
+                : but as this is not the case, let therefore the line CE be drawn through the middle
+                C, E, of the lines AB, DF, and let this line CE be divided into ſo great a number of
+                equal parts by the perpendiculars TH, KM, &amp;c. that the arches of the curves
+                contained between the extremities of any two adjacent perpendiculars may be
+                conſidered as ſtraight lines. The momentums of the trapeziums DTHF, TKMH, &amp;c.
+                relative to the point E, are then to be found, and the ſum of theſe momentums is to
+                be divided by the ſum of the trapeziums, that is, by the ſurface ANDFPB.</p>
+            <p>The diſtance of the centre of gravity of the trapezium THFD from the point E is = <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">3</hi> IE x DF+2TH DF+TH @@*. For
+                the ſame reaſon, and becauſe of the equality of the lines IE, IL, the diſtance of
+                the centre of gravity of the trapezium TKMH from the ſame point E will be <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">3</hi>IE×(TH+2 KM) <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">3</hi>IE ×(4TH+5KM)</p>
+            <p>TH + KM +IE, or = TH+KM^∙ In like manner, the diſtance of the centre of gravity of
+                the trapezium NKMP from the point E will be <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">3</hi>IE×(KM+2NP) + 2IE×(<hi rend="subscript">7</hi>KM<hi
+                    rend="subscript">+</hi>8NP) KM+NP KM+NP &amp;c.</p>
+            <p>Now, if each diſtance be multiplied by the ſurface of the correſponding trapezium,
+                that is, by the product of half the ſum of the two oppoſite ſides of the trapezium
+                into the common altitude IE, we ſhall have the momentums of theſe trapeziums,
+                namely, <hi rend="superscript">1</hi>/<hi rend="subscript">6</hi> IE<hi
+                    rend="superscript">2</hi>×(DF+2TH), <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">6</hi> IE<hi rend="superscript">2</hi> × (4 TH + 5KM) <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">6</hi> IE<hi rend="superscript"
+                    >2</hi> X (7 KM + 8NP), &amp;c. Hence the ſum of theſe momentums will be <hi
+                    rend="superscript">1</hi>/<hi rend="subscript">6</hi> IE<hi rend="superscript"
+                    >2</hi>× (DF+6TH+12 KM + 18 NP+24QS+14 AB). Whence it may be remarked, that if
+                the line CE be divided into a great number of equal parts, the factor or coefficient
+                of the laſt term, which is here 14, will be = 2 + 3 (n—2) or 3 <hi rend="italic"
+                    >n—</hi>4, <hi rend="italic">n</hi> being the number of perpendiculars. Thus the
+                general expreſſion of the ſum of the momentums is reduced to IE x (<hi
+                    rend="superscript">1</hi>/<hi rend="subscript">6</hi> DF + TH + 2 KM + 3 NP + 4
+                QS +, &amp;c. —+ 3n-4 × AB).</p>
+            <p>The area of the figure ANDFPB is equal to IE × (4 DF + TH + KM + N P +, &amp;c... .+
+                4AB) ; hence the diſtance EG of the centre of gravity G from one of the extreme
+                ordinates DF is equal to IE × (<hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >6</hi>DF+TH+2 KM+3 NP+, &amp;c.+3n-4 AB)</p>
+            <p><hi rend="italic">6</hi></p>
+            <p> 4 DF + IH+KM + NP+, &amp;c. + <hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >2</hi> AB </p>
+            <p>Whence the following rule to find the diſtance of the centre of gravity G from one of
+                the extreme ordinates DF. To the ſixth of the firſt ordinate add the sixth of the
+                laſt ordinate multiplied by three times the number of ordinates minus four ; then
+                the ſecond ordinate, twice the third, three times the fourth, &amp;c. the ſum will
+                be a firſt term. Then to half the ſum oſ the extreme ordinates add all the
+                intermediate ones, and the ſum will be a second term. Now the firſt term divided by
+                the second, and the quotient multiplied by the interval between two adjacent
+                perpendiculars, will be the diſtance ſought.</p>
+            <p>Thus, let there be seven perpendiculars, whoſe values are 18, 23, 28, 30, 30, 21, 0,
+                feet respectively, and the common interval between theſe perpendiculars. 20 feet.
+                Now the ſixth of the firſt term 18 is 3 ; and as the laſt term is 0, therefore to 3
+                add 23, twice 28 or 56, thrice 30 or 90, four times 30 or 120, five times 21 or <hi
+                    rend="italic">105</hi> ; and the ſum is 397. Then to the half of 18 + 0, or 9,
+                add the intermediate ordinates, and the ſum will be 141. Now 397 x 20, or 7940, = 59
+                feet</p>
+            <p><hi rend="subscript"> 141 or</hi> 141</p>
+            <p>4 inches nearly, the diſtance of the centre of gravity from the firſt ordinate.</p>
+            <p>Now, when the centre of gravity of any ſection is. determined, it is easy from thence
+                to find the centre of gravity of the ſolid, and conſequently that of the bottom of a
+                ſhip.</p>
+            <p>The next ſtep is to find the height of the centre of gravity of the bottom above the
+                keel. For this purpoſe the bottom muſt be imagined to be divided into ſections by
+                planes parallel to the keel or water-line, (figs. 37, 58.) Then the solidity of each
+                portion contained between two parallel planes will be equal to half the ſum of the
+                two oppoſed ſurfaces multiplied by the diſtance between them ; and its centre of
+                gravity will be at the ſame altitude as that of the trapezium <hi rend="italic"
+                    >abcd,</hi> (fig. 58.), which is in the vertical ſection paſſing through the
+                keel. It is hence obvious, that the ſame rule as before is to be applied to find the
+                altitude of the centre of gravity, with this difference only, that the word
+                perpendicular or ordinate is to be changed into ſection. Hence the rule is, to the
+                ſixth part of the loweſt ſection add the product of the ſixth part of the uppermoſt
+                ſection by three times the number of ſections minus four ; the second ſection in
+                aſcending twice the third, three times the fourth, &amp;c. the ſum will be a firſt
+                term. To half the ſum of upper and lower ſections add the intermediate ones, the ſum
+                will be a second term. Divide the firſt term by the second, and the quotient
+                multiplied by the diſtance between the ſections will give the altitude of the centre
+                of gravity above the keel.</p>
+            <p>With regard to the centre of gravity of a ſhip, whether it is conſidered as loaded or
+                light, the operation becomes more difficult. The momentum of every different part of
+                the ſhip and cargo muſt be found ſeparately with reſpect to a horizontal and alſo a
+                vertical: plane. Now the ſums of theſe two momentums being divided by the weight of
+                the ſhip, will give the altitude of the centre of gravity, and its diſtance from the
+                vertical plane ; and as this centre is in a vertical plane paſſing through the axis
+                of the keel, its place is therefore determined. In the calculation of the momentums,
+                it muſt be obſerved to multiply the weight, and not the magnitude of each piece, by
+                the diſtance of its centre of gravity.</p>
+            <p>A more eaſy method of finding the centre of gravity of a ſhip is by a mechanical
+                operation, as follows; Conſtruct</p>
+            <p>***[m] <hi rend="italic">Brand's Mechanique,</hi> ar. 279.</p>
+        </body>
+    </text>
+</TEI>

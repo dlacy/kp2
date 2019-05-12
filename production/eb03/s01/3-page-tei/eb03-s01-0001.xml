@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-14T17:46:02Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SS, ſ, or s, the 18th letter and 14th conſonant of our alphabet; the found of which is
+                formed by driving the breath through a narrow paſſage between the palate and the
+                tongue elevated near it, together with a motion of the lower jaw and teeth towards
+                the upper, the lips being a little way open; with ſuch a configuration of every part
+                of the mouth and larynx, as renders the voice ſomewhat ſibilous and hiſſing. Its
+                found, however, varies; being ſtrong in ſome words, as this, thus, &amp;c. and ſoft
+                in words which have a final e, as muſe, wiſe, &amp;c. It is generally doubled at the
+                end of words, whereby they become hard and harſh, as in kiſs, loss, &amp;c. In ſome
+                words it is ſilent, as iſle, iſland, viſcount, &amp;c. In writing or printing, the
+                long character ſ is generally uſed at the beginning and middle of words, but the
+                ſhort s at the end.</p>
+            <p>In abbreviations, S ſtands for <hi rend="italic">ſocietas</hi> or <hi rend="italic"
+                    >ſocius;</hi> as,</p>
+            <p>R. S. S. for <hi rend="italic">regiae ſoc'etatis ſocius, i. e. </hi>fellow of the
+                royal ſociety. In medicinal preſcriptions, S. A. ſignifies <hi rend="italic"
+                    >ſecundum artem,</hi> i. e. according to the rules of art: And in the notes of
+                the ancients, S ſtands for <hi rend="italic">Sextus;</hi></p>
+            <p>S. P. for <hi rend="italic">Spurius;</hi> S. C. <hi rend="italic">for ſenatus
+                    conſultum;</hi> S. P. Q. R. <hi rend="italic">for ſenatus populuſque
+                    Romanus;</hi> S. S. S. <hi rend="italic">for ſtratum ſu- per ſtratum,</hi> i. e.
+                one layer above another alternately; S. V. B. E. E. Q. V. for <hi rend="italic">ſi
+                    vales bene eſt, ego quoque valeo, </hi>a form uſed in Cicero’s time, in the
+                beginning of letters. Uſed as a numeral, S anciently denoted ſeven; in the Italian
+                inuſic, S ſignifies <hi rend="italic">ſolo:</hi> And in books of navigation, S.
+                ſtands for ſouth; S. E. for ſouth-eaſt; S. W. for ſouth-weſt; S. S. E. for ſouth
+                ſouth-eaſt; S. S. W for ſouth ſouth-weſt &amp;c.</p>
+            <p>SAAVEDRA (Michael de Cervantes), a celebrated Spaniſh writer, and the inimitable
+                author of Don. Quixote, was born at Madrid in the year 1549. From</p>
+        </body>
+    </text>
+</TEI>

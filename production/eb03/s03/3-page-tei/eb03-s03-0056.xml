@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:03:07Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <sp>
+                <l>O impotence of sight ! mechanic ſenſe,</l>
+                <l>Which to exterior objects ow’ſt thy faculty,</l>
+                <l>Not ſeeing of election, but neceſſity.</l>
+                <l>Thus do our eyes, as do all common mirrors,</l>
+                <l>Succeſſively reflect ſucceeding images.</l>
+                <l>Nor what they would, but muſt ; a ſtar or toad ;</l>
+                <l>Juſt as the hand of chance adminiſters !</l>
+            </sp>
+            <bibl><title>Mourning Bride</title>, ad 2. sc. 8.</bibl>
+            <p>No man, in his ſenſes, ever thought of applying his eyes to diſcover what passes in
+                his mind ; far leſs of blaming his eyes for not ſeeing a thought or idea. In
+                        <bibl><author>Moliere</author>’s <title>l'Avare</title> (act iv. ſc.
+                    7.)</bibl> Harpagon, being robbed of his money, ſeizes himſelf by the arm,
+                miſtaking it for that of the robber. And again he expreſſes himſelf as follows :</p>
+            <sp>
+                <p>Je veux aller querir la justice, et faire donner la question a toute ma maison ;
+                    à servantes, à valets, à fils, à fille, et à moi auſſi.</p>
+            </sp>
+            <p>This is ſo abſurd as ſcarce to provoke a ſmile, if it be not at the author.</p>
+            <p>Of the second branch the following example may fuſſice :</p>
+            <sp>
+                <l>—Now bid me run,</l>
+                <l>And I will ſtrive with things <hi rend="italic">impossible,</hi></l>
+                <l>Yea, get the better of them.</l>
+            </sp>
+            <bibl><title>Julius Caesar</title>, act 2. ſc. 3.</bibl>
+            <p>Of the third branch, take the following ſamples. Lucan, talking of Pompey’s
+                ſepulchre,</p>
+            <sp>
+                <l>—Romanum nomen, et omne</l>
+                <l>Imperium magno est tumuli modus. Obrue saxa</l>
+                <l>Crimine plena deûm. Si tota eſt Herculis Oete,</l>
+                <l>Et juga tota vacant Bromio Nyseia ; quare</l>
+                <l>Unus in Egypto Magno lapis ? Omnia Lagi</l>
+                <l>Rura tenere potest, si nullo cespite nomen</l>
+                <l>Hæserit. Erremus populi, cinerumque tuorum,</l>
+                <l>Magne, metu nullas Nili calcemus arenas.</l>
+            </sp>
+            <bibl>L. viii. l. 798.</bibl>
+            <p>Thus, in Rowe’s tranſlation :</p>
+            <sp>
+                <l>Where there are ſeas, or air, or earth, or ſkies,</l>
+                <l>Where’er Rome’s empire ſtretches, Pompey lies.</l>
+                <l>Far be the vile memorial then convey'd !</l>
+                <l>Nor let this ſtone the partial gods upbraid.</l>
+                <l>Shall Hercules all Oeta's heights demand,</l>
+                <l>And Nyſa’s hill for Bacchus only ſtand ;</l>
+                <l>While one poor pebble is the warrior's doom</l>
+                <l>That fought the cauſe of liberty and Rome?</l>
+                <l>If Fate decrees he muſt in Egypt lie,</l>
+                <l>Let the whole fertile realm his grave ſupply,</l>
+                <l>Yield the wide country to his awful ſhade, </l>
+                <l>Nor let us dare on any part to tread, </l>
+                <l>Fearful we violate the mighty dead. </l>
+            </sp>
+            <p>The following paſſages are pure rant. Coriolanus, speaking to his mother,</p>
+            <sp>
+                <l>What is this?</l>
+                <l>Your knees to me? to your corrected ſon?</l>
+                <l>Then let the pebbles on the hungry beach</l>
+                <l>Fillop the ſtars : then let the mutinous winds</l>
+                <l>Strike the proud cedars ’gainſt the fiery ſun:</l>
+                <l>Murd’ring impoſſibility, to make</l>
+                <l>What cannot be, flight work.</l>
+            </sp>
+            <bibl><title>Cοriolanus</title>, act 5. sc. 3.</bibl>
+            <sp>
+                <speaker>Caeſar.</speaker>
+                <l>Danger knows full well,</l>
+                <l>That Caeſar is more dangerous than he.</l>
+                <l>We were two lions litter’d in one day,</l>
+                <l>And I the elder and more terrible.</l>
+            </sp>
+            <bibl><title>Julius Caesar</title>, act 2. ſc. 4.</bibl>
+            <sp>
+                <speaker>Ventidius.</speaker>
+                <l>But you, ere love milled your wand’ring eyes,</l>
+                <l>Were ſure the chief and beſt of human race,</l>
+                <l>Fram’d in the very pride and boaſt of nature,</l>
+                <l>So perfect, that the gods who form’d you wonder’d</l>
+                <l>At their own ſkill, and cry’d, A lucky hit</l>
+                <l>Has mended our deſign.</l>
+            </sp>
+            <bibl><author>Dryden</author>, <title>All for Love</title>, act 1.</bibl>
+            <p>Not to talk of the impiety of this ſentiment, it is ludicrous inſtead of being
+                lofty.</p>
+            <p>The famous <bibl>epitaph on Raphael</bibl> is not leſs abſurd than any of the
+                foregoing paſſages :</p>
+            <lg>
+                <l>Raphael, timuit, quo ſoſpite, vinci,</l>
+                <l>Rerum magna parens, et moriente mori.</l>
+            </lg>
+            <p>Initiated by Pope, in his epitaph on Sir Godfrey Kneller:</p>
+            <lg>
+                <l>Living, great Nature fear’d he might outvie</l>
+                <l>Her works ; and dying, fears herself may die.</l>
+            </lg>
+            <p>Such is the force of imitation; for Pope of himſelf would never have been guilty of a
+                thought ſo extravagant.</p>
+            <p><hi rend="smallcaps">SENTINEL, or Sentry,</hi> in military affairs, a private soldier
+                placed in ſome poſt to watch the approach of the enemy, to prevent ſurpriſes, to
+                ſtop ſuch as would paſs without orders or diſcovering who they are. They are placed
+                before the arms of all guards at the tents and doors of general officers, colonels
+                of regiments, &amp;c.</p>
+            <p><hi rend="smallcaps">SENTINEL </hi><hi rend="italic">Perdu,</hi> a ſoldier poſted
+                near an enemy, or in ſome very dangerous poſt where he is in hazard of being
+                lost.</p>
+            <p>All ſentmels are to be vigilant on their poſts ; neither are they to sing, ſmoke
+                tobacco, nor ſuffer any noiſe to be made near them. They are to have a watchful eye
+                over the things committed to their charge. They are not to ſuffer any light to
+                remain, or any fire to be made, near their poſts in the night-time ; neither is any
+                sentry to be relieved or removed from his poſt but by the corpora of the guard. They
+                are not to suffer any one to touch or handle their arms, or in the night-time to
+                come within ten yards of their poſt.</p>
+            <p>No perſon is to strike or abuſe a ſentry on his poſt; but when he has committed a
+                crime, he is to be relieved, and then puniſhed according to the rules and articles
+                of war.</p>
+            <p>A ſentinel, on his poſt in the night, is to know nobody but by the counter-sign :
+                when he challenges, and is anſwered, <hi rend="italic">Relief,</hi> he calls out,
+                    <hi rend="italic">Stand, relief ! advance, corporal !</hi> upon which the
+                corporal halts his men, and advances alone within a yard of the ſentry’s firelock
+                (firſt ordering his party to reft, on which the sentry does the ſame), and gives him
+                the countersign, taking care that no one hear it.</p>
+            <p>SEPIA, the <hi rend="smallcaps">Cuttle-fish,</hi> a genus belonging to the order of
+                vermes moluſca. There are eight brachia interſperſed on the interior side, with
+                little round ſerrated cups, by the contraction of which the animal lays faſt hold of
+                any thing. Besides theſe eight arms,</p>
+        </body>
+    </text>
+</TEI>

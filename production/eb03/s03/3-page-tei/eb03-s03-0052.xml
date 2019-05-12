@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:03:01Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>The following paſſage expreſſes finely the progreſs of conviction.</p>
+            <sp>
+                <l>Let me not ſtir, nor breathe, lest I diſſolve</l>
+                <l>That tender, lovely form, of painted air,</l>
+                <l>So like Almeria. Ha ! it sinks, it falls ;</l>
+                <l>I’ll catch it e’er it goes, and graſp her ſhade.</l>
+                <l>’Tis life ! ’tis warm ! ’tis ſhe ! ’tis ſhe herſelf !</l>
+                <l>It is Almeria ! ’tis, it is my wife !</l>
+            </sp>
+            <bibl><title>Mourning Bride</title>, act 2. ſc. 6.</bibl>
+            <p>In the progreſs of thought our reſolutions become more vigorous as well as our
+                paſſions.</p>
+            <sp>
+                <l>If ever I do yield or give conſent,</l>
+                <l>By any action, word, or thought, to wed</l>
+                <l>Another lord; may then just heav’n ſhow’r down, &amp;c.</l>
+            </sp>
+            <bibl><title>Mourning Bride</title>, act 1. ſc. 1.</bibl>
+            <p>And this leads to a ſecond obſervation, That the different ſtages of a paſſion, and
+                its different directions, from birth to extinction, muſt be carefully repreſented in
+                their order ; becauſe otherwise the ſentiments, by being misplaced, will appear
+                forced and unnatural. — Reſentment, for example, when provoked by an atrocious
+                injury, diſcharges itſelf ſirſt upon the author : ſentiments therefore of revenge
+                come always ſirſt, and muſt in ſome meaſure be exhauſted before the perſon injured
+                think of grieving for himſelf. In the Cid of Corneille, Don Diegue having been
+                affronted in a cruel manner, expreſſes ſcarce any ſentiment of revenge, but is
+                totally occupied in contemplating the low ſituation to which he is reduced by the
+                affront :</p>
+            <sp>
+                <l>O rage ! ô deſeſpoir ! ô vieilleſſe ennemie !</l>
+                <l>N’ai-je donc tant vecu que pour cette infamie?</l>
+                <l>Et ne suis-je blanchi dans les travaux guerriers,</l>
+                <l>Que pour voir en un jour fletrir tant de lauriers ?</l>
+                <l>Mon bras, qu’avec respect tout l’Espagne admire,</l>
+                <l>Mon bras qui tant de fois a fauve cet empire,</l>
+                <l>Tant de fois affermi le trône de son roi,</l>
+                <l>Trahit donc ma querelle, et ne fait rien pour moi !</l>
+                <l>O cruel souvenir de ma gloire passé !</l>
+                <l>Oeuvre de tant de jours en un jour effacée !</l>
+                <l>Nouvelle dignité fatale a mon bonheur !</l>
+                <l>Precipice élevé d’où tombe mon honneur !</l>
+                <l>Faut-il de votre éclat voir triompher le comte,</l>
+                <l>Et mourir fans vengeance, ou vivre dans la honte ? Comte, fois de mon prince à
+                    present gouverneur,</l>
+                <l>Ce haut rang n’admet point un homme fans honneur ; Et ton jaloux orgueil par cet
+                    affront insigne,</l>
+                <l>Malgré le choix du roi, m’en a sû rendre indigne.</l>
+                <l>Et toi, de mes exploits glorieux instrument,</l>
+                <l>Mais d’un corps tout de glace inutile ornement,</l>
+                <l>Fer jadis tant à craindre, et qui dans cette offense,</l>
+                <l>M ’as fervi de parade, et non pas de defense,</l>
+                <l>Va, quitte déformais le dernier des humains,</l>
+                <l>Paffe pour me venger en de meilleures mains.</l>
+            </sp>
+            <bibl><title>Le Cid</title>, act 1. ſc. 7.</bibl>
+            <p>Theſe ſentiments are certainly not the firſt that are ſuggeſted by the paſſion of
+                reſentment. As the firſt movements of reſentment are always directed to its object,
+                the very ſame is the caſe of grief. Yet with relation to the hidden and ſevere
+                diſtemper that ſeized Alexander bathing in the river Cydnus, Quintus Curtius
+                deſcribes the firſt emotions of the army as directed to themſelves, lamenting that
+                they were left without a leader, far. from home, and had ſcarce any hopes of
+                returning in ſafety : their king’s diſtreſs, which muſt naturally have been their
+                firſt concern, occupies them but in the ſecond place according to that author. In
+                the Aminta of Taſſo, Sylvia, upon a report of her lover’s death, which ſhe believed
+                certain, inſtead of bemoaning the loss of her beloved, turns her thoughts upon
+                herself, and wonders her heart does not break :</p>
+            <sp>
+                <l>Ohime, ben ſon di ſaſſo,</l>
+                <l>Poi che queſta novella non m’uccide.</l>
+            </sp>
+            <bibl>Act. 4. ſc. 2.</bibl>
+            <p>In the tragedy of Jane Shore, Alicia, in the full purpoſe of deſtroying her rival,
+                has the following reflection:</p>
+            <sp>
+                <l>Oh Jealouſy ! thou bane of pleaſing friendſhip,</l>
+                <l>Thou worſt invader of our tender boſoms ;</l>
+                <l>How does thy rancour poiſon all our ſoftneſs,</l>
+                <l>And turn our gentle nature into bitterneſs !</l>
+                <l>See where ſhe comes ! Once my heart’s deareſt bleſſing,</l>
+                <l>Now my chang’d eyes are blaſted with her beauty,</l>
+                <l>Loathe that known face, and sicken to behold her.</l>
+            </sp>
+            <bibl>Act 3. sc. 1.</bibl>
+            <p>Theſe are the reflections of a cool ſpectator. A paſſion, while it has the aſcendant,
+                and is freely indulged, suggeſts not to the person who feels it any ſentiment to its
+                own prejudice : reflections like the foregoing occur not readily till the paſſion
+                has ſpent its vigour.</p>
+            <p>A perſon ſometimes is agitated at once by different paſſions ; and the mind in that
+                caſe, vibrating like a pendulum, vents itſelf in ſentiments that partake of the ſame
+                vibration. This we give as a third obſervation:</p>
+            <sp>
+                <speaker>Queen.</speaker>
+                <l>Would I had never trod this Engliſh earth,</l>
+                <l>Or felt the flatteries that grow upon it !</l>
+                <l>Ye’ve angels faces, but heav’n knows your hearts.</l>
+                <l>What ſhall become of me now ? wretched lady !</l>
+                <l>I am the moſt unhappy woman living.</l>
+                <l>Alas ! poor wenches, where are now your fortunes ?</l>
+                <stage>[To her women.</stage>
+                <l>Shipwreck’d upon a kingdom, where no pity,</l>
+                <l>No friends, no hope, no kindred, weep for me ?.</l>
+                <l>Almoſt no grave allow’d me.</l>
+            </sp>
+            <bibl><title>Henry VIII</title>. act 3. sc. 1.</bibl>
+            <sp>
+                <speaker>Othello.</speaker>
+                <l>Oh devil, devil !</l>
+                <l>If that the earth could teem with woman’s tears,</l>
+                <l>Each drop ſhe falls would prove a crocodile.</l>
+                <l>Out of my ſight !</l>
+            </sp>
+            <sp>
+                <speaker>Desdemona.</speaker>
+                <l>I will not ſtay t’offend you. <stage>[Going.</stage></l>
+            </sp>
+            <sp>
+                <speaker>Lodovico.</speaker>
+                <l>Truly, an obedient lady:</l>
+                <l>I do beseech your lordſhip, call her back.</l>
+            </sp>
+            <sp>
+                <speaker>Oth.</speaker>
+                <l>Miſtress- </l>
+            </sp>
+            <sp>
+                <speaker>Des.</speaker>
+                <l>My lord.</l>
+            </sp>
+            <sp>
+                <speaker>Oth.</speaker>
+                <l>What would you with her, Sir ?</l>
+            </sp>
+            <sp>
+                <speaker>Lod.</speaker>
+                <l>Who, I, my lord ?</l>
+            </sp>
+            <sp>
+                <speaker>Oth.</speaker>
+                <l>Ay; you did wiſh that I would make her turn.</l>
+                <l>Sir, ſhe can turn and turn, and yet go on ;</l>
+                <l>And turn again. And ſhe can weep, Sir, weep ;</l>
+                <l>And ſhe’s obedient : as you ſay, obedient :</l>
+                <l>Very obedient—proceed you in your tears— </l>
+                <l>Concerning this, Sir,— oh well painted paſſion !—</l>
+                <l>I am commanded home—get you away,</l>
+                <l>I’ll ſend for you anon—Sir, I obey the mandate,</l>
+                <l>And will return to Venice. Hence, avaunt !</l>
+            </sp>
+            <p><stage>[Exit Deſdemona</stage></p>
+            <bibl><title>Othello</title>, act 4. ſc. 6.</bibl>
+        </body>
+    </text>
+</TEI>

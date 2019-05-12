@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:42Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>of the poſt, and CF equal to half that of the ſtem, and from the points A, E, F, B,
+                draw lines parallel to CD. Make AG, BG each equal to 14 feet, the height at the main
+                frame, and draw the line GG parallel to AB. Make GH, GH each equal to half a foot,
+                the difference between the main and top timber half breadths. From A and B ſet up
+                the heights of the lower and upper breadth lines to I and K, and draw the ſtraight
+                lines IK, IK. Let CL be the rising at the main frame, and ⊕, ⊕ the extremities of
+                the floor timber. Henca, as there are now five points determined in each half of the
+                main frame, it may be very eaſily deſcribed.</p>
+            <p>Make CM equal to L⊕, join M⊕, and draw the other ribbands NO, PQ. In order, however,
+                to simplify this operation, the rectilineal diſtance ⊕I was triſected, and through
+                the points of diviſion the lines NO, PQ were drawn parallel to the floor ribband
+                M⊕.</p>
+            <p>Take the diſtance <hi rend="italic">bc</hi> (fig. 30.), and lay it off from F to
+                (fig. 32.); alſo make Fb (fig. 32.) equal to Fu (fig. 30.) ; through <hi
+                    rend="italic">b</hi> draw <hi rend="italic">b c</hi> parallel to AB, and equal
+                to FR (fig. 31). In like manner take the heights of each top-timber from fig. 30.
+                and lay them off from C towards D (fig. 32) ; through theſe points draw lines
+                parallel to AB, and make them equal each to each, to the correſponding half breadth
+                lines taken from the floor plan: Then through the ſeveral points <hi rend="italic"
+                    >a, c,</hi> &amp;c thus found, draw a line a <hi rend="italic">c</hi> H, which
+                will be the projection of the top-timber line of the fore body in the body plan.
+                Proceed in the ſame manner to find the top-timber line in the after body.</p>
+            <p>Transfer the height of the main breadth line on the ſtem bl (fig. 30.) from F to d
+                (fig. 32). Transfer alſo the heights of the lower and upper breadth lines at timber
+                F (fig. 30. ), namely, FW, FX, from F to <hi rend="italic">e and f</hi> (fig. 32.) ;
+                through which draw the parallels <hi rend="italic">eg, fh</hi> ; make them equal to
+                FS (fig. 31.), and draw the ſtraight line <hi rend="italic">g h.</hi> In this manner
+                proceed to lay down the portions of the extreme breadth at each frame, both in the
+                fore and in the after body in the body plan, and draw the upper and lower breadth
+                lines <hi rend="italic">dh</hi> K, <hi rend="italic">dg</hi> I in the fore body and
+                K i, I <hi rend="italic">i</hi> in the after body. Hence the portions of the ſeveral
+                top-timbers contained between the top-timber and main breadth lines may be eaſily
+                deſcribed. It was before remarked that their forms were partly arbitrary. The
+                midſhip top-timber has generally a hollow, the form of which is left entirely to the
+                artiſt, though in ſome ſhips, eſpecially ſmall ones, it has none. It is the common
+                practice to make a mould for this hollow, either by a ſweep or ſome other
+                contrivance, which is produced considerably above the top-timber line, in a ſtraight
+                line or very near one; The midſhip top-timber is formed by this mould, which is ſo
+                placed that it breaks in four with the back of the upper breadth ſweep. The other
+                top-timbers are formed by the ſame mould, obſerving to place it ſo that the ſtraight
+                part of it may be parallel to the ſtraight part of the midſhip timber, and moved up
+                or down, ſtill keeping it in that direction till it juſt touches the back of the
+                upper breadth ſweep. Some conſtructors begin at the after timber, after the mould is
+                made for the mid- ſhip top-timber, becauſe they think it easier to keep the ſtraight
+                part of the mould parallel to this than to the midſhip timber ; and by this means
+                the top side is kept from winding. Others, again, make a mark upon</p>
+            <p>the mould where the breadth line of the midſhip timber croſſes it, and with the ſame
+                mould they form the after timber ; this will occasion the mark that was made on the
+                mould when at the main frame to fall below the breadth line of the after timber, and
+                therefore another mark is made at the height of the breadth line at the after timber
+                ; the ſtraight part of the mould is then laid obliquely acroſs the breadth lines of
+                the top-timbers, in ſuch a manner that it may interſect the breadth line of the
+                midſhip timber at one of theſe marks and the breadth line of the after timber at the
+                other mark ; then the ſeveral interſections of the breadth lines of the timbers are
+                marked upon the mould ; which muſt now be ſo placed in forming each timber, that the
+                proper mark may be applied to its proper breadth, and it muſt be turned about ſo as
+                juſt to touch the upper breadth ſweep. Any of theſe methods may make a fair side,
+                and they may be eaſily proved by forming another intermediate half breadth line.</p>
+            <p>The remaining parts of the frames may be deſcribed by either of the methods laid down
+                in Problems IX. and X. In order, however, to illuſtrate this ſtill farther, it is
+                thought proper to ſubjoin another method of forming the intermediate frames, the
+                facility of which will recommend it.</p>
+            <p>Take FZ (fig. 30.), and lay it from F to <hi rend="italic">k</hi> (fig. 32.) ; then
+                deſeribe the lower part of the foremost frame, making it more or lets full according
+                as propoſed ; and interſecting the ribbands in the points l, m, n. Deſcribe alſo the
+                aftermoſt frame o, p, q, Make αβ (fig. 30.) equal to F <hi rend="italic">r</hi>
+                (fig. 32.), and produce it to <hi rend="italic">a</hi> (fig. 31.) ; alſo draw γδ and
+                ες (fig. 30.) equal to E <hi rend="italic">r</hi> and E J (fig. 32.) reſpectively ;
+                and produce them to <hi rend="italic">b</hi> and <hi rend="italic">c :</hi> Make F
+                e, Ff, FR (fig. 31.) equal to Ml, Nm<hi rend="italic">,</hi> Pn (fig. 32.) each to
+                each. Let alſo ⊕h, ⊕i, ⊕k, and 9l, 9 m, 9n (fig. 31,) be made equal to M⊕, NO, and
+                Mo, N <hi rend="italic">q, Pp </hi>(fig. 32 ) ; then through theſe points trace the
+                curves aenhlb<hi rend="italic">, rfimc,</hi> and <hi rend="italic">r</hi> R <hi
+                    rend="italic">k n p,</hi> and they will be the projections of the ribbands in
+                the floor plane. Now transfer the ſeveral intervals of the frames contained between
+                the middle line and the ribbands (fig. 31.) to the correſponding ribbands in the
+                body plan (fig. 32). Hence there will be five points given in each frame, namely,
+                one at the lower breadth line, one at each ribband, and one at the keel ; and
+                conſequently theſe frames may be eaſily deſcribed. In order to exemplify this, let
+                it be required to lay down the frame E in the plane of projection. Take the interval
+                En (fig. 31.), and lay it from M to <hi rend="italic">u</hi> (fig. 32). Lay off alſo
+                E <hi rend="italic">v, </hi>Ee (fig. 31.) from N to <hi rend="italic">v</hi> and
+                ſrom P to n (fig. 32 ); then through the points F, <hi rend="italic">u, v, n</hi>
+                and the lower breadth line deſcribe a curve, and it will be the repreſentation of
+                the frame E in the body plan. In like manner the other frames may be deſcribed.</p>
+            <p>The ribbands may now be transferred from the body plan to the plane of elevation, by
+                taking the ſeveral heights of the interſection of each ribband with the frames, and
+                laying them off on the correſponding frames in the floor plan ; and if the line
+                drawn through theſe points make a fair curve, it is preſumed that the curves of the
+                frames are rightly laid down in the body plan. Only one of theſe ribbands, namely,
+                the firſt, is laid down in fig. 30. Theſe curves may alſo be farther proved, by
+                drawing water lines in the plane of ele-</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,4 @@
+DICTIONARY_PROPERTIES=USE_CONFIDENCE
+notwithstanding 100
+quemcunque 100
+vatum 100
