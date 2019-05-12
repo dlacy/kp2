@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09-20-r01-0191-01"
+                facs="encyclopediabrit20newyrich_raw_0209.jp2" type="entry">
+
+               <p>                   <label>RĀBĀ</label>
+                    <hi rend="smallcaps">(Rōbō)—</hi>
+                    <hi rend="italic">i.e.,</hi>
+                    <hi rend="smallcaps">Rab Ābā b. Yoseph b. Hāmā</hi> (Hōmō)—was, like his teacher
+                    Rabbāh and his fellow-pupil Abayye, a scion of the house of Eli, on whom rested
+                    the double curse of poverty and that none of them should reach old age (1 Sam.
+                    ii. 31-36). According to T. B., <hi rend="italic">Rosh Hasshanah,</hi> 18a,
+                        <note anchored="true" place="bottom" type="authorial" n="2"> See <hi
+                            rend="italic">Rashi,</hi> catchword אביי 1רבא <hi rend="italic">;
+                            Hullin,</hi> 133a, catchwords </note> he sought to remove this curse, if
+                    not by sacrifices and offering then by the study of the Law, while Abayye also
+                    practised works of charity. Rābā was rabbi and judge of the congregation and
+                    head of the school <hi rend="italic">(methibtā)</hi> of Maḥūzā. He lived in the
+                    middle of the 4th Christian century, and became on the death of his fellow-pupil
+                    Abayye head of the famous academy of Pum-badithā, which was only closed in 1040.
+                    He was noted, like his predecessor, for his genius ; and the discussions between
+                    them (and similar ones of others) are known in the Babylonian Talmud as the <hi
+                        rend="italic">Havayoth de-Abayye ve-Rābā (Sukkah,</hi> 28a). Rābā was also
+                    noted for the liberality of his religious decisions (T. B., <hi rend="italic"
+                        >Berakhoth,</hi> 22b ; <hi rend="italic">Pesahim,</hi> 30a, and elsewhere).
+                    Being a man of considerable wealth, he showed, in accordance with Scriptural
+                    truth (Prov. xviii. 23), his independence in every way. Thus he hesitated not to
+                    include the exquisites of the congregation of Maḥūzā, who were noted for their
+                    luxurious style of living, among the candidates for Gehenna, whose faces would
+                    one day become as dark as the sides and the bottom of a sauce-pan (T. B., <hi
+                        rend="italic">Rosh Hasshanah,</hi> 17a), whilst he most un gal-lantly
+                    applied to their idle wives the passage of Amos iv. 1 (T. B., <hi rend="italic"
+                        >Shabbath,</hi> 32b). Rābā was in fact the Abraham a Sancta Clara of his
+                    day, minus the cloister life of the latter. He was married to one of the
+                    beautiful, accomplished, and amiable daughters of his teacher, R. Hisdä, whom he
+                    so dearly loved that he was ready to forgive Bar Hadyä (an interpreter of dreams
+                    who had much vexed him by his adverse interpretations) everything except the
+                    interpretation of a dream foreboding her death. Rābā, relying on Gen. xli. 12,
+                    13, believed that the fulfilment of dreams within certain limits was influenced
+                    by the interpretation given to them (T. B., <hi rend="italic">Berakhoth,</hi>
+                    55b). (s. M. s.-s.)</p>            </div>
+        </body>
+    </text>
+</TEI>

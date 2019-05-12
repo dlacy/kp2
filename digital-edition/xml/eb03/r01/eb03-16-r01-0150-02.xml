@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0150-02"
+                facs="gri_33125011196389_0156.tif" type="entry">
+
+                <p><label><hi rend="smallcaps">Commission of </hi>REVIEW</label>, is a commiſſion
+                    ſometimes granted, in extraordinary cafes, to revile the ſentence of the court
+                    of delegates, when it is appre-hended they have been lcd into a material error.
+                    This commiſſion the king may grant, although the ſtatutes 24 and 25 Hen. VIII.
+                    declare the ſentence of the de-legates definitive : becaufe the pope, as ſupreme
+                    head by the canon law, ufed to grant ſuch commiſſion of review; and ſuch
+                    authority as the pope heretofore exerted is now annexed to the crown by ſtatutes
+                    26 Hen. VIII, c. I. and 1 Eliz. c. I. But it is not matter of right, which the
+                    subject may demand <hi rend="italic">ex debito jufiiti&lt;e ;</hi> but
+                    merely a matter of favour, and which therefore is often denied.</p>              <p>               <hi rend="smallcaps">Review,</hi> is the drawing out ail or part of the army in
+                    line of battle, to be viewed by the king,«or a general, that they may know the
+                    condition of the troops.</p>                <p>At all reviews, the officers ſhould be properly arm-ed, ready in their exerciſe,
+                    ſalute well, in good time, and with a good air ; their uniform genteel,
+                    &amp;c. The men ſhould be clean and well dreſſed ; their accoutrements well
+                    put on ; very well fized in their ranks ; the ſerjeants expert in their duty,
+                    drummers perfect in their beatings, and the fifers play correct. The manual
+                    ex-erciſe muſt be performed in good time, and with life ; and the men carry
+                    their arms well ; march, wheel, and form with exactneſs. All manœuvres muſt be
+                    performed with the utmoſt regularity, both in quick and flow -time. The firings
+                    are generally 36 rounds; viz. by companies ; by grand diviſions ; by
+                    ſubdiviſions ; ob-liquely, advancing, retreating ; by files ; in the ſquare ;
+                    ſtreet firings, advancing and retreating ; and laſtly, a volley. The intention
+                    of a review is, to know the condition of the troops, ſee that they are complete
+                    and perform their exerciſe and evolutions well.</p>              <p>               <hi rend="smallcaps">Review</hi>is alſo applied to Literary Journals, which
+                    give a periodical view of the ſtate of literature j as the Monthly Review, the
+                    Critical Review, the Britiſh Critic, and Analytical Review, &amp;c.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

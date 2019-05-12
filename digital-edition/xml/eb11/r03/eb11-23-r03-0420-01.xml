@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0420-01"
+                facs="encyclopaediabri23chisrich_0453.jp2" type="entry">
+
+               <p>                   ROBILANT, CARLO FELICE NICOLIS, <hi rend="smallcaps">Conte
+                        di</hi> (1826-1888), Italian statesman and diplomat, was a native of Turin.
+                    He entered the army, and lost his left hand at Novara, where he was aide-de-camp
+                    to Charles Albert, king of Piedmont. He fought in 1859, and reached the grade of
+                    general in the Austrian campaign of 1866, after which he served on the
+                    delimitation commission. He was chief of the Military Academy, and in 1867 was
+                    made prefect of Ravenna to suppress political disorder. He was defeated at Turin
+                    in the elections for the Chamber in 1870, and was sent in 1871 as minister
+                    plenipotentiary to Vienna, where he subsequently became ambassador. He was
+                    connected with the Prussian nobility by his mother, and he married an Austrian,
+                    a daughter of Prince Edmund Clary-Aldringen. In spite of the active share he had
+                    taken in driving Austria from Italy, he was a <hi rend="italic">persona
+                        grata</hi> at Vienna, and his policy was steadily directed to an alliance
+                    between the two powers. This was accomplished by the secret terms of the Triple
+                    Alliance in 1882. He was recalled to Rome in 1885 to become minister for foreign
+                    affairs in the Depretis cabinet. Robilant’s independent attitude as foreign
+                    minister secured greater consideration for Italy from her allies, but he did not
+                    adapt himself to the exigencies of domestic politics, and his excessive
+                    unpopularity contributed to* the downfall of the ministry on the 7 th of
+                    February 1887, consequent on an adverse vote on the Massawa question. Before
+                    leaving office, he completed the negotiations for the renewal of the Triple
+                    Alliance, and for its extension to cover Anglo-Italian co-operation in the
+                    Mediterranean. In the new Depretis-Crispi administration Robilant was not
+                    included. He was sent to London as ambassador in the next year, but died two
+                    months after his arrival, on the 17th of October 1888.</p>            </div>
+        </body>
+    </text>
+</TEI>

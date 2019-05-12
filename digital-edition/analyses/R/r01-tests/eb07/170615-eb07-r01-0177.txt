@@ -1,0 +1,88 @@
+from every point of the circumference of the chink GHNM with the velocity
+v.
+If any part of this chink were shut up, there would be a pressure on that part equivalent to the force of efflux from the opposite part. Therefore, when all is open, these efforts of efflux balance each other all round. There is not therefore any tendency in this compound vessel to move to any side. But take away the plane MN, and there would immediately arise a pressure in the direction Ee equal to the weight of the column
+2sh.
+This is therefore balanced by the pressure on the circular plane MN, which is therefore equal to this weight, and tlle proposition is demonstrated.
+A number of experiments were made by Professor Kraffl at St Petersburg, by receiving the vein on a plane which was fastened to the arm of a balance, having a scale hanging on the opposite arm. The resistance or pressure on the plane was measured by weights put into the scale ; and the velocity of the jet was measured by means of the distance to which it spouted on a horizontal plane.
+The results of these experiments were as conformable to the theory as could be wished. The resistance was always a little less than what the formula required, but greatly exceeded its half; the result of tlle generally received theories. This defect should be expected ; for the demonstration supposes the plane MN to be infinitely extended, so that the film of water which issues through the chink may be accurately parallel to the plane, which never can be completely effected. Also it was supposed that the velocity was justly measured by the amplitude of the parabola described when the plane was removed. But it is well known that the very putting the plane MN in the way of the jet, though at the distance of an inch from the orifice, will diminish the velocity of the efflux through this orifice.
+Bernoulli hoped to render this proposition more extensive and applicable to oblique impulses, when the axis AC of the vein (fig. 12) is inclined to the
+plane in an angle ACN. But here
+all the simplicity of the case is gone,
+and we are now obliged to ascertain
+the motion of each filament. It might
+not perhaps be impossible to deter
+mine what must happen in the plane
+of the figure, that is, in a plane pass
+ing through the axis of the vein, and pe-pendicular to the plane MN. But even in this case it would be extremely difficult to determine how much of the fluid will go in the direction EKG, and what will go in the path FLH, and to ascertain the form of each filament, and the velocity in its different points. In the real state of the case, the water will dissipate from the centre C on every side ; and we cannot tell in what proportions. Let us, however, consider a little what happens in the plane of the figure, and suppose that all the water goes either in the course EKG or in the course FLH. Let the quantities of water which take these two courses have the proportions of
+m
+to
+n,
+and let 
+m + n
+= 1. Let
+h
+= the velocity at A,
+v
+= the velocity at G, and
+u —
+the velocity at H ; and let
+φ
+= the supplement of the angle ACM. Now, since
+m + n
+= 1, and since the quantity of fluid which passes through A in a given time is proportional to the velocity, the momentum or quantity of motion at A in the direction AC is wιΛ2 , and the quantity of motion at G in the same direction is
+tιwt
+cos.
+φ,
+so that 
+m (fli —
+t>∙ cos.
+φ)
+is the quantity of motion destroyed by the plane CM, which is obviously equal to the resistance of that plane, or equal to the pressure of the sheet of fluid GKEACM. In the same manner it is shown that the quantity of motion destroyed by the plane CN, or the pressure of the sheet of fluid HLFACN, is
+n (h2 + u2
+cos.
+φ)
+(remembering that in this case cos. p is negative) ; therefore the sum of these two pressures, or the whole pressure on the plane MN, in the direction AC, is
+m (h1 — v,
+cos. ρ) 
++ n
+(A* + m
+2
+cos.
+tf),
+which being multiplied by the sine of ACM, or sin.
+φ,
+gives the pressure perpendicular to MN equal to {∕n(A2 —
+vt cos. f) + n
+(A2 + κ2 cos.ρ)}sin.p.@@1
+But there remains a pressure in the direction perpendicular to the axis of the vein, which is not balanced, as in the former case, by the equality on opposite sides of the axis. The pressure arising from the water which escapes at G has an effect opposite to that produced by the water which escapes at H. When this is taken into account, we shall find that their joint efforts perpendicular to AC are (>n —
+n)h'i
+sin.
+φ,
+which, being multiplied by the cosine of ACM, gives the action perpendicular to the plane MN = 
+(m — n) h'i
+cos.
+φ
+sin.
+φ.
+The sum or joint effort of all these pressures is m(A2
+— vi cos. f)
+sin.
+φ + n (fli — ui
+cos.
+f)
+sin. p + 
+(m — n)
+A2 cos. p sin. p.
+Thus, from this case, which is much simpler than can happen in nature, seeing that there will always be a lateral efflux, the determination of the impulse is as uncertain and vague as it was sure and precise in the former case.
+It is therefore without proper authority that the absolute impulse of a vein of fluid on a plane which receives it wholly, is asserted to be proportional to the sine of incidence. If indeed we suppose the velocities in G and H to be equal to that at A, then
+h = v= u,
+and the whole impulse is
+h∙
+sin. p, as is commonly supposed. But this cannot be. Both the velocity and quantity at H are less than those at G. Nay, frequently there is no efflux on the side H when the obliquity is very great. We made conclude, in general, that the oblique impulse will always bear to the direct impulse a greater proportion than that of the sine of incidence to radius. If the whole water escapes at G, and none goes off laterally, the pressure will be (A2 + A2 cos. p —
+vi cos. p) 
+sin. p. The experiments of the Abbé Bossut show’, in the plainest manner, that the pressure of a vein, striking obliquely on a plane which receives it wholly, diminishes faster than in the ratio of the square of the sine of incidence ; whereas, when the oblique plane is wholly immersed in the stream, the impulse is much greater than in this proportion, and in great obliquities is nearly as the sine.
+Nor will this proposition determine the impulse of a fluid on a plane wholly immersed in it, even when the impulse is perpendicular to the plane. The circumstance is now wanting on which we can establish a calculation, namely, the angle of final deflection. Could this be ascertained for each filament, and the velocity of the filament, the principles are completely adequate to an accurate solution of the problem. In thc experiments which we mentioned to have been made under the inspection of Sir Charles Knowdes, a cylinder of six inches diameter was exposed to the action of a stream moving precisely one foot per second ; and when certain deductions were made for the water which was held adhering to the posterior base (as will be noticed afterwards), the impulse was found equal to 3½ ounces avoirdupois. There were thirty-six coloured filaments distributed on the stream, in such situations as to give the most useful indications of their curvature. It was found necessary to have some which passed under the body and some above it; for the form of these filaments, at the same distance from the axis of the cylinder, was considerably different ; and those filaments which were situated in planes neither horizontal nor vertical took a double curvature. In short, the curves were all traced with great care, and the deflecting forces were computed for each, and reduced to the
+1
+@@@ For a general solution of this problem, see the
+Traité de Mécanique
+of Poisson, tome ii. p. 778.

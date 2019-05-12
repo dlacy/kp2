@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0298-01"
+                facs="encyclopaediabri24chisrich_0321.jp2" type="entry">
+                <p><label>SCANDIUM</label>, [symbol Sc, atomic weight 44·1 (O = 16)], one of the
+                    rare earth metals. It was isolated in 1879 by L. F. Nilson and was shown by
+                    Cleve to be identical with the ekaboron predicted by D. Mendeléeff. The
+                    separation of scandium from wolframite (which contains 0·14-0·16% of rare
+                    earths) is given by R. J. Meyer (<hi rend="italic">Zeit.</hi>
+                    <hi rend="italic">anorg. Chem.</hi> 1908, 60, p. 134), but it seems impossible
+                    to obtain a perfectly pure specimen of the oxide. The salts of scandium are all
+                    colourless, the chloride and bromide corresponding in composition to ScX·12HO;
+                    the fluoride is anhydrous. The sulphate combines with the alkaline sulphates to
+                    form double salts of the type Sc(SO)·3KSO. A large number of salts, both of
+                    inorganic and organic acids, have been described by Sir W. Crookes (<hi
+                        rend="italic">Phil. Trans.</hi> 1908, 209, A. p. 15); those of the fatty
+                    acids are in most cases more soluble in cold than in hot water.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

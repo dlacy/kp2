@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb07-19-r03-0592-04"
+                facs="eb07_19_Page_605.tif" type="entry">
+
+               <p>RUYSSELEDE, a town of Belgium, in the province of West Flanders and circle of
+                    Bruges. It contains 5400 inhabitants, who are employed in making linen and some
+                    woollen goods.</p>            </div>
+        </body>
+    </text>
+</TEI>

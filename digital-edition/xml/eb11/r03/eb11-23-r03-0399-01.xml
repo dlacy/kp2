@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0399-01"
+                facs="encyclopaediabri23chisrich_0422.jp2" type="entry">
+
+               <p>                   <label>ROBERT III.</label> (c. 1340-1406), king of Scotland, was the
+                    eldest son of King Robert II. by his mistress, Elizabeth Mure, and was
+                    legitimatized when his parents were married about 1349. In 1368 he was created
+                    earl of Carrick, and he took some part in the government of the kingdom until
+                    about 1387, when he was disabled by the kick of a horse. It was probably in
+                    consequence of this accident that his brother Robert, earl of Fife, and not the
+                    crown prince himself, was made guardian of the kingdom in 1389; but the latter
+                    succeeded to the throne on his father’s death in May 1390. At this time he
+                    changed his baptismal name of John, which was unpopular owing to its connexion
+                    with John de Baliol, for that of Robert, being crowned at Scone in August 1390
+                    as King Robert III. Although he probably attended several parliaments the new
+                    king was only the nominal ruler of Scotland, the real power being in the hands
+                    of his brother, the earl of Fife. In 1399, however, owing to the king’s “
+                    sickness of the body,” his elder son, David, duke of Rothesay, was appointed
+                    lieutenant of the kingdom; but this event was followed by an English invasion of
+                    Scotland, by serious differences between Rothesay and his uncle, Robert, now
+                    duke of Albany, and finally in March 1402 by Rothesay’s. mysterious death at
+                    Falkland. Early in 1406 the king’s only surviving son, afterwards King James I.,
+                    was captured by the English; and on the 4th of April 1406 Robert died, probably
+                    at Rothesay, and was buried at Paisley. He married Annabella Drummond (c.
+                    1350-1402), daughter of Sir John Drummond of Stobhall, and, in addition to the
+                    two sons already mentioned, had four daughters.</p>            </div>
+        </body>
+    </text>
+</TEI>

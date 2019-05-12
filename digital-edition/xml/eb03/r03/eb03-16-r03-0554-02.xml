@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0554-02"
+                facs="gri_33125011196389_0560.tif" type="entry">
+
+                <p><label>RUSSIA</label> a very large and powerful kingdom, partly in Europe and
+                    partly in Aſia, is bounded on the north by the Northern Ocean, or Frozen Sea ;
+                    on the eaſt it is waſhed by the Eaſtern Ocean, and is divided from America by
+                    Behring’s (formerly Anian) Straits, which are about 73 verſts<note
+                        anchored="true" place="bottom" type="authorial" n="1"> Verſta is the uſual
+                        meaſure oſ roads in Ruſſia, 1166 yards and two feet.</note> wide. From
+                    thence, towards the ſouth, it extends along the chain of the Aleoutſkie iſlands.
+                    which approach the north-weſt coaſt of America ; and from Kamtſchatka, towards
+                    the ſouth-weſt, it extends, by a chain of other iſlands, called Keurilſkie
+                    iſlands, as far as Japan ; on the ſouth it borders on the Black Sea, on the
+                    nations which dwell at the foot of the Caucaſian mountains, on a part of Perſia,
+                    the Caſpian Sea, the hordes of Kwghiſkaiſacki, on Ziungoria, Chineſe Mungalia
+                    and Daouria <note anchored="true" place="bottom" type="authorial" n="2">Daouria
+                        is that extent of land which is traverſed by the river Amour. It is ſo
+                        called on account of the Daouri, its ancient inhabitants, who were a race of
+                        the Toungooſi or Manjouri.</note>; and on the weft, on the Daniſh and
+                    Swediſh Lapland, the Baltic Sea, Courland, Livonia, Lithuania, Poland, and
+                    Turkey in Europe.</p>
+                <p>Ruſſia occupies more than a ſeventh part of the known continent, and nearly the
+                    26th part of the whole globe. Its greateſt extent from weft to eaſt, viz. from
+                    the 39¼ to 207¼ degree of longitude, is 168 degrees ; and if the iſlands of the
+                    Eaſtern Ocean be included, it will then be 185; ſo that the continental length
+                    of Ruſſia, viz. from Riga to Tchoukotſkoy Noſs, which is the eaſternmoſt
+                    promontory, will conſtitute about 8500 verſts. The greateſt extent of this
+                    empire from north to ſouth, that is, from the 78th to 50¼ degree of latitude, is
+                    27¾ degrees. Hence the breadth of Ruſſia, that is, ſrom the Cape Taymour,· which
+                    is the north-eaſtern promontory, to Kiakhta, will conſtitute about 3200 verſts.</p>
+                <p>The greater part of this empire lies in the temperate zone, and a part of it,
+                    viz. that which is beyond the 66½ degree of latitude, lies in the frigid zone ;
+                    and the whole ſurface contains above 2,150,000 ſquare verſts. There therefore is
+                    not at preſent, and never has been in any period, an empire, the extent of which
+                    could be compared to that of Ruſſia. The length and breadth of this immenſe
+                    empire, taken in a ſtraight line, may be thus diſcovered. Its furthermoſt point
+                    or ſpot on the north is the Taymour Cape, which is the moſt north-eaſtern
+                    promontory in the government oſ Tobolſk, lying in the 78th degree of latitude ;
+                    its ſar-theſt point on the ſouth -is the mouth of the river Soulak, falling into
+                    the Caſpian Sea in the government of Caucaſus, lying in the 43d degree oſ
+                    latitude ; its weſternmoſt point is the iſland of Oezel in the government of
+                    Riga, in the 39¼ degree of longitude ; and the furthermoſt point of it on the
+                    eaſt is the Tchoukotſkoy Noſs, which is the moſt eaſtern cape in the government
+                    oſ Iikoutſk, lying in the 207¼ degree of longitude.</p>
+                <p>In ancient times Ruſſia was inhabited by various nations ; ſuch as Hunns,
+                    Scythians, Sarmatians, Maſſa-getes, Sclavonians, Cimbri, &amp;c. of whom an
+                    account is given under the various detached articles in this work.. The origin
+                    oſ the Ruſſians themſelves, though not prior to the ninth century, is ſtill
+                    covered with almoſt impenetrable obſcurity ; partly owing to the ignorance and
+                    barbarity oſ the people, and partly to the</p>
+                <pb xml:id="eb03-16-r03-0555" facs="gri_33125011196389_0561.tif"/>
+                <p>miſtaken policy which yet prevails in the nation, of ſuppreſſing all accounts of
+                    their origin, and inquiries into their ancient ſtate and ſituation ; of which we
+                    have a remarkable inſtance in the ſuppreſſion of a work by profeffor Muller,
+                    intitled <hi rend="italic">De Originlbus Gentis et Nominis Rufforum.</hi></p>
+                <p>According to ſeveral authors of credit, the Ruffians derived their origin from
+                    the Slavi or Slavonians, corruptly called the <hi rend="italic">Sclavonians,</hi> who fettled ſirſt along the banks of the Volga, and afterwards near the
+                    Danube, in the countries named <hi rend="italic">Bulgaria</hi> and <hi
+                        rend="italic"> Hungary;</hi> but being driven from thence by the Romans
+                    (whom the Ruffians call <hi rend="italic">Wolochers,</hi> or <hi rend="italic"
+                        > Wolotaners'),</hi> they firſt removed to the river Boryſthenes, or
+                    Dneiper, then •over-ran Poland, and, as is reported, built the city of Kiow.
+                    Afterwards they extended their colonies farther north, to the rivers which run
+                    into the <hi rend="italic">Ilmen</hi> lake, and laid the foundation of the
+                    city of Novogorod. The towns,of Smolenſk and Tſernikow appear alſo to have been
+                    built by them, though the dares-of theſe events . cannot be aſcertained. The
+                    moſt ancient inhabitants, not only of Ruſſia, but all over Siberia, quite to the
+                    borders of China, are called <hi rend="italic">TJhucli ;</hi> for profeffor
+                    Muller, on inquiring in thoſe parts by whom the ancient buildings and ſepulchral
+                    monuments he ſaw there, were erected, was everywhere anſwered, that they were
+                    the works of the Tſhudi, who in ancient times had lived in that country.</p>
+                <p>In the ninth century, the Scandinavians., that is, the Danes, Norwegians, and
+                    Swedes, emigrated from the north, and, crofling the Baltic^ went to ſeek
+                    habitations in Ruſſia. They firſt ſubdued the Courlanders, Livonians, and
+                    Eſthonians ; and, extending their conqueils ftill ſarther, they exacted tribute
+                    from the Novogorodi-ans, ſettled kings over them, and traded as far as Kiow, and
+                    even to Greece. Theſe new invaders were called <hi rend="italic">Waregers ;</hi> which, according to profeffor Muller, fignifies “ ſea-faring people or, it
+                    derived from the old northern word <hi rend="italic">war,</hi> it fignifies “
+                    warlike men.” To theſe Waregers the name of <hi rend="italic">Ruffles, or
+                        Ruffians,</hi> is thought by the moſt eminent authors to owe its origin ;
+                    but the etymology of the word itſelf is entirely uncertain.</p>
+                <p>In the dark ages of which we are ſpeaking, it is ! pretty certain that Ruſſia
+                    was divided among a great -number of petty princes, who made war upon each '
+                    other with the ferocity and cruelty of wild beaſts ; ſo that the whole country
+                    was reduced to the utmoſt ml-ſery ; when Goſtomiſel, a chief of the
+                    Novogorodians, pitying the unhappy fate of his countrymen, and ſeeing no other
+                    method of remedying their calamities, adviſed them to offer the government of
+                    their country to the Waregers. The propoſal was readily accepted, and three
+                    princes of great abilities and valour were ſent to govern them ; namely, Ruric,
+                    Sineus, and Truwor, generally ſuppoſed to have been brothers. The firſt took up
+                    his refidence at Ladoga, in the principality of Great Novogorod ; the ſecond at
+                    Bielo Oſero, or the White Lake ; and the third kept his court at Iſhorſk, or,
+                    according to others, at a ſmall town, then called <hi rend="italic">Twcrizog,</hi> in the principality of Pleſkow. The three brothers reigned amicably, and
+                    made conſiderable additions to-their dominions ; all of which at length devolved
+                    to Ruric by the death of Sineus and Truwor j but what</p>
+                <p>the conqueſts of the two brothers were, we have no records to inform us of.</p>
+                <p>Ruric, to his honour, became zealous for the ſtrict adminiſtration of juſtice ;
+                    and iffued a command to all: the boyars who poffeffed territories under him, to
+                    exer-i ciſe it in an exact and uniform manner. To this end, it was neceffary
+                    there ſhould be general laws. And this naturally leads us to conjecture, that
+                    letters were not entirely unknown in his dominions.</p>
+                <p>The Ruffian empire continued to flouriſh till the end ^ of the reign of
+                    Wolodomir, who aſcended the throne in the year 976. Having ſettled the affairs
+                    of his empire in peace, he demanded in marriage the princeſs Anne, fiſter to the
+                    Greek emperor Bafιlius Porphyro-genitus. His fuit w <hi rend="sup">,</hi> as
+                    granted, on condition that he ſhould embrace Chriſtianity. With this the Ruffian
+                    monarch complied ; and that vaſt empire was thenceforward conſidered as
+                    belonging to the patriarchate of Conſtantinople. Wolodomir received the name of <hi rend="italic">Ba-ltlius</hi> on the day on which he was baptized ;
+                    and, according to the Ruffian annals, zo,ooo of his ſubjects were baptized the
+                    ſame day. Michael Syra, or Cyrus, a Greek, ſent by Photius the patriarch of
+                    Conſtantinople, was accepted as metropolitan of the whole country. At the ſame
+                    time, Wolodomir put away all his former wives and concubines, of whom he had
+                    upwards of 800, and by whom he had 12 Tons, who were baptized on the ſame day
+                    with himſelf. The idols of pa-ganiſm were now thrown down ; churches and
+                    mona-lteries were erected, towns built, and the arts began to flouriſh. The
+                    Sclavonian letters were now firſt introduced into Ruſſia ; and Wolodomir ſent
+                    miflionaries to convert the Bulgarians ; but only three or four of their princes
+                    came to him and were baptized. Theſe events happened in the year 987.</p>
+                <p>Wolodomir called the arts from Greece, cultivated them in the peaceable periods
+                    of his reign, and rewarded their proſeffors with generality, that he might
+                    dif-pel the clouds of ignorance which enveloped his country, call forth the
+                    genius of his countrymen, and render them happy. He alſo founded public ſchools,
+                    and enacted a law concerning the methods of inſtructing youth, and directing the
+                    conduct of the maſters appointed to inftruct them. He died in 1008, and,
+                    contrary to all rules of found policy and prudence, divided his empire among his
+                    12 fons. The conſequence was, that they fell to making war and deſtroying one
+                    another as ſoon as their father was dead. 8uantepolk, one of the brothers,
+                    having deſtroyed and ſeized upon the dominions of two others, was himſelf driven
+                    out by Ja-riſlaus, and obliged to fly to Boleſlaus king of Poland. This brought
+                    on a dreadful war betwixt the Poles and Ruffians ; in which the former were
+                    victorious, and the latter loſt a great part of their dominions, as has been
+                    related under the article Poland.</p>
+                <p>Jariilaus finding himſelf unable to oppoſe the king of Poland, now turned his
+                    arms againſt the reſt of his brothers, all of whom he diſpoſſeffed of their
+                    dominions, and ſeized them for himſelf. He next attacked the Coſ-ſacks, over w <hi rend="sup">,</hi> hom he gained ſeveral advantages. After which he
+                    ventured once more to try his fortune with Boleſlaus : but in this ſecond
+                    expedition he was attended with worſe ſucceſs than before ; being now reduced
+                    «to the· condition oſ a vaffal and tributary to the</p>
+                <pb xml:id="eb03-16-r03-0556" facs="gri_33125011196389_0562.tif"/>
+                <p>victorious monarch. However, in the reign of Miecz-ſlaus II. the ſucceſſor of
+                    Boleſlaus, the Ruffians again ſhook off the yoke, and a laſting peace was
+                    confirmed by the marriage of Mieczſlaus with the filler of Wolo-domir.</p>
+                <p>Jari∏aus now continued to enjoy the empire quietly, and was ſo much addicted to
+                    reading, that he devoted even a part of the night to his ſtudies. He invited men
+                    of letters to his court, and cauſed many Greek books to be tranſlated into the
+                    Ruffian language. It was he that in the year 1019, gave the people of Nowgorod
+                    ſeveral laws, under the title of <hi rend="italic">Gramota Sou-d,inaia,</hi> to be obſerved in the courts of juſtice. Theſe are the firſt laws that were
+                    reduced to writing in Ruſſia ; and, what renders them remarkable, is the
+                    conformity they have with thoſe of the other northern nations. He founded a
+                    public ſehool at Novogorod, where he maintained and educated 300 children at his
+                    own expence. His court was the moſt brilliant of the north, and furniſhed an
+                    aſylum to unfortunate princes. He died in 1052 ; and fell into the ſame error
+                    which his father had committed, by dividing his dominions among his five fons.
+                    This produced a repetition of the bloody ſcenes which had been acted by the fons
+                    of Wolodomir ; the Poles took the advantage of the diſ-tractcd ſtate of affairs
+                    to make continual inroads and invaſions ; and the empire continued in the moſt
+                    deplorable ſituation till the year 1237, when it was totally ſubdued by the
+                    Tartars. We are not informed of any particulars of this remarkable event,
+                    farther than that innumerable multitudes of theſe barbarians, headed by their
+                    khan Batto, or Battus, after ravaging great part of Poland and Sileſia, broke
+                    ſuddenly into Ruſſia, where they committed the greateſt cruelties. Moſt of the
+                    RuſſiaH princes, among whom was the great duke George Sevoloditz, were made
+                    priſoners, and racked to death ; and, in ſhort, none found mercy but ſuch as
+                    acknowledged themſelves the ſubjects of the Tartars. The imperious conqueror
+                    impoſed upon the Ruffians every thing that is moſt mortifying in llavery ;
+                    inſiſting that they ſhould have no other princes than ſuch as he approved of ;
+                    that they ſhould pay him yearly a tribute, to be brought by the fovereigns
+                    themſelves on foot, who were to preſent it humbly to the Tartarian ambaſſador on
+                    horſeback. They were alſo to proſtrate themſelves before the haughty Tartar ; to
+                    offer him milk to drink; and, if any drops of it fell down, to lick theιq up ; a
+                    ſingular mark of ſervility, which continued near 260 years.</p>
+                <p><hi rend="sup">i</hi> George Seyolodſtz was ſucceeded by his brother Michael
+                    Sevoloditz Zernigouſki ; who oppoſed the Tartars, but was defeated by them, and
+                    loſt his life. He left three fons, Feodor, Alexander, and Andrew, whoſe wars
+                    with each other ended in the death of them all. A fon of Alexander, and of the
+                    ſame name, was then placed on the throne by the Tartqrs ; and his ſon Da-nilow,
+                    or Daniel Alexandrovitz, removed his court from Wolodimir to Moſcow, where he
+                    firſt aſſumed the title of <hi rend="italic">Great duke oſ Wolodimir and
+                        Moſcow.</hi> Daniel Alexandrovitz left two fons, Gregory and John ; the
+                    former of whom, named <hi rend="italic">Kalita,</hi> from a purſe he uſed
+                    always to carry about him filled with money for the poor, aſcended the throne ;
+                    but he was ſoon aſſaſſinated by another prince named <hi rend="italic">Demetri
+                        Michaelovit%,</hi> who was himſelf put to death for it by the Tartars ; and</p>
+                <p>John, likewiſe ſurnamed <hi rend="italic">Kalita,</hi> was then made czar.
+                    This John left three fons, John, Simon, anti Andrew ; and the eldeſt of theſe,
+                    commonly called <hi rend="italic">Ivan Ivano-vit%,</hi> was made czar, with
+                    the approbation of the Tartars, on whom he was dependenr.</p>
+                <p>During theſe ſeveral reigns, which fill a ſpace oſ upwards of 100 years, and
+                    which all hiſtorians have paffed over for want of records concerning them, the
+                    miſeries of a foreign yoke were aggravated by all the calamities of inteſtine
+                    diſcord and war ; whilſt the knights of Livonia, or brothers of the ſhort-ſword,
+                    as they are ſometimes called, a kind of military order of religious, on one
+                    ſide, and the Poles on the other, catching at the opportunity, attacked Ruſſia,
+                    and took ſeveral of itβ <hi rend="sub">χ</hi> towns, and even ſome
+                    conſiderable countries. The Tartars and Ruffians, whoſe intereſts were in this
+                    caſe the ſame, often united to oppoſe their common enemies ; but were generally
+                    worſted. The Livonians took Pleſkow ; and the Poles made themſelves mailers of
+                    Black Ivuſſia, the Ukraine, Podolia, and the city of Kiow. Caſimir the Great,
+                    one of their kings, carried his conqueſts ſtill farther. He aſſerted his
+                    pretenſions to a part of Ruſſia, in right of his-relation to Boleſlaus duke of
+                    Halitz, who died without iſſue, and forcibly poſſeſſed himſelf of the duchies of
+                    Perzemyſlia, Halitz, and Luckow, and of the diſtricts of Sanock, Luback-zow, and
+                    Trebowla ; all which countries he made a province oſ Roland.</p>
+                <p>The newly-conquered Ruffians were ill-diſpoſed to brook the government of the
+                    Poles ; whoſe laws and cuſtoms were more contrary to their own than thoſe of the
+                    Tartars had been. They joined the latter to rid themſelves of the yoke ; and
+                    aſſembled an army numerous enough to overwhelm all Poland, but deſtitute of
+                    valour and diſcipline. Caſimir, undaunted by this deluge of barbarians,
+                    preſented himſelf at the head of a few troops on the borders of the Viſtula, and
+                    obliged his enemies to retire.</p>
+                <p>Demetrius Ivanovitz, ſon of Ivan Ivanovitz, who commanded in Moſcow, made
+                    frequent efforts to rid himſelf of the galling yoke. He defeated in ſeveral
+                    battles Maymay khan of the Tartars ; and, when conqueror, refuſed to pay them
+                    any tribute, and aſſumed the title <hi rend="italic">of great duke oſ Mulcoνy.</hi> But the oppreſſors ol the north returned in greater numbers than before ;
+                    and Demetrius, at length overpowered, after a ſtruggle of three years, periſhed
+                    with his whole army, which, it we may credit hiſtorians, amounted to upwards of
+                    240,oco men. .</p>
+                <p>Baſilius Demetrivitz revenged his father’s death. He attacked his enemies, drove
+                    them out of his dominions, and conquered Bulgaria. He made an alliance with the
+                    Poles, whom he could not ſubdue ; and even ceded to them a part of his country,
+                    on condition that they ſhould help him to defend the reſt againſt any new
+                    incurſions of the Tartars. But this treaty was a weak barrier againſt ambition.
+                    The Ruffians found new enemies in their allies ; and the Tartars ſoon returned.—
+                    Baſilius Demetrivitz had a ſon who was called after his name, and to whom the
+                    crown ought naturally to have deſcended. «But the father, ſuſpecting his
+                    legitimacy, left it to his own brother Gregory, a man of a ſevere and tyrannical
+                    diſpoſition, and therefore hated by the people, wlι∙o aſſerted the fon’s right,
+                    and proclaimed him their fovereign. I he Tartars took cognizance</p>
+                <pb xml:id="eb03-16-r03-0557" facs="gri_33125011196389_0563.tif"/>
+                <p>of the diſpute, and determined it in favour of Baſilius ; upon which Gregory had
+                    recourſe to arms, drove his nephew ſrom Moſcow to the principality of Uglitz,
+                    and forcibly uſurped and kept poſſeſſion of his throne. Upon the death of
+                    Gregory, Baſilius returned to Moſcow ; but Andrew and Demetrius, ſons of the
+                    late uſurper, laid liege to that city, and obliged him to retire to the
+                    menaſtery oſ Troitz, where they took him priſoner, with his wife and ſon, and
+                    put out his eyes : hence the appellation of <hi rend="italic">βmnoi,</hi> “
+                    blind,” by which this Baſilius is diſtinguiſhed. The ſubjects of this
+                    unfortunate prince, incenſed at the cruel treatment he had received, forced the
+                    perpetrators of it to fly to Novo-gorod, and reinſtated their lawful ſovereign
+                    at Moſcow, where he died.</p>
+                <p>In the midſt of this general conſuſion, John Baſilo-vitz I. by his invincible
+                    ſpirit and refined policy, became both the conqueror and deliverer of his
+                    country, and laid the firſt foundation of its future grandeur. Obſerving with
+                    indignation the narrow limits of his power at his acceſſion to the throne, after
+                    the death of his father Baſilius the Blind, he began immediately to revolve
+                    within himſelf the means of enlarging his dominions. Marriage, though he had in
+                    reality no regard or inclination for women, ſeemed to him one of the beſt
+                    expedients he could begin with ; and accordingly he demanded and obtained Maria,
+                    filter of Michael duke of Twer ; whom he ſoon after depoied, under pretence of
+                    revenging the injuries done to his father, and added this duchy to his own
+                    territories of Moſcow. Maria, by whom he had a ſon named <hi rend="italic">John,</hi> who died before him, did not live long ; and upon her ' death he
+                    married Sophia, daughter oſ Thomas Paleo-logus, who had been driven ſrom
+                    Ccnſtantinople, and forced to take ſhelter at Rome, where the pope portioned
+                    this princeſs, in hopes of procuring thereby great advantage to the Romiſh
+                    religion; but his expectations were fruſtrated, Sophia being obliged to conform
+                    to the Greek church after her arrival in Ruſſia. What could induce Baſilovitz to
+                    ſeek a confort at ſuch a diſtance, is nowhere accounted for; unleſs it be, that
+                    he hoped by this means to eſtabliſh a pretenſion to the empire of the eaſt, to
+                    which her father was the'next heir : but however that may be, the Ruſſians
+                    certainly owed to this alliance their deliverance from the Tartar yoke. Shocked
+                    at the fervile homage exacted by thoſe proud victors, her huſhand going to meet
+                    their ambai-ſadors at ſome diſtance from the city, and ſtanding to hear what
+                    they had to ſay ; whilſt they were at dinner, Sophia told him, that ſhe was
+                    ſurpriſed to find that ſhe had married a ſervant to the Tartars. Nettled at this
+                    reproach, Baſilovitz feigned himſelf ill when the next deputation from the
+                    Tartars arrived, and under that pretence avoided a repetition of the ſtipulated
+                    humiliating ceremonial. Another circumſtance equally diſ-pleaſing to this
+                    princeſs was, that the Tartars had, by agreement, within the walls of the palace
+                    at Moſcow, houſes in which their miniſters reſided ; to ſhow their power, and at
+                    the ſame time watch the actions of the great duke. To get rid of theſe, a formal
+                    embaſſy was ſent to the Tartarian khan, to tell him, that Sophia having been
+                    favoured with a viſion ſrom above, ordering her to build a temple in the place
+                    where thoſe houſes ſtood, her mind could not be at eaſe till ſhe had fulfilled
+                    the divine command; and therefore his leave was deſired fo pull them down, and
+                    give his people others. The khan conſented: the houſes within the ' Kremlin were
+                    demoliſhed; and no new ones being provided, the Tartar reſidents were obliged to
+                    leave Moſcow’ ; their prince not being able to revenge this breach of promiſe,
+                    by reaſon of a war he was then engaged in wfith the Poles. Baſilovitz taking
+                    advantage of this circumſtance, and having in the mean time conſi-1 derably
+                    increaſed his forces, openly diſclaimed all ſub-jection to the Tartars, attacked
+                    their dominions, and made himſelf maſter of Caſan, where he was ſolemnly crowned
+                    with the diadem of that kingdom, which is ſaid to be the ſame that is now uſed
+                    for the coronation of the Ruffian ſovereigns. The province of Permia, with great
+                    part of Lapland and Aliatic Bulgaria, ſoon ſubmitted to him ; and Great
+                    Novogorod, a city then ſo famous that the Ruffians uſed to expreſs its vaſt
+                    importance by the proverbial expreſſion of, <hi rend="italic">Who can re-ββ God
+                        and the Great Novogorod ?</hi> was reduced by his generals after a ſeven
+                    years ſiege, and yielded him an immenſe treaſure ; no leſs, ſay ſome writers,
+                    than 300 cart loads of gold and ſilver, and other valuable effects. Alexander
+                    Witold, waiwode of Lithuania, was in poſe ſeſſion of this rich place, from which
+                    he had exacted for ſome years an annual tribute of 100,coo rubles, a prodigious
+                    ſum for thoſe days and ſor that country. When it was taken by John Baſilovitz,
+                    he, the better to ſecure his conqueſt, put it under the protection ol the Poles,
+                    voluntarily rendered himſelf their tributary for it, and accepted a governor
+                    from the hand of their king Caſimir, a weak and indolent prince, from whom he
+                    well knew he had nothing to fear. The No-</p>
+                <p>vogorodians continued to enjoy all their privileges till about two years after ;
+                    when John, ambitious of reigning without controul, entered their city with a
+                    numerous retinue, under pretence of keeping to the Greek faith, he being accuſed
+                    of an intention to embrace the Romiſh religion ; and with the aſſiſtance of the
+                    archbiſhop Theophilus, ſtripped them all of their remaining riches. He then
+                    depoſed the treacherous prelate, and eſtabliſh-ed over Novogorod new
+                    magiſtrates, creatures of his own ; deſtroying at once, by this means, a noble
+                    city, which, had its liberties been protected, and its trade encouraged, might
+                    have proved to him -an inexhauſtible fund of wealth. All the north beheld with
+                    terror and alto-niſhment the rapid increaſe of the victor’s power : foreign
+                    nations courted his alliance; and the ſeveral petty princes of Ruſſia ſubmitted
+                    to him without reſiſtance, acknowledging themſelves his vaſſals.</p>
+                <p>The Poles, however, complained loudly of his late breach of ſaith in regard to
+                    Novogorod, and threatened revenge : upon which Baſilovitz, elated with his
+                    ſuc-ceſſes, with the riches he had amaſſed, and with the weak condition of moſt
+                    of his neighbours, ſent a body of troops into Lithuania, and ſoon became maſter
+                    oſ ſeveral oſ its towns. Caſimir applied lor aſſiſtance to Matthias king of
+                    Hungary : but was anſwered by this laſt, that his own ſoldiers were quite
+                    uadiſciplined ; that his auxiliaries had lately mutinied for want of pay; and
+                    that it was impoſſible for him to raiſe a new army out of the neighbouring
+                    countries. The Poliſh monarch in this diſtreſs was obliged to purchaſe of John a
+                    ceſſation oſ arms for two years, during which the Muſcovite made new acceſſions
+                    to his dominions.</p>
+                <p>The dukes of Servia <hi rend="sub">j</hi> whoſe territories were about</p>
+                <pb xml:id="eb03-16-r03-0558" facs="gri_33125011196389_0564.tif"/>
+                <p><hi rend="italic">5⅛0</hi> miles in extent, had long thought themſelves ill
+                    uſed by the Lithuanians on account of their religion, ∙wlιich was that of the
+                    Greek church ; and wanted to -withdraw from their*(objection to Poland, and put
+                    themſelves under the protection of Ruſſia. The following accident afforded them
+                    the wiſhed-for pretence. Their envoys arriving at Wilna, deſired admittance to
+                    the king’s preſence : which being refuſed, one of them endeavoured to force his
+                    way in ; but the porter ſhut the door rudely againſt him, and in ſo doing broke
+                    one -cf his fingers. The ſervant was immediately put to .--death for this
+                    offence : but the Servians, by no means ſatisfied with that, returned home in
+                    great fury, and prevailed upon their countrymen to ſubmit themſelves and their
+                    country to the Muſcovites. Cafimir made ; ſeveral attempts to recall them, but
+                    to no purpoſe.</p>
+                <p>Matthias king of Hungary dying about this time, two of his ſons, Uladiflaιi6,
+                    then king of Bohemia, and i John Albert, contended for the vacant crown. Cafimir
+                    -wanted to give it to,the latter, whom he accordingly aſſiſted to the utmoſt of
+                    his power ; and to enable him the better ſo to do, though he was in great want
+                    of money as well as men, he purchaſed a renewal of the truce with the Ruffians,
+                    and thereby gave John Bafi∙ lovitz time to eſtabliſh himſelf in his new
+                    acquiſi-tions.</p>
+                <p>Cafimir died in the year 1492, and was ſucceeded on the throne of Poland by his
+                    ſon John Albert, w ho, totally diſregarding the Ruffians, involved himſelf
+                    un-neceffarily in a war with the brave Stephen duke of Moldavia : and though he
+                    had at the ſame time both the Tartars and Tufks againſt him, his propenſity to
+                    pleaſure, and his laſeivious diſpofition, rendered him ſo indolent, that he not
+                    only did not ſo much as attempt to moleſt Bafilowitz in any of his poffeſſions,
+                    but concluded a peace with him on terms very advantageous tp the latter ; and
+                    even entered into a treaty, by which he ſtipulated not to aſſiſt the
+                    Lithuanians, though they had choſen his brother Alexander for their duke, in
+                    caſe the Ruffians ſhould attack them, as it was ſuppoſed they would. Alexander
+                    thinking to parry the inconveniences of this agreement, and to guard againſt the
+                    deſigns of his enemies, demanded in marriage Ba-ſilowitz’s daughter, Helena, by
+                    his ſecond wife Sophia, and obtained her. The Lithuanians then flattered
+                    themſelves with a profpect of tranquillity : but the ambitious <hi rend="italic"
+                        > czar,</hi> for Bafilovitz had affumed that title ſince bis conqueſt of
+                    Caſan, aiming only at the increaſe of dominion, ſoon found a pretence to break
+                    with his new allies, by alleging, that Poliſh Ruſſia, as far as the ri-∙,ver
+                    Berezina, had formerly belonged to his anceſtors, --and therefore ſhould be his
+                    ; and that Alexander, by his marriage-contract, had engaged to build a Greek
+                    church at Wilna for his Ruffian conſort, which he had not done, but on the
+                    contrary endeavoured to force the Poliſh Ruffians to embrace the religion of the
+                    church of Rome. In conſequence of this plea, he ſent into the territories of his
+                    ſon-in-law, by different ways, i three armies, which reduced ſeveral places,
+                    deſtroyed the country about Smojenſko, and defeated the Lithu∙ .anian
+                    ſield-marſhal Oſtroſky near the river Wedr'alch, where he fell unawares into an
+                    ambuſh cf the Ruffians. Alexander raiſed a new army of Sijeſians, Bohemians, and
+                    Moravians ; but they came too late, the Ruffians having retired with their
+                    plunder. Elated by their ſucceſs againſt the Lithuanians, they invaded Livonia
+                    -in the year 1502, with 130,000 men : but Walter Von Plettenberg, grand-maſter
+                    of the knights of the croſs, with only 12,000 men, gave them a total overthrow ;
+                    -killing 10,000 of his enemies, with ſcarce any lofs on his own fide. Bafilovitz
+                    diipirited by this defeat, and being then engaged in a war with the Tartars, the
+                    Poles, and the city of Pleſkow; immediately diſpatched an embaffy to
+                    Plettenberg, and concluded a truce with him for 50 years. At the ſame time he
+                    begged of that general to ſend to Moſcow, that he might ſee him, one of the <hi
+                        rend="italic"> iron-dragoons,</hi> as he called them, who had performed
+                    wonders iια the late engagement. Von Plettenberg readily complied ; and the
+                    czar, ſtruck with admiration, rewarded the cuiraſſier’s accompliſhments with
+                    conſiderable honours and preſents.</p>
+                <p>Alexander had been elected king of Poland upon the death of his brother John
+                    Albert, which happened in the beginning of this year : but the Poles refuſed to
+                    crown his confort Helena, becauſe ſhe adhered to the Greek religion. Provoked at
+                    this affront, and probably ſtill more ſtimulated by ambition, Bafilovitz
+                    reſolved again to try his fortune with them; and accordingly ordered his ſon
+                    Demetrius, now the eldeſt, to march againſt Smolenſko, and reduce that city. The
+                    young prince did all that could be done : but the vigorous refiſtance of the
+                    belieged, and the arrival of the king of Poland with a numerous army, obliged
+                    the Ruffians to raiſe the fiege and return home ; and the czar was glad to make
+                    a freſh truce with the Poles for fix years, upon the eaſy terms of only
+                    returning the priſoners he had taken. Some writers ſay, that flying into a
+                    violent paſſion with his ſon the moment he ſaw him, and imputing the miſcarriage
+                    oſ this expedition to his want of courage or conduct, he gave him a blow which
+                    laid him dead at his feet ; to which is added, that remorſe for this raſſi
+                    action carried his father to his grave: but this account is not confirmed by
+                    authors whoſe authority can be relied on. Certain it is, however, that neither
+                    of them long furvived this event; and that Demetrius died firſt : for Sophia,
+                    who had gained an abſolute aſcendant over her huſhand, and wanted to give the
+                    ſovereignty to her own children, perfiιaded him by various artful infinuations
+                    to ſet afide and im-priſon his grandſon Demetrius, the only child of the late
+                    John, whom he had by his firſt wife Maria, and declare her then eldeſt ſon,
+                    Gabriel, his ſucceffor. Age and infirmities had rendered the czar ſo weak, that
+                    he blindly followed the iniquitous advice ; but ſhortly after finding his end
+                    approach, he ſent for young Demetrius, expreffed great repentance for his
+                    barbarity towards him, and on his death-bed declared him his lawful ſucceffor.
+                    He died in November 1 705, after a reign of 55 years; leaving behind him an
+                    immenſe territory, chiefly of his own acquiring.</p>
+                <p>The czar was no ſooner dead, than his ſon Gabriel Ivanovitz, at the ^inftigation
+                    of his mother Sophia, put an end to,the life of the young Demetrius, by
+                    confining him in priſon, where heperiſhed with hunger and cold; alter which
+                    Gabriel was crowned by the name of <hi rend="italic">Baſllius,</hi> and took
+                    the title of <hi rend="italic">cz,ar,</hi> as well as all the other titles
+                    belonging to the ſovereignty. On his acceſſion to the throne he expected that
+                    the Poles would be in confuſion about the election of a new ſovereign ; but his
+                    expectations, being defeated by their unanimous</p>
+                <pb xml:id="eb03-16-r03-0559" facs="gri_33125011196389_0565.tif"/>
+                <p>election oſ Sigiſmund I. a prince of a mild and peaceable diſpoſition, he ſent
+                    an army into Lithuania, and laid ſiege to Smolenſko. The place made a brave
+                    reſiſtance, till news arrived that the crown-troops of Poland were coming to
+                    their aſſiſtance, with the additional aid of 80,000 Crim Tartars ; on which the
+                    Ruffians returned home with the utmoſt precipitation. They were, however,
+                    quickly followed by the Poles, who reduced the czar, to ſubmit to ſuch terms as
+                    they pleaſed to impoſe. Baſilius remained quiet till he thought himſelf capable
+                    of revenging the injuries he had ſuſtained ; after which, pretending to ſet out
+                    upon ſome other expedition, he marched with a numerous army, and encamped in the
+                    neighbourhood of Pleſkow, where the Poles, prefuming∙ on the late treaty,
+                    received him as a friend and ally. But in the mean time the Muſeovite prieſts oſ
+                    the Greek church preached to their hearers concerning the expediency of having a
+                    fovereign of their own religion ; and brought them to ſuch a height of
+                    enthufιafm,that they murdered their magiſtrates, and opened their gates to the
+                    czar, who made them all ilaves, and ſent them away' to different parts,
+                    replacing them with Muſcovites, the better to ſecure his conqueſt. Soon after he
+                    took alſo the city of Smolenſko ; and the Swedes, alarmed at his rapid progreſs,
+                    deſired a prolongation of the truce, at that time ſub-liſting between the two
+                    ſtates, for 6o years longer. The duchy of Lithuania was the great object of the
+                    deſigns of Baſilius ; and to accompliſh his deſign, he ordered Ivan Czeladin, a
+                    man of great reſolution, and enterprifing even to raſhneſs, to march thither
+                    with 80,000 men. The army of the Poles did not exceed 35,000 men, but was
+                    commanded by a moſt experienced general. The two armies met on the oppoſite
+                    banks oſ the Dneiper, near Orſova, and the Poles paffed that river in fight of
+                    their enemies. Czeladin’s officers adviſed him to fall upon the enemy when about
+                    half of them had croſſed the river ; but that general, too confident of ſucceſs,
+                    replied, that the other half would then run away, and he was determined to gain
+                    a complete victory. The Lithuanians began the attack, but were repulſed by the
+                    Ruffians ; who imprudently following them, loſt an advantageous ſituation, and
+                    found themſelves at once expoſed to the full fire of the enemy’s artillery. The
+                    Poliſh cavalry then ruſhed in among them ſword in hand, and made dreadful havoc
+                    ; the trembling Ruffians ſcarce even attempting to defend themſelves. Thoſe who
+                    endeavoured to fly, fell into the Dneiper and'were drowned ; and all the reſt,
+                    including Czeladin himſelf, were made ſlaves.</p>
+                <p>Baſilius was at Smolenſko when he received the news of this dreadful defeat ; on
+                    which he immediately fled* to Moſcow, where his danger increaſed daily. The
+                    Crim-Tartars ravaged his dominions, and the emperor Maximilian, with whom he had
+                    been in alliance, deſerted him ; his troops, were utterly defeated in Iri-vonia,
+                    where he was obliged to ſubmirto a peace on diſhonourable terms ; but what theſe
+                    terms were hiſtorians do not inform.us. In the mean time, the king of Poland
+                    ſtirred up the Tartars to invade Ruſſia, while the Ruffian monarch in his turn
+                    endeavoured to excite them to an invaſion of Poland. Theſe barbarians, equally
+                    treacherous to both parties, firſt invaded and ravaged Podolia, a province of
+                    Poland ; and then having invaded Ruſſia and defeated the armies of the czar in
+                    the year 1521, they poured in thither in ſuch incredible multitudes, that they
+                    quickly made themſelves maſters of Moſcow. An army, which had been ſent to
+                    oppoſe their progreſs, was defeated near the riveT Occa ; and the czar’s brother
+                    Andrew, who commanded it, was the very firſt who fled. Baſilius with great
+                    difficulty made his way to Novogorod ; ſo terrified, that he hid himſelf by the
+                    way under a haycock, to avoid a ſtraggling party of the enemy. The Tartars,
+                    however, ſoon obliged him to ſign a writing, by which he acknowledged himſelf
+                    their vaſſal, and promiſed to pay, them a tribute of ſo much a head for every
+                    one of his ſubjects. Beſides this, Machmetgerei, the commander of the Tartars,
+                    cauſed his own ſtatuq to be ſet up at Moſcow, as a mark of his ſovereignty;
+                    compelled Baſilius to return to his capital, to bring thither in perſon the
+                    firſt payment of this tribute, and <hi rend="sub">i</hi> as a token of his
+                    ſubmiſſion, to proſtrate himſelf before his ſtatue. Machmetgerei then left
+                    Moſcow, and returned home with an immenſe booty, and upwards of 80,000
+                    priſoners, who were made ſlaves, and ſold like cattle to the Turks and other
+                    enemies of the Chriſtian name. In his way back.he attempted to take the city of
+                    Rezan ; but was repulſed with conſiderable loſs by I wan Ko wen, who commanded
+                    in that place for the Ruffians. Here the Tartar general narrowly eſcaped with
+                    his life, his coat being ſhot through with a mu-ſket-ball ; andthe Muſcovites
+                    pulled down his ſtatue, and broke it to pieces as ſoon as the conquerors had
+                    left them.</p>
+                <p>The Tartars were no ſooner gone, than Baſilius began to talk in a high ſtrain of
+                    the revenge he intended to take of them ; but was never abſe to execute his
+                    threats. He died in 1533 ; and was ſucceeded by his ſon Ivan or John Baſilovitz,
+                    an infant of -five years of age.</p>
+                <p>During the minority of the young prince, his two uncles Andrew and George
+                    endeavoured to deprive him of the crown; but their attempts were defeated by the
+                    care and activity of his guardians ; and the Poles alſo immediately commenced
+                    hoſtilities, but could make little progreſs. The new czar, as ſoon a3 he entered
+                    the 19th year of his age, ſhowed an inclination ſor re-ſeuing his ſubjects out
+                    of that deſperate ſtate of ignorance and barbariſm in which they had been
+                    hitherto immerſed. Pie ſent a ſplendid embaſſy to the emperor Charles V. who was
+                    then at Augſhurg, to deſire the renewal of the treaty of friendſhip which had
+                    been concluded with his father Maximilian ; and offering to enter into a league
+                    with him againſt the Turks, as enemies to the Chriſtian religion ; for his
+                    farther information in which, particularly in regard to the doctrine and
+                    ceremonies of the Latin church, he requeſted that his ambaſſador might be
+                    allowed to ſend from Germany to Ruſſia proper prieſts to inſtruct him and his
+                    ſubjects. With theſe he likewiſe deſired to have ſome wiſe and experienced
+                    ſtateſmen, able to civilize the wild people under his government ; and alſo, the
+                    better to help to poliſh them, he requeſted that he would ſend mechanics and
+                    artiſts of every kind ; in return ſor all which he offered to furniſh two tons
+                    of gold yearly, for 20 years together, to be employed in the war againſt the
+                    Turks. The emperor readily agreed to the deſire of the czar ; and the Ruffian
+                    ambaſſador accordingly en-</p>
+                <pb xml:id="eb03-16-r03-0560" facs="gri_33125011196389_0566.tif"/>
+                <p>gaged upwards of 300 German artiſts, who were directed to repair to Lubec, in
+                    order to proceed from thence to Livonia, But the Lubeckers, who were very
+                    powerful at that time, and aimed at nothing leſs than the engroſſing of the
+                    whole commerce of the north, ſtopped them, and repreſented ſtrongly to the
+                    emperor, in the name of all the merchants in Livonia, the dangerous conſequence
+                    oſ thus affording inſtructions to the Ruſſians, who would ſoon avail themſelves
+                    of it to ruin their trade, and diſtreſs the ſubjects of his imperial majeſty.
+                    The workmen and others intended for Ruſſia were eaſily prevailed upon to return
+                    to their re-ſpective homes; and the czar’s ambaſſador was arreſted upon his
+                    arrival at Lubec, and impriſoned there at the fuit of the Livonians : however,
+                    he made his eſcape ſhortly after ; and the czar, though provoked to the laſt
+                    degree at the behaviour of the Lubeckers, was obliged for ſome time to ſuſpend
+                    his reſentment.</p>
+                <p>The firſt enterpriſe oſ Baſilovitz now was againſt the Tartars of Caſan, who had
+                    hitherto been ſuch formidable enemies. In this he was attended with great
+                    ſucceſs ; the whole territory was conquered in ſeven years ; but the capital,
+                    named alſo <hi rend="italic">Caſan,</hi> being well fortified and bravely
+                    defended, made ſuch reſiſtance as quite diſheartened the beſiegers, and made
+                    them think of abandoning their enterpriſe. <hi rend="sup">i</hi> Baſilovitz
+                    being informed of this, haſtened to them with a conſiderable reinforcement,
+                    endeavoured to revive their drooping courage, and exhorted them to puſh the
+                    ſiege with redoubled vigour. However, the greater part, deaf to all his
+                    remonſtrances, after loudly inſiſting upon a peace with the Tartars, and leave
+                    to return home, proceeded to mutiny, and fell upon their comrades who were for
+                    continuing the war. Baſilovitz, alarmed at this event, ruſhed in among the
+                    combatants, and with great difficulty parted them : but neither menaces nor
+                    intreaties, nor even a promiſe of giving them the whole plunder of the city if
+                    they took it, could prevail on them to continue the war. Their rage at laſt
+                    prompted them to threaten the life of their ſovereign ; who, to provide for his
+                    own ſafety, was obliged to make the beſt of his way to Moſcow ; and the
+                    mutineers, no longer regarding any command, inſtantly returned thither.</p>
+                <p>Baſilovitz, though juſtly incenſed at this inſolence, took a method of puniſhing
+                    it which does honour to his humanity. Having ſelected a guard of 2c00 of his
+                    beſt troops, he ordered a great feaſt, to which he invited his principal nobles
+                    and officers, to each of whom, according to the Ruffian cuſtom, he gave very
+                    rich garments. The chief of the ſeditious were clothed in black velvet ; and
+                    after the dinner was over, he made a ſpeech to the whole company, ſetting forth
+                    the behaviour of his troops before Caſan, their contempt of his commands, and
+                    their conſpiracy to take away his life : to which he added, that he was doubly
+                    ſorry to find the inſtigators of ſuch wickedneſs among thoſe who were ſtyled,
+                    and who ought to be, his faithful counſellors ; and that thoſe who knew
+                    themſelves to be guilty of ſuch atrocious wickedneſs could not do better than
+                    voluntarily to ſubmit themſelves to his mercy. Upon this, moſt of them
+                    immediately threw themſelves at his ſeet, and implored his pardon. Some -of the
+                    moſt criminal were executed, but the reſt were only impriſoned.</p>
+                <p>Immediately after this puniſhmeut of the rebels, Baſilovitz inarched with a
+                    freſh army to re-inveſt Ca* ſan before the Tartars had time to recover
+                    themſelves. The beſieged ſtill made an obſtinate defence, and the Ruſſians again
+                    began to be cliſpirited ; upon which the czar ordered his pioneers to undermine
+                    the walls of the citadel, a practice then quite unknown to the Tartars. This
+                    work being completed, he directed his prieſts to read a ſolemn maſs to the whole
+                    army, at the head of which he afterwards ſpent ſome time in private prayer, and
+                    then ordered fire to be ſet to the powder, which acted ſo effectually, that
+                    great part of the foundation was immediately blown up, and the Muſcovites
+                    ruſhing into the city, ſlaughtered all before them ; while the aſtoniſhed
+                    Tartars, crowding out at the oppoſite gate, croſſed the river Caſanka, and fled
+                    into the. foreſts. Among the priſoners taken on this occaſion were Simeon king
+                    of Caſan with his queen; both of whom were ſent to Moſcow, where they were
+                    treated with the utmoſt civility and reſpect.</p>
+                <p>Encouraged by this ſucceſs, Baſilovitz invaded the country of Aſtracan, the
+                    capital of which he ſoon reduced ; after which he prepared to revenge himſelf on
+                    the Livonians for their behaviour in flopping the German artiſts. John
+                    Baſilovitz I. had concluded a truce with this people for 50 years ; which being
+                    now expired, Iodocus, archbiſhop of Dorpt and canon of Munſter in Weſtphalia,
+                    ſenlible of the danger to which he was expoſed by the vicinity of the Ruſſians,
+                    requeſted the czar to give him a prolongation of the truce. .Baſilovitz deſired
+                    him to chooſe whether he would have a truce for five years longer, on condition
+                    that all the inhabitants of his archbiſhopric ſhould pay to him the annual
+                    tribute of a fifth part of a ducat for each perſon, which the people of Γ)orpt
+                    had formerly agreed to pay to the grand-dukes of Pleſkow ; or, for 20 years, on
+                    this farther condition that he and the Livonians ſhould rebuild all the Ruffian
+                    churches which had been demoliſhed in their territories at the time of the
+                    reformation, and allow his ſubjects the free exerciſe of their religion. Iodocus
+                    evaded an anſwer as long as he could : but finding at laſt that the affair grew
+                    ſerious, he levied a conſiderable ſum from his ſubjects, and fled with it to
+                    Munſter, where he re· ſigned his prebend and married a wife. His ſucceſlbr,
+                    whoſe name was <hi rend="italic">Herman,</hi> and the deputies from Livonia,
+                    accepted of the conditions, and ſwore to obſerve them ; with this additional
+                    clauſe, that the prieſts of the Romiſh communion ſhould be exempted from paying
+                    tribute.</p>
+                <p>But though the Livonians ſwore to the obſervation of theſe terms, they were at
+                    that very time in treaty with GuſtavuS Vaſa, king of Sweden, to join them in
+                    attacking Ruſſia. <hi rend="sup">r</hi> Γhe king of Sweden very readily
+                    complied with their deſires ; upon which Balilowitz invaded Finland. Guſtavus
+                    advanced againſt him with a powerful army ; but as neither the Poles nor
+                    Livonians gave him any aſſiſtance, he was obliged to conclude a treaty with the
+                    czar, and ſoon after to evacuate the country. Finland was at this time governed
+                    by William of Furſtenberg grand-maſter of the Livonian knights, and the
+                    archbiſhop of Riga, with ſome other prelates ; between whom a quarrel happened
+                    about this time, which ſoon facilitated the deſigns of Baſilovitz on the
+                    country. The archbiſhop, after at</p>
+                <pb xml:id="eb03-16-r03-0561" facs="gri_33125011196389_0567.tif"/>
+                <p>tempting to ſet himſelf above the grand-maſter even in civil affairs, and to
+                    perſecute thoſe who adhered" to the conſeſſion of Augſhurg, choſe for his
+                    coadjutor in the archbiſhopric of Riga Chriſtopher duke of Mecklenburg. From the
+                    abilities and haughty temper of this lord, the Livonian knights apprehended that
+                    they had reaſon to fear the ſame fate which had befallen the Teutonic order in
+                    Pruſſia ; and the ffep itſelf was, beſides, unprecedented, and contrary to the
+                    eſtabliſhed laws of the count!y. Theſe diſcontents were heightened by letters
+                    ſaid to be intercepted from the archbiſhop to his brother Albert duke of
+                    Pruſſia, inviting this laſt totally to ſuppreſs the order of Livonian knights,
+                    and to ſecularize their poſſeſſions, eſpecially in Finland ; ſo that an open war
+                    broke out among the contending parties, and the archbiſhop was ſeized and made
+                    priſoner. He was, however, ſoon releaſed through the mediation of the emperor of
+                    Germany and other potentates, backed by the powerful preparations of the
+                    Pruſſians to avenge his cauſe ; but in the mean time, the ſtrength of their
+                    country being totally exhauſted, the Livonians were obliged, inſtead of
+                    preparing for war, to ſue to the Czar ſor peace. Baſilovitz replied, that he did
+                    not believe their intentions to be ſincere while they kept 6ooo Germans in pay ;
+                    and therefore, if they meant to treat of peace, they muſt begin with diſrniſſing
+                    theſe troops. The Livonians, having no longer any power to reſiſt, did as they
+                    were ordered ; but it availed them nothing. In 1558 an army of 100,000 Ruffians
+                    entered the diſtrict of Dorpt, and laid every thing waſte before them with the
+                    moſt ſhocking cruelty. Aſter this they entered the territories of Riga, where
+                    they behaved with equal inhumanity ; and ſhaving at laſt ſatiated themſelves
+                    with blood and treaſure, they retired with an immenſe booty and a great number
+                    of priſoners.</p>
+                <p>The Livonians, now thoroughly convinced of their own folly in expofing
+                    themſelves to the reſentment of the exaſperated Ruffians, ſent ambaſſadors to
+                    ſue for peace in good earnel⅛. Theſe offered the Czar a preſent oſ 30,00Θ
+                    ducats, and prevailed upon him to grant their nation a truce for four months,
+                    during which they returned home to get the money. But in this interval the
+                    Livonian governor of the city of Nerva, out of an idle frolic, fired ſome cannon
+                    againſt Ivanogorod or Ruſſian Nerva, ſituated on the oppoſite fide of the river,
+                    and killed ſeveral of the Czar’s ſubjects who were aſſembled in an open place
+                    quite unarmed. The Ruffians, out of regard to the truce, did not even attempt to
+                    make repriſals ; but immediately acquainted Baſilovitz with what had happened :
+                    which ſo incenſed the Czar, that when the Livonian ambaſſadors arrived, he told
+                    them, he looked upon their nation to be a ſet of perjured wretches, who had
+                    renounced all honeſty; that they might go back with their money and propoſals,
+                    and let their countrymen know that his vengeance would ſoon overtake them.</p>
+                <p>The ambaſſadors were ſcarce arrived in Livonia, when an army of 300,000 Ruffians
+                    entered the diſtrict of Ner-va, under the command of Peter Siſegaledrii, who had
+                    been a famous pirate in the Euxi∏e ſea. He took the city of Nerva in nine days,
+                    and very ſpeedily made himſelf maſter oſ Dorpt, where he found immenſe
+                    treaſures. Several other garriſons, terrified by the approach of ſuch numbers,
+                    quitted their poſts ; ſo that the Ruffians became maſters of a great part of
+                    Livonia almoſt without oppoſition. At laſt, Gothard Kettler, grand-maſter of the
+                    knights of Livonia, intreated Chriſtian III. king of Denmark to take Riga,
+                    Revel, and the countries of Garnland, Wirrland, and Eſthonia, under his
+                    protection ; but the advanced age of that monarch, the diſtance of the places,
+                    and the want of ſuſſicient power to withſtand ſo potent an adversary, made him
+                    decline the offer. However, he aſſiſted them with ſome money and powder, of
+                    which they ſtood greatly in need. Having then applied, without ſucceſs, firſt to
+                    the emperor of Germany, and then to the court of Sweden, Kettler put himſelf
+                    under the protection of the Poles, who had hitherto been ſuch formidable enemies
+                    to the Ruffians. In the mean time the latter purfued their conqueſts ; they took
+                    the city of Marienburg, laid waſte the diſtrict of Riga, deſtroyed Garnland, and
+                    penetrated to the very gates of Revel. Felin, in which was the beſt artillery of
+                    the whole country, became theirs by the treachery of its garriſon ; and here
+                    William of Furſtenberg the old grand-maſter was taken, and ended his days in a
+                    priſon at Moſcow. The diſtracted ſituation of the Livonian affairs now induced
+                    the biſhop of Oeſel to ſell his biſhopric to Ferdinand king of Denmark, who
+                    exchanged it with his brother Magnus for a part of Hol-ſtein. The diſtricts of
+                    Reval and Eſthonia put themſelves under the protection of Sweden ; and then the
+                    grand-maſter, finding himſelf deſerted on all ſides, ſup-preſſed the order of
+                    which he was the chief, and accepted of the duchy of Courland, which he held as
+                    a fief of the crown of Poland.</p>
+                <p>The Czar ſaw with pleaſure the diviſion of Livonia between the Swedes and Poles,
+                    which, he rightly judged, would produce quarrels between the two nations, and
+                    thus give him the fairer opportunity of ſeizing the whole to himſelf.
+                    Accordingly, in 1564, the Swedes offered him their aſſiſtance againſt the Poles
+                    ; but he, judging himſelf to be ſuſſiciently ſtrong without them, attacked the
+                    Poles with his own forces, and w <hi rend="sup">,</hi> as twice defeated,
+                    which checked his farther operations in Livonia. In 1569 he entered into a
+                    treaty of commerce with England, captain Richard Chancellor having a ſhort time
+                    before diſeovered a paſſage to Archangel in Ruſſia through the White Sea, by
+                    which that empire Was likely to be ſupplied with foreign goods, without the
+                    aſſiſtance either of Poland or Livonia. To the diſcoverers of this new paſſage
+                    Baſilovitz granted many excluſive privileges ; and after the death of queen
+                    -Mary renewed the alliance with queen Elizabeth, and which has been continued
+                    without interruption ever ſince.</p>
+                <p>In the mean time, however, a prodigious army of Turks and 'Partais entered
+                    Muſcovy, with a deſign to ſubdue the whole country. But Zerebrinov, the Czar’s
+                    general, having attacked them in a defile,. put them to flight with
+                    ∙conliderable daughter. Then they retired towards the mouth of the Volga, where
+                    they expected a conſiderable reinforcement ; but being cloſely purſued by the
+                    Ruffians and Tartars in alliance with them, they were agai-n defeated and forced
+                    to fly towards Azov on the Black Sea. But when they came there, they found the
+                    city almoſt entirely ruined by the blowing up of a powder magazine. The Ruffians
+                    then attacked their ſhips there, took ſome, and ſunk the reſt ; by which means
+                    almoſt the whole army periſhed with hunger or the ſword of the enemy.</p>
+                <p>From this time the empire oſ Ruſſia became ſo for-</p>
+                <pb xml:id="eb03-16-r03-0562" facs="gri_33125011196389_0568.tif"/>
+                <p>tnidable, that none of the neighbouring nations could hope to make a total
+                    conqueſt of it. The Poles and Swedes indeed continued to be very formidable
+                    enemies ; and, by the inſtigation of the former, the Crirn Tartars, in 157τ,
+                    again invaded the country with an army of 70,000 men. The Ruffians, who might
+                    have prevented their paſſing the Volga, retired before them till they came
+                    within 18 miles of the city of Moſcow, where they were totally defeated. The
+                    Czar no ſooner heard this news than he retired with his moſt valuable effects to
+                    a well-fortified cloyſter ; upon which the Tartars entered the city, plundered
+                    it, and ſet fire to ſeveral churches. A violent ſtorm which happened at the ſame
+                    lime ſoon ſpread the flames all over the city ; which was entirely reduced to
+                    aſhes in fix hours, though its circumference was upwards of 40 miles. The fire
+                    likewiſe communicated· itſelf to a powder-magazine at ſome diſtance from the
+                    city ; by which accident upwards of 50 rods of the city wall, with all the
+                    buildings upon it, were deſtroyed ; and, according to the beſt hiſtorians,
+                    upwards of x20,000 citizens were burnt or buried in the ruins, befides women,
+                    children, and foreigners. The caſtle, however, vyhich was ſtrongly fortified,
+                    could not be taken; and the Tartars hearing that a formidable army was coming
+                    againſt them under the command of Magnus duke of Holſtein, whom Bafilovitz had
+                    made king of Livonia, thought proper to retire. The war, never-theleſs,
+                    continued with the Poles and Swedes ; and the Czar being defeated by the latter
+                    after ſome trifling ſucceſs, was reduced to the neceſſity of ſuing for peace.
+                    But the negotiations being ſomehow or other broken off, the war was renewed with
+                    the greateſt vigour. The Livonians, Poles, and Swedes, having united in a league
+                    together againſt the Ruffians, gained great advantages over them; and, in 1579,
+                    Stephen Battori, who was then raiſed to the throne of Poland, levied an army
+                    expreſsly with a deſign of invading Ruſſia, and of regaining all that Poland had
+                    formerly claimed, which indeed was little leſa than the whole empire. Aa the
+                    Roles underſtood the art of war much better than the Ruffians, Bafilovitz found
+                    his undiſeiplined multitudes unable to cope with the regular forces of his
+                    enemies : and their conqueſts were fo rapid, that he was ſoon obliged to ſue for
+                    peace : which, however, was not granted ; and it is poſſible that the number of
+                    enemies which now attacked Ruſſia might have overcome the empire entirely, had
+                    not the allies grown jealous of each other; the conſequence of which was, that
+                    in 1582 a peace was concluded with the Poles, in which the Swedes were not
+                    comprehended. However, the Swedes finding themſelves unable to effect any thing
+                    of moment after the deſertion of their allies, were fain to conclude a truce ;
+                    ſhortly after which the Czar, having been worſted in an engagement with the
+                    Tartars, died in the year 1584.</p>
+                <p>This great prince was ſucceeded by his ſon Theodore Ivanovitfc ; a man of ſuch
+                    weak underſtanding, that he was totally unfit for government. Under him,
+                    therefore, the Ruffian affairs fell into confuſion ; and Boris Gudenov, a
+                    nobleman whoſe fiſter Theodore had married, found means to affume all the
+                    authority. At laſt, unable to bear even the name of a ſuperior, he reſolved to
+                    uſurp the throne. For this purpoſe he cauſed the Czar’s brother Demetrius, at
+                    that time only •nine years of age, to be affaſſinated ; and afterwards, knowing
+                    that no truſt could be put in an aſſaffin, he cauſed him alfo to be murdered
+                    left he ſhould divulge the ſecret. In 1597 the Czar himſelf was taken ill and
+                    died, not without great ſuſpicion of his being poi-ſoned by Gudenov ; of which
+                    indeed the Czarina was ſo well convinced, that ſhe would never afterwards ſpeak
+                    to her brother.</p>
+                <p>With Theodore ended' the line of Ruric, who had governed the empire of Ruſſia
+                    for upwards of 700 years. Boris, who in reality was poffeffed of all the power,
+                    and would indeed have ſuffered nobody elſe to reign, artfully pretended to be
+                    unwilling to accept the crown, till compelled to it by the intreaties of the
+                    people ; and even then he put the acceptance of it on the iffue of an expedition
+                    which he was about to undertake againſt the Tartars. The truth of the matter,
+                    however, was, that no Tartar army was in the field, nor had Boris any intention
+                    of invading that country ; but by this pretence he aiΓembled an army of 500,000
+                    men, which he thought the moſt effectual method of ſecuring himſelf in his new
+                    dignity. In 1600 he concluded a peace with the Poles, but reſolved to continue
+                    the war againſt the Swedes ; however, being diſappoint-ed in ſome of his
+                    attempts againſt that nation, he entered into an a∏iance with the Swediſh
+                    monarch, and even propoſed a match between the king’s brother and his daughter.
+                    But while theſe things were in agitation, the city of Moſcow was defolated by
+                    one of the moſt dreadful famines recorded in hiſtory. Thouſands of people lay
+                    dead in the ſtreets and highways, with their mouths full of hay, ſtraw, or even
+                    the moſt filthy things which they had been attempting to eat. In many houſes the
+                    fatteſt perfon was killed in order to ſerve for food to the reſt. Parents were
+                    ſaid to have eaten their children, and children their parents, or to have fold
+                    them to buy bread. One author (Petrius) ſays, that he himſeli ſaw a woman bite
+                    ſeveral pieces out of a child’s arm as ſhe was carrying it along; and captain
+                    Margaret relates, that four women having ordered <hi rend="italic">a</hi> peaſant to come to one of their houſes, under pretence of paying him for ſome
+                    wood, killed and eat up both him and his horſe. This dreadful calamity laſted
+                    three years, notwithſtand-ing all the means which Boris could uſe to alleviate
+                    it ; and in this time upwards of 500,000 people periſhed ia the city.</p>
+                <p>In 1604 a young man appeared, who pretended to be Demetrius, whom Boris had
+                    cauſed to ſhe murdered, as we have already ſeen. Being ſupported by the Poles,
+                    he .proved very troubleſome to Boris all his lifetime ; and after his death
+                    deprived Theodore Boriflbvitz, the new Czar, of the empire ; after which he
+                    aſcended the throne himſelf, and married a Poliſh princeſs. However, he held the
+                    empire but a iħort time, being killed in an inſurrection of his ſubjectsj and
+                    the unhappy Czarina was ſent priſoner to Jaroflaw.</p>
+                <p>After the death of Demetrius, Ztrflti, who had conſpired againſt him, was choſen
+                    Czar; but rebellions continually taking place, and the empire being perpetually
+                    haraffed by the Poles and Swedes, in 1610 Zuſki was depoſed, and Uladi∏aus ſon
+                    of Sigiſmund king of Poland was elected. However, the Poles repreſenting to
+                    Sigiſmund, that it would be more glorious for him to be the conqueror of Ruſſia,
+                    than only the father of its ſovereign, he carried on the war with ſuch fury,
+                    that the Ruffians-in deſpair fell upon the Poles, who refided in great numbers
+                    at Moſcow. The Poles being well</p>
+                <pb xml:id="eb03-16-r03-0563" facs="gri_33125011196389_0569.tif"/>
+                <p>armed and moſtly ſoldiers, had greatly the advantage ; however, they were on the
+                    point of being op preſſed by numbers, when they fell upon the moſt cruel method
+                    of enſuring their ſucceſs that could be deviſed. This was by ſetting fire to the
+                    city in ſeveral places } and while the diſtreſſed Ruſſians ran to ſave their
+                    families, the Poles fell upon them ſword in hand. In this confuſion upwards of
+                    iσo,ooo peop⅛ periſhed; but the event was, that the Roles were finally driven
+                    oüt, and loſt all footing in Ruffià.</p>
+                <p>The expnllion of the Poles was ſucceeded by the election of Tſheodorovitz
+                    Romanov, a young nobleman of 17 years of age, whoſe poſterity, till the
+                    acceſſion of the preſent Empreſs, continued to enjoy the fo-vereignty. He died
+                    in 1646, and was ſucceeded by his ſon Alexis ; whoſe reign was a continued ſcene
+                    of tumult and confuſion, being haraſſcd on all ſides by external enemies, and
+                    having his empire perpetually diſ-turbed by internal commotions.</p>
+                <p>The ſources of theſe commotions were found in the multiplicity and inconſiſtency
+                    of the laws at that period, and in the jarring claims of the nobles on the
+                    borders. An <hi rend="italic">emann∙y ukaſe,</hi> or personal order, which is
+                    an edict of the ſovereign, ſigned with his own hand, is the only law oſ Ruſſia.
+                    Theſe edicts are as various as the opinions, prejudices, paſſion-s, or whims of
+                    men ; and in the days of Alexis they produced endleſs contentions. To remedy
+                    this evil, he made a Election, from all the edicts of his predeceſſiors, of ſuch
+                    as had been familiarly current ſor a hundred years ; prtſuming that thoſe either
+                    were founded in natural juſtice, or during ſo long a currency had formed the
+                    minds of the people to conſider them as juſt. This digeſt, w hich he declared to
+                    be the common law of Ruſſia, and which is prefaced by a fort of inſtitute, is
+                    the ſtandard law-book at this day known by the title of the <hi rend="italic">Ulogeniè</hi> or <hi rend="italic">Selection;</hi> and all edicts prior
+                    to it were declared to be obſolete. He ſoon made his <hi rend="italic">novella,</hi> however, more bulky than tſhe Ulogeniè ; and the additions by his
+                    ſucceſſors are beyond enumeration. This was undoubtedly a great and uſe-ful work
+                    ; but Alexis performed another ſtill greater.</p>
+                <p>Though there are many courts of judicature in this widely extended empire, the
+                    emperor has always been lord paramount, and could take a cauſe from any court
+                    immediately before himſelf. But as ſeveral of the old nobles had the remains of
+                    principalities in their families, and held their own courts, the ſovereign or
+                    his mini-fters, at a diſtance up the country, frequently found it difficult to
+                    bring a culprit out of one of theſe hereditary feudal juriſdictions, and try him
+                    by the laws of the empire. This was a very diſagreeable limitation of imperial
+                    power; and the more ſo, that ſome families claimed even a right to repledge. A
+                    lucky opportunity offered of ſettling this diſpute } and Alexis embraced it with
+                    great ability.</p>
+                <p>Some families on the old frontiers were taxed with their defence, for which they
+                    were obliged to keep regiments on foot ; and as they were but lcantily
+                    indemnified by the ſtate, it ſometimes required the exertion of authority to
+                    make them keep up their levies. When the frontiers, by the conqueſt of Caſan,
+                    were ſar extended, thoſe gentlemen found the regiments no longer bur-denſome,
+                    becauſe by the help of falſe muſters, the former ſcanty allowance much more than
+                    reimburſed (them for the exnence of the eſtabliſhment, The conſe-</p>
+                <p>quence was, that diſputes aroſe among them about the right of guarding certain
+                    diſtricts, and law-ſuits were neceſſary to fettle their reſpective claims. Theſe
+                    were tedious and intricate. One claimant ſhowed the order of the court, iſſued a
+                    century or two back, to his an·· "ceſtor for the marching of his men, aâ a proof
+                    that the right was then in his family. His opponent proved; that his anceſtors
+                    had been the real lords of the marches; but that, on account of their
+                    negligence, the court had iſſued an <hi rend="italic">emmansy ukaſe</hi> to
+                    the other, only at that particular period. The emperor ordered all the family
+                    archives to be brought to Moſcow; and all documents όή both ſides to be
+                    collected. A time was ſet for the examination; a fine wooden court-houſe was
+                    built ; every paper was lodged under a good guard ; the day was appointed when
+                    the court ſhould be opened and the claims heard ; but that morning the houſe,
+                    with all its contents, was in two hours conſumed by fire. The emperor then ſaid,
+                    “ Gentlemen, henceforward your-ranks, your privileges, and your courts, are the
+                    nation’s, and the nation will guard itſelf. Your archives are unfortunately
+                    loſt, but thoſe of the nation remain. I am the keeper, and it is my duty to
+                    ad-miniſter juſtice ſor all and to all. Your ranks are not private, but national
+                    ; attached to the ſervices you are actually performing. Henceforward Colonel
+                    Buturlin (a private gentleman) ranks before Captain Viazemſky (an old prince).”</p>
+                <p>This conſtitution, which eſtabliſhed the different ranks of Ruſſia as they
+                    remain to this day, is by Voltaire aſcribed to Peter :. but it was the work of
+                    Alexis ; who, when the ſituation of himſelf and his country is conſidered, muſt
+                    be allowed to have been a great and a good man. He died in 1676, and was
+                    ſucceeded by his ſon Theodore Alexiovit⅜} who after an excellent reign, during
+                    the whole of which he exerted himſelf to the utmoſt for the good of his
+                    ſubjects, diedin 1682, having appointed his brother Peter I. commonly called <hi
+                        rend="italic"> Peter the Great,</hi> his ſucceſſor. See PetEr I.</p>
+                <p>Theodore had another brother named <hi rend="italic">John ;</hi> but as he was
+                    ſubject to the fallſhg-ſickneſs, the Czar had preferred Peter, though very
+                    young, to the ſucceſſion. But through the intrigues of the princeſs Sophia,
+                    fiſter to Theodore, a ſtrong party was formed in favour of John; and ſoon after
+                    both John and Peter were proclaimed ſovereigns of Ruſſia under the
+                    adminiſtration of Soph⅛ herſelf, who was declared regent. However, this
+                    adminiſtration did not continue long; for the princeſs regent having conſpired
+                    againſt Peter, and having the misfortune to be diſcovered, was confined for life
+                    in a convent. From this time alſo John continued to be only a nominal ſovereign
+                    till his death, which happened in 1696, Peter continuing to engroſs all the
+                    power.</p>
+                <p>It is to this emperor that Ruſſia is univerſally allowed to owe the whole of her
+                    preſent greatneſs. The private character of Peter himſelf ſeems to have been but
+                    very- indifferent. Though he had been married in his eighteenth year to a young
+                    and beautiful princeſs, he was not ſuſſiciently reſtrained by the ſolemn ties of
+                    wedlock ; and he was befides fo much addicted to Railing and drunkenneſs, the
+                    prevailing vice of his country, that nobody could have imagined him capable of
+                    effecting the reformation upon his ſubjects which he actually accompliſhed. In
+                    ſpite of all diſad vantages, however.</p>
+                <pb xml:id="eb03-16-r03-0564" facs="gri_33125011196389_0570.tif"/>
+                <p>he applied himſelf to the military art and to civil government. He had alſo a
+                    very ſingular natural defect, which, had it not been conquered, would have
+                    rendered him for ever incapable of accompliſhing what he afterwards did. This
+                    was a vehement dread of water ; which is thus accounted for. When he was about
+                    five years of age, his mother went with him in a coach, in the ſpring-ſeaſon ;
+                    and paſſing over a dam where there was a conſiderable water-fall, whilſt he lay
+                    aſleep in her lap, he was ſo ſuddenly awaked and frightened by the ruſhing of
+                    the water, that it brought a fever upon him ; and after his recovery he retained
+                    ſuch a'dread of that element, that he could not bear to ſee any ſtanding water,
+                    much leſs to hear a running ſtream. This averſion, however, he conquered by
+                    jumping into water ; and afterwards became very fond of that element.</p>
+                <p>Being aſhamed of the ignorance in which he had been brought up, he learned
+                    almoſt of himſelf, and without a maſter, enough of the High and Low Dutch
+                    languages to ſpeak and write intelligibly in both. He looked upon the Germans
+                    and Hollanders as the moſt civilized nations ; becauſe the former had already
+                    erected ſome of thoſe arts and manufactures in Moſcow, which he was deſirous of
+                    ſpreading throughout his empire ; and the latter excelled in the art of
+                    navigation, which he conſidered as more neceſſary than any other. During the
+                    adminiſtration of the princeſs Sophia, he had formed a deſign of eſtabliſhing a
+                    maritime power in Ruſſia ; which he accompliſhed by the means which we have
+                    recorded in his life.</p>
+                <p>Having reformed his array, and introduced new diſcipline among them, he led his
+                    troops againſt the Turks; ſrom whom, in 1696, he took the fortreſs of Azov, and
+                    had the ſatisfaction to ſee his fleet defeat that of the enemy. On his return to
+                    Moſcow were ſtruck the firſt medals which had ever appeared in Ruſſia. The
+                    legend was, “ Peter the first, <hi rend="italic">the auguβ emperor of Rujfia.”</hi> On the reverſe was Azov, with theſe words, <hi rend="italic">ViSorious by
+                        fire and water.</hi> Notwithſtanding this ſucceſs, however, Peter , was
+                    very much chagrined at having his ſhips all built by foreigners ; having beſides
+                    as great an inclination to have an harbour on the Baltic as on the Euxine Sea.
+                    Theſe conſiderations determined him to ſend ſome of the young nobility oſ his
+                    empire into foreign countries, where they might improve. In 1697 he ſent 69
+                    young Ruffians into Italy ; moſt of them to Venice, and the reſt to Leghorn, in
+                    order to learn the method of conſtructing their galleys. Forty more were ſent
+                    out by his direction for Holland, with an intent to inſtruct themſelves in the
+                    art of building and working large ſhips : others were appointed for Germany, to
+                    ſerve in the land-forces, and to learn the military diſcipline of that nation.
+                    At laſt he reſolved to travel through different countries in perſon, that he
+                    might have the opportunity of profiting by his own obſervation and experience.
+                    Of this journey we have given a ſhort account elſewhere ; and ſhall here only
+                    add, that in executing his great deſign, he lived and worked like a common
+                    carpenter. He laboured hard at the forges, rope-yards, and at the ſeveral mills
+                    for the ſawing of timber, manufacturing of paper, wiredrawing, &amp;c. In
+                    acquiring the art of a carpenter, he began -with purchaſing a boat, to which he
+                    made a maſt himſelf, and by degree« he executed every part of the conſtruction
+                    of a ſhip·</p>
+                <p>Beſides this, Peter frequently went ſrom Sweden to Amſterdam, where he attended
+                    the lectures of the celebrated Ruyſeh on anatomy. He alſo attended the lectures
+                    of burgomaſter Witſen on natural philoſophy. From this place he went for a few
+                    days to Utrecht, in order to pay a viſit to King William III. of England ; and
+                    on his return ſent to Archangel a 60 gun ſhip, in the building of which he had
+                    aſſiſted with his own hands. In 1698 he went over to England, where he employed
+                    himſelf in the ſame manner as he had done in Holland. Here he perfected himſelf
+                    in the art of ſhip-building ; and having engaged a great number of artificers,
+                    he returned with them to Holland ; from whence he ſet out for Vienna, where he
+                    paid a viſit to the emperor; and was θn the point of ſetting out for Venice to
+                    finiſh his- improvements, when he was informed of a rebellion having broken out
+                    in his dominions. This was occaſioned by the ſuperſtition and obſtinacy of the
+                    Ruffians, who having an almoſt invincible attachment to thçir old ignorance and
+                    barbariſm, had reſolved to dethrone the Czar on account of his innovations. But
+                    Peter arriving unexpectedly at Moſcow, quickly put an end to their machinations,
+                    and took a moſt ſevere revenge on thoſe who had been guilty. Having then made
+                    great reformations in every part of his empire, in 1700 he entered into a league
+                    with the kings of Denmark and Poland againſt Charles XII. of Sweden. The
+                    particulars of this famous war are related under the article Sweden. Here we
+                    ſhall only obſerve, that, from the conclufion of this war, Sweden ceaſed not
+                    only to be a formidable enemy to Ruſſia, but even loſt its political conſequence
+                    in a great meaſure altogether.</p>
+                <p>Peter applied himſelf to the cultivation of commerce, arts, and ſciences, with
+                    equal aſſiduity as to the pursuits of war ; and he made ſuch acquiſitions of
+                    dominion even in Europe itſelf, that he may be ſaid, at the time of his death,
+                    to have been the moſt powerful prince of his age. He was unfortunate in the
+                    Czarovitz his eldeſt ſon, whom he contrived to get rid oſ by the forms of
+                    juſtice (ſee Peter I. note b),' and then ordered his wife Catharine to be
+                    crowned with the ſame magnificent ceremonies as if ſhe had been a Greek
+                    em-preſs, and to be recogniſed as his ſucceſſor ; which ſhe accordingly was, and
+                    mounted the Ruſſian throne upon the deceaſe of her huſhand. She died, after a
+                    glorious reign, in 1727, and was ſucceeded by Peter II. a minor, ſon toi the
+                    Czarovitz. Many domeſtſe revolutions happened in Ruſſia during the ſhort reign
+                    of this prince; but none was more remarkable than the diſgrace and exile of
+                    Prince Menzikoff, the favourite general in the two late reigns, and eſteemed the
+                    richeſt ſubject in Europe. Peter died of the ſmall-pox in 1730.</p>
+                <p>Notwithſtanding the deſpotiſm of Peter the Great and his wife, the Ruſſian
+                    ſenate and nobility, upon the death of Peter II. ventured to ſet aſide the order
+                    of ſucceſſion which they had eſtabliſhed. The male iſſue of Peter was now
+                    extinguiſhed ; and the duke of Hol-ſtein, ſon to his eldeſt daughter, was by the
+                    deſtination of the late empreſs intitled to the crown : but the Ruffians, for
+                    political reaſons, filled their throne with Anne ducheſs of Courland, ſecond
+                    daughter to John, Peter’s eldeſt brother ; though her elder fitter the ducheſs
+                    of Mecklenburgh was alive. Her reign was extremely prυfperous : and though ſhe
+                    accepted of the crown u»&lt;</p>
+                <pb xml:id="eb03-16-r03-0565" facs="gri_33125011196389_0571.tif"/>
+                <p>der limitations that ſeme thought derogatory to her dignity, yet ſhe broke them
+                    all, aſſerted the prerogative of her anceſtors, and puniſhed the aſpiring
+                    Dolgo∏ιcki family, who had impoſed upon her limitations, v-ith a view, as it is
+                    ſaid, that they themſelves might govern. She raiſed her favourite Biron to the
+                    duchy of Cour-land ; and was obliged to give way to many ſevere executions on
+                    his account. Upon her death in 1740, John, the ſon of her niece the princeſs of
+                    Mecklenburgh, by Antony Ulric of Brunſwiq Wolfenbuttel, was, by her will,
+                    intitled to the ſucdeffion : but being no more than two years old, Biron was
+                    appointed to he adminiſtrator of the empire during h⅛ nonage. This deſtination
+                    was diſagreeable to the prir⅛eefs of Mecklenburgh and her huſhand, and unpopulaf <hi rend="sup">s</hi> samong the- Ruffians. . Count Munich was employed
+                    b⅜the princeſs of Mecklenburgh to arreſt Biron ; who was tried, and condemned to
+                    die, but was ſent in exile to Siberia.</p>
+                <p>The adminiſtration of the princeſs Anne of Mecklenburgh and her huſhand was,
+                    upon many accounts, but particularly that of her German connections,
+                    diſagreeable not only to the Ruffians, but to other powers of Europe ; and
+                    notwithſtanding a proſperous war they carried on with the Swedes, the princeſs
+                    Elizabeth, daughter by Catharine to Peter the Great, formed ſuch a party, that
+                    in one night’s time ſhe was declared and proclaimed empreſs of the Ruffias ; and
+                    the princeſs ot Mecklenburgh, her huſhand, and ſon, were made priſoners.</p>
+                <p>Elizabeth’s reign may be ſaid to have been more glo-'rious than that of any of
+                    her predeceffors, her father excepted. She aboliſhed capital puniſhments, and
+                    introduced into all civil and military proceedings a moderation till her time
+                    unknown in Ruffia : but at the ſame time ſhe puniſhed the counts Munich and
+                    Oſter-man, who had the chief management of affairs during the late
+                    adminiſtration, wiſh exile. She made peace with Sweden ; and ſettled the
+                    ſucceffion to that crown, as well as to her own dominions, upon ſhe moſt
+                    equitable foundation. Having glorioufly finiſhed a war, which had been ſtirred
+                    up againſt her with Sweden, ſhe replaced the natural order of ſucceffion in her
+                    own family, by declaring the duke of Holſtein-Gottorp, who was deſcended from
+                    her elder fiſter, to be her heir. She gave him the title of grand duke of Ruffia
+                    ; and ſoon after her acceffion to the throne, ſhe called him to her court ;
+                    where he renounced the ſucceffion to the crown of Sweden, which undoubtedly
+                    belonged to him, embraced the Greek religion, and married a princeſs of
+                    Anhalt-Zerbſt, by whom he had a ſon, who is now heir to the Ruffian empire.</p>
+                <p>Few princes have had a more uninterrupted career of glory than Elizabeth. She
+                    was completely victorious over the Swedes. Her alliance was courted by Great
+                    Britain at the expence of a large ſubfidy ; but many political, and ſome private
+                    reaſons, it is ſaid, determined her to take part with the houſe of Auſtria
+                    againft ſhe king of Pruffia in 1 756. Her arms alone gave a turn to the ſucceſs
+                    of the war, which was in disfavour of Pruffia, notwithftanding that monarch’s
+                    amazing abilities both in the field and cabinet. Her conqueſts were ſuch as
+                    portended the entire deſtruction of the Pruffian power, which was perhaps ſaved
+                    only by her critical death on January 5. 1762.</p>
+                <p>Elizabeth was Succeeded by Peter UI. grand prince</p>
+                <p>of Ruffia and duke of Holſtein ; a prince whoſe conduct has been variouſly
+                    repreſented. He mounted the throne poffeffed of an enthufiaſtic admiration of
+                    his Pruffian majeſty’s virtues ; to whom he gave peace, and whoſe principles and
+                    practices he ſeems to have adopted as the directories of his future reign. He
+                    might have ſurmounted the effects even of thoſe peculiarities, un-popular as
+                    they then were in Ruffia ; but it is ſaid, that he aimed at reformations in his
+                    dominions, which even Peter the Great durſt not attempt ; and that he even
+                    ventured to cut off the beards of his clergy. He was certainly a weak man, who
+                    had no opinions of his own, but childiſhly adopted the ſentiments of any perſon
+                    who took the trouble to teach him. His chief amuſement was buffoonery ; and he
+                    would fit for hours looking with pleaſure at a merry-andrew fi∏g-ing drunken and
+                    vulgar ſongs. He was a ſtranger to the country, its inhabitants, and their
+                    manners ; and ſuffered himſelf to be perſuaded by thoſe about him, that the
+                    Ruffians were fools and beafts unworthy of his attention, except to make them,
+                    by meanε of the Pruffian diſeipline, good fighting machines. Theſe ſentiments
+                    regulated his whole conduct, and prepared the way for that revolution which
+                    improprieties of a different kind tended to haften.</p>
+                <p>Becoming attached to one of the Vorontzoff ladies, fiſter to the princeſs
+                    Daſhkoff, he diſguſted his wife, who was then a lovely .woman in the prime of
+                    life, of great natural talents and great acquired accompliſhments ; whilſt the
+                    lady whom he preferred to her was but one degree above an idiot. The princeſs
+                    Daſhkoff, who was married to a man whoſe genius was not ſupe-rior to that of the
+                    emperor, being <hi rend="italic">dame d <hi rend="sup">,</hi> honneur</hi> and lady of the bedchamber, had of courſe much of the empreſs’s company.
+                    Similarity of ſituations knit theſe two illuſtrious perſonages in the cloſeſt
+                    friendſhip. The princeſs being a zealous admirer of the French <hi rend="italic"
+                        > œconomistes</hi> , could make her converſation both amufing
+                    andinſtructive. She retailed all her ſtatiſtical knowledge ; and finding the
+                    empreſs a willing hearer, ſhe ſpoke of her in every company as a prodigy of
+                    knowledge, judgment, and philanthropy. Whilſt the emperor, by his buffoonery and
+                    attachment to foreign manners, was daily incurring more and more the odium of
+                    his ſubjects, the popularity of his wife was rapidly in-creaſmg ; and ſome
+                    peiſons about the court expreffed their regret, that ſo much knowledge of
+                    government, ſuch love of humanity, and ſuch ardent wiſhes for the proſperity of
+                    Ruffia, ſhould only furniſh converſations with Catharina Romanovna<note
+                        anchored="true" place="margin" type="authorial"><hi rend="italic">The
+                            Princess Dashkoff.</hi></note>. The empreſs and her favourite did not
+                    let theſe expreffions paſs unobſerved: they continued their ſtudies in concert ;
+                    and whilſt the former was employed on her famous code of laws for a great
+                    empire, the latter always reported progreſs, till the middling circles of Moſcow
+                    and St Peterſhurgh began to ſpeak familiarly of the bleffings which they might
+                    enjoy if theſe {peculations could be realized.</p>
+                <p>Meanwhile Peter III. was giving freſh cauſe of discontent.. He. had recalled
+                    from Siberia count Munich, who was indeed a ſenſible, brave, and worthy man ;
+                    hut as he. was ſmarting under the effects of Ruffian defpotifm, and had grounds
+                    of reſentment againft moſt of the great families, he did not much diſcourage the
+                    emperor’s unpopular conduct, but only tried to moderate it and give it a ſyſtem.
+                    Peter, however, was impatient.</p>
+                <pb xml:id="eb03-16-r03-0566" facs="gri_33125011196389_0572.tif"/>
+                <p>He publicly ridiculed the exerciſe and evolutions of the Ruffian troops ; and
+                    haſtily adopting the Pruſſian diſcipline, without digeſting and fitting it for
+                    the conſtitution of his own forces, he completely ruined himſelf by diſguſting
+                    the army.</p>
+                <p>What he loſt was ſoon and eaſily gained by the emiſſaries of Catharine. Four
+                    regiments of guards, amounting to 8ooo men, were inſtantly brought over by the
+                    three brothers Orloff, who had contrived to ingratiate themſelves with their
+                    officers. The people at large were in a ſtate of indifference, out of which they
+                    were rouſed by the following means. A little manuſcript was handed about,
+                    containing principles of legiſlation for Ruſſia, founded on natural rights, and
+                    on the claims of the different claſſes of people which had inſenfibly been
+                    formed, and become ſo familiar as to appear natural. In that performance was
+                    propoſed a convention of deputies ſrom all the claſſes, and from every part of
+                    the empire, to converſe, but without authority, on the ſubjects of which it
+                    treated, and to inform the ſenate of the reſult of their deliberations. It
+                    paſſed for the work of her majeſty and was much admired.</p>
+                <p>While Catharine was thus high in the public eſteem and affection, the emperor
+                    took the alarm at her popularity, and in a few days came to the reſolution of
+                    confining her for life, and then of marrying his favourite. The ſervants of that
+                    favourite betrayed her to her filter, who imparted the intelligence to the
+                    empreſs. Catherine ſaw her danger, and inſtantly formed her reſolution. She muſt
+                    either tamely ſubmit to perpetual impriſonment, and perhaps a cruel and
+                    ignominious death, or contrive to hurl her huſhand from his throne. No other
+                    alternative was left her ; and the conſequence was what undoubtedly was
+                    expected. The proper ſteps were taken ; folly fell before abilities and addreſs,
+                    and in three days the revolution was accompliſhed.</p>
+                <p>When the emperor ſaw that all was loſt, he attempted to enter Cronſtadt ſrom
+                    Oranienbaum, a town on the gulph of Finland, 39 verſts, or near 26 miles from
+                    Peterſburgh. The ſentinels at the harbour preſented their muſkets at the barge ;
+                    and though they were not loaded, and the men had no cartridges, he drew back.
+                    The Engliſh ſailors called from ſhip to ſhip for ſome perſon to head them,
+                    declaring that they would take him in and defend him ; but he precipitately
+                    withdrew. Munich received him again at Oranienbaum, and exhorted him to mount
+                    his horſe and head his guards, ſwearing to live and die with him. He ſaid, “ No
+                    : I ſee it cannot be done without ſhedding much of the blood of my brave
+                    Holſteinians. I am not worthy of the ſacrifice.” The revolution was ſettled, and
+                    Catharine declared <hi rend="italic">autocratrix.</hi> The crown was ſaid to
+                    be preſſed upon her, and her ſon was proclaimed <hi rend="italic">her</hi> heir, and <hi rend="italic">as</hi> <hi rend="italic">ſuch</hi> great duke of all the Ruſſias.</p>
+                <p>She behaved with magnanimity and moderation ; retained Munich; even pardoned
+                    counteſs Vorontzoſſ the emperor’s favourite ; and afterwards, on her marriage
+                    with Mr Raulotſky, made a handſome· ſettlement on them. She allowed the
+                    expectations of golden days and a philoſophical government to become the ſubject
+                    of faſhionable conversation ; and the princeſs Daſhkoff <note anchored="true"
+                        place="bottom" type="authorial" n="3">This lady, during the progreſs of the
+                        revolution, certainly acted either from the moſt difintereſted patriotiſm or
+                        the moſt generous friendſhip. She might have taken part with the emperor,
+                        and directed the counſels of the empire ; for her ſiſter, on whom he doated,
+                        acknowledged her ſuperiority, and wanted nothing but pleaſure. Between them
+                        they could eaſily have governed ſuch a man as Peter III. but Catharine
+                        Romanovna was a theoretical enthufiaſt, who loved the empreſs becauſe ſhe
+                        thought her a philoſopher and philanthropiſt ; and perhaps ſhe might
+                        entertain hopes of directing the conduct of Catharine II. as ſhe had
+                        formerly aſſiſted her in her patriotic ſtudies.</note> was completely happy.
+                    The convention of deputies was even reſolved on; and as they were not to be
+                    elected by the people, except here and there for the ſhow, Prince Galitzin and
+                    Count Panin, whom ſhe had completely gained over, and who had the greateſt
+                    abilities of any Ruſſians about court, were at immenſe pains in appointing a
+                    proper ſet. In the mean time, a great number of ſhowy patriotic projects were
+                    begun. A grave Engliſh clergyman was invited over to ſuperintend the inſtitution
+                    of ſchools for civil and moral education; and the empreſs was moſt liberal in
+                    her appointments. This inſtitution failed, however, to produce the effects
+                    expected from it. The clergyman appointed, though a moſt excellent character and
+                    real philan-thropiſt, had views too contracted for the ſphere in which he was
+                    placed ; and Mr Betſkoy, the Ruffian <hi rend="italic">Mecaenas,</hi> to whom
+                    the empreſs referred him for inſtructions, preferred déclamation, and
+                    ſtage-playing, and ballets, to all other accompliſhments.</p>
+                <p>In the mean time, elegance of all kinds was introduced before the people were
+                    taught the principles of morals. The nobles were ſent a travelling ; and as the
+                    Ruſſians more eaſily acquire foreign languages than the people of moſt other
+                    nations, have great vivacity without flippancy, and in general underſtand play,
+                    theſe travellers were everywhere well received, eſpecially at Paris, where
+                    reaſons of ſtate contributed not a little to procure to them that attention with
+                    which they were treated. They were raviſhed with the manners of foreign courts,
+                    and imported faſhions and fineries without bounds. The ſovereign turned all this
+                    to her own account, by encouraging a diſſipation which rendered court favours
+                    neceſſary, and made the people about her forget their Utopian dreams.</p>
+                <p>The convention of deputies at laſt aſſembled in the capital. The empreſs’s book
+                    of inſtructions <note anchored="true" place="bottom" type="authorial" n="4">It
+                        is intitled, <hi rend="italic">Inſtructions for the Deputies to conſult
+                            about a New Code of Laws,</hi> &amp;c. and is a very reſpectable work,
+                        which does honour to the empreſs, by whom it was undoubtedly compoſed.
+                    </note> came forth; and by ſome great things were doubtleſs expected. The moſt
+                    conſequential of the deputies were privately inſtructed to be very cautious, and
+                    informed that carriages and guards were ready for Siberia. There was a grand
+                    proceſſion at their preſentation. Each had the honour of kiſſing her majeſty’s
+                    hand and receiving a gold medal. They met in form to recogniſe one an-</p>
+                <pb xml:id="eb03-16-r03-0567" facs="gri_33125011196389_0573.tif"/>
+                <p>ether,, then parted, and have never met ſince. . The thing melted away without
+                    notice ; and the Princeſs Daſhkoſſ was handſomely given to underſtand, that
+                    her-counſeh were no longer neceſſary, and that ſhe could not do better than take
+                    the amuſements ol the tour of Europe. She was liberally ſupplied, and has ever
+                    ſince been treated with great kindneſs, but kept amuſed with ſomething very
+                    different from legillation.</p>
+                <p>In the mean time, many patriotic things were really done. Taxes were frequently
+                    remitted where they were burthenſome. Every perſon was declared free who had
+                    ſerved government without pay for two years. No man was allowed to ſend boors
+                    from -his cultivated •eſtates to his mines in Siberia, nor to any diſtant
+                    eſtates, but for the purpoſes of agriculture. Many colonies of German peaſants
+                    were in various places ſet-tled on the -crown-lands, to teach the natives the
+                    management of the dairy ; a branch of rural economy of which the Ruffians were
+                    till that period ſo completely ignorant, that there is not in their language an
+                    appropriated word for <hi rend="italic">butter,</hi> or <hi rend="italic">cheeſe,</hi> or even lor <hi rend="italic">cream.</hi></p>
+                <p>The Ruffians hoped to be likewiſe inſtructed in agriculture ; but the coloniſts
+                    were poor and ignorant ; and this part of the project came to nothing, like the
+                    great national ſchools. Other improvements however took place in favour of
+                    commerce ; for all barriers were removed, and goods ſuffered to paſs through the
+                    empire duty-free. The empreſs with great liberality encouraged the introduction
+                    of arts and manufactures. An academy was inſtituted of ſculptur/·, painting, and
+                    architecture, &amp;c. a magnificent and elegant building was erected for it,
+                    and mauy élevés ſupported in it at the expence of the erawn. Several very
+                    promiſing youths have been educated in that academy ; but as the Ruffians are
+                    childiſhly fond of finery, and cannot be perſuaded that any thing fine was ever
+                    done by their own countrymen, the ſtudents are all, on leaving the academy,
+                    ſuffered to ſtarve.</p>
+                <p>The empreſs, who has a very juſt taſte in architecture, has herſelf deſigned
+                    ſeveral buildings equally uſeful and ornamental to her capital (ſee Neva and
+                    Pete rsburgh) ; and while ſhe has thus diligently cultivated the arts of peace,
+                    ſhe has not neglected thole of war. She put her fleets on the moſt reſpectable
+                    footing, and procured a number of Britiſh officers to inſtruct her ſeamen in the
+                    ſcience oſ naval tactics. By land, her .ſucceſſes againſt the Turks, the Swedes,
+                    and the Poles (ſee Turkey, Sweden, and Poland), .compel us to believe, that her
+                    troops are better diſci-plined, 3∏d her generals more fl&lt;ilful, than any
+                    whom the greateſt of her predeceſſors could bring into the ■field ; and perhaps
+                    it is not too much to ſay, that the empire of Ruſſia, though the people are but
+                    juſt emer-.ging from a ſtate of barbariſm, is at thia day the moſt powerful in
+                    Europe.</p>
+                <p>Ruſſia is divided into two great parts by a range of mountains called <hi
+                        rend="italic"> Ourat,</hi> or the <hi rend="italic">Pelt,</hi> which,
+                    through the whole breadth of it, form one continual uninterrupted barrier,
+                    dividing Siberia from the remaining Ruſſia.—-That part of Ruſſia which lies on
+                    this fide oſ the Oural mountains preſents a very extenſive plain verging
+                    weſtward by an eaſy deſcent. The vaſt extent of this plain has a great variety
+                    of different climates, foils, and products. The aoκthern past of it is very
+                    woody,</p>
+                <p>marſhy, and but little fit for cultivation, and has a ſenſible dediyity towards
+                    the White and the Frozen Seas. The other part of this vaſt plain includes the
+                    whole extent along the river Volga as far as the deſerts, extending by the
+                    Caſpian and the Azov Seas, and conſtitutea the fineſt part of Ruſſia, which in
+                    general is very rich, and fruitful, having more arable and meadow laud than
+                    wood, marſhes, or barren deſerts.</p>
+                <p>The part lying on the other ſide of the Oural moun« tains, known by the name of
+                    Siberia, is a flat tract of land of conſiderable extent, declining imperceptibly
+                    towards the Glacial Sea, and equally by imperceptible degrees riling towards the
+                    ſouth, where at laſt it forms a great range of mountains, conſtituting the
+                    borders of Ruſſia on the ſide of Chuta. Between the rivers Irtiſh, Obè, and the
+                    Altay mountains, there is a very extenſive plain, known by'the name of <hi
+                        rend="italic"> liurabinſkaya Stepe <hi rend="sub">9</hi> ,</hi> viz. the
+                    deſerts of Baraba, the northern part of which· is excellent for agriculture ;
+                    but the ſouthern part, on-the contrary, is a deſert full of ſands and marſhes,
+                    and very unfit for cultivation. Between the rivers Obe and Eniſſey there is more
+                    woodland than open ground ; and the other ſide of the Eniſſey is entirely
+                    covered with-impervious woods, as far as the lake Baical ; but the ſoil is
+                    fruitful everywhere ; and wherever the trouble has been taken of clearingit of
+                    the wood, and of draining it ſrom unneceffary water, it proves to be very rich,
+                    and fit for cultivation ; and the country beyond the Baical is ſurrounded by
+                    ridges of highſtony mountains. Proceeding on farther towards the eaſt, the
+                    climate of Siberia becomes by degrees more and more ſevere, the ſummer grows
+                    ſhorter, the winter longer, and the froſts prove more intenſe.</p>
+                <p>With reſpect to the variety of climates, as well as the produce of the earth,
+                    Ruſſia naturally may be divided into three regions or diviſions, viz. into the
+                    north· ern, middle, and ſouthern diviſions.</p>
+                <p>I'heſe were about <hi rend="italic">20</hi> years ago ſubdivided into
+                    different governments, for the better adminiſtration of iu* ſtice.</p>
+                <p>The northern diviſion, beginning from the 57th degree oſ latitude, extends to
+                    the end of the Ruſſian dominions on the north, and includes the governments of
+                    St Peterſhurgh, Riga, Revel, Vyborg, Pſcov, Novogorod* Tver, Oloneti, Archangel,
+                    Vologda, Yaroſlavl, Koſtro-ma, Viatka, Ferme, and fobolſk. The middle diviſion
+                    is reckoned from the 57th to the 50th degree of latitude, and includes the
+                    governments of Moſcow» Smolenſk, Polotfl&lt;, Moghilev, Tchernigov,
+                    Novogorod-Bieverſkoy, Kharkov, Voronez, Kourſk, Orel, Kalou&lt; ga, Toola,
+                    Riazane, Vladimir, Niznei-Novogorod, Tambov, Saratov, Penza, Sinbiiſk, Kazane,
+                    Oufa, Kolhivane, and Irkoutſk. The ſouthern diviſion begins at the 50th degree
+                    of latitude, and extends to the end of Ruſſia on the ſouth, including the
+                    governments of Kiev, Ekatherinoſlav, Caucafus∙, and the province of Taurida. To
+                    this may be added the habitations of the Coffack6 of the Don.</p>
+                <p>The northern diviſion, though deficient in grain, fruit, and garden vegetables,
+                    has the preference before the other two in the abundance of animals, rare and
+                    valuable for their ſkins j in ſiſhes of particular forts, very uſeful for
+                    different purpoſes of life ; in cattle, and metals of inferior kinds,
+                    &amp;c. The middle diviſion of Ruſſia abounds in different kinds of grain,
+                    hemp, flax <hi rend="sub">ff</hi></p>
+                <pb xml:id="eb03-16-r03-0568" facs="gri_33125011196389_0574.tif"/>
+                <p>cattle, ſiſh, bees, timber proper for every uſe, different kinds of wild beafts,
+                    metals, both of ſuperior as well as of inferior kind, different precious ſtones,
+                    &amp;c. This divifion is likewiſe moſt convenient for the habitation of
+                    mankind, on account of the temperature arid pleaſant-neſs of the air. The ſouth
+                    divifion has not that abundance of grain, but has the preference in different
+                    delicate kinds of fruit, quantity of fiſh, cattle, and wild animals, amongſt
+                    which there are ſeveral ſpecies different from thoſe which are found in the
+                    middle divifion. It exceeds greatly both the other divifιons in plants and roots
+                    fit for dying and for medical purpoſes, as well as for the table ; neither is it
+                    deprived of precious ſtones, as well as different metals.</p>
+                <p>The products of thoſe three diviſions conftitute the permanent and inexhauſtible
+                    riches of Ruffia ; for, befides what is neceffary ſor home conſumption, there is
+                    a great quantity of thoſe products exported yearly into foreign countries to the
+                    amount of ſeveral millions of rubles. Theſe productions are brought from
+                    different places to fairs, eſtabliſhed in different parts of Ruffia, where the
+                    merchants buy them up, and forward them to different port6, and other trading
+                    towns, for exportation into foreign kingdoms. Theſe fairs are likewiſe the
+                    places where a conſiderable quantity of goods imported from foreign kingdoms is
+                    diſpoſed of. The principal yarmankas, that iβ, fairs, are the yarmanka
+                    Makarievikaya, Korennaya, and lrbitſkaya.</p>
+                <p>The external commerce of Ruſlia may be divided into two different branches; iff,
+                    The commerce with the European nations, which is carried on by buying and
+                    felling goods either for ready money or upon credit. 2d, The commerce with the
+                    Afiatic nations, which is conducted by barter or exchange of goods.</p>
+                <p>The principal ports belonging to the firſt part of Ruffia are, on the Baltic
+                    ſea, -St Peterſhurgh, Riga, Vyborg, Revel, Narva, Frederickſham, and the Baltic
+                    port ; Archangel on the White ſea, and Kola on the Northern Ocean ; Taganrog on
+                    the ſea of Azov ; Kher-ſon, Sevaſtopole, Balaklava, Soudak,Theodofιa, Kerche,
+                    and Phanagoria on the Black ſea, befides others of ſmaller note. In theſe ports
+                    commerce iβ carried on, as well as in ſeveral trading towns ſituated on the
+                    Rentiers of Poland, Sweden, and Turkey.</p>
+                <p>The products of Ruffia exported into the different European kingdoms conſiſt
+                    chiefly in hemp, flax, different kinds of grain, tallow, hides, fail-cloth,
+                    iron, timber, linſeed, butter, hemp-oil, train-oil, wax, potaſhes, tar, tobacco,
+                    briſtles, linens, peltry, and other goods, the greateſt part of which is
+                    exported chiefly by way of St Peterſhurgh, Riga, and Archangel ; and in return
+                    from the European kingdoms they receive woollen cloths, different kinds of goods
+                    made of worlled, filk, cotton, and thread ; wines and beer, white and moiſt
+                    ſugars, filks, cotton unwrought, and yarn ; French brandy, liquors, aιrack,
+                    ſhrub, different iron tools, and toys ; gold and ſilver in bars, in foreign
+                    money, and in other things ; brilliants, pearls, galanterie goods, coffee,
+                    colours ; peltry, viz. beaver and otter fkins ; herrings, ſtock-fiſh, ſalt,
+                    tobacco, different trees, oil, horſes, china and earthen ware, <hi rend="italic"
+                        > Sec.</hi> The greateſt part of theſe goods is imported through the ports
+                    of St Peterſhurgh and Riga, but a conſiderable quantity is likewiſe admitted by
+                    land through different frontier cuſtom-houſee.</p>
+                <p>The principal goods exported into Afla are partly the products of Ruffia, and
+                    partly imported from other European kingdoms, and conſiſt of peltry and hides.
+                    The other goods are woollen cloths, bays, borax, bottles, printed linens, iron,
+                    and different kinds of ironware, calamanco«, kerſeys, glue, ifinglaſs,
+                    cochineal, indigo, laura, tinſel, gold and ſilver lace, ſoap ; all kinds of
+                    arms, as piſtols, guns, ſabres ; different kinds of linens, printed and glazed,
+                    ſtriped linen, ticking, pallock, craſh, &amp;c. From the Afiatic kingdoms
+                    they import different filk goods, raw filk, cotton, filk-wove ſtuffs, gold and
+                    ſilver in bars and in coin, cattle, horſes, &amp;c.</p>
+                <p>The mountains within Ruffia, as well as thoſe on its frontiers, abound with
+                    minerals of various kinds. Gold, filver, quickfilver, copper, lead, iron-ore,
+                    very powerful loadſtones, mountain-cryftal, amethyſt, topazes of different
+                    forts, agates, cornelian, beryl, chalcedony, onyx, porphyry, antimony, pyrites,
+                    aquamarines, cliryſolites, ophites, and lapis lazuli, hre found in them, befides
+                    marble, granite, trappe, maria or Muſcovy glaſs, of remarkable fize and
+                    clearneſs, baſaltes, and coal, &amp;c. ; and in every part of Siberia, but
+                    particularly in the plains of it, are found bones of animals uncommonly large,
+                    mammoth’s teeth (ſee Mammoth), and other foſſils.</p>
+                <p>In the Ruffian empire are many lakes of very large extent, ι. The Ladoga,
+                    anciently called <hi rend="italic">Nevo,</hi> is the latgeſt lake in Europe,
+                    extending in length r75 and in breadth 105 verſts ; or it is 116 Engliſh miles
+                    long and near 70 broad. It lies between the governments of St Peterſhurgh,
+                    Olonetz, and Vyborg ; and communicates with the Baltic ſea by the river Neva,
+                    with the Onega lake by the river Svir, and with the Ilmen lake by the river
+                    Volkov. Several conſiderable rivers fall into it, as the Paſha, Sias, Oyat, and
+                    others. The Ladoga canal is made near this lake. 2. The Onega lake is ſituated
+                    in the government of Olonetz. Tt it above 200 verſts long, and the greateſt
+                    width of it does not exceed 80 verſts. 3. The Tchude lake, or Peipus, lies
+                    between the governments of St Peterſhurgh, Pſcov, Revel, and Riga. It is near 80
+                    verſts' long and 60 broad. It joins to the lake of Pſcov by a large neck of
+                    water. The length of this lake is 50 and the width about 40 verſts. The river
+                    Velikaya flows into it. The river Narova comes out of the lake Peipus, which by
+                    the river Embakha communicates with the lake Wirtz-Erve, and from this latter
+                    flows the river Fellin, and runs into the bay of Riga. 4. The Ilmen lake,
+                    anciently called <hi rend="italic">Mοljk,</hi> lies in the -government of
+                    Novogorod. Its length is 40 and width 30 verſts. The rivers Mſta, .Lovate,
+                    Shelone, and others, fall into it ; and only one liver, Volkov, runs out of it,
+                    by which it is joined with the Ladoga lake. 5. The Bielυ-Ozero, that is, the
+                    White Lake, lies in the government of Novogorod. It extends $0 verſts in length,
+                    and -about 30 in width. There are many ſmall rivers which run into it ; but only
+                    one river, Shekſna, comes out of it, and falls into the river Volga. 6. The
+                    Altin, or Altay lake, otherwiſe called the <hi rend="italic">Tel-tſk Lake,</hi> is fituated in the government of Kolhivane. It extends in length 126 and
+                    in width about 84 verſts. The river Biya comes out of it, which being joined to
+                    the river Katounya, conftitute the river Obc. 7. The Baical Lake, otherwiſe
+                    called the <hi rend="italic">Bal-cal Sea,</hi> and the <hi rend="italic">Holy
+                        Sea,</hi> lies in the government of Irk-outſk. Its extent in length is 600,
+                    and in width from</p>
+                <pb xml:id="eb03-16-r03-0569" facs="gri_33125011196389_0575.tif"/>
+                <p>JO to 50 verſts, and in the wideſt places as far as 70 verſts. 8. The Tchani
+                    Lake lies in the deſerts of Ba-raba, between the rivers Obè and lrtiſh. It joins
+                    with a great many ſmaller lakes, occupies a vaſt tract of land, and abounds very
+                    much in ſiſh. 9. Between the Gulf of Finland and the White Sea there are ſeveral
+                    lakes which extend from 50 to 70 verſts in length ; and befides theſe there are
+                    many other ſalt lakes in different parts of Ruſſia, ſuch as the Ozero, that is,
+                    the lake El-tonſkoye, Bogdo, Inderſkoye, Ebele, Koryakovſkoye, Yamiſhevſkoye,
+                    Borovye, and others ; and the fait which is got from them ſerves for the uſe of
+                    the greateſt part of the empire. To theſe may be added the Caſpian, which,
+                    though called a ſea, is more properly a lake, as it has no communication with
+                    the ocean either viſible or ſubterraneous. See <hi rend="italic">CASPiAN-Sea,</hi> and Pneumatics, n <hi rend="sup">0</hi> 277.</p>
+                <p>Ruſſia boaſts likewiſe of a conſiderable number of large and famous rivers. Of
+                    the Dvina or Dwina, the Neva, Dnieper or Nieper, the Don, the Volga, the Trtis,
+                    the Onega, the Oby, and the Lena, the reader of this work will find ſome account
+                    under their reſpective names ; but in this vaſt empire there are many other
+                    rivers worthy of notice, tho’ not perhaps of ſuch minute deſcription. Among
+                    theſe the <hi rend="italic">Bong,</hi> or, as it is ſometimes written, <hi
+                        rend="italic"> Bog,</hi> riſes in Poland ; then directing its courſe to the
+                    ſouth-eaſt, it divides the government of Ecatherinoſlav from the deſerts of
+                    Otchakov, now belonging to Ruſſia, and falle into the Liman, which communicates
+                    with the Black ſea.</p>
+                <p>The Kubane conſiſts of many ſprings or rivulets running out of the Caucaſian
+                    mountains, and divides itſelf into two branches, the one of which falls into the
+                    Azov Sea, and the other into the Black ſea. This river, from its ſource to the
+                    end of it, conſtitutes the frontier of Ruſſia.</p>
+                <p>The Oural, formerly Yaik, takes its riſe in the Oural mountains, in the
+                    government of Oufa, which it divides from that of Caucaſus, and extends its
+                    courſe about 3000 verſts. It receives many rivers, the principal of which are
+                    the Or, Sakmara, Yleck, and Terkool.— The Kouma riſes in the Caucaſian
+                    mountains, and runs through the plains between Terek and Volga, and at laſt
+                    lofes itſelf in the ſands, before it comes to the Caſpian ſea. The Terek
+                    originates in the Caucaſian mountains, runs between them, and then coming out,
+                    extends its courſe to the Caſpian Sea, and receives ſeveral rivers, as the
+                    Malka, Soonja, Bakſan, and Ack-ſay.</p>
+                <p>The Bolſhaya Petchora, that is, the great Petchora, riſes in the Oural
+                    mountains, in the government of Vologda, runs acroſs the whole breadth of the
+                    government of Archangel, and falls into the Icy ſea. It receives in its courſe
+                    ſeveral rivers, the principal of which are the Outcha and the Elma. The Eniſſey
+                    is formed by the junction of two rivers, the Oulookema and the Baykema, which
+                    riſe in the Altay mountains in Mun-galia. It runs through the whole extent of
+                    Siberia, and falls into the Icy Sea. The extent of the Eniſſey is about 2500
+                    verſts. It receives in its courſe ſeveral rivers, the principal of which are the
+                    Abakan, Elogooy, Podkamennaya Tungouſka, Niznyaya Tungouſka, and Tourookhan. The
+                    Yana, the Indighirka, and the Kolhima, are likewiſe no inconſiderable rivers in
+                    the government of Iikoutſk. The ſirſt riſes in the mountains which overſhadow
+                    the banks of the river Lena on the right hand, and extends its courſe 800
+                    verſts. The two laſt take their ſources in the mountains which extend on the
+                    coaſts of the Eaſtern ſea. The length of the In-dighirka is 1200 and that of
+                    Kolhima 1500 verſts.— The laſt, near its mouth, is divided into two branches,
+                    and receives the rivers Omolon and Onooy. The Anadir is the eaſternmoſt of all
+                    the rivers in Siberia. It- riſes out of the lake Ioanko, in the diſtrict of
+                    Okhotſk, and runs through the eaſtern part of it, and then falls into the
+                    Eaſtern ocean The Amour is formed by the junction of two conſiderable rivers,
+                    the Shilka and Argoonya, which are joined juſt by the frontiers of China. It
+                    runs through the Chineſe dominions, and at laſt falls into the Eaſtern ocean.
+                    The Kamtſchatka runs through the peninſula oi the ſame name, extending its
+                    courſe from the Verkhney to Nizney Oſtrog, that is, from the upper to the lower
+                    fort, and falls into the Eaſtern ocean. The Penjina riſes in the Yablonnoy ridge
+                    of mountains, and falls into the Penjinſkaya Gooba, that is, the gulf or the ſea
+                    of Penjina.</p>
+                <p>In ſuch a vaſt extent of country, ſtretching from the temperate ſo far into the
+                    frigid zone, the climate muſt vary conſiderably in different places. In the
+                    ſouthern parts of the Ruffian empire, the longeſt day does not exceed fifteen
+                    hours and a half ; whereas in the moſt northern, the ſun in ſummer is ſeen two
+                    months above the horizon. The country in general, though lying under different
+                    climates, is exceſſively cold in the winter. Towards the north, the country is
+                    covered near three quarters of the year with ſnow and ice ; and by the ſeverity
+                    of the cold many unfortunate perſons are maimed, or periſh. This fort of weather
+                    commonly ſets in about the latter end of Auguſt, and continues till the month of
+                    May ; in which interval the rivers arc frozen to the depth of four or five feet.
+                    Water thrown up into the air will fall down in icicles ; birds are frozen in
+                    their flight, and travellers in their ſledges. In ſome provinces the heats of
+                    ſummer are as ſcorching as the winter colds are rigorous.</p>
+                <p>The ſoil of Muſcovy varies ſtill more than the climate, according to the
+                    influence of the ſun and the ſituation of the country. In the warmer provinces,
+                    the proceſs of vegetation is ſo rapid, that corn is commonly reaped in two
+                    months after it begins to appear above the ſurface of the ground. Hence the
+                    great variety of muſhrooms produced ſpontaneouſly in Ruſſia, which may be
+                    conſidered as a comfortable relief to the poor, while they appear as delicacies
+                    at the tables of the rich. Above 1000 waggon-loads of them uſed to be fold
+                    annually in Moſcow. Perhaps it is on account of the ſcar-city of proviſions that
+                    ſuch a number of faſts are inſti-tuted in the Muſcovite religion.</p>
+                <p>Beſide^ tire productions already mentioned as peculiar to each of the three
+                    great natural diviſions of the empire, Muſcovy yields rhubarb, flax, hemp,
+                    paſture for cattle, wax, and honey. Among other vegetables, we find in Ruſſia a
+                    particular kind of rice called <hi rend="italic">[ſyntha,</hi> plenty of
+                    excellent melons, and in the neighbourhood of Aſtracan the famous zoophyton, or
+                    animal plant, which the Mulcovites call <hi rend="italic">bonnaret,</hi> or
+                    lambkin, from its reſemblance to a larnb. See the article <hi rend="italic">Scythian LAMB.</hi></p>
+                <p>Agriculture in general is but little underſtood, and leſs proſecuted in this
+                    country. The moſt conſiderable articles in the oeconomy of a Ruffian farm are
+                    wax and</p>
+                <pb xml:id="eb03-16-r03-0570" facs="gri_33125011196389_0576.tif"/>
+                <p>honey, by which the peaſant is oſten enriched. He cuts down a great number of
+                    trees in the foreſt, and ſawing the trunks into a number of parts, bores each of
+                    theſe, and ſtops up the hollow at both~eπds, leaving only a little hole for the
+                    admittance of the bees ; thus the honey is ſecured from all the attempts of the
+                    bear, who is extremely fond of it, and tries many different experiments for
+                    making himſelf maſter of the luſcious treaſure.— Of this honey the Ruffians make
+                    a great quantity of ſtrong metheglin for their ordinary drink. They likewiſe
+                    extract from rye a ſpirit, which they prefer to brandy.</p>
+                <p>The wild beaſts in the northern part of Ruſſia are the ſame with thoſe we have
+                    mentioned in the articles of Norway and Lapland : ſuch as rein-deer, bears,
+                    foxes, ermins, martens, fables, hares, and ſquirrels In the more ſouthern
+                    provinces the Muſcovites breed black cattle, ſmall but hardy horſes, ſheep,
+                    goats, and camels. The breed of cattle and horſes has been enlarged by the care
+                    and under the protection of Peter and ſuc-eeeding fovereigns. The whole empire
+                    abounds with wild-fowl and game of all forts, and a variety of birds of prey ;
+                    beſides the different kinds of poultry, which are raiſed in this as well as in
+                    other countries. The external parts and provinces of Muſcovy are well ſupplied
+                    with’ſea-fiſh from the Northern ocean, the Baltic, or gulph of Finland, the
+                    White ſea, the Black ſea, and the Caſpian ; but the whole empire is plentifully
+                    provided with freſh-water fiſh ſrom the numerous lakes and rivers, yielding
+                    immenſe quantities of ſalinon, trout, pike, ſturgeon, and belluga : the laſt
+                    being a large fiſh, of whoſe roe the beſt caviare is made. Innumerable infects,
+                    like thoſe of Lapland, are hatched by the ſummer’s heat in the fand, moraſſes,
+                    and foreſts, with which this empire abounds ; and are ſo troubleſome as to
+                    render great part of the country altogether uninhabitable.</p>
+                <p>The Ruſſian empire is inhabited by no leſs than 16 different nations, of which
+                    our limits will hardly permit us to give the names. The firſt are the Sclavonic
+                    nations, comprehending the Ruffians, who are the predo∙ minant inhabitants of
+                    the whole empire, and the Poles, who beſides occupying the countries lately
+                    wreſted from the republic, lire in the governments of Polatſk and Moghilev, as
+                    well as in the diſtrict of Salcnghinlk and along the river Irtiſh. 2. The
+                    Germanic nations,, comprehending the Germans properly ſo called, who inhabit
+                    Eſthonia and Livonia ; the Swedes inhabiting the Ruſſian Finland, as well as
+                    ſome of the iſlands on the Baltic ſea ; and the Danes, who inhabit the iſlands
+                    of the Baltic ſea, the Worms, and Groſs or Great Roge. 3. The Lettonian or
+                    Livonian nations, under which are claſſed the original or real Lettonians or
+                    Letiſhr, inhabiting Livonia ; and the Lithuanians, who live in the government of
+                    Polatſk and Moghilev. 4. The Finns, or Tchudi, nations who inhabit the
+                    governments of Viberg and St Peterſhurgh,. with many other diſtricts of the
+                    empire, being branched out into no fewer than 12 different tribes. 5. The
+                    Tartarian nations, who are all either Mahometans or idolaters. The Mahometan
+                    Tartars, commonly called by the Ruffians <hi rend="italic">Tartars,</hi> dwell
+                    in Kazane, and the places adjacent; at Keſimov; at Ouſe, in the government of
+                    Parma ; at Tomſk and its neighbourhood, and are in general a ſober,
+                    induſtri-ous, cleanly, and generous people. The other Tartars inhabit different
+                    parts of Siberia, and arc intermixed with ſtill different races, called after
+                    the towns, rivers, and other places to which their habitations are neareſt.—
+                    They are, as we have ſaid, idolaters, and governed by ſhamens. (See Shλmen.)
+                    Beſides theſe, there are in the Ruſſian dominions the Nagay Tartars ; the
+                    Crim-Tartars, inhabiting the Crimea, who, together with the land belonging to
+                    them, came under the ſubjection oſ Ruſſia in 1783; the Meſclieraki; the Baſhkirs
+                    ; the Kirghiſtzi or Kirghisſkaifaks ; theYakouti; and the white Kalmuks. 6. The
+                    Caucaſian nations, which are ſix in number, and are each ſubdivided into many <hi rend="sup">r</hi> different tribes, of which it is probable that few
+                    of our readers have ever heard the names, except of the Circaſe fians, who live
+                    in different ſettlements bordering on the river Kubane. 7. The Samoyeds or
+                    Samoeds, comprehending the Oſtiacks<note anchored="true" place="margin"
+                        type="authorial">See <hi rend="italic">Oſtiacks</hi></note>. Theſe inhabit
+                    the northern-moſt part of Ruſſia, along the coaſt of the Icy ſea.— 8. The
+                    Mungalian nations, comprehending the original Muπgals, who are chiefly diſperſed
+                    in the deſerts of Gobey ; the Bourati, who live on the banks of the Baikal, and
+                    other places in the government of Irkoutſk ; and the Kalmuks, conſiſting of four
+                    different tribes.— All theſe hordes ſpeak the Mungalian language, obſerve the
+                    religion of Lama and the Kalmuks live in large tents. 9. The Tongooſi, a very
+                    populous tribe, diſe perſed from the river Eniffey as far as the ſea of Okhotſk,
+                    and from the Penjinſkaya Gooba beyond the Chineſe frontier. They are all
+                    idolaters, and live by hunting and fiſhing. 10. The Kamtchadels. xι. The
+                    Koriaki. 12. The Kouriltzi. Of theſe three nations we have given ſome account
+                    under the article Kamtschatka. 13. The Aleouti, who dwell in the iſlands between
+                    Siberia and America, and very much reſemble the Eſquimaux and the inhabitants of
+                    Greenland.— They live in large huts, and ſeem to be idolaters.— 14. The Ariπtzi,
+                    a very numerous people ſcattered in the government oſ Kolhivane. 15. The
+                    Yukaghiri, Who are diſperſed on the coaſts of the Glacial ſea, about the rivers
+                    Vana, Kolhima, and Lena, and as far as the ſource of the Anadir. 16. The
+                    Tchouktchi, who occupy the north-eaſtern part of Siberia, between the rivers
+                    Kolhima and Anadir. Beſides theſe ſixteen different nations, there are ſcattered
+                    through the Ruffian empire vaſt numbers of Buckharian Tartars, Perfians,
+                    Georgians, Indians, Greeks, Servians, Albanians, Bulgarians, Moldavians,
+                    Valekians, Armenians, and Jews.</p>
+                <p>The empire of Ruſſia is ſo widely extended, that notwithſtanding the number of
+                    nations which it comprehends, it muſt be conſidered as by no means populous. At
+                    the laſt reviſion it was found to contain 26. millions, of ſouls ; but it is to
+                    be obſerved, that the nobility, clergy, land as well as ſea forces, different
+                    officers, ſervants belonging to the court, perſons employed under government in
+                    civil and other offices ; the ſtudents of different univerſities, academies,
+                    ſeminaries, and other ſchools ; hoſpitals of different denominations ; likewiſe
+                    all the irregular troops, the roving hordes of different tribes, foreigners and
+                    coloniſts, or ſettlers oſ different nations— are not included in the
+                    above-mentioned number : but with the addition of all theſe, the population of
+                    Ruſſia, of both ſexes, may be ſuppoſed to come near to 28 millions-</p>
+                <pb xml:id="eb03-16-r03-0571" facs="gri_33125011196389_0577.tif"/>
+                <p>To ſuch a vaſt variety of people, nations, and languages, it is needleſs to
+                    obſerve, that no general character can with truth be applied. The native
+                    Ruffians are ſtigmatiſed by their neighbours as ignorant and brutal, totally
+                    refigned to ſloth, and addicted to drunkenneſs, even in the moſt beaſtly exceſs
+                    ; nay, they are accuſed of being arbitrary, perfidious, inhuman, and deſtitute
+                    of every ſocial virtue. There is not a phraſe in their language analogous to
+                    ours, “ the manners or the ſentiments of a gentleman nor does <hi rend="italic">gentleman</hi> with them expreſs any thing moral. Indeed they have no ſuch
+                    diſtinction. Cunning is <hi rend="italic">proſeſſed and gloried in</hi> by all
+                    ; and the nobleman whom you detect telling a lie is vexed, but not in the leaſt
+                    aſhamed. In the whole <hi rend="italic">reglement</hi> of the marine by Peter
+                    the Great, there is not one word addreffed to the honour, or even to the
+                    probity, oſ his officers. Hopes of reward, and the conſtant fear of detection
+                    and puniſhment, are the only motives touched on. In every ſhip of war, and in
+                    every regiment, there is a fiſcal or authorized ſpy, a man of re-ſpectable rank,
+                    whoſe letters muſt not be opened but at the riſk of the great knout (ſee Knout)
+                    ; and he is required by expreſs ſtatute to give monthly reports of the behaviour
+                    of the officers and privates.</p>
+                <p>Such regulations we cannot think well adapted to improve the morals of the
+                    people ; yet we believe they have been improved by the care, aſſiduity, and
+                    example of ſome of their late ſovereigns. Certain it is, the vice of drunkenneſs
+                    was ſo univerſally prevalent among them, that Peter I. was obliged to reſtrain
+                    it by very ſevere edicts, which, however, have not produced much effect. They
+                    numbered in the city of Moſcow no fewer than 4000 brandy-ſhops, in which the
+                    inhabitants uſed to ſot away their time in drinking ſtrong liquors and ſmoking
+                    tobacco. This laſt practice became ſo dangerous, among perſons in the moſt
+                    beaſtly ſtate of intoxication, that a very ſevere law was found neceffary to
+                    prevent the pernicious conſequences, otherwiſe the whole city might have been
+                    conſumed by conflagrations. The nobility were heretofore very powerful, each
+                    commanding a great number of vaffals, whom they ruled with the moſt deſpotic and
+                    barbarous authority: but their poffeſſions have been gradually circ∏m-ſcribed,
+                    and their power transferred in a great meaſure to the czar, on whom they are now
+                    wholly dependent. At preſent there is no other degree of the nobility but that
+                    of the boyars : theſe are admitted to the council, and from among them the
+                    waivodes, governors, and other great officers, are nominated, and their ranks
+                    with reſpect to each other are regulated by the importance of their refpective
+                    offices.</p>
+                <p>Alexis, who introduced this order of precedency, abhorred the perſonal abaſement
+                    of the inferior claffes to their ſuperiors, which he would not accept of when
+                    exhibited to himſelf ; and it may appear ſurprifing that Peter, who deſpiſed
+                    mere ceremonials, ſhould have encouraged every extravagance of this kind. In a
+                    few years of his reign, the beautiful ſimplicity of defignation and addreſs
+                    which his father had encouraged was forgotten, and the cumberſome and almoſt
+                    ineffable titles which diſgrace the little courts of Germany were crowded into
+                    the language of Ruſſia. He enjoined the loweſt order of gentlemen to be
+                    addreffed by the phraſe, year <hi rend="italic">reſpeCiable birth</hi> ; the
+                    next rank, by <hi rend="italic">your high good birth ;</hi> the third, <hi
+                        rend="italic"> your excellence ;</hi> the fourth, <hi rend="italic">your
+                        high excellence ;</hi> then came <hi rend="italic">your brilliancy</hi> and <hi rend="italic">high brilliancy. Highneſs</hi> and <hi rend="italic">majejly</hi> were reſerved for the great duke and the czar.</p>
+                <p>Tlieſe titles and modes of addreſs w <hi rend="sup">r</hi> ere ordered with
+                    all the regularity of the manual exerciſe ; and the man who ſhould omit any of
+                    them when ſpeaking to his fn-perior might be lawfully beaten by the offended
+                    boyar. Before this period, it was polite and courtly to ſpeak to every man, even
+                    the heir apparent, by adding his father’s name to his own ; and to the great
+                    duke, Paul Petrovιtz was perfectly reſpectful, or a fingle word, ſignifying <hi
+                        rend="italic"> dear father,</hi> when he was not named. Tho <hi rend="sup"
+                        > ,</hi> pompous titles w <hi rend="sup">,</hi> ere unknown among them
+                    before the era of Peter, the ſubordination of ranks was more complete than in
+                    any other European nation ; but with this ſimplicity peculiar to them and the
+                    Poles, that they had but three ranks, the ſovereign, the nobleſſe or gentry, and
+                    the ſerfs. It was not till very lately that the mercantile rank formed any
+                    diſtinction ; and that diſtinction is no more than the freedom of the perfon,
+                    which was fυιmerly a transferable commodity belonging to the boyar.
+                    Notwſithſtanding this ſimplicity, which put all gentlemen on a level, the
+                    ſubſcription of a perſon holding an inferior office was not <hi rend="italic">ſervant,</hi> but <hi rend="italic">ßave;</hi> and the legal word for a
+                    petition in form was <hi rend="italic">lchelobitii,</hi> which fιp <hi
+                        rend="sup"> -</hi> nifies, “ a beatinπ <hi rend="sup">r</hi> with the
+                    forehead,” <hi rend="italic">i.e.</hi> ſtri-king the ground with the forehead;
+                    which was actually done. The father of Alexis aboliſhed the practice ; but at
+                    this day, when a Ruffian petitions you, he touches his forehead witlι his finger
+                    ; and if he be very earneſt, he then puts his finger to the ground.</p>
+                <p>The Ruffian nobles formerly wore long beards, anſt long robes with ſtrait
+                    ileeves dangling down to their ancles : their collars and ſhirts w <hi
+                        rend="sup"> r</hi> ere generally wrought with filk of different colours :
+                    in lieu of hats, they covered their heads w <hi rend="sup">,</hi> ith furred
+                    caps ; and, inſtead oſ ſlioes, wore red or yellow leathern bufkins. The dreſs of
+                    the women nearly reſembled that of the other ſex ; with this difference, that
+                    their garments were more looſe, their caps fantaſtical, and their ſhift-ileeves
+                    three or four ells in length, gathered up in folds from the ſhoulder to the
+                    fore-arm. By this time, however, the French faſhions prevail among the better
+                    fort throughout all Muſcovy.</p>
+                <p>The common people, are generally tall, healthy, and robuſt, patient of cold and
+                    hunger, inured to hard-ſhips, and remarkably capable of bearing the moſt bidden
+                    traufition from the extremes of hot or cold weather. Nothing is more cuſtomary
+                    than to ſee a Ruffian, who is over-heated and ſweating at every pore, ſtrip
+                    himſelf naked, and plunge into a river ; nay, when their pores are all opened in
+                    the hot bath, to which they have daily recourſe, they either practiſe this
+                    immersion, or ſubject themſelves to a diſcharge of ſome pailfuls of cold water.
+                    This is the cuſtom of both men and women, who ef⅛ter the baths promiſcuouily,
+                    and appear naked to each other, without ſcruple or hefιtation.</p>
+                <p>A Ruffian will ſubſiſt for many days upon a little oatmeal and water, and even
+                    raw roots : an onion is a regale ; but the food they generally uſe in their
+                    journeys is a kind of rye-bread, cut into ſmall ſquare pieces, and dried again
+                    in the oven : theſe, when they are hungry, they foak in water, and eat as a very
+                    com-</p>
+                <pb xml:id="eb03-16-r03-0572" facs="gri_33125011196389_0578.tif"/>
+                <p>fortabîe repaſt. Both ſexes are remarkably healthy and robuſt, and accuſtom
+                    themſelves to ſleep every day after dinner.</p>
+                <p>The Ruffian women are remarkably fair, comely, ſtrong, and well-ſhaped, obedient
+                    to their lordly huſ-bands, and patient under diſcipline : they are even ſaid to
+                    be fond of correction, which they conſider as an infallible mark of their
+                    huſhand’s conjugal affection ; and they pout and pine iſ it be with-held, as if
+                    they thought themſelves treated with contempt and diſregard. Of this neglect,
+                    however, they have very little cauſe to complain ; the Ruffian huſhand being
+                    very well diſpoſed, by nature and inebriation, to exert his arbitrary power.
+                    Some writers obſerve, that, on the wedding-day, the bride preſents the
+                    bridegroom with a whip of her own making, in token of ſubmiſſion ; and this he
+                    fails not to employ as the inſtrument of his authority. Very little ceremony is
+                    here uſed in match-making, which is the work of the parents. Perhaps the
+                    bridegroom never ſees the woman till he is joined to her for life. The marriage
+                    being propoſed and agreed to, the lady is examined, ſtark· naked, by a certain
+                    number of her female relations ; and if they find any bodily defect, they
+                    endeavour to cure it by their own ſkill and experience. '1 he bride, on her
+                    wedding-day, is crowned with a garland of wormwood, implying the bitterneſs that
+                    often attends the married ſtate. When the prieſt has tied the nuptial knot at
+                    the altar, his clerk or ſexton throws upon her head a handful of hops, wiſhing
+                    that ſhe may prove as fruitful as the plant thus ſeattered. She is muffled up,
+                    and led home by a certain number of old women, the pariſh-prieſt carrying the
+                    croſs before; while one of his ſubalterns, in a rough goat-ſkin, prays all the
+                    way that ſhe may bear as many children as there are hairs on his garment. The
+                    new-married couple, being ſeated at table, are preſented with bread and ſalt ;
+                    and a chorus of boys and girls ling the epithalamium, which is always groſsly
+                    obſcene. This ceremony being performed, the bride and bridegroom are conducted
+                    to their own chamber by an old woman, who exhorts the wife to obey her huſhand,
+                    and retires. 1 hen the bridegroom deſires the lady to pull off one of his
+                    bu-ikins, giving her to underſtand, that in one of them is contained a whip, and
+                    in the other a jewel or a purſe of money. She takes her choice ; and if ſhe
+                    finds the purſe, interprets it into a good omen ; whereas ſhould ſhe light on
+                    the whip, ſhe conſtrues it into an unhappy preſage, and inſtantly receives a
+                    laſh as a ſpecimen of what ſhe has to expect. After they have remained two hours
+                    together, they are interrupted by a deputation of old women, who come to ſearch
+                    for the ſigns of her virginity : if theſe are apparent, the young lady ties up
+                    her hair, which before conſumma-tion hung looſe over her ſhoulders, and viſits
+                    her mother, of whom ſhe demands the marriage portion. It is generally agreed,
+                    that the Muſcovite huſhands are barbarous even to a proverb ; they not only
+                    adminiſter frequent and ſevere correction to their wives, but ſometimes even
+                    torture them to death, without being ſubject to any puniſhment for the murder.</p>
+                <p>The canon law of Muſcovy forbids the conjugal commerce on Mondays, Wedneſdays,
+                    and Fridays ; and whoever tranſgreſſes this law, muſt bathe himſelf before he
+                    enters the church-porch. He that marries a ſecond wife, the firſt being alive,
+                    is not admitted farther than the church-door ; and if any man eſpouſes a third,
+                    he is excommunicated : ſo that though bigamy is tolerated, they nevertheleſs
+                    count it infamous, iſ a woman is barren, the huſhand generally perſuades her to
+                    retire into a convent : if fair means wfill not ſucceed, he is at liberty to
+                    whip her into condeſcenſion. When the czar, or emperor, has an inclination for a
+                    wife, the moſt beautiful maidens of the empire are preſented to him for his
+                    choice.</p>
+                <p>The education of the czarovitz, or prince royal, is intruſted to the care of a
+                    few perſons, by whom he is ſtrictly kept from the eyes of the vulgar, until he
+                    hath attained the 15th year of his age : then he is publicly expoſed in the
+                    market-place, that the people, by viewing him attentively, ⅛nay remember his
+                    perſon, in order to aſcertain his identity ; for they have more than once been
+                    deceived by impoſtors.</p>
+                <p>Such is the ſlavery in which the Muſcovites oſboth ſexes are kept by their
+                    parents, their patrons, and the emperor, that they are not allowed to diſpute
+                    any match that may be provided for them by theſe directors, however diſagreeable
+                    or odious it may be. Officers of the greateſt rank in the army, both natives and
+                    foreigners, have been ſaddled with wives by the ſovereign in this arbitrary
+                    manner. A great general ſome time ago deceaſed, who was a native oſ Britain,
+                    having been preſſed by the late czarina to v/ed one of her ladies, ſaved himſelf
+                    from a very diſagreeable marriage, by pretending his conſtitution was ſo
+                    unſound, that the lady would be irreparably injured by his compliance.</p>
+                <p>In Ruſſia, the authority of parents over their children is almoſt as great as it
+                    was among the ancient Romans, and is often excrciſed with equal ſeverity. Should
+                    a father, in puniſhing his ſon for a fault, be the immediate cauſe of his death,
+                    he could not be called to account' for his conduct ; he would have done nothing
+                    but what the law authorized himto do. Nor does this legal tyranny ceaſe with the
+                    minority of children ; it continues while they remain in their father’s family,
+                    and is often exerted in the moſt indecent manner. It is not uncommon, even in St
+                    Peterſhurgh, to ſee a lady of the higheſt rank, and in all the pomp and pride of
+                    youthful beauty, ſtanding in the court-yard with her back bare, expoſed to the
+                    whip of her father’s ſervants. And ſo little diſgrace is attached to this
+                    puniſhment, that the ſame lady will fit down at table with her father and his
+                    gutſts immediately after ſhe has ſuſſered her flogging, provided its ſeverity
+                    has not confined her to bed.</p>
+                <p>The Muſcovites are fond of the bagpipe, and have a kind of violin, with a large
+                    belly like that of a lute : but their muſic is very barbarous and defective.
+                    Nevertheleſs, there are public ſchools, in which the children are regularly
+                    taught to fing. The very beggars aſk alms in a whining cadence, and ridiculous
+                    fort of recitative. A Ruffian ambaſſador at the Hague, having been regaled with
+                    the beſt concert of vocal and inſtrumental muſic that could be procured, was
+                    aſked how he liked the entertainment ? he replied, “ Perfectly well : the
+                    beggars in my country ſing juſt in. the fame manner.” The warlike muſic of the
+                    Ruſſians conſiſt! in kettle-drums and trumpets : they likewiſe uſe hunt ing
+                    horns ; but they are not at all expert in the per</p>
+                <pb xml:id="eb03-16-r03-0573" facs="gri_33125011196389_0579.tif"/>
+                <p>formance. It has been ſaid, that the Ruffians think it beneath them to dance,
+                    and that they call in their Poliſh or Tartarian ſlaves to divert them with this
+                    exer-ciſe in their hours of diſſipation. Such may have been the caſe formerly,
+                    or may be ſo now, in the diſtant and moſt barbarous provinces oſ the empire ;
+                    but at St Peterſhurgh dancing is at preſent much reliſhed, and a minuet is
+                    nowhere ſo gracefully performed in Europe as by the faſhionable people in that
+                    metropolis.</p>
+                <p>We have elſewhere obſerved, that the Ruſſian language is a dialect of the
+                    Sclavonic, and the pureſt perhaps that is now anywhere to be found (ſee
+                    Philology, Sect. ix. § 3.) ; but they have nothing ancient written in it, except
+                    a tranſlation of Chryſoſtom’s Offices for Eaſter, which are at this day good
+                    Ruſſian, and intelligible to every boor, though certainly not leſs than 800
+                    years old. There is no Ruſſian poetry which there is reaſon to believe 200 years
+                    old ; and the oldeſt tranſlation of the Scriptures into that language is but a
+                    late thing, and come to them from Koningſ-berg. Science has made but a very
+                    ſmall progreſs among them ; and the reputation of the imperial academy at St
+                    Peterſhurgh has been hitherto ſupported by the exertions ot foreigners. For
+                    antiquarian reſearch they have as little reliſh as for ſcientiſic inveſtigation.
+                    Every thing, to pleaſe, muſt be new ; and the only elucidations which we have of
+                    their antiquities are the performances of Germans and other foreigners, ſuch as
+                    profeſſors Bayer, Muller, and Gmelin. One native has indeed ſhown ſome deſire to
+                    recover and preſerve what he can of their moſt ancient poetry ; but in his
+                    reſearches, he ſeems more indebted to an exquiſitely nice ear than to any
+                    erudition. Erudition indeed they hold in the moſt ſovereign contempt. No
+                    gentleman is ever taught Latin or Greek ; and were a Ruſſian ſtranger in company
+                    to give any hint of his poſſeſſing ſuch knowledge, every man with a, ſword would
+                    draw away his chair, and let him down for a charity-boy. Peter the Great and the
+                    preſent empreſs have done what ſovereigns could do to diſpel theſe clouds of
+                    ignorance, by inſtituting ſchools and colleges, and giving the maſters and
+                    profeſſors military rank ; but all in vain. One oſ the moſt accompliſhed
+                    ſeſholars of the age, after having made himſelf extremely agreeable to a company
+                    of ladies, by means of his taſte in muſic, and a ſword at his ſide, was
+                    inſtantly deſerted by them upon ſome perſon’s whiſpering through the room that
+                    he was a man of learning ; and before his fair companions would be reconciled to
+                    him, he was obliged to pretend that he was a lieutenant colonel, totally
+                    illiterate.</p>
+                <p>The two ſirſt ſentences of Prince Shtcherbatoff’s dedication of his Hiſtory of
+                    Ruſſia, which was printed in three volumes 4 <hi rend="sup">to</hi> , in 1770,
+                    afford an admirable ſpecimen of Ruſſian literature. “ The hiſtory of the human
+                    underſtanding (ſays this dedicator) aſſures us,that everywhere the ſciences have
+                    followed the progreſs of the proſperity and the ſtrength of kingdoms. When the
+                    Grecian arms had overthrown, the greateſt monarchy then in the world, when they
+                    had the famous generals Miltiades, Themiſtocles, Ariſtides, Conon, and
+                    Alcibiades, at the ſame time flouriſhed among them Anaximander, Anaxagoras,
+                    Archytas, Socrates, and Plato. And when Auguſtus had conquered the world, and
+                    had ſhut the gates of the temple of Janus,and the proud Romans, under his happy
+                    government, cheerfully obeyed his commands, then did Titus Livius, Thucydides,
+                    Virgil,and Horace, adorn his court, and celebrate his glory.”—A paſſage ſo
+                    replete as this with blunders and anachroniſms it would ſurely be difficult to
+                    find in any other author.</p>
+                <p>The Ruffians were converted to the Chriſtian religion towards the latter end of
+                    the tenth century, as has been already related. Since that period they have
+                    conſeſſed the articles of the Greek church, mingled with certain ſuperſtitious
+                    ceremonies of their own. They do not believe in the pope’s infallibility or
+                    ſupremacy, or even hold communion with the ſee of Rome : they uſe auricular
+                    conſeſſion, communicate in both kinds, adopt the Athanaſian creed, and adhere to
+                    the eſtabliſhed liturgy of St Baſil. They worſhip the Virgin Mary, and other
+                    ſaints ; and pay their adorations to croſſes and relics. They obſerve four great
+                    faſts in the year, during which they neither taſte fiſh, fleſh, nor any animal
+                    production : they will not drink after a man who has eaten fleſh, nor uſe a
+                    knife that has cut meat in leſs than 24 hours aſter it has been uſed; nor will
+                    they, even though their health is at ſtake, touch any thing in which hartſhorn
+                    or any animal ſubſtance has been infuſed. While this kind of Lent continues,
+                    they ſubſiſt upon cabbage, cucumbers, and rye-bread, drinking nothing ſtronger
+                    than a fort of ſmall beer called <hi rend="italic">quaffi</hi>
+                    <note anchored="true" place="margin" type="authorial">See <hi rend="italic">Peaſant.</hi>
+                    </note><hi rend="italic">.</hi> They likewiſe faſt every Wedneſday and Friday.
+                    Their common penance is to abſtain from every ſpecies of food and drink, but
+                    bread, iβlt, cucumbers, and water. They are ordered to bend their bodies, and
+                    continue in that painful poſture, and between whiles to ſtrike their head
+                    againſt an image.</p>
+                <p>The Muſcovites at all times reject as impure; hotſe-fleſh, elk, veal, hare,
+                    rabbit, aſs’s milk, mare’s milk, and Venice-treacle, becauſe the fleſh of vipers
+                    is an ingredient ; alſo every thing that contains even the ſmalleſt quantity of
+                    muſk, civet, and caſtor : yet they have no averſion to ſwine’s fleſh ; on the
+                    contrary, the country produces excellent bacon. They celebrate 15 grand
+                    feſtivals in the year. On Palm-ſunday there is a magnificent proceſſion, at
+                    which the czar aſſiſts in perſon and on foot. He is apparelled in cloth of gold
+                    ; his train is borne up by the prime ot the nobility, and he is attended by his
+                    whole court. He is immediately preceded by the officers of his houſehold, one of
+                    whom carries his handkerchief on his arm, lying upon another of the richeſt
+                    embroidery. He halts at a fort of platform of free-ſtone, where, turning to the
+                    eaſt, and bending his body almoſt double, he pronounces a ſhort prayer : then he
+                    proceeds to the church of Jeruſalem, where he renews his devotion. This exerciſe
+                    being performed, he returns to his palace, the bridle of the patriarch’s horſe
+                    reſting upon his arm. The ho lie’s head being covered with white linen, is held
+                    by ſome nobleman ; while the patriarch, fitting ſide wiſe, and holding a croſs
+                    in his hand, diſtributes benedictions as he moves, along: on his head he Wears a
+                    cap edged with ermin, adorned with loops and buttons of goldand precious ſtones
+                    : before him are diſplayed banners of conſecrated ſtuff, in a variety of
+                    colours. Above 500 prieſts walk in the proceſſion ; thoſe who are near the
+                    patriarch bearing pictures oſ the Virgin Mary, richly ornamented with gold,
+                    jewels, and pearls, together with croſſes, relics, and religious books,
+                    including a copy of the Goſpels, which they reckon to be of in-</p>
+                <pb xml:id="eb03-16-r03-0574" facs="gri_33125011196389_0580.tif"/>
+                <p>eſtimable value. In the midſt of this proceſſion is borne a triumphal arch ; and
+                    on the top an apple-tree covered with fruit, which ſeveral little boys incloſed
+                    in the machine endeavour to gather. The lawyers and laity carry branches of
+                    willow; the guards and the fpec∙∙ tutors proſtrate themſelves on the ground
+                    while the proceſſion halts ; and after the ceremony, the patriarch preſents a
+                    purſe of ιoo rubles to the czar, who perhaps invites him to dine at his table.
+                    During the ſeaſon of Eaſter, the whole empire is filled with mirth and rejoicing
+                    : which, however, never fails to degenerate into heat and debauchery ; even the
+                    ladies may indulge themſelves with ſtrong liquors to intoxication wfithout
+                    ſcandal. When a lady ſends to inquire concerning the health of her gueſts whom
+                    ſhe entertained over-night, the uſual reply is, “ I thank your miſtreſs for her
+                    good cheer : by my troth, I was ſo merry that I don’t remember how I got home.”</p>
+                <p>During theſe carnivals, a great number of people, in reeling home drunk, fall
+                    down and periſh among the fnow. It is even dangerous to relieve a perſon thus
+                    overtaken ; for, ſhould he die, the perſon who endeavoured to aſſiſt him is
+                    called before the judge, and generally pays dear for his charity.</p>
+                <p>The Muſcovite priel⅛ uſe exorciſms at the adminiſtration of baptiſm. They plunge
+                    the child three times ever head and ears in water, and give it the ſacrament of
+                    the Lord’s Supper in one ſpecies, until it hath attained the age of ſeven; after
+                    which the child is indulged with it in both kinds. They likewiſe adminiſter the
+                    ſacrament to dying perſons, together with extreme unction ; and if this be
+                    neglected, the body is denied Chriſtian burial. Soon as the perſon expires, the
+                    body is depoli-ted in a coffin, with a lunehion of bread, a pair of ſhoes, ſome
+                    few pieces of money, and a certificate ſigned by the pariſh-prieſt, and directed
+                    to St Nicholas, who is one of their great patrons. They likewiſe hold St Andrew
+                    in great veneration, and ridſeulouſly pretend they were converted by him to
+                    Chriſtianity. But next to St Nicholas, they adore St Anthony of Padua, who is
+                    ſuppoſed to have ſailed upon a mill-ſtone through the Mediterranean and
+                    Atlantic, and over the lakes Ladoga and Onega, as far as Novogorod. Every houſe
+                    is furniſhed with an image of St Nicholas, carved in the moſt rude and fantaſtic
+                    manner ; and when it becomes old and worm-eaten, the owner either throws it into
+                    the river with a few pieces of coin, faying, “ Adieu, brother or returns it to
+                    the maker, who accommodates him with a new image for a proper conſideration. The
+                    good women are very careful in adorning their private St Nicholaſes with rich
+                    clothes and jewels ; but on any emergency, theſe are relumed, and the faint left
+                    as naked as he came from the hand of the carpenter.</p>
+                <p>There are monalteries in Ruſſia ; but neither the monks nor the nuns are ſubject
+                    to ſevere reſtrictions. The friare are either horſe-jockeys, or trade in hops,
+                    wheat, and other commodities ; the ſiſters are at liberty to go abroad when they
+                    pleaſe, and indulge themſelves in all manner of freedoms.</p>
+                <p>Heretofore liberty of conſcience was denied, and every convicted heretic was
+                    committed to the flames ; but ſince the reign of Peter, all religions and ſects
+                    are tolerated throughout the empire. Roman Catholics, Lutherans, Calvim’ſts,
+                    Armenians, Jews, and Mahometans, enjoy the free exerciſe of their reſpective
+                    forms</p>
+                <p>of worſhip ; though it was not without great difficulty, and by dint of
+                    extraordinary ſolicitation from different powers, that the Romiſh religion was
+                    allowed. Peter knowing the dangerous tenets of a religion that might ſet the
+                    ſpiritual power of the pope at variance with the temporal power of the emperor,
+                    and being well acquainted with the meddling genius of its profeffors, held out
+                    for ſome time againſt the interceſſion of Germany, France, and Poland; and
+                    though at length he yielded to their joint interpoſition, he would by no means
+                    luffer any Jeſuit to enter his dominions.</p>
+                <p>The government of Ruſſia is mere deſpotiſm. The whole empire is ruled by the
+                    arbitrary will and plea-ι ſure of the ſovereign, who is ſtyled the <hi
+                        rend="italic"> evar</hi> or <hi rend="italic">tvcιr,</hi> a title which
+                    is probably a corruption of Cæfar. Heretofore he was ſtyled <hi rend="italic">grand duke oſ Muſcovy :</hi> but ſince the reign of Peter, he is dignified
+                    with the appellation of <hi rend="italic">emperor oſ Ruſſia ;</hi> and the
+                    preſent ſovereign is ſtyled <hi rend="italic">empreſs oſ all the Ruſias.</hi> The emperor is abſolute lord, not only of all the eſtates in the empire, but
+                    alſo of the lives of his ſubjects; the greateſt noblemen call themſelves his <hi
+                        rend="italic"> flaves,</hi> and execute his commands with the moſt implicit
+                    obedience. The common people revere him as ſomething ſupernatural ; they never
+                    mention his n⅛nc, or any thing immediately belonging to him, without marks of
+                    the moſt profound reſpect and awful veneration. A man aſking a carpenter at work
+                    upon one of the czar’s warehouſes, what the place was intended ſor ? anſwered, “
+                    None but God and the czar knows.”</p>
+                <p>The nobility of Ruſſia were formerly rich and powerful, and ruled deſpoticqjly
+                    over their inferiors : but we have ſeen how the father of Peter the Great
+                    contrived to ſtrip them of their privileges, and they are now venal dependants
+                    on the court. They ſtill retain the titles of their anceſtors, though many of
+                    them are in the moſt abject poverty and contempt.</p>
+                <p>All the peaſants in the empire are conſidered as immediate ilaves belonging to
+                    the czar, to the bσyars, or to the monaſteries. The value of eſtates is
+                    computed, not by the extent or quality of the land, but from the number of thoſe
+                    peaſants, who may be fold, alienated, or given away, at the pleaſure of their
+                    maſters. The number of theſe huſhandmen, whether living in villages or in the
+                    open country, being known, the czar, by requiring a certain proportion of each
+                    lord or proprietor, can raiſe 3c0,0c0 men in leſs than 40 days.</p>
+                <p>The adminiſtration is managed by a grand council, called <hi rend="italic">dumnοy boyaren <hi rend="sub">i</hi></hi> or “ council of the boyars,” who are the grandees of the empire, and act
+                    as privy counſellors. To this are ſubſervient ſix inferior chambers and courts
+                    of judicature, provided each with a prelident. The firſt regulates every thing
+                    relating to ambaſſadors and foreign negociations ; the ſecond takes cognizance
+                    of military affairs ; the third manages the public revenues of the empire ; the
+                    bufineſs of the fourth is to encourage, protect, and improve trade and commerce.
+                    The two laſt hear and determine in all cauſes, whether civil or criminal.</p>
+                <p>Peter divided the empire into the eight governments of Moſcow, Archangel, Afoph,
+                    Caſan, Aſtracan, Chioff and the Ukraine, Siberia, Livonia, comprehending Ingria,
+                    Pleſcow, and Novogorod, Smolenſko, and Ve-ronitz, The governors or waivodes were
+                    veſted with power to diſpoſe of all employments civil and military, and receive
+                    the revenues. They were directed to</p>
+                <pb xml:id="eb03-16-r03-0575" facs="gri_33125011196389_0581.tif"/>
+                <p>defray all expences in their refpective governments, and ſend a certain yearly
+                    ſum to the great treaſury. In a word, they enjoyed abſolute power in every thing
+                    but what related to the regular troops, which, though quartered in their
+                    juriſdiction, were neither paid nor directed by them, but received their orders
+                    immediately from the czar or his generals.</p>
+                <p>In 1775 the preſent empreſs made a complete new-modelling of the internal
+                    government in a form of great ſimplicity and uniformity. By that reglement ſhe
+                    divided the whole empire into 43 governments, as we have already mentioned,
+                    placing over each, or where they are of leſs extent, over two contiguous
+                    governments, a governor-general with very conſiderable powers. She ſubdivided
+                    each government into provinces and diſtricts; and for the better adminiſtration
+                    of juſtice erected in them various courts of law, civil, criminal, and
+                    commercial, analogous to thoſe which are found in other countries. She
+                    eſtabliſhed likewiſe in every government, if not in every province, a tribunal
+                    of con-fcience, and in every diſtrict a chamber for the protection of orphans.
+                    Amidſt ſo many wiſe inſtitutions a chamber for the adminiſtration of her
+                    imperial majeſe ſty’s revenues was not forgotten to be eſtabliſhed in each
+                    government, nor a tribunal of police in each diſtrict. The duty of the
+                    governor-general, who is not properly a judge, but the guardian of the laws, is
+                    to take care that the various tribunals in his government diſcharge their
+                    refpective duties, to protect the oppreſ-ſed, to enforce the adminiſtration of
+                    the laws ; and when any tribunal ſhall appear to have pronounced an irregular
+                    ſentence, to ſtop the execution till he make a report to the ſenate and receive
+                    her majeſty’s orders : It is his bufineſs likewiſe to ſee that the taxes be
+                    regularly paid ; and, on the frontiers of the empire, that the proper number of
+                    troops be kept up, and that they be attentive to their duty.</p>
+                <p>This reglement contains other inſtitutions, as well as many directions for the
+                    conducting of law-ſuits in the different courts, and the adminiſtration of
+                    juſtice, which do her majeſty the higheſt honour ; but the general want of
+                    morals, and what we call a ſenſe oſ honour, in every order of men through this
+                    vaſt empire, muſt make the wiſeſt regulations of little avail. Ruſſia is perhaps
+                    the only nation in Europe where the law is not an incorporated proſeſſion. There
+                    are no ſemina-ries where a practitioner muſt be educated. Any man who will pay
+                    the fees of office may become an attorney, and any man who can find a client
+                    may plead at the bar. The judges are not more learned than the pleaders. They
+                    are not fitted for their offices by any kind ef education ; nor are they
+                    neceſſarily choſen from thoſe who have frequented courts and been· in the
+                    practice of pleading. A general, from a ſucceſsſul or an equivocal campaign, may
+                    be inſtantly ſet at the head of a court of juſtice ; and in the abſence of the
+                    imperial court from St Peterſhurgh, the commanding officer in that city, whoever
+                    he may be, prelides <hi rend="italic">ex officio</hi> in the high court of
+                    juſtice. The other courts generally change their prefidents every year. Many
+                    inconveniences muſt ariſe from this fingular conſtitution ; but fewer,, perhaps,
+                    than we are apt to imagine. The appointment to ſo many interior governments
+                    makes the Ruffian nobility acquainted with the groſs of the ordinary bιιli-neſs
+                    of law-courts ; and a ſtatute or imperial edict is law in every caſe. The great
+                    obſtacles to the admi-niſtration of juſtice are the contrariety of the laws and
+                    the venality of the judges. From inferior to ſuperior courts there are two
+                    appeals ; and in a great proportion of the cauſes the reverlal of the ſentence
+                    of the inferior court ſubjects its judges to a heavy fine, unleſs they can
+                    produce an edict in full point in ſupport of their decilion. This indeed they
+                    ſeldom find any difficulty to do ; for there is hardly a cafe ſo fimple but that
+                    edicts may be found clear and preciſe ſor both parties ; and therefore the
+                    judges, ſenſible of their ſafety, arc very ſeldom incorruptible. To the
+                    principle of honour, which often guides the conduct of judges in other nations,
+                    they are ſuch abſolute ſtrangers, that an officer has been ſeen fitting in ſtate
+                    and diſtributing juſtice from a bench to which he was chained by an iron collar
+                    round his neck, ſor having the day before been detected in conniving at
+                    ſmuggling. This man ſeemed not to be aſhamed of the crime, nor did any one
+                    avoid, his company in the evening.</p>
+                <p>Few crimes are capital in Ruſſia : murder may be atoned by paying a ſum of money
+                    ; nay, the civil ma-giitrate takes no cognizance of murder, without having
+                    previouſty received information at the fuit of ſome individuals. Criminals were
+                    puniſhed with torture and the moſt cruel deaths till the reign of the
+                    illuſtrious Catharine I. when a more merciful ſyſtem took place, and which the
+                    preſent empreſs has ſince confirmed by lawn See the articles <hi rend="italic"><hi rend="smallcaps">Catharine I.</hi> of Russia,</hi> > and <hi
+                        rend="italic"><hi rend="smallcaps">Elizabeth</hi> Petrowna.</hi></p>
+                <p>We have already mentioned the traffic of the Ruffians with the different nations
+                    both of Aſia and Europe, and ſpecified iron as one of the articles which they
+                    export. We may here add, that in 1792 there were in the government oſ Parma
+                    alone <hi rend="sub">τ</hi> which lies in the northern divifion of the empire,
+                    88- copper and iron works belonging to the government and private perſons, and
+                    tlπee gold works. The metals extracted in theſe works are chiefly conveyed to St
+                    Peterſburgh by water-carriage on the river Tchuſovaya, w <hi rend="sup">τ</hi> hich falls into the Kama. With reſpect to the revenue of Ruflia, it continually
+                    fluctuates, according to the increaſe of commerce or the pleaſure of the czar,
+                    who has all the wealth of the empire at his diſpoſal. He monopolizes all the
+                    beſt furs, mines, minerals, and the trade by land to the Eaſt Indies ; he farms
+                    out all the tobacco, wine, brandy, beer, mead, and other liquors; the inns,
+                    taverns, public houſes, bath, and sweating-houſes. The cuſtoms upon merchandize,
+                    the impoſts upon corn, and toll exacted from cities, tow <hi rend="sup">r</hi> ns, and villages, are very conſiderable. He poffeffes demeſnes to a very great
+                    value ;. inherits the effects of all thoſe that die inteſtate, or under
+                    accuſation of capital crimes; derives a duty front all- law-ſuits ; and to ſum
+                    up the whole, can command the fortunes of all his subjects. All theſe articles
+                    produce a large revenue, which w <hi rend="sup">r</hi> as three years ago
+                    eſtimated at upwards of 40,000,000 rubles, or L. 6,333,333 : 6 : 8 Sterling;
+                    but then the intrinfic value of money is at leaſt. three, times greater in
+                    Ruſſia than in Britain. The expences in time of peace never exceed 38,000,000
+                    rubles : the remainder is not treaſeired up, but is employed by her imperial
+                    majeſty in eonſtructing public edifices, making harbours, canals, roads, and
+                    other uſeful works, for the glory of the empire and the benefit of her ſubjects.</p>
+                <p>The Handing army of Ruſſia is computed at <hi rend="italic">250,000</hi> men g
+                    befides theſe, the Ruffians can aſſemble a body</p>
+                <pb xml:id="eb03-16-r03-0576" facs="gri_33125011196389_0582.tif"/>
+                <p>of 40,000 irregulars, Calmucks, Coſſacks, and other Tartars, who live under
+                    their dominion. But the number may be doubled on any emergency. 1 he czarina has
+                    likewiſe a conſiderable fleet in the Baltic, and a great number of formidable
+                    galleys, frigates, fire-ſhips, and bomb-ketches.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

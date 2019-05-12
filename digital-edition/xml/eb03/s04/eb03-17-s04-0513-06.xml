@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+    <author/>
+   </titleStmt>
+   <publicationStmt>
+    <p/>
+   </publicationStmt>
+   <sourceDesc>
+    <p>TEI-page files converted by Python to TEI-entry file</p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div facs="gri_33125011196363_0519.tif" type="entry" xml:id="eb03-17-s04-0513-06"
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <p><label>SITTA <hi rend="smallcaps">Nuthatch,</hi></label> in ornithology : A genus belonging
+     to the claſs of <hi rend="italic">aves,</hi> and order of <hi rend="italic">pica.</hi> It is
+     thus characterized by Dr Latham.<note anchored="true" n="1" place="bottom" type="authorial"
+       ><p>[mu] Latham's Orthinology, vol. ii. p. 647, &amp;c.</p></note> The bill is for the moſt
+     part ſtraight ; on the lower mandible there is a ſmall angle ; noſtrils ſmall, covered with
+     briſtles reflected over them ; tongue ſhort, horny at the end, and jagged ; toes placed three
+     forward and one backward ;<pb facs="gri_33125011196363_0520.tif" xml:id="eb03-17-s04-0514"/>
+     the middle toe joined cloſely at the baſe to both the outmoſt ; back toe as large as the middle
+     one.— There are 11 ſpecies : the europæa, canadenſis, carolinensis, jamaicenſis, puſilla,
+     major, nævia, ſurinamenſis, cafra, longiroſtra, and chloris. The europæa, or nuthatch, is in
+     length near five inches three-quarters, in breadth nine inches ; the bill is ſtrong and
+     ſtraight, about three-quarters of an inch long ; the upper mandible black, the lower white :
+     the irides are hazel ; the crown of the head, back, and coverts of the wings, of a fine bluiſh
+     grey ; a black ſtroke passes over the eye from the mouth : the cheeks and chin are white ; the
+     breaſt and belly of a dull orange-colour ; the quill-feathers duſky ; the wings underneath are
+     marked with two ſpots, one white at the root of the exterior quills, the other black at the
+     joint of the baſtard-wing ; the tail conſiſts of twelve feathers ; the two middle are grey, the
+     two exterior feathers tipt with grey ; then ſucceeds a tranſverſe white ſpot ; beneath that the
+     reſt is black : the legs are of a pale yellow ; the back toe very ſtrong, and the claws large.
+     The female is like the male, but leſs in ſize, and weighs commonly 5 or at moſt 6 drams. The
+     eggs are ſix or ſeven in number, of a dirty white, dotted with rufous ; theſe are depoſited in
+     ſome hole of a tree, frequently one which has been deſerted by a woodpecker, on the rotten wood
+     mixed with a little moſs, &amp;c. If the entrance be too large, the bird nicely ſtops up part of
+     it with clay, leaving only a ſmall hole for itſelf to paſs in and out by. While the hen is
+     fitting, if any one puts a bit of ſtick into the hole, ſhe hisses like a ſnake, and is ſo
+     attached to her eggs, that ſhe will ſooner ſuffer any one to pluck off her feathers than fly
+     away. During the time of incubation, the male ſupplies her with ſuſtenance, with all the
+     tenderneſs of an affectionate mate.</p>
+    <p>The bird runs up and down the bodies of trees, like the woodpecker tribe ; and feeds not only
+     on infects, but nuts, of which it lays up a conſiderable proviſion in the hollows of trees. “
+     It is a pretty fight, ſays Mr Willoughby, to ſee her fetch a nut out of her hoard, place it
+     faſt in a chink, and then, ſtanding above it with its head downwards, ſtriking it with all its
+     force, break the ſhell, and catch up the kernel. It is ſuppoſed not to ſleep perched on a twig
+     like other birds ; for when confined in a cage, it prefers ſleeping in a hole or corner. When
+     at reſt it keeps the head down. In autumn it begins to make a chattering noiſe, being silent
+     for the greateſt part of the year.” Dr Plott tells us, that this bird, by putting its bill into
+     a crack in the bough of a tree, can make ſuch a violent found as if it was rending aſunder, ſo
+     that the noiſe may be heard at leaſt twelve ſcore yards.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

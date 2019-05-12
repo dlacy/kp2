@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0538-02"
+                facs="gri_33125011196389_0544.tif" type="entry">
+              <p>               <label>ROXENT<hi rend="smallcaps">-cape</hi></label>, or <hi rend="italic"><hi rend="smallcaps"> Rock of Liſbon,</hi></hi> a mountain and remarkable promontory in Portugal, situated in the Atlantic
+                    ocean, at the north entrance of the Tagus, 22 miles north of Liſbon.</p>            </div>
+        </body>
+    </text>
+</TEI>

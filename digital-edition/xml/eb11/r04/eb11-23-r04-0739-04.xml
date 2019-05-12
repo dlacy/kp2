@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0739-04"
+                facs="encyclopaediabri23chisrich_0792.jp2" type="entry">
+
+                <p><label>ROSS, SIR HEW DALRYMPLE</label> (1779-1868), British soldier, entered the
+                    Royal Military Academy, Woolwich, in 1793, and passed out into the Royal
+                    Artillery two years later. With the Royal Horse Artillery he saw active service
+                    during the Irish rebellion of 1798, and after eleven years’ service was promoted
+                    captain and appointed to command “ A ” troop R.H.A. (afterwards famous as the
+                    “ Chestnut Troop ”). In 1809 the troop landed at Lisbon
+                    and at once set out to join Wellington’s army, reaching the front two days after
+                    Talavera. Ross’s guns were attached to the Light Division, and, with Craufurd,
+                    took part in the actions on the Coa and the battle of Busaco. When Masséna began
+                    his famous retreat from the lines of Torres Vedras, Ross’s troop was amongst the
+                    foremost in the pursuit; at Redinha and Pombal, at Sabugal and Fuentes d’Onor,
+                    the “ Chestnuts ” earned great distinction, and in December 1811 their commander
+                    received a brevet-majority for his services. He was present at Ciudad Rodrigo
+                    and Badajoz, at the Salamanca forts and the battle of Salamanca, still attached
+                    to the Light Division. In the campaign of Vittoria, Ross’s guns were continually
+                    with the most advanced troops, and after Vittoria they captured the only piece
+                    of artillery that remained to the defeated French. A further brevet-promotion
+                    and a good service reward came to Ross for his part in the campaign. At Vera in
+                    the Pyrenees Ross’s troop was one of the three which played a decisive part in
+                    the action, and Vera remains a classical example of the action of horse
+                    artillery. “ A ” troop was engaged at St Pierre and Orthez,
+                    and at the conclusion of peace returned to England. It was engaged at Waterloo,
+                    and though half its guns were disabled the remainder</p>
+                <pb xml:id="eb11-23-r04-0740" facs="encyclopaediabri23chisrich_0793.jp2"/>
+               <p>took part in the pursuit of the French. Ross received, besides the Peninsular
+                    and Waterloo medals, the K.C.B., the Portuguese order of the Tower and Sword and
+                    the Russian St Anne. He had commanded the troop for nineteen years when he at
+                    last received a regimental lieutenant-colonelcy. As officer commanding Royal
+                    Artillery in the Northern District, with delegated command over all the forces
+                    of the four northern counties, Sir Hew Ross had for nearly sixteen years to deal
+                    with continually threatened civil disorder, and bore himself as well as on the
+                    field of battle. From 1840 to 1858, when he retired, he practically directed, in
+                    one post or another, all the artillery services of the British army, and when in
+                    1854 the test of war came, the artillery took the field in a far better
+                    condition than the rest of Lord Raglan’s army. Much of the present efficiency of
+                    the “ Royal Regiment ” is directly traceable to the influence of Sir Hew Ross,
+                    to whom it owes the institution of the School of Gunnery at Shoeburyness and the
+                    establishment of the Royal Artillery Institution at Woolwich. Major-general in
+                    1841 and lieut.-general in 1851, he became general in 1854, and died, a
+                    field-marshal and G.C.B., in 1868.</p>
+               <p>See Memoir of the R.A. Institution, 1871; and Duncan, <hi rend="italic">History
+                        of the Royal Regiment of Artillery,</hi>
+               </p>
+            </div>
+        </body>
+    </text>
+</TEI>

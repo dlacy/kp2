@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0210-02"
+                facs="encyclopaediabri24chisrich_0227.jp2" type="entry">
+                <p><label>SARDICA, COUNCIL OF</label>, an ecclesiastical council convened in 343 by
+                    the emperors Constantius and Constans, to attempt a settlement of the Arian
+                    controversies, which were then at their height. Of the hundred and seventy
+                    bishops assembled, about ninety were Homousians—principally from the West—while
+                    on the other side were eighty Eusebians from the East. The anticipated
+                    agreement, however, was not attained; and the result of the council was simply
+                    to embitter the relations between the two great religious parties, and those
+                    between the Western and Eastern halves of the Empire. For as Athanasius and
+                    Marcellus of Ancyra appeared on the scene, and the Western bishops declined to
+                    exclude them, the Eusebian bishops of the East absolutely refused to discuss,
+                    and contented themselves with formulating a written protest addressed to
+                    numerous foreign prelates. That they instituted a rival congress of their own in
+                    Philippopolis is improbable. The bishops, however, who remained in Sardica (mod.
+                        <hi rend="italic">Sofia</hi> in Bulgaria) formed themselves into a synod,
+                    and naturally declared in favour of Athanasius and Marcellus, while at the same
+                    time they anathematized the leaders of the Eusebian party. The proposal to draw
+                    up a new creed was rejected.</p>
+                <p>Especial importance attaches to this council through the fact that Canons 3-5
+                    invest the Roman bishop with a prerogative which became of great historical
+                    importance, as the first legal recognition of his jurisdiction oyer other sees
+                    «and the basis for the further development of his primacy. “ In order to honour
+                    the memory of St Peter,” it was enacted that any bishop, if deposed by his
+                    provincial synod, should be entitled to appeal to the bishop of Rome, who was
+                    then at liberty either to confirm the first decision or to order a new
+                    investigation. In the latter case, the tribunal was to consist of bishops from
+                    the neighbouring provinces assisted—if he so chose— by legates of the Roman
+                    bishop. The clauses thus made the bishop of Rome president of a revisionary
+                    court; and afterwards Zosimuà unsuccessfully attempted to employ these canons of
+                    Sardica, as decisions of the council of Nice, against the Africans. In the
+                    middle ages they were cited to justify the claim of the papacy to be the supreme
+                    court of appeal. Attacks on their authenticity have been conclusively
+                    repelled.</p>
+                <p>The canons are printed in C. Mirbt, <hi rend="italic">Quellen zur Geschichte des
+                        Papsttums</hi> (Tübingen, 1901), p. 46 f.; Hefele, <hi rend="italic"
+                        >Conciliengeschichte,</hi> ed. 2, i. 533 sqq. See also, J. Friedrich, <hi
+                        rend="italic">Die Unechtheit der Canones von Sardika</hi> (Vienna, 1902); on
+                    the other side F. X. Funk, “ Die Echtheit der Canones von Sardica,” <hi
+                        rend="italic">Historisches Jahrbuch der Görresgesellschaft,</hi> xxiii.
+                    (1902), pp. 497-516; <hi rend="italic">ibid.</hi> xxvi. (1905), pp. 1-18,
+                    255-274; C. H. Turner, "The Genuineness of the Sardican Canons,” <hi
+                        rend="italic">The Journal of Theological Studies,</hi> iii. (London, 1902),
+                    ΡΡ- 370-397. (C. M.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

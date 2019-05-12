@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0727-01"
+                facs="encyclopaediabri23chisrich_0780.jp2" type="entry">
+
+                <p><label>ROSCOFF</label> a maritime town and watering-place of northwestern France,
+                    in the department of Finistère, on the English Channel, 17 J m. N.N.W. of
+                    Morlaix by rail. Pop. (1906) town, 1984; commune, 5054. Roscoff, separated from
+                    the Ile de Batz by a narrow channel, has a tidal port used by fishing and
+                    coasting vessels. Many of the inhabitants are engaged in the cultivation of
+                    early vegetables, to the growth of which the mild climate and fertile soil is
+                    eminently favourable. The church of Roscoff (16th century) has a fine
+                    Renaissance tower and contains interesting alabaster bas-reliefs. The ruined
+                    chapel of St Ninian commemorates the landing at Roscoff in 1548 of Mary Stuart,
+                    previous to her betrothal with the dauphin, son of Henry II. In 1746 Charles
+                    Edward, the young Pretender, landed at the port after his defeat at Culloden.</p>
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

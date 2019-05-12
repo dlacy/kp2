@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0403-02"
+                facs="encyclopaediabri23chisrich_0426.jp2" type="entry">
+
+                <p><label>ROBERTS, DAVID</label> (1796-1864), Scottish painter, was born at
+                    Stockbridge, Edinburgh, on the 24th of October 1796. He was apprenticed by his
+                    father, a shoemaker, for seven years to a painter and house-decorator; and
+                    during this time he employed his evenings in the study of art. In 1820 he formed
+                    the acquaintance of Clarkson Stanfield, then painting at the Pantheon,
+                    Edinburgh, at whose suggestion he sent three pictures in 1822 to the Exhibition
+                    of Works by Living Artists, held in Edinburgh. In the same year he removed to
+                    London, where he worked for the Coburg Theatre, and was afterwards employed,
+                    along with Stanfield, at Drury Lane. In 1824 he exhibited at the British
+                    Institution a view of Dryburgh Abbey, and sent two works to the first exhibition
+                    of the Society of British Artists, of which he was elected president in 1831. In
+                    the same autumn he visited Normandy, and the works which were the results of
+                    this excursion began to lay the foundation of the artist’s reputation—one of
+                    them, a view of Rouen Cathedral, being sold for eighty guineas. His scenes for
+                    an opera, <hi rend="italic">The Seraglio,</hi> executed two years later, and the
+                    scenery for a pantomime dealing with the naval victory of Navarino, and two
+                    panoramas executed jointly by him and Stanfield, were among his last work for
+                    the theatres. In 1829 he exhibited the “ Departure of the Israelites from
+                    Egypt,” in which his style first becomes apparent; three years afterwards he
+                    travelled in Spain and Tangiers, returning in the end of 1833 with a supply of
+                    effective sketches, elaborated into attractive and popular paintings. His “
+                    Interior of Seville Cathedral ” was exhibited in the British Institution in
+                    1834, and sold for £300; and he executed a fine series of Spanish illustrations
+                    for the <hi rend="italic">Landscape Annual</hi> of 1836, while in 1837 a
+                    selection of his <hi rend="italic">Picturesque Sketches in Spain</hi> was
+                    reproduced by lithography.</p>
+               <p>In 1838 Roberts made a long tour in the East, and accumulated a vast collection
+                    of sketches of a class of scenery which had hitherto been
+                    hardly touched hy British artists, and which appealed to the public with all the
+                    charm of novelty. The next ten years of his life were mainly spent in
+                    elaborating these materials. An extensive series of drawings w <hi rend="sup"
+                        >T</hi> as lithographed by Louis Haghe in <hi rend="italic">Sketches in the
+                        Holy Land and Syria,</hi> 1842-1849. In 1851, and again in 1853, Roberts
+                    visited Italy, painting the “ Ducal Palace, Venice,” bought by Lord
+                    Londesborough, the “ Interior of the Basilica of St Peter’s, Rome,” “ Christmas
+                    Day, 1853,” and “ Rome from the Convent of St Onofrio,” presented to the Royal
+                    Scottish Academy. His last volume of illustrations, <hi rend="italic">Italy,
+                        Classical, Historical and Picturesque,</hi> was published in 1859. He also
+                    executed, by command of Queen Victoria, a picture of the opening of the Great
+                    Exhibition of 1851. In 1839 he was elected an associate and in 1841 a full
+                    member of the Royal Academy; and in 1858 he was presented with the freedom of
+                    the city of Edinburgh. The last years of his life were occupied with a series of
+                    views of London from the Thames. He had executed six of these, and was at work
+                    upon a picture of St Paul’s Cathedral, when, on the 25th November 1864, he died
+                    suddenly of apoplexy.</p>
+               <p>A <hi rend="italic">Life</hi> of Roberts, compiled from his journals and other
+                    sources by James Ballantine, with etchings and pen-and-ink sketches by the
+                    artist, appeared in Edinburgh in 1866.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

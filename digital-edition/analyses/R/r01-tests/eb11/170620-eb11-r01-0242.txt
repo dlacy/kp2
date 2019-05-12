@@ -1,0 +1,62 @@
+master is at liberty to allow larger fees in special circumstances. See Rules of the Supreme Court} 0. 65, r. 48.
+REFRIGERATING and ICE-MAKING. “ Refrigeration ” (from Lat. frigus, frost) is the cooling of a body by the transfer of a portion of its heat to another and therefore a cooler body. For ordinary temperatures it is performed directly with water as the cooling agent, especially when well water, which usually has a temperature of from 520 to 550 F., can be obtained. There are, however, an increasingly large number of cases in which temperatures below that of any available natural cooling agent are required, and in these it is necessary to resort to machines which are capable of producing the required cooling effect by taking in heat at low temperatures and rejecting it at temperatures somewhat above that of the natural cooling agent, which for obvious reasons is generally water. The function of a refrigerating machine, therefore, is to take in heat at a low temperature and reject it at a higher one.
+This involves the expenditure of a quantity of work W, the amount in any particular case being found by the equation W = Q2 —Qi,where W is the work, expressed by its equivalent in British thermal units; Q2 the quantity of heat, also in B.Thcr.U., given out at the higher temperature T2 ; and Qi the heat taken in at the lower temperature Ti. It is evident that the discharged heat Q2 is equal to the abstracted heat Qi, plus the work expended, seeing that the work W, which causes the rise in temperature from Ti to T2) is the thermal equivalent of the energy actually expended in raising the temperature to the level at which it is rejected. The relation then between the work expended and the actual cooling work performed denotes the efficiency of the process, and this is expressed by Q1KQ2—(¿1); but as in a perfect refrigerating^ machine it is understood that the whole of the heat Qi is taken in at the absolute temperature Ti, and the whole of the heat Q2 , is rejected at the absolute temperature T2 , the heat quantities are proportional to the temperatures, and the expression Ti/(T2 —Ti) gives the ideal coefficient of performance for any stated temperature range, whatever working substance is used. These coefficients for a number of cases met with in practice are given in the following table. They
+Table I.
+Ti.
+Temperature at which Heat is extracted in Degrees Fahr,
+Temperature at whicfi Heat is rejected in Degrees Fahr.
+5°*
+6o°
+7G°
+80·
+90"
+100"
+-10°
+7*5
+6*4
+5*6
+5*0
+4*5
+4*1
+0°
+9*2
+7*7
+6*6
+5*8
+5*1
+4-6
+10°
+n*7
+9*4
+7*8
+6*7
+5*9
+5*2
+20°
+16*o
+12*0
+9-6
+8*o
+6*8
+6-0
+30°
+24*5
+16*3
+12*2
+9-8
+8*2
+7*o
+4°
+50*0
+25*0
+16*7
+12*5
+10*0
+**3
+show that in all cases the heat abstracted exceeds by many times the heat expended. As an instance, when heat is taken in at o° and rejected at 70°, a perfect refrigerating machine would abstract 6*6 times as much heat as the equivalent of the energy to be applied. If, however, the heat is to be rejected at ioo°, then the coefficient is reduced to 4*6.
+By examining Table I. it will be seen how important it is to reduce the temperature range as much as possible, in order to obtain the most economical results. No actual refrigerating machine does, in fact, take in heat at the exact temperature of the body to be cooled, and reject it at the exact temperature of the cooling water, but, for economy in working, it is of great importance that the differences should be as small as possible.
+There are two distinct classes of machines used for refrigerating and ice-making. In the first refrigeration is produced by the expansion of atmospheric air, and in the second by the evaporation of a more or less volatile liquid.
+Compressed-air Machines.—A compressed-air refrigerating machine consists in its simplest form of three essential parts —a compressor, a compressed-air cooler, and an expansion cylinder. It is shown diagrammatically in fig. 1 in connexion with a chamber which it is keeping cool. The edmpressor draws in air from the room and compresses it, the work expended in compression being almost entirely converted into heat. The compressed air, leaving the compressor at the temperature T2 , passes through the cooler, where it is cooled by means of water, and is then admitted to the expansion cylinder, where it is
+expanded to atmospheric pressure, performing work on the piston. The heat equivalent of the mechanical work performed on the piston is abstracted from the air, which is discharged at the temperature Ti. This temperature Ti is neces-
+sarily very much below the temperature to be maintained in the room, because the cooling effect is produced by transferring heat from the room or its contents to the air, which is thereby heated. The rise in temperature of the air is, in fact, the measure of the cooling effect produced. If such a machine could be constructed with reasonable mechanical efficiency a to compress the air to a temperature but slightly above that of the cooling water, and to expand the air to a temperature but slightly below that required to be maintained in the room, we should of course get a result approximating in efficiency somewhat nearly to the figures given in Table L Unfortunately, however, such results cannot be obtained in practice, because the extreme lightness of the air and its very small heat capacity (which at constant pressure is *2379) would necessitate .the employment of a great volume, with extremely large and mechanically inefficient cylinders and apparatus. A pound of air, representing about 12 cub. ft., if raised io° F. will only take up about 2-4 B.T.U. Consequently, to make such a machine mechanically successful a comparatively small weight of air must be used, and the temperature difference increased; in other words, the air must be discharged at a temperature very much below that to be maintained in the room.
+This theory of working is founded on the Carnot cycle for a perfect heat motor, a perfect refrigerating machine being simply a reversed heat motor. Another theory involves the use of the Stirling regenerator, which was proposed in connexion with the Stirling heat engine (see Air Engines). The air machine invented by Dr. A. Kirk in 1862, and described by him in a paper on the 11 Mechanical Production of Cold ” (Proc. Inst. C.E., xxxvii., 1874, 244), is simply a reversed Stirling air engine, the air working in a closed cycle instead of being actually discharged into the room to be cooled, as is the usual practice with ordinary compressed-air machines. Kirk's machine was used commercially with success on a fairly large scale, chiefly for ice-making, and it is recorded that it produced about 4 lb of ice for I lb of coal. In 1868 J. Davy Postle read a paper before the Royal Society of Victoria, suggesting the conveyance of meat on board ship in a frozen state by means of refrigerated air, and in 1869 he showed by experiment how it could be done; but his apparatus was not commercially developed. In 1877 a compressed-air machine was designed by J. J. Coleman of Glasgow, and in the early part of 1879 one of his machines was fitted on board the Anchor liner 11 Circassia,M which successfully brought a cargo of chilled beef from America—the first imported by the aid of refrigerating machinery, ice. having been previously used. The first successful cargo of frozen mutton from Australia was also brought by a Bell-Coleman machine in 1879. In the Bell-Coleman machine the air was cooled during^ compression by means of an injection of water, and further by being brought into contact with a shower of water. Another, perhaps the principal·, feature was the intcrchanger, an apparatus whereby the compressed air was further cooled before expansion by means of the comparatively cold air from the room in its passage to the compressor, the same air being used over and over again. The object of this interchanger was not only to cool the compressed air before expansion, but to condense part of the moisture in it, so reducing the quantity of ice or snow produced during expansion. A full description of the machine may be found in a paper on “ Air-Refrigerating Machinery ” by J. J. Coleman (Proc. Inst. C.E. lxviii., 1882). At the present time the Bell-Coleman machine has practically ceased to exist. In such compressed-air machines

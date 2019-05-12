@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0367-02"
+                facs="encyclopaediabri23chisrich_0390.jp2" type="entry">
+
+                <p><label>RITCHIE, CHARLES THOMSON RITCHIE</label>, <hi rend="smallcaps">1st
+                        baron</hi> (1838-1906), English politician, was born at Dundee, and educated
+                    at the City of London school. He went into business, and in 1874 was returned to
+                    parliament as Conservative member for the Tower Hamlets. In 1885 he was made
+                    Secretary to the Admiralty, and from 1886 to 1892 president of the Local
+                    Government Board, in Lord Salisbury’s administration, sitting as member for St
+                    George’s in the East. He was responsible for the Local Government Act of 1888,
+                    instituting the county councils; and a large section of the Conservative party
+                    always owed him a grudge for having originated the London County Council. In
+                    Lord Salisbury’s later ministries, as member for Croydon, he was president of
+                    the Board of Trade (1895-1900), and home secretary (1895-1900); and when Sir
+                    Michael Hicks-Beach retired in 1902, he became chancellor of the exchequer in Mr
+                    Balfour’s cabinet. Though in his earlier years he had been a “ fair-trader,” he
+                    was strongly opposed to Mr Chamberlain’s movement for a preferential tariff (see
+                    the articles on <hi rend="smallcaps">Balfour <hi rend="sub">j</hi> A.</hi> J.,
+                    and <hi rend="smallcaps">Chamber-lain,</hi> J.), and he resigned office in
+                    September 1903. In December 1905 he was created a peer, but he was in
+                    ill-health, and he died at Biarritz on the 9th of January 1906.</p>            </div>
+        </body>
+    </text>
+</TEI>

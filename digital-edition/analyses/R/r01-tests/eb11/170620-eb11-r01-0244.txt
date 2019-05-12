@@ -1,0 +1,297 @@
+consists of a coil or series of coils, is connected to the suction side of the pump, and the delivery from the pump is connected to the condenser, which is generally of somewhat similar construction to the refrigerator. The condenser and refrigerator are connected by a pipe in which is a valve named the regulator. Outside the refrigerator coils is the air, brine or other substance to be cooled, and outside the condenser is the cooling medium, which, as previously stated, is generally water. The refrigerating liauid (ether, sulphur dioxide, anhydrous ammonia, or carbonic acid) passes from the bottom of the condenser through the regulating valve into the refrigerator in a continuous stream. The pressure in the refrigerator being reduced by the pump and maintained at such a degree as to give the required boiling-point, which is of course always lower than the temperature outside the coils, heat passes from the substance outside, through the coil surfaces, and is taken up by the entering liquid, which is converted into vapour at the temperature Ti. The vapours thus generated are drawn into the pump, compressed, and discharged into the condenser at the temperature T2 , which is somewhat above that of the cooling water. Heat is transferred from the compressed vapour to the cooling water and the vapour is converted into a liquid, which collects at the bottom and returns by the regulating valve into the refrigerator. As heat is both taken in and discharged at constant temperature during the change in physical state of the agent, a vapour compression machine must approach the ideal much more nearly than a compressed-air machine, in which there is no such change.
+This will be seen by taking as an example a case in which the cold room is to be kept at io° F., the cooling water being at 6o°. Under these conditions, the actual evaporating temperature Ti, in a well-constructed ammonia compression machine, after allowing for the differences necessary for the exchange of heat, would be about 5° below zero, and the discharge temperature T would be about 75°. An ideal machine, working between 50 below zero and 750 above, has a coefficient of about 5*7, or nearly six times that of an ideal compressed-air machine of usual construction performing the same useful cooling work.
+A vapour compression machine does not, however, work precisely in the reversed Carnot cycle, inasmuch as the fall in temperature between the condenser and the refrigerator is not produced, nor is it attempted to be produced, by the adiabatic expansion of the agent, but results from the evaporation of apportion of the liquid itself. In other words, the liquid-refrigerating agent enters the refrigerator at the condenser temperature and ^ introduces heat which has to be taken up by the evaporating liquid before any useful refrigerating effect can be performed. The extent of this loss is determined by the relation between the liquid heat and the latent heat of vaporization at the refrigerator temperature. If r represents the latent heat of the vapour, and g2 and q\ the amounts of heat contained in the liquid at the respective temperatures of T2 and Ti, then the loss from the heat carried from the condenser into the refrigerator is shown by (52-51)/*' and the useful refrigerating effect produced in the refrigerator is r —(g2 —gO· Assuming, as in the previous example, that T2 1S750 F., and that Ti is 50 below zero, the results for various refrigerating agents are as follows:—
+Table II.
+Latent
+Heat.
+r
+Liquid
+Heat.
+«-ai
+Net
+Refrigeration.
+Proportion of Loss. (Q2-gi)Ir
+Anhydrous ammonia Sulphurous acid Carbonic acid . . '
+590-33
+173*13
+119-85
+72-556
+29-062
+47-35
+517*774
+144-068
+72-50
+0-1225
+0*168
+o*395
+The results show that the loss is least in the case of anhydrous ammonia and greatest in the case of carbonic acid. At higher condenser temperatures the results are even much more favourable to ammonia. As the critical temperature (88*4° F.) of carbonic acid is approached, the value of r becomes less and less and the refrigerating effect is much reduced. When the critical point is reached the value of r disappears altogether, and a carbonic-acid machine is then dependent for its refrigerating effect on the reduction in temperature produced by the internal work performed in expanding the gaseous carbonic acid from the condenser pressure to that in the refrigerator. The abstraction of heat does not then take place at constant temperature. The expanded vapour enters the refrigerator at a temperature below that of the substance to be cooled, and whatever cooling effect is produced is brought about by the superheating of the vapour, the result being that above the critical point of carbonic acid the difference T2 —T2 is increased and the efficiency of the machine is reduced. The critical temperature of anhydrous ammonia is about 266° F., which is never approached in the ordinary working of refrigerating machines. Some of the principal physical properties of sulphurous acid, anhydrous ammonia, and carbonic acid are given in Tables III., IV. and V.
+Table III.—Ledoux's Table for Saturated Sulphur Dioxide Vapour (S02 ).
+t
+Temp, of Ebullition. Degs. Fahr.
+Vapour-tension in Pounds per sq. in. Absolute.
+9
+Heat of Liquid from 320 Fahr. B.T.U.
+r
+Latent Heat of Evaporation. B/T.U.
+U
+Volume of one Pound of Saturated Vapour. CubT ft.
+— 22
+5-546
+-19*55
+176*98
+13*168
+-13
+7-252
+-16-31
+174*94
+10-268
+- 4
+9-303
+-13*05
+I72-9I
+8*122
+5
+11-803
+- 9*79
+170*82
+6-504
+14
+14-789
+- 6-85
+168-75
+5*254
+23
+18-544
+- 3*26
+I66-63
+4*293
+32
+22*468
+0-00
+164-47
+3*540
+41
+27*445
+3*27
+162-39
+2*93i
+50
+33*275
+6*55
+160-24
+2*45i
+59
+39-958
+9*83
+158-08
+2*066
+68
+47-637
+13*10
+155-89
+1*746
+77
+56-311
+16*38
+153-67
+1*490
+86
+66*407
+19*69
+151-49
+1*266
+95
+77*641
+22-99
+149-27
+1-089
+104
+90-297
+26*28
+147-02
+0-913
+Table W
+r .—Mother $ 1
+able for Saturated Anhydrou, Vapour (NH,).
+s Ammonta ,
+t
+Temp, of Ebullition. Degs. Fahr.
+V apour-tension in Pounds per sq. in. Absolute.
+$
+Heat of Liquid from 320 Fahr. B.T.U.
+r
+Latent Heat of Evaporation. B.T.U.
+u
+Volume of one Pound of Saturated Vapour. Cub. ft.
+-40
+10*238
+—60*048
+600*00
+25-630
+-31
+13*324
+-53.064
+597*24
+20*120
+— 22
+16*920
+-45-918
+595*o8
+*5*97*
+-13
+21 *472
+-38-646
+593*oo
+12*783
+- 4
+27*000
+-31-212
+590*00
+10*316
+5
+33*701
+-23-634
+586-82
+8*394
+14
+41-522
+-15-894
+581*00
+6*888
+23
+50-908
+— 8*028
+576*00
+5*703
+32
+61*857
+0*000
+571*00
+4*742
+4i
+74*5*3
+8*172
+562*50
+3*973
+50
+89-159
+16*506
+555*48
+3*364
+59
+*05*939
+24*966
+55o*oo
+2*851
+68
+124-994
+33-588
+541*00
+2*435
+77
+146-908
+42-354
+531*00
+2*098
+86
+170*782
+51-282
+523*00
+i*8io
+95
+197*800
+60-336
+5*2*50
+i*570
+104
+227*662
+69-552
+501*50
+1*361
+Table V.—Moilier's Table for Saturated Carbon Dioxide Vapour (CO2).
+t
+Temp, of Ebullition. Degs. Fahr.
+Vapour-tension in Pounds per sq. in. Absolute.
+Q
+Heat of Liquid from 3 20 Fahr. B.T.U.
+r
+Latent Heat of Evaporation. B.T.U.
+11
+Volume of one Pound of Saturated Vapour. Cub. ft.
+— 22
+213*345
+-24-80
+126*72
+*4330
+-*3
+248*903
+— 21*06
+123*25
+•3670
+- 4
+288*727
+-*7**9
+* *9'43
+*3*30
+5
+334*240
+-*3**7
+1*5-25
+•2680
+*4
+385*443
+— 9-00
+110*65
+*2295
+23
+440-913
+- 4-63
+*05*53
+‘*955
+32
+503*497
+0-00
+99-81
+.‘*670
+4*
+573**87
+4*93
+93-35
+-1430
+50
+649-991
+10*28
+85-93
+•1202
+59
+733*906
+16*22
+77-40
+•1010
+68
+826-356
+23*08
+66-47
+•0833
+77
+930*184
+31-63
+51-80
+•0673
+86
+*039-701
+45-45
+27-00
+*0481
+87*8
+1062-458
+51-61
+15-12
+*0416
+88-43
+1070-991
+59-24
+0*00
+*0352
+The action of a vapour compression machine is shown in fig. 3. Liquid at the condenser temperature being introduced into the refrigerator through the regulating valve, a small portion evaporates and reduces the remaining liquid to the temperature Tj. This is shown by the curve AB, and is the useless work represented by the expression (<72—Qi)/r. ^Evaporation then continues at the constant temperature T, abstracting heat from the substance outside the -refrigerator as shoyn by the line BC. The vapour is then compressed along the line CD to the temperature T2 , when, by the action of the cooling water in the condenser, heat is abstracted at constant temperature and the vapour condensed along the line DA.
+In a compression machine the refrigerator is usually a series of iron or steel coils surrounded by the air, brine or other substance it

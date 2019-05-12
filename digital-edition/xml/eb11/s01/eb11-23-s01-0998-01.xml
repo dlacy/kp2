@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-s01-0998-01"
+                facs="encyclopaediabri23chisrich_1061.jp2" type="entry">
+                <p><label>SAFETY-LAMP</label>, a form of lamp, used especially in mines, which is so
+                    constructed that it will burn without igniting a gaseous explosive mixture by
+                    which it is surrounded. To effect this end, the flame is encircled with a
+                    protecting metal case which is perforated with numerous small holes. Through
+                    these air for feeding the flame can enter freely and the products of combustion
+                    escape; but the flame or gases cannot pass out at a sufficiently high
+                    temperature to cause the ignition of the explosive mixture outside, because on
+                    arriving at the perforations they give up much of their heat to the large
+                    metallic surface they encounter, by which it is conducted away. In 1816 Sir
+                    Humphry Davy discovered the suitability of wire gauze as the material of the
+                    metal case, when the substance of the wire was rightly proportioned to the size
+                    of the aperture. The standard adopted as the limit for safety at that time was a
+                    gauze of 28 iron wires to the linear inch, having 784 apertures per square inch,
+                    but in some lamps the apertures are occasionally made still smaller.</p>
+                <p>The common safety or Davy lamp consists of a small cylindrical oil lamp, covered
+                    with a cylinder of wire gauze about 6 in. long and 1 <hi rend="sup">1</hi> / <hi
+                        rend="sub">2</hi> in. in diameter, with a flat gauze top. The upper part of
+                    the gauze is doubled to prevent it from being worn into holes by the products of
+                    combustion, and the air for feeding the flame enters round the wick. The gauze
+                    is mounted in a cage, consisting of three upright wires, screwed into a flat
+                    brass ring at each end. A handle is attached to the upper ring, while the lower
+                    one screws on to a collar on the oil-vessel of the lamp. When the two parts are
+                    screwed together the lamp is locked by a bolt passing through both parts, which
+                    is screwed down flush with or below the surface of the outer ring, so that the
+                    gauze cannot be removed without the use of a key.</p>
+                <p>In Stephenson's safety-lamp, generally known as the “ Geordie ” from its inventor
+                    George Stephenson, the light is covered by a glass chimney, surrounded by an
+                    outer casing and top of wire gauze. The feed air is admitted through numerous
+                    small holes in a copper ring a little below the level of the wick. This is one
+                    of the safest forms of lamp, but requires considerable care in use, especially
+                    in keeping the small feed holes clear from dust and oil; the glass protects the
+                    gauze from becoming overheated, and when the air is dangerously charged with gas
+                    the light is extinguished.</p>
+                <p>In the lamp invented by Dr W. Reid Clanny (1776-1850) about the same time as
+                    those of Davy and Stephenson, a glass cylinder is substituted for the lower
+                    portion of the wire gauze. The air for supplying the flame, entering at the
+                    bottom of the gauze and passing down the inner side of the glass, protects the
+                    latter to some extent from becoming overheated, but a large amount of light is
+                    lost by absorption in the glass, so that there is no great advantage over the
+                    ordinary Davy lamp to compensate for the extra weight and cost, especially as
+                    the safety property of the lamp depends upon the glass cylinder, which may be
+                    readily broken when subjected to the ordinary accidents of working. A more
+                    perfect form of lamp of the same character is that of Mueseler, which is
+                    extensively used in Belgium. It differs from Clanny’s lamp by the addition of a
+                    conical chimney above the flame, which produces a rapid draught, and
+                    consequently a more perfect cooling of the glass cylinder by the downflow of
+                    feed air for the flame.</p>
+                <p>The safety of the Davy lamp is endangered by exposure to a current of gas moving
+                    at more than 6 ft. a second, as the flame is then liable to be forced through
+                    the gauze, and the Clanrty and Stephenson lamps are not safe in currents
+                    exceeding 8 and 10 ft. respectively. These early forms have therefore been
+                    improved and modified to meet the requirements of safety in air-currents
+                    travelling at a high velocity. In the Hepplewhite-Gray lamp there is a conical
+                    glass surrounding the light, with a gauze chimney, pro-tected by an outer metal
+                    cylinder; the air supply to the flame is carried downwards through three tubes
+                    forming the standards of the cage. This lamp, in addition to giving a good light
+                    overhead owing to the shape of the glass, is peculiarly sensitive to gas, and
+                    therefore valuable in testing for fire-damp. Other approved lamps arc the
+                    Deflector and those of Marsaut and Mueseler when specially bonneted to resist
+                    extra high-speed currents. The illuminant now generally used in Great Britain is
+                    a mixture of rape oil with half its volume or more of petroleum, which is more
+                    suitable than vegetable or animal oil alone. In Germany, and also in America,
+                    Wolf’s lamp, burning benzoline or petroleum spirit upon an asbestos wick, is
+                    very popular as giving a much better light than oil. Special care is, however,
+                    required in filling, so that no free liquid may be left in the holder; the
+                    spirit must be entirely absorbed by a filling of sponge, and any superfluous
+                    quantity poured off. Portable electric lamps, supplied by accumulators or dry
+                    batteries, have been introduced into coal-mines; but owing to the weight and
+                    cost their use is as yet very restricted.</p>
+                <p>The ordinary safety-lamp affords indications of the presence of fire-damp (marsh
+                    gas) in the air of a mine. When the amount exceeds 2 or 2 <hi rend="sup">1</hi>
+                    / <hi rend="sub">2</hi> %, it may be detected by reducing the flame till it is
+                    practically non-lumionous, when a pale blue flame or luminous cap will be seen
+                    above the ordinary flame. This varies in size with the percentage of fire-damp,
+                    until when there is about 10% the blue flame fills the whole interior of the
+                    gauze cylinder. If the lamp is allowed to remain too long in such a fiery
+                    atmosphere, it becomes dangerous, because the gauze, becoming heated to redness,
+                    may fire the external gas. For detecting the presence of fire-damp in amounts
+                    less than 2 <hi rend="sup">1</hi> / <hi rend="sub">2</hi> %, special lamps with
+                    non-luminous flames are adopted. In Pieler’s lamp, which is of the ordinary Davy
+                    form, alcohol is burned on a silk wick, and a screen is provided so that the
+                    flame can be hidden. When exposed in air containing <hi rend="sup">1</hi> / <hi
+                        rend="sub">4</hi> % a cap of 1⅜ in. is formed, which increases to 2 in. with
+                        <hi rend="sup">1</hi> / <hi rend="sub">2</hi> %, and with 1 <hi rend="sup"
+                        >1</hi> /4 % the lamp is filled with a deep blue glow. Another and more
+                    useful method is that of Dr F. Clowes, who uses a hydrogen flame o∙4 in. long,
+                    obtained by attaching a cylinder containing compressed hydrogen to an ordinary
+                    safety-lamp. When used for gas testing the hydrogen is turned into the oil
+                    flame, which is for the time extinguished, and relighted when the observation is
+                    finished. So small a proportion as o∙2 % of gas can be detected by this
+                    method.</p>
+                <p>The locking of safety-lamps, so as to render them incapable of being opened by
+                    the miners when at work, is a point that has given play to a large amount of
+                    ingenuity. One of the most favourite devices is a combination of the wick-holder
+                    with the locking bolt, so that the latter cannot be withdrawn without lowering
+                    the wick and extinguishing the flame. Another method consists in the use of a
+                    lead rivet, uniting the two parts of the lamp, impressed with a seal, which
+                    cannot be removed without defacing the device. All this class of contrivances
+                    have the defect of only being efficacious when the miners are not provided with
+                    matches or other means of obtaining a light. A more physically perfect method is
+                    that adopted by Bidder, where the locking bolt is magnetized and held in place
+                    by a force which can only be overcome by the application of a battery of heavy
+                    and powerful steel magnets. These are kept in the lamp cabin at the pit bottom,
+                    where the lamps are cleaned and served out lighted to the miners at the
+                    commencement of the shift, and are collected before they return to the çurface.
+                    (H. B.)</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

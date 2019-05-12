@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0223-02"
+                facs="encyclopaediabri24chisrich_0242.jp2" type="entry">
+                <p><label>SARSFIELD, PATRICK</label>, (? -1693), titular earl of Lucan,</p>
+                <p>Irish Jacobite and soldier, belonged to an Anglo-Norman family long settled in
+                    Ireland. He was born at Lucan, but the date is unknown. His father Patrick
+                    Sarsfield married Anne, daughter of Rory (Roger) O’Moore, who organized the
+                    Irish rebellion of 1641. The family possessed an estate of £2000 a year.
+                    Patrick, who was a younger son, entered Dongan’s regiment of foot on the 9th of
+                    February 1678. In his early years he is known to have challenged Lord Grey for a
+                    supposed reflection on the veracity of the Irish people (September 1681), and in
+                    the December of that year he was run through the body in a duel in which he
+                    engaged as second. During the last years of the reign of King Charles II. he saw
+                    service in the English regiments which were attached to the army of Louis XIV.
+                    of F rance. The accession of King James II. led to his return home.</p>
+                <p>He took part in the suppression of the Western rebellion at the battle of
+                    Sedgemoor on the 6th of July 1685. In the following year he was promoted to a
+                    colonelcy. King James had adopted the dangerous policy of remodelling the Irish
+                    army so as to turn it from a Protestant to a Roman Catholic force, and
+                    Sarsfield, whose family adhered to the church of Rome, was selected to assist in
+                    this re-organization. He went to Ireland with Richard Talbot, afterwards earl of
+                    Tyrconnel (<hi rend="italic">q.v.),</hi> who was appointed commander-in-chief by
+                    the king. In 1688 the death of his elder brother, who had no son, put him in
+                    possession of the family estate, which in those troubled times can have been of
+                    small advantage to him. When the king brought over a few Irish soldiers to
+                    coerce the English, Sarsfield came in command of them. As the king was deserted
+                    by his army there was no serious fighting, but Sarsfield had a brush with some
+                    of the Scottish soldiers in the service of the prince of Orange at Wincanton.
+                    When King James disbanded his army and fled to France, Sarsfield accompanied
+                    him. In 1689 he returned to Ireland with the king. During the earlier part of
+                    the war he did good service by securing Connaught for the Jacobites. The king,
+                    who is said to have described him as a brave fellow who had no head, promoted
+                    him to the rank of brigadier, and then major-general with some reluctance. It
+                    was not till after the battle of the Boyne (1st of July 1690), and during the
+                    siege of Limerick, that Sarsfield came prominently forward. His capture of a
+                    convoy of military stores at one of the two places called Ballyneety between
+                    Limerick and Tipperary, delayed the siege of the town till the winter rains
+                    forced the English to retire. This achievement, which is said by the duke of
+                    Berwick to have turned Sarsfield’s head, made him the popular hero of the war
+                    with the</p>
+                <pb xml:id="eb11-24-s02-0224" facs="encyclopaediabri24chisrich_0243.jp2"/>
+                <p>Irish. His generosity, his courage and his commanding height, had already
+                    commended him to the affection of the lrish. When the cause of King James was
+                    ruined in Ireland, Sarsfield arranged the capitulation of Limerick and sailed to
+                    France on the 22nd of December 1691 with many of his countrymen who entered the
+                    French service. He received a commission as lieutenant-general (maréchal de
+                    camp) from King Louis XIV. and fought with distinction in Flanders till he was
+                    mortally wounded at the battle of Landen or Neerwinden, on the 19th of August
+                    1693. He died at Huy two or three days after the battle. In 1691 he had been
+                    created earl of Lucan by King James. He married Lady Honora de Burgh, by whom he
+                    had one son James, who died childless in 1718. His widow married the duke of
+                    Berwick.</p>
+                <p>J. Todhunter, <hi rend="italic">Life of Patrick Sarsfield</hi> (London,
+                    1895).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

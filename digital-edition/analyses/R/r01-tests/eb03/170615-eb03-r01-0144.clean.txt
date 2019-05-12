@@ -1,0 +1,155 @@
+attend to onc half, and we shall consider these as in a state of permanency. 
+No body changes either its direction or velocity otherwise than by insensible degrees : therefore the particle which is moving in the axis will not reach the vertex A of the body, where it behoved to deflect instantane oussy at light angles. It will therefore begin to be de flected at some point F a head of the body, and will de scribe a curve FM, touching the axis in F, and the body in M; and then, gliding along the body, will quit it at some point L describing a tangent curve, which will join the axis again (touching it) in R; and thus there will be a quantity of stagnant water FAM before or a head of the body, and another LCR behind r astern of it. 
+Let 
+a 
+be the velocity of a particle of the fluid in any instant, and 
+a' 
+its velocity in the next instant. The velocity 
+a 
+may be considered as compounded of 
+a' 
+and If the particles tended to move with the velocities 
+o'’ 
+only, the whole fluid would be in equiiibrio (general principle), and the pressure of the fluid would be the same as if all were stagnant, and each particle were λ" 
+urged by a force —, 
+t' 
+expressing an. indesinitely small moment of time. 
+(N. B. — 
+is the proper expression of 
+the accelerating force, which, by acting during the moment /·, would generate the velocity λ"; and 
+d‘ 
+is supposed an indeterminate quantity, different perhaps for each particle). Now let 
+a 
+be supposed constant, or 
+a ~ a'. 
+In this case 
+a" — o. 
+That is to say, no pressure whatever will he exerted on the solid body unless there happen changes sin the velocities or directions of the particles. 
+Let 
+a 
+and 
+a' 
+then be the motions of the particles in two consecutive instants. They would be in equilibrio 
+. a 
+if urged only by the forces —. Therefore if 
+y 
+be the 
+point where the particles which describe the curve FM begin to change their velocity, the pressure in D would be equal to the pressure which the fluid contained in the canal 
+y 
+FMD would exert, if each particle were solicited by its force The question is therefore reduced to the finding the curvature in the canal 
+γ 
+FMD, and the ac celerating forces — in its different parts. 
+It appears, in the sirst place, that no pressure is ex erted by any of the particles along the curve FM : for suppose that the particle 
+a 
+(sig. 17.) describes the in definitely small straight line 
+a b 
+in the sirst instant, and 
+I C 
+in the second instant; produce 
+a b 
+till 
+b d — a b, 
+and joining 
+dc, 
+the motion 
+ab 
+or 
+b d 
+may be considered as composed of 
+b C 
+which the particle really takes in the next instant, and a motion 
+d C 
+which should be destroyed. Draw 
+b i 
+parallel to 
+d C 
+and 
+i t 
+perpendicular to 
+b C 
+It is plain that the particle 
+b, 
+solicited hythe forces 
+be, ei 
+(equivalent to 
+dc 
+should be in equilibrio. this being established, 
+.b e 
+must be = o, that is, there will be. no accelerating or retarding force at 
+b; 
+for if there be, draw 
+bm 
+(fig. 18.) perpendicular to 
+b 
+F, and the parallel 
+n q 
+infinitely near it. The part i of the fluid 
+contained in the canal 
+bn qm 
+would sustain some pressure 
+srom 
+b 
+towards 
+n, 
+or from « towards 
+b. 
+Therefore since the fluid in this stagnant canal should be in equili brio, there must also be some action, at least in one of the parts 
+b m, m q, qn, 
+to counterbalance the action on the partez. But the fluid is stagnant in the space FAM (in consequence of the law of continuity). Therefore there is no force which can act on 
+b m, mq, ' q n; 
+and the pressure in the canal in the direction 
+bn 
+or 
+« b 
+is nothing, or the force 
+b e = 0, 
+and the force 
+i e 
+is perpendicular to the canal; and there is therefore no pressure Jn the canal FM, except what proceeds from the part 
+γ 
+F, or from the force ί/'; which last being perpendicular to the canal, there can be no force exerted on the point M, but what is propagated from the part 
+y 
+F. 
+The velocity therefore in the canal FM is constant if finite, or infinitely small if variable : sor, in the first case, the force 
+b e 
+would be absolutely nothing; and Tn the second cafe, it would be an infinitesimal of the southeast cond order, and may be considered as nothing in com parison with the velocity, which is of the sirst order. \ve shall see by and by that the last is the real state of the case. Therefore the fluid, before it begins to change its direction in F, begins to change its velocity in some point 
+y 
+ahead of F, and by the time that it reaches F its velocity is as it were annihilated. 
+Cor. 
+I. 
+Therefore the pressure in any point D arises both from the retardations in the part 
+y 
+F, and from the particles which are in the canal M.D. : as these last 
+a " 
+move along the surface of the body, the force — > destroyed 
+in every particle, is compounded of two others one in the direction of the sursace, and the other per pendicular to it; call these 
+p 
+and 
+p’. 
+The point D ia pressed perpendicularly to the surface M.D.; ist, by all the forces 
+p 
+in the curve M.D.; 2d, by the force ft acting on the single point D. This may be neglected in comparison of the indefinite number of the others : therefore taking in the arch M.D., an insinitely smalt portion N 
+m, — s, 
+the pressure on D, perpendicular to the sursace of the body, will be = 
+I; 
+and this 
+flu 
+ent must be fo taken as to be — 
+0 
+in the point M. 
+Cor. 2. 
+Therefore, to sind the pressure on D, we must find the force 
+p 
+on any point N. Let 
+u 
+be the velocity of the particle N, in the direction N 
+m 
+in any instant, and a + 
+u 
+its velocity in the following instant; we must have 
+ρ — 
+Therefore the whole question 
+is reduced to finding the velocity 
+u 
+in every pcsint N, in the direction N w. 
+And this is the aim of a series of propositions which follow, in which the author displays the most accurate and precise conception of the subject, and great address and elegance in his mathematical analysis. He at length brings out an equation which expresses the pressure on the body in the most general and unexceptionable manner. we cannot give an abstract, because the train of reasoning is already concise in the extreme : nor can we even exhibit the sinal equation; for it is conceived in the most resigned and abstruse form of indeterminate, functions, in order to embrace every possible circum stance. But we can assure our readers, that it truly expresses the solution of the problem. But, alas! it is of 

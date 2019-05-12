@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0346-01"
+                facs="encyclopaediabri24chisrich_0369.jp2" type="entry">
+                <p><label>SCHOLAR, SCHOLARSHIP</label>. The term “scholar,” primarily meaning a “
+                    learner,” is secondarily applied to one who has thoroughly learnt all that “ the
+                    school ” can teach him, one who by early training and constant self-culture has
+                    attained a certain maturity in precise and accurate knowledge. Hence the term “
+                    scholarship ” in the sense of the knowledge or method of a scholar. Similarly “
+                    classical scholarship ” may be defined as the sum of the mental attainments of a
+                    classical scholar. Scholarship is sometimes identified with classical <hi
+                        rend="italic">learning</hi> or erudition; it is more often contrasted with
+                    it. The contrast is thus drawn by Donaldson in his <hi rend="italic">Classical
+                        Scholarship and Classical Learning</hi> (1856), and by Mark Pattison, in his
+                        <hi rend="italic">Essay on Oxford Studies</hi> (1855). “ I maintain," says
+                    Donaldson, “ that not all learned men are accomplished scholars, though any
+                    accomplished scholar may, if he chooses to devote the time to the necessary
+                    studies, become a learned man ” (p. 149). “ It is not a know-ledge,” writes Mark
+                    Pattison, “ but a discipline, that is required; not science, but the scientific
+                    habit; not erudition, but scholarship ” <hi rend="italic">(Essays,</hi> i.
+                    42s).</p>
+                <p>The expression “ a scholarship ” is also used in England for a money payment made
+                    by a school, college or university, as a prize (either for one year or a series
+                    of years) to the successful competitors at an examination at which one or more
+                    such scholarship are to be awarded; and the successful candidate is called a “
+                    scholar,” as the holder of a “ scholarship.” In this sense the word is almost
+                    synonymous with “ an exhibition,” but the latter is usually considered inferior
+                    in merit and dignity, if not in amount. *</p>
+                <p>On the general history of classical scholarship, sec <hi rend="smallcaps"
+                        >Classics:</hi>
+                    <hi rend="italic">Greek and Latin.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

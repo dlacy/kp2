@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09-21-s01-0300-03"
+                facs="encyclopediabrit21newyrich_raw_0320.jp2" type="entry">
+                <p><label>SANTILLANA, <hi rend="smallcaps">Iñigo Lopez de Mendoza</hi></label>,
+                    Marquis of (1398-1458), Castilian poet, was born at Carrion de los Condes in Old
+                    Castile on August 19, 1398. His father, Don Diego Hurtado de Mendoza, grand
+                    admiral of Castile, having died while Inigo was still quite young, the boy was
+                    brought up by his uncle Don Alfonso Enriquez. From his twentieth year onwards he
+                    became an increasingly prominent figure at the court of Juan II. of Castile,
+                    distinguishing himself both in civil and military service ; he was created
+                    Marques de Santillana and Conde del Real do Manzanares for the part he took in
+                    the battle of Olmedo in 1445. In the protracted struggle of the Castilian nobles
+                    against the preponderating influence of Alvaro de Luna he showed great
+                    moderation, but ultimately in 1452 he joined the combination which effected the
+                    fall of the favourite in the following year. From the death of Juan II. in 1454
+                    Mendoza took little part in public affairs, devoting himself mainly to the
+                    pursuits of literature and to pious meditation. He died at Guadalajara on March
+                    26, 1458.</p>
+                <p>Mendoza was the first to introduce the Italian sonnet into Castile, but his
+                    productions in this class are somewhat conventional in style and have little to
+                    recommend them beyond the charm of smooth versification. He was much more
+                    successful in the <hi rend="italic">scrranilla</hi> or highland pastoral after
+                    the Provençal manner. His long-popular <hi rend="italic">Gcntiloquio</hi>
+                    (1494), consisting of one hundred proverbs, each rendered in an eight-line
+                    stanza, was prepared at the request of Juan II. for the instruction of Don
+                    Enrique, the heir-apparent. To the same didactic category belong the <hi
+                        rend="italic">Diálogo de Bias contra Fortuna</hi> (1448) and the <hi
+                        rend="italic">Doctrinal dc Prívados</hi> (1453). The <hi rend="italic"
+                        >Comedicta dc Ponza</hi> is a Dantesque dream-dialogue, in octave stanzas,
+                    founded on the disastrous sea-fight off Ponza in 1435, when the kings of Aragon
+                    and Navarre along with the infante of Castile were taken prisoners by the
+                    Genoese.</p>
+                <p>The works of Santillana have been edited with commentaries by Amador de los Rios
+                    (Madrid, 1852).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

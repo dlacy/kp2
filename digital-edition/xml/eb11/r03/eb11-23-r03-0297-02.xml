@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0297-02"
+                facs="encyclopaediabri23chisrich_0320.jp2" type="entry">
+
+                <p><label>RICHARD, HENRY</label> (1812-1888), Welsh politician, was the son of the
+                    Rev. Ebenezer Richard (1781-1837), a Calvinistic Methodist minister, and was
+                    born on the 3rd of April 1812. Educated at Llangeitho grammar school, he also
+                    studied at a college at Highbury, and in 1835 he became minister of a
+                    Congregational church in the Old Kent Road, London, a position which he retained
+                    for fifteen years. Richard is chiefly known as an advocate of peace and
+                    international arbitration. In 1848 he became secretary of the Peace Society, and
+                    in this capacity he helped to organize a series of congresses in the capitals of
+                    Europe, and was partly instrumental in securing the insertion of a declaration
+                    in favour of arbitration in the treaty of Paris in 1856. He resigned this post
+                    in 1885. In 1868 Richard was elected member of parliament for the Merthyr
+                    boroughs, and he remained in the House of Commons until his death at Treborth,
+                    near Bangor, on the 20th of August 1888. In parliament he was a leading member
+                    of the party which advocated the removal of Nonconformist grievances and the
+                    disestablishment of the church in Wales; in 1877 he was chairman of the
+                    Congregational Union of England and Wales. Among Richard’s writings may be
+                    mentioned: <hi rend="italic">Defensive War</hi> (1846, and again 1890); <hi
+                        rend="italic">Memoirs of Joseph Sturge</hi> (1864); <hi rend="italic"
+                        >Letters on the Social and Political Condition of the Principality of
+                        Wales</hi> (1866, and again 1884); and <hi rend="italic">The Recent Progress
+                        of International Arbitration</hi> (1884). He also prepared some of the
+                    material for the fife of his friend and associate, Richard Cobden, which was
+                    written by Mr John, now Lord, Morley; and he did some journalistic work in the
+                        <hi rend="italic">Morning Star</hi> and the <hi rend="italic">Evening
+                        Star.</hi>
+               </p>
+               <p>See C. S. Miall, <hi rend="italic">Henry Richard, M.P.</hi> (1889); U. Appleton,
+                        <hi rend="italic">Memoirs of Henry Richard</hi> (1889); and articles in <hi
+                        rend="italic">Cymru Fydd</hi> for 1888.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="chi.28490931-1526160593_Page_719.jpf" type="entry"
+                xml:id="eb07-19-s01-0662-03" xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SAVONA</label>, a city of Italy, in the kingdom of Sardinia, and the
+                    province, formerly the state, of Geno. It stands on the river Ponente, near the
+                    sea, where the Egabona falls into that stream. It has a small harbour, fit only
+                    for coasting vessels, but by which trade and the fisheries are carried on in it
+                    It is the seat of a bishop, and, besides the cathedral, has twenty parish and
+                    monastic churches. It contains 10,660 inhabitants, who manufacture silk goods,
+                    earthenware, soap, vitriol, and fire-arms. Long. 9. 25. E. Lat. 44. 16. N.∣</p>
+            </div>
+        </body>
+    </text>
+</TEI>

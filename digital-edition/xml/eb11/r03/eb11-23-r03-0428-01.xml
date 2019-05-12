@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0428-01"
+                facs="encyclopaediabri23chisrich_0461.jp2" type="entry">
+
+               <p>                   <label>ROCHESTER, LAWRENCE HYDE,</label>
+                    <hi rend="smallcaps">Earl of</hi> (1641-1711), English statesman, second sou of
+                    Edward Hyde, earl of Clarendon, was born in March 1641. After the restoration of
+                    Charles II. he sat as member of parliament, first for Newport in Cornwall and
+                    afterwards for the university of Oxford, from 1660 to 1679. In 1661 he was sent
+                    on a complimentary embassy to Louis XIV. of France, while he held the court post
+                    of master of the robes from 1662 to 1675. In 1665 he married Henrietta (d.
+                    1687), daughter of Richard Boyle, earl of Burlington and Cork. When his father
+                    was impeached in 1667, Lawrence joined with his elder brother, Henry, in
+                    defending him in parliament, but the fall of Clarendon did not injuriously
+                    affect the fortunes of his sons. They were united with the royal family through
+                    the marriage of their sister, Anne, with the duke of York, afterwards James II.,
+                    and were both able and zealous royalists. In 1676 Lawrence Hyde was sent as
+                    ambassador to Poland; he then travelled to Vienna, whence he proceeded to
+                    Nijmwegen to take part in the peace congress as one of the English
+                    representatives. Having returned to England, he entered the new parliament,
+                    which met early in 1679, as member for Wootton Bassett; in November 1679 he was
+                    appointed first lord of the treasury, and for a few years he was the principal
+                    adviser of Charles II. In April 1681 he was created Viscount Hyde of Kenilworth,
+                    and in November following earl of Rochester. He was compelled to join in
+                    arranging the treaty of 1681, by which Louis XIV. agreed to pay a subsidy to
+                    Charles, at the very moment when he was imploring William, prince of Orange, to
+                    save Europe from the ambitions of the French monarch. The conflict between his
+                    wishes and his interests may have tended to sour a temper never very equable; at
+                    all events the earl made himself so unpleasant to his colleagues that in August
+                    1684 be was removed from the treasury to the</p>                <pb xml:id="eb11-23-r03-0429" facs="encyclopaediabri23chisrich_0462.jp2"/>
+               <p>more dignified, but less influential, post of president of the council, a
+                    process which his enemy Halifax described as being “ kicked upstairs.” Although
+                    appointed lord lieutenant of Ireland, Rochester did not take up this position;
+                    he was still president of the council when James II. became king in February
+                    1685, and he was at once appointed to the important office of lord treasurer.
+                    But in spite of their family relationship and their long friendship, James and
+                    his treasurer did not agree. The king wished to surround himself with Roman
+                    Catholic advisers; the earl, on the other hand, looked with alarm on his
+                    master’s leanings to that form of faith. In January 1687 he was removed from his
+                    office of treasurer, being solaced with a pension of £4000 a year and a gift of
+                    Irish lands.</p>               <p>After the revolution of 1688 Rochester appeared as a leader of the Tories, and
+                    he opposed the election of William and Mary as king and queen, raising his voice
+                    for the establishment of a regency on behalf of the exiled James. But he soon
+                    reconciled himself to the new order, perhaps because he could not retain his
+                    pension unless he took the oaths of allegiance. After this he was quickly in the
+                    royal favour and again a member of the privy council. He advised the queen in
+                    ecclesiastical matters, and returned to his former position as the leader of the
+                    High Church party. From December 1700 until February 1703 he was lord lieutenant
+                    of Ireland, although he did not spend much time in that country, and the
+                    concluding years of his public life were mainly passed in championing the
+                    interests of the Church. In 1710 he was again made lord president of the
+                    council. He died on the 2nd of May 1711, and was succeeded by his only son,
+                    Henry (1672-1758), who in 1724 inherited the earldom of Clarendon. When Henry
+                    died without issue on the 10th of December 1758 all his titles became extinct.</p>               <p>Lawrence Hyde had some learning and a share of his father’s literary genius. The
+                    main employment of his old age was the preparation for the press of his father’s
+                        <hi rend="italic">History of the Rebellion,</hi> to which he wrote a
+                    preface. Like most of the men of his time, he drank deeply, and he was of an
+                    arrogant disposition and had a violent temper. In Dryden’s satire of <hi
+                        rend="italic">Absalom and Achitophel</hi> he is “ Hushai,” the friend of
+                    David in distress.</p>               <p>The correspondence of Rochester with his brother the earl of Clarendon, together
+                    with other letters written by him, was published with notes by S. W. Singer
+                    (1828). Other authorities are G. Burnet, <hi rend="italic">History of his Own
+                        Time,</hi> edited by O. Airy (Oxford, 1897-1900); John Evelyn, <hi
+                        rend="italic">Diary,</hi> edited by H. B. Wheatley (1879); and Macaulay, <hi
+                        rend="italic">History of England.</hi>
+               </p>            </div>
+        </body>
+    </text>
+</TEI>

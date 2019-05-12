@@ -1,0 +1,53 @@
+demonstrate anything concerning the impulsion of a fluid, estimated in the direction of its motion, we must consider it as demonstrated concerning the resistance of a quiescent fluid to the motion of that body, having the same velocity in the opposite direction. The determination of these impulsions being much easier than the determination of the motions communicated by the body to the particles of the fluid, this method will be followed in most of the subsequent discussions.
+The general proposition already delivered is by no means sufficient for explaining the various important phenomena observed in the mutual actions of solids and fluids. In particular, it gives us no assistance in ascertaining the modifications of this resistance or impulse, which depend on the shape of the body and the inclination of its impelled or resisted surface to the direction of the motion. Sir Isaac Newton found another hypothesis necessary ; namely, that the fluid should be so extremely rare, that the distance of the particles may be incomparably greater than tlleir diameters. This additional condition is necessary for considering their actions as so many separate collisions or impulsions on a solid body. Each particle must be supposed to have abundant room to rebound, or otherwise escape, after having made its stroke, without sensibly affecting the situations and motions of the particles which have not yet made their stroke ; and the velocity must be so great as not to give time for the sensible exertion of their mutual forces of attraction and repulsion.
+Keeping these conditions in mind, we may proceed to determine the impulsions made by a fluid on surfaces of every kind. The most convenient method of proceeding in this determination, is to compare them all either with the impulse which the
+same surface
+would receive from the fluid impinging on it perpendicularly, or with the impulse which the
+same stream of fluid
+would make when coming perpendicularly on a surface of such extent as to occupy the whole stream.
+It will be convenient to premise the following definitions.
+By a
+stream,
+we mean a quantity of fluid moving in one direction, that is, all the particles moving in parallel lines ; and the
+breadth
+of the stream is a line perpendicular to all these parallels.
+A
+filament
+is a portion of this stream of very small breadth, and it consists of an indefinite number of particles following one another in the same direction, and successively impinging on, or gliding along, the surface of the solid body.
+The
+base
+of any surface exposed to a stream of fluid, is that portion of a plane perpendicular to the stream, which is covered or protected from the action of the stream by the surface exposed to its impulse. Thus the base of a sphere exposed to a stream of fluid is its great circle, whose plane is perpendicular to the stream.
+Direct impulse
+expresses the energy or action of the particle or filament, or stream of fluid, when meeting the surface perpendicularly, or when the surface is perpendicular to the direction of the stream.
+Absolute impulse
+means the actual pressure on the impelled surface, arising from the action of the fluid, whether striking the surface perpendicularly or obliquely ; or it is the force impressed on the surface, or tendency to motion which it acquires, and which must be opposed by an equal force in the opposite direction, in order that the surface may be maintained in its place. It is of importance to keep in mind, that this pressure is always perpendicular to the surface.
+Relative
+or
+effective impulse
+means the pressure on the surface estimated in some particular direction.
+The
+angle of incidence
+is the angle contained between tne direction of the stream and the impelled plane.
+The
+angle of obliquity
+is the angle contained between
+Prop. III. The direct impulse on any surface is to the effective oblique impulse on the same surface, as the cube of radius to the solid, which has for its base the square of the sine of incidence, and the sine of obliquity for its height.
+Let GO be the direction, and draw IO perpendicular to
+GO. Now, when GH represents the direct impulse of a particle, GI is the absolute oblique impulse, and GO is the effective impulse in the direction GO : But GI is to GO as radius to the sine of GIO, and GIO is the complement of IGO, and is therefore equal to CGO, the angle of obliquity ; whence, assuming p to denote the effective oblique impulse, and O = the angle of obliquity, we have
+the plane and the direction in which we wish to estimate the impulse.
+Prop. II. The direct impulse of a fluid on a plane surface, is to its absolute oblique impulse on the same surface, as the square of the radius to the square of the sine of the angle of incidence.
+Let a stream of fluid, moving in the direction FG (fig.
+1), act on the plane BC.
+Draw CA perpendicular to FG, and equal to CB, and BD parallel to FG, meeting AC in D. Let the particle F, moving in the direction FG, meet the plane in.G, and in FG produced take GH to represent the magnitude of the direct impulse, or the impulse which the particle would exert on the plane AC, by meeting it in E.
+Also draw GI and HK perpendicular to BC, and HI perpendicular to GL
+The force GH is equivalent to the two forces GI and GK ; and GK being in the direction of the plane, has no share in the impulse. The absolute impulse, therefore, is represented by GI; the angle GHI is equal to FGC, the angle of incidence ; and therefore GH is to GI as radius to the sine of the angle of incidence : Therefore the direct impulse of each particle or filament is to its absolute oblique impulse as radius to the sine of the angle of incidence. But further, the number of particles or filaments which strike the surface AC, is to the number of those which strike the surface BC as AC to DC : for all the filaments between A and D go past the oblique surface BC without striking it. But BC : DC = rad. : sin. DBC, = rad. : sin. FGC, = rad. : sin. incidence. Now the whole impulse is as the impulse of each filament, and as the number of filaments exerting equal impulses jointly ; therefore the whole direct impulse on AC is to the whole absolute impulse on B C, as the square of radius to the square of the sine of the angle of incidence.
+Let F represent the direct impulse,/the absolute oblique impulse, A the area of the plane, and
+i
+the angle of incidence ; and let the tabular sines and cosines be considered as decimal fractions of the radius 1. The proposition gives us F
+tf —
+1 : sin? », and therefore∕= F × sin? f. Also, because impulses are in the proportion of the extent of surface similarly impelled, we have, in general,/ = FA × sin? ».
+The first who published this theorem was Pardies, in his
+Œuvres de Mathématique,
+in 1673. Newton, however, had investigated the chief proposition of the
+Principia
+before 1670.

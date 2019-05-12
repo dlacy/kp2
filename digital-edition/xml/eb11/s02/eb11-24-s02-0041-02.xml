@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0041-02"
+                facs="encyclopaediabri24chisrich_0058.jp2" type="entry">
+                <p><label>ST PIERRE and MIQUELON</label>, two islands 10 m. off the south coast of
+                    Newfoundland, united area about 91 sq. m. Both are rugged masses of granite,
+                    with a few small streams and lakes, a thin covering of soil and scanty
+                    vegetation. Miquelon, the larger of the two, consists of Great Miquelon and
+                    Little Miquelon, or Langlade; previous to 1783 these were separated by a
+                    navigable channel, but they have since become connected by a dangerous mudbank.
+                    St Pierre has a sheltered harbour with about 14 ft. of water, and a good
+                    roadstead for large vessels. Their importance is due to their proximity to the
+                    great Banks, which makes them the centre of the French Atlantic fisheries. These
+                    are kept up by an elaborate system of bounties by the French government, which
+                    considers them of great importance as training sailors for the navy. Fishing
+                    lasts from May till October, and is carried on by nearly five hundred vessels,
+                    of which about two-thirds are fitted out from St Pierre, the remainder coming
+                    from St Malo, Cancale and other French coast towns. The resident population,
+                    which centres in the town of St Pierre, is about 6500, swelled to over 10,000
+                    for a time each year by extra fishing hands from France, but is steadily
+                    declining owing to emigration into Canada. Owing to the low rates of duty, vast
+                    quantities of goods, especially French wines and liquors, are imported, and
+                    smuggled to Newfoundland, the United States and Canada, though of late years
+                    this has been checked by a gradual rise in the scale of duties, and by the
+                    presence since 1904 of a British consul. St Pierre is connected with Halifax
+                    (N.S.) and St Johns (Newfoundland) by a regular packet service, and is a station
+                    of the Anglo American Cable Co. and the <hi rend="italic">Compagnie française
+                        des câbles télégraphiques.</hi> Excellent facilities for primary and
+                    secondary education arc given, but the attraction of the fisheries prevents
+                    their being fully used.</p>
+                <p>The islands were occupied by the French in 1660, and fortified in 1700. In 1702
+                    they were captured by the British, and held till 1763, when they were given back
+                    to France as a fishing station. They are thus the sole remnant of the French
+                    colonies in North America. Destroyed by the English in 1778, restored to France
+                    in 1783, again captured and depopulated by the English in 1793, recovered by
+                    France in 1802 and lost in 1803, the islands have remained in undisputed French
+                    possession since 1814 (Treaty of Paris).</p>
+                <p>See Henrique, <hi rend="italic">Les Colonies françaises, t.</hi> ii. (Paris,
+                    1889) ; Levasseur, <hi rend="italic">La France,</hi> t. ii. (Paris, 1893); <hi
+                        rend="italic">L'Année coloniale,</hi> yearly since 1899, contains statistics
+                    and a complete bibliography; P. T. McGrath in <hi rend="italic">The New England
+                        Magazine</hi> (May 1903) describes the daily life of the people. (W. L.
+                    G.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

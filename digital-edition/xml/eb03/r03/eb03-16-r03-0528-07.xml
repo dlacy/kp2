@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0528-07"
+                facs="gri_33125011196389_0534.tif" type="entry">
+
+                <p><label>ROVERE</label>, or Roveredo, a ſtrong town of the Tyrol, on the confines
+                    of the republic of Venice; ſeated on the river Adige, at the foot of a mountain,
+                    and on the ſide of a ſtream, over which there is a bridge, defended by two large
+                    towers and a ſtrong caſtle, 1 o miles ſouth of Trent. The town is tolerably well
+                    built, and governed by a chief magiſtrate, ſtyled a <hi rend="italic">Podeſat.</hi> There are ſeveral churches and cofivents, that contain nothing worthy of
+                    notice. The moſt remarkable thing, and what they call the great <hi
+                        rend="italic"> wonder oſ Roveredo,</hi> is its ſpinning-houſe for a
+                    manufacture of ſilk, in which they have a great trade here to the fairs of
+                    Bolzano. They have alſo a very good trade in wine Betwixt Trent and Roveredo is
+                    the ſtrong fort of Belem, belonging to the houſe of Auſtria. It is ſituated on a
+                    rock, and commands the roads at the foot of the mountain. E. Long. ιι. I. N.
+                    Lat. 46. 12.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

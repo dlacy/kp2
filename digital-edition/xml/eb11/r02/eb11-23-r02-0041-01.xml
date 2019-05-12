@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r02-0041-01"
+                facs="encyclopaediabri23chisrich_0064.jp2" type="entry">
+
+                <p><label>REGISTRATION</label> . In all systems of law the registration of certain
+                    legal facts has been regarded as necessary, chiefly for the purpose of ensuring
+                    publicity and simplifying evidence. Registers, when made in performance of a
+                    public duty, are as a general rule admissible in evidence merely on the
+                    production from the proper custody of the registers themselves or (in most
+                    cases) of examined or certified copies. The extent to which registration is
+                    carried varies very much in different countries. For obvious reasons, judicial
+                    decisions are registered in all countries alike. In other matters no general
+                    rule can be laid down, except perhaps that on the whole registration is not as
+                    fully enforced in the United Kingdom and the United States as in continental
+                    states. The most important uses of registration occur in the case of judicial
+                    proceedings, land, ships, bills of sale, births, marriages and deaths,
+                    companies, friendly and other societies, newspapers, copyrights, patents,
+                    designs, trade marks and professions and occupations. In England registrars are
+                    attached to the privy council, the Supreme Court and the county courts. In the
+                    king’s bench division (except in its bankruptcy jurisdiction) the duty of
+                    registrars is performed by the masters. Besides exercising limited judicial
+                    authority, registrars are responsible for the drawing up and recording of
+                    various stages of the proceedings from the petition, writ or plaint to the final
+                    decision. <note anchored="true" place="bottom" type="authorial" n="1"> The
+                        antiquity of registration of this kind is proved by the age of the <hi
+                            rend="italic">Registrum Brevium,</hi> or register of writs, called by
+                        Lord Coke " a most ancient book of the Common Law”
+                        (Coke-upon-Littleton, 159a). </note> With them are filed affidavits,
+                    depositions, pleadings, &amp;c., when such filing is necessary. The
+                    difference between filing and registration is that the documents filed are filed
+                    without alteration, while only an epitome is usually registered. The Judicature
+                    Act 1873 created district registries in the chief towns, the district registrar
+                    having an authority similar to that of a registrar of the Supreme Court. In the
+                    admiralty division cases of account are usually referred to the registrar and
+                    merchants. The registration in the central office of the supreme court of
+                    judgments affecting lands, writ3 of execution, recognizances and <hi
+                        rend="italic">liles pendentes</hi> in England, and the registration in
+                    Scotland of abbreviates of adjudications and of inhibitions, are governed by
+                    special legislation. All these are among the incumbrances for which search is
+                    made on investigating a title. Decisions of criminal courts are said to be
+                    recorded, not registered, except in the case of courts of summary jurisdiction,
+                    in which, by the Summary Jurisdiction Act 1879, a register of convictions is
+                    kept. Probates of wills and letters of administration, which arc really judicial
+                    decisions, are registered in the principal or district registries of the probate
+                    division. In Scotland registration is used for giving a summary remedy on
+                    obligations without action by means of the fiction of a judicial decision having
+                    been given establishing the obligation.</p>
+               <p>See also the separate articles <hi rend="smallcaps">Land Registration; Shipping;
+                        Bill of Sale; Companies; Friendly Societies; Building Societies; Press Laws;
+                        Copyright; Trade Marks; Patents,</hi>
+                    <hi rend="smallcaps">&amp;c.</hi>
+               </p>
+               <p>                    <hi rend="italic">Registration of Voters,—</hi> Prior to 1832 the right of
+                    parliamentary electors in England was determined at the moment of the tender of
+                    the vote at the election, or, in the event of a petition against the return, by
+                    a scrutiny, a committee of the House of Commons striking off those whose
+                    qualification was held to be insufficient, and, on the other hand, adding those
+                    who, having tendered their votes at the poll, with a good title to do so, were
+                    rejected at the time. A conspicuous feature of the Reform Act of that year was
+                    the introduction of a new mode of ascertaining the rights of electors by means
+                    of an entirely new system of published lists, subject to claims and objections,
+                    and after due inquiry and revision forming a register of voters. Registration
+                    was not altogether unknown in Great Britain in connexion with the parliamentary
+                    franchise before the Reform Acts of 1832. Thus in the Scottish counties the
+                    right to vote depended on the voter’s name being upon the roll of freeholders
+                    established by an act of Charles II.; a similar register existed in Ireland of
+                    freeholders whose freeholds were under £20 annual value; and in the universities
+                    of Oxford and Cambridge the rolls of members of Convocation and of the Senate
+                    were, as they still arc, the registers of parliamentary voters. But except in
+                    such cases as the above, the right of a voter had to be determined by the
+                    returning officer upon the evidence produced before him when the vote was
+                    tendered at a poll. This necessarily took time, and the result was that a
+                    contested election in a large constituency might last for weeks. The celebrated
+                    Westminster election of 1784, in which the poll began on the ist of April and
+                    ended on the 17th of May, may be mentioned as an illustration. Moreover, the
+                    decision of the returning officer was not conclusive; the title of every one who
+                    claimed to vote was liable to be reconsidered on an election petition, or, in
+                    the case of a rejected vote, in an action for damages by the voter against the
+                    returning officer.</p>
+               <p>The inconvenience of such a state of things would have been greatly aggravated
+                    had the old practice continued after the enlargement of the franchise in 1832.
+                    The establishment of a general system of registration was therefore a necessary
+                    and important part of the reform then effected. It has enabled an election in
+                    the most populous constituency to be completed in a single day. It has also been
+                    instrumental in the extinction</p>
+                <pb xml:id="eb11-23-r02-0042" facs="encyclopaediabri23chisrich_0065.jp2"/>
+               <p>of the “ occasional voter,” who formerly gave so much trouble to returning
+                    officers and election committees—the person, namely, who acquired a qualifying
+                    tenement with the view of using it for a particular election and then disposing
+                    of it. The period of qualification now required in all cases, being fixed with
+                    reference to the formation of the register, is necessarily so long anterior to
+                    any election which it could effect, that the purpose or intention of the voter
+                    in acquiring the qualifying tenement has ceased to be material, and is not
+                    investigated.</p>
+               <p>                    <hi rend="italic">England.—</hi> The reform of parliamentary representation in
+                    1832 was followed in 1835 by that of the constitution of municipal corporations,
+                    which included the creation of a uniform qualification (now known as the old
+                    burgess qualification) for the municipal franchise. In 1888 the municipal
+                    franchise was enlarged, and was at the same time extended to the whole country
+                    for the formation of constituencies to elect county councils; and in 1894
+                    parochial electors were called into existence for the election of parish
+                    councils and for other purposes. Inasmuch as provision was made for the
+                    registering of persons entitled to votes for the above purposes, there are now
+                    three registers of voters, namely, the parliamentary register, the local
+                    government register (i.e. in boroughs under the Municipal Corporation Acts, the
+                    burgess rolls, and elsewhere the county registers) and the register of parochial
+                    electors. Under the Municipal Corporations Act 1835 the registration of
+                    burgesses, though on similar lines to that of parliamentary voters, was entirely
+                    separate from it. Since, however, the qualification for the municipaI franchise
+                    covered to a great extent the same ground as that for the parliamentary
+                    franchise in boroughs which sent members to parliament, a considerable number of
+                    voters in such boroughs were entitled in respect of the same tenement to be upon
+                    both parliamentary register and burgess roll. The waste. of labour involved in
+                    settling their rights twice over was put an end to in 1878, when the system of
+                    parliamentary registration was extended to the boroughs in question for
+                    municipal purposes, and the lists were directed to be made out in such a shape
+                    that the portion common to the two registers could be detached and combined with
+                    the portion peculiar to each, so as to form the parliamentary register and the
+                    burgess roll respectively. This system of registration was extended to the
+                    non-parliamentary boroughs and to the whole country in 1888, the separate
+                    municipal registration being completely aboIished.</p>
+               <p>The procedure of parliamentary registration is to be found in its main lines in
+                    the Parliamentary Registration Act 1843, which superseded that provided by the
+                    Reform Act of 1832, and has itself been considerably amended by later
+                    legislation. The acts applying and adapting the system to local government and
+                    parochial registration are the Parliamentary and Municipal Registration Act
+                    1878, the County Electors Act 1888, and the Local Government Act 1894.
+                    Registration is carried out by local machinery, the common-law parish being
+                    taken as the registration unit; and the work of preparing and publishing the
+                    lists, which when revised are to form the register, is committed to the
+                    overseers. The selection of these officers was no doubt due to their position as
+                    the rating authority, and to their, consequent opportunities for knowing the
+                    ownership and occupation of tenements within their parish. They do not always
+                    perform the duties themselves, other persons being empowered to act for them in
+                    many parishes by general or local acts of parliament; but in all or almost all
+                    cases they are entitled to act personally if they think fit, they sign the
+                    lists, and the proceedings are conducted in their</p>
+               <p>name.</p>
+               <p>In order to render intelligible the following summary of the procedure, it will
+                    be necessary to divide the voters to be registered into classes based on the
+                    nature of their qualification, since the practice differs in regard to each
+                    class. The classes are as follows: (1) Owners, including the old forty-shilling
+                    freeholders, and the copyholders, long leaseholders and others entitled under
+                    the Reform Act of 1832 to vote at parliamentary elections for counties; (2)
+                    occupiers, including those entitled to (a) the £10 occupation qualification, (b)
+                    the household qualification and (c) the old burgess qualification; (3) lodgers,
+                    subdivided into (a) old, <hi rend="italic">i.e.</hi> those on the previous
+                    register for the same lodgings, and (b) new; (4) those entitled to reserved
+                    rights, <hi rend="italic">i.e.</hi> in addition to those (if ,any still
+                    remain),, who were entitled to votes before the Reform Act of 1832:111 respect
+                    of qualifications abolished by that act, (a) freehold and burgage tenants in
+                    Bristol, Exeter, Norwich, and Nottingham, and <hi rend="italic">(b)</hi>
+                    liverymen of the City of London and freemen of certain old cities and boroughs,
+                    whose right to the parliamentary franchise was permanently retained by the same
+                    act. In regard to these classes it may be said that the general scheme is that
+                    owners must make a claim in the first instance before they can get their names
+                    upon the register, but that, once entered on the register, the names will be
+                    retained from year to year until removed by the revising barrister; that the
+                    lists of occupiers and of freehold and burgage tenants arc made out afresh every
+                    year by the overseers from, their own information and inquiries, without any act
+                    being required on the part of the voters, who need only make claims in case
+                    their names are omitted; that lodgers must make claims every year; and that
+                    liverymen and freemen are in the same position as occupiers, except that the
+                    lists of liverymen are made out by the clerks of the several companies, and
+                    those of freemen by the town clerks, the overseers having nothing to do with
+                    these voters, whose qualifications are personal and not locally connected with
+                    any parish.</p>
+               <p>The overseers and other officers concerned are required to perform their duties
+                    in connexion with registration in accordance with the instructions and precepts,
+                    and to use the notices and forms prescribed by Order in Council from time to
+                    time. The Registration Order, 1895, directs the clerk of every county council,
+                    on or within seven days before the 15th of April in every year, to send to the
+                    overseers of each parish in his county a precept with regard to the registration
+                    of ownership, electors, and to every parish not within a parliamentary or
+                    municipal borough a precept with regard to the registration of occupation
+                    electors (which expression for this purpose includes lodgers as well as
+                    occupiers proper). The town clerk of every borough, municipal or parliamentary,
+                    is to send to the overseers of every parish in his borough a precept with regard
+                    to the registration of occupation electors. These precepts are set out in the
+                    Registration Order, and those issued by the town clerks differ according as the
+                    borough is parliamentary only, or municipal only, or both parliamentary and
+                    municipal; in the cases of Bristol, Exeter, Norwich and Nottingham they contain
+                    directions as to freehold and burgage tenants. , The duties of the overseers in
+                    regard to registration are set out in detail in the precepts. Along with the
+                    precepts are forwarded forms of the various lists and notices required to be
+                    used, and with the ownership precept a certain number of copies of that portion
+                    of the parliamentary register of the county at the time in force which contains
+                    the ownership voters for the parish, the register being so printed that the
+                    portion relating to each parish can be detached. It is the duty of the overseers
+                    to publish on the 20th of June, in manner hereinafter described, the portion of
+                    the register so received, together with a notice to owners not already
+                    registered to send in claims by the 20th of July. Meanwhile the overseers are
+                    making the inquiries necessary for the preparation of the occupier list. For
+                    this purpose they may require returns to be furnished by owners of houses let
+                    out in separate tenements, and by employers who have servants entitled to the
+                    service franchise. The registrars of births, deaths and marriages are required
+                    to furnish the overseers with returns of deaths, as must the assessed tax
+                    collectors with returns of defaulters; the relieving officers are to give
+                    information as to recipients of parochial relief. On or before the 31st of July
+                    the overseers are to make out and sign the lists of voters. Theseare the
+                    following: the list of ownership electors, consisting of the portion of the
+                    register previously published with a supplemental list, of those who have sent
+                    in claims by the, 20th of July; the occupier list; and the old lodger list, the
+                    last being formed from claims sent in by the 25th of July. The overseers do not
+                    select the names in the first and last of these lists; they take them as
+                    supplied in the register and claims. It is, however, their duty to write " dead
+                    ” or “ objected ” in the margin against the names of persons whom they have
+                    reason to believe to be dead or not entitled to vote in respect of the
+                    qualification described. The ownership and old lodger lists will be divided into
+                    two parts, if the register contains names of owners entitled to a parochial vote
+                    only, or if claims by owners or old lodgers have been made limited to that
+                    franchise. The occupier list contains the names of persons whom the overseers
+                    believe to be qualified, and no others, and therefore will be free from marginal
+                    objections. Except in the administrative county of London, it is made out in
+                    three divisions—division 1 giving the names of occupiers of property qualifying
+                    for both parliamentary and local government votes, divisions 2 and 3 those of
+                    occupiers of property qualifying only for parliamentary and only for local
+                    government votes respectively. It happens so frequently that a tenement, if not
+                    of sufficient value to qualify for the £10 occupation franchise (parliamentary
+                    and local government), qualifies both for the household franchise
+                    (parliamentary) aftd for the old burgess franchise (local government), that
+                    division 1 would in most cases be the whole list, but for two circumstances. The
+                    service franchise is a special modification of the household franchise only; and
+                    the service occupants, being therefore restricted to the parliamentary vote,
+                    form the bulk of division 2 ; while peers and women, being excluded, from the
+                    parliamentary vote, are consequently relegated to division 3. In the
+                    administrative county of London the local government register, being coextensive
+                    with the register of parochial electors, includes</p>
+                <pb xml:id="eb11-23-r02-0043" facs="encyclopaediabri23chisrich_0066.jp2"/>
+               <p>the whole of the parliamentary register. The occupier lists are consequently
+                    there made out in two divisions only, the names which would elsewhere appear in
+                    division 2 being placed in division 1. The lists of freehold and burgage tenants
+                    in Bristol, Exeter, Norwich and Nottingham are to be made out and signed by the
+                    same date. The overseers have also to make out and sign a list of persons
+                    qualified as occupiers to be elected aldermen or councillors, but as
+                    non-residents disqualified from being on the local government register. By the
+                    same date also the clerks of the livery companies are to make out, sign and
+                    deliver to the secondary (who performs in the City of London the registration
+                    duties which elsewhere fall on the town clerk) the lists of liverymen entitled
+                    as such to the parliamentary vote; and the town clerks are to make out and sign
+                    the lists of freemen so entitled in towns where this franchise exists.</p>
+               <p>On the 1st of August all the above lists are to be published, the livery lists
+                    by the secondary, lists of freemen by the town clerks and the rest by the
+                    overseers. In addition the overseers may have to publish a list of persons
+                    disqualified by having been found guilty of corrupt or illegal practices; this
+                    list they will receive, when it exists, from the clerk of the county council or
+                    town clerk with the precept. Publication of lists and notices by overseers is
+                    made by affixing copies on the doors of the church and other places of worship
+                    of the parish (or, if there be none, in some public or conspicuous situation in
+                    the parish), and also, with the exception to be mentioned, in the case of a
+                    parish wholly or partly within a municipal borough or urban district, in or near
+                    every public or municipal or parochial office and every post and telegraph
+                    office in the parish. The exception is that lists and notices relating to
+                    ownership electors need not be published at the offices mentioned when the
+                    parish is within a parliamentary borough. Publication by the secondary is made
+                    by affixing copies outside the Guildhall and Royal Exchange ; publication by
+                    town clerks is. made by affixing copies outside their town hall, or, where there
+                    is none, in some public or conspicuous place in their borough. From the 1st to
+                    the 20th of August inclusive is allowed for the sending in of claims and
+                    objections. Those whose names have been omitted from the occupier or reserved
+                    rights lists, or the non-resident list, or whose names, place of abode or
+                    particulars of qualification have been incorrectly stated in such lists, may
+                    send in claims to have their names registered; lodgers who are not qualified as
+                    old lodgers, or who have omitted to claim as such, may claim as new lodgers;
+                    persons whose names are on the corrupt and illegal practices list may claim to
+                    have them omitted. Any person whose name is on the list of parliamentary’, local
+                    government. or parochial electors for the same parliamentary county,
+                    administrative county, borough or parish, may object to names on the same lists.
+                    Notices of claim and objection in the case of liverymen and freemen are to be
+                    sent to the secondary and town clerk, and in other cases to the overseers ; and
+                    notices of objection must also in all cases be sent to the person objected to.
+                    All notices must be sent inby the 20th of August, and on or before the 25th of
+                    August the overseers, secondary and town clerks are to make out, sign and
+                    publish lists of the claimants and persons objected to. It remains to be added
+                    that any person on a Fist of voters <hi rend="italic">(i.e.</hi> on one of the
+                    lists published on the 1st of August) may make a declaration before a magistrate
+                    or commissioner for oaths correcting the entry relating to him. In the case of
+                    ownership electors the correction can only deal with the place of abode; in the
+                    case of other lists it extends to all particulars stated, and is. useful
+                    inasmuch as it enables the revising barrister to make corrections as to the
+                    qualification which he could not make in the absence of a declaration. The
+                    declarations must be delivered to the clerk of the county council or town clerk
+                    on or before the 5th of September.</p>
+               <p>The next stage is the revision of the lists. For this, purpose revising
+                    barristers are appointed yearly. The period within which revision courts can be
+                    held is from the 8th of September to the 12th of October, both days inclusive.
+                    The clerk of the county council attends the first court held for each
+                    parliamentary division of his county, and the town clerk the first court held
+                    for his city or borough; and they respectively produce all lists, notices and
+                    declarations in. their custody, and answer any questions put to them by the
+                    revising, barrister. The overseers also attend the courts held for their parish,
+                    produce the rate books, original notices of claim and objection, &amp;c.,
+                    and answer questions. The claimants, objectors and persons objected to appear
+                    personally or by representative to support their several contentions. Any person
+                    qualified to be an objector may also appear to oppose any claims, upon giving
+                    notice to the barrister before such claims are reached. The powers of the
+                    revising barristers are as follows: As regards persons whose names are on the
+                    lists of voters published on the ist of August, he is to expunge the names,
+                    whether objected to or not, of those who are dead or subject to personal
+                    incapacity, such as infants and aliens, and for parliamentary purposes peers and
+                    women. If an entry is imperfect, the name must be removed, unless the
+                    particulars necessary for completing it are supplied to the barrister. All names
+                    marginally objected to by overseers must be expunged, unless the voters prove to
+                    the barrister that they ought to be retained. Objections made by other objectors
+                    must be supported by prima facie proof, and if this is not rebutted the name is
+                    struck out. Claimants must be ready to support their claims. The declaration
+                    attached to a lodger claim is indeed prima facie proof of the facts stated in
+                    it, but other claimants require evidence to make out even a prima facie case,
+                    and if they fail to produce it their claims will be disallowed. The barrister is
+                    required to correct errors in the lists of voters, and has a discretion to
+                    rectify mistakes in claims and objections upon evidence produced to him,
+                    although his power in this respect is limited. Lastly, the barrister has to deal
+                    with duplicates, as a voter is entitled to be on the register once, but not more
+                    than once, as a parliamentary voter for each parliamentary county or borough, as
+                    a burgess for each municipal borough, as a county elector Jor each electoral
+                    division, and as a parochial elector for each parish in which he holds a
+                    qualification. Consequently, he deals with duplicate entries by expunging or
+                    transferring them to separate parochial, lists. The decision of the revising
+                    barrister is final and conclusive on all questions of fact ; but an appeal lies
+                    from him on questions of law at the instance of any person aggrieved by the
+                    removal of his name from a list of voters, by the rejection of his claim or
+                    objection or by the allowance of a claim which he has opposed. Notice of the
+                    intention to appeal must be given to the barrister in writing on the day when
+                    nis decision is given. The barrister may refuse to state a case for appeal ; but
+                    if he does so without due cause he may be ordered by the High Court to state a
+                    case. The appeal is heard by a divisional court, from whose decision an appeal
+                    lies (by leave either of the divisional court or of the court of appeal) to the
+                    court of appeal, whose decision is final.</p>
+               <p>On the completion of the revision the barrister hands the county and borough
+                    lists (every page signed and every alteration initialled by him) to the clerk of
+                    the county council and the town clerk respectively, to be printed. With the
+                    following exceptions the revised lists are to be made up and printed by the 20th
+                    of December, and come into force as the register for all purposes on the ist of
+                    January. In the boroughs created by the London Government Act 1899, the whole
+                    register is to be made up and printed by the 20th of October, and to come into
+                    force for the purpose of borough elections under the act on the ist of November.
+                    In boroughs subject to the Municipal Corporations Acts, divisions 1 and 3 of the
+                    occupiers’ list are to be made up and printed by the 20th of October, and come
+                    into force for the purpose of municipal and county council elections on the ist
+                    of November. Corrections ordered in consequence of a successful appeal from a
+                    revising barrister are to be made by the officers having the custody of the
+                    registers, but a pending appeal does not affect any right of voting. The
+                    register in its final form will consist of the lists published on the ist of
+                    August as corrected, with the claims which have been allowed on revision
+                    incorporated with them. It is printed in. such form that each list and each
+                    division of a list for. every parish can be separated from the rest for the
+                    purpose of making up the parliamentary, local government and parochial registers
+                    respectively. The alphabetical order is followed, except in London and some
+                    other large towns, where street order is adopted for all except the ownership
+                    lists and lists of liverymen and freemen. The parliamentary register for a
+                    parliamentary county will consist of the ownership lists for all parishes in the
+                    county, and of the lodger, lists and divisions 1 and 2 of the occupier lists for
+                    parishes within the county and not within a parliamentary borough. The
+                    parliamentary register for a parliamentary borough will consist of the lodger
+                    lists, of the lists of freehold and burgage tenants (if any), and of divisions 1
+                    and 2 of the occupier lists for all parishes within the borough, and also of the
+                    borough lists (if any) of liverymen or freemen. The local government register
+                    for an administrative county will consist of divisions 1 and 3 of the occupier
+                    lists for all parishes in the county, and the burgess roll for a municipal
+                    borough of divisions i and 3 of the occupier lists for all parishes in the
+                    borough. It will be seen, therefore, that, except in county boroughs, the
+                    burgess roll, is also a part of the local government register of the
+                    administrative county within which the borough is situate. The register of
+                    parochial electors consists of the complete set of lists for each parish; but
+                    this does not include the lists of liverymen and freemen, which, as has been
+                    stated, are not parish lists.</p>
+               <p>No one whose name is not on the register can vote at an election. The. fact that
+                    a. man’s name is on the register is now so far conclusive of his right that the
+                    returning officer is bound to receive his vote. Only two questions may be asked
+                    of him when he tenders his vote, namely, whether he is the person whose name is
+                    on the register, and whether he has voted before at the election. The Reform Act
+                    1832 allowed him to be asked at parliamentary elections whether he retained the
+                    qualification for which he had been registered; but the Registration Act 1843
+                    disallowed the question, and. made the register conclusive as to the retention
+                    of the qualification. When, however, a petition is presented against an
+                    election, the register, although conclusive as to the retention of the
+                    qualification, does not prevent the court from inquiring into the existence of
+                    personal incapacities, arising in connexion with the election or otherwise, and
+                    striking off on scrutiny the votes of persons subject thereto, <hi rend="italic"
+                        >e.g.</hi> aliens, infants, or in parliamentary elections peers, &amp;c.</p>
+               <p>The City of London is not within the Municipal Corporations Acts, and is not
+                    subject to the general registration law in the formation of its roll of citizens
+                    for municipal purposes. But a register of parliamentary, county and parochial
+                    electors is made in</p>
+                <pb xml:id="eb11-23-r02-0044" facs="encyclopaediabri23chisrich_0067.jp2"/>
+               <p>the 'ordinary way.' The universities are also exempt from the general law of
+                    registration. At Oxford and Cambridge the members of Convocation and the Senate
+                    respectively have always formed the parliamentary constituencies; and, as has
+                    been already stated, the registers of those members were before 1832, and still
+                    arc, the parliamentary registers. Similarly, the Reform Act of 1867, which gave
+                    parliamentary representation to the university of London, simply enacted that
+                    the register of graduates constituting the Convocation should be the
+                    parliamentary register of that body.</p>
+               <p>                    <hi rend="italic">Scotland.—</hi> In Scotland the qualifications for local
+                    government and parish electors are the same as those for parliamentary voters,
+                    the only difference in the registers being in respect of personal incapacities
+                    for the parliamentary franchise, incapacity for the other franchises by reason
+                    of non-payment of rates,, and duplicates. The principal act regulating
+                    registration in burghs is 19 &amp; 20 Vict. c. 58, amended in some
+                    particulars as to dates by 31 &amp; 32 Vict. c. 48, § 20. County
+                    registration, formerly regulated by 24 &amp; 25 Vict. c. 83, has been
+                    assimilated to burgh registration by 48 &amp; 49 Vict. c. 3, § 8 (6). The
+                    procedure consists, as in. England, of the making and publication of lists of
+                    voters, the making of claims and objections and the holding of revision courts;
+                    but there are important differences of detail. Though the parish is the
+                    registration unit, parochial machinery is not used for the formation of the
+                    register. The parliamentary lists for a county are made up yearly by one or more
+                    of the assessors of the county, and those for a burgh by one or more of the
+                    assessors for the burgh, or by the clerk of the commissioners. They are
+                    published on the 15th of September; and claims and objections must be sent in by
+                    the 21st and are published on the 25th of the same month. Publication is made in
+                    burghs by posting on or near the town hall, or in some other conspicuous place,
+                    in counties by posting the part relating to each parish on the parish church
+                    door, and in both cases giving notice by newspaper advertisement of a place
+                    where the lists may be perused. The revision is conducted by the sheriff, the
+                    time within which his courts may be held being from the 25th of September to the
+                    16th of October, both days inclusive. An appeal lies to three judges of the
+                    Court of Session, one taken from each division of the Inner House, and one from
+                    the Lords Ordinary of the Outer House. The revised lists are delivered in
+                    counties to the sheriff clerk, in burghs to the town clerk, or person to. whom
+                    the registration duties of town clerk are assigned. The register comes into
+                    force for all purposes on the ist of November.</p>
+               <p>The municipal register of a royal burgh which is coextensive, or of that part of
+                    a royal burgh which is coextensive with a parliamentary burgh, consists of the
+                    parliamentary register with a supplemental list of women who but for their sex
+                    would be qualified for the parliamentary vote. The municipal register for a
+                    burgh, or for that part of one which is not within a parliamentary burgh,
+                    consists of . persons possessed of qualifications within the burgh which, if
+                    within a parliamentary burgh, would entitle them, or but for their sex would
+                    entitle them, to the parliamentary vote. The register of county electors
+                    consists of the parliamentary register for a county with the supplemental list
+                    hereafter mentioned; but inasmuch as exemption, from or* failure to pay the
+                    consolidated county rate is a disqualification for the county electors’
+                    franchise, the names of persons so disqualified are to be marked with a
+                    distinctive mark on the register; as are also the names of persons whose
+                    qualifications are situated within a burgh, such marks indicating that the
+                    persons to whose names they are attached are not entitled to vote as county
+                    electors. Every third year, in preparation for the triennial elections of county
+                    and parish councils (casual vacancies being filled up by co-optation), a
+                    supplemental list is to be made of peers and women possessed of qualifications
+                    which but for their rank and sex would entitle them to parliamentary votes. The
+                    register of county electors in a county and the municipal register in a burgh
+                    form the registers of parish electors for the parishes comprised in each
+                    respectively.. Inasmuch, however, as a man is entitled to be registered as a
+                    parish elector in every parish where he is qualified, duplicate entries are,
+                    when required, to be made in the register, with distinctive marks to all but
+                    one, to indicate that they confer the parish vote only. These distinctive marks
+                    and those previously mentioned are to be made in the lists, by the assessors,
+                    subject to revision by the sheriff. The register is conclusive to the same
+                    extent as in England, except that the vote of a parish elector who is one year
+                    in arrear in payment of a parish rate is not to be received. The clerk of the
+                    parish council is. to furnish the returning officer one week before an election,
+                    with the names of persons so in arrear; and the returning officer is to reject
+                    their votes except upon the production of a written receipt.. Provision is made
+                    by 31 &amp; 32 Vict. c. 48, §§ 27-41, for the. formation of registers of
+                    parliamentary electors for the universities. The register for each university is
+                    to be made annually by the university registrar, with the assistance of two
+                    members of, the council, from whose decisions an appeal lies to the university
+                    court.</p>
+               <p>                    <hi rend="italic">Ireland.</hi> —There are no parish councils in Ireland, and no
+                    parochial electors. There are therefore but two registers of voters, the
+                    parliamentary and the local government registers, the latter of which consists
+                    of the former with a local government supplement containing the names of those
+                    excluded from the parliamentary register by reason of their being peers or
+                    women, and- duplicate entries relating to those whose names are registered
+                    elsewhere for the same parliamentary constituency. The principal acts regulating
+                    registration are 13'&amp; 14 Vict. c. 69, 31 &amp; 32 Vict. c. 112, 48
+                    &amp; 49 Vict. c. 17, and 61 &amp; 62 Viet. c. 2. The lord lieutenant is
+                    empowered to make by Order in Council rules for registration, and to prescribe
+                    forms; and under this power has made the Registration (Ireland) Rules 1899, now
+                    in force. The registration unit is not the parish, but the district electoral
+                    division, except where such division is subdivided -into wards, or is partly
+                    within and partly without any town or ward of a borough or town, in which cases
+                    each ward of the division or part of a division is a separate registration unit.</p>
+               <p>The procedure is as follows, subject to variation in cases where there are
+                    clerks of unions who held office on the 31st of March 1898, and have not agreed
+                    to transfer their registration duties. The clerk of the peace sends out on the
+                    ist of June a precept in the form prescribed for county registration to the
+                    secretary of the county council and clerks of urban district councils, together
+                    with a copy of the existing register for their county or district; and a precept
+                    in the form prescribed for borough registration to town clerks of boroughs. As
+                    regards registration units not in a parliamentary or municipal borough, the
+                    secretary of the county council or clerk of the urban district council is to put
+                    marginal objections, “ dead ” or “ objected,” where required, to £10 occupiers
+                    and householders in the copy of the register, both in the parliamentary list and
+                    in the local government supplement. He is also to make out supplemental
+                    parliamentary and local government lists of £10 occupiers and householders not
+                    on the existing register, and to put marginal objections where required to
+                    these. He is to verify on oath before a magistrate the copy of the register and
+                    supplemental lists, and to return them to the clerk of the peace by the 8th ’of
+                    July. As regards registration units in a parliamentary borough, but outside a
+                    municipal borough, the secretary of the county council or clerk of the urban
+                    district council is to make out lists of £10 occupiers and householders with
+                    local government supplement, and transmit them to the town clerk of the
+                    municipal borough or town. The clerk of the peace is to publish the copy of the
+                    register, after himself placing marginal objections where required to voters
+                    other than £10 occupiers and householders, and the supplemental lists as
+                    received, and also the corrupt and illegal practices list, if any, on the 22nd
+                    of July. On the same day the town clerk will publish the lists received as
+                    aforesaid for registration units outside the municipal borough, and the lists,
+                    which he will have made out himself for the municipal borough, including the
+                    freemen’s list and corrupt and illegal practices list. Freemen being entitled to
+                    the local government vote will, if resident, be placed on the list of the
+                    registration unit, where they reside, and will, if non-resident, be allotted by
+                    the revising barrister among the registration units of the borough for local
+                    government purposes in proportion to the number of electors in each registration
+                    unit. Claims are to be sent in to the clerk of the peace and.town clerk by the
+                    4th of August, including old lodger claims and, in the case of the clerk of the
+                    peace, ownership, claims. Lists of claimants with marginal objections, where
+                    required, are to be published by the clerk of the peace and town clerk by the
+                    nth of August. Notices of objection to voters or claimants may be given by the
+                    20th of August; and lists of persons objected to are to be published by the
+                    clerk of the peace and town clerk by the 24th of the same, month. Publication of
+                    lists and notices by a clerk of the peace is made by posting copies of those
+                    relating to each registration unit outside every court-house, petty sessions
+                    court, and other public offices in the unit; publication by a town clerk is made
+                    by posting copies outside the town hall, or, if there be none, in some public
+                    and conspicuous place in the borough.</p>
+               <p>Revising barristers are specially appointed for the county and city of Dublin by
+                    the lord lieutenant; elsewhere the county court judges and chairmen of quarter
+                    sessions act as such <hi rend="italic">ex Officio <hi rend="sub">1</hi></hi> assisted, when necessary, by additional barristers appointed by the lord
+                    lieutenant. The time for the holding of revision courts is from the 8th of
+                    September to the 25th of October inclusive. An appeal lies to the court of
+                    appeal, whose decision is final. The revised lists are handed to the clerk of
+                    the peace; they are to be made up by him by the 31st of December, and come into
+                    force on the ist of January.</p>
+               <p>The registrar of the university of Dublin is to make out in December a list of
+                    the persons entitled to the parliamentary vote for the university, and to print
+                    the same in January, and to publish a copy in the university calendar, or in one
+                    or. more public journals circulating in Irelapd. He is to revise the list
+                    annually, and expunge the names of those dead or disqualified; but an elector
+                    whose, name has been expunged because he . was supposed to be dead is entitled,
+                    if alive, to have his name immediately restored and to vote at any election. (L.
+                    L. S.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

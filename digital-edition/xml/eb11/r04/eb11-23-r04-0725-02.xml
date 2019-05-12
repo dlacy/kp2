@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0725-02"
+                facs="encyclopaediabri23chisrich_0778.jp2" type="entry">
+
+               <p>                   ROSCELLINUS
+                    <hi rend="smallcaps">(Rucelinus,</hi> or <hi rend="smallcaps">Rousselin)
+                        (c.</hi> 1050-c. 1122), often called the founder of Nominalism (see <hi
+                        rend="smallcaps">Scholasticism),</hi> was born at Compiègne (Compendium).
+                    Little is known of his life, and our knowledge of his doctrines is mainly
+                    derived from Anselm, Abelard and John of Salisbury. He studied at Soissons and
+                    Reims, was afterwards attached to the cathedral of Chartres, and became canon of
+                    Compiègne. It seems most probable that Roscellinus was not strictly the first to
+                    promulgate nominalistic doctrines; but in his exposition they received more
+                    definite expression, and, being applied to the dogma of the Trinity, attracted
+                    universal attention. Roscellinus maintained that it is merely a habit of speech
+                    which prevents our speaking of the three persons as three substances or three
+                    Gods. If it were otherwise, and the three persons were really one substance or
+                    thing <hi rend="italic">(una res),</hi> we should be forced to admit that the
+                    Father and the Holy Spirit became incarnate along with the Son. Roscellinus
+                    seems to have put forward this doctrine in perfect good faith, and to have
+                    claimed for it at first the authority of Lanfranc and Anselm. In 1092, however,
+                    a council convoked by the archbishop of Reims condemned his interpretation, and
+                    Roscellinus, who was in danger of being stoned to death by the orthodox
+                    populace, recanted his error. He fled to England, but having made himself
+                    unpopular by an attack on the doctrines of Anselm, he left the country and
+                    repaired to Rome, where he was well received and became reconciled to the
+                    Church. He then returned to France, taught at Tours and Loc-menaeh (Loches) in
+                    Brittany (where he had Abelard as a pupil), and finally became canon of
+                    Besançon. He is heard of as late as 1121, when he came forward to oppose
+                    Abelard’s views on the Trinity.</p>               <p>Of the writings of Roscellinus, nothing is preserved except a letter to Abelard,
+                    mainly concerned with the doctrine of the Trinity (ed. J. A. Sehmellcr, Munich,
+                    1850). See F. Piearet, <hi rend="italic">Rosselin, philosophe et théologien</hi>
+                    (1896), and authorities quoted under Scholasticism.</p>            </div>
+        </body>
+    </text>
+</TEI>

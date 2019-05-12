@@ -1,0 +1,113 @@
+dle of them, each column deduced from the same set of experiments, differently computed, and varying to an enormous degree.
+Length of bearing in inches.
+α
+b
+C
+d
+e
+f
+9
+Λ
+33
+•024
+•026
+•03
+•02357
+■0272
+•0286
+•072
+•0858
+42
+•037
+•050
+•06
+•047
+•0538
+•0569
+•111
+•1707
+45
+•041
+•063
+.072
+•056
+•064
+•068
+•123
+•204
+57
+•064
+•122
+•139
+•108
+•123
+•131
+•192
+•393
+60
+•074
+•150
+•171
+•1335
+■153
+•162
+•222
+•486
+69
+•082
+•210
+•241
+•188
+•216
+•228
+•246
+•684
+Column
+a
+gives the deflections at 3 tons, deduced from the experiments by the experimenter, except for the sixty-inch, which is derived from the fifty-seven inch bearing. Column Sgivesthedeflectionsderived from the formula givenby the experimenter as the results of the same experiments. Column c gives the deflections from this formula, recomputed by another person. Column
+d
+gives the deflections computed from another formula given by the experimenter. Column
+e
+gives the deflections in column <Z, computed by another person. Column
+f
+gives the mean of columns c and e, which appears to be the best approximation we have. Column
+g
+and
+h
+give the deflections for 9 tons’ weight, the first being derived from column α, and the second from column
+f
+the difference in the longest bearing 69 inches, being nearly 3 to 1.
+With this lamentable uncertainty in the data for a deduction of such importance as that of a deflection in the rails causing an engine to be constantly ascending an inclined plane, there is no hope of arriving at any commonly accurate results. For instance, if we take the bearing of 5 feet, which Mr. Barlow gives, as occasioning the ascent of a plane of 1 in 1875, the deflection, with 3 tons’ weight, being ∙064, and substitute for ∙064 the deflections in columns 
+a to f
+successively, we have as follows :—
+Deflection.
+Consequent Planee
+By column
+a
+•074
+1 in 1621
+— b
+■150
+1 in 800
+— c
+•171
+...    1 in 702
+— d
+...    ∙1335
+1 in 899
+— e
+•153
+1 in 791
+- f
+•162
+...    1 in 741
+In which there is more than two and a-half to one difference in the results, all of which are drawn from one set of experiments, whilst at the same time the probability is, that the planes ought to turn out less steep instead of being more so.
+From the effects which arise in consequence of deflection, it will be well worth considering what advantages are derived from the use of felt under the chair. If the rail was perfectly stiff, then, when the engine came over a chair, and compressed the felt, it would afterwards have to go up an inclined plane, through the rail being depressed at the block it had just passed over; and this would continueto take place till the engine arrived towards the next block, when it would depress the rail again in a similar way, and thus its course would be continually up a partially rising plane, the assistance downwards being almost insensible.
+But as every rail deflects more or less, the inclination produced by this cause acts just exactly in the opposite manner to that which takes place through the depression and spring of the felt ; for whilst the wheel, from the effect of deflection in the rail, descends during its passage over the first hah of the rail, and ascends while going over the se
+cond half, the effect which the compression and springing of the felt has upon it, is to make it ascend a plane during its passage of the first half, and to descend during the time it is going over the second half. The felt acting as a spring, however, is exceedingly questionable, although maintained by some persons. Its use· will be found to consist more in giving a steady seat for the chair when the block is composed of hard stone, and offering a defence against the grating of the chair on the block, which will otherwise take place, producing a grinding, a loss of surface, and consequently a looseness, which, when once arrived at, rapidly increases.
+From the above observations on the effects of inclined planes, we may see how desirable it is to have the blocks and sleepers placed in the most accurate manner, as respects uniformity of height. For we must recollect, that in a three-feet rail, a difference of one quarter of an inch in the height of two adjacent blocks, or, more properly speaking, in the height of the basis of two adjacent chairs, converts that three feet of rail into an inclined plane, rising 1 in 144.
+With respect to placing the blocks diagonally, this is a less stable position in the line of rails than when they are placed square, for the resistance of the ground to the sinking of the block, whether conceived to be similar to a collection of springs acting under the block, or a collection of weights acting above it, must in either case be referred to the centre of gravity of each half of the block, considering it as moved by the passing weights about a line drawn through its middle at right angles to the line
+of
+the rails ; that is to say, in a block two feet square, and one foot thick, there are 12 inches in the direction of the rails, 24 inches across them, and 12 inches in depth, acting on each side the axis of motion when the block is laid square, the surface of each half being 288 inches. Now, any uniform effect on these 288 square inches drawn into the distance of their centre of gravity from the axis of motion, gives for the stability of each half 1728. Any uniform effect on the 288 inches of a diagonal half block will give a less number ; for the distance of the centre of gravity from the axis of motion was 6 inches in the square block, but it will be only 5∙65682 in the diagonal, being l-3d the altitude of the triangle, and hence we have only 1629*16416 for the stability in the direction of the rails. The diagonal block will consequently have its maximum resistance to sinking at 45° from the line of the rails, or in the position where stability is least required. Circular blocks have been proposed in order to get equal resistance in all directions, but the gain would not be equal to the extra expense, and the stability, although a trifle more than that of the diagonal block in the line of the rails, is less than that of the square one; for the area, as before, being 567 square inches, =∙785398d2 , and (/being the diameter, we have d=^733∙386=27∙0811, and the radius =13∙5405, and as the arc is to the chord, so is f radius to the distance of the centre of gravity from the centre, or 3∙14159× 13-5405 : 27∙08ll=9O2703 : 5∙74678 inches, and 5∙74678 × 288=1655∙=07264 for the resistance.
+We have experimented on the two positions of the blocks, and found that when placed diagonally, there was rather more resistance to lateral motion than when placed square, and they are more conveniently got at to repack in the former position than they are in the latter ; but when placed as close as they ought to be, in order to form an economical road, the diagonal position is inadmissible.
+It will be seen from the following tables which we have computed, that instead Ofincreasing the bearings from three feet, if we study economy, we should reduce it ; and as we have in these tables taken into account all ordinary variations in the elements of expenditure, we must consider it proved that except under very extraordinary circumstances, the nearer the supports are brought together up to the limits here given, the cheaper will the railway be made,

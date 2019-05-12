@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0468-01"
+                facs="encyclopaediabri23chisrich_0501.jp2" type="entry">
+
+                <p><label>ROLLINAT, MAURICE</label>, (1853-1903), French poet, was born at
+                    Châteauroux in 1853. His father represented Indre in the National Assembly of
+                    1848, and was a friend of George Sand, whose influence is very marked in young
+                    Rollinat's first volume, <hi rend="italic">Dans les brandes</hi> (1877). The
+                    volume, however, attracted little attention, and it was with his second
+                    publication, very different in manner, that he made his reputation. In <hi
+                        rend="italic">Les Névroses,</hi> with the sub-title <hi rend="italic">Les
+                        Ames, Les Luxures, Les Refuges, Les Spectres, Les Ténèbres,</hi> he showed
+                    himself as a disciple of Charles Baudelaire. He constantly returns in these
+                    poems to the physical horrors of death, and is obsessed by unpleasant images.
+                    Less <hi rend="italic">outré</hi> in sentiment are <hi rend="italic">L'Abime</hi> (1886), <hi rend="italic">La Nature,</hi> and a book of children’s verse,
+                        <hi rend="italic">Le Livre de la Nature</hi> (1893). He was musician as well
+                    as poet, and set many of his songs to music. He lost his reason in consequence
+                    of his wife’s death from hydrophobia, and died on the 26th of October 1903.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

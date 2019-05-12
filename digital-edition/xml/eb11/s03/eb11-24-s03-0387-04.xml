@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0387-04"
+                facs="encyclopaediabri24chisrich_0410.jp2" type="entry">
+                <p><label>SCHWABE, SAMUEL HEINRICH</label> (1789-1875), German astronomer, was born
+                    on the 25th of October 1789 at Dessau, where he died on the 11th of April 1875.
+                    At first an apothecary, he turned his attention to astronomy, and in 1826
+                    commenced his observations on sun-spots. In 1843 he made the suggestion of a
+                    probable ten year period <hi rend="italic">(i.e.</hi> that at every tenth» year
+                    the number of spots reached a maximum), but it met with scant approval, and he
+                    continued his observations, which were</p>
+                <pb xml:id="eb11-24-s03-0388" facs="encyclopaediabri24chisrich_0411.jp2"/>
+                <p>afterwards utilized in 1851 by Humboldt in the third volume of his <hi
+                        rend="italic">Kosmos.</hi> The periodicity of sun-spots is now fully
+                    recognized (see Sun); and to Schwabe is thus due the credit of one of the most
+                    important discoveries in astronomy.</p>
+                <p>See H. H. Turner, <hi rend="italic">Astronomical Discovery</hi> (1904).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

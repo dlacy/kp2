@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0752-03"
+                facs="encyclopaediabri23chisrich_0805.jp2" type="entry">
+
+                <p><label>ROSSLYN, EARLS OF</label>. The first earl of Rosslyn was Alexander
+                    Wedderbum (see below), who was succeeded by his nephew, James St Clair Erskine
+                    (1762-1837), a son of</p>
+                <pb xml:id="eb11-23-r04-0753" facs="encyclopaediabri23chisrich_0806.jp2"/>
+               <p>Wedderburn’s sister Janet by her marriage with Sir Henry Erskine (d. 1765), a
+                    Scottish baronet and soldier. Entering the army in 1776, James Erskine served in
+                    Portugal, in Denmark and in the Netherlands, and became a general in 1814. From
+                    1782 until 1805, when he became a peer, he was a member of parliament; a Tory
+                    politician and an associate of the duke of Wellington, he was lord privy seal in
+                    1829-30 and lord president of the council in 1834-35. He inherited the estates
+                    of the family of St Clair and took this name in 1789, and he died on the 18th of
+                    January 1837. His son, James Alexander (1802-1866), became 3rd earl, and in 1890
+                    the latter’s grandson, James Francis Harry (b. 1869), became 5th earl,</p>
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

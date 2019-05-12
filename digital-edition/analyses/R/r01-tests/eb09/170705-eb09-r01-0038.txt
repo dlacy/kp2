@@ -1,0 +1,405 @@
+Railway, 13 miles long, has the honour of standing at the foot of the list, having cost £6474 per mile. Of the Scottish lines the Caledonian system stands at the head of the list, costing £45,500 per mile. The North British system cost £33,000 per mile. At the foot of the list stood the original East of Fife line, 7 miles long, with a cost of £4351 per mile. But the cheapest lines of considerable length are the Forth and Clyde line, costing £5525 per mile, and the Peebles line, costing £5545 per mile. Both these lines have been taken into the North British system. In Ireland the Dublin and Kingstown Railway, 8 miles long, a suburban railway, cost £53,000 per mile. The original Limerick and Foynes line, costing £5282 per mile, is probably the cheapest piece of railway in the United Kingdom.
+The proportions of expenditure on capital account cannot in the absence of data be exactly determined. The following may be accepted as an approximate analysis of the average cost of the railways, as it stood in 1871 :—
+Per Per mile. cent.
+Law and parliamentary expenses .................... £2,000 or 51
+Land and compensation.............................. 7,000 „ 191
+Works of construction and stations complete .......... 18,000 ,, 50'
+Locomotive and carrying stock ...................... 3,000 „    8
+Interest on stock, discounts, bonuses, dividends from
+capital, contingencies, &c......................... 6,000 ,, 17
+36,000    100
+From this estimate it would appear that the net cost of construction and equipment was £21,000 per mile, or about 58 per cent, of the entire cost. The capital cost of the working stock is given by the London and North-Western Railway Company. Excluding a considerable number of engines and carrying stock which had been constructed as duplicate stock—charged to revenue, no doubt —at 31st December 1884 the quantities and costs were as follows :—
+1⅛47 tenders ........................{-£3,5,4,284 (£1538 per engine).
+3,463 passenger carriages..............ί . 49 . zp ,θ8 vehif ,lp ∖
+2,116 horse-boxes, guards’ vans, &c.....J 1,4Jb,2i2 (L-bä peι vehicle}.
+51,817 waggon stock .................. 3,320,322 (£64    „    ).
+Total..................£8,390,S18
+It is to be explained with reference to these low rates of cost that the original cost of the early working stock stands unaltered in the books of the company, whilst the whole of the original working stock has been replaced at the charge of revenue by engines and vehicles of modern design and larger capacity. Divided by the number of miles (1793) open at 31st December 1884, the total charge for working stock is at the rate of £4680 per mile open. For new working stock manufactured by the same company during the eighteen months ending 31st December 1884 the following average sums were charged to capital :—
+31 locomotives with tenders or tank-engines..............£1100 each.
+229 vehicles, carriage stock .............................. 385 „
+2192 vehicles, waggon stock .............................. 59 „
+Working or Rolling Stock. — The working or rolling stock of railways consists of locomotives with their tenders, passenger carriages, horse-boxes, carriage trucks, travelling post-offices with their tenders and vans, goods waggons, covered goods waggons, cattle trucks, coke and coal waggons, timber trucks, ballast waggons, and goods brake vans. Table III. (below) shows that in England and Wales there is nearly one locomotive per mile of line open, or for the United Kingdom three engines for every 4 miles. The greatest waggon stock per mile open is to be found in Scotland—nearly thirty-one per mile. The proportions of vehicles for traffic of all classes for each locomotive averaged at the end of the year 1883 :—
+England and Wales..................31 ∙1 vehicles per engine.
+Scotland............................51- 7    ,,    ,,
+Ireland ............................24∙6    ,,    ,,
+Total ..................33∙9    „    „
+The excessive proportion of fifty-two vehicles per engine in Scotland corresponds to the comparatively excessive number of train miles with goods and minerals, which are 20 per cent, more than the passenger-train miles, whilst in England they are 8 per cent, less, and in Ireland more than 50 per cent. less. The various
+proportions of rolling stock for twenty-one leading British railways (31st December 1883) are exhibited in detail in Table IV., arranged in the order of the numerical proportions which the carrying stock for traffic bears to the locomotive stock :—
+Railway.
+Miles
+open.
+Loco
+motives.
+Carnage
+Stock.
+I Waggon
+1 Stock.
+Carriage and Waggon Stocks.
+England and Wales.
+Miles.
+En
+gines.
+Vehi
+cles.
+Vehi
+cles.
+Vehi
+cles.
+Per
+en
+gine.
+Per
+mile
+open
+22
+60
+241
+59
+300
+5∙0
+13∙6
+18
+12
+160
+42
+86
+168
+296
+610
+972
+19
+394
+1,967
+315
+1,004
+2,939
+7∙0
+11∙7
+17∙5
+17∙5 83'7 18 7
+London, Chatham, and Dover ί London and South-Western ..
+721
+370
+1793
+471
+325
+2451
+2467
+2047
+6092
+6,964
+4,798
+47,518
+9,431
+6,845
+53,610
+20∙0 21∙1 21 ∙9
+131 18∙5 29 ∙9
+London and North-Western .. London, Brighton, and South
+403
+1049
+2268
+410
+615
+1577
+2S17
+2960
+7,078
+11,957
+34,794
+9,S95
+14,917
+39,302
+24∙1 24∙3 24 ∙9
+24 ∙5 14∙2 17'3
+4508
+Manchester, Sheffield, and Lin-
+314
+768
+494
+505
+781
+2086
+2495
+12,434
+17,384
+20,223
+13,215
+19,450
+22,718
+26∙2 26 5 27'3
+42∙1 25 ∙3 46Ό
+Lancashire and Yorkshire ....
+832
+1629
+1462
+1381
+1534
+3856
+2739
+61,532
+76,369
+65,388
+79,108
+40∙1 54 1
+47 ∙3 51'6
+Scotland.
+Glasgow and South-Western ..
+330
+290
+886
+11,289
+12,175
+42 ∙0
+36 ∙9
+997
+573
+1354
+32,465
+43,253
+33,819
+44,883
+59 ∙0
+33 *9
+8Ö7
+690
+1630
+65 Ό
+51 ∙8
+Ireland.
+425
+100
+298
+1,921
+3,345
+2,219
+3,689
+22 ∙1
+5∙2
+Great Southern and Western ..
+478
+503
+160
+127
+344
+468
+23 ∙1 25∙8
+7∙9
+6*5
+2,807
+3,275
+Here the number of vehicles varies from 5 per engine on the Metropolitan Railway, 7 on the District Raihvay, and 11 "7 on the North London Railway—all of these specially passenger lines of dense traffic—to 54 per engine on the North-Eastern Railway, 59 on the North British Railway, and 65 on the Caledonian Railway—all these being specially lines of mineral traffic.
+Train AIilcs Run, 1883.—The number of miles run by passenger and goods and mineral trains, and the number run by mixed trains, are as follows (Table V.) :—
+Passenger.
+Goods and Minerals.
+Mixed.
+Total.
+Country.
+Train
+Miles.
+Per
+aver
+age
+mile
+open
+Train
+Miles.
+Per
+aver
+age
+mile
+open
+Train
+Miles.
+Per
+aver
+age
+mile
+open
+Train
+Miles.
+Per
+aver
+age
+mile
+open
+England and Wales
+117,406,242
+8940
+108,446,732
+8258
+498,415
+38
+226,351,389
+17,236
+Scotland..
+13,243,827
+4486
+15,933,637
+5397
+1,632,851
+553
+30,810,31510,436
+Ireland ..
+7,526,871
+3030
+3,602,884
+1450
+605,777
+246
+11,735,532
+4,726
+Total ..,.
+138,176,940
+7442
+127,983,253
+6S93
+2,737,043
+147
+268,897,236 14,482
+Total, per cent. ..
+51∙4
+47'6
+1∙0
+100
+∙∙
+The mixed-train miles constitute just 1 per cent, of the total number, and the mileages run by passenger and goods trains are nearly equal. On an average each mile of way was traversed forty times a day. Taking the means of the numbers of engines for the end of 1882 and the end of 1883 as the average number during the year, the train miles run per locomotive are as follows (Table VI. ) :—
+Table III.—Summary of the Quantities of Working Stock at the end of the Year 1883.
+Country.
+Locomotives.
+Passenger
+Carriages.
+Other Vehicles attached to Passenger
+Trains.
+Total Passenger-Train Stock.
+Waggons and
+Trucks for Live Stock, Minerals, and Mer
+chandise.
+Total Passenger, Goods, and Mineral Train Stock.
+Other Vehicles, as Ballast Waggons, &c.
+Total No. of Vehicles for Passengers,
+Goods, Ballast, &c.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+Num
+ber.
+Per
+mile
+open.
+England and Wales..........
+12,144
+•92
+27,274
+2∙06
+10,133
+•77
+37,407
+2∙83
+329,622
+24∙94
+367,029
+27∙77
+10,609
+•80
+377,638
+28∙57
+Scotland ....................
+1,693
+•57
+3,591
+1∙21
+1,269
+•43
+4,860
+1∙64
+91,444
+30∙85
+96,304
+32∙49
+1,166
+•39
+97,470
+32∙8S
+Ireland ....................
+632
+•25
+1,439
+•57
+622
+•25
+2,061
+•82
+13,195
+5∙27
+15,256
+6 09
+297
+T2
+15,553
+6∙21
+Total ..............
+14,469
+•77
+32,304
+1∙73
+12,024
+•64
+44,328
+2∙37
+434,261
+23∙24
+478,589
+25∙61
+12,072
+•65
+490,661
+26∙26
+1883.
+Average Number of Engines.
+Train Miles per Engine.
+England and Wales..................
+11,996
+18,863
+Scotland............................
+1,678
+18,361
+Ireland ............................
+626
+18,747
+Total....................
+14,300
+18,805
+An engine when actually on duty may accomplish 120 train miles

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0423-02"
+                facs="encyclopaediabri23chisrich_0456.jp2" type="entry">
+               <p>                   <label>ROBINSON, SIR JOHN BEVERLEY,</label>
+                    <hi rend="smallcaps">Bart.</hi> (1791-1863), Canadian statesman and jurist, was
+                    the son of Christopher Robinson (1764-1798), one of the band known as United
+                    Empire Loyalists, who came to Canada at the conclusion of the American
+                    Revolution. He was born at Berthier, Quebec, on the 26th of July 1791, and
+                    studied under Dr John Strachan, by whom his religious and political ideas were
+                    much influenced. He served with distinction at the beginning of the war of 1812,
+                    and later in the war was appointed acting attorney-general of Upper Canada. In
+                    1815 he visited England and read law at Lincoln’s Inn.</p>               <p>From 1818 till 1829 he was the head of the Tory party in Upper Canada (the
+                    so-called “Family Compact”). In 1829 he became chief justice of Upper Canada,
+                    which position he held till shortly before his death on the 31st of January
+                    1863.</p>               <p>Not one of his decisions was ever reversed on appeal. In 1824 and again in 1839
+                    he strongly advocated a federal union of British North America, and in 1839
+                    opposed in <hi rend="italic">Canada and the Canada Bill</hi> the legislative
+                    union of the two Canadas proposed by Lord Durham. In 1854 he was created a
+                    baronet of the United Kingdom and in 1855 a D.C.L. of Oxford University. His
+                    unbending Toryism rendered him a reactionary in politics, but his bitterest
+                    opponents admitted his sincerity and patriotism.</p>               <p>Several of his sons rose to eminence, John Beverley Robinson (1820-1896)
+                    becoming a member of the Dominion parliament and lieutenant-governor of Ontario
+                    (1880-1887). Christopher Robinson (1828-1905) was for many years the
+                    acknowledged leader of the Canadian Bar.</p>               <p>His <hi rend="italic">Life,</hi> by his son, Major-General C. W. Robinson, C.B.
+                    (Toronto and London, 1904), gives a very favourable picture of the fine old
+                    colonial gentleman and loyalist. For a less favourable view see J. C. Dent, <hi
+                        rend="italic">Canadian Portrait Gallery,</hi> vol. iv. (Toronto, 1881).</p>            </div>
+        </body>
+    </text>
+</TEI>

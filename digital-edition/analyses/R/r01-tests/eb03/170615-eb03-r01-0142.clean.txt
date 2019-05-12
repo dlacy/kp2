@@ -1,0 +1,37 @@
+a 
+pwoft, 
+what 
+will be the 
+motion of the fluid whose 
+course is obstructed by a body of any form. And here we cannot omit taking notice of the casual ob servation of sir Isaac Newton when attempting to de termine the resistance of the plane sursace or cylinder, or sphere exposed to a stream moving in a canal. 
+He 
+says that the form of the resisting surface is of less con sequence, because there is always a quantity of water stagnant upon it, and which may therefore be consider ed as frozen,; and he therefore confidere that water only whose motion is necessary for the most expedi tious discharge of the water in the vessel. He endeavours to discrirninate that water from tile rest; and although it must be acknowledged that the principle which he assumes for this purpose is very gratuitous, because it only shows that 
+if certain portions of the water, 
+which he determines very ingenioussy, were really frozen, the rest will issue as he says, and will exert the pressure which he assigns;; we must admire his fertility of resource, and his sagacity in thus soreseeing what subsequent observation has completely confirmed, we are even disposed to think, that in this casual ot> -- servation sir Isaac Newton lias pointed out the only method of arriving at a solution of the problem; and that if we could discover 
+what motions are not necessary for the mof expeditious passage of the water, 
+and could thus determine the form and magnitude of the stagnant water which adheres to the body, we should much more easily ascertain the real motions which occasion the observed resistance. we are here disposed to haverecourse to the economy of nature, the improper use of which we have sometimes taken the liberty of reprehending. Mr Maupertuis published as a great discovery his principle of smallest action, where he showed that in all the mutual actions of bodies the quantity of action was a minimum; and he applied this to the solution of many difficult problems with great success, ima gining that he was really reasoning from a contingent law of nature, selected by its infinitely wise Author, viz. that in all occasions there is the smallest possible exertion of natural powers. Mr D’alembert has, however, shown fvid. 
+Encyclopaedic Françoife, 
+Action) that this was but a whim, aud that the minimum observed by mau pertuis is merely a minimum of calculus, peculiar to a formula which happens to express a combination of mathematical quantities which frequently occurs in our way of considering the phenomena of nature, but which is no natural measure of action. 
+But the chevalier D’arcy has shown, that in the trains of natural operations which terminate in the pro dilction of motion in a particular direction, the interme diate communications of motion are such that the small est possible quantity of motion is produced, we seem obliged to conclude, that this law.will be observed in the present instance; and it seems a problem not above our reach to determine the motions which result from it. 
+we 
+would recommend the problem to the eminent mathematicians in some simple case, such as the propo sition already demonstrated by Daniel Bernoulli, or the perpendicular impulse on a cylinder included in a tubular canal; and if they succeed in this, great things may be expected, we think that experience gives great encouragement, we see that the r₤sistance to a plane surface is a very small matter greater than the weight of a column of the fluid having the fall productive of 
+the velocity 
+for 
+its 
+height, 
+and the small 
+exeefs is most 
+probably owing to adhesion, and the measure of the real resistance is probably precisely this weight. The velocity 
+of 
+a spouting fluid was found, in fact, to be that acquired by falling from the surface of the fluid; and it was by looking at this, as at a pole star, that Newton, Bernoulli, and others, have with great sagaci ty and ingenuity discovered much of the laws of hy draulics, by searching for principles which would give this result. we may hope for similar success. 
+In the mean time, we may receive this as a physical truth, that the perpendicular impulse or resistance of a plane surface, wholly immersed in the fluid, is equal to the weight of the column having the sursace for its base, and the fall producing the velocity for its height. 
+This is the medium result of all experiments made in these precise circumstances. And it is confirmed by a set of experiments of a kind wholly different, and which seem to point it out more certainly as an im mediate consequence of hydraulic principles. 
+If Mr pitot’s tube be exposed to a stream of fluid issuing from a reservoir or vessel, as represented in sig. 14. with the open mouth I pointed directly against the stream, the fluid is observed to stand at K in the upright tube, precisely on a level with the fluid AB in the reservoir. Here is a most unexceptionable experi ment, in which the impulse of the stream is actually opposed to the hydrostatical pressure of the fluid on the tube. Pressure is in this case opposed to pressure, because the issuing fluid is deflected by what stays in the mouth of the tube, in the same way in which it would be deflected by a firm surface. 
+we 
+shall have occasson by and by to mention some most valuable and instruc tive experiments made with this tube. 
+It was this which suggested to the great mathema tician Euler another tlieory of thé impulse and resistance of fluids, which must not be omitted, as it is applied in his elaborate performance On the Theory of the Construction and working of ships, in two vo lumes 4 to, which was afterwards abridged and used as 
+a 
+text book in some marine academies. He fupposes a stream of fluid ABCD (fig. 15.), moving with any ve locity, to strike the plane ËD perpendicularly, and that part of it goes through a hole EF, forming a jet EGHF. Mr Euler says, that the velocity of this jet will be the same with the velocity of the stream. Now compare this with an equal stream issuing from a hole in the ssde of a vessel with the same velocity. The one ssream is urged out by the pressure occassoned by the impulse of the fluid; the other is urged out by the pressure of gravity. The effects are equal, and the modifying circumstances are the same. The causes are therefore equal, and the pressure occassoned by the im pulse of a stream of fluid, moving with any velocity, is equal to the weight of a column of fluid whose height is productive of this velocity, che then determines the oblique impulse by the resolution of motion, and deduces the common rules of ressstance, chut 
+all this is without just grounds. This gentle man was always satissied with the siightest analogies which would give him. an opportunity of exhibiting his great dexterity in algebraic analysis, and was not afterwards startled by any discordancy with observation. 
+Analyfi magis fidendum 
+is a frequent assertion with him. 

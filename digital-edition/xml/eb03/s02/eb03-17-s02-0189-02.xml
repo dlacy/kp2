@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196363_0195.tif" type="entry" xml:id="eb03-17-s02-0189-02"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SEA</label>, in a ſtrict ſenſe, ſignifies a large portion of water almoſt
+                    ſurrounded by land, as the Baltic and Mediterranean ſeas; but it is frequently
+                    uſed for that vaſt body of water which encompaſſes the whole earth.</p>
+                <p>What proportion the ſuperficies of the ſea bears to that of the land cannot
+                    eaſily be aſcertained. Buffon has ſuppoſed that the ſurface of our globe is
+                    equally divided between land and water, and has accordingly calculated the
+                    ſuperficies of the ſea to be 85,490,506 ſquare miles. But it is now well known
+                    that the ocean covers much more than the half of the earth’s ſurface. Buffon
+                    believed the exiſtence of a vaſt ſouthern continent, which Captain Cook has
+                    ſhown to be viſionary. It was this circumſtance which miſſed him. According to
+                    the moſt accurate obſervations hitherto made, the ſurface of the ſea is to the
+                    land as three to one; the ocean therefore extends over 128,235,759 ſquare miles,
+                    ſuppoſing the ſuperficies of the whole globe to be 170,981,012 ſquare miles. To
+                    aſcertain the depth of the ſea is ſtill more difficult than its ſuperficies,
+                    both on account of the numerous experiments which it would be neceſſary to make,
+                    and the want of proper inſtruments for that purpoſe. Beyond a certain depth the
+                    ſea has hitherto been found unfathomable; and though ſeveral methods have been
+                    contrived to obviate this difficulty, none of them has completely anſwered the
+                    purpoſe. We know in general that the depth of the ſea increaſes gradually as we
+                    leave the ſhore; but if this continued beyond a certain diſtance, the depth in
+                    the middle of the ocean would be prodigious. Indeed the numerous iſlands
+                    everywhere ſcattered in the ſea demonſtrate the contrary, by ſhowing us that the
+                    bottom of the water is unequal like the land, and that ſo far from uniformly
+                    ſinking, it ſometimes riſes into lofty mountains. If the depth of the ſea be in
+                    proportion to the elevation of the land, as has generally been ſuppoſed, its
+                    greateſt depth will not exceed five or ſix miles, for there is no mountain ſix
+                    miles perpendicular above the level of the ſea. The ſea has never been actually
+                    founded to a greater depth than a mile and 66 feet; every thing beyond that
+                    therefore reſts entirely upon conjecture and analogical reaſoning, wſhich ought
+                    never to be admitted to determine a ſingle point that can be aſcertained by
+                    experiment, becauſe, when admitted, they have too often led to falſe
+                    concluſions. Along the coaſts, where the depth of the ſea is in general well
+                    known, it has always been found proportioned to the height of the ſhore; when
+                    the coaſt is high and mountainous, the ſea that waſhes it is deep; when, on the
+                    contrary, the coaſt is low, the water is ſhallow. Whether this analogy holds at
+                    a diſtance from the ſhore, experiments alone can determine.</p>
+                <p>To calculate the quantity of water contained in the ſea, while its depth is
+                    unknown, is impoſſible. But if we ſuppoſe with Buffon that its medium depth is
+                    the fourth part of a mile, the ocean, if its ſuperficies be 128,235,759 ſquare
+                    miles, will contain 32,058,939.75 cubic miles of water.</p>
+                <p>Let us now endeavour to compute the quantity of water which is conſtantly
+                    diſcharged into the ſea. For this purpoſe let us take a river whoſe velocity and
+                    quantity of water is known, the Po, for inſtance, which according to Riccioli is
+                    1000 feet (or 100 perches of Boulogne) broad, 10 feet deep, and runs at the rate
+                    of four miles in an hour; eonſequently that river diſcharges into the ſea
+                    200,000 cubic perches of water in an hour, or 4,800,000 in a day. A cubic mile
+                    contains 125,000,000 cubic perches; the Po therefore will take 26 days to
+                    diſcharge a cubic mile of water into the ſea. Let us now ſuppoſe, what is
+                    perhaps not very far from the truth, that the quantity of water which the ſea
+                    receives from the rivers in any country is proportioned to the extent of that
+                    country. The Po from its origin to its mouth traverſes a country 380 miles long,
+                    and the rivers which fall into it on every ſide riſe from ſources about ſixty
+                    miles diſtant from it. The Po, therefore, and the rivers which it receives,
+                    water a country of 45,600 ſquare miles. Now ſince the wſhole ſuperficies of the
+                    dry land is about 42,745,253. ſquare miles, it follows, from our ſuppoſition,
+                    that the quantity of water diſcharged by all the rivers in the world, in one
+                    day, is 36 cubic miles, and in a year 13,140. If therefore the ſea contains
+                    32,058,939 cubic miles of water, it would take all the rivers in the world 2439
+                    years to diſcharge an equal quantity.</p>
+                <p>It may ſeem ſurpriſing that the ſea, ſince it is continually receiving ſuch an
+                    immenſe ſupply of water, does not viſibly increaſe, and at laſt cover the whole
+                    earth. But our ſurpriſe will ceaſe, if we conſider that the rivers themſelves
+                    are ſupplied from the ſea, and that they do nothing more than carry back thoſe
+                    waters which the ocean is continually laviſhing upon the earth. Dr Halley, has
+                    demonſtrated that the vapours raiſed from the ſea and tranſported upon land are
+                    ſufficient to maintain all the rivers in the world. The ſimplicity of this great
+                    proceſs is aſtonifhing; the ſea not only connects<pb
+                        facs="gri_33125011196363_0196.tif" xml:id="eb03-17-s02-0190"/> diſtant
+                    countries, and renders it eaſy to tranſport the commodities of one nation to
+                    another, but its waters riſing in the air deſcend in ſhowers to fertiliſe the
+                    earth and nouriſh the vegetable kingdom, and collecting into rivers flow
+                    onwards, bringing fertility and wealth and commerce along with them, and again
+                    return to the ſea to repeat the fame round.</p>
+                <p>The knowledge of this proceſs of nature might, one would think, have convinced
+                    philoſophers that the proportion between ſea and land continued always nearly
+                    the ſame. Philoſophers however have formed different theories about this as well
+                    as moſt other ſubjects, maintaining on the one hand that the ſea is continually
+                    encroaching on the land, and on the other that the land is conſtantly gaining on
+                    the ſea. Both ſides have ſupported their theories by arguments, demonſtrations,
+                    and uncontrovertible facts!</p>
+                <p>The height of the mountains, ſay the philoſophers who ſupport the encroachments
+                    of the ſea, is continually diminiſhing; expoſed to the violence of every ſtorm,
+                    the hardeſt rocks muſt at laſt give way and tumble down. The rivers are
+                    continually ſweeping along with them particles of earth which they depoſite in
+                    the bottom of the ſea. Both the depth of the ocean then and the height of the
+                    dry land muſt be always decreaſing; the waters therefore muſt, unleſs a part of
+                    them were annihilated, ſpread over a greater extent of ſurface in proportion as
+                    theſe cauſes operate. This reaſoning, convincing as it is, might be confirmed by
+                    a great number of facts: it will be sufficient however to mention one or two. In
+                    the reign of Auguſtus the iſle of Wight made a part of Britain, ſo that the
+                    Engliſh croſſed over to it at low water with cart loads of tin; yet that iſland
+                    is at preſent ſeparated from Britain by a channel half a mile wide. The Godwin
+                    ſands on the eaſtern ſhore of England were formerly the fertile eſtate of earl
+                    Godwin. Nor are the encroachments of the ſea confined to Britain. In the bay of
+                    Baiæ near Naples there are remains of houſes and ſtreets ſtill viſible below the
+                    preſent level of the ſea. The ſea therefore is making continued encroachments
+                    upon the land; and the time will come, ſay they, when the waters will again
+                    cover the ſurface of the earth.</p>
+                <p>Such are the arguments of thoſe philoſophers who maintain the continual
+                    encroachments of the ſea. Thoſe who maintain the oppoſite theory, that the land
+                    is gradually gaining on the ſea, though they pretend not to deny the facts
+                    advanced by their opponents, affirm that they are altogether inſufficient to
+                    eſtabliſh the hypotheſis which they were brought forward to ſupport. Though the
+                    rivers carry down particles of earth into the ſea, theſe, ſay they, are either
+                    accumulated on other ſhores, or, collecting in the bottom of the ocean, harden
+                    into ſtone, which being poſſeſſed of a vegetative power riſes by degrees above
+                    the ſurface of the ſea and form rocks, and mountains, and iſlands. The
+                    vegetative nature of ſtone indeed is ſufficient, of itſelf, to convince us that
+                    the quantity of earth muſt be daily accumulating, arid conſequently that the
+                    ſurface of the ſea is diminiſhing in extent. Celſius, a Swediſh philoſopher (for
+                    this diſpute has been carried on in Sweden with the greateſt keenneſs), has
+                    endeavoured to build this</p>
+                <p>theory with more ſolid materials than vegetable ſtone. In a curious memoir,
+                    pubiſſhed in 1743, he aſſerts that the Baltic and the Atlantic, at leaſt that
+                    part of it which waſhes Norway, is conſtantly diminiſhing; and he proves this by
+                    the teſtimony of a great many aged pilots and fiſhermen, who affirmed that the
+                    ſea was become much ſhallower in many places than it had been during their
+                    youth: that many rocks formerly covered with water were now ſeveral feet above
+                    the ſurface of the ſea: that loaded veſſels uſed formerly to ride in many places
+                    where pinnaces and barks could now with difficulty ſwim. He produces inſtances
+                    of ancient ſea-port towns now ſeveral leagues from the ſhore, and of anchors and
+                    wrecks of veſſels found far within the country. He mentions a particular rock
+                    which 168 years before was at the bottom of the ſea, but was then raiſed eight
+                    feet above its ſurface. In another place where the water 50 years before had
+                    reached to the knee there was then none. Several rocks, too, which during the
+                    infancy of ſome old pilots had been two feet under water, were then three feet
+                    above it. From all theſe obſervations M. Celſius concludes, that the water of
+                    the Baltic decreaſes in height 4 <hi rend="superscript"> 1</hi> / <hi
+                        rend="subscript"> 2</hi> lines in a year, 4 inches 5 lines in 18 years, 4
+                    feet 5 inches in a hundred years, and in a thouſand years 45 feet. Conſcious,
+                    however, that theſe facts, how concluſive ſoever as far as relates to the
+                    Baltic, can never determine the general queſtion, M. Celſius advances another
+                    argument in ſupport of his theory. All that quantity of moiſture, ſays he, which
+                    is imbibed by plants is loſt to the general maſs of water, being converted into
+                    earth by the putrefaction of vegetables. This notion had been mentioned by
+                    Newton, and was adopted by Van Helmont: if granted, it follows as a conſequence
+                    that the earth is continually increaſing and the water diminiſhing in a very
+                    rapid degree.</p>
+                <p>Such are the arguments advanced in ſupport of both theories; for it is needleſs
+                    to mention a notion of Linnaeus that the whole earth was formerly covered with
+                    water except a ſingle mountain. When fairly weighed, they amount to nothing more
+                    than this, that the ſea has encroached upon the land in ſome places, and retired
+                    in others; a concluſion which we are very willing to allow. What was advanced by
+                    thoſe philoſophers, who maintain that the ſea is continually encroaching on the
+                    land, about the depth of the ſea conſtantly diminiſhing, muſt remain a mere
+                    aſſertion till they prove by experiments, either that this is really the caſe,
+                    or that nature has no way of reſtoring thoſe particles of earth which are waſhed
+                    down by the rivers. Nor have they any good reaſon to affirm that the height of
+                    the mountains is decreaſing. Can a ſingle uncontrovertible inſtance be produced
+                    of this? Are the Alps or the Apennines, or Taurus, or Caucaſus, leſs lofty now
+                    than they were a thouſand years ago? We mean not to deny that the rain actually
+                    waſhes down particles of earth from the mountains, nor to affirm that the
+                    hardeſt rocks are able to refill continual ſtorms, nor that many mountains have
+                    ſuffered, and continue to ſuffer daily, from a thouſand accidents. But the
+                    effects produced by all theſe cauſes are ſo trifling as to be altogether
+                        imperceptible<note anchored="true" n="1" place="bottom" type="authorial"
+                            ><p>(A). M. Gensanne pretends that the Pyrenean mountains become an inch
+                            lower every ten years. But even ac <pb n="191"/> cording to his own
+                            calculation, it would require a million of years to level theſe
+                            mountains with the plain, though they continued to decreaſe at the ſame
+                            rate; and philoſophers tell us that this rate is conſtantly
+                            diminiſhing!</p></note>
+                    <hi rend="smallcaps">(a).</hi> Nature has aſſiduouſly guarded againſt ſuch
+                    accidents; ſhe has formed the mountains of the moſt dura-<pb
+                        facs="gri_33125011196363_0197.tif" xml:id="eb03-17-s02-0191"/> ble
+                    materials; and where they are covered with earth, ſhe has bound it together by a
+                    thick and firm matting of graſs, and thus ſecured it from the rains; and ſhould
+                    accident deprive it of this covering, ſhe takes care immediately to ſupply the
+                    defect. Even ſhould the earth be ſwept away together with its covering, nature
+                    has ſtill ſuch reſources left as frequently reſtore things to their former
+                    ſtate. Many kinds of moſs, one would be tempted to think, have been created for
+                    this very purpoſe: they take root and flouriſh almoſt upon the bare rock, and
+                    furniſh as they decay a ſufficient bed for ſeveral of the hardy Alpine plants.
+                    Theſe periſh in their turn, and others ſucceed them. The roots of the plants
+                    bind fast the earth as it accumulates, more plants ſpring up and ſpread wider,
+                    till by degrees the whole ſurface is covered with a firm coat of graſs. Even the
+                    rain, which always contains in it a good deal of earth, contributes ſomething to
+                    haſten the proceſs.</p>
+                <p>As the vegetation of ſtone, an argument advanced by the philoſophers who ſupport
+                    the oppoſite theory, is now, we believe, given up by all parties, it is needleſs
+                    to take any farther notice of it here, (ſee <hi rend="smallcaps">Stone).</hi>
+                    The hypotheſis of M. Celſius, that water is converted into earth, has alſo
+                    ſhared the ſame fate, becauſe it was unſupported by experiment, and contrary to
+                    every thing that we know either about earth or water. It is a little
+                    extraordinary that philoſophers have been ſo laviſh of water as to convert it in
+                    this manner into ſtone and earth, when they had given it, one would think,
+                    ſufficient employment before in making new worlds and in confuting Moſes.</p>
+                <p>As the ſea covers ſo great a portion of the globe, we ſhould, no doubt, by
+                    exploring its bottom, diſcover a vaſt number of intereſting particulars.
+                    Unfortunately in the greater part of the ocean this has hitherto been
+                    impoſſible. Part, however, has been examined; and the diſcoveries which this
+                    examination has produced may enable us to form ſome idea at leaſt of the whole.
+                    The bottom of the ſea, as might have been conjectured indeed beforehand, bears a
+                    great reſemblance to the ſurface of the dry land, being, like it, full of
+                    plains, rocks, caverns, and mountains; ſome of which are abrupt and almoſt
+                    perpendicular, while others riſe with a gentle declivity, and ſometimes tower
+                    above the water and form iſlands. Neither do the materials differ which compoſe
+                    the bottom of the ſea and the baſis of the dry land. If we dig to a conſiderable
+                    depth in any part of the earth, we uniformly meet with rock; the ſame thing
+                    holds in the ſea. The ſtrata, too, are of the ſame kind, diſpoſed in the ſame
+                    manner, and form indeed but one whole. The ſame kind of mineral and bituminous
+                    ſubſtances are alſo found interſperſed with theſe ſtrata; and it is to them
+                    probably that the ſea is indebted for its bitter taſte. Over theſe natural and
+                    original ſtrata an artificial bed has pretty generally been formed, compoſed of
+                    different materials in different places. It conſiſts frequently of muddy
+                    tartareous ſubſtances firmly cemented</p>
+                <p>together, ſometimes of ſhells or coral reduced to powder, and near the mouths of
+                    rivers it is generally compoſed of fine ſand or gravel. The bottom of the ſea
+                    reſembles the land likewiſe in another particular: many freſh ſprings and even
+                    rivers riſe out of it, which, diſplacing the ſalt water, render the lower part
+                    of the ſea wherever they abound quite freſh. An inſtance of this kind occurs
+                    near Goa on the weſtern coaſt of Indoſtan<note anchored="true" n="2" place="margin" type="authorial"><p>*</p></note> *, and another<note anchored="true" n="3" place="margin" type="authorial"><p>§</p></note> §
+                    in the Mediterranean ſea not far from Marſeilles. Theſe facts occaſioned a
+                    notion, which later experiments have exploded, that the ſea beyond a certain
+                    depth was always freſh.</p>
+                <p>Subſtances of a very beautiful appearance are frequently brought up by the
+                    founding line from the bottom of the ſea. The plummet is hollowed below, and
+                    this cavity filled with tallow, to which ſome of the ſubſtances adhere which
+                    form the bed of the ocean. Theſe are generally ſand, gravel, or mud; but they
+                    are ſometimes of the brighteſt ſcarlet, vermilion, purple, and yellow; and
+                    ſometimes, though leſs frequently, they are blue, green, or white. Theſe colours
+                    are owing to a kind of jelly which envelopes the ſubſtances, and vaniſh entirely
+                    as ſoon as this jelly dries. At times, however, they aſſume the appearance of
+                    tartareous crufts, and are then ſo permanent, that they can be received into
+                    white wax melted and poured round them, and perhaps by proper care might be
+                    converted into valuable paints.</p>
+                <p>Sea-water is really, as any one may convince himſelf by pouring it into a glaſs,
+                    as clear and tranſparent as river water. The various appearances therefore which
+                    it affirmes are owing to accidental cauſes, and not to any change in the water
+                    itſelf. The depth, or the materials which compoſe the bottom of the ſea,
+                    occaſions it to aſſume different colours in different places. The Arabian gulph,
+                    for inſtance, is ſaid to be red from the colour of the ſands which form its bed.
+                    The appearance of the ſea is affected too by the winds and the ſun, while the
+                    clouds that paſs over it communicate all their various and fleeting colours.
+                    When the ſun ſhines it is green; when the ſun gleams through a fog it is yellow;
+                    near the north pole it appears black; while in the torrid zone its colour is
+                    often brown. Sometimes the ſea aſſumes a luminous appearance. Sec <hi
+                        rend="smallcaps">Light,</hi> n⁰ 37.</p>
+                <p>The ſea contains the greateſt quantity of ſalt in the torrid zone, where
+                    otherwiſe from the exceſſive heat it would be in danger of putrefaction: as we
+                    advance northward this quantity diminiſhes, till at the pole it nearly vaniſhes
+                    altogether. Under the line Lucas found that the ſea contained a ſeventh part of
+                    ſolid contents, conſiſting chiefly of ſea-ſalt. At Harwich he found it yielded
+                        <hi rend="superscript"> 1</hi> / <hi rend="subscript"> 25</hi> th of
+                    ſea-ſalt. At Carlſcroon in Sweden it contains <hi rend="superscript"> 1</hi> /
+                        <hi rend="subscript"> 30</hi> th part<note anchored="true" n="4"
+                        place="bottom" type="authorial"><p><hi rend="smallcaps">(b)</hi> This
+                            gradual diminution of ſaltneſs ſrom the equator to the pole is not,
+                            however, without particular exceptions, The Mediterranean ſea
+                            contains/th of ſea-ſalt, which is leſs than the German ſea
+                        contains.</p></note> (B), and on the coaſt of Greenland a great deal leſs.
+                    This deficiency of ſalt near the poles probably contributes a good deal towards
+                    the prodigious quantities of ice which are met with in theſe ſeas;<pb
+                        facs="gri_33125011196363_0198.tif" xml:id="eb03-17-s02-0192"/> for ſalt
+                    water requires a much greater degree of cold to freeze it than freſh water. It
+                    was this circumſtance, probably, together with its conſtant motion, which
+                    induced the ancients to believe that the ſea never froze. Even among the moderns
+                    it has been a generally received opinion, that ſea-ice is originally formed in
+                    rivers. Buffon has made the great quantities of ice with which the South ſea
+                    abounds an argument for the exiſtence of a continent near the Antarctic pole.
+                    But it is now well known that great quantities of ice are formed at a diſtance
+                    from land. Sea-ice is of two kinds; field ice, which extends along the ſhore,
+                    and is only two or three feet thick; and mountain ice, which abounds in the
+                    middle of the ocean. The ſize of theſe mountains is ſometimes prodigious. The
+                    ſea-ice is always freſh, and has been often of great uſe to navigators. The
+                    weight of ſea-water is to that of river-water as 73 to 70; that is, a cubic foot
+                    of ſea-water weighs 73 lb. while the ſame quantity of river-water weighs only
+                    70lb.; but this proportion varies in different places. It is worthy of our
+                    attention, too, that the water at the ſurface of the ſea contains leſs ſalt than
+                    near the bottom; the difference indeed is inconſiderable, but ſtill it is
+                    ſomething. The Compte de Marſigli found the ſame quantity of water, when taken
+                    from the bottom of the Mediterranean, to weigh one ounce three pennyweights 51
+                    grains; whereas from the ſurface it weighed only one ounce three pennyweights 49
+                    grains. He repeated the experiment frequently with nearly the ſame reſult.</p>
+                <p>The ſea, with reſpect to temperature, may be divided into two regions: The firſt
+                    begins at the ſurface of the water, and deſcends as far as the influence of the
+                    ſun’s rays; the ſecond reaches from thence to the bottom of the ſea<note anchored="false" n="5" place="margin" type="authorial"><p>Boyle de
+                            Temperie Regionum Submarinarum.</p></note>. In ſummer the lower region
+                    is conſiderably colder than the upper: but it is probable that during winter the
+                    very reverſe takes place; at leaſt the Compte de Marſigli found it ſo repeatedly
+                    in the Mediterranean. This naturally reſults from the ſituation of the water
+                    near the bottom of the ſea. Uninfluenced by the changes in the atmoſphere, it
+                    retains always nearly the ſame degree of temperature: and this is conſiderably
+                    above congelation; for the lower region of the ſea, at leaſt in the temperate
+                    parts of the world, was never known to freeze.<note anchored="false" n="6" place="margin" type="authorial"><p>Phil. Trans. for 1751, p.
+                        213.</p></note> Captain Ellis let down a ſea-gage (ſee <hi rend="smallcaps"
+                        >Gage)</hi> in latitude 25⁰ 13' north, and longitude 25⁰ 12' weſt, to take
+                    the degrees of temperature and ſaltneſs of the ſea at different depths. It
+                    deſcended 5346 feet, which is a mile and eleven fathoms. He found the ſea ſalter
+                    and colder in proportion to its depth till the gage had deſcended 3900 feet,
+                    when the mercury in the thermometer came up at 53; but the water never grew
+                    colder, though he let down the gage 2446 feet lower. At the ſurface the
+                    thermometer ſtood at 84.</p>
+                <p>The ſea has three kinds of motion: 1. The firſt is that undulation which is
+                    occaſioned by the wind. This motion is entirely confined to the ſurface; the
+                    bottom even during the moſt violent ſtorms remains perfectly calm. Mr Boyle has
+                    remarked, from the teſtimony of ſeveral divers, that the ſea is affected by the
+                    winds only to the depth of ſix feet. It would follow from this, that the height
+                    of the waves above the ſurface does not exceed ſix feet; and that this holds in
+                    the Mediterranean at leaſt, we are informed by the Compte de Marſigli, though he
+                    alſo ſometimes obſerved them, during a <hi rend="italic">very</hi> violent
+                    tempeſt, riſe two feet higher. It is affirmed by Pliny, and ſeveral other
+                    ancient writers, that oil calms the waves of the ſea; and that divers were
+                    accuſtomed to carry ſome of it for that purpoſe in their mouths. This account
+                    was always conſidered by the moderns as a fable, and treated with ſuch contempt,
+                    that they did not even deign to put it to the teſt of expeririment, till Dr
+                    Franklin accidentally diſcovered its truth. Happening in 1757 to be in the
+                    middle of a large fleet, he obſerved that the water round one or two veſſels was
+                    quite calm and ſmooth, while everywhere elſe it was very much agitated by the
+                    winds. He applied to the captain for an explanation of this phenomenon, who
+                    replied, that the cooks, he ſuppoſed, had thrown their greaſy water out at the
+                    ſcupper-holes, and by that means oiled the ſides of the veſſels in queſtion.
+                    This anſwer did not ſatisfy the Doctor at firſt; but recollecting what Pliny had
+                    ſaid on the ſubject, he reſolved at leaſt to try the experiment. He did ſo
+                    accordingly in 1762, and found that oil actually calmed the waves of the ſea. He
+                    repeated the experiment upon lake Clapham: the oil ſpread itſelf with great
+                    rapidity upon the ſurface, but did not produce the deſired effect, becauſe,
+                    having been thrown in upon the ſide oppoſite to the wind, it was immediately
+                    driven to the edge of the water. But upon throwing in a like quantity upon the
+                    other ſide of the lake, it calmed in an inſtant ſeveral yards of the ſurface;
+                    and gradually ſpreading, rendered all that part of the lake, to the extent of at
+                    leaſt half an acre, as ſmooth as glaſs. The curious effect produced by this
+                    liquid may be accounted for by the repulſion which exiſts between oil and water,
+                    and between oil and air, which prevents all immediate contact, all rubbing of
+                    the one upon the other.</p>
+                <p>2. The ſecond kind of motion is that continual tendency which the whole water in
+                    the ſea has towards the weſt. It is greater near the equator than about the
+                    poles; and indeed cannot be ſaid to take place at all in the northern hemiſphere
+                    beyond the tropic. It begins on the weſt ſide of America, where it is moderate:
+                    hence that part of the ocean has been called <hi rend="italic">Pacific.</hi> As
+                    the waters advance weſtward their motion is accelerated; ſo that, after having
+                    traverſed the globe, they ſtrike with great violence on the eaſtern ſhore of
+                    America. Being ſtopped by that continent, they turn northward, and run with
+                    conſiderable impetuoſity into the gulph of Mexico; from thence they proceed
+                    along the coaſt of North America, till they come to the ſouth ſide of the great
+                    bank at Newfoundland, when they turn off, and run down through the Weſtern
+                    Iſles. This current is called the <hi rend="italic">Gulph Stream.</hi> It was
+                    firſt accurately deſcribed by Dr Franklin, who remarked alſo, that the water in
+                    it having been originally heated in the torrid zone, cools ſo gradually in its
+                    paſſage northward, that even the latitude might be found in any part of the
+                    ſtream by means of a thermometer.— This motion of the ſea weſtward has never
+                    been explained: it ſeems to have ſome connection with the trade-winds and the
+                    diurnal revolution of the earth on its axis.</p>
+                <p>3. The third and moſt remarkable motion of the ſea is the tide, which is a
+                    regular ſwell of the ocean once every 12 hours, owing, as Newton has
+                    demonſtrated, to the attraction of the moon. In the middle of the ſea the tide
+                    ſeldom riſes higher than one or two feet, but on the coaſt it frequently reaches
+                    the height of 45<pb facs="gri_33125011196363_0199.tif" xml:id="eb03-17-s02-0193"
+                    /> feet, and in ſome places even more. The tide generally riſes higher in the
+                    evening than in the morning: on the coaſt of Britain this holds in winter, but
+                    in ſummer the morning tides are higheſt. In ſome ſeas it is ſaid that there are
+                    no tides. This cannot be owing to their being ſurrounded by land, becauſe there
+                    is a tide in the lakes of North America. For an explanation of theſe and other
+                    phenomena we refer to the article <hi rend="smallcaps">Tide.</hi></p>
+                <p><hi rend="italic smallcaps"> Sea-</hi>
+                    <hi rend="italic">Air,</hi> that part of the atmoſphere which is above the
+                    ſea.</p>
+                <p>Sea-air has been found ſalubrious and remarkably beneficial in ſome diſtempers.
+                    This may be owing to its containing a greater portion of oxigenous gas or vital
+                    air, and being leſs impregnated with noxious vapours than the land. Dr
+                    Ingenhouſz made ſeveral experiments to aſcertain the ſalubrity of ſea-air. By
+                    mixing equal meaſures of common air and nitrous air, he found, that at
+                    Graveſend, they occupied about 104, or one meaſure, and <hi rend="superscript">
+                        4</hi> / <hi rend="subscript"> 100</hi> of a meaſure: whereas on ſea, about
+                    three miles from the mouth of the Thames, two meaſures of air (one of common and
+                    one of nitrous air) occupied from 0.91 to 0.94. He attempted a ſimilar
+                    experiment on the middle of the channel between the Engliſh coaſt and Oſtend;
+                    but the motion of the ſhip rendered it impracticable. He found that in rainy and
+                    windy weather the ſea-air contained a ſmaller quantity of vital air than when
+                    the weather was calm. On the ſea-ſhore at Oſtend it occupied from 94 <hi
+                        rend="superscript"> 1</hi> / <hi rend="subscript"> 2</hi> to 97; at Bruges
+                    he found it at 105; and at Antwerp 109 <hi rend="superscript"> 1</hi> / <hi
+                        rend="subscript"> 2</hi>. Dr Ingenhouſz thus concludes his paper:</p>
+                <p>It appears, from theſe experiments, that the air at ſea and cloſe to it is in
+                    general purer and fitter for animal life than the air on the land, though it
+                    ſeems to be ſubject to the ſame inconſtancy in its degree of purity with that of
+                    the land; ſo that we may now with more confidence ſend our patients, labouring
+                    under conſumptive diſorders, to the ſea, or at leaſt to places ſituated cloſe to
+                    the ſea, which have no marſhes in their neighbourhood. It ſeems alſo probable,
+                    that the air will be found in general much purer far from the land than near the
+                    ſhore, the former being never ſubject to be mixed with land air.</p>
+                <p>Dr Damman, an eminent phyſician and profeſſor royal of midwifery at Ghent, told
+                    Dr Ingenhouſz, that when he was formerly a practitioner at Oſtend, during ſeven
+                    years, he found the people there remarkably healthy; that nothing was rarer
+                    there than to ſee a patient labouring under a conſumption or aſthma, a
+                    malignant, putrid, or ſpotted fever; that the diſeaſe to which they are the moſt
+                    ſubject, is a regular intermittent fever in autumn, when ſudden tranſitions from
+                    hot to cold weather happen.</p>
+                <p>People are in general very healthy at Gibraltar, though there are very few trees
+                    near that place; which Dr Ingenhouſz thinks is owing to the purity of the air,
+                    ariſing from the neighbourhood of the ſea.</p>
+                <p>Moſt ſmall iſlands are very healthy.</p>
+                <p>At Malta people are little ſubject to diſeaſes, and live to a very advanced
+                    age.</p>
+                <p><hi rend="italic">SEA-Anemony.</hi> See ANIMAL-Flower.</p>
+                <p><hi rend="italic">SEA-Bear and SEA-Calf: See PHOCA.</hi></p>
+                <p><hi rend="smallcaps">Sea-Cow.</hi>
+                    <hi rend="italic">See</hi>
+                    <hi rend="italic smallcaps"> Trichecus.</hi></p>
+                <p><hi rend="italic">SEA-Crow, MIRE-Crow,</hi> or <hi rend="italic">Pewit,</hi> See
+                        <hi rend="smallcaps">Larus.</hi></p>
+                <p><hi rend="italic">SEA-Dead,</hi> See <hi rend="smallcaps">Asphaltites.</hi></p>
+                <p><hi rend="italic">SEA-Devil.</hi> See LOPHIUS.</p>
+                <p><hi rend="italic">SEA-Dragοn,</hi> a monſter of a very ſingular nature. In the
+                    Gentleman’s Magazine for the year 1749, we have the account of a ſeadragon which
+                    was ſaid to be taken between Orford and Southwould, on the coaſt of Suffolk, and
+                    afterwards carried round the country as a curioſity by the fiſherman who caught
+                    it.</p>
+                <p>“Its head and tail (ſays the writer) reſemble thoſe of an alligator; it has two
+                    large fins, which ſerve it both to ſwim and to fly; and though they were ſo
+                    dried that I could not extend them, yet they appear, by the folds, to be ſhaped
+                    like thoſe which painters have given to dragons and other winged monſters that
+                    ſerve as ſupporters to coats of arms. Its body is covered with impenetrable
+                    ſcales; its legs have two joints, and its feet are hoofed like thoſe of an aſs:
+                    it has five rows of very white and ſharp teeth in each jaw, and is in length
+                    about four feet, though it was longer when alive, it having ſhrunk as it became
+                    dry.</p>
+                <p>“It was caught in a net with mackerel; and being dragged on ſhore, was knocked
+                    down with a ſtretcher or boat-hook. The net being opened, it ſuddenly ſprung up,
+                    and flew above 50 yards: the man who firſt ſeized it had ſeveral of his fingers
+                    bitten off; and the wound mortifying, he died. It afterwards faſtened on the
+                    man’s arm who ſhows it, and lacerated it ſo much, that the muſcles are ſhrunk,
+                    and the hand and fingers diſtorted; the wound is not yet healed, and is thought
+                    to be incurable. It is ſaid by ſome to have been deſcribed by naturaliſts under
+                    the name of the <hi rend="italic">Sea- dragοn."</hi> See Plate CCCCXLIX.</p>
+                <p><hi rend="italic">SEA-Gage.</hi> See <hi rend="italic">Sea-GAGE.</hi></p>
+                <p><hi rend="italic smallcaps"> Sea-</hi>
+                    <hi rend="italic">Hare.</hi> See <hi rend="smallcaps">LaplysiA.</hi></p>
+                <p><hi rend="italic">SEA-Horse,</hi> in ichthyology, the Engliſh name of the <hi
+                        rend="italic">Hippocamus.</hi> See <hi rend="smallcaps">Syngnathus.</hi></p>
+                <p><hi rend="italic smallcaps"> SEA-</hi>
+                    <hi rend="italic">Lemon.</hi> See <hi rend="smallcaps">Doris.</hi></p>
+                <p><hi rend="italic">SEA-Liοn.</hi> See <hi rend="smallcaps">Phoca.</hi></p>
+                <p><hi rend="italic">SEA-Mall,</hi> or <hi rend="italic smallcaps"> Sea-Mew.</hi>
+                    See <hi rend="smallcaps">Larus.</hi></p>
+                <p><hi rend="smallcaps">Sea-</hi> Man. <hi rend="italic">See</hi>
+                    <hi rend="italic smallcaps"> Mermaid.</hi></p>
+                <p><hi rend="italic">SEA-Marks.</hi> The erection of beacons, light-houſes, and
+                    ſea-marks, is a branch of the royal <hi rend="smallcaps">prerogative.</hi> By 8
+                    Eliz. 13. the corporation of the Trinity-houſe are empowered to ſet up any
+                    beacons or ſea-marks wherever they ſhall think them neceſſary; and if the owner
+                    of the land or any other perſon ſhall deſtroy them, or take down any ſteeple,
+                    tree, or other known ſea-mark, he ſhall forfeit 100 l. Sterling; or, in caſe of
+                    inability to pay it, he ſhall be <hi rend="italic">ip</hi> ſo f <hi
+                        rend="italic">acto</hi> outlawed.</p>
+                <p><hi rend="italic">SEA-Needle, Gar fish.</hi> See Esox.</p>
+                <p><hi rend="italic">SEA-Nettle.</hi> See <hi rend="italic smallcaps"> Animal-</hi>
+                    <hi rend="italic">Flower.</hi></p>
+                <p><hi rend="italic smallcaps"> Sea-Pie,</hi> or <hi rend="italic"
+                        >Oyster-Catcher.</hi> See <hi rend="smallcaps">HæmAtopUs.</hi></p>
+                <p><hi rend="italic smallcaps"> Sea-</hi>
+                    <hi rend="italic">Plants,</hi> are thoſe vegetables that grow in ſalt-water
+                    within the ſhores of the ſea. The old botaniſts divided theſe into three
+                    claſſes. 1. The firſt claſs, according to their arrangement, contained the <hi
+                        rend="italic">Algae,</hi> the s <hi rend="italic">uci,</hi> the <hi
+                        rend="italic">ſea-moſſes</hi> or <hi rend="italic">confervas,</hi> and the
+                    different ſpecies of ſponges. 2. The ſecond contained ſubſtances of a hard
+                    texture, like ſtone or horn, which ſeem to have been of the ſame nature with
+                    what we call zoophyta <hi rend="italic">,</hi> with this difference, that we
+                    refer ſponges to this claſs and not to the firſt. The third claſs was the ſame
+                    with our <hi rend="italic">lithophyta,</hi> comprehending <hi rend="italic"
+                        >corals, mandrepora,</hi> &amp;c. It is now well known that the genera
+                    belonging to the<pb facs="gri_33125011196363_0200.tif" xml:id="eb03-17-s02-0194"
+                    /> ſecond and third of theſe claſſes, and even ſome referred to the firſt, are
+                    not vegetables, but animals, or the productions of animals. See <hi
+                        rend="smallcaps">Corallina, Madrepora, Spongia.</hi> Sea-plants, then,
+                    properly ſpeaking, belong to the claſs of cryptogamia, and the order of algae;
+                    and, according to Bomare, are all comprehended under the genus of fucus. We may
+                    alſo add ſeveral ſpecies of the ulva and conferva and the ſargazo. The fuci and
+                    marine ulvæ are immerſed in the ſea, are ſeſſile, and without root. The marine
+                    confervæ are either ſeſſile or floating. The ſargazo grows beyond ſoundings.</p>
+                <p>As ſome ſpecies of the fucus, when dried and preſerved, are extermely beautiful,
+                    the curious, and eſpecially thoſe who proſecute the ſtudy of botany, muſt be
+                    anxious to know the beſt method of preſerving them, without deſtroying their
+                    colour and beauty. The following method is recommended by M. Mauduyt. Take a
+                    ſheet of paper, or rather of paſteboard, and cover it with varniſh on both
+                    ſides; and having rowed in a boat to the rock where the fucus abounds, plunge
+                    your varniſhed paper into the water, and, detaching the fucus, receive it upon
+                    the paper. Agitate the paper gently in the water, that the plant may be properly
+                    ſpread over it; and lift them up together ſoftly out of the water: then fix down
+                    with pins the ſtrong ſtalks, that they may not be diſplaced, and leave the plant
+                    lying upon the varniſhed paper to dry in the open air. When it is fully dry, the
+                    different parts will retain their poſition, and the plant may be preſerved
+                    within the leaves of a book. If you wiſh to free it from the ſlime and ſalt
+                    which adheres to it, it may be waſhed gently in freſh water, after being removed
+                    from the rock on which it grew.</p>
+                <p><hi rend="italic">SEA-Serpent,</hi> a monſtrous creature, ſaid to inhabit the
+                    northern ſeas about Greenland and the coaſts of Norway. The following marvellous
+                    account of this monſter is given by Guthrie. “In 1756, one of them was ſhot by a
+                    maſter of a ſhip: its head reſembled that of a horſe; the mouth was large and
+                    black, as were the eyes, a white mane hanging from its neck: it floated on the
+                    ſurface of the water, and held its head at leaſt two feet out of the ſea:
+                    between the head and neck were ſeven or eight folds, which were very thick; and
+                    the length of this ſnake was more than 100 yards, ſome ſay fathoms. They have a
+                    remarkable averſion to the ſmell of caſtor; for which reaſon, ſhip, boat, and
+                    bark matters provide themſelves with quantities of that drug, to prevent being
+                    overſet, the ſerpent’s olfactory nerves being remarkably exquiſite. The
+                    particularities related of this animal would be incredible, were they not
+                    atteſted upon oath Egede, a very reputable author, ſays, that on the 6th day of
+                    July 1734, a large and frightful ſeamon er raiſed itſelf ſo high out of the
+                    water, that its head reached above the main-top-maſt of the ſhip; that it</p>
+                <p>had a long ſharp ſnout, broad paws, and ſpouted water like a whale; that the body
+                    ſeemed to be covered with ſcales; the ſkin was uneven and wrinkled, and the
+                    lower part was formed like a ſnake. The body of this monſter is ſaid to be as
+                    thick as a hogſhead; his ſkin is variegated like a tortoiſe ſhell; and his
+                    excrement, which floats upon the ſurface of the water, is corroſive.” Not-
+                    withſtanding the belief of Guthrie, and the teſtimony which he produces, we
+                    cannot help doubting of the exiſtence of the ſea-ſerpent. Its bulk is ſaid to be
+                    ſo disproportionate to all the known animals of our globe, that it requires more
+                    than ordinary evidence to render <hi rend="italic">it</hi> credible; but the
+                    evidence which is offered is ſo very feeble and unſatisfactory, that no man of
+                    ſound judgement would think it ſufficient to eſtabliſh the truth of an
+                    extraordinary fact.</p>
+                <p><hi rend="italic">SEA-Sickneſs,</hi> a diſorder incident to moſt perſons on their
+                    firſt going to ſea, occaſioned by the agitation of the veſſel. In voyages,
+                    ſea-ſickneſs, though it continues in general only for the firſt day or two, is
+                    extremely haraſſing to ſome people at intervals, eſpecially on any increaſed
+                    motion of the veſſel. Sometimes, by long continuance, it cauſes fever, headach,
+                    quick pulſe, thirſt, white tongue, and a total deprivation of the retention of
+                    the ſtomach; evils which are always difficult to remove, and frequently
+                    terminate only with the voyage.</p>
+                <p>This indiſpoſition is conſiderably alleviated by a ſmall tea ſpoonful of ether,
+                    taken now and then in a glaſs of water, and applying ſome of it to the temples
+                    and noſtrils. The ancient writers recommend acid fruits, bread and vegetables
+                    ſoaked in vinegar, after the ſtomach has been cleanſed by vomiting; but not to
+                    attempt to ſuppreſs the vomiting until that end was obtained. An old remedy for
+                    ſea-ſickneſs, and a very common one among ſailors, is a draught or two of ſea
+                    water; which, though, a diſguſting medicine at ſuch a time, yet where the firſt
+                    paſſages are foul and loaded, generally produces the deſired effect when the
+                    perturbation it occaſions ceaſes.</p>
+                <p><hi rend="italic smallcaps"> Sea-</hi>
+                    <hi rend="italic">Star.</hi> See <hi rend="smallcaps">AsterIas.</hi></p>
+                <p><hi rend="italic">SEA-Urchine.</hi> See <hi rend="smallcaps">Echinus.</hi></p>
+                <p><hi rend="italic smallcaps"> Sea-</hi>
+                    <hi rend="italic">Water,</hi> the ſalt water of the ſea. The principal ſalts
+                    contained in ſea-water are, 1ſt, Common marine or culinary ſalt, compounded of
+                    foſſil alkali or ſoda and marine acid; 2dly, A ſalt formed by the union of the
+                    ſame acid with magneſian earth; and, laſtly, A ſmall quantity of ſelenite. The
+                    quantity of ſaline matter contained in a pint of ſea-water, in the Britiſh ſeas,
+                    is, according to Neumann, about one ounce in each pint<note anchored="true"
+                        n="7" place="bottom" type="authorial"><p><hi rend="smallcaps">(a)</hi> In
+                            Sir Torbern Bergman’s analyſis of ſea-water taken up in the beginning of
+                            June 1776, about the latitude of the Canaries, from the depth of 60
+                            fathoms, the ſolid contents of a pint of the water were,</p>
+                        <p><table>
+                                <row>
+                                    <cell/>
+                                    <cell> Grs. </cell>
+                                    <cell/>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                                <row>
+                                    <cell> Of common ſalt </cell>
+                                    <cell> 253/ </cell>
+                                    <cell/>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                                <row>
+                                    <cell> Salited magneſia </cell>
+                                    <cell> 69/ </cell>
+                                    <cell> 3. </cell>
+                                    <cell> ϶ </cell>
+                                    <cell> Grs. </cell>
+                                </row>
+                                <row>
+                                    <cell> Gypſum </cell>
+                                    <cell> 8/ </cell>
+                                    <cell> or 5. </cell>
+                                    <cell> 1 </cell>
+                                    <cell> 10/ </cell>
+                                </row>
+                                <row>
+                                    <cell> Total </cell>
+                                    <cell> 330/ </cell>
+                                    <cell/>
+                                    <cell/>
+                                    <cell/>
+                                </row>
+                            </table></p></note>
+                    <hi rend="smallcaps">(a).</hi></p>
+                <p>The ſaltneſs of this water is judged to ariſe from great multitudes both of mines
+                    and mountains of ſalt diſperſed here and there in the depths of the ſea. Dr
+                    Halley ſuppoſes that it is probable the greateſt part of the ſea-ſalt, and of
+                    all ſalt lakes, as the Caſpian Sea, the Dead Sea, the Lake of Mexico, and the
+                        Titicaca<pb facs="gri_33125011196363_0201.tif" xml:id="eb03-17-s02-0195"/>
+                    in Peru, is derived from the water of the rivers which they receive; and ſince
+                    this ſort of lakes has no exit or diſcharge but by the exhalation of vapours,
+                    and alſo ſince theſe vapours are entirely freſh or devoid of ſuch particles, it
+                    is certain that the ſaltneſs of the ſea and of ſuch lakes muſt from time to time
+                    increaſe; and therefore the ſaltneſs at this time muſt be greater than at any
+                    time heretofore. He further adds, that if, by experiments made in different
+                    ages, we could find the different quantity of ſalt which the ſame quantity of
+                    water (taken up in the ſame place, and in all other the ſame circumſtances)
+                    would afford, it would be eaſy from thence, by rules of proportion, to find the
+                    age of the world very nearly, or the time wherein it has been acquiring its
+                    preſent ſaltneſs.</p>
+                <p>This opinion of Dr Halley is ſo improbable, that it is ſurpriſing ſo acute a
+                    philoſopher could have adopted it. That freſh water rivers ſhould in the courſe
+                    of many thouſand years produce ſaltneſs in the ſea, is quite incredible. If this
+                    were the caſe, every ſea or great body of water which receives rivers muſt be
+                    ſalt, and muſt poſſeſs a degree of ſaltneſs in proportion to the quantity of
+                    water which the rivers diſcharge. But ſo far is this from being true, that the
+                    Palus Meotis and the great lakes in America do not contain ſalt but freſh water.
+                    It may indeed be objected, that the quantity of ſalt which the rivers carry
+                    along with them and depoſit in the ſea, muſt depend on the nature of the ſoil
+                    through which they flow, which may in ſome places contain no ſalc at all: and
+                    this may be the reaſon why the great lakes in America and the Palus Meotis are
+                    freſh. But to this opinion, which is merely hypothetical, there are
+                    inſurmountable objections. It is a curious fact that the ſaltneſs of the ſea is
+                    greateſt under the line, and diminiſhes gradually as we advance to the poles: We
+                    muſt therefore ſuppoſe, if Dr Halley’s theory be true, that the earth contains
+                    more ſalt in the tropical regions than in the temperate zones, and more in the
+                    temperate zones than in the frigid; and conſequently that the rivers in theſe
+                    different regions contain a quantity of ſalt proportionable to their diſtance
+                    from the equator. This, however, muſt firſt be proved by experiment, and cannot
+                    be aſſumed as an eſtabliſhed fact. But there is another circumſtance that
+                    entirely deſtroys this theory. If we allow that the ſea receives its ſaltneſs
+                    from the rivers, it muſt be equally ſalt or nearly ſo in every part of the
+                    earth. For, according to a ſimple and well known principle in chemiſtry, <hi
+                        rend="italic">when any ſub</hi> ſt <hi rend="italic">ance is diſſolved in
+                        water with the aſſiſtance of agitation, at whatever part oſ the water it is
+                        introduced, it will be equally diffuſed through the whole liquid.</hi> Now
+                    though it were true that a greater quantity of ſalt were introduced into the ſea
+                    under the line than towards the poles, from the conſtant agitation occaſioned by
+                    the wind and tide, the ſalt muſt ſoon pervade the whole maſs of water. To ſay
+                    that the ſuperior degree of heat in the tropical regions may diſſolve a greater
+                    quantity of ſalt, will not deſtroy our argument; for it is an eſtabliſhed
+                    principle in chemiſtry, that cold water will diſſolve nearly as great a quantity
+                    of ſalt as hot water can diſſolve.</p>
+                <p>The ſaltneſs of the ſea has alſo been aſcribed to the ſolution of ſubterraneous
+                    mines of ſalt which is fuppoſed to abound in the bottom of the ſea and along its
+                    ſhores. But this hypotheſis cannot be ſupported.</p>
+                <p>If the ſea were conſtantly diſſolving ſalt, it would ſoon become ſaturated; for
+                    it cannot be ſaid that it is deprived of any part of its ſalt by evaporation,
+                    ſince rainwater is freſh. If the ſea were to become ſaturated, neither fiſhes
+                    nor vegetables could live in it. We muſt therefore deſpair of being able to
+                    account for the ſaltneſs of the ſea by ſecond cauſes; and muſt ſuppoſe that <hi
+                        rend="italic">it</hi> has been ſalt from the creation. It is impoſſible
+                    indeed to ſuppoſe that the waters of the ſea were at any period freſh ſince the
+                    formation of fiſhes and ſea-plants: for as theſe will not live in water
+                    ſaturated with ſalt, neither will they live in water that is freſh; we therefore
+                    conclude that the ſaltneſs of the ſea has been nearly the ſame in all ages. This
+                    is the ſimpleſt hypotheſis of the three that has been mentioned. It explains
+                    beſt the various phenomena, and is involved in feweſt difficulties. We ſhall,
+                    however, allow that there may be ſome exceptions; that the ſaltneſs of ſome
+                    ſeas, or of particular parts of the ſame ſea, may be increaſed by mines of
+                    rock-ſalt diſperſed near its ſhores.</p>
+                <p>With regard to the uſe of this ſalt property of ſea- water, it is obſerved, that
+                    the ſaltneſs of the ſea preſerves its waters pure and ſweet, which otherwiſe
+                    would corrupt and ſtink like a filthy lake, and conſequently that none of the
+                    myriads of creatures which now live therein could then have a being. From thence
+                    alſo the ſea-water becomes much heavier, and therefore ſhips of greater ſize and
+                    quantity may be uſed thereon. Saltwater alſo doth not freeze ſo ſoon as
+                    freſh-water, whence the ſeas are more free for navigation. We have a
+                    diſſertation, by Dr Ruſſel, concerning the medical uſes of ſea-water in diſeaſes
+                    of the glands, amp;c. wherein the author premiſes ſome obſervations upon the
+                    nature of ſea- water, conſidered as impregnated with particles of all the bodies
+                    it paſſes over, ſuch as ſubmarine plants, fiſh, ſalts, minerals, amp;c. and
+                    ſaturated with their ſeveral effluvia, to enrich it and keep it from
+                    putrefaction: whence this fluid is ſuppoſed to contract a ſoapineſs; and the
+                    whole collection, being pervaded by the ſulphureous ſteams paſſing through it,
+                    to conſtitute what we call <hi rend="italic">ſea-water;</hi> the confeſſed
+                    diſtinguiſhing characteriſtics of which are ſaltneſs, bitterneſs, nitroſity, and
+                    unctuoſity: whence the author concludes, that it may be juſtly expected to
+                    contribute ſignally to the improvement of phyſic. The caſes in which our author
+                    informs us we are to expect advantage from ſea-water are, 1. In all recent
+                    obſtructions of the glands of the inteſtines and meſentery. 2. All recent
+                    obſtructions of the pulmonary glands, and thoſe of the viſcera, which frequently
+                    produce conſumptions. 3. All recent glandular ſwellings of the neck, or other
+                    parts. 4. Recent tumors of the joints, if they are not ſuppurated, or become
+                    ſchirrous or cancerous, and have not carious bones for their cauſe. 5. Recent
+                    defluxions upon the glands of the eyelids. 6. All defoedations of the ſkin, from
+                    an eryſipelas to a lepra. 7. Diſeaſes of the glands of the noſe, with their
+                    uſual companion a thickneſs of the lip. 8. Obſtructions of the kidneys, where
+                    there is no inflammation, and the ſtone not large. 9. In recent obſtructions of
+                    the liver, this method will be proper, where it prevents conſtipations of the
+                    belly, and aſſiſts other medicines directed in icterical caſes. The ſame remedy
+                    is ſaid to be of ſignal ſervice in the bronchocele; and is likewiſe recommended
+                    for the prevention of<pb facs="gri_33125011196363_0202.tif"
+                        xml:id="eb03-17-s02-0196"/> thoſe bilious colics that ſo frequently affect
+                    our mariners.</p>
+                <p><hi rend="italic">Preſervation of SEA-Water from Putrefaction.</hi> As it is
+                    ſometimes neceſſary to preſerve ſea-water in caſks for bathing and other
+                    purpoſes, it is of importance to know how to keep it from putrefaction. Many
+                    experiments were made to determine this point by Mr Henry, and are recorded in
+                    the firſt volume of the Memoirs of the Literary and Philoſophical Society of
+                    Mancheſter. His firſt experiment we ſhall here preſent to our readers. "To one
+                    quart of ſea-water were added two ſcruples of freſh quicklime; to another, half
+                    an ounce of common culinary ſalt; and a third was kept as a ſtandard without any
+                    addition. The mouths of the bottles being looſely covered with paper, they were
+                    expoſed to the action of the ſun in ſome of the hotteſt weather in ſummer. In
+                    about a week the ſtandard became very offenſive; and the water, with the
+                    additional quantity of ſalt, did not continue ſweet many hours longer; whereas
+                    that with lime continued many months without ever exhibiting the leaſt marks of
+                    putridity.” When he added a dram more of quicklime, the whole of the magneſia
+                    contained in the water was ſeparated; and when a further addition was made, a
+                    lime-water was immediately formed. He therefore concluded, that two ſcruples of
+                    quicklime are ſufficient to preserve a quart of ſea-water. The proportions,
+                    however, may vary a little, according to the ſtrength of the quicklime
+                    employed.</p>
+                <p><hi rend="italic">Freſhening of SEA-Water.</hi> The method of making ſea-water
+                    freſh was long a deſideratum in navigation. Many methods have been propoſed for
+                    this purpoſe, Mr Appleby publiſhed an account of a proceſs which he had
+                    inſtituted in the year 1734. He diſtilled ſea-water Wſth a quantity of <hi
+                        rend="italic">lapis infernalis</hi> and calcined bones; but this proceſs was
+                    ſoon laid aſide, as it was not only difficult in itſelf, but rendered the water
+                    unpalatable. Dr Butler propoſed ſoapleys in place of Mr Appleby’s ingredients;
+                    but the water was ſtill liable to the ſame objection. Dr Stephen Hales
+                    recommended powdered chalk; but his method was expenſive, and did not improve
+                    the taſte of the water. Dr Lind of Portſmouth diſtilled ſea-water without any
+                    ingredients; but as the experiment he made was performed in a veſſel containing
+                    only two quarts, with a glaſs receiver in his ſtudy, nothing concluſive can be
+                    drawn from it for the uſe of ſailors. At length Dr Irving brought the proceſs to
+                    a very high degree of ſimplicity and perfection, by which the water is obtained
+                    pure, without much expence of fuel or a complicated apparatus. For this valuable
+                    diſcovery he received a reward of L.5000. The advantages of his method remain to
+                    be ſtated, which may be reduced to the following: 1.The aboliſhing all ſtills,
+                    ſtill-heads, worm-pipes, and their tubes, which occupy ſo much ſpace as to
+                    render them totally incompatible with the neceſſary buſineſs of the ſhip; and
+                    uſing in the room of theſe the ſhip’s kettle or boiler, to the top whereof may
+                    occaſionally be applied a ſimple tube, which can be eaſily made on board a
+                    veſſel at ſea, of iron plate, ſtove funnel, or tin ſheet; ſo that no ſituation
+                    can prevent a ſhip from being completely ſupplied with the means of diſtilling
+                    ſea-water. 2. In conſequence of the principles of diſtillation being fully
+                    aſcertained, the contrivanee of the ſimpleſt means</p>
+                <p>of obtaining the greateſt quantity of diſtilled water, by making the tube
+                    ſufficiently large to receive the whole column of vapour, and placing it nearly
+                    in a horizontal direction, to prevent any compreſſion of the fluid, which takes
+                    place ſo much with the common worm. 3. The adopting of the ſimpleſt and moſt
+                    efficacious means of condenſing vapour; for nothing more is required in the
+                    diſtillation but keeping the ſurface of the tube always wet, which is done by
+                    having ſome ſea-water at hand, and a perſon to dip a mop or ſwab into this
+                    water, and paſs it along the upper ſurface of the tube. By this operation the
+                    vapour contained in the tube will be entirely condenſed with the greateſt
+                    rapidity imaginable; for by the application of the wet mop thin ſheets of water
+                    are uniformly ſpread, and mechanically preſſed upon the ſurface of the hot tube;
+                    which being converted into vapour make way for a ſucceſſion of freſh ſheets; and
+                    thus, both by the evaporation and cloſe contact of the cold water conſtantly
+                    repeated, the heat is carried off more effectually than by any other method yet
+                    known. 4. The carrying on the diſtillation without any addition, a correct
+                    chemical analyſis of ſea-water having evinced the futility of mixing ingredients
+                    with it, either to prevent an acid from riſing with the vapour, or to deſtroy
+                    any bituminous oil ſuppoſed to exiſt in ſea-water, and to contaminate the
+                    diſtilled water, giving it that fiery unpalatable taſte inſeparable from the
+                    former proceſſes. 5. The aſcertaining the proper quantity of ſea water that
+                    ought to be diſtilled, whereby the freſh water is prevented from contracting a
+                    noxious impregnation of metallic ſalts, and the veſſel from being corroded and
+                    otherwiſe damaged by the ſalts caking on the bottom of it. 6. The producing a
+                    quantity of ſweet and wholeſome water, perfectly agreeable to the taſte, and
+                    ſufficient for all the purpoſes of ſhipping. 7. The taking advantage of the
+                    dreſſing the ſhip’s proviſions, ſo as to diſtil a very conſiderable quantity of
+                    water from the vapour, which would otherwiſe be loſt, without any addition of
+                    fuel. To ſum up the merits of this method in a few words: The uſe of a ſimple
+                    tube, of the moſt eaſy conſtruction, applicable to any ſhip’s kettle. The
+                    rejecting all ingredients; aſcertaining the proportion of water to be diſtilled,
+                    with every advantage of quality, ſaving of fuel, and preſervation of boilers.
+                    The obtaining freſh water, wholeſome, palatable, and in ſufficient quantities.
+                    Taking advantage of the vapour which aſcends in the kettle while the ſhip’s
+                    proviſions are boiling. All theſe advantages are obtained by the above-mentioned
+                    ſimple addition to the common ſhip’s kettles. But Dr Irving propoſes to
+                    introduce two ſurther improvements. The firſt is a hearth, or ſtove, ſo
+                    conſtructed that the fire which is kept up the whole day for the common
+                    buſineſs, of the ſhip ſerves likewiſe for diſtillation; whereby a ſufficient
+                    quantity of water for all the economical purpoſes of the ſhip may be obtained,
+                    with a very inconſiderable addition to the expence of fuel. The other
+                    improvement is that of ſubſtituting, even in the largeſt ſhips, caſt-iron
+                    boilers, of a new conſtruction, in the place of coppers.</p>
+                <p>As ſoon as ſea-water is put into the boiler, the tube is to be fitted either into
+                    the top or lid, round which, if neceſſary, a bit of wet linen may be applied, to
+                    make it fit cloſe to the mouth of the veſſel; there will be no oceaſion for
+                    luting, as the tube acts like a funnel in car-<pb
+                        facs="gri_33125011196363_0203.tif" xml:id="eb03-17-s02-0197"/> rying off the
+                    vapour. When the water begins to boil, the vapour ſhould be allowed to paſs
+                    freely for a minute, which will effectually clean the tube and upper part of the
+                    boiler. The tube is afterwards to be kept conſtantly wet, by paſſing a mop or
+                    ſwab, dipped in ſea water, along its upper ſurface. The waſte water running from
+                    the mop may be carried off by means of a board made like a ſpout, and placed
+                    beneath the tube. The diſtillation may be continued till three-fourths of the
+                    water be drawn off, and no further. This may be aſcertained either by a
+                    gauge-rod put into the boiler, or by meaſuring the water diſtilled. The brine is
+                    then to be let out. Water may be diſtilled in the ſame manner while the
+                    proviſions are boiling. When the tube is made on ſhore, the beſt ſubſtance for
+                    the purpoſe is thin copper well tinned, this being more durable in long voyages
+                    than tin-plates. Inſtead of mopping, the tube, if required, may have a caſe made
+                    alſo of copper, ſo much larger in diameter as to admit a thin ſheet of water to
+                    circulate between them by means of a ſpiral copper thread, with a pipe of an
+                    inch diameter at each end of the caſe; the lower for receiving cold water, and
+                    the upper for carrying it off when heated.</p>
+                <p>When only a very ſmall portion of room can be conveniently allowed for
+                    diſtillation, the machine (n⁰ 2.), which is only 27 inches long, may be
+                    ſubſtituted, as was done in this voyage. The principal intention of this
+                    machine, however, is to diſtil rum and other liquors; for which purpoſe it has
+                    been employed with extraordinary ſucceſs, in preventing an <hi rend="italic"
+                        >empyreuma,</hi> or ſiery taſte.</p>
+                <p>Figure I. repreſents in perſpective a ſection of the two boilers taken out of the
+                    frame. In the back part at D, E, are ſeen openings for the cocks. On the top is
+                    a diſtilling tube A, B, C, five inches diameter at A, and decreaſing in ſize to
+                    three inches at C; the length from B to C is five feet. Near C is a ring to
+                    prevent the water which is applied to the ſurface from mixing with the diſtilled
+                    water. In the inſide of the tube, below B, is a ſmall lip or ledging, to hinder
+                    the diſtilled water from returning into the boiler by the rolling qf the
+                    ſhip.</p>
+                <p>In figure 2. A, B, C, D, repreſent a vertical ſection of a copper box, 27 inches
+                    long, ſeven inches wide, and 11 in height, tinned on the inſide. In the bottom F
+                    is an aperture about ſix inches in diameter, having a ring to fit on the ſtill
+                    or boiler. The dotted lines which run nearly horizontal, are veſſels of thin
+                    copper, tinned on the outſide, two feet long, ſeven inches wide, and three
+                    quarters of an inch deep. At G is a funnel to receive cold water, which is
+                    conveyed into the veſſls by communicating pipes, contrived in ſuch a manner as
+                    to form a complete and quick circulation of the water through their whole
+                    extent. When the water is become hot by the action of the ſteam, it is
+                    diſcharged by the horizontal pipe at A. E is a pipe from which the diſtilled
+                    water or ſpirits run, and is bent in ſuch a form that the liquor running from it
+                    acts as a valve, and hinders any ſteam from eſcaping that way. On the top of the
+                    box, at H, is a ſafety- valve, which prevents any danger from a great
+                    accumulation of vapour not condenſed for want of a proper ſupply of cold
+                    water.</p>
+                <p>We ſhall now mention a different method, diſcovered by the Chevalier Lorgna, by
+                    congelation of ſea-water. Sea water requires a very great degree of cold in
+                    order to become ice, Our author found that a freezing mixture, made by mixing
+                    three parts of pounded ice with two parts of common ſalt, was quite ſuſſicient
+                    to freeze it. The cold produced by this mixture is equal to about 4⁰ below
+                    nought of Fahrenheit’s thermometer.</p>
+                <p>A quantity of ſea-water is never entirely congealed, a portion of it always
+                    remaining fluid; and, what is very remarkable, this fluid part is incomparably
+                    more full of ſalt and more nauſeous than the reſt: hence, if this be ſeparated
+                    from the congealed part, the latter on being melted will be found to contain
+                    much leſs ſalt than it did before congelation. This we ſhall call <hi
+                        rend="italic">the water of the first purification.</hi></p>
+                <p>If the water of the firſt purification be again congealed, a part of it will
+                    remain fluid as in the firſt operation. This fluid portion will contain a
+                    greater proportion of ſalt than the reſt, which is of courſe more pure, and,
+                    being melted, forms the water of the ſecond purification. Thus, by repeatedly
+                    freezing the ſame ſea-wa- ter, and ſeparating the fluid from the congealed part
+                    in every operation, it is at laſt perfectly purified, lo as to be entirely
+                    diveſted of ſalt, and as fit for drink and other purpoſes as the pureſt water
+                    that is uſed.</p>
+                <p>At firſt the ſea-water, in order to be congealed, requires a very great degree of
+                    cold, as mentioned above, the ice formed in it conſiſts rather of ſcales or
+                    filaments than of a compact body, and the quantity of the fluid parts bears a
+                    conſiderable proportion to the quantity of ice. But as the water, by undergoing
+                    the ſucceſſive congelations, becomes more and more pure, ſo it becomes capable
+                    of being congealed by a ſmaller and ſmaller degree of cold; the ice is at the
+                    ſame time more compact, and in greater quantity; the fluid part at lall becoming
+                    very inconſiderable.</p>
+                <p><hi rend="italic">SEA-Weed,</hi> or <hi rend="italic">Alga Marina,</hi> is
+                    commonly uſed as a manure on the ſea-coaſt, where it can be procured in
+                    abundance. The beſt fort grows on rocks, and is that from which kelp is made.
+                    The next to this is called the <hi rend="italic">peaſy sea-weed:</hi> and the
+                    worſt is that with a long ſtalk. In the neighbourhood of Berwick, the farmers
+                    mix it with liable-dung and earth, and thus obtain a great quantity of excellent
+                    manure. Sea-weed is found alſo to be a very fit manure for gardens, as it not
+                    only enriches them, but deſtroys the vermin by which they are uſually
+                    infeſted.</p>
+                <p><hi rend="italic">SEA-Wolf</hi> See <hi rend="smallcaps">ANλrrhicAs.</hi></p>
+                <p><hi rend="italic">Saltneſs oſ the</hi>
+                    <hi rend="italic smallcaps"> Sea.</hi> See <hi rend="italic">SEA-Water.</hi></p>
+                <p><hi rend="italic">South</hi>
+                    <hi rend="italic smallcaps"> Sea.</hi> See <hi rend="italic smallcaps">
+                        Pacific</hi>
+                    <hi rend="italic">Ocean,</hi> and <hi rend="italic">SoUTH Sea.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

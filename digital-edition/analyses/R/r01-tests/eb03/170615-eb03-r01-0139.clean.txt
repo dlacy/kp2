@@ -1,0 +1,66 @@
+scrtation (in the 
+8th volume of 
+the 
+Com. Petropol.} 
+on the action and resistance of fluids, limited to a very particular case; namely, to the impulse of a vein of fluid falling perpendicularly on an infinitely extended plane sursace. This he demonstrates to be equal to the weight of 
+a 
+column of the fluid whose base is the area of the vein, and whose height is twice the fall producing the veloclty. Tins demonstration ls drawn front the true principles of mechanics and the acknowledged laws of hydraulics, and may be received as a strict physical demonstration. As it is the only proposition in the whole theory that has as yet received a demonstration accessible to readers not versant in all the refinement of modern analysis; and as the principles on which it pro ceeds will undoubtedly lead to a solution of every pro blem which can be proposed, once that our mathematical knowledge shall enable us to apply them — we think it our duty to give it in this place, although we must acknowledge, that this problem is so very limited, that, it will hardly bear an applicatian to any cafe that differs 
+but a little from the express conditions of the pro blem. 1 here do occur cases however in practice, where it may be applied to very great advantage. 
+Daniel Bernoulii gives two demonstrations; one of which may be called a popular one, and the other is more scientilic and introductory to further investiefation. we shall give both. 
+Bernoulli sirst determines the whole action exerted m the efflux of the vem of fluld. suppose the velocity of esssux 
+V 
+is that which would be acquired by falling through the height. />. is well known that a body moving during the time of this fall with the velocity 
+V 
+would describe a space 2 
+h. 
+The effect, therefore, of the hydraulic action is, that in the time 
+t 
+of the fall 
+t, 
+there issues a cylinder or prism of water whose base is the cross section y or area of the vein, and whose length is 2 A And this quantity of matter ls now moving with the velocity 
+V 
+The quantity of motion, therefore, which is thus produced is 
+2 s hv; 
+and this quantity of motion is produced in the time Λ And this is the ac cumulated effect of all the expelling forces, estimated in the diiection of the efflux. Now, to compare this with tne exertion of some pressing power with which we. are familiarly acquainted, let us suppose this pillar 2 
+s h 
+to be frozen, and, being held in the hand, to be dropped. It is well known, that in the time 
+t 
+st will fall through the height 
+h, 
+and will acquire the velocity 
+V 
+and now poffesses the quantity of motion 
+2 s h ν_ 
+and all this is the effect of its weight. The weight, thdefore, of the psllar 
+sh 
+produces the same effect, and in the same tune, and (as may easily be seen j m the same .gladual manner, with the expelling forces of the fluid in the vessel, which expelling forces arise from the Jneffure of all the fluld in the vessel. Therefore the accumulated hydraulic pressure, by which a vein of a heavy fluid is forced out through an orisice in the bottom or side of a vessel, is equal (when estimated in thedirec lion of the efflux) to the weight of a column of the fluid, having for its base the section of the vein, and twlce the fall productive of the velocity of efflux for its height. 
+Now set ABDC (sig. 
+II 
+be a quadrangular vessel with uplight plane sides, in one of which is an orisice EF. From every point of the circumference of this 
+orifice, suppose horizontal lines Eff, c. which will mark a similar surface on the opposite side of the vessel. suppose the orisice EF to be shut. There can be no doubt but that the surfaces EF and 
+ef 
+will be equally pressed m opposite directions. Now open the orisice EF; the water will rush out, and the pressure on EF is now removed. There will therefore be a tendency in the vessel to move back in the direction E 
+e. 
+And this tendency mnst be precisely equal and opposite to the whole effort of the expelling forces. This is a conclusion as evldent as any proposition in mechanics. It is thus that a gun recoils and a rocket rises in the air; and on this ls founded the operation of Mr Parents or Dr barker’s mill, described in all treatises of mechanics, and most learnedly treated by Euler in the Berlin Memoirs. 
+Now, let this stream of water be received on a circular plane MN, perpendicular to its axis, and let this cmcular plane be of such extent, that the vein eseapes from lts sides in an infinitely thin sheet, the water flowing off in a direction parallel to the plane. The vein by this means will expand into a trumpet like shape, having curved sides, EKG, FLH. we abstract at pre sent the action of gravity which would cause the vein to bend downwards, and occasion a greater velocity at II than at G; and we suppose the velocity equal in every point of the circumference. It is plain, that if the astlon of gravity be neglected after the water has 
+lffued 
+through the orisice EF, the velocity in every point of the circumference of the plane MN will be that of the efflux through EF. 
+Now, because EKG is the natural shape assumed by the vein, it is plain, that if the whole vein were covered by a tube or mouthpiece, fitted to its shape, and perfectly polished, so that the water shall glide along lt, without any friction (a thing which we may always suppose), the water will exert no pressure whatever on this trumpet mouthpiece. Lastly, let us suppose that the plane MN ls attached to the mouthpiece by some blts of wire, so as to allow the water to escape all round · by the narrow chink between the mouthpiece and the plane : 
+W 
+e have now a vessel consisting of the upright 
+ssab, DC ’ the tr .um Pet GKEFLH, and the plane MN; and the water is eseapmg from every point of the cmcumference of the chink GHNM with the velocity 
+V 
+If any part of this chink were shut up, there would be a pressure on that part equivalent to the force of efflux from the opposite pari. Therefore, when all is open, thete efforts of efflux balance each other all round. 
+1 here is not therefore any tendency in this compound vessel to move to any side.. But take away the plane MN, and there would immediately arise a pressure in the direction E 
+e 
+equal to the weight of the column 
+2 J /?. This is therefore balanced by the pressure on the cmcular plane MN, which is therefore equal to this weight, and the proposition is demonstrated. * 
+A number of experiments were made by Prosessor Kraft at st Petershurg, by receiving the vein on a plane 
+MN 
+(hg. 
+II 
+which was fastened to the arm of a balance opqu having a seal R hanging on the opposite arm. I he resistance or pressure on the plane was measured by weights put into the seal R; and the velocity of the 
+jet 
+was measured by means of the distance KR, to which it spouted on 
+a 
+horizontal plane. 

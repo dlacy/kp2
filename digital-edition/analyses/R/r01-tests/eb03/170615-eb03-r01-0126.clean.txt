@@ -1,0 +1,58 @@
+circle , whose plane is perpendicular 
+to 
+the stream. If B.C. (fig. I.) be a plane surface exposed to the action of a stream of fluid, moving in thc direction DC, then BR, or se, perpendicular to DC, is its base. 
+Direct impulse 
+shall express the energy or action of the particle or filament, or stream of fluid, when meeting the sursace perpendicularly, or when the surface is perpendicular to the direction of the stream. 
+Absolute impulse 
+means the actual pressure on the im pelled sursace, arising from the action of the fluid, whe fher striking the surface perpendicularly or obliquely; or it is the force impreffcd on the sursace, or tendency to motion which it acquires, and which mull be opposed by an equal force in the opposite direction, in order that the surface may be maintained in its place. It is of im portance to keep in mind, that this pressure is always perpendicular to the surface. It is a proposition found ed on universal and uncontradicted experience, that the mutual actions of bodies on each other are always exerted in a direction perpendicular to the touching sur faces. Thus, it is observed, that when a billiard ball A is struck by another B, moving in any direction whatever the ball 
+A 
+always moves off in the direction perpendicular to the plane which touches the two balls in the point of mutual contact, or point of impulse. This inductive proposition is supported by every argument which can be drawn from what we know concerning the forces which connect the particles of matter together, and are the immediate causes of the communication of motion. It would employ much time and room to state them here; and we apprehend that it is unnecessary: : no reason can be assigned why the pressure should be in 
+any particular 
+oblique direction. If any one should say that the impulse will be in the direction of the stream, we have only to desire him to take notice of the effect of the rudder of a ship. This shows that the impulse 
+is not in the direction of the fir earn, 
+and is therefore in some direction transverse to the stream. — He will also sind, that when a plane surface is impelled obliquely by a fluid, there is no direction in which it can be supported but the direction perpendicular to itself. It is quite safe, in the mean time, to take it as an experimental truth, we may, perhaps, in some other part of this work, give what will be received as a rigorous demonssration. 
+Relative or effective impulse 
+means the pressure on the surface estiinated in some particular direction. Thus B.C. (sig. i.) may represent the sail of a ship, impelled by the wind blowing in the direction DC. GO may be the direction of the ship’s keel, or the line of her course. The wind strikes the sail in the direction GH parallel to DC; the sail is urged or pressed in the di rection GI, perpendicular to B.C.. But we are interested to know what tendency this will give the ship to move in the direction GO. This is the effective or relative impulse. Or B.C. may be the transverse section of the sail of a common wind mill. This, by the construction of the machine, can move only in the direction GP, perpendicular to the direction of the wind; and it is only in this direction that the impulse produces the desired effect. Or B.C. may be half of the prow of a punt or lighter, riding at anchor by means of the cable ' DC, attached to the prow C In this case, gqu, pa rallel to DC, is that part of the absolute impulse which 
+is 
+employed in straining 
+the cable. 
+The 
+angle of incidence 
+is the angle F gfc contained between the direction of the stream FG and the plane B.C.. 
+The 
+angle of obliquity 
+is the angle OGC contained between the plane and the direction GO, in which we wish to estimate the impulse. 
+Prop. II The direct impulse of a fluid on a plane surface, is to its absolute oblique impulse on the same surface, as the square of the radius to the square of the line of the angle of incidence. 
+Let a stream of fluid, moving in the direction DC, 
+(fig. 1.), act on the plane B.C.. with the radius CB describe the quadrant ABE; draw CA perpendicular to CE, and draw MN Bs parallel to CE. Let t, he particle E, moving in the direction FG, meet the plane in G, and in F G produced take GH to represent the magnitude of the direct impulse, or the impulse which the particle would exert on the plane AC, by meeting it in 
+V 
+Draw GI and HR perpendicular to B.C., and HI perpendicular to G I. Also draw BR perpendicu lar to DC. 
+The force GH is equivalent to the two forces G 
+I 
+and GK; and GK being in the direction of the plane has no share in the impulse. The absolute impulse, therefore, is represented by GI; the angle GHI is equal to FGC, the angle of incidence; and therefore GH is to GI as radius - to the fine of the angle of incidence : Therefore the direct impulse of each particle or filament is to its absolute ob lique impulse as radius to the sine of the angle of inci dence. But further, the number of particles or filaments which strike the surface AC, is to the number of those which strike the sursace B C as A C to NC : for all the filaments between LA and MB go past the ob lique surface B.C. without striking it. But B.C. : NC rad. : sin. NBC, = rad. : sin. FGC, = rad. : sin. incidence. Now the whole impulse is as the impulse of each filament, and as the number of filaments exerting equal impulses jointly; therefore the whole direct im pulse on AC is to the whole absolute impulse on B.C., as the square of radius to the square of the sine of the angle of incidence. 
+Let s express the extent of the surface, 
+i 
+the angle of incidence, 
+o 
+the angle of obliquity, 
+V 
+the velocity of the fluid, and 
+d 
+its density. Let F represent the direct impulse, 
+s 
+the absolute oblique impulse, and 
+φ 
+the relative or effective impulse : And let the tabular lines and cosines be considered as decimal fractions of the radius unity. 
+This proposition gives us F : /= Rz : sin.’ 
+i, = 
+i : 
+sin.’ 
+i, 
+and thereforefx sin.’ 
+i. 
+Also, because impulses are in the proportion of the extent of surface similarly impelled, we have, in general, /= F s X sin?, 
+i. 
+The sirst who published this theorem was Pardies, in his 
+Oeuvres de Mathématique, 
+in 1673. we., know that Newton had invessigated the chief propositions of the Principia before 1670. 
+Prop. III The direct impulse on any surface is to the effective oblique impulse on the same fursace, as the cube of radius to the solid, which has for its base the square of the sine of incidence, and the fine of obliquity for its height. 

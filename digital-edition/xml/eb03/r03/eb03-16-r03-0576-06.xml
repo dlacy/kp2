@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0576-06"
+                facs="gri_33125011196389_0582.tif" type="entry">
+
+              <p>               <label><hi rend="smallcaps"> Book of</hi> RUTH</label>, a canonical book of the
+                    Old Te-ſtament ; being a kind of appendix to the book of Judges, and an
+                    introduction to thoſe σf Samuel; and having its title from the perſon whoſe
+                    ſtory is here principally related. In this ſtory are obſervable the ancient
+                    rights of kindred and redemption ; and the manner of buying the inheritance of
+                    the deceaſed, with other particulars of great note and antiquity. The
+                    ca-nonicalneſs of this book was never diſputed ; but the learned are not agreed
+                    about the epocha of the hiſtory it relates. Ruth the Moabiteſs is found in the
+                    genealogy of our Saviour. Matth, i. 5.</p>            </div>
+        </body>
+    </text>
+</TEI>

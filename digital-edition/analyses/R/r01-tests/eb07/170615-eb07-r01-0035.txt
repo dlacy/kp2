@@ -1,0 +1,83 @@
+There is still a difference of opinion amongst engineers whether the rail should be inclined or not. The gain and loss may be thus stated. The advantages consist principally in preventing so much wear both on the tire of the wheel and the rail, but chiefly the former, for when the rail is upright, the wheel, theoretically speaking, is only in contact with it on a line having hardly any breadth This is found to wear away the wheel very fast, and the rail likewise suffers a loss on the side where the contact takes place ; besides which, the wear approximates the tire of tile wheel more and more to the shape of a cylinder instead of a cone ; and the rail also partially adapts itself to this action, in each case, through the abrasion of tile working lines. In addition to the increase in repairs, through these causes, the wear is to a certain extent unequal, and an irregularity is produced which consequently leads to an unsatisfactory performance between the engine and the rails. But this is avoided by inclining the rail so that it receives the wheel on nearly the whole of its bearing surface ; and 3-8ths of an inch in 11 inches is the inclination of the blocks on the London and Birmingham railway.
+The disadvantage consists mainly in this, that if the wheels do bear on the whole of the surface, say two inches, there must be a constant rubbing action going on, arising from tile unequal velocities with which the outer and inner tire of coned wheels revolve, and this will of course be equivalent to dragging the whole train for a certain distance with every one of the wheels locked. Let us see what this dragging will amount to.
+Let
+d
+be the greater diameter of the coned wheel, and
+d'
+its lesser, each in inches ; taking the bearing surface at two inches, and supposing that in this breadth the two diameters differ half an inch, both which suppositions are in excess, we then have
+3,141593, or (</_
+<f, ).
+1,570796
+4M
+for the rubbing at a mean in each revolution of the wheel, and the length of this revolution will be
+⅛≤. 3,141593, or (d+tf). 1,570796.
+If we take rf=60¼ inches, and <Z=59¾ inches we get
+(d—d') .
+1∙570796=,5 . 1∙570796=∙785398 inches, which is the quantity of dragging for each revolution, the length of which will be (rf+d, ). 1∙570796 = 120.1∙570796 = l88∙49552 inches, we then have this proportion,
+Yards.    Inches.    YaMs. Inches.
+5,235986 : 785398 = 1760 : 264 Hence, the dragging of the whole train will be 264 inches per mile, or 733 yards in 100 miles for each wheel. This, at first sight,appearsconsιderable,butinpracticeitwill be much less. The data have been taken large to shew the limit of this action, and the whole bearing surface is not practically in contact with the tire of the wheel, arising from the various imperfections inseparable from the manufacture of both wheels and rails, particularly the latter, although it must be allowed that the better they are made, the more dragging will take place ; and likewise the more the surfaces come into contact, the greater will be the effect of shocks from bad joints and other imperfections. Still our opinion tends to inclining the rail.
+It appears absolutely necessary in railroad engines and carriages, that the wheels should be keyed to the axles, the wheel and axles both turning round together ; several attempts have been tried to introduce fixed axles, but although the greatest care has been taken in the manufacture, both in boring the hole in the nave, and turning the axle, yet a lateral shaking has always been found to take place, throwing the carriages off the rail on very moderate curves.
+The quantity of inclination which the cone of the wheels should have, will, strictly speaking, depend on the radius of the curve. But, as half an inch on 3½ in width, or l-7th of the width is found to be practically advantageous, in keeping the flanges of the wheels from rubbing against the rails in straight lines ; and, as by raising the outer rail, tile effect of gravity may at any given velocity be made to neutralize the centrifugal force, that inclination of the tire of the wheel may be adopted, except in very extraordinary cases. With this slope, and a wheel of three feet in diameter running on a line of rails 4 feet 8½ inches in width, with a play of one inch, Mr. Pambour gives the following table of the elevation necessary in the outside rail :
+Radus of the curve in feet.
+Surplus elevation of the outside rail.
+At 10 miles an hour.
+At 20 miles an hour.
+At SO miles an ho ur.
+250
+Inches.
+1∙14
+Inches.
+5∙60
+Inches.
+12∙99
+500
+0∙57
+2∙83
+6∙56
+1000
+0∙29
+1∙43
+3∙30
+2000
+0∙15
+0∙71
+1∙65
+3000
+0∙10
+0∙47
+1-10
+4000
+0∙07
+0∙36
+0∙83
+5000
+0∙06
+0∙28
+0∙66
+To enable this calculation to be made for any other inclination, or suitable curves to be made where the inclination is determined, we shall explain the method of investigating the subject.
+The resistance on curves is of two kinds, one from the carriage having to turn on the rail without any corresponding play on the axle, thus producing a dragging of the wheel, which takes place on that which is going over the inner part of the curve; and, secondly, that which arises from the centrifugal force, and which causes a friction to take place between the flange of the wheel and the rail. To correct these, the inclination of the coned wheel, the radius of the curve, the velocity and the elevation of one side of the line of rails, must have definite relations, and the wheels must have sufficient play between the two rails to admit the centrifugal force without being able to induce the second resistance, yet under given conditions to correct the first.
+To arrive at this result, whilst the outside wheel of the carriage describes the arc
+mm, ,
+(fig. 22.) the inside one must describe the arc
+nn’
+terminating at the same radius ; the working circumference of the wheels must therefore be represented by these arcs, and putting
+D=diameter of the outside wheel,
+D'=diametcr of the inside wheel,
+w=the ratio of the circumference to the diameter, we have wwn, =ιrD
+WW'=5γD',
+Also, as the two arcs are terminated by tile same radii, .we have
+mm'_mo
+nn' no’
+and if we puttheradiusof curvature
+(os)=r and the half breadth of the
+road=c, the above proportion will
+become
+mm'
+f+βj
+nn'    r—e
+D r + e
+θ'"    D'~
+iC∑e'
+and D—D'=D(1-~) = —> r + e∕    
+r + c
+which gives the difference necessary in the diameters of the

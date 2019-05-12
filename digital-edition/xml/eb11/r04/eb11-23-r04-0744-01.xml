@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0744-01"
+                facs="encyclopaediabri23chisrich_0797.jp2" type="entry">
+
+                <p><label>ROSSE, EARL OF</label> a title borne by the Irish family of Parsons. James
+                    Parsons, a native of Leicestershire, who flourished in the x6th century, was the
+                    father of Sir William Parsons (r. 1570-1650), one of the lords justices of
+                    Ireland. Having crossed to Ireland in early life, William Parsons became
+                    surveyor-general in 1602 and obtained land in various parts of the country. In
+                    1620 he was made a baronet; in 1643 he was deprived of his office as lord
+                    justice, and he died early in 1650. His great-grandson, Sir Richard Parsons,
+                    bart. (c. 1657-1703), was created Baron Oxmantown and Viscount Rosse in 1681,
+                    and Richard’s son and successor, Richard (d. 1741), was made earl of Rosse in
+                    1718. The titles became extinct when Richard, the 2nd earl, died in August 1764,</p>
+               <p>Sir William Parsons had two brothers, Sir Lawrence and Sir Fenton Parsons. Sir
+                    Lawrence, second baron of the Irish exchequer, left a son, William (d. 1653),
+                    who defended Birr Castle, King’s County, for over a year against the Irish
+                    during</p>
+                <pb xml:id="eb11-23-r04-0745" facs="encyclopaediabri23chisrich_0798.jp2"/>
+               <p>the rebellion of 1641, and whose son, Sir Lawrence Parsons (d. 1698), was made a
+                    baronet in 1677. This Sir Lawrence was a strong Protestant, and was found guilty
+                    of high treason, being attainted and sentenced to death during the brief period
+                    of James II.’s ascendancy in Ireland. He was not executed, however, and
+                    afterwards he took some part in the struggle against the supporters of James II.
+                    His descendant, Lawrence Harman Parsons (1749-1807), was created Baron Oxmantown
+                    in 1792, Viscount Oxmantown in 1795, and earl of Rosse in 1806. He died on the
+                    20th of April 1807, and was succeeded by his nephew Lawrence.</p>
+               <p>Lawrence Parsons, 2nd earl of Rosse (1758-1841), the eldest son of Sir William
+                    Parsons, bart. (d. 1791), of Birr Castle, was born on the 21st of May 1758.
+                    Educated at Trinity College, Dublin, he entered the Irish parliament as member
+                    for the university in 1782, and soon came to the front in debate. A friend and
+                    follower of Henry Flood, he has been described as “ one of the very, very few
+                    honest men in the Irish House of Commons.” He favoured some measure of relief to
+                    Roman Catholics and also parliamentary reform, a speech which he delivered on
+                    this question in 1793 being described by W. E. H. Lecky as <hi rend="sup">0</hi>
+                    exceedingly valuable to students of Irish history”; but he disliked and opposed
+                    the union of the parliaments of Great Britain and Ireland. After this event,
+                    however, he represented King’s County in the united parliament until 1807, and
+                    he was a representative peer for Ireland from 1809 to 1841. He died at Brighton
+                    on the 24th of February 1841. Rosse wrote <hi rend="italic">Observations on the
+                        Bequest of Henry Flood to Trinity College, Dublin, with a Defence of the
+                        Ancient History of Ireland</hi> (Dublin, 1795). His eldest son was the
+                    astronomer William Parsons, 3rd earl of Rosse (see below).</p>
+ 
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+six French feet with this uniform motion was very carefully noted. The resistance was measured by the lveight employed, after deducting a certain quantity (properly estimated) for friction, and for the accumulation of the water against the anterior surface. The results of the numerous experiments are given in the following table ; where column I. contains the angle of the prow, column II. contains the resistance as given by the preceding theory, column III. contains the resistance exhibited in the experiments, and column IV. contains the deviation of the experiment from the theory.
+I.
+II.
+III.
+IV.
+180°
+10000
+10000
+0
+168
+9890
+9893
++3
+156
+9568
+9578
++ 10
+144
+9045
+9084
++39
+132
+8346
+8446
++ 100
+120
+7500
+7710
++210
+108
+6545
+6925
++380
+96
+5523
+6148
++625
+84
+4478
+5433
++955
+72
+3455
+4800
++ 1345
+60
+2500
+4404
++ 1904
+48
+1654
+4240
++2586
+36
+955
+4142
++3187
+24
+432
+4063
++3631
+12
+109
+3999
++3890
+The resistance to one square foot, French measure, moving with the velocity of 2∙56 feet per second, was very nearly 7∙625 pounds French.
+Reducing these to English measures, we have the surface = 1∙1360 feet, the velocity of the motion equal to 2∙7284 feet per second, and the resistance equal to 8∙234 pounds avoirdupois. The weight of a column of fresh water of this base, and having for its height the fall necessary for communicating this velocity, is 8∙264 pounds avoirdupois. The resistances to other velocities were accurately proportional to the squares of the velocities.
+There is great diversity in the value which different authors have deduced for the absolute resistance of water from their experiments. In the value now given nothing is taken into account but the inertia of the water. The accumulation against the fore-part of the box was carefully noted, and the statical pressure backwards, arising from this cause, was subtracted from the whole resistance to the drag. There had not been a sufficient variety of experiments for discovering the share which tenacity and friction produced ; so that the number of pounds set down here may be considered as somewhat superior to the mere effects of the inertia of the water. We think, upon the whole, that it is the most accurate determination yet given of thc resistance to a body in motion ; but we shall afterwards see reason for believing that the impulse of a running stream having the same velocity is somewhat greater ; and this is the form in which most of the experiments have been made.
+It is to be observed, also, that the resistance here given is that to a vessel two feet broad and deep, and four feet long. The resistance to a plane two feet broad and deep would probably have exceeded this in the proportion of 15∙22 to 14∙54, for reasons which we shall see afterwards.
+From the experiments of Du Buat, it appears that a body of one foot square, French measure, and two feet long, having its centre fifteen inches under water, moving three French feet per second, sustained a pressure of 14∙54 French pounds, or 15∙63 English. This, reduced in the proportion of 3’ to (2∙56)2 , gives 11∙43 pounds, considerably exceeding the 8∙234 mentioned above.
+Bouguer, in his
+Manœuvre des Vaisseaux,
+says that he found the resistance of sea-water to a velocity of one foot to be twenty-thrce ounces
+poids des marc.
+Borda found the resistance of sea-water to the face of a cubic foot, moving against the water one foot per second, to be twenty-one ounces nearly. But in this experiment the wave was not deducted.
+Don George d’Ulloa found the impulse of a stream ot sea-water, running two feet per second, on a foot square, to be 15¼ English pounds. This greatly exceeds all the values given by others.
+From these experiments we learn, in the first place, that the direct resistance to the motion of a plane surface through water, is very nearly equal to the weight of a column of water having that surface for its base, and for its height the fall producing the velocity of the motion. This is but one half of the resistance determined by the preceding theory. It agrees, however, very well with the best experiments made by Otherphilosopherson bodies totally immersed or surrounded by the fluid; and sufficiently shows that there must be some fallacy in the principles or reasoning by which this result of the theory is supposed to be deduced.
+But we see that the effects of the obliquity of incidence deviate enormously from the theory, and that this deviation increases rapidly as the acuteness of the prow increases. In the prow of 60° the deviation is nearly equal to the whole resistance pointed out by the theory, and in the prow of 12° it is nearly forty times greater than the theoretical resistance.
+The resistance of the prow of 90° should be one half the resistance of the base. We have not such a prow ; but the medium between the resistance of the prow of 96 and 84 is 5790 instead of 5000.
+These experiments agree with those of other authors on plane surfaces. Mr Robins found that the resistance of the air to a pyramid of 45°, with its apex foremost, was to that of its base as 1000 to 1411, instead of one to two. Borda found that the resistance of a cube, moving in water in the direction of the side, was to the oblique resistance, when it was moved in the direction of the diagonal, in the proportion of 5¼ to 7 ; whereas it should have been that of ⅛Z2 to 1, or of 10 to 7 nearly. He also found that a wedge whose angle was 90°, moving in air, gave for the proportion of the resistances of the edge and base 7281 : 10,000, instead of 5000 : 10,000. Also, when the angle of the wedge was 60°, the resistances of the edge and base were 52 and 100, instead of 25 and 100.
+In short, in all the cases of oblique plane surfaces, the resistances are greater than those which were assigned by the theory. The theoretical law agrees tolerably with observation in large angles of incidence, that is, in incidences not differing very far from the perpendicular; but in more acute prows the resistances are more nearly proportional to the sines of incidence than to their squares.
+The French academicians deduced from these experiments an expression of the general value of the resistance, which corresponds tolerably well with observation. Thus let
+x
+be the complement of the half angle of the prow, and let P be the direct pressure or resistance, with an incidence of 90°, and
+p
+the effective oblique pressure : then
+f X
+q
+∖
+^’25
+p =
+P × cosine’
+x
++ 3T53 ( — 1    . This gives for a prow
+of 12° an error in defect equal to about -r J σ , and in larger angles it is much nearer the truth ; and this is exact enough for any practice.
+This is an abundantly simple formula ; but if we introduce it in our calculations of the resistances Ofcurvilineal prows, it renders them so complicated as to be almost useless ; and what is worse, when the calculation is completed for a curvilineal prow, the resistance which results is found to differ widely from experiment. This shows that the motion of the fluid is so modified by the action of die most prominent part of the prow, that its impulse on what succeeds is greatly affected, so that we are not allowed to

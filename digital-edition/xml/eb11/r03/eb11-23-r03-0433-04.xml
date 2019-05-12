@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0433-04"
+                facs="encyclopaediabri23chisrich_0466.jp2" type="entry">
+
+                <p><label>ROCKET</label>. (1) The name (Fr. <hi rend="italic">roquette,</hi> Lat.
+                        <hi rend="italic">eruca,</hi> a kind of cabbage) of two species of plants.
+                    The one, <hi rend="italic">Eruca saliva,</hi> is a cruciferous annual with white
+                    flowers veined with purple; the leaves have a sharp flavour and are used in
+                    southern Europe for salads. The other is a hardy perennial herbaceous plant, of
+                    the genus <hi rend="italic">Hesperis <hi rend="sub">1</hi></hi> of which <hi rend="italic">Hesperis matronalis</hi> is the most familiar
+                    species (see <hi rend="smallcaps">Horticulture).</hi>
+               </p>
+               <p>(2) A cylinder of paper, pasteboard or metal, filled with an explosive mixture.
+                    This word, which appears in many forms in various languages, is from the It. <hi
+                        rend="italic">rocchetta,</hi> diminutive of <hi rend="italic">rocca,</hi> a
+                    distaff, the obsolete English “ rock the application</p>
+                <pb xml:id="eb11-23-r03-0434" facs="encyclopaediabri23chisrich_0467.jp2"/>
+               <p>is due to a resemblance in shape. Rockets are used in pyrotechny for purpose of
+                    display, scattering showers of stars, coloured balls, &amp;c., on bursting
+                    (see <hi rend="smallcaps">Fireworks).</hi> They are also used in signalling, and
+                    especially as a part of lifesaving apparatus for wrecks (see <hi
+                        rend="smallcaps">Lifeboat</hi> and <hi rend="smallcaps">Life-Saving
+                        Service).</hi>
+               </p>
+               <p>Large and heavy rockets, of which the head formed a projectile, had too a
+                    considerable vogue in the early part of the 19th century for war purposes. They
+                    were invented by Sir William Congreve <hi rend="italic">(q.v.)</hi> and employed
+                    by him both afloat in coast operations and in field operations. Brought to the
+                    notice of all armies by the fact that a rocket battery of the Royal Artillery
+                    served in the allied army in the Leipzig campaign, war rockets were introduced
+                    in many armies, being sometimes issued as an additional portion of the equipment
+                    of ordinary field batteries, sometimes reserved for special rocket batteries.
+                    The Congreve rocket was in use in the British army as late as i860. There were
+                    four natures— 3-pounder, 6-pounder, 12-pounder and 24-pounder. The case was of
+                    sheet-iron, on to which was screwed a cylindro-conoidal head forming the
+                    projectile. The head was made hollow and could be filled with a bursting charge
+                    if a shell effect was desired, a base fuze being provided. The iron case
+                    contained the rocket composition, and was closed at the
+                    rear end by a metal plate with five holes or vents, and on the centre a bush
+                    into which the stick was screwed. These rockets were fired from rocket tubes on
+                    tripods, the tubes being provided with a tangent sight. Against masses of troops
+                    within easy range, the war rocket was considered an efficient engine; it was
+                    used also to set fire to buildings, but was always deficient in accuracy.
+                    Eventually the Congreve rocket was superseded by the Hale, of which two patterns
+                    were in use, the 9-pounder and the 24-pounder, for field and fortress warfare
+                    respectively. These had no sticks, and were centred by the arrangement of the
+                    vent, the gases, as they emerged from the vent, impinging upon a screw-formed
+                    tail, to which they imparted the necessary rotation. These rockets were fired
+                    from a trough. The maximum effective range of the 9-pounder Hale rocket was
+                    about 1200 yards. The use of these engines was discontinued in the British
+                    service about 1885. On the continent of Europe they had disappeared more than
+                    twenty years before. Austria, the last power to use them, broke up her rocket
+                    batteries in 1867.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

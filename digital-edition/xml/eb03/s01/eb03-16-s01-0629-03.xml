@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196389_0635.tif" type="entry" xml:id="eb03-16-s01-0629-03"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SALTING <hi rend="smallcaps">meat for the use of the navy</hi></label> .
+                    The following is the method recommended by the late admiral Sir Charles Knowles.
+                    When the ox is killed, let it be ſkinned and cut up into pieces fit for uſe as
+                    quick as poſſible, and ſalted while the meat is hot. For which purpoſe we muſt
+                    have a ſufficient quantity of ſaltpetre and bay-ſalt pounded together and made
+                    hot in an oven, of each equal parts; with this ſprinkle the meat at the rate of
+                    about two ounces to the pound; then lay the pieces on ſhelving boards to drain
+                    for 24 hours; which done, turn them and repeat the ſame operation, and let them
+                    lie for 24 hours longer. By this time the ſalt will be all melted, and have
+                    penetrated the meat, and the pieces be drained off; each piece muſt then be
+                    wiped dry with clean coarſe cloths. A ſufficient quantity of common felt muſt
+                    then be made hot like- wiſe in an oven, and mixed when taken out with about
+                    one-third of brown ſugar: then the caſks being ready, rub each piece well with
+                    this mixture, and pack them well down, allowing about half a pound of the ſalt
+                    and ſugar to each pound of meat, and it will keep good ſeveral years.</p>
+                <p>It is beſt to proportion the caſks to the quantity uſed at one time, as the leſs
+                    it is expoſed to the air the better. The ſame proceſs does for pork, only a
+                    larger quantity of ſalt and leſs ſugar muſt be uſed; but the preſervation of
+                    both depends equally upon the meat being hot when firſt ſalted.</p>
+                <p>One pound of beef requires two ounces of ſaltpetre and two ounces of bay-ſalt,
+                    becauſe it is to be ſprinkled twice; an ounce of each to a pound of beef both
+                    times. The ſaltpetre requiſite for 100 lb. of beef is I2 <hi rend="superscript">
+                        1</hi> / <hi rend="subscript"> 2</hi> lb. which at 12 d. per lb. is 12s.
+                    6d.; and the ſame quantity of bay-ſalt (for 100 lb. of beef), at three
+                    half-pence per lb. is 1s. 6d.; of brown ſugar and common ſalt mixed together
+                    half a pound is required, the former in the proportion of one-third, the latter
+                    of two- thirds, to a pound of beef. The brown ſugar at 8d. per pound. A hundred
+                    pounds of beef will take 250 ounces of it, which coſts 10s. 5d. The quantity of
+                    common ſalt requiſite for 100 lb. of beef is 533 ounces, which at 2d. per lb.
+                    amounts to 5s. 6d. The expence therefore will ſtand thus.</p>
+                <pb facs="gri_33125011196389_0636.tif" xml:id="eb03-16-s01-0630"/>
+                <table>
+                    <row>
+                        <cell> Saltpetre, 12 <hi rend="superscript"> 1</hi> / <hi rend="subscript">
+                                2</hi> lb. for 100 lb. of beef, is </cell>
+                        <cell> L </cell>
+                        <cell> 0 </cell>
+                        <cell> 12 </cell>
+                        <cell> 6 </cell>
+                    </row>
+                    <row>
+                        <cell> Bay-ſalt, 12 <hi rend="superscript"> 1</hi> / <hi rend="subscript">
+                                2</hi> lb. for do. is </cell>
+                        <cell/>
+                        <cell> 0 </cell>
+                        <cell> 10 </cell>
+                        <cell> 6 </cell>
+                    </row>
+                    <row>
+                        <cell> Brown-ſugar, 230 oz. for do. is </cell>
+                        <cell/>
+                        <cell> 0 </cell>
+                        <cell> 10 </cell>
+                        <cell>
+                            <hi rend="italic">5</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell> Beef, 100 lb. at 6d. per pound, is </cell>
+                        <cell/>
+                        <cell> 2 </cell>
+                        <cell> 10 </cell>
+                        <cell>
+                            <hi rend="italic">0</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell> Three caſks for it at 1s. 6d each, </cell>
+                        <cell/>
+                        <cell> 0 </cell>
+                        <cell> 4 </cell>
+                        <cell>
+                            <hi rend="italic">6</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell> Labour, and heating the oven twice, </cell>
+                        <cell/>
+                        <cell> 0 </cell>
+                        <cell> 4 </cell>
+                        <cell> 0 </cell>
+                    </row>
+                    <row>
+                        <cell> Common ſalt, 533 oz. for do. is </cell>
+                        <cell/>
+                        <cell> 0 </cell>
+                        <cell> 5 </cell>
+                        <cell>
+                            <hi rend="italic">6</hi>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell> L </cell>
+                        <cell> 4 </cell>
+                        <cell> 8 </cell>
+                        <cell> 5 </cell>
+                    </row>
+                </table>
+                <p>Theſe articles are taken high; and if beef coſts 6d. per pound, meat cured thus
+                    will coſt leſs than 1s. per pound; and therefore comes much cheaper than
+                    live-ſtock in long ſea-voyages.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

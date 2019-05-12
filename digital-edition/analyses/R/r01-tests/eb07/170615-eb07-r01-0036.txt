@@ -1,0 +1,118 @@
+wheels, in order to produce the required effect ; and in order to know what lateral play must be had, if we take the
+inclination of the tire at —, we find this to be
+a
+⅜ a
+(D—D')
+and substituting for D—D', its value found above, we have the lateral motion equal to
+αeD
+. 2(r+e)∙
+We have now to obtain the necessary displacement by means of the centrifugal force, and for this purpose putting r=radius of curvature,
+V=velocity,
+tt!=mass of the moving body,
+y=32
+⅙
+, or the accelerating force Ofgravitation in 1 second, jf=the centrifugal force produced on the curve,
+V2
+we have
+f=m —,
+but P=the weight of the same body, we have P=<∕ra,
+P
+or    
+m=—,
+<7
+PV2
+a ,,d    .
+J gr ’
+making a foot in each case for the unit of space, and a second for the unit of time, we get the measure of the centrifugal force represented by its proportion to the weight P. Thus on a curve of 500 feet radius, at a velocity of 20 miles an hour, or 29, 25 feet per second, we have
+2+25)
+∖
+j ~ ' 32j.500
+or about τ ⅛ . P, the effect of which force in the direction of the radius, will of course be to press the carriages against the outside rail till the flange of the wheel stops them ; and the elevation of the outer rail must be such that the centrifugal force is so balanced by the natural tendency from gravitation, by which the carriages would slide towards the inner rail, that the coned wheel corrects the effect of curvature without producing a friction on the flange,
+calling y=the elevation of the outside rail,
+2e=the breadth of the way,
+the inclination of the plane on which the carriage wheels are placed, will be
+y
+2e’
+and the gravity of a body weighing P, will be
+⅛
+2e ,
+and this force tending to bring the carriages towards the in-
+ner rail while the centrifugal force Ç-^occasion them
+to approach the outer one, the height
+y
+of the outer rail above the inner one, if we wish the carriages to run in the middle of the rails, must evidently be taken, so that
+Py Pn2 2e- yr’
+in which case we have an equilibrium between the two forces. But we require a tendency outwards to correct for the curvature, putting this=/,, we get
+αeD . μ- 2(r + e)
+If we suppose this lateral displacement to have taken place,
+the inclination of the plane on which the carriages will be, is
+y
+2e— μ’
+whilst, at the same time, from the coned form of the wheels,
+the tire having an inclination -, this lateral deviation to
+a
+the extent
+μ,
+has produced a difference of height in both wheels amounting to ± -, that is to say, the outer wheel
+will be raised -, and the inner wheel lowered -, and the
+a a
+result or total inclination — will have to be added to that
+a
+which has been produced by the difference between the height of the rails, hence, the outer wheel will be raised
+2μ
+y+ Ti
+and as the base between the bearing points is
+2e—μ,
+the carriage will be on a plane equal to
+2μ
+y+fl 2e—μ
+consequently to establish the equilibrium between gravitation and the centrifugal force required in practice, we must have
+y+-
+y+ a
+_ PV2
+p ∙ 2e-μ - gr ’
+.    2V2 eα+V2 αu—
+2μgr
+whence «=-—-
+C—
+-Ξ-<
+α gr
+2V2 C V> 2/4
+— gr + gr — a
+(2
+αp
+gD
+gr '
+∖
+   
+2(r+e)Λ r+e’
+by which formula the table of surplus elevation for the outer rail has been computed, and of course the value of the radius of curvature, or any other element may be found, the others being given. As an example of the calculation, let
+us take the inclination of the wheel, or -= I ; the veloci-
+a 7
+city = 29, 25 feet per second ; the breadth of the way = 4 feet 8½ inches, or e=2∙3542 feet, D =3 feet, when properly situated on the rail, and r=500 feet, we then have
+...    193
+withy=—,
+_2-3542.2fr25)2 ∕o 7.3    
+∖
+    2-3542.3
+y~
+193
+en
+' V-
+2(500+2∙3542)Λ500+2∙3542
+~6
+    .500
+_2-3542.855-5625 ∕    21    
+∖
+    7∙0626
+-    96500    ’
+∖
+2 ^~ 1004∙7084/ - 502-3542
+_2-3542.855∙5625.6 (2 _ .0209006) _ .014059 yθθUU
+2-3542.5133-375
+=-ES-∙
+∣
+∙9l90994-∙0140≈9
+= X4 ,'9al4a
+. l∙9790994-∙014059 96500
+= 0-125233. 1-9790994 —-014059 = 0-247848 —-014059 = 0-233789 feet, or 2-8 inches.

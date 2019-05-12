@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r02-0226-01"
+                facs="gri_33125011196389_0232.tif" type="entry">
+
+                <p><label>RHODIOLA</label>, rose-wort, in botany: A genus of the octandria order,
+                    belonging to the diœcia claſs of plants ; and in the natural method ranking
+                    under the 13th order, <hi rend="italic">Succulentœ.</hi> The male calyx is
+                    quadripartite ; the corolla tetrapetalous. The female calyx is quadripartite,
+                    and there is no corolla ; the nectaria are four; the piſtils four ; and there
+                    are four polyſpermous capſules. There are two ſpecies, the roſea and the minor :
+                    the firſt grows naturally in the clefts of the rocks and rugged mountains of
+                    Wales, Yorkſhire, and Weſt-moreland. It has a very thick fleſhy root, which when
+                    cut or bruiſed fends out an odour like roſes. It has thick ſucculent ſtalks,
+                    like thoſe of orpine, about nine inches long, cloſely garniſhed with thick
+                    ſucculent leaves indented at the top. The ſtalk is terminated by a chι-ſter of
+                    yellowiſh herbaceous flowers, which have an agreeable ſcent, but are of ſhort
+                    continuance. The ſecond ſort is a native of the Alps, and has purpliſh flowers
+                    which come out later than the former ; it is alſo of a ſmaller ſize. Both
+                    ſpecies are eaſily propagated by parting their roots ; and require a ſhady
+                    ſituation, and dry undunged foil. The fragrance of the firſt ſpecies, however,
+                    is greatly diminiſhed by cultivation.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

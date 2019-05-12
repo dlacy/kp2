@@ -1,0 +1,140 @@
+due to the two cylinders is variable to a greater or less extent, depending upon the degree of expansion in the cylinders and the speed. The form of the torque curve, or crank effort curve, as it is sometimes called, is discussed in the article Steam Engine, and the torque curve corresponding to actual indicator diagrams taken from an express passenger engine travelling at a speed of 65 m. per hoar is given in The Balancing of Engines by W. E. Dalby (London, 1906).
+The plotting of the torque curve is laborious, but the average torque acting, which is all that is required for the purposes of this article, can be found quite simply, thus:—Let pbe the mean effective pressure acting in one cylinder, a, the area of the cylinder, and /, the stroke. Then the work done during one revolution of the^ crank is 2pla per cylinder. Assuming that the mean pressure in the other cylinder is also p% the total work done per revolution is 4pla. If T is the mean torque, the work done on the crank-axle per revolution is 2xT. Hence assuming the mechanical efficiency of the
+engine to be«, and substituting^?2 for the area a,
+2irT =^plae~plnd1 €t
+so that
+T-i pd?U.
+But from § 1, T «■ JDF;
+therefore    e F ^pdtU/D    e     (25)
+F in this expression is twice the average magnitude of the equal and opposite forces constituting the couple for one driving-wheel illustrated in fig. 16, one force of which acts to propel the train whilst the other is the value of the tangential frictional resistance between the wheel and the rail. This force F must not exceed the value /x\V or slipping will take place. Hence, if p is the maximum value of the mean effective pressure corresponding to about 85% of the boiler pressure,
+m \V = ^/«/D    e (26)
+is an expression giving a relation between the total weight on the coupled wheels, their diameters and the size of the cylinder. The magnitude of F when p and « are put each equal to unity, is usually called the^ tractive force of the locomotive per pound of mean effective pressure in the^ cylinders. If p is the mean pressure at any speed the total tractive force which the engine is exerting is given by equation (25) above. The value of t is variable, but is between •7 and ·8, and for approximate calculations may be taken equal to unity. In the following examples the value will be assumed unity.
+These relations maybe illustrated by an example. Let an engine have two cylinders each 19 in. diameter and 26 in. stroke. Let the boiler pressure be 175 Id per square inch. Taking 85% of this, the maximum mean effective pressure would be 149 lb per square inch. Further, let the diameter of the driving-wheels be 6 ft. 3 in. Then the tractive force is, from (25),
+(i49Xi9, X2-i66)/6*25 = i8,6oolb-8-3 tons.
+Assuming that the frictional resistance at the rails is given by J the weight on the wheels, the total weight on the driving-wheels necessary to secure sufficient adhesion to prevent slipping must be at least 8·3Χ5=^ϊ·5 tons. This would be distributed between three coupled axles giving an average of 1*38 tons per axle, though the distribution might not in practice be uniform, a larger proportion of the weight falling on the driving-axle. If the starting resistance of the whole train be estimated at 16 lb per ton, this engine would be able to start 1*163 tons on the level, or about 400 tons on a gradient of i in 75, both these figures including the weight of the engine and tender, which would be about 100 tons.
+The engine can only exert this large tractive force so long as the mean pressure is maintained at 149 lb per square inch. This high mean pressure cannot be maintained for long, because as the speed increases the demand for steam per unit of time increases, so that cut-off must take place earlier and earlier in the stroke, the limiting steady speed being attained when the rate at which steam is supplied to the cylinders is adjusted by the cut-off to be equal to the maximum rate at which the boiler can produce steam, which depends upon the maximum rate at which coal can be burnt per square foot of grate. If C is the number of pounds of coa^ burnt per square foot of grate per hour, the calorific value of which is c B.Th.U. per pound, the maximum indicated horse-power is given by the expression
+I.H.P. maximum-Cc ^X 77^Xi?,
+Ι98ΟΟΟΟ
+where A is the area of the grate in square feet, and η is the combined efficiency of the engine and boiler. With the data of the previous example, and assuming in addition that the grate area is 24 sq. ft., that the rate of combustion is 150 lb of coal per square foot of grate per hour, that the calorific value is 14000, and finally that 17=0-06, the maximum indicated horse-power which the engine might be expected to develop would be 0-06X150X14000X24X778/1980000 = 1190, corresponding to a mean effective pressure in the cylinders of 59*5 lb per square inch.
+Assuming that the train is required to run at a speed of 60 m. per hour, that is 88 ft. per second, the total resistance R, which the engine can overcome at this speed, is by equation (10)
+R = (1190X550)788=7*400 lb.
+Thus although at a slow speed the engine can exert a tractive force of 18,600 lb, at 60 m. per hour, the tractive force falls to 7400 lb, and this cannot be increased except by increasing the rate of combustion (neglecting any small changes due to a change in the efficiency 17). Knowing the magnitude of R, the draw-bar pull, and hence the weight of vehicle the engine can haul at this speed, can be estimated if the resistances are known. Using the curves of fig. 17 it will be found that at 60 m. per hour the resistance of the engine and tender is 33 lb per ton, and the resistance of a train of bogie coaches about 14 lb per ton. Hence if W is the weight of the vehicles in tons, and the weight of the engine and tender be taken at 100 tons, the value of Wean be founcsfrom the equation iaW+3300 = 7440, from which W = 296 tons. This is the load which the engine would take in ordinary weather. With exceptionally bad weather the load would haVe to be reduced or two engines would have to be employed, or an exceptionally high rate of combustion would have to be maintained in the fire-box.
+It will be seen at once that with a tractive force of 7400 lb a weight of 37,000 lb (= 16*5 tons) would be enough to secure sufficient adhesion, and this could be easily carried on one axle. Hence for a level road the above load could be hauled at 60 m. per hour with a “ single ” engine. When the road^ leads the train up an incline, however, the tractive force must be increased, so that the need for coupled wheels soon arises if the road is at all a heavy one.
+§15. Engine Efficiency. Combined Engine and Boiler Efficiency.—The combined engine and boiler efficiency has hitherto been taken to be 0-06; actual values of the boiler efficiencies are given in Table XX. Engine efficiency depends upon many variable factors, such as the cut-off, the piston speed, the initial temperature of the steam, the final temperature of the steam, the quality of the steam, the sizes of the steam-pipes, ports and passages, the arrangement of the cylinders and its effect on condensation, the mechanical perfection of the steam-distributing gear, the tightness of the piston, &c. A few values of the thermal efficiency obtained from experiments are given in Table XXI. in the second column, the first column being added to give some idea of the rate at which the engine was working when the data from which the efficiency has been deduced were observed. The corresponding boiler efficiencies are given in the third column of the table, when they are known, and the combined efficiencies in the fourth column. The figures in this column indicate that o*o6 is a good average value to work with.
+Table XXI
+e
+ε
+Indi
+Engine
+Effici
+Boiler
+Com
+Boiler
+3
+n
+cated
+Effici
+bined
+Pressure
+» g
+horse
+ency.
+ency.
+Effici
+lb per
+JC .
+power.
+ency.
+sq. in.
+-μ bo
+S u
+128
+0*073
+Mean
+Deduced from
+Λ ω
+205
+0*075
+about
+data given by
+ε ο
+Μ U
+222
+0-080
+128 but
+Professor Goss
+3
+C
+399
+0-088
+throttled.
+(7><tn$. Am.
+<υ
+Soc. Mech.
+Η
+mean
+Eng. vol. 14).
+1
+129
+0-057
+0*815
+0*047
+mean
+Deduced from
+about
+Kennedy and
+120
+Donkin s trials
+• (Engineering, London, 1887).
+2
+490
+0*098
+0*775
+0*077
+167
+Deduced from
+3
+582
+0*11
+0*665
+0*073
+169
+Adams and
+Pettigrew’s trials (Proc. Inst. C.E. vol.
+125).
+4
+520
+0*084
+0*52
+0*044
+140
+Deduced from
+5
+692
+0*083
+0*65
+0*054
+175
+Smith’s experiments (Proc.
+6
+558
+0074
+0-69
+0051
+175
+7
+603
+o-o86
+0-63
+0-054
+175
+Ins't. Mech.
+8
+570
+o*o8i
+0-64
+0052
+160
+Eng. October
+.898).
+It is instructive to inquire into the limiting efficiency of an engine consistent with the conditions under which it is working, because in no case can the efficiency of a steam-engine exceed a certain value which depends upon the temperatures at which

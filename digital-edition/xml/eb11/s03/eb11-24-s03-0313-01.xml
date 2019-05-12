@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0313-01"
+                facs="encyclopaediabri24chisrich_0336.jp2" type="entry">
+                <p><label>SCHANDORPH [or Skamdrup], SOPHUS CHRISTIAN FREDERICK</label> (1836-1901),
+                    Danish poet and novelist, was born at Ringsted in Zealand on the 8th of May
+                    1836. In 1855 he entered the university of Copenhagen. In 1862 he published his
+                    first volume of poetry, written in the romantic style and giving little
+                    indication of the ultimate direction that his talent was to take. Other books
+                    followed, but his gifts first found full expression in a volume of rustic tales
+                    entitled <hi rend="italic">Fra Provinsen</hi> (1876), in which he described
+                    provincial character and life with much frankness of detail and a great deal of
+                    wit. In 1878 his novel, <hi rend="italic">Uden Midtpunkt</hi> (“ Without a
+                    Centre ”), recast later in dramatic form, attracted great attention by its
+                    exposure of contemporary failings. Among the more famous of his later novels
+                    are: <hi rend="italic">Thomas Friis' Historie</hi> (2 vols., 1881), <hi
+                        rend="italic">Del gamle Apothek</hi> (“ The Old Apothecary ”) (1855) and <hi
+                        rend="italic">Helga</hi> (1900); but his most characteristic work is to be
+                    found in his various volumes of short sketches. He published his own <hi
+                        rend="italic">Recollections</hi> (Oplevelser) in 1889. He died after a long
+                    illness at Frederiksberg on New Year’s Day 1901.</p>
+                <p>See an article by V. Möller in C. F. Bricka’s <hi rend="italic">Dansk Biografisk
+                        Lexikon</hi> (vol. xv., 1901).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

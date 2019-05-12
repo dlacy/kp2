@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0387-03"
+                facs="encyclopaediabri24chisrich_0410.jp2" type="entry">
+                <p><label>SCHWABACH</label>, a town of Germany, in the kingdom of Bavaria,</p>
+                <p>9 m. by rail S. of Nuremberg. Pop. (1905) 1o,342. It has the interesting
+                    Evangelical church of St John, built in the 15th century, with carvings by Veit
+                    Stoss, paintings by Wohlgemut, Martin Schön and others, and a ciborium by Adam
+                    Krafft; a fountain, the Schöne Brunnen, and several schools. Schwabach is the
+                    chief seat of the needle manufacture in Bavaria; its other industries include
+                    gold and silver wire work, brewing and the making of soap and earthenware.
+                    Schwabach was purchased in 1364 by the burgrave of Nuremberg.</p>
+                <p>See Petzoldt, <hi rend="italic">Chronik der Stadt Schwabach</hi> (Schwabach,
+                    1854).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

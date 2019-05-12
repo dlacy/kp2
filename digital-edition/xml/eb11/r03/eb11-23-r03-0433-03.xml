@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0433-03"
+                facs="encyclopaediabri23chisrich_0466.jp2" type="entry">
+
+               <p>                   <label>ROCKEFELLER, JOHN DAVISON</label> (1839- ), American</p>               <p>capitalist, was born in Richford, Tioga county, New York, on the 8th of July
+                    1839. In 1853 his family removed to Ohio, living after 1857
+                    in Cleveland, where Rockefeller had begun to work as a bookkeeper in 1855 and
+                    where in 1858 he went into the produce commission business. His firm, Clark
+                    &amp; Rockefeller, in 1862 invested in an oil refinery, planned by Samuel
+                    Andrews, and in 1865 Rockefeller sold out his share to his partner Clark, bought
+                    for $72,500 a larger share in another refinery, and formed the partnership of
+                    Rockefeller &amp; Andrews. At about the same time another refinery was
+                    started by Rockefeller’s brother William (b. 1841), but in 1867 Rockefeller
+                    Andrews absorbed this business, and Henry M. Flagler was added to the
+                    partnership, In 1870 the two Rockefellers, Flagler, Andrews and a refiner named
+                    Stephen V. Harkness formed the Standard Oil Company, with a capital of
+                    $1,000,000 (increased in 1872 to $2,500,000 and in 1874 to $3,500,000), of which
+                    John D. Rockefeller was president. This great corporation gradually established
+                    itself in practical control of the oil production in America, by means of
+                    business methods and financial operations which have been severely criticized,
+                    but which brought immense wealth to those concerned. Its capital was further
+                    increased in 1882, when separate companies were organized in each state; and in
+                    later years, as the first great American “ trust,” the Standard Oil Company was
+                    hotly attacked during the anti-trust movement (see <hi rend="smallcaps"
+                        >Inter-state Commerce).</hi> Into the merits of this question it is
+                    impossible to enter here. Rockefeller himself retired from active business in
+                    1895; he had for a time large iron interests (mines and ore-carrying vessels) on
+                    Lake Superior, which he sold to the United States Steel Corporation, and his
+                    personal wealth was probably greater than that of any other man in the country.
+                    In private life he was a devoted member of the Baptist church, and his
+                    benefactions were numerous. To “ the University of Chicago founded by John D.
+                    Rockefeller ” (in 1892) he had given, up to 1910, $24,809,666, while to the
+                    General Education Board he had given $43,000,000; he founded (1901) and
+                    supported the Rockefeller Institute for Medical Research in New York City; he
+                    gave large sums to Rush Medical College in Chicago, to Johns Hopkins Hospital in
+                    Baltimore, to Barnard College in New York City and to the Baptist Missionary
+                    Society; and in 1909 he gave $1,000,000 to endow a medical commission to
+                    investigate the nature of the hook-worm and to suppress the hook-worm disease.</p>               <p>See Ida M. Tarbell's <hi rend="italic">History of the Standard Oil Company</hi>
+                    (New York, 1903), a severe attack on the Trust; also his own <hi rend="italic"
+                        >Random Reminiscences</hi> (1909).</p>            </div>
+        </body>
+    </text>
+</TEI>

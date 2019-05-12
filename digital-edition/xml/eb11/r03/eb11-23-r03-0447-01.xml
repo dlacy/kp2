@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0447-01"
+                facs="encyclopaediabri23chisrich_0480.jp2" type="entry">
+
+                <p><label>RODGERS, JOHN</label> (1771-1838), American sailor, was born in Harford
+                    county, Maryland, on the nth of July 1771. He entered the United States navy
+                    when it was organized in 179S. He was second in command to Commodore James
+                    Barron (1769-1851) in the expedition against the Barbary pirates, and succeeded
+                    him in the command in 1805. In this year he brought both Tunis and Tripoli to
+                    terms, and then returned to America. In 1811 he was in command as commodore of
+                    the U.S. frigate “ President ” (44) off Annapolis when he heard that an American
+                    seaman had been “ pressed ” by a British frigate off Sandy Hook. Commodore
+                    Rodgers was ordered to sea “ to protect American commerce,” but he may have had
+                    verbal instructions to retaliate for the impressment of real or supposed British
+                    subjects out of American vessels, which was causing much ill-feeling and was a
+                    main cause of the War of 1812. On the 16th of May 1811 he sighted and followed
+                    the British sloop “ Little Belt ” (22), and after some hailing and
+                    counter-hailing, of which very different versions are given on either side, a
+                    gun was fired, each side accusing the other of the aggression, and an action
+                    ensued in which the “ Little Belt ” was cut to pieces. The incident, which was
+                    represented as an accident by the Americans, and believed to be a deliberate
+                    aggression by the British navy, had a share in bringing on war. When hostilities
+                    broke out Rodgers commanded a squadron on the coast of America, and was wounded
+                    by the bursting of one of his guns while pursuing the British frigate “
+                    Belvedere.” He was subsequently President of the Board of Navy Commissioners in
+                    1815-1824 and in 1827-1837, and acting secretary of the navy in 1823 for two
+                    weeks. He died in Philadelphia on the 1st of August 1838.</p>
+               <p>His brother, George Washington Rodgers (1787-1832), a brother-in-law of
+                    Commodore Perry, served in the War of 1812 and in the war with Algiers (1815).
+                    Rear-Admiral John Rodgers (1812-1882), a son of Commodore John Rodgers,' served
+                    in the Union navy and in 1877-1882 was superintendent of the Naval Observatory
+                    at Washington. G. W. Rodgers had two sons who were naval officers, Christopher
+                    Raymond Perry Rodgers (1819-1892) and George Washington Rodgers (1822-1863).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

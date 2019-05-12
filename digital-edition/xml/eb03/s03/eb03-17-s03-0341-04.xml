@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196363_0347.tif" type="entry" xml:id="eb03-17-s03-0341-04"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SHEEP</label>, in zoology. See <hi rend="smallcaps">Ovis</hi> and <hi
+                        rend="smallcaps">Wool.</hi></p>
+                <p>Amongſt the various animals with which Divine Providence has ſtored the world for
+                    the uſe of man, none is to be found more innocent, more uſeful, or more
+                    valuable, than the ſheep. The ſheep ſupplies us with food and clothing, and finds
+                    ample employment for our poor at all times and ſeaſons of the year, whereby a
+                    variety of manufactures of woollen cloth is carried on without interruption to
+                    domeſtic comfort and loſs to friendly ſociety or injury to health, as is the
+                    caſe with many other occupations. Every lock of wool that grows on its back
+                    becomes the means of ſupport to ſtaplers, dyers, pickers, ſcourers, ſcriblers,
+                    carders, combers, ſpinners, ſpoolers, warpers, queelers, weavers, fullers,
+                    tuckers, burlers, ſhearmen, preſſers, clothiers, and packers, who, one after
+                    another, tumble and toſs, and twiſt, and bake, and boil, this raw material, till
+                    they have each extracted a livelihood out of it ; and then comes the merchant,
+                    who, in his turn, ſhips it (in its higheſt ſtate of improvement) to all quarters
+                    of the globe, from whence he brings back every kind of riches to his country, in
+                    return for this valuable commodity which the ſheep affords.</p>
+                <p>Beſides this, the uſeful animal, after being deprived of his coat, produces
+                    another againſt the next year ; and when we are hungry, and kill him for food,
+                    he gives us his ſkin to employ the fell-mongers and parchment-makers, who ſupply
+                    us with a durable material for ſecuring our eſtates, rights, and poſſeſſions ;
+                    and if our enemies take the field againſt us, ſupplies us with a powerful
+                    inſtrument for rouſing our courage to repel their attacks. When the
+                    parchment-maker has taken as much of the ſkin as he can uſe, the glue-maker
+                    comes after and picks up every morſel that is left, and therewith ſupplies a
+                    material for the carpenter and cabinet-maker, which they cannot do without, and
+                    which is eſſentially neceſſary before we can have elegant furniture in our
+                    houſes ; tables, chairs, looking-glaſſes, and a hundred other articles of
+                    convenience : and when the winter nights come on, while we are deprived of the
+                    cheering light of the ſun, the ſheep ſupplies us with an artificial mode of
+                    light, whereby we preſerve every pleaſure of domeſtic ſociety, and with whose
+                    aſſiſtance we can continue our work, or write or read, and improve our minds, or
+                    enjoy the facial mirth of our tables. Another part of the ſlaughtered animal
+                    ſupplies us with an ingredient necessary for making good common ſoap, a useful
+                    ſtore for producing cleanlineſs in every family, rich or poor. Neither need the
+                    horns be thrown away ; for they are converted by the button-makers and turners
+                    into a cheap kind of buttons, tips for bows, and many uſeful ornaments. From the
+                    very trotters an oil is extracted uſeful for many purpoſes, and they afford good
+                    food when baked in an oven.</p>
+                <p>Even the bones are uſeful alſo ; for by a late invention of Dr Higgins, they are
+                    found, when reduced to aſhes, to be an uſeful and eſſential ingredient in the
+                    compoſition of the fineſt artificial ſtone in ornamental work for
+                    chimney-pieces, cornices of rooms, houſes, &amp;c. which renders the composition
+                    more durable by effectually preventing its cracking<note anchored="true" n="1"
+                        place="bottom" type="authorial"><p><hi rend="smallcaps">(a)</hi> Any curious
+                            perſon would be much entertained to ſee the manufactory of bone-aſh, new
+                            carried on by Mr Miniſh of White chapel, New Road, wherein the bones of
+                            ſheep and cows undergo many ingenious proceſſes. 1. There is a mill to
+                            break them ; 2. A cauldron to extract their oil, marrow, and fat ; 3. A
+                            reverberatory to heat them red-hot ; 4. An oven for thoſe bones to
+                            moulder to aſhes; 5. A ſtill to collect the fumes of the burnt <pb
+                                n="117"/>bones into a brown fluid, from whence hartſhorn is made ;
+                            6. Furnaces for making parts thereof into Glauber's ſalts ; 7. A sand
+                            heat containing twelve jars, for collecting; a cryſtallizing vapour into
+                            ſal-ammoniac.</p></note>
+                    <hi rend="smallcaps">(a).</hi></p>
+                <p>If it is objected to the meek inoffenſive creature, that<pb
+                        facs="gri_33125011196363_0348.tif" xml:id="eb03-17-s03-0342"/> he is
+                    expenſive while living, in eating up our graſs, &amp;c. it may be anſwered that
+                    it is quite the contrary ; for he can feed where every other animal has been
+                    before him and grazed all they could find ; and that if he takes a little graſs
+                    on our downs or in our fields, he amply repays us for every blade of graſs in
+                    the richneſs of the manure which he leaves behind him. He protects the hands
+                    from the cold wintry blaſt, by providing them with the ſofteſt leather gloves.
+                    Every gentleman’s library is alſo indebted to him for the neat binding of his
+                    books, for the ſheath of his ſword, and for cases for his inſtruments ; in
+                    ſhort, not to be tedious in mentioning the various uſes of leather, there is
+                    hardly any furniture or utenſil of life but the ſheep contributes to render
+                    either more uſeful, convenient, or ornamental.</p>
+                <p>As the ſheep is ſo valuable an animal, every piece of information concerning the
+                    proper method of managing it muſt be of importance. It will not therefore be
+                    uſeleſs nor unentertaining to give ſome account of the manner of managing ſheep
+                    in Spain, a country famous for producing the beſt wool in the world.</p>
+                <p>In Spain there are two kinds of ſheep : the coarſe- woolled ſheep, which always
+                    remain in their native country, and are houſed every night in winter ; and the
+                    fine-wooled ſheep, which are always in the open air, and travel every ſummer
+                    from the cool mountains of the northern parts of Spain, to feed in winter on the
+                    ſouthern warm plains of Andalusia, Mancha, and Eſtramadura. Of theſe latter, it
+                    appears from accurate computations, that there are about five millions<note anchored="false" n="2" place="margin" type="authorial"><p>Bourgoanne's
+                            Travels, vol. i. p. 53.</p></note> (<hi rend="smallcaps">b</hi>) ; and
+                    that the wool and fleſh of a flock of 10,000 ſheep produce yearly about 24 reals
+                    a head, or about the value of 12 Engliſh ſixpences, one of which belongs to the
+                    owner, three to the king, and the other eight are allowed for the expences of
+                    paſture, tythes, ſhepherds, dogs, ſalt, ſhearing, &amp;c. Ten thouſand ſheep
+                    form a flock, which is divided into ten tribes, under the management of one
+                    perſon, who has abſolute dominion over fifty ſhepherds and fifty dogs.</p>
+                <p>M. Bourgoanne, a French gentleman, who reſided many years in Spain, and directed
+                    his inquiries chiefly to the civil government, trade, and manufactures, of that
+                    country, gives the following account of the wandering ſheep of Segovia. “ It is
+                    (says he) in the neighbouring mountains that a part of the wandering ſheep feed
+                    during the fine ſeaſon.<note anchored="true" n="3" place="bottom"
+                        type="authorial"><p><hi rend="smallcaps">(b)</hi> In the 16th century the
+                            travelling ſheep were eſtimated at ſeven millions : under Philip III.
+                            the number was diminiſhed to two millions and a half. Uſtariz, who wrote
+                            at the beginning of this century, made it amount to four millions. .The
+                            general opinion is, that at preſent it does not exceed five millions. If
+                            to this number the eight millions of ſtationary ſheep be added, it will
+                            make nearly thirteen millions of animals, all managed contrary to the
+                            true intereſts of Spain, for the advantage of a few individuals. For the
+                            proprietors of ſtationary flocks alſo have privileges which greatly
+                            reſemble thoſe of the members of the Meſta. According to Arriquebar,
+                            Spain contains eight millions of fine-wooled ſheep, ten millions of
+                            coarſe-wooled, and five hundred thouſand bulls, oxen, and
+                        cows.</p></note> They leave them in the month of October, paſs over thoſe
+                    which ſeparate the two Caſtiles, croſs New Caſtile, and diſperſe themſelves in
+                    the plains of Eſtramadura and Andaluſia. For ſome years paſt thoſe of the two
+                    Caſtiles, which are within reach of the Sierra-Morena, go thither to paſs the
+                    winter ; which, in that part of Spain, is more mild : the length of their day’s
+                    journey is in proportion to the paſture they meet with. They travel in flocks
+                    from 1000 to 1200 in number, under the conduct of two ſhepherds ; one of whom is
+                    called the <hi rend="italic">Mayoral,</hi> the other the <hi rend="italic"
+                        >Zagal.</hi> When arrived at the place of their deſtination, they are
+                    diſtributed in the paſtures previouſly aſſigned them. They return in the month
+                    of April ; and whether it be habit or natural inſtinct that draws them towards
+                    the climate, which at this ſeaſon becomes moſt proper for them, the inquietude
+                    which they manifeſt might, in case of need, ſerve as an almanac to their
+                    conductors.”</p>
+                <p>Mr Arthur Young, in that patriotic work which he conducted with great induſtry
+                    and judgment, the Annals of Agriculture, gives us a very accurate and
+                    intereſting account of the Pyrenean or Catalonian ſheep.</p>
+                <p>“ On the northern ridge, bearing to the west, are the paſtures of the Spaniſh
+                    flocks. This ridge is not, however, the whole ; there are two other mountains,
+                    quite in a different ſituation, and the ſheep travel from one to another as the
+                    paſturage is ſhort or plentiful. I examined the ſoil of theſe mountain paſtures,
+                    and found it in general ſtony ; what in the west of England would be called a st
+                        <hi rend="italic">one brash,</hi> with ſome mixture of loam, and in a few
+                    places a little peaty. The plants are many of them untouched by the ſheep ; many
+                    ferns, narciſſus, violets, &amp;c. but burnet <hi rend="italic">(poterium
+                        ſanguisorba}</hi> and the narrow-leaved plantain <hi rend="italic">(plantago
+                        lanceοlata)</hi> were eaten, as may be ſuppoſed, cloſe. I looked for
+                    trefoils, but found ſcarcely any : it was very apparent that ſoil and
+                    peculiarity of herbage had little to do in rendering theſe heights proper for
+                    ſheep. In the northern parts of Europe, the tops of mountains half the height of
+                    theſe (for we were above ſnow in July) are bogs, all are ſo which I have ſeen in
+                    our iſlands, or at leaſt the proportion of dry land is very trifling to that
+                    which is extremely wet : Here they are in general very dry. Now a great range of
+                    dry land, let the plants be what they may, will in every country suit ſheep. The
+                    flock is brought every night to one ſpot, which is ſituated at the end of the
+                    valley on the river I have mentioned, and near the port or paſſage of Picada :
+                    it is a level ſpot ſheltered from all winds. The ſoil is 8 or 9 inches deep of
+                    old dung, not at all incloſed : from the freedom from wood all around, it ſeems
+                    to be choſen partly for ſafety againſt wolves and bears. Near it is a very large
+                    ſtone, or rather rock, fallen from the mountain. This the ſhepherds have taken
+                    for a ſhelter, and have built a hut againſt it ; their beds are ſheep-ſkins, and
+                    their door ſa ſmall that they crawl in. I faw no place for fire ; but they have
+                    it, ſince they dress here the fleſh of their ſheep,<pb
+                        facs="gri_33125011196363_0349.tif" xml:id="eb03-17-s03-0343"/> and in the
+                    night ſometimes keep off the bears, by whirling fire-brands : four of them
+                    belonging to the flock mentioned above lie here. I viewed their flock very
+                    carefully, and by means of our guide and interpreter, made ſome inquiries of the
+                    ſhepherds, which they anſwered readily, and very civilly. A Spaniard at
+                    Venaſque, a city in the Pyrenees, gives 600 livres French (the livre is 10 ½d.
+                    Engliſh) a-year for the paſturage of this flock of 2000 ſheep. In the winter he
+                    ſends them into the lower parts of Catalonia, a journey of 12 or 13 days, and
+                    when the ſnow is melted in the ſpring, they are conducted back again. They are
+                    the whole year kept in motion, and moving from ſpot to ſpot, which is owing to
+                    the great range they everywhere have of paſture. They are always in the open
+                    air, never houſed or under cover, and never taſte of any food but what they can
+                    find on the hills.</p>
+                <p>“ Four ſhepherds, and from four to six large Spaniſh dogs, have the care of this
+                    flock: the lacter are in France called of the <hi rend="italic">Pyrenees breed
+                        ;</hi> they are black and white, of the ſize of a large wolf, a large head
+                    and neck, armed with collars ſtuck with iron ſpikes. No wolf can ſtand againſt
+                    them ; but bears are more potent adversaries : if a bear can reach a tree, he is
+                    ſafe; he rises on his hind legs, with his back to the tree, and ſets the dogs at
+                    defiance. In the night the ſhepherds rely entirely on their dogs ; but on
+                    hearing them bark are ready with fire-arms, as the dogs rarely bark if a bear is
+                    not at hand. I was ſurpriſed to find that they are fed only with bread and milk.
+                    The head ſhepherd is paid 120 livres a-year wages and bread ; the others 80
+                    livres and bread. But they are allowed to keep goats, of which they have many
+                    which they milk every day. Their food is milk and bread, except the fleſh of
+                    ſuch ſheep or lambs as accidents give them. The head ſhepherd keeps on the
+                    mountain top, or an elevated ſpot, from whence he can the better see around
+                    while the flock traverses the declivities. In doing this the ſheep are expoſed
+                    to great danger in places that are ſtony ; for by walking among the rocks, and
+                    eſpecially the goats, they move the ſtones, which, rolling down the hills,
+                    acquire an accelerated force enough to knock a man down, and ſheep are often
+                    killed by them ; yet we ſaw how alert they were to avoid ſuch ſtones, and
+                    cautiouſly on their guard againſt them. I examined the ſheep attentively. They
+                    are in general polled, but ſome have horns ; which in the rams turn backwards
+                    behind the ears and project half a circle forward ; the ewes horns turn alſo
+                    behind the ears, but do not project : the legs white or reddiſh ; ſpeckled
+                    faces, ſome white, ſome reddiſh ; they would weigh fat, I reckon, on an average,
+                    from 15 lb. to 18 lb. a quarter. Some tails ſhort, ſome left long. A few black
+                    ſheep among them : ſome with a very little tuft of wool on their foreheads. On
+                    the whole they reſemble thoſe on the South Downs ; their legs are as ſhort as
+                    thoſe of that breed ; a point which merits obſervation, as they travel ſo much
+                    and ſo well. Their ſhape is very good ; round ribs and flat ſtraight backs ; and
+                    would with us be reckoned handſome ſheep ; all in good order and fleſh. In order
+                    to be ſtill better acquainted with them, I deſired one of the ſhepherds to catch
+                    a ram for me to feel, and examine the wool, which I found very thick and good of
+                    the carding sort, as may be ſuppoſed, I took a ſpecimen of it,</p>
+                <p>and also of a hoggit, or lamb of laſt year. In regard to the mellow ſoftneſs
+                    under the ſkin, which, in Mr Bakewell’s opinion, is a ſtrong indication of a
+                    good breed, with a diſpoſition to fatten, he had it in a much ſuperior degree to
+                    many of our Engliſh breeds, to the full as much ſo as the South Downs, which are
+                    for that point the beſt ſhort-woolled ſheep which I know in England. The fleece
+                    was on his back, and weighed, as I gueſſed, about 8 lb. Engliſh ; but the
+                    average, they ſay, of the flock is from four to five, as I calculated by
+                    reducing the Catalonian pound of 12 oz. to ours of 16, and is all sold to the
+                    French at 30s. the lb. French. This ram had the wool of the back part of his
+                    neck tied cloſe, and the upper tuft tied a ſecond knot by way of ornament; nor
+                    do they ever ſhear this part of the fleece for that reaſon : we ſaw ſeveral in
+                    the flock with this ſpecies of decoration. They ſaid that this ram would ſell in
+                    Catalonia for 20 livres. A circumſtance which cannot be too much commended, and
+                    deferves univerſal imitation, is the extreme docility they accuſtom them to.
+                    When I deſired the ſhepherd to catch one of his rams, I ſuppoſed he would do it
+                    with his crook, or probably not be able to do it at all ; but he walked into the
+                    flock, and ſingling out a ram and a goat, bid them follow him, which they did
+                    immediately ; and he talked to them while they were obeying him, holding out his
+                    hand as if to give them ſomething. By this method he brought me the ram, which I
+                    caught, and held without difficulty.”</p>
+                <p>The beſt sort of ſheep for fine wool are thoſe bred in Herefordſhire, Bevonſhire,
+                    and Worceſterſhire ; but they are ſmall, and black-faced, and bear but a ſmall
+                    quantity. Warwick, Leiceſterſhire, Buckingham, and Northamptonſhire, breed a
+                    large-boned ſheep, of the beſt ſhape and deepeſt wool we have. The marſhes of
+                    Lincolnſhire breed a very large kind of ſheep, but their wool is not good,
+                    unleſs the breed be mended by bringing in ſheep of other counties among them,
+                    which is a scheme of late very profitably followed there. In this county, it is
+                    no uncommon thing to give fifty guineas for a ram, and a guinea for the
+                    admiſſion of an ewe to one of theſe valuable males, or twenty guineas for the
+                    uſe of it for a certain number of ewes during one ſeaſon. Suffolk alſo breeds a
+                    very valuable kind of ſheep. The northern counties in general breed ſheep with
+                    long but hairy wool : however, the wool which is taken from the neck and
+                    ſhoulders of the Yorkſhire ſheep is uſed for mixing with Spaniſh wool in ſome of
+                    their fineſt cloths.</p>
+                <p>Wales bears a ſmall hardy kind of ſheep, which has the beſt taſted fleſh, but the
+                    worſt wool of all. Nevertheleſs it is of more extensive uſe than the fineſt
+                    Segovian fleeces ; for the benefit oſ the flannel manufacture is univerſally
+                    known. The ſheep of Ireland vary like thoſe of Great Britain : thoſe of the
+                    ſouth and eaſt being large and their fleſh rank : those of the north and the
+                    mountainous parts ſmall and their fleſh ſweet. The fleeces in the same manner
+                    differ in degrees of value. Scotland breeds a ſmall kind, and their fleeces are
+                    coarſe.</p>
+                <p>But the new Leiceſterſhire breed is the moſt faſhionable, and of courſe the moſt
+                    profitable breed in the iſland. Joſeph Altom of Clifton, who railed himſelf from
+                    a plough-boy, was the firſt who diſtinguiſhed him-<pb
+                        facs="gri_33125011196363_0350.tif" xml:id="eb03-17-s03-0344"/> ſelf in the
+                    midland counties of England for a ſuperior breed of sheep. How he improved his
+                    breed is not known ; but it was cuſtomary for eminent farmers in his time to go
+                    to Clifton in ſummer to chooſe and purchaſe ram-lambs, for which they paid two
+                    or three guineas. This man was ſucceeded by Mr Bakewell ; and it may reaſonably
+                    be ſuppoſed that the breed, by means of Altom’s ſtock, had paſſed the firſt
+                    ſtage of improvement before Mr Bakewell’s time. Still, however, it muſt be
+                    acknowledged, that the Leiceſterſhire breed of ſheep owes its preſent high ſtate
+                    of improvement to the ability and care of Mr Bakewell.</p>
+                <p>“ The manner in which Mr Bakewell raiſed his ſheep to the degree of celebrity in
+                    which they deſervedly ſtand, is, notwithſtanding the recentneſs of the
+                    improvement, and its being done in the day of thouſands now living, a thing in
+                    diſpute ; even among men high in the profeſſion, and living in the very diſtrict
+                    in which the improvement has been carried on !</p>
+                <p>“ Some are of opinion that he effected it by a croſs with the Wiltſhire breed ;
+                    an improbable idea, as their form altogether contradicts it : others, that the
+                    Ryeland breed were uſed for this purpoſe ; and with ſome ſhow of probability. If
+                    any croſs whatever was uſed, the Ryeland breed, whether we view the form, the
+                    ſize, the wool, the fleſh, or the fatting quality, is the most probable
+                    instrument of improvement.</p>
+                <p>“ Theſe ideas, however, are regiſtered merely as matters of opinion. It is more
+                    than probable that Mr Bakewell alone is in poſſeſſion of the ſeveral minutiæ of
+                    improvement ; and the public can only hope that at a proper time the facts may
+                    be communicated for the direction of future improvers.</p>
+                <p>“Whenever this ſhall take place, it will moſt probably come out that no croſs
+                    with any alien breed whatever has been uſed ; but that the improvement has been
+                    effected by ſelecting individuals from kindred breeds ; from the ſeveral breeds
+                    or varieties of long-woolled ſheep, with which Mr Bakewell was ſurrounded on
+                    almoſt every ſide, and by breeding, <hi rend="italic">inandin</hi><note
+                        anchored="true" n="4" place="bottom" type="authorial"><p>(c) <hi
+                                rend="italic">Inandin</hi> is a term uſed in the midland counties of
+                            England to cxpreſs breeding from the ſame family.</p></note> (c), with
+                    this ſelection : ſolicitouſly ſeizing the ſuperior accidental varieties
+                    produced; aſſociating theſe varieties; and ſtill continuing to ſelect, with
+                    judgment, the ſuperior individuals.</p>
+                <p>“ It now remains to give a deſcription of the ſuperior claſs of individuals of
+                    this breed, eſpecially ewes and wedders, in full condition, but not immoderately
+                    fat. The rams will require to be diſtinguiſhed afterwards.</p>
+                <p>“ The head is long, ſmall, and hornleſs, with ears ſomewhat long, and standing
+                    backward, and with the noſe ſhooting forward. The neck thin, and clean toward
+                    the head ; but taking a conical form ; ſtanding low, and enlarging every way at
+                    the baſe ; the fore-end altogether ſhort. The boſom broad, with the ſhoulders,
+                    ribs, and chine extraordinary full. The loin broad, and the back level. The
+                    haunches comparatively full toward the hips, but light downward ; being
+                    altogether ſmall in proportion to the fore-parts. The legs, at preſent, of a
+                    moderate length ; with the bone extremely fine. The bone throughout remarkably
+                    light. The</p>
+                <p>carcaſe, when fully fat, takes a remarkable form ; much wider than it is deep,
+                    and almoſt as broad as it is long. Full on the ſhoulder, wideſt on the ribs,
+                    narrowing with a regular curve towards the tail ; approaching the form of the
+                    turtle nearer perhaps than any other animal. The pelt is thin, and the tail
+                    ſmall. The wool is ſhorter than long wools in general, but much longer than the
+                    middle wools ; the ordinary length of ſtaple five to ſeven inches, varying much
+                    in fineneſs and weight.”</p>
+                <p>This breed ſurpaſſes every other in beauty of form ; they are full and weighty in
+                    the fore quarters ; and are remarkable for ſmallneſs of bone. Mr Marſhall, who
+                    has been of ſo much benefit to agriculture and his country by his publications,
+                    informs us, in his Rural Economy of the Midland Counties, that he has ſeen a rib
+                    of a ſheep of this breed contraſted with one of a Norfolk ſheep : the diſparity
+                    was ſtriking ; the latter nearly twice the ſize ; while the meat which covered
+                    the former was three times the thickneſs ; conſequently the proportion of meat
+                    to bone was in the one incomparably greater than in the other. Therefore, in
+                    this point of view, the improved breed has a decided preference : for ſurely
+                    while mankind continue to eat fleſh and throw away bone, the former muſt be, to
+                    the confirmer at leaſt, the more valuable.</p>
+                <p>The criterions of good and bad fleſh while the animal is alive differ in
+                    different ſpecies, and are not properly ſettled in the ſame ſpecies. One
+                    ſuperior breeder is of opinion, that if the fleſh is not looſe, it is of courſe
+                    good ; holding, that the fleſh of ſheep is never found in a ſtate of hardneſs,
+                    like that of ill-fleſhed cattle : while others make a fourfold diſtinction of
+                    the fleſh of ſheep ; as looſeneſs, mellowness, firmneſs, hardneſs : conſidering
+                    the firſt and the laſt equally exceptionable, and the second and third equally
+                    deſirable ; a happy mixture of the two being deemed the point of perfection.</p>
+                <p>The fleſh of ſheep, when ſlaughtered, is well known to be of various qualities.
+                    Some is compoſed of large coarſe grains, interſperſed with wide empty pores like
+                    a ſponge : others, of large grains, with wide pores filled with fat ; others, of
+                    fine cloſe grains, with ſmaller pores filled with fat : and a fourth, of cloſe
+                    grains, without any intermixture of fatneſs.</p>
+                <p>The fleſh of ſheep, when dreſſed, is equally well known to poſſeſs a variety of
+                    qualities : ſome mutton is coarſe, dry, and inſipid ; a dry ſponge, affording
+                    little or no gravy of any colour. Another sort is ſomewhat firmer, imparting a
+                    light-coloured gravy only. A third plump, ſhort, and palatable ; affording a
+                    mixture of white and red gravy. A fourth likewiſe plump and well-flavoured, but
+                    diſcharging red gravy, and this in various quantities.</p>
+                <p>It is likewiſe obſervable, that ſome mutton, when dreſſed, appears covered with a
+                    thick, tough, parchment-like integument ; others with a membrane comparatively
+                    fine and flexible. But theſe, and ſome of the other qualities of mutton, may not
+                    be wholly owing to breed, but in part to the age and the ſtate of fatneſs at the
+                    time of daughter. Examined in this light, whe<pb
+                        facs="gri_33125011196363_0351.tif" xml:id="eb03-17-s03-0345"/>ther we
+                    consider the degree of fatneſs, or their natural propenſity to a ſtate of
+                    fatneſs, even at as early age, the improved breed of Leiceſterſhire ſheep appear
+                    with many superior advantages.</p>
+                <p>The degree of fatneſs to which the individuals of this breed are capable of being
+                    raised, will perhaps appear incredible to thoſe who have not had an opportunity
+                    of being convinced by their own obſervation. “ I have ſeen wedders (ſays Mr
+                    Marſhall) of only two ſhear (two to three years old) ſo loaded with fat as to be
+                    ſcarcely able to make a run ; and whoſe fat lay ſo much without the bone, it
+                    ſeemed ready to be ſhaken from the ribs on the ſmalleſt agitation.</p>
+                <p>" It is common for the ſheep of this breed to have ſuch a projection of fat upon
+                    the ribs, immediately behind the shoulder, that it may be eaſily gathered up in
+                    the hand, as the flank of a fat bullock. Hence it has gained, in technical
+                    language, the name of the fore-flank { a point which a modern breeder never
+                    fails to touch in judging of the quality of this breed of ſheep.</p>
+                <p>“ What is, perhaps, ſtill more extraordinary, it is not rare for the rams, at
+                    leaſt of this breed, to be ‘ cracked on the back ; that is, to be cloven along
+                    the top of the chine, in the manner fat ſheep generally are upon the rump. This
+                    mark is considered as an evidence of the beſt blood.</p>
+                <p>" Extraordinary, however, as are theſe appearances while the animals are living,
+                    the facts are ſtill more ſtriking after they arc ſlaughtered. At Litchfield, in
+                    February 1785, I law a fore quarter of mutton, fatted by Mr Rrincep of Croxall,
+                    and which meaſured upon the ribs four inches of fat. It muſt be acknowledged,
+                    however, that the Leiceſterſhire breed do not produce ſo much wool as most other
+                    long-woolled ſheep.”</p>
+                <p>As the practice of letting rams by the ſeason is now become profitable, it may be
+                    uſeful to mention the method of rearing them.</p>
+                <p>“ The principal ram-breeders save annually twenty, thirty, or perhaps forty ram
+                    lambs ; caſtration being ſeldom applied, in the firſt inſtance, to the produce
+                    of a valuable ram, for in the choice of theſe lambs they are led more by blood,
+                    or parentage, than by form ; on which, at an early age, little dependence can be
+                    placed. Their treatment from the time they are weaned, in July or Auguſt, until
+                    the time of ſhearing, the firſt week in June, consiſts in giving them every
+                    indulgence of keep, in order to puſh them forward for the ſhow ; it being the
+                    common practice to let ſuch as are fit to be let the firſt ſeason, while they
+                    are yet yearlings—provincially ‘ ſharhogs.’</p>
+                <p>“ Their firſt paſture, after weaning, is pretty generally,</p>
+                <p>I believe, clover that has been mown early, and has got a second time into head ;
+                    the heads of clover being conſidered as a moſt forcing food of ſheep. After this
+                    goes off, turnips, cabbages, colewort, with hay, and (report ſays) with corn.
+                    But the uſe of this, the breeders ſeverally deny, though collectively they may
+                    be liable to the charge.</p>
+                <p>“ Be this as it may, ſomething conſiderable depends on the art of making up, not
+                    lambs only, but rams of all ages. Fat, like charity, covers a multitude of
+                    faults ; and beſides, is the beſt evidence of their fatting quality wſhich their
+                    owners can produce (i. e their natural propenſity to a ſtate of fatneſs), while
+                    in the fatneſs of the</p>
+                <p>ſharhogs is ſeen theſe degree of inclination to fat at an early age.</p>
+                <p>“ Fatting quality being the one thing needful in grazing ſtock, and being found,
+                    in ſome conſiderable degree at leaſt, to be hereditary, the ſattest rams are of
+                    courte the beſt ; though other attachments, well or ill placed, as to form or
+                    faſhionable points, will perhaps, have equal or greater weight in the minds of
+                    ſome men, even in this enlightened age. Such ſhearlings as will not make up
+                    ſufficiently as to form and fatneſs, are either kept on to another year to give
+                    them a fair chance, or are caſtrated, or butchered while ſharhogs.”</p>
+                <p>From the firſt letting, about 40 years ago, to the year 1780, the prices kept
+                    gradually rising from fifteen ſhillings to a guinea, and from one to ten. In
+                    1780 Mr Bakewell let ſeveral at ten guineas each ; and, what is rather
+                    inexplicable, Mr Parkinſon of Quarndon let one the ſame year for twenty-five
+                    guineas; a price which then aſtoniſhed the whole country.</p>
+                <p>From that time to 1786 Mr Bakewell’s ſtock roſe rapidly from ten to a hundred
+                    guineas ; and that year he let two thirds of one ram (reſerving one third of the
+                    uſual number of ewes to himſelf) to two principal breeders, for a hundred
+                    guineas each, the entire ſervices of the ram being rated at three hundred
+                    guineas ! Mr Bakewell making that year, by letting twenty rams only, more than a
+                    thouſand pounds !</p>
+                <p>Since that time the prices have been ſtill riſing. Four hundred guineas have been
+                    repeatedly given. Mr Bake- well, this year (1789) makes, ſays Mr Marſhall,
+                    twelve hundred guineas by three rams (brothers, we believe); two thouſand of
+                    ſeven ; and of his whole letting, full three thouſand guineas !</p>
+                <p>Beſide this extraordinary ſum made by Mr Bakewell, there are six or ſeven other
+                    breeders who make from five hundred to a thouſand guineas each. The whole amount
+                    of monies produced that year in the Midland Counties, by letting rams of the
+                    modern breed for one ſeason only, is eſtimated, by thoſe who are adequate to the
+                    ſubject, at the almoſt incredible ſum of ten thouſand pounds.</p>
+                <p>Rams previous to the ſeaſon are reduced from the cumbrous fat ſtate in which they
+                    are ſhown. The uſual time of ſending them out is the middle of September. They
+                    are conveyed in carriages of two wheels with ſprings, or hung in flings, 20 or
+                    30 miles a-day, ſometimes to the diſtance of 200 or 300 miles. They are not
+                    turned loose among the ewes, but kept apart in a ſmall incloſure, where a couple
+                    of ewes only are admitted at once. When the ſeaſon is over every care is taken
+                    to make the rams look as fat and handſome as poſſible.</p>
+                <p>In the choice of ewes the breeder is led by the ſame criterions as in the choice
+                    of rams. Breed is the firſt object of conſideration. Excellency, in any ſpecies
+                    or variety of live-ſtock, cannot be attained with any degree of certainty, let
+                    the male be ever ſo excellent, unleſs the females employed likewiſe inherit a
+                    large proportion of the genuine blood, be the ſpecies or variety what it may.
+                    Hence no prudent naan ventures to give the higher prices for the Diſhley rams,
+                    unless his ewes are deeply tinctured with the Diſhley blood. Next to breed is
+                    fleſh, fat, form, and wool.</p>
+                <p>After the lambs are weaned, the ewes are kept in common feeding places, without
+                    any alteration of pas<pb facs="gri_33125011196363_0352.tif"
+                        xml:id="eb03-17-s03-0346"/>ture, previous to their taking the ram. In winter
+                    they are kept on graſs, hay, turnips, and cabbages. As the heads of the modern
+                    breed are much finer than moſt others, the ewes lamb with leſs difficulty.</p>
+                <p>The female lambs, on being weaned, are put to good keep, but have not ſuch high
+                    indulgence ſhown them as the males, the prevailing practice being to keep them
+                    from the ram the firſt autumn.</p>
+                <p>At weaning time, or previouſly to the admiſſion of the ram, the ewes are culled,
+                    to make room for the thaves or ſhearlings, whoſe ſuperior blood and faſhion
+                    intitle them to a place in the breeding flock. In the work of culling, the
+                    ram-breeder and the mere grazier go by ſomewhat different guides. The grazier’s
+                    guide is principally age, ſeldom giving his ewes the ram after they are four
+                    shear. The ram-breeder, on the contrary, goes chiefly by merit ; an ewe that has
+                    brought him a good ram or two is continued in the flock ſo long as ſhe will
+                    breed. There are inſtances of ewes having been prolific to the tenth or twelfth
+                    year ; but in general the ewes of this breed go off at six or ſeven ſhear.</p>
+                <p>In the practice of ſome of the principal ram-breeders, the culling ewes are never
+                    ſuffered to go out of their hands until after they are ſlaughtered, the breeders
+                    not only fatting them, but having them butchered, on their premiſes. There are
+                    others, however, who ſell them ; and ſometimes at extraordinary prices. Three,
+                    four, and even ſo high as ten, guineas each have been given for theſe
+                    outcaſts.</p>
+                <p>There are in the flocks of ſeveral breeders ewes that would fetch at auction
+                    twenty guineas each. Mr Bakewell is in poſſeſſion of ewes which, if they were
+                    now put up to be fold to the beſt bidder, would, it is eſtimated, fetch no leſs
+                    than fifty each, and perhaps, through the preſent ſpirit of contention, much
+                    higher prices.</p>
+                <p>The following inſtructions for purchaſing ſheep, we hope, will be acceptable to
+                    our country readers.— The farmer ſhould always buy his ſheep from a worſe land
+                    than his own, and they ſhould be big-boned, and have a long greaſy wool, curling
+                    cloſe and well. Theſe ſheep always breed the fineſt wool, and are alſo the moſt
+                    approved of by the butcher ſor ſale in the market. For the choice of ſheep to
+                    breed, the ram muſt be young, and his skin of the ſame colour with his wool, for
+                    the lambs will be of the ſame colour with his ſkin. He ſhould have a large long
+                    body ; a broad forehead, round, and well riſing ; large eyes ; and ſtraight and
+                    ſhort noſtrils. The polled ſheep, that is, thoſe which have no horns, are found
+                    to be the best breeders. The ewe ſhould have a broad back ; a large bending neck
+                    ; ſmall, but ſhort, clean, and nimble legs ; and a thick, deep wool covering her
+                    all over.</p>
+                <p>To know whether they be found or not, the farmer ſhould examine the wool that
+                    none of it ſhe wanting, and ſee that the gums be red, the teeth white and even,
+                    and the briſket ſkin red, the wool firm, the breath ſweet, and the feet not hot.
+                    Two years old is the beſt time for beginning to breed; and their firſt lambs
+                    ſhould not be kept too long, to weaken them by ſuckling, but be fold as soon as
+                    conveniently may be. They will breed advantageouſly till they are ſeven years
+                    old. The farmers have a method, of knowing the age of a ſheep, as a horſe’s is
+                    known, by the mouth. When a ſheep</p>
+                <p>is one ſhear, as they expreſs it, it has two broad teeth before ; when it is two
+                    ſhear, it will have four ; when three, six ; and when four, eight. After this
+                    .their mouths begin to break.</p>
+                <p>The difference of land makes a very great difference in the ſheep. The fat
+                    paſtures breed ſtraight tall ſheep, and the barren hills and downs breed ſquare
+                    ſhort ones ; woods and mountains breed tall and ſlender ſheep ; but the beſt of
+                    all are thoſe bred upon new-ploughed land and dry grounds. On the contrary, all
+                    wet and moist lands are bad for ſheep, eſpecially ſuch as are ſubject to be
+                    overflowed, and to have sand and dirt left on them. The ſalt marſhes are,
+                    however, an exception to this general rule, for their ſaltneſs makes amends for
+                    their moiſture ; ſalt, by reaſon of its drying quality, being of great advantage
+                    to ſheep.</p>
+                <p>As to the time of putting the rams to the ewes, the farmer muſt consider at what
+                    time of the ſpring his graſs will be fit to maintain them and their lambs, and
+                    whether he has turnips to do it till the graſs comes ; for very often both the
+                    ewes and lambs are deſtroyed by the want of food ; or if this does not happen,
+                    it the lambs are only ſtinted in their growth by it, it is an accident that they
+                    never recover. The ewe goes 20 weeks with lamb, and according to this it is eaſy
+                    to calculate the proper time. The beſt time for them to yean is in April, unleſs
+                    the owner has very forward graſs or turnips, or the ſheep are field ſheep. Where
+                    you have not incloſures to keep them in, then it may be proper they ſhould yean
+                    in January, that the lambs may be ſtrong by May-day, and be able to follow the
+                    dam over the fallows and water-furrows ; but then the lambs that come ſo early
+                    muſt have a great deal of care taken of them, and ſo indeed ſhould all other
+                    lambs at their firſt falling, elſe while they are weak the crows and magpies
+                    will pick their eyes out.</p>
+                <p>When the ſheep are turned into fields of wheat or rye to feed, it muſt not be too
+                    rank at firſt, for if it be, it generally throws them into ſcourings. Ewes that
+                    are big ſhould be kept but bare, for it is very dangerous to them to be fat at
+                    the time of their bringing forth their young. They may be well fed, indeed, like
+                    cows, a fortnight beforehand, to put them in. heart- Mortimer’s Huſhandry, p.
+                    243.</p>
+                <p>The feeding ſheep with turnips is one great advantage to the farmers. When they
+                    are made to eat turnips they soon fatten, but there is some difficulty in
+                    bringing this about. The old ones always refuſe them at firſt, and will
+                    ſometimes faſt three or four days, till almoſt famiſhed ; but the young lambs
+                    fall to at oncs. The common way, in ſome places, of turning a flock of ſheep at
+                    large into a field of turnips, is very diſadvantageous, for they will thus
+                    deſtroy as many in a fortnight as would keep them a whole winter. There are
+                    three other ways of feeding them on this food, all of which have their ſeveral
+                    advantages.</p>
+                <p>The firſt way is to divide the land by hurdles, and allow the ſheep to come upon
+                    ſuch a portion only at a time as they can eat in one day, and ſo advance the
+                    hurdles farther into the ground daily till all be eaten. This is infinitely
+                    better than the former random method; but they never eat them clean even this
+                    way, but leave the bottoms and outsides ſcooped in the ground : the people pull
+                    up theſe indeed with iron crooks, and lay them before the ſheep again, but they
+                    are common<pb facs="gri_33125011196363_0353.tif" xml:id="eb03-17-s03-0347"/>ly
+                    ſo fouled with the creature’s dung and urine, and with the dirt from their feet,
+                    that they do not care for them ; they eat but little of them, and what they do
+                    eat does not nouriſh them like the freſh roots.</p>
+                <p>The ſecond way is by incloſing the ſheep in hurdles, as in the former; but in
+                    this they pull up all the turnips which they ſuppoſe the ſheep can eat in one
+                    day, and daily remove the hurdles over the ground whence they have pulled up the
+                    turnips : by this means there is no waſte, and leſs expence, for a perſon may in
+                    two hours pull up all thoſe turnips ; the remaining ſhells of which would have
+                    employed three or four labourers a-day to get up with their crooks out of the
+                    ground trodden hard by the feet of the ſheep ; and the worſt is, that as in the
+                    method of pulling up firſt, the turnips are eaten up clean ; in this way, by the
+                    hook, they are waſted, the ſheep do not eat any great part of them, and when the
+                    ground comes to be tilled afterwards for a crop of corn, the fragments of the
+                    turnip's are ſeen in ſuch quantities on the ſurface, that half the crop at leaſt
+                    ſeems to have been waſted.</p>
+                <p>The third manner is to pull up the turnips, and remove them in a cart or waggon
+                    to ſome other place, ſpreading them on a freſh place every day ; by this method
+                    the ſheep will eat them up clean, both root and leaves. The great advantage of
+                    this method is, when there is a piece land not far off which wants dung more
+                    than that where the turnips grew, which perhaps is alſo too wet for the ſheep in
+                    winter, and then the turnips will, by the too great moiſture and dirt of the
+                    soil, ſometimes ſpoil the ſheep, and give them the rot. Yet ſuch ground will
+                    often bring forth more and larger turnips than dry land, and when they are
+                    carried off, and eaten by the ſheep on ploughed land, in dry weather, and on
+                    green ſward in wet weather, the ſheep will ſucceed much better ; and the moiſt
+                    soil where the turnips grew not being trodden by the ſheep, will be much fitter
+                    for a crop of corn than if they had been fed with turnips on it. The expence of
+                    hurdles, and the trouble of moving them, are ſaved in this cafe, which will
+                    counterbalance at leaſt the expence of pulling the turnips and carrying them to
+                    the places where they are to be eaten. They muſt always be carried off for
+                    oxen.</p>
+                <p>The diſeaſes to which ſheep are ſubject are theſe, rot, red-water, foot-rot and
+                    hoving, ſcab, dunt, rickets, fly-ſtruck, flux, and burſting. Of each of theſe we
+                    ſhall give the beſt deſcription in our power, with the moſt approved
+                    remedies.</p>
+                <p>The rot, which is a very pernicious diſeaſe, has of late engaged the attention of
+                    ſcientific farmers. But neither its nature nor its cauſe has yet been fully
+                    aſcertained. Some valuable and judicious obſervations have, however, been made
+                    upon it, which ought to be circulated, as they may perhaps, in many caſes,
+                    furniſh an antidote for this malignant diſtemper, or be the means of leading
+                    others to ſome more efficacious remedy. Some have ſuppoſed the rot owing to the
+                    quick growth of graſs or herbs that grow in wet places. Without premising, that
+                    all-bounteous Providence has given to every animal its peculiar taſte, by which
+                    it diſtinguiſhes the food proper tor its preſervation and support, if not
+                    vitiated by fortuitous circumſtances, it ſeems very difficult to diſcover on
+                    philoſophical principles why the quick growth of graſs ſhould render it noxious,
+                    or why any herb ſhould at one ſeaſon produce fatal effects, by the admiſſion of
+                    pure water only into its component parts, which at other times is perfectly
+                    innocent, although brought to its utmoſt ſtrength and maturity by the genial
+                    influence of the ſun. Beſides, the constant practice of moſt farmers in the
+                    kingdom, who with the greateſt ſecurity feed their meadows in the ſpring, when
+                    the graſs ſhoots quick and is full of juices, militates directly againſt this
+                    opinion.</p>
+                <p>Mr Arthur Young, to whom agriculture is much indebted, aſcribes this diſeaſe to
+                    moiſture. In confirmation of this opinion, which has been generally adopted, we
+                    are informed, in the Bath Society papers<note anchored="true" n="5" place="margin" type="authorial"><p>* Vol. I. art. xlvi.</p></note> *, by
+                    a correſpondent, that there was a paddock adjoining to his park which had for
+                    ſeveral years cauſed the rot in moſt of the ſheep which were put into it. In
+                    1769 he drained it, and from that time his ſheep were free from this malady. But
+                    there are facts which render it doubtful that moiſture is the ſole cauſe. We are
+                    told, the dry limed land in Derbyſhire will produce the rot as well as water
+                    meadows and stagnant marſhes ; and that in ſome wet grounds ſheep ſuſtain no
+                    injury for many weeks.</p>
+                <p>Without attempting to enumerate other hypotheſes which the ingenious have formed
+                    on this ſubject, we ſhall purſue a different method in order to diſcover the
+                    cauſe. On diſſecting ſheep that die of this diſorder, a great number of infects
+                    called <hi rend="italic">flukes</hi> (see <hi rend="smallcaps">Fasciola)</hi>
+                    are found in the liver. That theſe flukes are the cauſe of the rot, therefore,
+                    is evident ; but to explain how they come into the liver is not ſo eaſy. It is
+                    probable that they are ſwallowed by the ſheep along with their food while in the
+                    egg ſtate. The eggs depoſited in the tender germ are conveyed with the food into
+                    the ſtomach and inteſtines of the animals, whence they are received into the
+                    lacteal veſſels, carried off in the chyle, and paſs into the blood ; nor do they
+                    meet with any obſtruction until they arrive at the capillary veſſels of the
+                    liver. Here, as the blood filtrates through the extreme branches, anſwering to
+                    thoſe of the <hi rend="italic">vena porta</hi> in the human body, the ſecerning
+                    veſſels are too minute to admit the impregnated ova, which, adhering to the
+                    membrane, produce thoſe animalculæ that feed upon the liver and deſtroy the
+                    ſheep. They much reſemble the flat fiſh called plaice, are ſometimes as large as
+                    a silver two-pence, and are found both in the liver and in the pipe (anſwering
+                    to that of the <hi rend="italic">vena cava}</hi> which conveys the blood from
+                    the liver to the heart.</p>
+                <p>The common and moſt obvious objection to that opinion is, that this insect is
+                    never found but in the liver, or in ſome parts of the viſcera, of ſheep that are
+                    diſeaſed more or leſs ; and that they muſt therefore be bred there. But this
+                    objection will loſe its force, when we consider that many infects undergo
+                    ſeveral changes, and exiſtunder forms extremely different from each other. Some
+                    of them may therefore appear and be well known under one ſhape, and not known to
+                    be the same under a ſecond or third. The fluke may be the laſt ſtate of ſome
+                    aquatic animal which we at preſent very well know under one or other of its
+                    previous forms.</p>
+                <p>If this be admitted, it is eaſy to conceive that ſheep may, on wet ground
+                    eſpecially, take multitudes of theſe ova or eggs in with their food ; and that
+                    the ſtomach and viſcera of the ſheep being a proper nidus for them, they of
+                    courſe hatch, and appearing in their fluke<pb facs="gri_33125011196363_0354.tif"
+                        xml:id="eb03-17-s03-0348"/> or laſt ſtate, feed on the liver of the animal,
+                    and occasion this diſorder.</p>
+                <p>It is a ſingular fact, “ that no ewe ever has the rot while ſhe has a lamb by her
+                    ſide.” The reaſon of this may be, that the impregnated ovum passes into the
+                    milk, and never arrives at the liver. The rot is fatal to ſheep, hares, and
+                    rabbits, and ſometimes to calves ; but never infeſts animals of a larger
+                    ſize.</p>
+                <p>Miller says that parſley is a good remedy for the rot in ſheep. Perhaps a ſtrong
+                    decoction of this plant, or the oil extracted from its ſeeds, might be of
+                    ſervice. Salt is alſo a uſeful remedy. It ſeems to be an acknowledged fact that
+                    ſalt marſhes never produce the rot. Salt indeed is pernicious to most infects.
+                    Common ſalt and water expel worms from the human body; and ſea-weed, if laid in
+                    a garden, will drive away infects ; but if the ſalt is ſeparated by ſteeping it
+                    in the pureſt ſpring-water for a few days, it abounds with animalcule of various
+                    ſpecies.</p>
+                <p>Liſle, in his book of huſbandry, informs us of a farmer who cured his whole flock
+                    of the rot by giving each ſheep a handful of Spaniſh ſalt for five or six
+                    mornings ſucceſſively. The hint was probably taken from the Spaniards, who
+                    frequently give their ſheep ſalt to keep them healthy. On ſome farms perhaps the
+                    utmoſt caution cannot always prevent this diſorder. In wet and warm ſeaſons the
+                    prudent farmer will remove his ſheep from the lands liable to rot. Thoſe who
+                    have it not in their power to do this may give each ſheep a ſpoonful of common
+                    ſalt, with the ſame quantity of flour, in a quarter of a pint of water, once or
+                    twice a-week. When the rot is recently taken, the ſame remedy given four or five
+                    mornings ſucceſſively will in all probability effect a cure. The addition of the
+                    flour and water (in the opinion of Mr Price of Saliſhury, to whole excellent
+                    paper in the Bath Society’s Tranſactions we own ourſelves much indebted) will
+                    not only abate the pungency of the ſalt, but diſpoſe it to mix with the chyle in
+                    a more gentle and efficacious manner.</p>
+                <p>A farmer of a conſiderable lordſhip in Bohemia visiting the hot-wells of
+                    Carlſhad, related how he preſerved his flocks of ſheep from the mortal diſtemper
+                    which raged in the wet year 1769, of which ſo many periſhed. His preſervative
+                    was very simple and very cheap : “ He ſed them every night, when turned under a
+                    ſhed, cover, or ſtables, with haſhed fodder ſtraw ; and, by eating it greedily,
+                    they all eſcaped.”</p>
+                <p><hi rend="italic">" Red-water</hi> is a diſorder moſt prevalent on wet grounds. I
+                    have heard (says Mr Arthur Young) that it has ſomctimes been cured by tapping,
+                    as for a dropſy. This operation is done on one side of the belly towards the
+                    flank, just below the wool.</p>
+                <p><hi rend="italic">“ The foot-rot</hi> and <hi rend="italic">hoving,</hi> which is
+                    very common on low fenny grounds, is cured by keeping the part clean, and lying
+                    at rest in a dry paſture.”</p>
+                <p>The <hi rend="italic">ſcab</hi> is a cutaneous diſeaſe owing to an impurity of
+                    the blood, and is moſt prevalent in wet lands or in rainy ſeaſons. It is cured
+                    by tobacco-water, brimſtone, and alum, boiled together, and then rubbed ever the
+                    ſheep. If only partial, tar and greaſe may be sufficient. But the ſimpleſt and
+                    moſt efficacious remedy for this diſeaſe was communicated to the Society for the
+                    Encouragement of Arts, &amp;c, by Sir Joſeph Banks. " Take one pound of
+                    quickſilver, half a pound of Venice turpentine, half a pint of oil of
+                    turpentine, and four pounds of hogs lard<note anchored="true" n="6"
+                        place="bottom" type="authorial"><p>(c) By ſome unaccountable miſtake the
+                            laſt ingredient, the four pounds of hogs lard, is omitted in the receipt
+                            publiſhed in the Tranſactions of the Society ; a circumſtance that might
+                            be productive of bad effects.--· The leaf which contained the receipt
+                            has since been cancelled, and a new one printed.</p></note> (c). Let
+                    them be rubbed in a mortar till the quickſilver is thoroughly incorporated with
+                    the other ingredients ; for the proper mode of doing which, it may be proper to
+                    take the advice, or even the aſſiſtance, of ſome apothecary or other perſon uſed
+                    to make ſuch mixtures.</p>
+                <p>“ The method of uſing the ointment is this : Beginning at the head of the ſheep,
+                    and proceeding from between the ears along the back to the end of the tail, the
+                    wool is to be divided in a furrow till the ſkin can be touched ; and as the
+                    furrow is made, the finger ſlightly dipped in the ointment is to be drawn along
+                    the bottom of it, where it will leave a blue ſtain on the ſkin and adjoining
+                    wool : from this furrow similar ones must be drawn down the ſhoulders and thighs
+                    to the legs, as far as they are woolly ; and if the animal is much infected, two
+                    more ſhould be drawn along each ſide parallel to that on the back, and one down
+                    each ſide between the fore and hind legs.</p>
+                <p>“ Immediately after being dreſſed, it is uſual to turn the ſheep among other
+                    ſtock, without any fear of the infection being communicated ; and there is
+                    ſearcely an inſtance of a ſheep ſuffering any injury from the application in a
+                    few days the blotches dry up, the itching ceaſes, and the animal is completely
+                    cured : it is generally, however, thought proper not to delay the operation
+                    beyond Michaelmas.</p>
+                <p>“ The <hi rend="italic">hippoboſca ovina,</hi> called in Lincolnshire sheep f <hi
+                        rend="italic">agg,</hi> an animal well known to all ſhepherds, which lives
+                    among the wool, and is hurtful to the thriving of ſheep both by the pain its
+                    bite occaſions and the blood it sucks, is deſtroyed by this application, and the
+                    wool is not at all injured. Our wool-buyers purchaſe the fleeces on which the
+                    ſtain of the ointment is viſible, rather in preference to others, from an
+                    opinion that the uſe of it having preſerved the animal from being vexed either
+                    with the ſcab or faggs, the wool is leſs liable to the defects of joints or
+                    knots; a fault obſerved to proceed from every ſudden flop in the thriving of the
+                    animal, either from want of food or from diſeaſe.</p>
+                <p>“ This mode of curing was brought into that part of Lincolnſhire where my
+                    property is ſituated about 13 years ago, by Mr Stephenſon of Mareham, and is now
+                    ſo generally received, that the ſcab, which uſed to be the terror of the
+                    farmers, and which frequently deterred the more careful of them from taking the
+                    advantage of paſturing their ſheep in the fertile and extenſive commons with
+                    which that diſtrict abounds, is no longer regarded with any apprehenſion : by
+                    far the moſt of them have their flock anointed in autumn, when they return from
+                    the common, whether they ſhow any ſymptons of ſcab or not ; and having done ſo,
+                        conclude<pb facs="gri_33125011196363_0355.tif" xml:id="eb03-17-s03-0349"/>
+                    them ſafe for some time from either giving or receiving infection. There are
+                    people who employ themſelves in the buſiness, and contract to anoint our large
+                    ſheep at five ſhillings a ſcore, inſuring for that price the ſucceſs of the
+                    operation ; that is, agreeing, in caſe many of the ſheep break out afreſh, to
+                    repeat the operation gratis even ſome months afterwards.”</p>
+                <p>The <hi rend="italic">dunt</hi> is a diſtemper cauſed by a bladder of water
+                    gathering in the head. No cure for this has yet been diſcovered.</p>
+                <p>The <hi rend="italic">rickets</hi> is a hereditary diſeaſe for which no antidote
+                    is known. The firſt ſymptom is a kind of light- headedneſs, which makes the
+                    affected ſheep appear wilder than uſual when the ſhepherd or any perſon
+                    approaches him. He bounces up ſuddenly from his lare, and runs to a diſtance, as
+                    though he were purſued by dogs. In the second ſtage the principal ſymptom is the
+                    ſheep’s rubbing himſelf againſt trees, &amp;c. with ſuch fury as to pull off his
+                    wool and tear away his fleſh. “ The diſtreſſed animal has now a violent itching
+                    in his skin, the effect of an highly inflamed blood ; but it does not appear
+                    that there is ever any cutaneous eruption or ſalutary critical diſcharge. In
+                    ſhort, from all circumstances, the fever appears now to be at its height.”— The
+                    laſt ſtage of this diſeaſe “ ſeems only to be the progreſs of diſſolution, after
+                    an unfavourable crisis. The poor animal, as condemned by Nature, appears ſtupid,
+                    walks irregularly (whence probably the name <hi rend="italic">rickets),</hi>
+                    generally lies, and eats little: theſe ſymptoms increaſe in degree till death,
+                    which follows a general conſumption, as appears upon dissection of the carcaſe ;
+                    the juices and even ſolids having ſuffered a general diſſolution.”</p>
+                <p>In order to diſcover the ſeatand nature of this diseaſe, ſheep that die of it
+                    ought to be diſſected. This is ſaid to have been done by one gentleman, Mr Beal
+                    and he found in the brain or membranes adjoining a maggot about a quarter of an
+                    inch long, and of a browniſh colour. A few experiments might eaſily determine
+                    this fact.</p>
+                <p>The fly-struck is cured by clipping the wool off as far as infected, and rubbing
+                    the parts dry with lime or wood-aſhes ; curriers oil will heal the wounds, and
+                    prevent their being ſtruck any more ; or they may be cured with care, without
+                    clipping, with oil of turpentine, which will kill all the vermin where it goes ;
+                    but the former is the sureſt way.</p>
+                <p>The flu <hi rend="italic">x</hi> is another diſeaſe to which ſheep are ſubject.
+                    The beſt remedy is ſaid to be, to houſe the ſheep immediately when this
+                    diſtemper appears, to keep them very warm, and feed them on dry hay, giving them
+                    frequent gliſters of warm milk and water. The cauſe of that diſtemper is either
+                    their feeding on wet lands, or on graſs that is become moſſy by the lands having
+                    been fed many years without being ploughed. When the farmer perceives his
+                    ſheep-walks to become moſſy, or to produce bad graſs, he ſhould either plough or
+                    manure with hot lime, making kilns either very near or in the ſheep walks,
+                    becauſe the hotter the lime is out on, the ſweeter the graſs comes up, and that
+                    early in the year.</p>
+                <p><hi rend="italic">Bursting,</hi> or as it is called in ſome places the <hi
+                        rend="italic">blast,</hi> attacks ſheep when driven into freſh graſs or
+                    young clover. They overeat themſelves, foam at the mouth, ſwell exceedingly,
+                    breathe very quick and ſhort, then jump up, and inſtantly fall down dead. In
+                    this caſe, the only chance of having their life is by ſtabbing them in the maw
+                    with an instrument made for the purpoſe. The infiniment is a hollow tube, with a
+                    pointed weapon paſſing through it. A hole is made with the pointed weapon ;
+                    which is immediately withdrawn, and the hole is kept open by inſerting the tube
+                    till the wind is diſcharged.</p>
+                <p>Sheep are infeſted with worms in their noſe called aestru <hi rend="italic">s
+                        oves,</hi> and produced from the egg of a large twowinged fly. The frontal
+                    ſinuſes above the noſe in ſheep and other animals are the places where theſe
+                    worms live and attain their full growth. Theſe ſinuſes are always full of a ſoft
+                    white matter, which furniſhes theſe worms with a proper nouriſhment, and are
+                    ſufficiently large for their habitation; and when they have here acquired their
+                    deſtined growth, in which they are fit to undergo their changes for the
+                    fly-ſtate, they leave their old habitation, and, falling to the earth, bury
+                    themſelves there ; and when theſe are hatched into flies, the female, when ſhe
+                    has been impregnated by the male, knows that the noſe of a ſheep or other animal
+                    is the only place for her to depoſit her eggs, in older to their coming to
+                    maturity. Mr Vallisnieri, to whom the world owes ſo many diſcoveries in the
+                    infect claſs, is the firſt who has given any true account of the origin of theſe
+                    worms. But though their true hiſtory had been till that time unknown, the
+                    creatures themſelves were very early diſcovered, and many ages since were
+                    eſteemed great medicines in epilepsies.</p>
+                <p>The fly produced from this worm has all the time of its life a very lazy
+                    diſpoſition, and does not like to make any uſe either of its legs or wings. Its
+                    head and corſelet together are about as long as its body, which is composed of
+                    five rings, ſtreaked on the back ; a pale yellow and brown are there diſpoſed in
+                    irregular ſpots ; the belly is of the same colours, but they are there more
+                    regularly diſpoſed, for the brown here makes three lines, one in the middle, and
+                    one on each side, and all the intermediate ſpaces are yellow. The wings are
+                    nearly of the ſame length with the body, and are a little inclined in their
+                    position, ſo as to lie upon the body : they do not, however, cover it ; but a
+                    naked ſpace is left between them. The ailerons or petty wings which arc found
+                    under each of the wings are of a whitiſh colour, and perfectly cover the
+                    balancers, so that they are not to be ſeen without lifting up theſe.</p>
+                <p>The fly will live two months after it is firſt produced, but will take no
+                    nouriſhment of any kind ; and possibly it may be of the same nature with the
+                    butterflies, which never take any food during the whole time of their living in
+                    that ſtate. Reaumur, Hiſt. Inſi vol iv. p. 552, &amp;c.</p>
+                <p>To find a proper compoſition for marking ſheep is a matter of great importance,
+                    as great quantities of wool are every year rendered uſeleſs by the pitch and tar
+                    with which they are uſually marked. The requiſite qualities for ſuch a
+                    compoſition are, that it be cheap, that the colour be ſtrong and laſting, ſo as
+                    to bear the changes of weather, and not to injure the wool. Dr Lewis recommends
+                    for this purpoſe melted tallow, with ſo much charcoal in fine powder ſtirred
+                    into it as is ſufficient to make it of a full black colour, and of a thick
+                    confidence. This mixture, being applied warm with a marking iron, on pieces of
+                    flannel, quickly fixed or hardened, bore moderate rubbing, reſiſted the ſun and
+                        rain.<pb facs="gri_33125011196363_0356.tif" xml:id="eb03-17-s03-0350"/> and
+                    yet could be waſhed out freely with soap, or ley, or ſtale urine. In order to
+                    render it ſtill more durable, and prevent its being rubbed off, with the tallow
+                    may be melted an eighth, ſixth, or fourth, of its weight of tar, which will
+                    readily waſh out along with it from the wool. Lewis’s Com. Phil. Techn. p.
+                    361.</p>
+                <p><hi rend="italic smallcaps">Sheep</hi><hi rend="italic">-Stealing.</hi> See <hi
+                        rend="smallcaps">Theft.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

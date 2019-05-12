@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0310-02"
+                facs="encyclopaediabri24chisrich_0333.jp2" type="entry">
+                <p><label>SCHAFARIK (Czech, <hi rend="italic">Šafařík</hi>), PAVEL JOSEF</label>
+                    (1795-1861), Slavonic philologist, was born of Slovak parents at Kobeljarova, a
+                    village of northern Hungary, where his father was a Protestant clergyman. His
+                    first production was a volume of poems in Czech entitled <hi rend="italic">The
+                        Muse of Tatra with a Slavonic Lyre</hi> (Levocza, 1814). In 1815 he began a
+                    course of study at the university of Jena, and while there translated into Czech
+                    the <hi rend="italic">Clouds</hi> of Aristo-phanes and the <hi rend="italic"
+                        >Maria Stuart</hi> of Schiller. In 1817 he removed to Prague and joined the
+                    literary circle of which Dobrovsky, Jungmann and Hanka were members. From 1819
+                    to 1833 he was head master of the high school at Neusatz in the south of
+                    Hungary. There he studied Servian literature and antiquities, acquired many rare
+                    books and manuscripts, and published a collection of Slovak folk-songs in
+                    collaboration with Kollar and others (1823-1827). In 1826 his <hi rend="italic"
+                        >Geschichte der slawischen Sprache und Literatur nach allen Mundarten</hi>
+                    appeared at Budapest (2nd ed., 1869). This book was the first attempt to give
+                    any-thing like a systematic account of the Slavonic languages as a whole. In
+                    1833 he returned to Prague, where he spent the remainder of his h'fe. There he
+                    published his <hi rend="italic">Serbische Lesekörner oder historisch-kritische
+                        Beleuchtung der Serbischen Mundart,</hi> and in 1837 his great work <hi
+                        rend="italic">Slovanské Starožitnosti</hi> (“Slavonic Antiquities ”). The “
+                    Antiquities ” have been translated into Polish, Russian and German; a second
+                    edition (1863) was edited by J. Jirečeck. In 1840 he published in conjunction
+                    with Palacký <hi rend="italic">Die ältesten Denkmäler der böhmischen
+                        Sprache.</hi> In 1837 poverty compelled him to accept the uncongenial office
+                    of censor of Czech publications, which he abandoned in 1847 on becoming
+                    custodian of the Prague public h*brary. In 1842 he published his <hi
+                        rend="italic">Slovanský Národopis,</hi> in which he sought to give a
+                    complete account of Slavonic ethnology. He was also for some time conductor of
+                    the “ Journal ” of the Bohemian Museum, and edited the first volume of the <hi
+                        rend="italic">Vybor,</hi> or selections from old Czech writers, which
+                    appeared under the auspices of the Prague literary society in 1845. To this he
+                    prefixed a grammar of the Old Czech language, <hi rend="italic">Počátková
+                        staroéeské mluvnice.</hi> In 1848 he was made professor of Slavonic
+                    philology in the university of Prague, but resigned in 1849. He was then made
+                    keeper of the university library. In 1857 he published <hi rend="italic"
+                        >Glagolitische Fragmente</hi> in collaboration with Höfler; but in the same
+                    year, as a result of overwork, ill health and family anxieties, he became
+                    insane. He was nevertheless continued in his appointment until his death in
+                    1861.</p>
+                <p>Schafarik’s collected works, <hi rend="italic">Sebrané Spisy,</hi> were published
+                    at Prague. 1862-1865; his <hi rend="italic">Geschichte der südslawischen
+                        Literatur</hi> was edited by Jireček in 3 vols. (1864-1865).</p>
+                <pb xml:id="eb11-24-s03-0311" facs="encyclopaediabri24chisrich_0334.jp2"/>
+
+            </div>
+        </body>
+    </text>
+</TEI>

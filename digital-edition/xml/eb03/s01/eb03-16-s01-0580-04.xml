@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196389_0586.tif" type="entry" xml:id="eb03-16-s01-0580-04"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SABBATARIANS</label>, or <hi rend="smallcaps">seventh day baptists,</hi> a
+                    ſect of anabaptiſts; thus called, becauſe they obſerved the Jewiſh or
+                    Saturday-Sabbath, from a perſualion that it was never abrogated in the New
+                    Teſtament by the inſtitution of any other.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

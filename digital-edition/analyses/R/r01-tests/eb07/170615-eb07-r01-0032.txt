@@ -1,0 +1,62 @@
+Let
+r
+=CD=the radius of the rolls EF and
+mm •    d=
+maximum depth of rail.
+d, =minimum depth.
+e
+=CB = distance of real and false centres.
+2=the angle LCD.
+g— 2re.
+A=r2 + e2 .
+x=the abscissa in inches
+1 f ,    ∙1
+y=the ordinate in inches ∫    al ‘
+A=BI.
+, i , 2r + r∕+cf v
+∖
+c then have ⅞-, --~-,
+A
+and
+y=h—
+s ∕Λ+7.c0s
+z
+in the first quadrant of the roller, or from O0 to 90°, or from 1 to 9 inches in a three-feet rail, and
+y=h—s/k
+—√∕.cos2 in the second quadrant, or from 9
+to 18 inches ;
+.    2r.3,14159
+but ≈=-==-. 10x=lo .10x ;
+300
+hence
+y=Jh^tzg
+cos(
+22 ∙⅛4 0 15 g
+.10    for every inchofx,
+/ZZ
+∕r. 6,2831852 ,n
+∖
+ory=A—
+V
+A±ÿcos^    . IOxy,
+or y=A— √ A ±⅛r cos (r. ,0174533.10x)∙
+The rolls EF and
+mn
+should be both equal, and likewise equal to the required length of the
+rail between the bearings, which, as the above formula stands, is 3 feet, but having the length, breadth, and depth of any required rail given, the size of the rolls may be determined; for their circumference will always be equal to the given length of rail between the bearings, viz. 3, 4, or 5 feet, as the case may be, and all the rest is got from the above equation, which is general for all sizes, by merely noting, that when the length
+. 180
+is any other than 3 feet, —
+. x,
+must be substituted for 10x; where
+a
+equals the number of inches of half the length of the rail between the supports. Thus, for instance, for a five-feet rail the part in the final equation within the brackets will be (r . ,017453.6x). The natural cosines are to be used, and
+g
+is to be applied although the cosine may = 0.
+A fish-bellied rail, 50 lbs. to the yard, and with depths of 5 inches maximum and 3∙8 inches minimum, compared with a parallel rail of the same weight, and the depth due to that weight, namely, 4∙4 inches, each laid at three feet bearings, andhaving the thickness of theirribs and the form of their heads exactly similar, will be deflected, as the numbers 1881 for the fish-belly, and 2282 for the equivalent parallel ; that is to say, a thickness of iron of about 3-1 Oths of an inch, must be added to the parallel rail in order to make it equal to the fish-belly. This proposition will nearly shew the gain obtained by the use of fish-bellies for all theusual lengths of bearing, and may be taken at 11 to 9, since, in all cases, it is stiffness which is so essentially required. Mere strength will always be had with the sizes now generally adopted ; and it is consequently against deflection which we have to guard, at the same time looking to economy, and not expending immense sums of money unnecessarily, as has been done in purchasing rails much heavier than are required. So much, hou'ever, depends on the quality of the iron, that we would strongly recommend every rail to be thoroughly tested when received from the manufacturer, and the results in each case registered. This wτ ould soon enable such a valuable collection of facts to be made, as that all hypothesis would cease ; whereas, hitherto, there have been such discrepancies between experiments made by persons of the first eminence, that, practically, the subject is involved in as much uncertainty as ever.
+Wooden sleepers, which should be laid on all embankments till they are thoroughly consolidated, ought to be wide and long, and it will not be found too much to give them ten feet in length and one foot in width for a three-feet bearing, having a proportional increase and decrease at any other bearing. The cheapest way will be to buy the sleepers in the round, and have them ripped in two by circular saws of about three feet in diameter, or even more, and withallthe Ieethbrokenoffexcepteverythirdorfourtll. This will prevent the saw from choaking, and, in a great measure, from heating, which occasions the instrument to buckle, as it is termed. The boring of the blocks should also be done by machinery before they are delivered to the contractor, and a proportional decrease be made in his charge for laying the permanent way ; and if the company do not perform this part of the work, the contractor will find it much to his interest to set up a machine for himself, if his contract exceed half a mile in length.
+Various have been the opinions respecting the kind of joint by which the rails are connected, or, more properly speaking, respecting the shape of their ends ; but this diversity of opinion ought not to have existed, and has only been a consequence of our want of experience on the subject. Itstandstoreason, andhasbeen found to beafact,that butt joints, that is to say, when the ends of the rails are at right angles to their length, will always occasion a shock in passing over them, even if ever so well fitted ; and if, as is too generally the case, no regard is had to the temperature in laying the way, wide gaps will be found at each joining, particularly in winter. Half-lap joints are much preferable to butts, and greatly diminish the shock, but are still liable to objection ; in the first place, through their weakening the rail ; and, in the second, for still giving a very unpleasant jar to the carriages, although in a less degree than the butts. If they are laid right and left, as shewn below, it will improve them for diagonal joints. The form of joint we should recommend is given in fig. 11, in which the arrow shews the direction of the train. The slope ofthe joint must be placed exactly contrary upon the other line of rails, so that the wheels never meet the pointed end of the rail, but always run off It then needs no other care, than that the point should of the two be the most prominent towards the wheel, and, if it is not so, the joining rail should be taken down a little w ith a file.
+Treenails should be made of good heart of oak, well seasoned, until thoroughly dry, or of African teak, straightgrained; and each treenail should be cylindrical, one inch and 
+a
+half in diameter, and six inches
+in
+length, having a circular hole, half an inch in diameter, and six inches in length, bored through the centre for the insertion of the iron spike to fix the chair. They are sometimes made by being turned

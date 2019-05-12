@@ -1,0 +1,76 @@
+expense oflocomotive transport increasing so much with an increased velocity. This desirable method will no doubt eventually be much practised. It would be almost impossible without a telegraph.
+The effects of high wind upon a train, especially a sidewind, which binds the flanges of the wheels against the rails, and very much impedes the velocity, as well as increasing the wear and tear, renders it a desirable thing to have its force measured at all the principal stations, so that whenever it exceeds a certain standard, to be determined by experiment, a second engine may be sent out to assist the train. The most complete instrument for this purpose is the anemometer, invented by Mr. Osier of Birmingham, now used at the Philosophical institution of that town, at Plymouth, and in other places. This also combines so many other arrangements, as well as that for measuring the force of the wind, each of which it transfers by machinery to paper, that it is in fact the heavens registering themselves, and for a cost of about L.50 leaves nothing to desire.
+For railway purposes merely, a more simple contrivance will be sufficient, although the cost will not be very materially decreased, if it be fitted up with the requisite attention to convenience as well as accuracy. For instance, if a vane with a long tail, high above the top of the engine-house,and having at its pointing end a board one foot square, be fitted up in the following manner, it will be sufficient for all the wantsof the locomotive department. The vane should be fixed on a hollow pole, which should turn with it and descend thluogh a tube down to about five feet of the floor of the engine-house, where there should be a horizontal dial-plate, on which should traverse a pointer fixed to the vane-pole. This pointer would always indicate the direction of the wind ; and in order to ascertain its force, the board, one foot square, on the pointing end of the vane, should act on a spiral spring, and work a drum by a wheel and pinion, communicating by a cord, with a similar drum at the bottom of the vane-pole, where a vertical dial-plate should be fixed, on the outside, and opposite to the lower drum, on which a hand traversing round the vertical dial-plate would shew the force of the wind.
+According to the power of the engine, and the nature of the usual traffic, experience will soon point out when a second engine ought to be dispatched ; and a table being formed for each point of the compass for this, should then be invariably acted on at all times, unless other local circumstances occasioned any alterations in the general average of the loads.
+To estimate the force of the wind, we have, by the experiments of Dr. Hutton, a plane surface of one square foot, at a velocity of 20 feet per second, suffering a resistance of 12 ounces ; and as it varies very nearly as the square of the velocity, we have in pounds, calling
+f
+any other force, and
+V
+the velocity,
+/3 .
+sjf
+= 20 feet :
+v
+feet, s7 4 '
+and as the number of feet per second, multiplied by ∙6818, produces the number of miles per hour, the above becomes, for miles,
+: nj~f
+=13- 636 :
+v
+miles.
+or b i3 ? ; √∕=13∙636 :
+ν
+2
+or ∙866 :
+su∕
+∕=13-636 :
+v,
+whence the velocity in miles per hour is
+13-636
+√7 or 15∙746√7= ∙,
+•866
+and we have also sufficiently near
+f=~.
+248
+and for every useful purpose, the force may be had within 8 ¼jth of the above by using this simple tormula,
+∕= ∙004e2 .
+So much has been said about the inconvenience and danger of tunnels, that it is necessary, whilst there are yet so many railways to be called into existence, to state that there is positively no inconvenience whatever in them, except the change from day-light to lamp-light. This matter was clearly investigated and proved upon the London and Birmingham railway, a special inspection having been there made in the Primrose-hill tunnel by Dr. Paris and Dr. Watson, Messrs. Lawrence and Lucas, surgeons, and Mr. Phillips, lecturer on chemistry, who reported as follows :—
+“ We, the undersigned, visited together, on the 20th of February 1837, the tunnel now in progress under Primrose-hill, with the view of ascertaining the probable effect of such tunnels upon the health and feelings of those who may traverse them. The tunnel is carried through clay, and is laid with brick-work. Its dimensions, as described to us, are as follows: height, 22 feet ; length, 3750 feet; width, 22 feet. It is ventilated by five shafts, from'6 to 8 feet in diameter, their depth being 35 to 55 feet.
+“ The experiment was made under unfavourable circumstances; the western extremity being only partially open, the ventilation is less perfect than it will be when the work is completed ; the steam of the locomotive engine was also suffered to escape for twenty minutes, while the carriages were stationary, near the end of the tunnel ; even during our stay near the unfinished end of the tunnel, where the engine remained stationary, although the cloud caused by the steam was visible near the roof, the air for many feet above our heads remained clear, and apparently unaffected by steam or effluvia of any kind ; neither was there any damp or cold perceptible.
+“ We found the atmosphere of the tunnel dry, and of an agreeable temperature, and free from smell ; the lamps of the carriages were lighted ; and in our transit inwards and back again to the mouth of the tunnel, the sensation experienced was precisely that of travelling in a coach by night between the walls of a narrow street ; the noise did not prevent easy conversation, nor appear to be much greater in the tunnel than in the open air.
+“ Judging from this experiment, and knowing the ease and certainty with which thorough ventilation may be effected, we are decidedly of opinion' that the dangers incurred in passing through well-constructed tunnels are no greater than those incurred in ordinary travelling upon an open railway, or upon a turnpike road, and that the apprehensions which have been expressed, that such tunnels are likely to prove detrimental to the health, or inconvenient to the feelings of those who may go through them, are perfectly futile and groundless.”
+The above will, of course, set the question at rest, especially as the Leeds and Selby tunnel, only 17 feet in height, and 700 feet in length, is found to produce no inconvenience ; and as any persons may now try the experiment themselves
+Hence we obtain the results given in the following table ;
+Velocity in miles per hour.
+Force of wind in avoirdupois pounds.
+Velocity in miles per hour.
+Force of wind in avoirdupois pounds.
+10
+0∙4
+50
+10.1
+15
+0∙9
+55
+12∙2
+20
+1-6
+60
+14-5
+25
+2∙5
+70
+19∙7
+30
+3∙6
+80
+25∙8
+35
+4∙9
+90
+32∙7
+40
+6∙5
+100
+403
+45
+8∙2

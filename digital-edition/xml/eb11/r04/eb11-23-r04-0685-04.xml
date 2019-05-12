@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0685-04"
+                facs="encyclopaediabri23chisrich_0732.jp2" type="entry">
+                
+                <p><label>ROMILLY, JOHN ROMILLY</label>, <hi rend="smallcaps">1st Baron</hi>
+                    (1802-1874), English judge, was the second son of Sir Samuel Romilly, and
+                    was born on the 10th of January 1802. He was educated at Trinity College,
+                    Cambridge, and was called to the bar at Gray’s Inn in 1827. He first entered
+                    parliament in 1832 as member for Bridport, and in 1843 he became a queen’s
+                    counsel. He was elected M.P. for Devonport in 1847, and was
+                    appointed solicitor-general in 1848 in Lord John Russell’s administration and
+                    attorney-general in 1850. In 1851 he was appointed master of the rolls, and
+                    continued to sit for Devonport till the general election in 1852, when he was
+                    defeated. He was the last master of the rolls to sit in parliament. Romilly
+                    was raised to the peerage as Baron Romilly of Barry in 1866, and</p>
+                <pb xml:id="eb11-23-r04-0686" facs="encyclopaediabri23chisrich_0733.jp2"/>
+                <p>retired from the mastership of the rolls in 1873. He did much to remove the
+                    restrictions which had long hampered research among the public records and state
+                    papers. Lord Romilly died in London on the 23rd of December 1874.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

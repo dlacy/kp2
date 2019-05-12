@@ -1,0 +1,34 @@
+spect can be 
+observed 
+in the actions of air and 
+water; and this had always appeared a great defect 
+in 
+newton’s theory : but 
+it 
+was only a defect of the theory attributed to him. But it is also true, that the observed action is but one half of what is just now deduced from this improved view of the subject. whence arises this difference? 
+The 
+reason is this : we have given a very erroneous account of the motions of the filaments. A filament Έ F does not move as represented in sig. 6. with two rectangular inflexions at I and at H, and a path IH between them parallel to C B. The process of na ture is more like what is represented in sig. io. 
+It is observed, 
+that at the anterior part of the body A B, there remains a quantity of fluid ADB, almost, if not alto gether, stagnant, of a Angular shape, having two curved concave sides Aa D, B 
+b 
+D, along which the middle filaments glide. This fluld ls very siowly changed. — The late sir Charles Knowles, an officer of the British navy, equally eminent for his fcientisic proseffional knowledge and for his military talents, made many beautiful experiments for asceitaining the paths of the filaments of water. At a distance up the stream, he allowed small jets of à coloured fluid, which did not mix with water, to make part of the stream; and the experiments were made in troughs with sides and bottom of plate glass. A small taper was placed at a consider able height above, by which the shadows of the colour ed filaments were most distinct ly projected on a white plane held below the trough, fo that they were accu rately drawn with a pencil. A few important parti culars may be here mentioned. 
+The still water ADC lasted for a long while before it was renewed; and it seemed to be gradually wafted by abrasion, by the adhesmn of the surrounding water, which gradually licked away the outer parts from D to A and B; and it seemed to renew itself in the direction CD opposite to the motion of the stream. There was, however, a considerable intricacy and eddy in this motion. some (seemingly supersicial) water was continually, but siowly, flowing outward from the line DC, while other water was seen within and below it, coming inwards and going backwards. 
+The coloured lateral filaments were most constant su their form, while the body was the same, although the ve locity was in some cases quadrupled. Any change which this produced seemed confined to the supersicial filaments. 
+As the filaments were deflected, they were also con ftipated, that is, the curved parts of the filaments were nearer each other than the parallel straight filaments up the stream; and this constipation was more considerable as the prow was more obtuse and the deflexion greater. 
+The inner filaments were ultimately more deflected than those without them.; that is, if a line be drawn touching the curve EFIH in the point H of contrary flexure, where the concavity begins to be on the side next the body, the angle HKC, contained between the axis and this tangent line, is so much the greater as the filament is nearer the axis. 
+when the body exposed to the stream was a box of upright sides, flat bottom, and angular prow, like a wedge, having its edge also upright, the filaments were not all deflected laterally, as theory would make us expect; but the filaments near the bottom were also de 
+fleeted downwards as well as laterally, and glided alon 
+at some distance under the bottom, forming lines of double curvature. 
+1 he breadth of the stream that was deflected was much greater than that of the body; and the sensible deflection begun at a considerable distance up the stream, especially in the outer filaments. 
+Lasily, the form of the curves was greatly influenced by the proportion between the width of the trough and that of the body. The curvature was always less when the trough was very wide in proportion to the body. 
+Great varieties were also observed in the motion or velocity of the filaments. In general, the filaments increased in velocity outwards from the body to a certain small distance, which was nearly the same in all cases, and then diminished all the way outward. This was observed by inequalities in the colour of the filaments, by which one could be observed to outstrip an other. I he retardation of those next the body seemed to proceed from friction; and it was imagined that without this the velocity there would always have been greatest. 
+I hese observations give us considerable information respecting the mechanism of these motions, and the action of fluids upon solids. The pressure in the duplicate ratio of the velocities comes here agqin into view, we found, that although the velocities were very different, the curves were precisely the same. Now the observed pressures arise from the transverse forces by which each particle of a filament is retained in its curvilineal path; and we know that the force by which a body is retain ed m any curve is directly as the square of the velocity, and mversely as the radius of curvature. The curvature, therefore, remaining the same, the transverse forces, and consequently the preffiire on the body, must be as the square of the velocity : and, on the other hand, we can see pretty clearly (indeed it is rigoroussy demonstrated by D Alembert), that whatever be the velocities, the curves 
+will 
+be the same. For it is known in hydraulics, that it requires a fourfold or ninefold pressure to pro duce a double or triple velocity. And as all pressures are propagated through a perfect fluid without diminution, this fourfold pressure, while it produces a double velocity,. produces alio fourfold transverse pressures, which wili retain the particles, moving twice as fast, in the same curvilineal paths. And thus we see that the lmpulses, as they are called, and resistances of fluids, have a certain relation to the weight of a column of fluid, whose height is the height necessary for producing the velocity.. How it happens that a plane surface, im mersed in an extended fluid, suftains just half the prese sure which lt would have sustained had the motions been such as are sketched in sigure 6th, is a matter of more curious and difficult investigation. But we see evidently that the pressure must be less than what is there assigned;; the stagnant water ahead of the body greatly di minishes the ultimate deflections of the filaments : And it may be demonstrated, that when the part BE of the 
+canal, sig. 9. is inclined to the part AB in an angle less than 90°, the pressures B G along the whole canal are as the versed sine of the ultimate angle of deflection, or the versed sine of the angle which the part BE makes with the part AB. Therefore, since the deflexions resemble more the sketch given in sig. 1 o. the accumulated sum of all these forces BG of sig. 9. must be lei’s than 
+the 
+similar sum corresponding to sig. 6. that is, 
+less 
+than 
+O 
+2 

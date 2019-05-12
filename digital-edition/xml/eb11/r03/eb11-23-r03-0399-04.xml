@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0399-04"
+                facs="encyclopaediabri23chisrich_0422.jp2" type="entry">
+
+                <p><label>ROBERT</label> (1275-1343), king of Naples, was the son of Charles IL,
+                    duke of Anjou and king of Naples, and in his youth took part in several
+                    expeditions to Sicily with the object of wresting the island from Frederick III.
+                    of Aragon. But his efforts, like those of his father and grandfather, proved
+                    fruitless, and the Angevins were compelled at last to agree to the peace of
+                    Caltabellotta (1302). On the death of Charles in 1309 Robert succeeded to the
+                    throne, although his nephew Caroberto (Carlo Roberto), son of his elder brother
+                    Charles Martel, who had died before his father, had a prior claim. Hewas
+                    crowned by Pope Clement V. at Avignon, and on the descent into Italy of the
+                    emperor Henry VII. was appointed papal vicar in Romagna to resist the
+                    imperialists; thenceforth he became the recognized leader of the Guelphs or papal
+                    faction in Italy and took part in all the wars against the Ghibellines. On various
+                    occasions he obtained for himself or his sons the suzerainty over Rome,
+                    Florence, and other cities, and was regarded as the most powerful Italian prince
+                    of his day. Pope John XXII. created him papal vicar in Italy against the emperor
+                    Louis the Bavarian. In r32o Robert summoned his kinsman Philip V. of France to
+                    Italy, and he waged war against Sicily once more from 1325 to rj4r, but failed
+                    to drive out the Aragonese. He died in Γ343, just as he was about to lead
+                    another expedition to the island. Robert was a man of learning, devoted to</p>
+                <pb xml:id="eb11-23-r03-0400" facs="encyclopaediabri23chisrich_0423.jp2"/>
+               <p>literature, and a generous patron of literary men: he befriended the poet
+                    Petrarch, who admired the king so greatly as to express the wish to see him lord
+                    of all Italy; while Boccaccio celebrated the virtues and charms of Robert’s
+                    natural daughter Maria, under the name of Fiammetta. Dante was perhaps too
+                    severe on Robert, whom he described as a <hi rend="italic">re da sermone</hi>
+                    (word king), and contemporary critics accused him of covetousness, a fault
+                    partly excused by his pressing need of money to pay the expenses of his
+                    perpetual wars. In spite of his power and influence, his position as a leader of
+                    the Guelphs was greatly shaken during the latter years of his reign, while at
+                    home he was never able completely to subjugate his rebellious barons.</p>
+               <p>See G. Villani, <hi rend="italic">Cronache;</hi> M. Murena, <hi rend="italic"
+                        >Vita di Roberto d’Anzib, re di Napoli</hi> (Naples, 1770): and <hi
+                        rend="italic">Archivio storico Siciliano</hi> (1884, viii. 511 seq.).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

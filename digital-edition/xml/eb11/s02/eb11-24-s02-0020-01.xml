@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0020-01"
+                facs="encyclopaediabri24chisrich_0037.jp2" type="entry">
+                <p><label>ST JUN1EN</label>, a town of west-central France in the department of
+                    Haute-Vienne, on the right bank of the Vienne, 26 m. W. by N. of Limoges on the
+                    railway from Limoges to Angoulême. Pop. (1906) town, 8484; commune, 11,400. The
+                    12th century collegiate church, a fine example of the Romanesque style of
+                    Limousin, contains a richly sculptured tomb of St Junien, the hermit of the 6th
+                    century from whom the town takes its name. Another interesting building is the
+                    Gothic chapel of Notre-Dame, with three naves, rebuilt by Louis XI., standing
+                    close to a medieval bridge over the Vienne. The town, which ranks second in the
+                    department in population and industry, is noted for leather-dressing and the
+                    manufacture of gloves and straw paper.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

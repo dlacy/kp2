@@ -1,0 +1,36 @@
+straight lines 
+and 
+with an accelerated motion, and at last darted into the orifice with great rapidity. He had observed a thing similar to this in a horizontal ca nal, in which lie bad set up a small board like a dam or bar, over which the water flowed. He had thrown 
+a 
+goostberry into the water, in order to measure the velo city at the bottom, the gooseberry being a small matter heavier than water. It approached the dam uniformly till about three inches from it. Here it almost stood still, but it continued to advance till almost in contact. It then rose from the bottom along the inside of the dam with an accelerated motion, and quickly escaped over the top. 
+Hence he concluded, that the water which covers the anterior part of the body exposed to the stream is not perfectly stagnant, and that the filaments recede from the axis in curves, which converge to the sursace of the body as different hyperbolas converge to the same affymptote, and that they move with a velocity continually increasing till they escape round the sides of the body. 
+He had established (by a pretty reasonable theory, confirmed by experiment) a proposition concerning the prestnre which water in motion exerts on the surface along which it glides, viz. 
+that the pressure is equal to that which it would exert if at rest 
+minus 
+weight of the column whose height would produce the velocity of the paffmg fream. 
+Consequently the pressure which the stream exerts on the sursace perpendicularly exposed to it will depend on the velocity with which it glides along it, and will diminish from the centre to the circumference. This, says he, may be the reason why the impulse on a plane wholly immersed is but one half of that on a plane which deflects the whole stream. 
+He contrived a very ingenious instrument sor exami ning this theory. A square brass plate ABGF (fig. 
+20.) was pierced with a great number of holes, and sixed in the front of a shallow box represented edgewise in fig. 
+21. The back of this box was pierced with a hole 
+C 
+in which was inserted the tube of glass CDE, bent square at D. This instrument was exposed to a stream of water, which beat on the brass plate. The water having filled the box through the holes, stood at an equal height in the glass tube when the surrounding water was stagnant; but when it was in motion, it always stood in the tube above the level of the smooth water without, and thus indicated the pressure occasion ed by the action of the stream. 
+when the instrument was not wholly immersed, there was always a considerable accumulation against the front of the box, and a depression behind it. The water before it was by no means stagnant : indeed it should not be, as Mr Buat observes;; it consists of the water which was escaping on all sides, and therefore upwards from the axis of the stream, which meets the plate perpendi cularly in 
+C 
+considerably under the sursace. It escapes upwards; and if the body were sufficiently immersed, it would escape in this direction almost as easily as laterally. But in the present circumstances, it heaps up, till the elevation occasions it to fall off sidewise as fast as it is renewed, when the instrument was immersed more than its semidiameter under the sursace, the water still rose above the level, and there was a great depression immediately behind this elevation. In con sequence of this difficulty 
+of escaping upwards, the wa 
+ter flows off laterally; and if the horizontal 
+dimensions 
+of the sursace is great, this lateral efflux becomes more difficult, and requires a greater accumulation. From this it happens, that the resistance of broad surfaces equally immersed is greater than in the proportion of the breadth. A plane of two feet wide and one foot deep, when st is not completely immersed, will be more resisted than a plane two feet deep and one foot wide; for there will be an accumulation against both : and even if these were equal in height, the additional surface will be greatest in the widest body; and the ele vation will be greater, because the lateral escape is more difficult. 
+The circumstances chiefly to be attended to are these. 
+The pressure on the centre was much greater than towards the border, and, in general, the height of the water in the tube DE was more than y of the height necessary for producing the velocity when only the central hole was open, when various holes were opened at different distances from the centre, the height of the water in DH continually diminished as the hole was nearer the border. At a certain distance from the border the water at E was level with the furronnding water, so that no pressure was exerted on that hole. But the most unexpected and remarkable circumstance was, that, in great velocities, the holes at the very border, and even to a small distance from it, not only sustained no pressure, but even gave out water; for the water in the tube was lower than the surrounding water. Mr Buat calls this a 
+r.on preffton. 
+In a cafe in which the velocity ot the stream was three feet, and the pressure on the central hole caused the water in the vertical tube to starid 33 lines or 44 of an inch above the level of the surrounding sinooth water, the action on a hole at the lower corner of the square caustst it to stand 12 line lower than the surrounding water. Now the velocity of the stream in this experiment was 36 inches 
+per 
+second. This requires 214· lines for its productive fall; whereas the pressure on the central hole was 33. This approaches to the pressure on a surface which deflects it wholly. The intermediate holes gave every variation of pressure, and the diminution was more rapid as the holes were nearer the edge j but the law of diminution could not be observed. 
+This is quite a new and most unexpected circumstance in the action of fluids on solid bodies, and renders the subject more intricate than ever; yet it is by no means inconsistent with the genuine principles of hydrostatics or hydraulics. In as far as Mr buat’s proposition concerning the pressure of moving fluids is true, it is very reasonable to say, that when the lateral velocity with which the ssuid tends to escape exceeds the velocity of percuslion, the height necessary for producing this velocity must exceed that which would produce the other, and a non preffion must be observed. And if we conssder the forms of the la teral filaments near the edge of the body, we see that the concavity of the curve is turned towards the body, and that the centrifugal forces tend to diminish. their pressure on the body. If the middle alone were struck with a considerable velocity, the water might even rebound, as is frequently observed. This 
+actual 
+rebounding is here prevented by the surrounding wa 
+ter, 
+which is moving with the 
+same 
+velocity; but 

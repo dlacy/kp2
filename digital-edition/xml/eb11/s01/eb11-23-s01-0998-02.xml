@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-s01-0998-02"
+                facs="encyclopaediabri23chisrich_1061.jp2" type="entry">
+                <p><label>ṢAFFĀRIDS</label>, a Persian dynasty of the 9th century, founded by Yakub
+                    (Yaqub) b. Laith b. Saffär (“ coppersmith ”) about 866, who, originally a leader
+                    of bandits and outlaws, became governor of Sejistan. He soon added to his
+                    province Herat, Fars, Balkh and Tokharistan, overthrew the Tahirids in Khorasan,
+                    and, nominally still dependent on the caliphs of Bagdad, estab-lished a dynasty
+                    in Sejistan (see Caliphate, section C, <hi rend="italic">Abbasids,</hi> § 10,
+                    and Persia: <hi rend="italic">History,</hi> section B). Soon after 900 the
+                    dynasty became subordinate to the Sāmānids (<hi rend="italic">q.v.</hi>) and few
+                    of its rulers had any real authority. Under the last of the dynasty, Taj ud-din
+                    Binaltagin (1225-1229), a usurper of the royal family of the Khwarizm shahs, the
+                    country was captured by the Mongols.</p>
+                <p>See S. Lane Poole, <hi rend="italic">Mahommedan Dynasties</hi> (1894), p. 129;
+                    Stockvis, <hi rend="italic">Manuel d'histoire</hi> (Leiden, 1888), vol. i. p.
+                    137; on the later Ṣaffārids, H. Sauvaire, in the <hi rend="italic">Numismatic
+                        Chronicle</hi> (1881).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

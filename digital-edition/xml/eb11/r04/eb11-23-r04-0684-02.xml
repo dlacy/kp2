@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0684-02"
+                facs="encyclopaediabri23chisrich_0731.jp2" type="entry">
+
+                <p><label>ROME</label> a city and the county-seat of Floyd county, in the N.W. part
+                    of Georgia, U.S.A., at the junction of the Etowah and</p>
+               <p>Oostanaula rivers, which here form the Coosa. Pop. (1900) 7291, of whom 2830
+                    were negroes; (1910) 12,099. It is served by the Central of Georgia, the Western
+                    &amp; Atlantic (leased by the Nashville, Chattanooga &amp; St Louis),
+                    the Southern and the Rome &amp; Northern railways, and the Coosa river is
+                    navigable from this point to the falls of the river in Alabama. The city is the
+                    seat of Shorter College (for women), which was established in 1873 as the
+                    Cherokee Female College, and received its present name in 1877, when it was
+                    rebuilt and endowed by Colonel Alfred Shorter; and of the Berry Industrial
+                    School (1902), for mountain boys. Rome is situated in a rich agricultural region
+                    producing cotton, cereals, vegetables and fruits, for which it is a trading
+                    centre, and is a shipping point for bauxite, mined in the vicinity. Other
+                    mineral products of this region are iron, limestone, cement rock, fire-brick
+                    clay, coal, slate and marble, Rome’s principal manufactures are cotton,
+                    cotton-seed oil, lumber, foundry and machine-shop products, bricks and
+                    agricultural implements. Its site was originally within the territory of the
+                    Cherokee, and on the other side of the Oostanaula river there is said to have
+                    been at one time an Indian village, which, <hi rend="underline">lik</hi> e
+                    several other Creek villages, was called Chiaha (or Chehaw). Here, in October
+                    1793, in his Etowah campaign, John Sevier, with militia from Tennessee, crushed
+                    a party of marauding Indians; the battle is commemorated by a monument in Myrtle
+                    Hill cemetery. Floyd county was erected in 1833. The first settlement of Rome
+                    was made in 1834, and immediately afterwards it became the county-seat. Rome was
+                    first chartered as a city in 1847. In 1863 there were brilliant cavalry
+                    manœuvres in its vicinity, which resulted in the capture (May 3) of Colonel Abel
+                    D. Streight (Federal) with 1800 men by General Nathan B. Forrest (Confederate),
+                    with a force one-third the size of that of his opponent. On the 19th of May 1864
+                    the city was captured by a detachment of the Federal Army of General William T.
+                    Sherman, then conducting his Atlanta campaign. In 1848-75 Rome was the home of
+                    Charles Henry Smith (1826-1903), a popular humorist, who wrote under the name “
+                    Bill Arp.” In 1906 East Rome (pop. 671 in 1900) and North Rome (pop. 960 in
+                    1900), which was formerly called Forestville, were annexed to the city. ’</p>
+            </div>
+        </body>
+    </text>
+</TEI>

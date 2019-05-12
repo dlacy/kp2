@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0425-04"
+                facs="encyclopaediabri23chisrich_0458.jp2" type="entry">
+
+               <p>                   <label>ROCHAMBEAU, JEAN BAPTISTE DONATIEN DE VIMEUR</label>,
+                    <hi rend="smallcaps">Comte de</hi> (1725-1807), French soldier, was born at
+                    Vendôme (Loir-et-Cher) on the ist of July 1725. He was originally destined for
+                    the church and was brought up at the Jesuit college at Blois, but after the
+                    death of his elder brother he entered a cavalry regiment, served in Bohemia and
+                    Bavaria and on the Rhine, and in 1747 had attained the rank of colonel He took
+                    part in the siege of Maestricht in 1748, became governor of Vendôme in 1749, and
+                    after distinguishing himself in 1756 in the Minorca expedition was promoted
+                    brigadier of infantry. In 1757 and 1758 he fought in Germany, notably at
+                    Crefeld, received several wounds in the battle of Clostercamp (1760), was
+                    appointed <hi rend="italic">maréchal de camp</hi> in 1761 and inspector of
+                    cavalry and was frequently consulted by the ministers on technical points. In
+                    1780 he was sent, with the rank of lieutenant-general, in command of 6000 French
+                    troops to help the American colonists under Washington against the English. He
+                    landed at Newport, Rhode Island, on the 10th of July, but was held here inactive
+                    for a year, owing to his reluctance to abandon the French fleet, which was
+                    blockaded by the British in Narragansett Bay. At last, in July 1781,
+                    Rochambeau’s force was able to leave Rhode Island and, marching across
+                    Connecticut, joined Washington on the Hudson. Then followed the celebrated march
+                    of the combined forces to Yorktown, where on the 22nd of September they formed a
+                    junction with the troops of Lafayette; as the result Cornwallis was forced to
+                    surrender on the 19th of October. Throughout, Rochambeau had displayed an
+                    admirable spirit, placing himself entirely under Washington’s command and
+                    handling his troops as part of the American army. In recognition of his
+                    services, Congress voted him and his troops the thanks of the nation and
+                    presented him with two cannon taken from the English. These guns, which
+                    Rochambeau took back to Vendôme, were requisitioned in 1792. On his return to
+                    France he was loaded with favours by Louis XVI. and was made governor of
+                    Picardy. During the Revolution he commanded the Army of the North in 1790, but
+                    resigned in 1792. He was arrested during the Terror, and narrowly escaped the
+                    guillotine. He was subsequently pensioned by Bonaparte, and died at Thore
+                    (Loir-et-Cher) on the 10th of May 1807.</p>               <p>A statue of Rochambeau by Ferdinand Hamar, the gift of France to the United
+                    States, was unveiled in Lafayette Square, Washington, by President Roosevelt on
+                    the 24th of May 1902. The ceremony was made the occasion of a great
+                    demonstration of friendship between the two nations. France was represented by
+                    her ambassador, M. Cambon, Admiral Fournier and General Brugère, a detachment of
+                    sailors and marines from the warship “ Gaulois ” being present. Representatives
+                    of the Lafayette and Rochambeau families also attended. Of the many speeches
+                    perhaps the most striking was that of Senator Henry C. Lodge, who, curiously
+                    enough in the circumstances, prefaced his eloquent appreciation of the services
+                    rendered to the American cause by France by a brilliant sketch of the way in
+                    which the French had been driven out of North America by England and her
+                    colonists combined. General Brugère, in his speech, quoted Rochambeau’s words,
+                    uttered in 1781: “ <hi rend="italic">Entre vous.</hi>
+               </p>                <pb xml:id="eb11-23-r03-0426" facs="encyclopaediabri23chisrich_0459.jp2"/>
+               <p>                   <hi rend="italic">entre nous, à la vie, à la mort.</hi> A “ Rochambeau fête ”
+                    was held simultaneously in Paris.</p>               <p>The <hi rend="italic">Mémoires militaires, historiques et politiques, de
+                        Rochambeau</hi> were published by Luce de Lancival in 1809. Of the first
+                    volume a part, translated into English by M. W. E. Wright, was published in 1838
+                    under the title of <hi rend="italic">Memoirs of the Marshal Count de R. relative
+                        to the War of Independence in the United States.</hi> Rochambeau’s
+                    correspondence during the American campaign is published in H. Doniol, <hi
+                        rend="italic">Hist, de la participation de la France a l’etablissement des
+                        États Unis d’Amérique,</hi> vol. v. (Paris, 1892). See Duchesne, “ Autour de
+                    Rochambeau ’’ in the <hi rend="italic">Revue des Jacuttes catholiques de
+                        l’ouest</hi> (1898-1900); E. Gachot, “ Rochambeau ” in the <hi rend="italic"
+                        >Nouvelle Revue</hi> (1902); H. de Ganniers, “ La Dernière Campagne du
+                    maréchal de Rochambeau ’’ in the <hi rend="italic">Revue des questions
+                        historiques</hi> (1901).</p>            </div>
+        </body>
+    </text>
+</TEI>

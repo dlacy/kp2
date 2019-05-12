@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0423-04"
+                facs="encyclopaediabri23chisrich_0456.jp2" type="entry">
+
+               <p>                   <label>ROBINSON, SIR JOSEPH BENJAMIN</label> (1845- ), South African mine-owner,
+                    was born at Cradock, Cape Colony, in 1845. At the age of sixteen he started
+                    business as a general trader, wool-buyer and stock-breeder, but on the discovery
+                    of diamonds in South Africa in 1867 he hastened to the Vaal river district,
+                    where, by purchasing the stones from the natives and afterwards by buying
+                    diamond-bearing land, notably at Kimberley, he soon acquired a considerable
+                    fortune. He was mayor of Kimberley in 1880, and for four years was a
+                    representative of Griqualand West in the Cape parliament. On the discovery of
+                    gold in the Witwatersrand district in 1886, Robinson purchased the Langlaagte
+                    and Randfontein estates. His views as to the westerly trend of the main
+                    gold-bearing reef were entirely contrary to the bulk of South African opinion at
+                    the time, but events proved him to be correct, and the enormous appreciation in
+                    value of his various properties made him one of the richest men in South Africa.
+                    As a Rand capitalist he stood aloof from combinations with other gold-mining
+                    interests, and took no part in the Johannesburg reform movement, maintaining
+                    friendly relations with President Kruger. He claimed that it was as the result
+                    of his representations after the Jameson Raid that Kruger appointed the
+                    Industrial Commission of 1897, whose recommendations—had they been carried
+                    out—would have remedied some of the Uitlander grievances. In 1908 he was created
+                    a baronet.</p>            </div>
+        </body>
+    </text>
+</TEI>

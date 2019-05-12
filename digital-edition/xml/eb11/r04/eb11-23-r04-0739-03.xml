@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0739-03"
+                facs="encyclopaediabri23chisrich_0792.jp2" type="entry">
+
+               <p>                   <label>ROSS, GEORGE WILLIAM</label> (1841- ), Canadian politician,</p>               <p>was born near Nairn, Middlesex county, Ontario, on the 18th of September 1841,
+                    the son of James Ross and Ellen M‘Kinnon, natives of Ross-shire, Scotland. From
+                    1872-1883 he was a Liberal member of the Federal House; from 1883-99 minister of
+                    education in the legislature of the province of Ontario; and from 1899-1905.
+                    premier and treasurer of that province. In 1905 his government was defeated, and
+                    in 1907 he retired to the Canadian Senate. He was for many years an advocate of
+                    total abstinence, and a well-known speaker on imperial questions.</p>            </div>
+        </body>
+    </text>
+</TEI>

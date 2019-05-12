@@ -1,0 +1,69 @@
+case , what is the velocity of the internal filaments in the different points of their progress. 
+such is the dtmonstration which Mr Bernouilli has given of this proposition. Limited as it is, it is highly valuable, because derived srom the true principles of hydraulics. 
+He hoped to render it more extensive and applicable to oblique impulses, when the axis AC of the vein (sig. 13. n 2.) is inclined to the plane in an angle ACN. But here all the simplicity of the case is gone, and we are now obliged to ascertain the motion of each filament. It might not perhaps be impossible to determine what must happen in the plane of the sigure, that is, in a plane passing through the axis of the vein, and perpendicular to the plane MN. Bat even in this case it would be extremely difficult to determine how much of the fluid will go in the direction EKG, and what will go in the path FLH, and to ascertain the form of each filament, and the velocity in its different points. But in the real state of the case, the water will dissipate from the centre C on every fide; and we cannot tell in what proportions. Let us however aeon sider a little what happens in the plane of the figure, and suppose that all the water goes either in the course EKG or in the course FLH. Let the quantities of water which take these two eourfes have the proportions of 
+p 
+and n. Let 
+of2a 
+be the velocity at A, 
+oftb 
+be the velocity at G, and 
+of 2ß 
+be the velocity at H. ACG and ÄCH are the two changes of direction of which let 
+C 
+and — 
+ί 
+be the cofines. Then, adopting the former reasoning, we have the pressure of the watery plate GKEACM on the plane in the dip 
+-- 
+rection AC = ~- — x2 
+a — 2c b, 
+and the pressure of the ?n 7 r 
+π -- 
+, ate HLFACN = — — - X 
+2a 
+4- 
+2cß, 
+and their sum 
+pl _ 
+?n 
+px2a -- 2cb+tixza \ 2c^ ..... 
+= ■ -- -’ w h'c si bemg multlphed by 
+the fine of ACM or of 1 — 
+c1, 
+gives the pressure perpendicular to the plane MN 
+xz^~2 -- — 
+^~^~π fa 
+1_ ’ 
++ 2ί/3 -- - 
+ι — r1.. 
+But there remains a pressure in the direction perpendicular to the axis of the veiu, which is not balanced, as in the former case, by the equality on opposite sides of the axis. The pressure arising from the water which escapes at G has an effect opposite to that pro duced by the water which eseapes at H. when this is taken into account, we shall find that their joint ease 
+r, · 
+P — n /- 
+sorts peipendicular to AC are ^pyx2av i — which, 
+being multiplied by the cofinç of. ACM, - gives the ae 
+., p — 
+π __ 
+Hon perpendlculàr to MN— — 
+— cp 
++τ \ 
+The sum or joint effort of all these presssires· is 
+/> bn ?n 
+Thus, from this case, which is much simpler than can happen in nature, seeing that there will always be a lateral efflux, the determination of the impulse is as uncertain and vague 
+as it was 
+sure and precise in the former case. 
+It is therefore without proper authority that the absolute impulse of a vein of fluid on a plane which re ceives it wholly, is asserted to be proportional to the sine of incidence. If indeed we suppose the velocity in G and H are equal to that at A, then 
+b — ß, zza, 
+and the whole impulse is 
+zaof 
+1 — as is commonly supposed. But this cannot be. Both the velocity and quantity at H are less than those at G. Nay, frequent ly there is no efflux on the side H when the obliquity is very great, we may conclude in general, that the oblique impulse will always bear to the direct impulse a greater proportion than that of the sine of incidence to radius. If the whole water escapes at G, and none goes oss laterally, the pressure will be 
+2a+2ac — 2bcx 
+of ι — 
+c1. 
+The experiments of the Abbé Bossut show in the plainest manner that the pressure of a vein, striking obliquely on a plane which receives it wholly, diminishes faster than in the ratio of the square of the sine of incidence; whereas, when the oblique plane is wholly immersed in the stream, the impulse is much greater than in this proportion, and in great obliquities is nearly as the siue. 
+Nor will this proposition determine the impulse of 
+a 
+fluid on a plane wholly immersed in it, even when the impulse is perpendicular to the plane. The circum stance is now wanting on which we can establish a calculation, namely, the angle of final deflection. Could this be ascertained for each filament, and the velocity of the filament, the principles are completely adequate to an accurate solution of the problem. In the experiments which we mentioned to have been made under the inspection of sir Charles Knowles, a cylinder of six inches diameter was exposed to the action of 
+a 
+stream moving precisely one foot per second; and when certain deductions were made for the water which was held adhering to the posterior basc (as will be noticed afterwards), the impulse was found equal to 3^ ounces avoirdupois. There were gsicoloured filaments distributed on the stream, in such situations as to give the most ufesul indications of their curvature. If was found necessary to have some which passed under the body and some above it; for the form of these filaments, at the same distance from the axis of the cylinder, was considerably. different : and those filaments which were situated in planes neither horizontal nor vertical took a double curvature In short, the curves were ail’traced with great care, and the deflecting forces were computed for each, and reduced. to the direction of the axis; and they were summed up in such' a manner as to give the impuise of the whole stream. The deflections were marked as far ahead of the cylinder as they could be assuredly ob served. By this method the impulse was computed to be 
+2/^ 
+ounces,, differing from observation of an ounce, or about /g of the whole; a difference which may most reasonably be ascribed to the adliesion of the water, which must be most sensible in such small velo citiee. These experiments may therefore be considered as giving all the confirmation that can be desired of the jsistness of the principles This indeed hardly admits of a doubt :, but, alas! it gives us but small'assistance; for all this is empirical, in as far as it leaves us in every case the task of observing the form of the curves and the velocities in their different points. Τσ derive ser vice from this most judicious method of Daniel Ber 
+noulli, we must diseover feme method of determining, -, 

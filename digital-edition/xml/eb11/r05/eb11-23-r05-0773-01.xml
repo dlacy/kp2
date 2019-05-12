@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r05-0773-01"
+                facs="encyclopaediabri23chisrich_0826.jp2" type="entry">
+
+                <p><label>ROUND TOWERS</label> » A peculiar class of round tower exists throughout
+                    Ireland; about one hundred and twenty examples once existed; most of these are
+                    ruined, but eighteen or twenty are almost perfect. These towers were built
+                    either near or adjoining a church; they are of various dates, from perhaps the
+                    8th to the 13th century; though varying in size and detail, they have many
+                    characteristics common to all. They are built with walls slightly battering
+                    inwards, so that the tower tapers towards the top. The lower part is formed of
+                    solid masonry, the one doorway being raised from 6 to 20 ft. above the ground,
+                    and so only accessible by means of a ladder. The towers within are divided into
+                    several storeys by two or more floors, usually of wood, but in some cases, as at
+                    Keneith, of stone slightly arched. The access from floor to floor was by
+                    ladders. The windows, which are always high up, are single lights, mostly arched
+                    or with a flat stone'lintel. In some of the oldest towers they have triangular
+                    tops, formed by two stones leaning together. One peculiarity of the door and
+                    window openings in the Irish round towers is that the jambs are frequently set
+                    sloping, so that the opening grows narrower towards the top, as in the temples
+                    of ancient Egypt. The later examples of these towers, dating from the 12th and
+                    13th centuries, are often decorated with chevron, billet and other Norman
+                    enrichments round the jambs and arches. The roof is of stone, usually conical in
+                    shape, and some of the later towers are crowned by a circle of battlements. The
+                    height of the round towers varies from about 60 to 132 ft.; that at Kilcullen
+                    was the highest. The masonry differs according to its date,—the oldest examples
+                    being built of almost uncut rubble work, and the later ones of neatly jointed
+                    ashlar.</p>
+               <p>Much has been written as to the use of these towers, and the most conflicting
+                    theories as to their origin have been propounded. It is fairly certain, however,
+                    that they were constructed by Christian builders, both from the fact that they
+                    always are. or once were near a church, and also because crosses and other
+                    Christian emblems frequently occur among, the sculptured decorations of their
+                    doors and windows. Their original purpose was probably for places of refuge, for
+                    which the solid base and the door high above the ground seem specially adapted.
+                    They may also have been watch-towers, and in later times often contained bells.
+                    Their circular form was</p>
+               <p>Crobably for the sake.of strength, angles which could be attacked y a battering
+                    ram being thus avoided, and also because no quoins ordressed stones were
+                    needed,except for the openings—an important point at a time when tools for
+                    working stone were scarce and imperfect. Both these reasons may also account for
+                    the Norman round towers which are so common at the west end of churches in
+                    Norfolk, Suffolk and Essex, though these have little resemblance to those of
+                    Ireland except in the use of a circular plan. One example exactly like those of
+                    Ireland exists in the Isle of Man, within the precincts of Peel Castle adjacent
+                    to the cathedral of St German; it was probably the work of Irish builders. There
+                    are also three in Scotland, viz. at Egilshay in Orkney, and at Abemethy and
+                    Brechin.</p>
+               <p>Round towers wider and lower in proportion than those of Ireland appear to have
+                    been built by many prehistoric races in different parts of Europe. The towers of
+                    this class in Scotland are called “ brochs they average about 50 ft. high and 30
+                    ft. in internal diameter. Their walls, which are usually about 15 ft. thick at
+                    the bottom, are built hollow, of rubble masonry, with series of passages one
+                    over the other running all round the tower. As in the Irish towers, the entrance
+                    is placed at some distance from the ground; and the whole structure is designed
+                    as a stronghold. The brochs</p>
+                <pb xml:id="eb11-23-r05-0774" facs="encyclopaediabri23chisrich_0827.jp2"/>
+               <p>appear to have been the work of a pre-Christian Celtic race. Many objects in
+                    bronze and iron and fragments of hand-made pottery have been found in and near
+                    these towers, all bearing witness of a very early date. (See Anderson, <hi
+                        rend="italic">Scotland in Pagan Times,</hi> 1883, and <hi rend="italic"
+                        >Scotland in Early Christian Times,</hi> 1881.) The <hi rend="italic"
+                        >nuraghi</hi> of Sardinia are described in the article on that island.
+                    During the 6th century church towers at and near Ravenna were usually built
+                    round in plan, and not unlike those of Ireland in their proportions. The finest
+                    existing example is that which stands by the church of S. Apollinarc in Classe,
+                    the old port of the city of Ravenna (see Basilica, fig. 8). It is of brick,
+                    divided into nine storeys, with singlelight windows below, three-light windows
+                    in the upper storeys, and two-lights in the intermediate ones. The.most
+                    magnificent example of a round tower is the well-known leaning tower of Pisa,
+                    begun in the year 1174. It is richly decorated with tiers of open marble
+                    arcades, supported on free columns. The circular plan was much used by Moslem
+                    races for their minarets. The finest of these is the 13th-century minar of Kutb
+                    at Old Delhi, built of limestone with bands of marble. It is richly fluted on
+                    plan, and when complete was at least 250 ft. high.</p>
+               <p>The best account of the Irish round towers is that given by Petrie in his <hi
+                        rend="italic">Ecclesiastical Architecture of Ireland</hi> (Dublin, 1845).
+                    See also Keane, <hi rend="italic">Towers and Temples of Ancient Ireland</hi>
+                    (Dublin, 1850); Brash, <hi rend="italic">Ecclesiastical Architecture of
+                        Ireland</hi> (Dublin, 1875); and Stokes, <hi rend="italic">Early
+                        Architecture in Ireland</hi> (Dublin, 1878). (J. H. M.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

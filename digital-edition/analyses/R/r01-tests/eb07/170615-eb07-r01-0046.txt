@@ -1,0 +1,189 @@
+on longer tunnels than even that at Primrose-hill. We may 'instance the tunnel near Kilsby, on the London and Birmingham railway, which is 2425 yards long, and traversed without the slightest inconvenience or sensation of cold or damp ; the change experienced being merely that from sunshine to shade, and from daylight to lamplight, and this latter only in those seasons of the year when the days are considerably longer than the nights.
+The quantity of friction in well-formed carriages we consider as certainly not more than 8 lbs. per ton ; but as about 9∙3 lbs., or z ¼0 th of the weight, will perhaps be a more ge
+neral average, we here give a table for the total resistance arising from gravity and friction, calculated from the following formula.
+g+f=λ ,i+ 4-0 ="+ ±,
+where G is the effect of gravity, the weight being taken as unity, I the inclination of the plane, H its height, L its length, and F the friction, the numbers in the table being the values of the right-hand member of the equation.
+Inclination of the plane equal to
+1
+in
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+•004167
+■0141667
+•0091667
+•0075
+•0066667
+•0061667
+•0058333
+•0055953
+•0054167
+•0052778
+10
+•1041667
+•0132575
+. ∙0089285
+•0073925
+•0066057
+•0061275
+•005806
+•0055752
+.0054013
+•0052656
+20
+•054167
+•0125
+■008712
+0072917
+•0065477
+•0060898
+•0057796
+•0055555
+•0053862
+•0052537
+30
+•0375
+•01213
+•0085144
+•007197
+•0064923
+•006 535
+•005754
+•0055316
+•0053715
+•005242
+40
+•029167
+•0113095
+.0083333
+•0071079
+•0064394
+•0060185
+•0057292
+•005518
+•0053572
+•0052305
+50
+•024167
+•010833
+•0081667
+•0070238
+•0063889
+•0059848
+•0057052
+■0055
+•0053432
+•0052193
+60
+•020833
+•010417
+•0080129
+•0069444
+•0063406
+•0059224
+•0056818
+•0054825
+•0053295
+•0053083
+70
+•018452
+•01001467
+•0078704
+•0068694
+•0062944
+•0059211
+•0056592
+•0054654
+•0053161
+•0051976
+80
+•016667
+•009722
+•0077381
+•0067983
+•00625
+•0058908
+•0056373
+•0054488
+•005303
+•0051871
+90
+•0152778
+•0094298
+■007615
+•0067308
+•0062075
+•0058616
+•005616
+•0054325
+•0052903
+•0051768
+For any lesser inclination, divide 1 by the length of the O
+plane to a height of unity,' or find —, and add to the quo-
+tient in either case ∙004l67.
+To use tile table, look along the upper column for the hundreds, and down the left-hand column for the tens of the rate of inclination ; and at the point of intersection will be found a number which is to be multiplied by the total weight of the carriage and its load in lbs. for the total resistance. Thus for a carriage weighing 8000 lbs., at an inclination of 1 in 560, we have 8000. ∙0059524=52∙6l92.
+Calling W the weight of the carriage, the friction alone W W
+will vary from to —-, according to the care with which OOU JuU
+it is constructed, and this may be divided into that arising from the wheels on the rails, or the rolling friction, which
+. is a constant quantity, more or less, according to the W
+strength, or the stiffness of the rails, =-—,the remainder 850
+being due to the rubbing of axles on their bearings. A great deal depends upon the unguent used, both as it respects quantity and quality. A wheel loaded with from 1 to 4000 lbs., and turned on its axle on a half bearing by a weight and rope, which detached itself after falling 30 feet, leaving the wheel to revolve till its own friction brought it to rest, made 36 revolutions, when nearly deprived of oil, and 278 revolutions when the oil was heaped on that side of the bearing which the circumference of the axle approached as it turned round. The ratio of bearing surface of the axles has also a considerable effect. This should not exceed 90 lbs. per square inch, and the length of bearing should not be much less than twice the diameter of the axles. Under these circumstances, friction on railways will bc uniform at all velocities with well made carriages, and will be in the ratio of the weight.
+The friction of engines, without any load, and exclusive of the tenders, will be in the average ratio of the diameter of the wheels, and nearly as their weight ; 8½ tons, with five-
+feet wheels, being 15 lb. per ton ; with a load, 1 lb. per ton must be added.
+The friction of edge-rails to that of plate rails, is as 17∙5 to 27∙8. The wear and tear of ropes on inclined planes is about ¼d. per ton per mile ; and their friction, either selfacting or with fixed engines, will vary from j'.s ∙ to ½ of the weight of rope wheel and sheaves in action
+plus
+the pressure of the rope on the wheel. This quotient will have to be divided by the difference in diameter between the sheave and its pin, and an allowance must be made for any curves in the line of direction.
+The adhesion of engines may be taken as at least equal to j⅛th part of the weight on the driving wheels. This will enable them to draw in the following proportions for each ton of the weight under the most unfavourable circumstances, and may be much increased when the weather and all other circumstances are in the most advantageous state.
+Inclination.
+Lond in tons for each ton adhesion.
+Inclination.
+Load in tons for each ton adhesion.
+Level.
+1 in 4480
+26∙25
+Level.
+1 in 500
+17∙25
+... 3360
+24∙21
+... 448
+16∙59
+... 2240
+23∙58
+... 400
+15∙88
+... 1680
+22∙40
+... 350
+1503
+... 1120
+21∙33
+... 300
+14∙03
+... 1000
+20∙86
+... 250
+12∙83
+... 900
+20∙37
+... 200
+11-37
+... 800
+19∙82
+...    150
+9∙56
+...    700
+19∙14
+... 100
+7∙25
+... 600
+18.31
+In the common steam engine, the power is as the area of the piston, and the pressure of the steam on it. But in the locomotive engines this is not the case ; for the power of raising steam in any quantity, which may always be had in a stationary engine by increasing either the size or the number of the boilers, has a limit in the locomotive, determined by the weight to which the engine must be restricted. The power in this case resides in the capability of the en-

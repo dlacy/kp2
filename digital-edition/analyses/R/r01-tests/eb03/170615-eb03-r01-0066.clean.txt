@@ -1,0 +1,85 @@
+the most easy is by means of the pentagraph, or paral hlogram; but this hath its defects. see the article Pentagraph. 
+
+The best and most usual methods of reduction are as follow: i. To reduce a figure, as ABCDE (ni.), into a less compass. About the middle of the figure, as z, pitch on a point, and from this point draw lines to its several angles A, B, C c. then drawing the line 
+a b 
+parallel to AB, 
+b C 
+parallel to B.C., c. you will have the figure 
+ab C de 
+similar to ABCDE. 
+If the figure 
+ab C de 
+had been required to be enlarged, there needed nothing but to produce the lines from the point beyond the angles, as 
+z 
+Ώ, 
+z 
+C c. and to draw lines, viz. DC, CB, c. parallel to the sides 
+d C e b, 
+c. 
+2. To reduce a figure by the angle of proportion, suppose tile figure ABCDE (n.) required to be di minished in the proportion of the line AB to 
+a b 
+(η°3·), draw the indefinite line GH (n), and frofn G to H set off the line AB. On G describe the arch HI. set off the line 
+a b 
+as a chord on HI, and draw GI. Then with the angle IGH, you have all the measures of the figure to be drawn. Thus to lay down the point 
+C 
+take the interval B.C., and upon the point G describe the arch KL. Also on the point G describe MN; and upon A, with the distance MN, describe an arch cutting the preceding one in 
+C 
+which will determine the stde 
+b C 
+And after the same manner are the other sides and angles to be described. The same process will also serve to enlarge the figure. 
+3. To reduce a figure by a scale. Measure all the sides of the figure, as ABCDE (n 2.) by a scale, and lay down the same measures respectively from a smaller scale in the proportion required. 
+4. To reduce a map, design, or figure, by squares. Divide the original into little squares, and divide a fresh paper of the dimensions required into the same number of squares, which are to be larger or less than the former, as the map is to be enlarged or dirninished. This done in every square of the second figure, draw what you find in its correspondent one in the sirst. 
+Reduction, in metallurgy, is the bringing back metalline substances which have been changed into feoriæ or ashes, or otherwise divested of their metallic form, into their natural and original state of metals again. see Metallurgy, 
+pnfsm > 
+and Chemistry, n 140.. and 320. 
+Reduction, in surgery, denotes an operation whereby a dissocated, luxated, or fractured bone, is restored to its former state or place. 
+REDUNDANCY, a fault in discourse, consisting in the use of a superflnity of words, words perfects ly synonymous are redundant, and ought to be retrenched. 
+REDUNDANT, in music. what the French' call 
+we accordsuperflue, 
+which we have transsated 
+a redundant chord 
+in the article Music (from D’alembert), has by others been rendered 
+a chord extremely sharp, 
+as in the transsation of rameau’s Principle? of Composition. Their nature will be best understood by a few examples, and an account of the number of tones, semi tones, or lesser intervals, contained in each. 
+The 
+second redundant 
+is composed of a major tone, and a minor semitone; as from 
+fa 
+to 
+fol 
+sharp. Its proportion is as 64 to 75« 
+The 
+third redundant 
+consists of two tones and a semitone, as 
+fa, la, 
+sharp. Its proportion is as 96 to 125. 
+The 
+fourth redundant 
+is the same with the tritone. 
+From these examples compared with the same inter vals in their natural state, the reader may form a general idea of what is meant by 
+redundant, 
+REE, Reis, or 
+Res, 
+a little Portuguese coin. see 
+μθνρ, Ύ table. 
+REED, in botany. see Arundo and Bamboo. 
+There are two sorts of reeds, says hass’elquist, grow ing near the Nile. One of them has scarce any branches; but is surnished with numerous leaves which are narrow, smooth, channelled on the upper sursace; and the plant is about 11 feet high. The Egyptians make ropes s the leaves. They lay them in water like hemp, and then make them into good strong cables. These, with the bark of the date tree, form almost the only cable used in the Nile. The other sort is of great con sequence. It is a small reed, about two or three seet high, full branched, with short, sharp, lancet shaped leaves. The roots, which are as thick as the stem, creep and mat themselves together to a considerable di stance. This plant seems useless in common life : but to it, continues the learned author, is the very soil of Egypt owing : sor the matted roots have stopped the earth which floated in the waters, and thus formed, out of the sea, a country that is habitable. 
+fire reeds. 
+see 
+fireship. 
+Reed, a term in the west of England for the straw used by thatehers, which is wheat straw finely combed, consisting of stiff, unbruised, and unbroken stalks of great length, carefully separated from the straw used for fodder by the thresher, and bound in sheaves or nitches, each of which weighs 28 lb. and are sold from 21 s. to 31 s. per hundred nitches, according to the season. This is a great improvement in the art of thatching, as it gives a sinish to the work which cannot be attained by straw, rough and tumbled together, without any separation of the long and short : it also is a readier mode of working. 
+REEF, a term in · navigation, when there is a great gale of wind, they commonly roll up part of thc sail below, that by this means it may become the narrower, and not draw so much wind 5 which contract ■ or taking up the sail they call a 
+reef, 
+or 
+reefing the : 
+so also when, a 
+top mas is sprung, 
+as they call it, that is, when it is cracked or almost broken in the cap, they cut off the lower piece that was near broken off, and setting the other part, now much shorter, - in the step again, they call it 
+u reefed top mafi. 
+REEL, in the manufactories, a machine serving for, the office of reeling. There aie various kinds of reels 5 some very simple, others very comples. 
+REELING, in the manufactories, the winding of silk, cotton, or the like, into a skain, or upon a button, to prevent its entangling. It is also used for the changing or discharging of bobbins, or quills, to. use them in the manufacture of different stuffs, as thread, silk, cot tonne, c. Reeling is performed in different ways, and on different engines. 
+REEVING, in the sea language, the putting a rope through a block : hence to pull a rope out of a block is called 
+unreeving. 
+RE exchange, in commerce, a second pay 
+ment of the price of exchange, 
+or rather the price of 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0537-02"
+                facs="gri_33125011196389_0543.tif" type="entry">
+
+                <p><label>ROWLEY</label> a monk who is ſaid to have flouriſhed at Briſtol in the
+                    15th century, and to have been an author voluminous and elegant. Of the poems
+                    attributed to him, and publiſhed ſome time ago, /various</p>
+                <pb xml:id="eb03-16-r03-0538" facs="gri_33125011196389_0544.tif"/>
+                <p>opinions have been entertained, which we have noticed, elfewhere. They ſeem now
+                    to be almoſt forgotten. See <hi rend="smallcaps">Chatterton.</hi></p>
+                <p><hi rend="smallcaps">Rowley </hi>(William), who ſtands in the third claſs of
+                        dramatic writers, lived in the reign of king Charles I. and received his
+                        education at the univerfity of Cambridge ; but vhether he took any degree
+                        there, is not evident ; there being but few particulars preſerved in regard
+                        to him more than his cloſe intimacy and connection with all the principal
+                        wits and poetical geniuſes of that age, by whom he was well beloved, and
+                        with ſome of whom he joined in their writings. Wood ftyles him 
+                    "the ornament, for wit and ingenuity, of Pembroke-hall
+                    in Cambridge.” In a word, he was a very great benefactor to the Engliſh ſtage,
+                    having, exclufive of his aid lent to Middleton, Day, Hey wood, Webſter,
+                    &amp;c. left us five plays of his own compofing, and one in which even the
+                    immortal Shakeſpeare afforded him ſome aſſiſtance.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

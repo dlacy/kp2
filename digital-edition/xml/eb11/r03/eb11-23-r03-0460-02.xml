@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0460-02"
+                facs="encyclopaediabri23chisrich_0493.jp2" type="entry">
+
+                <p><label>ROHAN, LOUIS RENÉ ÉDOUARD</label>, <hi rend="smallcaps">Cardinal de</hi>
+                    (1734-1803), prince de Rohan-Guéménée, archbishop of Strassburg, a cadet of the
+                    great family of Rohan (which traced its origin to the kings of Brittany, and was
+                    granted the precedence and rank of a foreign princely family by Louis XIV.), was
+                    born at Paris on the 25th of September 1734. Members of the Rohan family had
+                    filled the office of archbishop of Strassburg from 1704—an office which made
+                    them princes of the empire and the compeers rather of the German prince-bishops
+                    than of the French ecclesiastics. For this high office Louis de Rohan was
+                    destined from his birth, and soon after taking orders, in 1760, he was nominated
+                    coadjutor to his uncle, Constantine de Rohan-Rochefort, who then held the
+                    archbishopric, and he was also consecrated bishop of Canopus. But he preferred
+                    the elegant life and the gaiety of Paris to his clerical duties, and had also an
+                    ambition to make a figure in politics. He joined the party opposed to the
+                    Austrian alliance, which had been cemented by the marriage of the archduchess
+                    Marie Antoinette to the dauphin. This party was headed by the duc d’Aiguillon,
+                    who in 1771 sent Prince Louis on a special embassy to Vienna to find out what
+                    was being done there with regard to the partition of Poland. Rohan arrived at
+                    Vienna in January 1772, and made a great noise with his lavish fêtes. But the
+                    empress Maria Theresa was implacably hostile to him ; not only did he attempt to
+                    thwart her policy, but he spread scandals about her daughter Marie Antoinette,
+                    laughed at herself, and shocked her ideas of propriety by his dissipation and
+                    luxury. On the death of Louis XV. in 1774, Rohan Was recalled from Vienna, and
+                    coldly, received at Paris; but the influence of his family was too great for him
+                    to be neglected, and in 1777 he was made grand almoner, and in 1778 abbot of St
+                    Vaast. In 1778 he was made a cardinal on the nomination of Stanislaus
+                    Poniatowski, king of Poland, and in the following year succeeded his uncle as
+                    archbishop of Strassburg and became abbot of Noirmoutiers and Chaise-Dieu. His
+                    various preferments brought him in an income of two and a half millions of
+                    livres; yet the cardinal was restless and unhappy until he should be reinstated
+                    in favour at court and had appeased the animosity which Marie Antoinette felt
+                    against him. In pursuit of this object he fell into the hands of a gang of
+                    intriguers, the comtesse de Lamotte, the notorious Cagliostro and others, whose
+                    actions</p>                <pb xml:id="eb11-23-r03-0461" facs="encyclopaediabri23chisrich_0494.jp2"/>
+               <p>form part of the “ affair of the diamond necklace.” This story is disentangled
+                    elsewhere (see <hi rend="smallcaps">Diamond Necklace),</hi> and diverging views
+                    are still taken of it. Rohan certainly was led to believe that his attentions to
+                    the queen were welcomed, and that his arrangement by which she received the
+                    famous necklace was approved. He was the dupe of others, and at the trial in
+                    1786 before the parlement his acquittal was received with universal enthusiasm,
+                    and regarded as a victory over the court and the unpopular queen. He was
+                    deprived, however, of his office as grand almoner and exiled to his abbey of
+                    Chaise-Dieu. He was soon allowed to return to Strassburg, and his popularity was
+                    shown by his election in 1789 to the states-general by the clergy of the
+                    bailliages of Haguenau and Weissenburg. He at first declined to sit, but the
+                    states-general, when it became the national assembly, insisted on validating his
+                    election. But as a prince of the church in January 1791 he refused to take the
+                    oath to the constitution, and went to Ettenheim, in the German part of his
+                    diocese. In exile his character improved, and he spent what wealth remained to
+                    him in providing for the poor clergy of his diocese who had been obliged to
+                    leave France; and in 1801 he resigned his nominal rank as archbishop of
+                    Strassburg. On the 17th of February 1803 he died at Ettenheim.</p>               <p>See the <hi rend="italic">Mémoires</hi> of his secretary, the abbé Georgel, of
+                    the baroness d’Oberkirch, of Beugnot, and of Madame Campan; and works cited
+                    under Diamond Necklace.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

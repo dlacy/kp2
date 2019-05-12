@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0141-05"
+                facs="gri_33125011196389_0147.tif" type="entry">
+
+                <p><label>RETIREMENT</label>, means a private way of life or a fecret habitation. “
+                    Few (lays an elegant writer) are able to bear ſolitude ; and though retirement
+                    is the of-tenſible object of the greater part, yet, when they are enabled by
+                    ſucceſs to retire, they feel themſelves unhappy. Peculiar powers and elegance of
+                    mind are neceffary to enable us to draw all our reſources from our-felves. In a
+                    remote and folitary village the mind muſt be internally active in a great
+                    degree, or it will be mi-ferable for want of employment. But in great and
+                    populous cities, even while it is paſſive, it will be con-ſtantly amufed. It is
+                    impoffible to walk the ſtreets without finding the attention powerfully
+                    folicited on every fide. . No exertion is neceffary. objects pour themfelves
+                    into the fenfes, and it would be difficult to prevent their admittance. But, in,
+                    retirement, there wuſt be a ſpirit of philoſophy and a ſtore of learning, or
+                    elfe the fancied feenes of bliſs will vaniſli like the colours of the rainbow.
+                    Poor Cowley might be laid to be melancholy mad. He languiſhed ſor ſohtude, and
+                    wiſhed to hide himfelf in the wilds of America. But, alas ! he was not able to
+                    ſupport the ſolitude of a coun-try village within a few miles of the metropolis
+                    !</p>
+                <p>“With a virtuous and cheerful family, with a few faithful and good-humoured
+                    friends, with a well-selected collection of elegant books, and with a
+                    competency, one may enjoy comforts even in the deserted village, which the city,
+                    with all its diverfions, cannot supply.”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

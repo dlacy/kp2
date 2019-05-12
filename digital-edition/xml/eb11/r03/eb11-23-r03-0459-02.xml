@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0459-02"
+                facs="encyclopaediabri23chisrich_0492.jp2" type="entry">
+
+                <p><label>ROHAN</label>, the name of one of the most illustrious of the feudal
+                    families of France, derived from that of a small town in Morbihan, Brittany. The
+                    family appears to have sprung from the viscounts of Porhoet, and claims
+                    connexion with the ancient sovereigns of Brittany. Since the 12th century it
+                    held an important place in the history of Brittany, and strengthened its
+                    position by alliances with the greatest houses in France. It was divided into
+                    several branches, the eldest of which, that of the viscounts of Rohan, became
+                    extinct in 1527. Of the younger branches the most famous is that of Guéménée,
+                    from which sprang the branches of Montbazon, Soubise and Gie. The seigneurs of
+                    Frontenay, an offshoot of this last branch, inherited by marriage the property
+                    of the eldest branch of the house. Hercule de Rohan, duc de Montbazon
+                    (1568-1654) served Henry III. and Henry IV. against the League, and was made by
+                    Henry IV. governor of Paris and the Isle of France, and master of the hounds.
+                    His grandson, Louis de Rohan-Guéménée, the chevalier de Rohan, who was notorious
+                    for his dissolute life, conspired with the Dutch against Louis XIV. and was
+                    beheaded in Paris in 1674. In the 18th century the Soubise branch furnished
+                    several prelates, cardinals and bishops of Strassburg, among others the famous
+                    cardinal de Rohan, the hero of the affair of the diamond necklace. The seigneurs
+                    of Gie, a branch founded by Pierre de Rohan (1453-1513), a cadet of the branch
+                    of Guéménée and marshal of France, were conspicuous on the Protestant side
+                    during the wars of religion. René de Rohan, seigneur of Pontivy and Frontenay,
+                    commanded the Calvinist army in 1570, and</p>
+                <pb xml:id="eb11-23-r03-0460" facs="encyclopaediabri23chisrich_0493.jp2"/>
+                <p>defended Lusignan with great valour when it was besieged by the Catholics
+                    (1574-75). His son Henry, the first duke of Rohan, also distinguished himself in
+                    the Protestant army. His only child, Marguerite de Rohan, married in 1645 Henri
+                    Chabot, a cadet of a great family of Poitou. This marriage was opposed by hef
+                    mother, Marguerite de Bethune, who put forward a rival heir called Tancred, whom
+                    she claimed to be her son by the duke of Rohan. This Tancred perished in the
+                    Fronde in 1649. The property and titles of Henry de Rohan thus passed to the
+                    Chabot family, which under the name of Rohan-Chabot produced some distinguished
+                    soldiers and -a cardinal archbishop of Besançon. The male line of the Rohans is
+                    now represented by an offshoot of the Rohan-Guéménée branch.</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

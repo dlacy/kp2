@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0219-06"
+                facs="encyclopaediabri24chisrich_0238.jp2" type="entry">
+                <p><label>SĀRIPUTTA</label>, one of the two principal disciples of Gotama the
+                    Buddha. He was bom in the middle of the 6th century B.c. at Nāla, a village in
+                    the kingdom of Magadha, the modem Behar, just south of the Ganges and a little
+                    east of where Patna now stands. His personal name was Upatissa; the name of his
+                    father, who was a brahmin, is unknown; his mother’s name was Sārī, and it was by
+                    the epithet or nickname of Sāriputta (that is “ Sārī’s son ”), that he was best
+                    known. He had three sisters, all of whom subsequently entered the Buddhist
+                    Order. When still a young man he devoted himself to the religious life, and
+                    followed at first the system taught by Sañjaya of the Belattha clan. A summary
+                    of the philosophical position of this teacher has been preserved in the Dialogue
+                    called <hi rend="italic">The Perfect Net.</hi></p>
+                <p>According to this account his main tendency was to avoid committing himself to
+                    any decided conclusion on any one of the numerous points then discussed so
+                    eagerly among the clansmen in the valley of the Ganges. Early in the Buddhist
+                    movement Sãriputta had a conversation with one of the men who had just joined
+                    it; and the Buddhist quoted to him the now famous stanza, “ Of all the things
+                    that proceed from a cause, the Buddha the cause hath told; and he tells too how
+                    each shall come to an end—such alone is the word of</p>
+                <pb xml:id="eb11-24-s02-0220" facs="encyclopaediabri24chisrich_0239.jp2"/>
+                <p>the Sage.” The result was that Sãriputta, with his friend Kolita and other
+                    disciples of Sañjaya, asked for admission, and were <hi rend="italic"
+                        >received</hi> into the Buddhist Order. He rapidly attained to mastery in
+                    the Buddhist system of self-training, and is declared to have been the chief of
+                    all the disciples in insight. He was present at a dialogue between the Buddha
+                    and a Wanderer named Aggivessana on the nature of sensations; and at the end of
+                    that discourse he attained to Arahatship. He is constantly represented as
+                    discussing points, usually of ethics or philosophy, either with the Buddha
+                    himself, or with one or other of the more prominent disciples. One whole book of
+                    the Samyutta is therefore called after his name. A number of stanzas inscribed
+                    to him are preserved in the <hi rend="italic">Songs of the Elders</hi>
+                    (Thera-gãthã), and one of the poems in the Sutta Nipāta is based on a question
+                    he addressed to the Buddha. Asoka the Great, in his Bhabra Edict, enjoins on the
+                    Buddhists the study of seven passages in the Scriptures selected for their
+                    especial beauty. One of these is called <hi rend="italic">The Question of
+                        Upatissa,</hi> and this poem may be the passage referred to. Feeling his end
+                    approaching, he went home, and died just six months before the death of the
+                    Buddha, that is, approximately in 480 B.c. He was cremated with great ceremony,
+                    and the ashes placed in a tope or burial-mound. An inscribed casket in such a
+                    mound at Sãñchi opened by Cunningham in February 1851 contained a portion of
+                    these ashes which had been removed to that spot, in General Cunningham’s opinion
+                    by Asoka.</p>
+                <p><hi rend="smallcaps">Bibliography.—For the birth, death, cremation and relics,
+                        see Alex. Cunningham,</hi>
+                    <hi rend="italic">Bhüsa Topes</hi> (London, 1854); Rhys Davids and S. W.
+                    Bushell, <hi rend="italic">Watters on Yuan Chwang</hi> (London, 1904, 1905). For
+                    names of mother and sisters, <hi rend="italic">Therī Gāthā,</hi> ed. R. Pischel
+                    (London, 1883). For conversion Rhys Davids and H. Oldenberg, <hi rend="italic"
+                        >Vinaya Texts</hi> (Oxford, 1881), i. 144-151. For attainment of Arahatship,
+                    V. Trenckner, <hi rend="italic">Majjhima Nikāya</hi> (London, 1888), i. 501.</p>
+                <p>T. W. R. D.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

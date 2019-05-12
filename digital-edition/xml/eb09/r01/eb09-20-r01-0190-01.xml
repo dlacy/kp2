@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09-20-r01-0190-01"
+                facs="encyclopediabrit20newyrich_raw_0208.jp2" type="entry">
+                <p><label>R</label> was written in Greek originally as P, following the Phoenician form ;
+                    sometimes, however, a triangle takes the place of the semicircle ; not
+                    unfrequently also a short stroke appears where we have the lower limb on the
+                    right hand ; the reason of this addition is not plain : it can hardly have been
+                    a diacritical mark to distinguish R from P (as G from C at Rome) because the
+                    latter symbol in Greece always kept its two vertical lines (Γ), the curved
+                    line (P) appearing first in the Roman alphabet.</p>
+                <p>The sounds denoted by the same symbol <hi rend="italic">r</hi> differ
+                    considerably. First, there is the true consonantal <hi rend="italic">r—</hi>our
+                    English <hi rend="italic">r</hi> in <hi rend="italic">reed,</hi>
+                    &amp;c.—produced by raising the tip only of the tongue towards the front palate
+                    ; the voice escapes by this aperture, the side passages between the tongue
+                    and the palate being closed ; the mechanism, therefore, is just the opposite to
+                    that which produces <hi rend="italic">l</hi> (see letter L). Secondly, there is
+                    the vowel <hi rend="italic">r</hi> ; this is due to the space between the tip of
+                    the tongue and the palate being sufficiently great to allow the voice to escape
+                    without any friction ; the difference betλveen this and consonantal <hi
+                        rend="italic">r</hi> is parallel to that between <hi rend="italic">u</hi>
+                    and <hi rend="italic">w,</hi> or between <hi rend="italic">i</hi> and <hi
+                        rend="italic">y.</hi> This vowel-sound, though not heard regularly in any
+                    modern language, is not unfrequent in several in certain combinations; for
+                    example, it is quite possible to articulate “father” as “fath-r,” where the <hi
+                        rend="italic">r</hi> alone forms a syllable and is therefore vocalic. This
+                    vowel-sound was a regular sound in Sanskrit, and was probably also heard in the
+                    parent language ; but in the derived languages (except Sanskrit) it
+                    became consonantal <hi rend="italic">r</hi> with an independent vowel preceding
+                    or following; thus a presumed original “krd” ( = heart), where r denotes the
+                    vocalic r, gave in Sanskrit “hrd,” in Greek <hi rend="italic">κpaδdη,</hi> in
+                    Latin “ cor(d).” Thirdly, <hi rend="italic">r</hi> may denote a trill,—that is
+                    to say, a sound produced by the vibration of the tongue when laid loosely
+                    against the palate and set in motion by a strong current of breath or voice.
+                    When the point of the tongue is laid loosely in this way against the palate just
+                    behind the gums and made to trill as voice passes over it, we hear the Scotch
+                    and the French <hi rend="italic">r,</hi> each of which is a trill, not a
+                    consonantal <hi rend="italic">r.</hi> The same sound, but unvoiced, is heard in
+                    the French “ théâtre,” &amp;c., and is also the Welsh rA. A similar trill at the
+                    back part of the palate gives the Northumbrian “burr.”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

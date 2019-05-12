@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09-21-r03-0050-01"
+                facs="encyclopediabrit21newyrich_raw_0062.jp2" type="entry">
+
+                <p><label>RUDDIMAN</label>
+                    <hi rend="smallcaps">Thomas</hi> (1674-1758), an eminent Scottish scholar, was
+                    born in October 1674, at Raggal, in the parish of Boyndie, Banffshire, where his
+                    father was a farmer. He studied Latin eagerly at the school of his native
+                    parish, and when sixteen started off to walk to Aberdeen, there to compete for a
+                    college bursary. On the way he was attacked by Gipsies, robbed of a guinea,
+                    which was all he had, and otherwise very cruelly treated ; but he
+                    j&gt;ersevered in his journey, reached Aberdeen, and competed for and won
+                    the bursary. He then entered the university, and four years afterwards—on 21st
+                    June 1694—received the degree of M.A. For some time he acted as schoolmaster at
+                    Laurencekirk in Kincardine. There he chanced to make the acquaintance of Dr
+                    Pitcairne, of Edinburgh, who persuaded him to remove to the Scottish capital,
+                    where he obtained the post of assistant in the Advocates’ Library. As his salary
+                    was only £8, 6s. 8d. per annum, he was forced to undertake additional
+                    employment. He engaged in miscellaneous literary work, took pupils, and for some
+                    time acted as an auctioneer. His chief writings at this period were editions of
+                    Wilson’s <hi rend="italic">De Animi Tran-(Ruillitate Dialogus</hi> (1707), and
+                    the <hi rend="italic">Cantixi Solomanix Paraphrasis Poetixa</hi> (1709) of
+                    Arthur Johnstone <hi rend="italic">(ob.</hi> 1641), editor of the <hi
+                        rend="italic">Delixve Poeiarum Scotornm.</hi>
+               </p>
+                <p>In 1714 he published <hi rend="italic">Rudiments of the Latin Tongue,</hi> which
+                    is even yet his best known work. This w <hi rend="sup">,</hi> as intended to be
+                    an easy introduction to Latin grammar, and was so successful that it at once
+                    superseded all others. Under various forms it has been in use, down to our own
+                    day, in the schools of Scotland. In 1715 he edited, with notes and annotations,
+                    the works of George Buchanan in two volumes folio. As Ruddiman was a Jacobite,
+                    the liberal views of Buchanan seemed to him to call for frequent censure. That
+                    censure is often rather implied than openly expressed ; but it excited much
+                    opposition. A society of scholars was formed in Edinburgh to “ vindicate that
+                    incomparably learned and pious author from the calumnies of Mr Thomas Ruddiman”
+                    by publishing a correct edition of his works. This they never did ; but a number
+                    of obscure writers from this time attacked Ruddiman λvith great vehemence. He
+                    replied ; and it was not till the year before his death that he said his “ last
+                    word ” in the controversy.</p>
+                <p>His worldly affairs, meanwhile, grew more and more prosperous. He founded (1715)
+                    a successful printing business, and atyer some time was appointed printer to the
+                    university. He acquired the <hi rend="italic">Caledernian Merxury ia</hi> 1729,
+                    and in 1730 was appointed keeper of the Advocates’ Library, which post, owing to
+                    failing health, he resigned in 1752. He died at Edinburgh, 19th January 1758,
+                    and was interred in Greyfriars churchyard, where in 1806 a tablet was erected to
+                    his memory.</p>
+                <p>Besides the works mentioned, the following writings of Ruddiman deserve notice
+                    an edition of Gavin Douglas’s <hi rend="italic">Æneid</hi> of Virgil (1710); the
+                    editing and completion of Anderson’s <hi rend="italic">Selxetus Diplo-rnαtum et
+                        Numisinatiim Scotiæ Tlixsaurus</hi> (1739) ; <hi rend="italic">Catalogue of
+                        ιl</hi>
+                    <hi rend="italic">∣</hi>
+                    <hi rend="italic">x Advocates' Lihramj</hi> (1733-42) ; an edition of Livy,
+                    famed for its “immaculate purity,” in 4 vols. (1751). Ruddimun was for many
+                    years the representative scholar of Scotland. Writing in 1766, Dr Johnson, after
+                    reproving Boswell for some bad Latin, significantly adds—“Rnddiman is dead.”
+                    When Boswell proposed to write Ruddimans life, “ I should take pleasure in
+                    helping you to do honour to him,” said Johnson.</p>
+                <p>See Chalmers's <hi rend="italic">Lift of Ruddirnan</hi> (1794); <hi
+                        rend="italic">Scots Magazine,</hi> January 7 1767; Boswell's <hi
+                        rend="italic">Life of Johnson.</hi>
+               </p>
+               
+            </div>
+        </body>
+    </text>
+</TEI>

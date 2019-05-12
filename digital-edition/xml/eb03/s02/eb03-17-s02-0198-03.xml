@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196363_0204.tif" type="entry" xml:id="eb03-17-s02-0198-03"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SEAM</label>, or <hi rend="smallcaps">Seme</hi> of corn, is a meaſure of
+                    eight buſhels.</p>
+                <p><hi rend="italic smallcaps"> Seam</hi>
+                    <hi rend="italic">of Glaſs,</hi> the quantity of 120 pounds, or 24 ſtones, each
+                    five pounds weight. The ſeam of wood is an horſe-load.</p>
+                <p><hi rend="smallcaps">Seam,</hi> in mines, the ſame with a vein or ſtratum of
+                    metal.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

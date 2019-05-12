@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0500-02"
+                facs="gri_33125011196389_0506.tif" type="entry">
+                
+<p><label>ROSIERS<hi rend="smallcaps">-aux-Salines</hi></label>, a town of France, in Lorraine, and in
+    the bailiwick of Nancy, famous ſor its ſalt-works. The works that king
+    Staniſlaus made here are much admired. It is ſeated on the river Muert, in
+    Ε. Long. 6. 27. N. Lat. 48. 32.
+  </p>           </div></body></text></TEI>

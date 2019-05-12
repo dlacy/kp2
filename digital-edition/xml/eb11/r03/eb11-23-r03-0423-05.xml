@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0423-05"
+                facs="encyclopaediabri23chisrich_0456.jp2" type="entry">
+
+               <p>                   <label>ROBINSON, MARY</label> [“ Perdita ”] (1758-1800), English</p>               <p>actress and author, was born in Bristol on the 27th of November 1758, the
+                    daughter of a captain of a whaler named Darby. In 1774 she was married to Thomas
+                    Robinson, a clerk in London, where her remarkable beauty brought her many
+                    attentions; and when, after two years of fashionable life, her husband was
+                    arrested for debt, she shared his imprisonment. She had been a precocious child,
+                    encouraged to write verses, and while in King’s Bench prison she completed the
+                    collection published in two volumes in 1775. On her release, thanks to Garrick,
+                    she secured an engagement at Drury Lane, making a successful first appearance as
+                    Juliet in 1776. On the 3rd of December 1779 she was Perdita in Garrick’s version
+                    of <hi rend="italic">The Winter's Tale,</hi> and her beauty so captivated
+                    George, prince of Wales (afterwards</p>                <pb xml:id="eb11-23-r03-0424" facs="encyclopaediabri23chisrich_0457.jp2"/>
+               <p>George IV.), then in his eighteenth year, that he began a correspondence with
+                    her, signing himself “ Florizel.” She was for about two years his mistress, but
+                    he then deserted her, even dishonouring his bond for £20,000, payable when he
+                    came of age, and left her to obtain a pension of £500 in exchange for it from
+                    Charles James Fox. Owing to the hostility of public opinion, she feared to
+                    return to the stage, but she published some more volumes of her writings. There
+                    are numerous charming portraits of “ Perdita ”; two in the Wallace Collection,
+                    by Reynolds and by Gainsborough, reveal “ her grave, refined beauty.” Hoppner,
+                    Cosway and Romney also painted her.</p>               <p>See <hi rend="italic">Memoirs of Mary Robinson, “ Perdita,”</hi> with
+                    introduction and notes by J. F. Molloy (1894).</p>            </div>
+        </body>
+    </text>
+</TEI>

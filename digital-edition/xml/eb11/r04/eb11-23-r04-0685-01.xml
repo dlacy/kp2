@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0685-01"
+                facs="encyclopaediabri23chisrich_0732.jp2" type="entry">
+
+                <p><label>ROMÉ DE L'ISLE, JEAN BAPTISTE LOUIS</label> (1736-1790), French
+                    mineralogist, was born on the 26th of August 1736 at Gray, in Haute-Saône. As
+                    secretary of a company of artillery he visited the East Indies, and was .taken
+                    prisoner by the English in 1761 and held in captivity for three years.
+                    Subsequently he became distinguished for 1rs researches on mineralogy and
+                    crystallography. He was the author of <hi rend="italic">Essai de
+                        Cristallographie</hi> (1772), the second edition of which, regarded as his
+                    principal work, was published as <hi rend="italic">Crislallographie</hi> (3
+                    vols, and atlas, 1783). He died at Paris on the 7th of March 1790.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

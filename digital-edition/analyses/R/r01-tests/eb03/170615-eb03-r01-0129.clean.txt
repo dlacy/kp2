@@ -1,0 +1,60 @@
+forming 
+the 
+angle at « of 131 degrees; this solid, though more capacious than the included solid, will be less icsisted. 
+And, from the same principles, sir Isaac Newton determined the form of thc curve ADB which would generate the solid which, of all others of the same length and baso, should have the least resistance. 
+These are curious and important deductions, but are not introduced here, for reasons which will soon ap pear. 
+The reader cannot fail to observe, that all that we ffiave hitherto delivered on this subject, relates to the comparison of different impulses or resistances. we have always compared the oblique impulsions with the direct, and by their intervention we compare the ob lique impulsions with each other. But it remains to give absolute measures of some individual impulsion; to which, as to an unit, we may refer every other. And as it is by their pressure that they become use full or hurtful, and they must be opposed by other pressures, it becomes extremely convenient to compare them all with that pressure with which we are most familiarly acquainted, the pressure of gravity. 
+The manner in which the companion is made, is this, when a body advances in a fluid with a known velocity, it puts a known quantity of the fluid into motion (as is supposed) with this velocity; and this is done in a known time, we have only to examine what weight will put this quantity of fluid into the same motion, by acting on it during the same time. This weight is conceived as equal to the resistance. Thus, let us suppose that a stream of water, moving at the rate of eight feet 
+per 
+second, is perpendicularly obstructed by a square foot of solid surface held fast in its place. Conceiving water to act in the manner of the hypothetical fluid now described, and to be without elasticity, the whole effect is the gradual annihilation of the motion of eight cubic feet of water 
+moving 
+eight feet in a second. And this is done in a southeast cond of time. It is equivalent to the gradually put ting eight cubic feet of water into motion with this velocity; and doing this by acting uniformly during a second. what weight is able to produce this effect? The weight of eight feet of water, acting du rtng a second on it, will, as is well known, give it the velocity of thirty-two feet 
+per 
+second; that is, four times greater. Therefore, the weight of the fourth part of eight cubic seet, that is, the weight of two cubic feet, acting during a second, will do the same thing, or the weight of 
+a 
+column of water whose base is a square loot, and whose height is two feet. This will not only produce this effect in the same time with the impulsion of the solid body, but it will also do it by the same degrees, as any one will clearly perceive, by at tending to the gradual acceleration of the mass of v/a ter urged by £ of its weight, and comparing this with the gradual production or extinction of motion in the fluid by the progress of the resisted surface. 
+Now it is well known that 8 cubic feet of water, by selling one foot, which it will do in one fourth of a fe eond, will acquire the velocity of eight feet per second 
+by 
+its weight; therefore the force which produces the 
+same 
+effect in a whole second is one fourth of this. This 
+frrxc is therefore equal to the 
+weight of 
+a column of 
+water, whose base is 
+a 
+square foot, and whose height is two feet that is, twice the height necessary for acquiring the velocity of the motion by gravity. The conclusionis the same whatever be the surface that is resisted, whatever be the fluid that resists, and whatever be the velocity of the motion. In this inductive and fa miliar manner we learn, that 
+the direct impulse or rofifl ance an unelaflicfluid on any plane surface, is equal to the weight of a column of the fluid having the sursace sor its base, and twice the fall necessary for acquiring the velocity of the motion for its height : 
+and if the fluid is consider ed as elastic, the impulse or resistance is twice as great. see Newt. 
+Princip. 
+B. II prop. 35. and 38. 
+It now remains to compare this theory with experi ment. Many have been made, both by sir Isaac Newton and by subsequent writers. It is much to be la mented, that in a matter of such importance, both to the philosopher and to the artist, there is such a disa greement in the results with each other, we shall mention the experiments which seem to have been made with the greatest judgement and care. Those of sir Isaac Newton were chiefly made by the oscillatlons of pendulums in water, and by the descent of balls both in water and in air. Many have been made by Mariotte 
+(Traité de Mouvement des Eaux). 
+Gravefande has published in his 
+system of Natural Philosophy, 
+experiments made on the resistance or impulsions on solids in thc midst of a pipe or canal. They are extremely well con trived, but are on so small a scale that they are of very little use. Daniel Bernoulli, and his pupil Professor Krafft, have published, in the 
+Comment. Acad. Petropol. 
+experiments on the impulse of a stream or vein of water from an orifice or tube: These are of great value. The Abbé Bossut has published others of the same kind in his 
+Hydrodynamique. 
+Mr Robins has published, in hi 
+New Principles 0/ Gunnery, 
+many valuable experiments on the impulse and resistance of air. The Chev. de Borda, in the 
+Mem. Acad. Paris, 
+1763 and 1767, has given experiments on the resistance of air and also of water, which are very interesting. The most complete collection of experiments on the resistance of water are those made at the public expense by a committee of thc academy of sciences, consisting of the marquis de Condorcet, Mr d’alembert, Abbe Bossut, and others. The Chev. de Buat, in his 
+Hydraulique, 
+has published some 
+most curious and valuable experiments, where many im portant circumstances are taken notice of, which had never been attended to before, and which give a view of the subject totally different from what is usually ta ken of it. Don George d’ulloa, in his 
+Examine Maritimo, 
+has also given some important experiments, siim lar to those adduced by Bougeur in his 
+Manœuvre des Vaisseaux, 
+but leading to very different conclusions. All these should be consulted by such as would acquire a practical knowledge of this subject. we must content ourselves with giving their most general and steady re sults. such as, 
+I. 
+It is very consonant to experiment that the resistances are proportional to the squares of the velocities, when the velocities of water do not exceed a few feet per second, no sensible deviation is observed. In very small velocities the resistances are sensibly greater than in this proportion, and this excess is plainly owing 
+to 
+the 
+viscidity 
+or 
+imperfect fluidity 
+of 
+water. sir Isaac 
+N a 

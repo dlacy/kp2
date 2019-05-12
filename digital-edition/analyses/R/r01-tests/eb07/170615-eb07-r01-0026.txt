@@ -1,0 +1,140 @@
+Velocity in miles per hour.
+Velocity in yards per minute.
+Velocity in inches
+Parts of a second in which IB inches are passed over.
+Parts of a second in which 24 inches are passed over.
+Parts of a second in which 30 inches are passed over.
+10
+293∙33
+176
+1
+1
+1
+9∙8
+7*33
+5∙86
+20
+586-66
+352
+1
+1
+1
+19iJ
+14∙7
+11∙73
+30
+879-99
+528
+2h3
+22
+17∙tf
+40
+1173-32
+704
+Si7 T
+29*3
+23*47
+50
+1466-65
+880
+1
+4H<Γ
+1
+36*7
+1
+29*3
+60
+1759-98
+1056
+687
+I
+44
+1
+35*2^
+70
+2053-31
+1232
+68*4
+51*3
+41*1
+80
+2346-64
+1408
+78*2
+537
+1
+46*9
+90
+2639-97
+1584
+66
+62*8
+100
+2933-30
+1760
+97*8
+73∙3
+1
+587
+Or putting
+a
+for the velocity in miles per hour,
+v
+lor the velocity in yards per minute, and
+t/
+for the velocity in yards per second, we have
+t,=1 -i^L=29∙333α
+o0
+, 1760∙o    .
+^=-s7^r=4∙888α
+3600
+And in the table, taking either of the three right-hand columns, according to the length of bearing, for instance the eighteen-inch column for a three- feet rail, we have the number of inches through which the engine or any other body would fall by the action of gravity in free space, in the time which it takes to pass over 18 inches at the given velocity, by the formula
+i =i2 ∙l93,
+where
+t
+is the time in seconds, and i the space in inches. Thusat20 miles an hour, with a three-feet rail, where l8inches are passed over in
+TSB
+of a second, the engine would fall during that time
+∕ 1
+∖
+2    1    193
+'193 =38L16'193 =38406=∙5 ' °r half an inch '
+Again at 30 miles an hour, with a 3-feet rail, 18 inches of which are passed over in 5 ¾.s of a second, the engine during that time would fall
+(29^) ’193= 858+9’193= 858+9= '225 ’ or not quite a quarter of an inch.
+And denoting by
+t
+and 5 the time and space as above, we have conversely, knowing the space an engine would have to fall, for instance, through a bad joint, the distance the engine would pass over without touching the lower rail, by the formula
+- /Z * 193·
+Thus when s=∙225, we have
+.=∙∕'S=√β∏δS=^ι=ij
+of a second, in which, at 30 miles an hour, we find by the table the engine would pass over 18 inches of the lower rail without touching it, describing in its fall a parabola modified by the effect of the springs on the engine.
+This has been put to the test of experience by bending a rail nearly half an inch, and then painting it. An engine and train of carriages were then run over it, none of the wheels of which touched the paint for 22 inches. This affects a railway in three ways. First, when the engine has to fall, through a bad joint, the rail which it leaves being higher than the rail it is coming upon, the increased momentum from the fall will here occasion a larger deflection than ordinary, and a consequent inclined plane against the engine, from the time it comes on the rail till it passes the next chair. Secondly, when a rail is permanently bent, where the resistance on the second or rising part of the rail will be less than in the first case. And thirdly, when the rail is simply deflected by the weight of the engine, and restores itself to its original level when that weight has passed ; here the effect will be least of all, the rail taking the form of a receding wave before the wheel, and a following wave after it.
+In the second case, where the rail is permanently bent, the formula for the space the engine would fall will be
+i=H-i93∙<2 ,
+where H is the height of the plane, and L its length,
+s
+and
+t
+being as before. For instance, if the bend is -I of an inch
+in a 3-foot rail, we have i =1 -^, l93==r==, 00125 of an
+180 ooo, 49
+inch, at 30 miles an hour, and s=Z∙193.-Z=∙00278
+IoO do4, lθ
+of an inch at 20 miles an hour, or 5 ¼c of an inch at 20, and ι ⅜0 of an inch, at 30 miles an hour, would be descended by the engine by the effect of gravity, in the same time that steam and gravity together take it along 18 inches of the rail.
+Let us next suppose we have steam enough to carry the engine along at a velocity so great, that gravity will not bring it down the -I of an inch perpendicular, whilst steam carries it along the 18 inches horizontal, we shall find this velocity to be at and above 44 miles an hour, for it takes j ,5 of a second for a body to fall one-tenth of an inch by the effect of gravity, and 5 1 s " : 18 in. =3600" : 44 miles; hence at 44 miles an hour, and at all velocities above it, the engine, after arriving on the rail, bent one-tenth of an inch in the middle, and forming two planes, will no longer touch the rail till after it has passed the middle of it, and velocities of 60 miles an hour have been attained.
+In the third case, the engine does not go down a plane, as above, but has to make its own curve through its weight, deflecting the rail. The necessity then of knowing the laws of deflection is such, that no idea can be formed of the effects these importants matters will have on the economy of railroads ; yet we have up to the present day positively no data to go upon, which will lead us at all near the truth ; and railways are constructing, at a cost very little short of seven millions, w ithout the means having been taken to put such essential points as these out of the pale of doubt and uncertainty, which could be done by a few well conducted experiments. We know-, for example, that in an iron bar, if Z= the half length,
+x=
+any variable distance,ÿ= the corresponding depth, and Δ = the sine of the elementary deflection, the
+∕⅛2
+sum of the deflections when
+x=l isj
+& f°r a parallel
+Z1
+bar, and ∕ --¼-= for a fish-bellied rail, in which latter
+J(o+M3
+expression
+a
+= the least depth, and
+b
+= the difference of the depths divided by the half length.
+In some cases, w, here wτ e have good experiments, the mode by which they have been calculated, in order to ge-ncralize and render available their results, is inaccurate, and the effect may be shewn by the following table, giving the deflection of rails, with three tons’ weight on the mid-

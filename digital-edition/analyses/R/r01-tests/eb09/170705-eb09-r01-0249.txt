@@ -1,0 +1,66 @@
+Sauropsida contain the two classes of Birds and Reptiles, the Icluhyopsida those of Batrachians and Fishes. The position thus assigned to Reptiles in the system is now adopted by the majority of zoologists.
+R. Owen, while fully appreciating the value of the osteological characters on which Huxley based his division, yet admitted into his consideration those taken from the organs of circulation and respiration, and reverted to Latreille’s division of warm- and cold-blooded (haematothermal and haematocryal) vertebrates, thus approximating the Batrachians to Reptiles, and separating them from Birds. He says@@1 —
+“Although the Arcs and Mammalia agree as hot-blooded vertebrates in their higher cerebral development and in the more complex heart and lungs, Birds, by genetic and developmental characters as well as by the general plan of their organization, are more intimately and naturally allied to the Oviparous Saurian s than to the Viviparous Mammals. In their generation and development modern Batrachians differ from other cold-blooded air-breathers, and agree with Fishes. Present knowledge of extinct forms more clearly exposes the artificial nature of the primary groups of the oviparous vertebrates. An important link, the Ptcrosauria, or Flying Reptiles, with wings and air-sacs, more closely connecting Birds with the actual remnant of the Reptilian class, has passed away. Other extinct orders (Ganoeephala and Labyrintliodontia) have demonstrated the artificial nature of the distinction between Fishes and Reptiles, and the close transitions that connect together ail the cold-blooded Vertebrates.”
+The Reptiles (or Monopnoa, Leuck.), then, form the highest of the five sub-classes into which, after several previous classifications, Owen@@2 finally divides the Hxmatocrya. The sub-class is composed of the following nine orders :—
+a.    Ichtiiyo pterygia (extinct)—Ichthyosaurus.
+b.    Sauropterygia (extinct)—Plesiosaurus, Pliosaurus, Notho-
+saurus, Placodus.
+c.    Anomodontia (extinct)—Dicynodon, llhynchosaurus, Oudcn-
+odon.
+d.    Chelonia.
+e.    Lacertilia (with the extinct Mosasaurus).
+f.    Ophidia.
+g.    Crocodilia (with the extinct Teleosaurus and Streptospon-
+dylus).
+h.    Dinosauria (extinct)—Iguanodon, Scelidosaurus, and Megalo·
+saurus.
+i.    Pterosauria (extinct) — JDimorphodon, Rhamphorhynchus,
+and Ptcrodactylus.
+As this ordinal arrangement deals in a uniform measure with extinct as well as living Reptiles, it is more complete than, and marks as great a progress in the history of herpetology as, any of the classifications recorded hitherto.
+The study of fossil Reptiles had been continued after Cuvier by many workers, as Goldfuss, E. Geoffroy St Hilaire, Harlan, Mantell, G. F. Jäger, Phillips, Leidy, Falconer, Cautley, Alton, Bronn, Kaup, Quenstedt, and especially H. von Meyer, who devoted the whole of his extra-official time to drawing with his own hand numerous treasures preserved in Continental collections. But none contributed more to the knowledge of fossil Reptiles than Owen himself. Indefatigable in collecting materials, and able to bring to bear upon the subject an unsurpassed knowledge ranging over the whole field of comparative anatomy, he was unrivalled in elucidating the affinities of fossil remains as well as in the production of graphic descriptions. He showed that the number of living Reptilian types bears but a small proportion to that of extinct forms, and, therefore, that a systematic arrangement of the entire class must be chiefly based upon dental and osteological characters.
+In this he was followed by Huxley and CorE who, however, have restricted still more the selection of classi-ficatory characters by relying for the purposes of arrangement on a few parts of the skeleton only. This is a matter of necessity in dealing with fossil remains, but a
+tendency has thereby been fostered in our times of applying the same principles in the subdivision of living Reptiles to the greater or less exclusion of the consideration of other parts of their organization.
+Huxley and Cope attempted a further grouping of the orders which in Owen’s system were merely serially enumerated as cosubordinate groups. Huxley used for 1 this purpose almost exclusively the position and character of the rib-articulations to the vertebral centre, the orders themselves being the same as in Owen’s system :—
+A.    PLEUR.OSPONDYLIA. Dorsal vertebrae devoid of transverse
+processes and not movable upon one another, nor are the ribs
+movable upon the vertebrae. A plastron. Order 1, Chelonia.
+B.    The dorsal vertebrae (which have either complete or rudiment
+ary transverse processes) are movable upon one another, and
+the ribs upon them. No plastron.
+a.    The dorsal vertebrae have transverse processes which are
+either entire or very imperfectly divided into terminal facets (Erpetospoxdylia).
+a. Transverse processes long; limbs, well developed, paddles ; sternum and sternal ribs absent or rudimentary. Order 2, Flesiosauria (= Sauropterygia, Ow.).
+p. Transverse processes short.
+aa. A pectoral arch and urinary bladder. Order 3, Lacertilia.
+bb. No pectoral arch and no urinary bladder. Order 4, Opiiidia. ־
+b.    The dorsal vertebrae have double tubercles in place of trans
+verse processes (Perospondylia).    Limbs paddle-sliaped.
+Order 5, Ichthyosauria ( = Ichthyoptcrygia, Ow.).
+c.    The anterior dorsal vertebrae have elongated and divided
+transverse processes, the tubercular being longer than the capitular division (Suchospondylia).
+a. Only two vertebrae in the sacrum. Order 6, Crocodilia.
+p. More than two vertebrae in the sacrum.
+aa. Manus without a prolonged ulnar digit.
+aa. Hind-limb Saurian. Order 7, Dicynodon-tia ( = Anomodontia, Ow.).
+PP. Hind-limb Ornithic. Order 8, Ornitho-scelida ( — Dinosauria, Ow.). bb. Manus with an extremely long ulnar digit. Order 9, Pterosauria.
+Finally, Cope,@@3 by combining the modifications of tlie quadrate and supporting bones with the characters used by Huxley further developed Owen’s classification, separating the Pythonomorpha and Rhynchocephalia as distinct orders from the Lacertilia. Whenever practicable he was guided in his nomenclature by priority. The following is an abstract of his classification :—■
+I. Extremities beyond proximal segment not differentiated
+to form.
+Order 1. Iciithyopterygia (Ow.).
+II. Extremities differentiated.
+A.    Streptostylica (Stann.).
+Order 2. Lacertilia.
+Order 3. Pythonomorpha (Cope).
+Order 4. Opiiidia.
+B.    Synaptosauria (Cope).
+Order 5. Rhynchocephalia (Gtln־.).
+Order 6. Testudinata.
+Order 7. Sauropterygia (Ow.).
+C.    Archosauria (Cope).
+Order 8. Anomodontia (Ow.).
+Order 9. Dinosauria (Ow.).
+Order 10. Crocodilia (Ow.).
+Order 11. Ornitiiosauria (Fitz.).
+The most recent general work on Reptiles is from the pen of Dr C. K. Hoffmann, and appears since the year 1879 in Brown’s Klassen und Ordnungen des Thierreichs. The author treats with predilection the parts which relate to the anatomy of Reptiles, and which will prove to be of the greatest help to the student; each chapter is preceded by a list of the most important publications. The systematic part is composed with less critical discernment, and its usefulness for scientific purposes will scarcely be
+@@@1 Anatomy of Vertebrates, London, 1866, 8vo, vol. i. p. 6. @@@s On. cit.. T). 16.
+@@@3 Proc. Amer. Assoc, for the Advancement of Science, 19th meeting, Cambridge, 1871, 8vo, pp. 230 sq.

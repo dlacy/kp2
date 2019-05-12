@@ -1,0 +1,71 @@
+when the 
+velocity is three feet per second, requiring the productive Height 2 ι, 5 lines, the heights corresponding to the non preffure on the poop of a thin plane is 14, 4.1 lines (taking in several circumstances of judicious correction, which we have not mentioned), that of a foot cube is 5, 83, and that of a box of triple length is 3, -31. 
+Let 
+q 
+express the variable ratio of these to the height producing the velocity, so that 
+q h 
+may express the non pressure in every case; we have, 
+For a thin plane - - 
+q ~ 
+0, 67 
+a cube - 0, 271 
+a box ~ 3 cubes - - 
+It is evident that the value of 
+q 
+has a dependence on the proportion of the length, and the transverse section of the body. A series of experiments on prismatic bo dies showed Mr de Bnat that the deviation of the sila ments was similar in similar bodies, and that this ob tained even in dissimilar prisms, when the lengths were as the square roots of the tranfverse sections. Although therefore the experiments were not sufficiently numerous for deducing the precise law, it seemed not impos sible to derive from them a very useful approximation. By a dexterous comparison he found, that if Z expresses the length of the prism, and r the area of the transverse section, and L expresses the common logarithm of the quantity to which it is prefixed, we shall express the non pressure pretty accurately by the formula T — 
+Hence arises an important remark, that when the height corresponding to the non pression is greater than 
+ofs, 
+and the body is little immersed in the fluid, there will be a void behind it.. Thus a surface of a square inch, just immersed in a current of three seet per southeast -- cond, will have a void behind it. A foot square will be in a similar condition when the velocity is 12 seet. 
+ave must be careful to distinguish this non preffure from the other causes of resistance, which are always necessarily combined with it. It is superadditive to the active impression on the prow, to the statical pres ffure of the accumulation a heäd of the body, the statical pressure arising from the depression behind it, the effects of friction, arid the effects of tenacity. It is indeed next to impossible to estimate them separately, and many of them are actually combined in the measures now given. Nothing can determine the pure non preffures till we can aseertain the motions of the filaments. 
+Mr de Buat here takes occasion to controvert the universally adopted maxim, that the pressure occasioned by a stream of fluid on a sixed body is the same with that on a body moving with equal velocity in a quiescent fluid. He repeated all these experiments with the perforated box in still water. The general distinc tipn was, that both the pressures and the non pressure in this case was less, and that the odds was chiefly to be observed near the edges of the surface. The gene ral factor of the pressure of a stream on the anterior surface was 
+m 
+~ 1, 186; but that on a body moving through a still fluid is only 
+m 
+— 1. Isse observed no non pressure even at the very edge of the prow, but even a sensible preffiire. The pressure, therefore, or re sistance, is more equably dissused over the surface of the prow than the impulse is. — He also found that the resistances diminished in a less ratio than the squares of the velocities, especially in small velocities. 
+The non pressures increased in a greater ratio than the squares of the velocities. The ratio of the velocities to a small velocity of 
+2) 
+inches 
+per 
+second increased geome trically, the value of 
+q 
+increased arithmetically; and we may determine 
+q for any 
+velocity V by this proportio 
+L V 
+L — : L ~ = 0, 5 : y, and 
+q - -- *>■■·. That is > 
+let the common logarithm of the velocity, divided by so be considered as a common number; divide this common number by 2t ^-, the quotient is y, which must be multiplied by the productive height. The pro duct is the pressure. 
+when pitot’s tube was exposed to the stream, wc had 
+m — 
+1; but when it is carried through still water, 
+m 
+is = 1, 22. when it was turned from the stream, we had 
+q — 
+0, 157; but when carried through still water, 
+q 
+is =0, 138. A remarkable experiment. 
+when the tube was moved laterally through the wa ter, so that the motion was in the direction of the plane of its month, the non pressure was — 1. This is one of his chief arguments for his theory of non preffion. Fie does not give the detail ef the experiment, and only inserts the result in his table. 
+As a body exposed to a stream deflects the fluid, heaps it up, and increases its velocity; so a body moved through a still fluid turns it aside, causes it to swell up before it, and gives it a real motion alongside of it in the opposite direction. And as the body exposed to a stream has a quantity of fluid almost stagnant both before and behind; so a body moved through a still fluid carries before it and drags after it a quantity of fluid, which accompanies it with nearly an equal velocity. This addition to the quantity of matter in motion mnst make a diminution of its velocity; and this forms a very considerable part of the observed resistauce. 
+we cannot, however, help remarking that it would require very distinct and strong proof indeed to overturn the common opinion, which is founded on our most certain and simple conceptlons of motion, and on a law of nature to which we have never observed an exception. Mr de buat’s experiments, tho’ most judiciouily contrived, and executed with serupulous care, are by no means of this kind. They were, of absolute necessity, very complicated; and many circumstances, impossible to avoid or to appreciate, rendered the observation, or at least the comparison, of the velocities, very uncertain. 
+we can see but two circumstances which do not admit of an easy or immediate comparison in the two states of the problem, when a body is exposed to a stream 
+in our experiments, 
+in order to have an impulse made on it, there is a force tending to move the body backwards, independent of the real irnpulse or pressure occasioned by the deflection of the ssream, we cannot have a stream except in eonsequence of a Hoping surface. suppose a body floating on this stieam. 
+It 
+will not only sail down 
+along vuîth the stream, 
+but 
+it 
+will sail 
+down theflream, 
+and will therefore go 
+saster 
+along the canal than the stream does : for it is floating on an inclined plane; and if we examine it by the laws of hydrostatics, we 
+silall 
+find, that besides its own tendency to 
+fl'tde 
+down this inclined plane, there is an odds of hydrostatical pressure, which 
+pujhes 
+it down this plane. It will therefore go along the canal saster than 
+the stream For this acceleration depends on the difference 
+of pressure 
+at the two ends, and will be more re 

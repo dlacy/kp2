@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0003-01"
+                facs="encyclopaediabri24chisrich_0020.jp2" type="entry">
+                <p><label>ST EUSTATIUS and SABA</label>, two islands in the Dutch West Indies. St
+                    Eustatius lies 12 m. N.W. of St Kitts in 17° 50' N. and 62° 40' W. It is 8 sq.
+                    m. in area and is composed of several volcanic hills and intervening valleys. It
+                    contains Orangetown, situated on an open roadstead on the W., with a small
+                    export trade in yams and sweet potatoes. Pop. (1908) 1283.</p>
+                <p>A few miles to the N.W. is the island of Saba, 5 sq. m. in extent. It consists of
+                    a single volcanic cone rising abruptly from the sea to the height of nearly 2800
+                    ft. The town, Bottom, standing on the floor of an old crater, can only be
+                    approached from the shore 800 ft. below, by a series of steps cut in the solid
+                    rock and known as the “ Ladder.” The best boats in the Caribbees are built here;
+                    the wood is imported and the vessels, when complete, are lowered over the face
+                    of the cliffs. Pop. (1908) 2294. The islands form part of the colony of Curaçao
+                        <hi rend="italic">(q.v.).</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

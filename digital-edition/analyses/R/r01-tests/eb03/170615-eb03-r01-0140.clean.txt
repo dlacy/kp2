@@ -1,0 +1,45 @@
+The results of these experiments were as conformable to the theory as could be wished. The resistance was always a little less than what the theory required, but greatly exceeded its half; the result of the generally re ceived theories. This defect should be expected; for the demonstration supposes the plane MN to be infinitely extended, so that the film of water which issues through the chink may be accurately parallel to the plane. This never can be completely effected. Also it was supposed, that the velocity was justly measured by the amplitude of the parabola EGK. But it is well known that the. very putting the plane MN in the way of the jet, though at the distance of an inch from the orifice, will diminish the velocity, of the efflux through this orifice. This is easily verisied by experiment. ob serve the time in which the vessel will be emptied when there is no plane in the way. Repeat the experiment .with the plane in its place; and more time will be necessary. The foliowing is a note of a course of ex periments, taken as they stand, without any selection. 
+N I » 3 4 5 6 
+Refill, by theory 1701 17*0 165 t i6oa 1528 107» 
+'Refill, by experiment 
+1403 1463 1486 1401 1403 1021 
+Difference ay 8 457 165 201 125 51 
+In order to demonstrate this proposition in such a manner as to furnish the means of investigating the jwhole mechanism and action of moving fluids, it is necessary to premise an elementary theorem of curvilineal motions. 
+If .a particle of matter describes a curve line ABCE (sig. 13·) by the continual action of deflecting forces, which vary in any manner, both with respect to inten sity and direction, and if the action of tsmse forces, in .every point of the curve, be resolved into two directions, perpendicular and parallel to the initial direction AK; then, 
+i. The accumulated effect of the deflecting forces, estimated in a direction AD perpendicular to AK, is to the final quantity of motion as the sine of the sinal change of direction is to radius. 
+Let us sirst suppose that the accelerating forces act by starts, at equal intervals of time, when the body is in the points A, B, C E. And let AN be the de flecting force, which, acting at A, changes the origi nal direction AK to AB. Produce AB till BH=± AB, and complete the parallelogram BFCH. Then FB is the force which, by acting at B, changed the motion BLITHE continuation of AB) to B.C.. ln like manner make 
+Ch 
+(in B.C. produced) equal to B.C., and complete the parallelogram C/EÂ 
+Cf 
+is the deflecting force at C c. Draw BO parallel to AN, and GBK perpendicular to AK. Also draw lines through C and E perpendicular to AK, and draw through B and C lines parallel to AK. Draw also HL, /?/per pendicular, and FG, HI, 
+hi, 
+parallel to AK. 
+It is plain that BK is BO or AN estiinated in the direction perpendicular to AK, and that BG is BF estimated in the same way. And since BH = AB, HL or IM is equal to BK. Also CI is equal to BG. Therefore CM is equal to AP+BG. By similar rea scning it appears that Em ez s ^/»=c^+cm, == c^ f bg, f ap. 
+Therefore if CE be taken for the measure of the final velocity or quantity of motion, Em will be the accumulated effect of the deflecting forces estimated in 
+the direction AD perpendicular to AR. But 
+Em is 
+to CE as the fine 
+of 
+wce is to radius; and the angle wce is the angle contained between the initial and final directions, because 
+Cm 
+is parallel to AK. Now let the intervals of time diminish continually and the frequency of the impulses increase. The deflection be comes ultimately continuous, and the motion curvili neal, and the proposition is demonstrated. 
+we see that the initial velocity and its subsequent changes do not affect the conclusion, which depends entirely on the final quantity of motion. 
+2. 
+The accumulated effect of the accelerating forces, when estimated in the direction AK of the original motion, or in the opposite direction, is equal to the difference between the initial quantity of motion and the product of the final quantity of motion by the cosine of the change of direction. 
+For Cw=c 
+I — m I, 
+= BM — 
+f q 
+BM=BL ml, AK— — AK=AO ok, AO — PN. 
+Therefore pn+fg+/qj(the accumulated impulse in the direction OA) — AO — CM, — AO — cex coi fine of ECM. 
+Cor. 
+I. The same action, in the direction opposite to that of the original motion, is necessary for caussng a body to move at right angles to its former direction as for stopping its motion. For in this case, the cosine of the change of direction is 
+— 0, 
+and AO — CE Xcosine ECM=A0 — 0, “AO, = the original motion. 
+Cor. 
+2. If the initial and final velocities are the same, the accumulated action of the accelerating forces, esti mated in the direction OA, is equal to the product of the original quantity of motion by the versed sine of the change of direction. 
+The application of these theorems, particularly the second, to our present purpose is very obvious. All the filaments of the jet were originally moving in the direction of its axis, and they are finally moving along the resisting plane, or perpendicular to their former motion. Therefore their transverse forces in the direction of the axis are 
+(in cumulo) 
+equal to the force which would stop the motion. For the aggregate of the simultaneous forces of every particle in the whole filament is the same with that of the successive forces of one particle, as it arrives at different points of its curvineal path. All the transverse forces, estimated in a direction per pendicular to the axis of the vein, precisely balance and sustain each other; and the only forces which can pro duce a sensible effect are those in a direction parallel to the axis. By these all the inner filaments are pressed towards the plane MN, and must be withstood by it. It is highly probable, nay certain, that there is a quantity of stagnant water in the middle of the vein which sustains the pressures of the moving filaments without it, and transmits it to the solid plane. But this does not alter the case. And, fortunately it is of no consequence what changes happen in the velocities of the particles while each is describing its own curve. And it is from this circumstance, peculiar to this particular case of per peudicular impulse, that we are able to draw the con clusion. It is by no means difficult to demonstrate that the velocity of the external surface of this jet is con stant, and indeed of every jet which is not acted on by external forces after lt has quitted the orisice : but this discussiou is quite unnecessary here. It is however extremely difficult 
+to 
+ascertain, even in this raoft fimp’e 

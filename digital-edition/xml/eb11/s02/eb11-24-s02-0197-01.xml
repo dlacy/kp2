@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0197-01"
+                facs="encyclopaediabri24chisrich_0214.jp2" type="entry">
+                <p><label>SANUTO (or Sanudo), MARINO</label>, the younger (1466-1533), Venetian
+                    historian, was the son of the senator, Leonardo Sanuto, and was bom on the 22nd
+                    of May 1466. Left an orphan at the age of eight, he lost his fortune owing to
+                    the bad management of his guardian, and was for many years hampered by want of
+                    means. In 1483 he accompanied his cousin Mario, who was one of the three <hi
+                        rend="italic">sindici inquisitori</hi> deputed to hear appeals from the
+                    decisions of the <hi rend="italic">rettori,</hi> on a tour through Istria and
+                    the mainland provinces, and he wrote a minute account of his experiences in his
+                    diary. Wherever he went he sought out learned men, examined libraries, and
+                    copied inscriptions. The result of this journey was the publication of his <hi
+                        rend="italic">Itinerario in terra ferma</hi> and a collection of Latin
+                    inscriptions. Sanuto was elected a member of the Maggior Consiglio when only
+                    twenty years old (the legal age was twenty-five) solely on account of his merit,
+                    and he became a senator in 1498; he noted down everything that was said and done
+                    in those assemblies and obtained permission to examine the secret archives of
+                    the state. He collected a fine library, which was especially rich in MSS. and
+                    chronicles both Venetian and foreign, including the famous Altino chronicle, the
+                    basis of early Venetian history, and became the friend of all the learned men of
+                    the day, Aldo Mannzio dedicating to him his editions of the works of Angelo
+                    Poliziano and of the poems of Ovid. It was a great grief to Sanuto when Andrea
+                    Navagero was appointed the official historian to continue the history of the
+                    republic from the point where Marco Antonio Sabellico left off, and a still
+                    greater mortification when, Navagero having died in 1529 without executing his
+                    task, Pietro Bembo was appointed to succeed him. Finally in 1531 the value of
+                    his work was recognized by the senate, which granted him a pension of 150 gold
+                    ducats per annum. He died in 1533.</p>
+                <p>His chief works are the following: <hi rend="italic">Itinerario in terra
+                        ferma,</hi> published by M. Rawdon Brown in 1847; <hi rend="italic">I
+                        commentarii della guerra di Ferrara,</hi> an account of the war between the
+                    Venetians and Ercole d'Este, published in Venice in 1829; <hi rend="italic">La
+                        Spedizione di Carlo VIII.</hi> (MS. in the Louvre) ; <hi rend="italic">Le
+                        Vite dei Dogi,</hi> published in yol. xxii. of Muratori's <hi rend="italic"
+                        >Rerum Italicarum Scriptores</hi> (1733); the <hi rend="italic">Diarii,</hi>
+                    his most important work, which cover the period from the 1st of January 1496 to
+                    September 1533, and fill 58 volumes. The publication of these records was begun
+                    by Rinaldo Fulin, in collaboration with Federigo Stefani, Guglielmo Berchet, and
+                    Niccolò Barozzi; the last volume was published in Venice in 1903. Owing to the
+                    relations of the Venetian republic with the whole of Europe and the East it is
+                    practically a universal chronicle, and is an invaluable source of information
+                    for all writers on that period.</p>
+                <p><hi rend="smallcaps">Bibliography.—M. Rawdon Brown,</hi>
+                    <hi rend="italic">Ragguagli sulla vita e sulle opere di Marino Sanuto</hi> (3
+                    vols., Venice, 1837-1838); G. Tiraboschi, <hi rend="italic">Storia della
+                        Letteratura Italiana,</hi> vol. vi. pt. ii. ; R. Fulin, <hi rend="italic"
+                        >Marin Sanudo</hi> (Turin, 1880); Ricotti, <hi rend="italic">I Diarii di
+                        Marin Sanudo</hi> (Turin, 1880); and Giuseppe de Leva, <hi rend="italic"
+                        >Marin Sanudo</hi> (Venice, 1888).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0225-04"
+                facs="encyclopaediabri24chisrich_0244.jp2" type="entry">
+                <p><label>SASKATCHEWAN</label>, a province of Western Canada, lying between the two
+                    provinces of Alberta and Manitoba. Area, 250,650 sq. m. The south-eastern
+                    portion is chiefly prairie, being the continuation of the second prairie steppe
+                    found in</p>
+                <p>Manitoba. About 104° W. the Missouri Coteau, an elevation of several hundred
+                    feet, probably an old glacial moraine, crosses the southern boundary and runs
+                    north-westward, being the eastern escarpment of the third prairie steppe which
+                    runs to the Rocky Mountains. Several elevations of note are found in the
+                    southern half of the province. On the central part of the southern boundary is
+                    Wood Mountain, a succession of clay <hi rend="underline">hills</hi>, On the
+                    lower level is Moose Mountain, and north of it Beaver</p>
+                <p>Hills and Touchwood Hills. These are elevations of morainal or glacial deposits.
+                    The river Saskatchewan <hi rend="italic">(q.v.)</hi> gives its name to the
+                    province. In central Saskatchewan near the south bend of the South Saskatchewan
+                    begins the river Qu’Appelle (“ Who Calls? ”), which runs eastward, and crossing
+                    the western boundary of Manitoba falls into the Assiniboine river. Farther to
+                    the south rises the Souris river, which flows parallel to the Missouri Coteau,
+                    passes southward into N. Dakota, and again entering the province of Manitoba
+                    finds its way at length into the Assiniboine river. North of the Saskatchewan
+                    river the</p>
+
+                <pb xml:id="eb11-24-s02-0226" facs="encyclopaediabri24chisrich_0245.jp2"/>
+                <p>surface of the province becomes heavily wooded, and this great forest continues
+                    through the broken Laurentian and Cambrian region, becoming dwarfed as it goes
+                    north. In this portion of the province are found Reindeer Take, and north-west
+                    of this the easterly portion of Lake Athabasca, which is on the provincial
+                    boundary line of Alberta.</p>
+                <p><hi rend="italic">Climate.—</hi> Extending as the province does from north to
+                    south for more than 750 m., it may be readily seen that, as in the case of
+                    Alberta, there will be a great range of climate and temperature. The
+                    south-western part of the province is influenced much by the Chinook winds which
+                    from the Rocky Mountain valleys come through Alberta. The climate here is dry,
+                    and portions of the country need irrigation. In south-eastern Saskatchewan the
+                    prairie lies on a lower level, there is more moisture, and the climate in winter
+                    is more steady. The whole province of Saskatchewan, except the south-western
+                    part, is well watered. As in the case of Alberta, the southern third of
+                    Saskatchewan has a moderate and changeable climate; in the central third ranging
+                    from Regina to Prince Albert it is steady, while in the northern third, through
+                    the Laurentian region to 60° N., it is severe. Compare the following table
+                    :—</p>
+                <table>
+                    <row>
+                        <cell cols="1" rows="2"/>
+                        <cell cols="1" rows="2"><p>Elevation.</p></cell>
+                        <cell cols="2" rows="1"><p>Mean Temperature.</p></cell>
+                        <cell cols="1" rows="2"><p>Average</p><p>Precipitation.</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Summer.</p></cell>
+                        <cell cols="1" rows="1"><p>Winter.</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Maple Creek .</p></cell>
+                        <cell cols="1" rows="1"><p>2495 ft.</p></cell>
+                        <cell cols="1" rows="1"><p>62°</p></cell>
+                        <cell cols="1" rows="1"><p>I5·3°</p></cell>
+                        <cell cols="1" rows="1"><p>10·18 in.</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Swift Current</p></cell>
+                        <cell cols="1" rows="1"><p>2423 ..</p></cell>
+                        <cell cols="1" rows="1"><p>60°</p></cell>
+                        <cell cols="1" rows="1"><p>9·4°</p></cell>
+                        <cell cols="1" rows="1"><p>17·04 "</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Regina . .</p></cell>
+                        <cell cols="1" rows="1"><p>1885 „</p></cell>
+                        <cell cols="1" rows="1"><p>50°</p></cell>
+                        <cell cols="1" rows="1"><p>o°</p></cell>
+                        <cell cols="1" rows="1"><p>9·03 "</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Prince Albert</p></cell>
+                        <cell cols="1" rows="1"><p>1402 „</p></cell>
+                        <cell cols="1" rows="1"><p>54·6°</p></cell>
+                        <cell cols="1" rows="1"><p>·09°</p></cell>
+                        <cell cols="1" rows="1"><p>14·45 "</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Battleford .</p></cell>
+                        <cell cols="1" rows="1"><p>1615 "</p></cell>
+                        <cell cols="1" rows="1"><p><hi rend="smallcaps">61·4°</hi></p></cell>
+                        <cell cols="1" rows="1"><p>7.1°</p></cell>
+                        <cell cols="1" rows="1"><p>13·62 „</p></cell>
+                    </row>
+                </table>
+                <p>The animal life of Saskatchewan resembles that of Alberta (<hi rend="italic"
+                        >q.v.</hi>), excepting the mountain lion, mountain sheep and mountain goat,
+                    which belong to the Rocky Mountains. The plant life of Saskat-chewan is much
+                    like that of eastern Alberta. The Douglas fir and several varieties of pine
+                    found in the Rocky Mountains do not occur.</p>
+                <p><hi rend="italic">Population.—</hi> By the census of 1906 the population of
+                    Saskatchewan was found to be 257,763. It had grown from 91,279 in 1901 (the area
+                    of the province being in 1906 somewhat greater than in 1901). The population is
+                    to a large extent Canadian, and the immigration has been largely from (1) the
+                    British Isles; (2) the United States; (3) the continent of Europe. Several large
+                    bodies of foreigners are found. There is a community of upwards of 8000
+                    Doukhobors—a sect of Russian Quakers. Their tenets are peculiar, involving
+                    opposition to form in religion, to marriage and to submission to governmental
+                    requirements. They desire to hold their land in common. The Russian writer
+                    Tolstoy was a promoter of this immigration. Considerable bodies of Galicians are
+                    also found in the province. On the Indian population there were 9049 in 1901 ;
+                    and of Indian half-breeds 7949 in the same year. The Indians of Saskatchewan are
+                    chiefly Plain or Wood Crees, with a mixture among them of Saulteaux. Toward the
+                    south small bands of Assiniboines are found, and here and there small companies
+                    of refugee Sioux from the United States. All the Indians are on government
+                    reserves. In these reserves along the Qu’Appelle river are presented many
+                    examples of the successful management of the Indians by the Dominion government.
+                    These reserves are largely self-supporting; the Indians have comfortable houses,
+                    grow considerable crops of grain, make large quantities of hay and possess herds
+                    of cattIe. At Regina, Qu’Appelle, Crooked Lakes and other industrial schools,
+                    young Indians—both male and female—receive a practical education. Many of these
+                    are making excellent farmers.</p>
+                <p><hi rend="italic">Government, &amp;amp;c.</hi> —Throughout the province the
+                    municipal system of self-government, especially in the cities, towns and
+                    villages, is being introduced. There are two cities in the province, (1) Regina
+                    (pop. 9804 in 1907), the capital; (2) Moose Jaw (pop. 6249). The latter is a
+                    divisional point on the Canadian Pacific railway, and owes its importance
+                    chiefly to its railway connexions. In the northern portion of the province are
+                    two considerable towns (l) Prince Albert (pop. 3005), on the banks of the North
+                    Saskatchewan river, giving promise of becoming a manufacturing centre, having as
+                    it has the great forest on the north side of the Saskatchewan river, adjoining
+                    it. (2) Saskat∞n (pop. 3011), on the South Saskatchewan river. This, though a
+                    new town, bids fair to become a great railway centre. Here the Canadian Pacific,
+                    the Canadian Northern and the Grand Trunk Pacific railways all cross the great
+                    river of the province, and tributary to this town is a large area of arable and
+                    prairie land.</p>
+                <p>The Saskatchewan is to some extent navigated, but a serious obstacle, the Grand
+                    Rapids, near the mouth of the river, requires a canal to allow the entrance of
+                    steamers into Lake Winnipeg. The southern part of the province is being covered
+                    by railways, the Canadian Pacific railway having its main line generally
+                    parallel to the international boundary line, at a distance of one hundred to one
+                    hundred and fifty miles. This railway has south of its main line two important
+                    branches: (1) The “ Soo ” line from Moose Jaw to Estevan, and connecting with
+                    the United States’ system of railways. (2) The Arcola branch from the
+                    south-eastern corner of the province running to Regina. Another branch leaves
+                    the main line for the north at Kirkella, and this will make a direct
+                    communication with Edmonton, while another branch line enters the province at
+                    Harrowby and runs westward to join the Kirkella branch on its way to Saskatoon
+                    and Edmonton. The Canadian Northern railway has a line which enters the province
+                    at Togo and following the Saskatchewan leaves the province at Lloydminster and
+                    pushes on to Edmonton. The Grand Trunk Pacific railway follows a direct line
+                    from Winnipeg to Edmonton, entering the province at 51° 25' N. and leaving it at
+                    52° 35' N. for the west.</p>
+                <p>The chief industries of Saskatchewan are cattle-rearing in the northern part and
+                    grain growing in the south of the province. Coal is found on the Saskatchewan,
+                    and a light variety of lignite on the Souris river near the international
+                    boundary. The province follows in general the plan of government found in the
+                    other provinces of the Dominion. The capital of the province is Regina <hi
+                        rend="italic">(q.v.).</hi> A provincial governor lives at Regina and he has
+                    a cabinet of four ministers. The legislature consists of twenty-five members.
+                    The province has adopted a public schools act, which has a proviso for the
+                    establishment of separate schools, but this is so surrounded by restrictions as
+                    to be almost non-effective, every such school being required in all particulars
+                    to follow the public school model. The system covers both secondary and primary
+                    public schools. A normal school is in operation at Regina.</p>
+                <p>The religions of the people are similar to those in the other western provinces
+                    of Canada. The principal denominations were in 1901 as follows :—</p>
+                <table>
+                    <row>
+                        <cell cols="1" rows="1"><p>Presbyterians</p></cell>
+                        <cell cols="1" rows="1"><p>17,151</p></cell>
+                        <cell cols="1" rows="1"><p>Baptists .</p></cell>
+                        <cell cols="1" rows="1"><p>2618</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Roman Catholics</p></cell>
+                        <cell cols="1" rows="1"><p>17,116</p></cell>
+                        <cell cols="1" rows="1"><p>Doukhobors .</p></cell>
+                        <cell cols="1" rows="1"><p>8700</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Church of England .</p></cell>
+                        <cell cols="1" rows="1"><p>16,418</p></cell>
+                        <cell cols="1" rows="1"><p>Greek Church.</p></cell>
+                        <cell cols="1" rows="1"><p>2579</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Methodists</p></cell>
+                        <cell cols="1" rows="1"><p>11,528</p></cell>
+                        <cell cols="1" rows="1"><p>Mennonites .</p></cell>
+                        <cell cols="1" rows="1"><p>3683</p></cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>Lutherans</p></cell>
+                        <cell cols="1" rows="1"><p>12,098</p></cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                </table>
+                <p><hi rend="italic">History.—</hi> The history of Saskatchewan gathers round the
+                    Hudson’s Bay Company. The open plains of the south were the home of the buffalo
+                    and few posts were established here, but the Saskatchewan river was the great
+                    line of communication for the fur-traders. It was first reached by the Montreal
+                    fur-traders in 1766, and by the Hudson’s Bay Company from Hudson Bay in 1772. By
+                    this route the traders reached the great fur country of Mackenzie river, and the
+                    forts on the Saskatchewan river were notable. These were Fort Cumberland, Fort
+                    Carlton and Edmonton House. Alexander Mackenzie in 1789 left Edmonton and Fort
+                    Chipewyan (on Lake Athabasca) and going northward discovered Mackenzie river and
+                    reached the Arctic Sea. On his second voyage, leaving Fort Chipewyan, he gained
+                    the Peace river, and by means of this crossed the Rocky Mountains and reached
+                    the Pacific coast (July 22nd, 1793), being first of white men, north of Mexico,
+                    to cross the continent. The Saskatchewan and Mackenzie river basins were the
+                    real fur country of the traders. The northern portion of the province of
+                    Saskatchewan is still the home of the fur-trader.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

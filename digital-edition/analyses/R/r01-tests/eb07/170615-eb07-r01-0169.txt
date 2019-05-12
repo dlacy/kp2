@@ -1,0 +1,189 @@
+i This is the general expression for the impulse on a solid
+dtf
+' of revolution. On eliminating
+j-,
+by means of the equation of the generating curve, it gives the amount of the relative impulse in each particular case.
+As an example, suppose APB to be the quadrant of a circle, the equation of which is y2 =
+2ax— P.
+From the last proposition we have
+dz2 = -"
+w hence 2τ
+J"
+qf -⅛f
+= 2r !    dy,
+which, being integrated on tlle sup
+position that
+y
+varies from
+y
+= O to
+y = a,
+becomes 2» (½ o2 — ¼ α2 ) = ½ τ α2 . This is the oblique impulse on the sphere or hemisphere in the direction of the axis. The direct impulse on a great circle is proportional to its area, that is, to σα2 ; therefore the impulse or resistance of a sphere is one half the direct resistance of the plane of its great circle.
+As a second example, let AB be a straight line, the equation of which is
+y = x
+tan.
+φ.
+In this case
+dyi = dx,
+tan.2
+φ, dz2
+= (1 + tan?
+φ) dx°-
+= sec?
+φ dx2 ;
+therefore 2»
+J'
+y
+= 2«r sin?
+if Jydy — gaf
+sin?
+φ,
+which between the limits
+y —
+O and
+y = a,
+gives the whole effective impulse on the cone formed by the revolution of AP about AC proportioned to
+vai
+sin?
+φ,
+that is, to the area of the base multiplied by the square of the sine of the inclination of the sides to the axis.
+Prop.
+VII. To determine the frustum of a triangular prism of a given base and altitude, which, moving in a fluid in a direction perpendicular to its base, is resisted the least possible.
+Let BC (fig. 5) be the base, ED the altitude, of the frustum
+PBCQ of the wedge ABC, the axis of which is AD. Draw PM parallel to AD. By Proposition II. tlle oblique effective impulse on PB is equal to the direct impulse on MB, multiplied by the square of the sine of BPM. But by Proposition I. the direct impulse on MB is proportional to MB ; therefore the oblique impulse on PB is proportional to MB sin.2 BPM.
+Apd the direct impulse on PE is proportional to PE ; therefore the whole force acting on EP and PB (or on PQ, PB, and QC, that is to say, the whole resistance on the frustum), is proportional to PE + MB sin.2 BPM.
+Let ED = «, DB = 6, and the angle BPM (= BAD) = φ.
+We have then MB =
+a
+tan.
+φ,
+and PE = DB — MB = ό —
+a
+tan.
+φ
+; hence the resistance on the frustum is proportional to
+b — a
+tan.
+φ + a
+tan.
+φ
+sin.2
+φ,
+that is, to 
+b — a
+tan.
+φ
+( 1 — sin? p) =
+b — α
+sin.
+φ
+cos.
+φ.
+Now this will be a minimum when
+a
+sin.
+φ
+cos.
+φ
+is a maximum. On differentiating sin.
+φ
+cos.
+φ,
+and making the result = O, we have cos?
+φ
+= sin?
+φ,
+whence cos.
+φ —
+sin.
+φ,
+and consequently
+φ
+= 45°, or PM = MB.
+Prop.
+VIII. To determine the frustum of a cone of a given base and altitude, which, moving in the direction of its axis, shall be resisted the least possible.
+Let PBCQ (fig. 5) be the frustum, moving in the direction of the axis DE. The resistance to the frustum is equal to the direct impulse on PQ, together with the oblique im
+pulse on the sides PB and QC. But by Prop. I. the direct impulse on the section PQ is proportional to PE2 ; and if ABC be the whole cone, the resistance on the sides of the frustum PBCQ is equal to that on the whole cone, diminished by that on the cone APQ. Now, by Prop. VI. the resistance on the cone ABC is proportional to BD2 sin?
+φ, 
+and that on the cone APQ is proportional to PEs sin?
+φ ; 
+therefore on the conical surface of the frustum it is proportional to (BD2 — PEi ) sin?
+φ,
+and on the whole frustum proportional to PE2 + (BD2 — PE2 ) sin?
+φ
+= PE2 cos?
+φ 
++ BDa sin?
+φ.
+Let ED =
+a,
+and DB =
+b.
+We have then BM = α tan.
+φ,
+and PE
+= b — a
+tan.
+φ ;
+whence PE2 =
+b, —2abtan.φ
++ o2 tan?
+φ,
+and PEt cos?
+φ-bt
+cos?
+φ — 2 ab
+sin.
+φ
+cos.
+φ
++ β2 sin?
+φ,
+and consequently PE2 cos?
+φ
++ BD2 sin? p = Zr—
+2αb
+sin. f cos. p+ α2 sin?
+φ. 
+In order that the resistance may be a minimum, the differential of this expression must be O. Differentiating, and dividing by
+dφ,
+and leaving out the common multiplier 2α, we get O = —
+b
+cos?
+φ + b
+sin?
+φ + a
+sin.
+φ
+cos.
+φ, 
+whence
+a
+sin.
+φ
+cos.
+φ = b
+(cos?
+φ —
+sin?
+φ), 
+or    
+½ a
+sin.
+2<p = b
+cos.
+2φ,
+and therefore
+b = ½ a
+tan. 2
+φ.
+Let ED be bisected in F, and join FB ; we have then BD = FD tan. BFD, or Z
+∣
+= 
+½ a
+tan. BFD, so that BFD = 2
+φ
+; whence, since BFD = FAB + ABF, it follows that ABF is equal to FAB, and consequently AF = FB. This property determines the frustum, for F is a given point.
+From the same principies, Sir Isaac Newton determined the form of the curve which would generate the solid which, of all othe⅛s of the same length and base, should have the least resistance. The investigation, however, is not introduced here, for reasons which will soon appear.
+The reader cannot fail to observe, that all that has hitherto been said on this subject relates to the comparison of different impulses or resistances. We have always compared the oblique impulsions with the direct, and by their intervention we compare the oblique impulsions with each other. But it remains to give absolute measures of some individual impulsion, to which, as an unit, we may refer every other. And as it is by their pressure that they become useful or hurtful, and they must be opposed by other pressures, it becomes extremely convenient to compare them with that pressure with which we are most familiarly acquainted, the pressure of gravity.
+The manner in which the comparison is made is this. When a body advances in a fluid with a known velocity, it puts a known quantity of the fluid into motion (as is supposed) with this velocity ; and this is done in a known time. We have only to examine what weight will put this quantity of fluid into the same motion, by acting on it during the same time. This weight is conceived as equal to the resistance. Thus, let us suppose that a stream of water, moving at the rate of eight feet per second, is perpendicularly obstructed by a square foot of solid surface held fast in its place. Conceiving water to act in the manner of the hypothetical fluid above described, and to be without elasticity, the whole effect is the gradual annihilation of the motion of eight cubic feet of water moving eight feet in a second. And this is done in a second of time. It is equivalent to the gradually putting eight cubic feet of water into motion with this velocity, and doing this by acting uniformly during a second. The question then arises, what weight is able to produce this effect ? Now' the weight of eight feet of water, acting during a second on it, will, as is well known, give it the velocity of thirty-two feet per second ; that is, four times greater. Therefore, the weight of tlle fourth part of eight cubic feet, that is, the weight of two cubic feet, acting during a second, will do the same thing, or the w, eight of a column of water whose base is a

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb07-19-r02-0359-04"
+                facs="eb07_19_Page_370.tif" type="entry">
+
+                <p><label>ROMBLON</label> or Romblino, one of the smaller Philippine islands, about
+                    30 miles in circumference. Long. 121. 58. E. Lat. 12. 40. N.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0401-04"
+                facs="encyclopaediabri23chisrich_0424.jp2" type="entry">
+
+                <p><label>ROBERT OF JUMIÉGES</label> (d. <hi rend="italic">c.</hi> 1070), archbishop
+                    of Canterbury, was a Norman who became prior of St Ouen at Rouen and then abbot
+                    of Jumieges. A close friend of the future king of England, Edward the Confessor,
+                    he crossed over to England with Edward in 1042, and in 1044 became bishop of
+                    London. In English history Robert appears as the most trusted and the most
+                    prominent of the king’s foreign friends, and as the leader of the party hostile
+                    to the influence of Earl Godwine. In 1051, although the chapter had already made
+                    an election, Edward appointed him archbishop of Canterbury. He seems to have
+                    been sent by the king on an errand to Duke William of Normandy, and on the
+                    return of Godwine from exile in 1052 he fled in great haste from England. He was
+                    outlawed and deposed, and he died at Jumiéges about 1070. The treatment of
+                    Robert by the English was put forward by William the Conqueror as a pretext for
+                    invading England.</p>
+               <p>See <hi rend="italic">Two Saxon Chronicles,</hi> edited by J. Earle and C.
+                    Plummer (Oxford, 1892); and E. A. Freeman, <hi rend="italic">History of the
+                        Norman Conquest</hi> (Oxford, 1876-76).</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

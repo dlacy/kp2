@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0423-01"
+                facs="encyclopaediabri23chisrich_0456.jp2" type="entry">
+
+                <p><label>ROBINSON, JOHN</label> (1575-1625), English Nonconformist divine, was born
+                    probably in Lincolnshire or Nottinghamshire about T575- He seems to have
+                    Studietl at Cambridge, and to have been influenced by William Perkins. He took
+                    orders and held a curacy in Norwich, but was attracted by Puritan doctrines, and
+                    finally associated himself with a Congregation meeting at Gainsborough (where
+                    the “ John Robinson Memorial Church ” bears witness to his work). In 1606 the
+                    members divided into two societies, Robinson becoming minister of the one which
+                    made its headquarters at Scrooby, a neighbouring village. The increasing
+                    hostility of the authorities towards nonconformity soon forced him and his
+                    people to think of flight, and, not without difficulty, they succeeded in making
+                    their escape in detachments to Holland. Robinson settled in Amsterdam in 1608,
+                    but in the following year removed, with a large contingent, to Leiden, where he
+                    ministered to a community whose numbers gradually grew from one hundred to three
+                    hundred. In 1620 a considerable minority of these sailed for England in the “
+                    Speedwell," and ultimately crossed the Atlantic in the “
+                    Mayflower”; it was Robinson’s intention to follow as soon as practicable, along
+                    with the rest of his flock, but he died before the plan could be carried out, on
+                    the ist of March 1625.</p>
+               <p>In the early stages of the Arminian controversy he took the Calvinistic side,
+                    and even engaged in a public disputation with the famous Episcopius. He bore a
+                    high reputation even among his ecclesiastical opponents, and one of them (Robert
+                    Baillie) calls him “ the most learned, polished and modest spirit that ever that
+                    sect enjoyed.” He was large-minded and eminently reasonable in spirit,
+                    recognizing parish assemblies where “ the pure word and discipline jj prevailed
+                    as true churches of God. His sound judgment is seen in the way in which he
+                    adjusted the relations of elders and church— the"most delicate practical problem
+                    of Congregationalism.</p>
+               <p>Amongst his publications may be mentioned <hi rend="italic">Justification of
+                        Separation from the Church</hi> (1610), <hi rend="italic">Apologia
+                        Brownisiarum</hi> (1619), <hi rend="italic">A Defence of the Doctrine
+                        propounded by the Synod of Dort</hi> (1624), and a volume of <hi
+                        rend="italic">Essays, or Observations Dhine and Moral,</hi> printed in 1625.
+                    His Works (with one exception, <hi rend="italic">A Manumission to a
+                        Manduction,</hi> since published by the Massachusetts Historical Society,
+                    ser. iv., vof. i.), including a memoir, were reprinted by R. Ashton in three
+                    vols, in 1851. A summary of their contents is given in G. Punchard <hi
+                        rend="sub">1</hi>
+                    <hi rend="italic">History of Congregationalism</hi> (New York, 1867), iii.
+                    300-344.. See further <hi rend="smallcaps">Congregationalism,</hi> and the
+                    literature there cited; also O. S. Davis, <hi rend="italic">John Robinson</hi>
+                    (Hartford, Connecticut, 1897).</p>
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

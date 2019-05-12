@@ -1,0 +1,48 @@
+ject more intricate than ever ; yet it is by no means inconsistent with the genuine principles of hydrostatics or hydraulics. In as far as Du Buat’s proposition concerning the pressure of moving fluids is true, it is very reasonable to say, that when the lateral velocity with which the fluid tends to escape exceeds the velocity of percussion, the height necessary for producing this velocity must exceed that which would produce the other, and a non-pressure must be observed. And if we consider the forms of the lateral filaments near the edge of the body, we see that the concavity of the curve is turned towards the body, and that the centrifugal forces tend to diminish their pressure on the body. If the middle alone were struck with a considerable velocity, the water might even rebound, as is frequently observed. This
+actual
+rebounding is here prevented by the surrounding water, which is moving with the same velocity ; but the pressure may be almost annihilated by the 
+tendency
+to rebound of the inner filaments.
+Part (and perhaps a considerable part) of this apparent non-pressure is undoubtedly produced by the tenacity of the water, which licks off with it the water lying in the hole. But at any rate this is an important fact, and gives great value to these experiments. It furnishes a key to many curious phenomena in the resistance of fluids ; and the theory of Du Buat deserves a very serious consideration. It is all contained in the two following propositions.
+1.    “
+If,
+by any cause Xchatever, a column of fluid, whether making part Ofan indefinite fluid, or contained in solid canals, come to move with a given velocity, the pressure which it exerted laterally before its motion, either on the adjoining fluid or on the. sides of the canal, is diminished by the Xceight of α column having the height necessary for communicating tlιc velocity of the motion.
+2.    “
+7
+he pressure on the centre of a plane surface perpendicular to the stream, and wholly immersed in it, is ½ of the weight of a column having the height necessary for communicating the velocity. For
+33
+is
+½ of 2l½.w
+He attempted to ascertain the medium pressure on the whole surface, by opening 625 holes dispersed all over it. With the same velocity of current, he found the height in the tube to be 29 lines, or 7½ more than the height necessary for producing the velocity. But he justly concluded this to bc too great a measure, because the holes were ¼ of an inch from the edge ; had there been holes at the very edge, they would have sustained a non-pressure, which would have diminished the height in the tube very considerably. He exposed to the same stream a conical funnel, which raised the water to 34 lines. But this could not be considered as a measure of the pressure on a plane solid surface ; for the central water was undoubtedly scoopcd out, as it were, and the filaments much more deflected than they would have been by a plane surface. Perhaps something of this happened even in every small hole in the former experiments. And this suggests some doubt as to the accuracy of the measurement of the pressure and of the velocity of a current by Pitot’s tube. It surely renders some corrections absolutely necessary. It is a fact, that when exposed to a vein of fluid coming through a short passage, the water in the tube stands on a level with that in the reservoir. Now we know that the velocity of this stream
+docs not
+exceed what would be produced by a fall equal to -1 fi s1 ∙1 ¼j of the head of water in the reservoir.
+Du Buat, by a scrupulous attention to all the circumstances, concludes that the medium of pressure on the
+25∙5
+whole surface is equal to —— of the weight of a column
+having the surface for its base and the productive fall for its height. But we think that there is an uncertainty in this conclusion ; because the height of the water in the vertical tube was undoubtedly augmented by an hydrostatical pressure arising from the accumulation of water above the body which was exposed to the stream.
+Since the pressures are as the squares of the velocities, or as the heights
+h
+which produce the velocities, we may
+25∙5
+express this pressure by
+, g
+∣
+.r
+⅝ or 1'186
+h,
+or »1/1, the value of
+m
+being l∙l86. This exceeds considerably the result of the experiments of the French academy. In these it does not appear that
+m
+sensibly exceeds unity. It is to be observed, that in these experiments the body was moved through still water ; here it is exposed to a stream. These are generally supposed to be equivalent, on the authority of the third law of motion, which makes every action depend on the relative motions. We shall by and by see some causes of difference.
+The writers on this subject seem to think their task completed when they have considered the action of the fluid on the anterior part of the body, or that part of it which is before the broadest section, and have paid little or no attention to the hinder part. Yet those who are most interested in the subject, the naval architects, seem convinced that it is of no less importance to attend to the form of the hinder part of a ship. And the universal practice of all nations has been to make the hinder part more acute than the fore part. This has undoubtedly been deduced from experience ; for it is in direct opposition to any notions which a person would naturally form on this subject. Du Buat therefore thought it very necessary to examine the action of the water on the hinder part of the body by the same method. And, previous to this examination, in order to acquire some scientific notions of the subject, he made the following very curious and instructive experiment.
+Two little conical pipes A and B (fig. 14) were inserted into the upright side of a prismatic vessel. They were an inch long, and their diameters at the inner and outer ends were five and four lines.
+A was fifty-seven lines under the surface, and B was seventy-three.
+A glass syphon was made of the shape represented in the figure, and its internal diameter was l¼ line.
+It was placed with its mouth in the axis, and even with the base of the conical pipe. The pipes being shut, the vessel was filled with water, and it was made to stand on a level in the two legs of the syphon, the upper part being full
+of
+air. When this syphon was applied to the pipe A, and the water running freely, it rose thirty· two lines in the short leg, and sunk as much in the other. When it was applied to the pipe B, the water rose forty-one lines in the one leg of the syphon, and sunk as much in the other.
+He reasons in this manner from the experiment. The ring comprehended between the end of the syphon and the sides of the conical tube being the narrowest part of the orifice, the water issued with the velocity corresponding to the height of the water in the vessel above the orifice, diminished for the contraction. If therefore the cylinder of water immediately before the mouth of the syphon issued with the same velocity, the tube would be emptied through a height equal to this head of water
+(charge).
+If, on the contrary, this cylinder of water, immediately before the mouth of the syphon, were stagnant, the water in it would exert its full pressure on the mouth of the syphon, and the water in the syphon would be level with the watcr in the vessel. Between these extremes we must find riιe real state of the case, and we must measure the force of nonpressure by the rise of the water in the syphon.
+We see that in both experiments it bears an accurate

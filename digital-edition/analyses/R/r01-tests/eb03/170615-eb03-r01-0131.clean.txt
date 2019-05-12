@@ -1,0 +1,117 @@
+a vouh 
+He 
+never 
+saw the wake perfectly transparent (and therefore completely filled with water) when the velocity exceeded 9 or ι o feet per second. while this broken water is observed, there can be no doubt that there is a void und an additional resistance. But even when the space left by the body, or the space behind a still body exposed to a stream, is completely filled, it may not be filled sufficiently sass, and there may be (and certainly is, as we shali see afterwards a quantity 
+of 
+water behind the body, which is moving more ssowly away than the rest, and therefore hangs in some shape by the body, and is dragged by it, increasing the resistance. The quantity of this must depend partly on the velocity of the body or stream, and partly on the rapidity with which the surrounding water comes in behind. This last must depend on the pressure of the surrounding water. It would appear, that when this adjoining pressure is very great, as must happen when the depth is great, the augmentation of resistance now spoken of would be less. Accordingly this appears in newton’s experiments, where the balls were less retarded as they were deeper under water. 
+These experiments are so simple in their nature, and were made with such care, and by a person so able to detect and appreciate every circumstance, that they de serve great credit, and the conclusions 
+legitimately 
+drawn from them deserve to be considered as physical laws, 
+we 
+think that the present deduction is unexceptionable: : in the motion of balls, which hardly descen dead, their preponderancy being hardly sensible, the effect of depth must have born a very great proportion to the whole resistance, and must have greatly influenced their motions; yet they were observed to fall as if the resistance had no way depended on the depth. 
+The same thing appears in borda’s experiments, where a sphere which was deeply immersed in the water was less resisted than one that moved with the same velocity near the surface; and this was very constant and regular in a course of experiments. D’ulloa, however, affirms the contrary : He says that the resistance of a board, which was a foot broad, immersed one foot in a stream moving two feet per second, was 154- lbsw and the resistance to the same board, when immersed 2 seet in a stream moving if seet per second (in which case the sursace was 2 seet), was 264 pounds awe 
+are very sorry that we cannot give a proper account of this theory of resistance by Don George Juan D’ul ioa, an author of great mathematical reputation, and the inipector of the marine academies in spain, we have not been able to procure either the original or the French transsation, and judge of it only by an extract by Mr Prony in his 
+Architecture Hydraulique, § 
+868. c. The theory is enveloped (according to Mr prony’s custom) in the most complicated expressions, so that the physical principles are kept almost out of sight. when accommodated to the simplest possible case, it is nearly as follows. 
+Let 
+0 
+be an elementary orifice or portion of the surface of the side of a vessel filled with a heavy fluid, and let 
+h 
+be its depth under the horizontal surface of the fluid. 
+Let 
+ί 
+be 
+the density 
+of 
+the fluid, and; > 
+the accelerative 
+power of gravity, 
+=32 
+feet velocity acqui red in a second. 
+It is known, says he, that the water would flow out at this hole with the velocity 
+u — of 2 V h, 
+anda2 ^3îa 
+uz 
+and 
+h — — · 
+It is also known that the pressure 
+p 
+on 
+the orifice 
+oisvotb, 0 s 
+ÎL_, 
+~ khu\ 
+2; > 
+Now let this little surface 
+0 
+be supposed to movf with the velocity 
+V 
+The fluid would meet it with thc velocity 
+u 
+j 
+V 
+or 
+u — V 
+according as it moved in thc opposite or in the same direction with the efflux. In the equation 
+p ~ lof 0 u1, 
+substitute 
+u V 
+for 
+u, 
+and we have the pressure 
+on 0 = p ~ (u 
+z±c 
+V 
+( of 2 ?h v1). 
+This pressure is a weight, that is, a mass of matter 
+m 
+actuated by gravity 
+t, 
+or 
+p = f m, 
+and 
+m = o 
+This elementary surface being immersed in a stag. nant fluid, and moved with the velocity 
+V 
+will sustaiiv on one side a pressure 
+0 
+and on the 
+other side a pressure 
+o h — ’ an te en ’ 
+sible resistance will be the difference of these two pressures, 
+which is 
+$ 0 
+4 
+of h — 
+, or j1 
+0 
+4 
+of h — 
+, that 
+of 2? 
+8 
+is, — because 
+off 
+8; a quantity which is 
+2 
+in the subduplicate ratio of the depth under the surface of the fluid, and the simple ratio of the velocity of the resisted surface jointly. 
+There is nothing in experimental philosophy more certain than that the resistances are very nearly in the duplicate ratio of the velocities; and we cannot conceive by what experiments the ingenious author has supported this conclusion. 
+But there is, besides, what appears to us to be an essential defect in this investigation. The equation ex hibits no resistance in the case of a fluid without weight. Now a theory of the resistance of fluids should exhibit the retardation arising srom inertia alone, and should di stinguish it srom that arising srom any other cause: and. moreover, while it 
+offigns 
+an ultimate sensible resistance proportional 
+(c&teris paribus) 
+to the simple velocity, it 
+ajsumes 
+as a sirst principle that the pressure 
+p 
+is as 
+urtev 
+It also gives a salse measure of the statical pressures % these (in the case of bodies immersed in our waters at least) are made up of the pressure of the incumbent water, which is measured by 
+h, 
+and the pressure of the atmosphere, a constant quantity. 
+whatever season can be given sor setting out with the principle that the pressure on the little sursace 0, moving with the velocity 
+u, 
+is equal to 
+s io (uakcv)1, 
+makes it indispensably necessary to take for the velocity 
+a) There is something very unaccountable in these experiments. the·resistances are much greater than any •ther author has observed, 

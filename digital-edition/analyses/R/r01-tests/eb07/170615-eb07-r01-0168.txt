@@ -1,0 +1,122 @@
+j : φ =
+rad. : sin. O.
+But F : ∕ = rad.2 : sin.s
+i ;
+therefore F :
+φ
+= rad? : sin?
+t ×
+sin. O, whence, since rad. = 1, 
+φ
+= F × sin.2
+i X
+sin. O.
+Cor.
+The direct impulse on any surface is to the effective oblique impulse in the direction of the stream, as the cube of radius to the cube of the sine of incidence. For in this case GO coincides with GH, and the angle GIO becomes GIL (IL being perpendicular to GH), equal to BGH tlle angle of incidence, that is, we have
+i
+= O ; whence
+p = F sin.3 ».
+Prop. IV. The whole direct impulse of a stream of fluid whose breadth is given, is to its oblique effective impulse in the direction of the stream, as the square of radius to the square of the sine of the angle of incidence.
+For the number of filaments which occupy the oblique plane BC (fig. 1), would occupy the portion DC of a perpendicular plane, and therefore we have only to compare the perpendicular impulse on any point E with the effective impulse made by the same filament FE on the oblique plane at G. Now GH represents the impulse which this filament would make at E ; and GL is the effective impulse of the same filament at G, estimated in the direction GH of the stream ; and GH is to GL as GIP to GF, that is, as rad? : sin?
+i
+= 1 : sin? i.
+Cor.
+L The effective impulse in the direction of the stream on any plane surface BC, is to the direct impulse on its base CD, as the square of the sine of the angle of incidence to the square of the radius.
+Cor.
+2. If an isosceles wedge ACB (fig. 2) be exposed to a stream of fluid moving in the direction of its height CD, the impulse on the sides is to the direct impulse on the base as the square of AD half the base to the square of the side A C, or as the square of the sine of half the angle of the wedge to the square of the radius. For it is evident, that in this case the two transverse impulses balance each other, and the only impulse which can be observed is the sum of the two impulses in the direction of the stream which are to be compared with the impulses on the two halves AD, BD of the base. Now AC : AD =rad. : sin. ACD, and ACD is equal to the angle of incidence ; therefore, by the proposition, the direct impulse on AD is to the effective oblique impulse on AC, as ACt : AD2 , or as 1 : sin.2 ACD.
+Hence, if the angle ACB is a right angle, and ACD is half a right angle, the square of AC is twice the square of AD, and the impulse on the sides of a rectangular wedge is half the impulse on its base.
+Also, if a cube ACBE be exposed to a stream moving in a direction perpendicular to one of its sides, and then to a stream moving in a direction perpendicular to one of its diagonal planes, the impulse in the first case will be to the impulse in the second as Vz 2 to 1. Call the perpendicular impulse on a side F, and the perpendicular impulse on its diagonal plane
+f,
+and the effective oblique impulse on its side (P ; we have
+F :/=AC : AB =1 : √2,
+∕: p = AC2 : AD= 2 : 1.
+Thcrefore F:
+φ
+= 2 :
+s/2
+= √, 2 : 1 ; or very nearly as 10 to 7.
+The same reasoning will apply to a pyramid whose base is a regular polygon, and whose axis is perpendicular to the base. If such a pyramid is exposed to a stream of fluid moving in the direction of the axis, the direct impulse on the base is to the effective impulse on the pyramid, as the square of the radius to the square of the sine of the angle which the axis makes with the sides of the pyramid.
+Prop. V. To compare the effective impulse on a cylinder, or half cylinder, with the direct impulse on a transverse plane passing through its axis.
+Let BAB' (fig. 3) be a section Ofthehalfcylinder perpendicular to the axis, supposed to be struck by the fluid in the direction AC. Take any point P in AB, draw PQ perpendicular to AC, and let
+pq
+be parallel to PQ at an infinitely small distance, and Pr parallel to AC. Let AQ =
+x,
+PQ =
+y,
+and AP =
+z ;
+then Pr =
+dx, ρr — dy,
+and 
+Pp =z dz.
+By corollary 1 to last proposition, the effective impulse in the direction of the stream on
+Pp
+is to the direct impulse on 
+pr
+as ∕w2 :
+Pp2 = dys : dza .
+Hence, if∕ denote the direct impulse on
+pr,
+the ef-
+√
+∣
+∕2
+fective impulse on
+Pp
+is ∕
+-F.
+Assume F to denote the whole direct impulse on the radius CB = β ; we have then/:
+F = dy : a,
+whence/
+=F ~,
+and the effective im-
+dι∕3
+pulse on
+Pp
+becomes F    Hence the effective impulse
+on the arc APB is — ∕*⅜.
+a J dz-
+Tlns expression is general, and gives the resistance on any curve whatever. In the present case, on joining PC, we have
+pr : Vp
+= CQ : PC, or
+dy : dz = a—x
+: n, whence
+g = <±≠ = ⅛
+∖
+therefore    The
+αz' ui    u2     dz* α2
+integτal of this is
+y — j—
++ C, which from
+y —
+O to
+y — a
+gives T~zzα—
+⅙
+a = ξa.
+Midtiplying by F -+σ, we get impulse on AB = § F ;
+consequently the impulse on BAB' is two thirds of the direct impulse on BB', and the impulse on the half cylinder two thirds of the impulse on the plane passing through its axis perpendicular to the stream.
+Prop. VI. To compare the effective impulse on a solid of revolution, in the direction of its axis, with the direct impulse on its base.
+Let APB (fig.4)be Rlegeneratingcurve, AC the axis, AQ
+= x,
+and PQ =
+y.
+By the last pro
+position, the oblique impulse on Pjo
+in the direction of the stream, is
+proportional to ; whence, since
+the circumference described by the
+point P in a complete revolution
+is 2ιrz∕ (sr being the semi-circum
+ference to radius 1), the oblique
+impulse on the ring formed by the
+revolution of
+Pp
+about the axis AC, is proportional to f ∕,,ι
+2wy
+-ρi ,
+and consequently the impulse on the whole sur-
+-    „ z∙
+, lv3
+face to
+2<zJ yf~i -

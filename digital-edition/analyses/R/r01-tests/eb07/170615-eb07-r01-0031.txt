@@ -1,0 +1,81 @@
+is increased, which is the same thing as having to support l Sgreaterweight. Forinstance, with blocks five feet apart, if κe only took them at four square feet each for the intermediate ones, and five square feet for the joints, we should have 183040 square feet, supporting the train for one hour, at a velocity of twenty miles per hour, whilst the same sized blocks at three-feet bearings would afford 281600 square feet to support the train for the same time at the same speed, being a difference in favour of the short bearings of 98560 square feet, or more than one-third. Our increase in the tables is rather less than would be required to preserve the same absolute surface.
+With respect to the increase in the weight of the rails which we have taken, viz. sixty lbs. per yard at three-feet bearings, as a standard, and adding or subtracti ng five lbs. for Cverythreeinchesofincrease or decrease, we can only state that we have taken this from an attentive consideration for some years of the practical effects exhibited by the rails now in use on various lines. A mathematician will say, this is following no known law. It is not, and we firmly believe that to attempt to lay down mathematical laws for the dimensions of rails would be perfectly premature, in the present state of our ignorance on this subject. Before this can be done, a complete and satisfactory set of experiments must be made, to settle the many points now in dispute ; and so much depends on the form of the rail, and the quality of the iron, that file weight and dimensions must be left to the judgment of the engineers of the respective lines, who, having their characters for ability at stake, will be influenced in every possible way to take all the necessary steps for coming to a right conclusion, and when in doubt, they will ; of course resort to experiment, every penny spent in which drill in all probability save many pounds.
+rH To assist in computing similar cases to those which we ⅛ve above given, we may observe, that each farthing per 'h. in the price of iron gives L.2, 6s. 8d. per ton, and each ¼ound per ton gives -428571, &c. of a farthing for the price Jtftlb.; hence, multiplying the number of pounds and de-riœals of a pound in the price per ton by -428571, will give dhe price per lb. in farthings and decimals.
+In computing the relative strength, &c. of the various rails, the following table will be useful :—∙
+!f —
+■ Length of rail ; inches.
+Square.
+Cube.
+Depth of rail ; inches.
+Square.
+Cube.
+Ï.34
+900
+27000
+3½
+12-25
+42-875
+33
+1089
+35937
+3¾
+14-0625
+52-734375
+3⅞
+1296
+46656
+4
+16-
+64-
+F-
+4“
+1764
+74088
+4¼
+18-0625
+76∙765625
+2025
+91125
+4⅜
+20-25
+91-125
+48
+2304
+II0592
+4¾
+22-5625
+I07∙171875
+57
+3249
+185193
+5
+25 ∙
+125-
+60
+3600
+216000
+5 I
+27-5625
+144-703125
+69
+4761
+328509
+5⅛
+30∙25
+166-375
+73
+r-l p
+5184
+373248
+5¾
+33-0625
+190-10937
+o
+l experience is yet so small, that various opinions ex-4 Wn aoiongst those best informed, as to the proper form -it weight of the rail and chair, and the size of the blocks ∙>
+a ι weepers ; and there is no doubt that in a few years a δa ⅛ιal alteration will take place in all these things. Un-", j present time, however, there has been nothing but -gjj⅛e both in rails, chairs, and keys, and in the distance ,j
+∣
+∙, ⅞,e supports. Everyrailshouldbetested before >s-rt ceιved from the contractor, and it should be always -membered that too much care cannot be taken with the ι*r wanentway materials. All the expense incurred in earth-gj⅛5nι * masonry is only a means to an end, viz. the per-gl σ,t road. W e recommend the fish-bellied rail as possessing, weight for weight, the most strength; and this would be increased by rolling them with a lower w eb. How much depends on the manufacture will be apparent, when it is stated that no less than thirty rails broke on the Liverpool and Manchesterrailway, in the fortnight ending on the 21st January 1837.
+The question of expense, as far as the present mode is concerned, is a simple problem of maximum and minimum ; and it has been so treated in the preceding tables, algebraic formulæ having been omitted, to make them more generally useful. But there seems to belittle doubt that with a 60-pound rail on three-feet bearings, and a block one foot thick, containing five cubic feet of stone, the increase we have given for longer bearings will not be considered as too much, when we Tecollectthattheblockhasnot only to support the rail, but has to Sustainitagainstlateraldeflection. Whenthebiocksmerely sink, the unusual motion of the engine and the carriages will at once detect it, and the proper remedy must be resorted to ; but it might easily happen that the rails would be laterally deflected without its being observed until the train was throw n off altogether, particularly when it is taken into consideration that the caιτiages are still matter of experiment, and that the play of the w heels between the rails and upon the axles is not by any means a fixed quantity, and also that the whole weight of the engine acts laterally, whereas vertically that weight is divided.
+A breadth of from 2 to 2½ inches for the top of the rail, seems admitted by nearly all parties to be sufficient ; less would induce considerable wear on the engine and carriage wheels. The wear of rails on the top surface may be taken at one-thirtieth of a pound per yard per annum, and the total loss of weight at one-ninth of a pound per yard per annum ; but more accurate experiments are yet required on this head, particularly as to the top surface w ear ; and the curious fact is yet unaccounted for, that rails laid on the ground, or keyed into chairs on blocks, but not run over by engines or carriages, oxidize considerably more than those which are used.
+Six feet between each line of rails, seems also generally adopted as a convenient width ; but this, of course, depends in some measure on the width between the rails, and the construction of the carriages. Should the plan of placing the wheels outside the carriages be generally adopted, a less width between the lines may suffice, but the distance would not bear to be much decreased. The width of embankments outside the rails should at least equal the width between the rails, so that, when the engines or carriages get off the line, their wheels will be so confined between the rails, that the outer one will not get off the embankment. The mode of action when an accident of this kind happens, appears not to be well understood. We frequently hear of engines being expected to drag their trains off the embankments ; but this is a thing unlikely to occur often ; for when an engine gets off the rails, it will generally strike so hard against the blocks and sleepers, that its velocity, independently of the shutting off the steam, or reversing the motion, will very quickly be lessened. When this takes place, the train, by its momentum, either forces the engine farther along, or, if it strike it at an angle, which is generally the case, throws it over on its side ; and it is from this momentum of the train that the damage proceeds. Intermediate carriages getting off are the cause of much less danger. From the weakness of the present axle-guards, however, these generally break when the wheels strike the blocks or sleepers ; and there is a great want of strength in the second and third-class carriages. We have known four of these, fortunately empty, crushed into toothpicks when a collision took place.
+Tlie following formula will enable manufacturers of fish-bellied rails to fit their rolls to any required size of rail. Thus, for three-feet lengths of bearing. In figure 10

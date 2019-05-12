@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0009-06"
+                facs="gri_33125011196389_0015.tif" type="entry">
+
+                <p><label>RAPIN</label> (Rene), a Jeſuit and eminent French writer, was born at
+                    Tours m 1621. He taught polite literature in the ſociety oſ the Jeſuits with
+                    great applause, and was juſtly eſteemed one of the best Latin poets and greateſt
+                    wits of his time. He died at Paris in 1687. He wrote, 1. A great number of Latin
+                    poems, which have rendered him famous throughout all Europe ; among which are
+                    his <hi rend="italic">Hortorum libri quatuor,</hi> which is reckoned his
+                    maſterpiece. 2. Reflections on Eloquence, Poetry, Hiſtory, and Philosophy. 3.
+                    Comparisons between Virgil and Homer, Demoſthenes and Cicero, Plato and
+                    Ariſtotle, Thucydides and Titus Livius. 4. The Hiſtory of Janſenism. 5. Several
+                    works on religious ſubjects. The beſt edition of his Latin poems is that of
+                    Paris in 1723, in 3 vols 12mo.</p>
+                <p><hi rend="smallcaps">Rapin</hi> <hi rend="italic">de Thoyras</hi> (Paul de), a celebrated hiſtorian, was the
+                    fon of James de Rapin lord of Thoyras, and was born at Caſtres in 1661. He was
+                    educated at fiiſt under a tutor in his father’s houſe ; and afterwards lent to
+                    Puylaurens, and thence to Saumur. In 1697 he returned to his father, with a
+                    design to apply himself to the ſtudy of the law, and was admitted an advocate :
+                    but ſome time after, reflecting that fiis being, a Proteſtant would prevent his
+                    advancement at the bar, he reſolved to quit the profeffion of the law, and apply
+                    himſelf to that of the ſword ; but his father w°m&lt;l not conſent to ſt.
+                    The revocation of the edict of Nantes in 1685, and the death of his father,
+                    which happened two months after, made him reſolve to come to England ; but as he
+                    had no hopes of any fettlement here, his ſtay was but ſhort. He therefore ſoon
+                    after went to Holland, and lifted himſelf in the company of French volunteers at
+                    Utrecht, commanded by M. Rapin his couſin-german. He attended the Prince of
+                    orange into England in 1688 : and the following year the Lord Kingſton made him
+                    an enſign in his regiment with which he went into Inland, where he gained the
+                    eſteem of his officers at the ſiege of Carrickfergus, and had ſoon a
+                    lieutenant’s commiſſion. He was pre. fent at the battle of the Boyne, and was
+                    ſhot thro’the ſhoulder at the ſiege of Limerick. He was ſoon after captain of
+                    the company in which he had been enſign; but, in 1693, reſigned his company to
+                    one of his brothers, in order to be tutor to the earl of Portland’s</p>
+                <pb xml:id="eb03-16-r01-0010" facs="gri_33125011196389_0016.tif"/>
+                <p>ſon. In 1699, he married Marianne Teſtard; but this marriage neither abated his
+                    care of his pupil, nor prevented his accompanying him in his travels. Having
+                    ſiniſhed this employment, he returned to his family, which he had ſettled at the
+                    Hague ; and here he continued ſome years. But as he found his family increafe,
+                    he reſolved to retire to ſome cheap country ; and accordingly removed, in 1707,
+                    to weſel, where he wrote his Hiſtory of England, and some other pieces. Though
+                    he was of a ſtrong conſtitution, yet ſeventeen years application (for ſo long
+                    was he in compofing the hiſtory juſt mentioned) entirely ruined his health. He
+                    died in 1725. He wrote in French, 1. A Differtation on the Whigs and Tories. 2.
+                    His Hiſtory of England, printed at the Hague in 1726 and 1727, in 9 vols 4to,
+                    and reprinted·at Trevoux m 1728, in 10 vols 4to. This laſt edition is more
+                    complete than that of the Hague. It has been tranſlated into Engliſh, and
+                    improved with Notes, by the Reverend Mr Tindal, in 2 vols folio. This
+                    performance, though the work of a foreigner, is defervedly eſteemed as the
+                    fulleſt and moſt impartial collection of Engliſh political tranſactions extant.
+                    The readers of wit and vivacity, however, may be apt to complain of him for
+                    being sometimes rather tedious and dull.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

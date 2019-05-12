@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r02-0320-02"
+                facs="gri_33125011196389_0326.tif" type="entry">
+
+                <p><label>ROLANDRA</label>, in botany : A genus of the polyga-mia ſegregata order,
+                    belonging to the ſyngeneſia claſs of plants ; and in the natural method ranking
+                    under the 49th order, <hi rend="italic">Cornpofitee.</hi> The common calyx
+                    conſiſts of diſtinct <hi rend="italic">fioſculi,</hi> between each of which
+                    are ſhort <hi rend="italic">ſquamee,</hi> the whole forming a round head. The
+                    partial calyx is bivalved. The corolla is ſmall and funnel-ſhaped, the tube
+                    ſmall as a thread, the <hi rend="italic">lαrini&lt;t</hi> ſhort and acute.
+                    The ſtamina are five ; the ſtyle bifid. It has no other ſeed veſſel except the
+                    partial calyx, which contains a long three-ſided ſeed. Of this there is only one
+                    ſpecies, viz. the Argentea ; a native of the Weſt Indies, and found in copſes
+                    and waſte lands.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

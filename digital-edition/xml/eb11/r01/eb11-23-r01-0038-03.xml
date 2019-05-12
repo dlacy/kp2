@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r01-0038-03"
+                facs="encyclopaediabri23chisrich_0061.jp2" type="entry">
+
+                <p><label>REGICIDE</label> (Lat. <hi rend="italic">rex,</hi> a king, and <hi
+                        rend="italic">caedere,</hi> to kiwi), the name given to any one who kills a
+                    sovereign. Regicides is the name given in English history at the Restoration of
+                    1660 to those persons who were responsible for the execution of Charles I. On
+                    the 4th of April 1660 charges II. in the Declaration of Breda promised a free
+                    pardon to all his subjects “ excepting only such persons as shall hereafter be
+                    excepted by parliament,” and on the 14th of May the House of Commons ordered the
+                    immediate arrest of “ all those persons who sat in judgment upon the late king’s
+                    majesty when sentence was pronounced.” The number of regicides was estimated at
+                    84, this number being composed of the 67 present at the last sitting of the
+                    court of justice, ii others who had attended earlier sittings, 4 officers of the
+                    court and the 2 executioners. Many of them were arrested or surrendered
+                    themselves, and the House of Commons in considering the proposed bill of
+                    indemnity suggested that only twelve of the regicides, who were named, should
+                    forfeit their lives; but the House of Lords urged that all the king’s judges,
+                    with three exceptions, and some others, should be treated in this way.</p>
+               <p>Eventually a compromise was agreed upon, and the bill as passed on the 29th of
+                    August 1660 divided the regicides into six classes for punishment: (1) Four of
+                    them, although dead—Cromwell, Ireton, Bradshaw and Pride—were to be attainted
+                    for high treason. (2) The estates of twenty others, also dead, were to be
+                    subjected to fine or forfeiture. (3) Thirty living regicides were excepted from
+                    all indemnity. (4) Nineteen living regicides were also excepted, but with a
+                    saving clause that their execution was to be suspended until a special act of
+                    parliament was passed for this purpose. (5) Six others were to be punished, but
+                    not capitally. (6) Two, Colonels Hutchinson and Thomas Lister, were simply
+                    declared incapable of holding any office. Two regicides—Ingoldsby, who declared
+                    he had only signed the warrant under compulsion, and Colonel Matthew
+                    Thomlinson—escaped without punishment. A court of thirty-four commissioners was
+                    then appointed to try the regicides, and the trial took place in October 1660.
+                    Twenty-nine were condemned to death, but only ten were actually executed, the
+                    remaining nineteen</p>
+                <pb xml:id="eb11-23-r02-0039" facs="encyclopaediabri23chisrich_0062.jp2"/>
+                <p>with six others being imprisoned for life. The ten who were executed at Charing
+                    Cross or Tyburn, London, in October 1660, were Thomas Harrison, John Jones,
+                    Adrian Scrope, John Carew, Thomas Scot, and Gregory Clement, who had signed the
+                    death-warrant; the preacher Hugh Peters; Francis Hacker and Daniel Axtel, who
+                    commanded the soldiers at the trial and the execution of the king; and John
+                    Cook, the solicitor who directed the prosecution. In January 1661 the bodies of
+                    Cromwell, lreton, ana Bradshaw were exhumed and hanged at Tyburn, but Pride’s
+                    does not appear to have been treated in this way. Of the nineteen or twenty
+                    regicides who had escaped and were living abroad, three, Sir John Barkstead,
+                    John Okey and Miles Corbet, were arrested in Holland and executed in London in
+                    April 1662; and one, John Lisle, was murdered at Lausanne. The last survivor of
+                    the regicides was probably Edmund Ludlow, who died at Vevey in 1692.</p>
+                <p>Ludlow’s <hi rend="italic">Memoirs</hi> , edited by C. H. Firth (Oxford, 1894),
+                    give interesting details about the regicides in exile. See also D. Masson, <hi
+                        rend="italic"> Life of Milton,</hi> vol. vi. (1880), and M. Noble, <hi
+                        rend="italic"> Lives of the English Regicides</hi> (1798). (A. W. H.*)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

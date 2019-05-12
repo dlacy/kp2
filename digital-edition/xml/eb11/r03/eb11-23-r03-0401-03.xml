@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0401-03"
+                facs="encyclopaediabri23chisrich_0424.jp2" type="entry">
+
+                <p><label>ROBERT OF GLOUCESTER</label> English chronicler, is known only through his
+                    connexion with the work which bears his name. This is a vernacular history of
+                    England, from the days of the legendary Brut to the year 1270, and is written in
+                    rhymed couplets. The lines arc of fourteen syllables, with a break , after the
+                    eighth syllable. The author gives his name as Robert; the dialect which he uses,
+                    and his acquaintance with local traditions, justify the supposition that he was
+                    a monk of Gloucester. He describes, from his own recollections, the bad weather
+                    which prevailed in the neighbourhood of Evesham on the day of the battle between
+                    the Montfortians and Prince Edward (1265). He also alluded to the canonization
+                    of Louis IX. of France, which took place in 1297. He probably wrote about the year
+                    1300. The earlier part of his chronicle (up to 1135) may be from another hand,
+                    since it occurs in some manuscripts in a shorter form, and with an exceedingly
+                    brief continuation by an anonymous versifier. There is no good reason for the
+                    theory that this part was translated from a French original; nor docs it contain
+                    any undoubted borrowings from French sources. The authorities employed for the
+                    earlier part were Geoffrey of Monmouth, Henry of Huntingdon, William of
+                    Malmesbury, the English Chronicles, and some minor sources; Robert, in making
+                    his recension of it, also used the <hi rend="italic">Brut</hi> of Layamon. From
+                    1135 to 1256 Robert is still a compiler, although references to oral tradition
+                    become more frequent as he approaches his own time. From 1256 to 1270 he has the
+                    value of a contemporary authority. But he is more important to the philologist
+                    than to the historian. His chronicle is one of the last works written in Old
+                    English.</p>
+               <p>Robert’s chronicle was first edited by T. Hearne (2 vols., Oxford, 1724); but
+                    this text is now superseded by that of W. Aldis Wright (2 vols., Rolls Series,
+                    1887). Minor works attributed to the author are: a <hi rend="italic">Life</hi>
+                    <hi rend="italic">of</hi>
+                    <hi rend="italic">St Alban</hi> in verse (MS. Ashmole 43); a <hi rend="italic"
+                        >Life of St Patrick,</hi> also in verse (MS. Tanner 17); a <hi rend="italic"
+                        >Life of St Bridget</hi> (MS. C.C.C. Cambridge, 145); and a <hi
+                        rend="italic">Life of St Alphege</hi> (MS. Cott., Julius D. ix). A <hi
+                        rend="italic">Martyrdom of St Thomas Becket</hi> and a <hi rend="italic"
+                        >Life of St Brendan,</hi> both attributed to Robert, were printed by the
+                    Percy Society in 1845.</p>
+               <p>See T. D. Hardy’s <hi rend="italic">Descriptive Catalogue of MSS.</hi> i. 25,
+                    68, iii. 181—9, 623; K. Brossman, <hi rend="italic">Über die Quellen der Chronik
+                        des</hi> R. <hi rend="italic">von Gloucester</hi> (Striegau, 1887); W.
+                    Ellmer in <hi rend="italic">Anglia</hi> (1888), x. 1-37, 291-322; H. Stronmeyer,
+                        <hi rend="italic">Der Stil der Rcimchronik R. von Gloucester</hi> (Berlin,
+                    1891). (H. W. C. D.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

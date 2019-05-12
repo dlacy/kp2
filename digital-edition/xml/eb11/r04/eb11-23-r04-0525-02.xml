@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0525-02"
+                facs="encyclopaediabri23chisrich_0566.jp2" type="entry">
+
+               <p>                   <label>ROMANIN, SAMUELE</label> (1808-1861), Venetian historian, was born
+                    of a poor Jewish family at Trieste. Being left an orphan at an early age, he
+                    provided for his younger brothers and sister by giving French and German
+                    lessons. In 1821 he settled in Venice, where he afterwards translated
+                    Hammer-Purgstall’s <hi rend="italic">Geschichte des osmanischen Reiches</hi>
+                    into Italian. He next published his own <hi rend="italic">Storia dei Popoli
+                        Europei</hi> (Venice, 1843-44). He taught in a private school and was sworn
+                    interpreter in German to the courts of justice; on the expulsion of the
+                    Austrians in 1848 he was appointed professor of history by the provisional
+                    government, and he lectured on Venetian history at the Ateneo Veneto. In 1852 he
+                    began to publish his monumental <hi rend="italic">Storia documentata di
+                        Venezia,</hi> but although he finished the work, carrying it down to the
+                    fall of the republic in 1798, he did not live to see the publication completed,
+                    as he died of apoplexy on the 9th of September 1861; among his papers were found
+                    all the documents which were to be added,</p>                <pb xml:id="eb11-23-r04-0526" facs="encyclopaediabri23chisrich_0567.jp2"/>
+               <p>and the index. The tenth and last volume was issued in 1861.</p>               <p>After Romanin’s death his lectures on Venetian history were published in two
+                    volumes (Florence, 1875). Among his minor works we may mention: <hi
+                        rend="italic">Gli Inquisitori di Stato di Venezia</hi> (Venice, 1858), <hi
+                        rend="italic">Bajamonte Tiepolo e le sue ultime vicende</hi> (Venice, 1851),
+                    and <hi rend="italic">Venezia nel 1789</hi> (Venice, 1860).</p>            </div>
+        </body>
+    </text>
+</TEI>

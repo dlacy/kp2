@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0427-02"
+                facs="encyclopaediabri23chisrich_0460.jp2" type="entry">
+
+                <p><label>ROCHEFORT</label> a town of western France, capital of an arrondissement
+                    in the department of Charente-Inférieure, 20 m. S.S.E. of La Rochelle on the
+                    State railway from Nantes to Bordeaux. Pop. (1906) town, 31,433; commune,
+                    36,694. It is situated on the right bank of the Charente, 9 m. from the
+                    Atlantic, and is built partly on the side of a rocky hill and partly on an old
+                    marshland. The town is laid out with great regularity, the streets being wide
+                    and straight and centring round the Place Colbert, in the middle of which is a
+                    monumental fountain of the 18th century. The public institutions of Rochefort
+                    comprise the sub-prefecture, tribunals of first instance and of commerce, a
+                    board of trade arbitration, a chamber of commerce, a lycée for boys, a college
+                    for girls and schools of drawing and architecture. The fortifications are
+                    slight. Below Rochefort the Charente is crossed by a <hi rend="italic">pont
+                        transbordeur,</hi> the carrier of which is suspended at a height which
+                    admits of the tallest ships passing underneath at any time. There are both a
+                    naval and a commercial harbour. The former has the advantage of deep anchorage
+                    well protected by batteries at the mouth of the river, and the roadstead is
+                    perfectly safe. The windings of the channel, however, between Rochefort and the
+                    sea, and the bar at the entrance render navigation dangerous. Rochefort is
+                    capital of the fourth maritime arrondissement, which stretches from the bay of
+                    Bourgneuf to the coast of Spain. The naval harbour and arsenal, separated from
+                    the town by a line of fortifications with three gates, contain large covered
+                    building yards, repairing docks and extensive timber basins on both banks of the
+                    river. The arsenal has also a ropewalk dating from 1668, a school of navigation
+                    and pilotage, the offices of the maritime prefecture, the navy commissariat, a
+                    park of · artillery and various boards of direction connected with the navy.
+                    Other government establishments at Rochefort are barracks for infantry,
+                    artillery and marines, and the naval hospital and school of medicine. In the
+                    grounds of this last institution is an artesian well, sunk in 1862-1866 to a
+                    depth of 2800 ft., and yielding water with a temperature of 100° F. The
+                    commercial harbour, higher up the river than the naval harbour, has two small
+                    basins, a third basin with an area of 15 acres and a depth at neap-tide of 25
+                    ft., at spring-tide of 29I ft., and a dry dock no yds.
+                    long. Besidesshipbuilding, which forms the staple industry, flour- and
+                    saw-milling, sailcloth, &amp;c., are among the local manufactures. At the
+                    ports of Rochefort and Tonnay-Charente (4 m. higher up) there entered, in 1905,
+                    265 vessels (166 British), with a tonnage of 192,537·</p>
+               <p>The lordship of Rochefort, held by powerful nobles as early as the nth century,
+                    was united to the French Crown by Philip the Fair early in the 14th century; but
+                    it was alternately seized in the course of the Hundred Years’ War by the English
+                    and the French, and in the Wars of Religion by the Catholics and Protestants.
+                    Colbert having in 1665 chosen Rochefort as the seat of a repairing port between
+                    Brest and the Gironde, the town rapidly increased in importance; by 1674 it had
+                    20,000 inhabitants; and when the Dutch admiral Cornelius Tromp appeared at the
+                    mouth of the river with seventy-two vessels for the purpose of destroying the
+                    new arsenal, he found the approaches so well defended that he gave up his
+                    enterprise. It was at Rochefort that the naval school, afterwards transferred to
+                    Brest, was originally founded. The town continued to flourish in the later part
+                    of the 17th century. In 1690 and in 1703 the English made unsuccessful attempts
+                    to destroy it. Its fleet, under the command of Admiral la Gallissonnière, a
+                    native of the place, defeated Admiral Byng in 1755 and did good service in the
+                    wars of the republic. But the destruction of the French fleet by the English in
+                    1809 in the roadstead of île d’Aix, the preference accorded to the harlïours of
+                    Brest and Toulon and the unhealthiness of its climate seriously interfered with
+                    the prosperity of the place. The convict establishment, founded at Rochcfort in
+                    1777, was suppressed in 1852.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

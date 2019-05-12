@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0525-01"
+                facs="encyclopaediabri23chisrich_0566.jp2" type="entry">
+
+                <p><label>ROMANES, GEORGE JOHN</label> (1848-1894), British biologist, was born at
+                    Kingston, Canada, on the 20th of May 1848, being the third son of the Rev.
+                    George Romanes, D.D., professor of Greek at the university of that town. He was
+                    educated in England, going in 1867 to Gonville and Caius College, Cambridge. He
+                    early formed an intimate friendship with Charles Darwin, whose theories he did
+                    much during his life to popularize and support. When studying under Sir J.
+                    Burdon Sanderson at University College, London, in 1874-76, he began a series of
+                    researches on the nervous and locomotor systems of the Medusae and
+                    Eehinodermata, which provided him with material for his Croonian lecture in
+                    1876. Subsequently he continued the inquiry, partly in conjunction with
+                    Professor J. Cossar Ewart, and the results were published in <hi rend="italic"
+                        >Jelly-fish, Star-fish, and Sea-urchins</hi> (1885). Meantime he had been
+                    also devoting his attention to broader problems of biology. In 1881 he published
+                        <hi rend="italic">Animal Intelligence,</hi> and in 1883, <hi rend="italic"
+                        >Mental Evolution in Animals,</hi> in which he traced the parallel
+                    development of intelligence in the animal world and in man. lie followed up this
+                    line of argument in 1888 with <hi rend="italic">Menial Evolution in Man,</hi> in
+                    which he maintained the essential similarity of the reasoning processes in the
+                    higher animals and in man, the highest of all. In 1892 he brought out an <hi
+                        rend="italic">Examination of Weismannism,</hi> in which he upheld the theory
+                    of the hereditability of acquired characters. In 1890 he left London and settled
+                    at Oxford, where he founded a lecture similar to the “ Rede ” of Cambridge, to
+                    Be delivered annually on a scientific or literary topic. In 1893 he published
+                    the first part of <hi rend="italic">Darwin and after Darwin,</hi> a work dealing
+                    with the development of the theory of organic evolution, and based on lectures,
+                    which he delivered as Fullerian professor of physiology at the Royal Institution
+                    in 1888-91; a second part appeared in 1895 after his death, which occurred at
+                    Oxford on the 23rd of May 1894.</p>
+               <p>Romanes was awarded the Burney prize at Cambridge in 1873 for an essay on “
+                    Christian Prayer and General Laws.” Five years later, under the pseudonym “
+                    Physicus,” he issued <hi rend="italic">A Candid Examination of Theism,</hi> in
+                    which he showed himself out of accord with orthodox religious beliefs. In 1882
+                    he published an article on the “ Fallacy of Materialism,” and in his Rede
+                    lecture of 1885 he appeared as a monist. Subsequently his views again changed in
+                    the direction of orthodoxy, as is shown by his <hi rend="italic">Thoughts on
+                        Religion,</hi> written shortly before his death and published in 1895.</p>
+               <p>His <hi rend="italic">Life and Letters,</hi> by his widow, appeared in 1896.
+               </p>
+            </div>
+        </body>
+    </text>
+</TEI>

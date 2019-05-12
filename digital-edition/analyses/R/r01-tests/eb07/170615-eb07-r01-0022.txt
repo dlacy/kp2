@@ -1,0 +1,80 @@
+Let
+a=
+the area in square yards.
+c= the content in cubic yards, per chain in length, tc= the width in feet of the cuttings or embankments. A= the height in feet of the cuttings or embankments.
+m : I =
+the ratio of the base of the slopes to their altitude. Then the rules applicable to every case will be
+tcA+mAs
+β= -
+c=22a
+And as 30 feet is a very general width, if we adapt our formula to that, we have with slopes of 1 to 1,
+30A+A* n=--'—
+9
+c=
+22a
+And with slopes l½ to 1,
+20Λ + Λ, α =i -6—
+c=22α.
+And with slopes 2 to 1,
+30A +
+c=22β
+And for any other widths and slopes the results will be brought out very quickly, byan adaptation of the general formula. By the particular ones given above, the tables on the precedingpage were computed, giving the cubic contents per chain in length, at one view, for every foot in height, up to 50. In the column for the area, the decimals are given to three places of figures, but four places were used in calculating the cubical content. Where a dot is placed after the last figure in the column for the area, it denotes that the same figure goes on
+in infinitum.
+In using the column of cubic contents, increase the last decimal figure by I when it is above 5.
+The columns of “ half-widths,” in the preceding tables, will enable the engineer to set out his work from the centre pegs as he proceeds. This is done at once, where the country is level, on the cross section ; but in sidelong ground a correction will be required, to obtain which, after the halfwidth has been staked out, the level should be planted over the centre peg, and the height above and below the cross level taken at the points which mark the half-width. It is evident, that for each foot which these points may be above and below the level of the centre peg, one foot must be added to the half-width on the side which is above the centre, and subtracted from it on the side which is below, where the slopes are 1 to 1, and a corresponding alteration at all other slopes ; or if we put
+A, ≈ the height above the centre, or depth below it, »i : 1 = the base to the perpendicular,
+c=
+the correction, c=
+~t ~
+mh',
+where c is + on the high side, and — on the low one. This will give a first approximation, and may be repeated if necessary, by levelling to the half-width thus corrected, and proceeding as before, and the cubic contents must receive a similar correction when necessary, our tables presuming the cross section to be on a level. The average height, however, can in almost every case be taken perfectly near enough for every practical purpose.
+It is a great pity that the custom has not been generally introduced of taking all the measures in yards and decimals, surveying staffs being marked to j¼fj ths of a yard. This would reduce the calculations considerably ; and the reduction of any of them to feet, for plans and sections required in Parliament, or any other isolated purpose, would be infinitely less troublesome than using feet throughout, and having to divide by 9 or 27 for the area and cubic content.
+The column of half-widths, when required for any other slopes or widths than those we have given, may be readily computed by the formula
+tc , x=-+ mA
+w-here
+x
+is the half-width at the top, and tc,
+m,
+and A as before.
+The column of cubic contents, when required for any other width than 30 feet, may be readily found, by using a correction c' to the cubic contents at 30 feet, which correction is + when the width is above 30 feet, and — when below,
+w∕Λ6θ
+c, = ± ——— =κ∕A...2-4444 in cubic yards,
+2 (
+where
+wf
+is the number of feet above or below 30, and A' is the height in feet. The correction is the same for all slopes, taking care to add or subtract it from the cubic contents for 30 feet at the given slope.
+With reference to apportioning the work, so that the cuttings and embankments may be equal, regard must be had to the nature of the soil to be moved. For instance, in the London clay it will be found that any quantity of cutting will not make the same quantity of embankment by about ten per cent., whereas in common earth just the reverse takes place, and the cutting will make an embankment nearly ten per cent, greater.
+There is a point, which, in the early stage of laying out a railway is too often lost sight of, that ought to be a subject of the deepest consideration ; in fact, it is of vital importance to the whole interest of the line in question, and no pains ought to be spared in most fully and rigidly investigating it ; and this is, to what extent cutting and embanking can be advantageously carried, that is to say, a line perfectly level, allowing for the curvature of the earth, from one end to the other, being the point of perfection, how near ought this to be approached, looking on the one hand at the first outlay, and on the other at the future gain, in the cost of locomotive power, and repairs of engines, carriages, &c.
+We can calculate the cost, for instance, of making a line having no inclinations in any case greater than 1 in 300. With this line we should have a determinate outlay in locomotive power and repairs. The question to be considered then is simply this : If we make the line, instead of having no inclination, greater than 1 in 300, to have none greater than 1 in 500, or 1 in 1000, do we lay a foundation for a yearly saving, when the railway comes into work, sufficiently great to pay us for the consequent first cost of these reductlons in the inclinations ?
+In order to enter properly into this question, experiments must be made for the purpose of determining the cost of locomotive power on the various inclinations, selecting some railway where different engines can be employed on inclines suitable for the case in hand, there being no data in existence, in this country at least, which can with certainty decide this point. The following table, by the engineer
+of
+the New York and Erie railroad, may help us a little:—
+Ascent per mile, in feet.
+Gross load in tons, 2080 lbs. each,
+ex
+tender.
+Cost of motive power per ton per mile, in cwts.
+Level.
+75∙25
+3-50
+10, or 1 in 528
+49-53
+4-20
+20, or 1 in 264
+37∙35
+4-90
+30, or 1 in 176
+27∙24
+5-95
+40, or 1 in 132
+20∙22
+7-28
+50, or 1 in l05∙6
+17-04
+8-19
+60, or 1 in 88
+13-92
+9-66
+70, or 1 in 75∙4
+11-31
+11-41

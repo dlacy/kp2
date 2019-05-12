@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0399-03"
+                facs="encyclopaediabri23chisrich_0422.jp2" type="entry">
+               <p>                   <label>ROBERT II.</label> (c. 970-1031), king of France, was a son of Hugh
+                    Capet, and was born at Orleans. He was educated at Reims under Gerbert,
+                    afterwards Pope Silvester II. As the ideal of medieval Christianity he won his
+                    surname of “ Pious ” by his humility and charity, but he also possessed some of
+                    the qualities of a soldier and a statesman. His father associated him with
+                    himself in the government of France, and he was crowned in December 987,
+                    becoming sole king on Hugh’s death in October 996. Robert’s reign is chiefly
+                    remembered for its dramatic side. In 988 he had married Rosala, or Susanna,
+                    widow of Arnold IL, count of Flanders. This lady, however, was much older than
+                    Robert, who repudiated her in 989, fixing his affections upon Bertha, daughter
+                    of Conrad the Peaceful, king of Burgundy, or Arles, and wife of Eudes L, count
+                    of Blois; and although the pair were related, and the king had been godfather to
+                    one of Bertha’s children, they were married in 996, a year after the death of
+                    Eudes. Pope Gregory V., whose favour Robert vainly sought to win by allowing
+                    Arnulf, the imprisoned archbishop, to return to his see of Reims and forcing
+                    Gerbert to flee to the court of the emperor Otto III., excommunicated the king,
+                    and a council at Rome imposed a seven years’ penance upon him. For five years
+                    the king braved all anathemas, but about 1002 he gave up Bertha and married
+                    Constance, daughter of a certain Count William, an intriguing and ambitious
+                    woman, who made life miserable for her husband, while the court was disturbed by
+                    quarrels between the partisans of the two queens. Still attached to Bertha,
+                    Robert took this lady with him to Rome in 1010, but the pope refused to
+                    recognize their marriage, and the king was forced to return to Constance. By
+                    this wife Robert had four sons, and in 1017, the eldest of these, Hugh,
+                    (1007-1025), was crowned as his father’s colleague and successor. After Hugh’s
+                    death the king procured the coronation of his second son, Henry, duke of
+                    Burgundy, afterwards king of France, a proceeding which displeased Constance,
+                    who wished her third son, Robert (d. 1075), afterwards duke of Burgundy, to
+                    receive the crown. Robert’s concluding days were troubled by a rising on the
+                    part of these two sons, and after a short war, in which he was worsted, the king
+                    died at Melun on the 20th of July 1031. The notable gain to France during this
+                    reign was the duchy of Burgundy, which Robert claimed on the death of his uncle,
+                    Duke Henry, in 1001. The other claimant, however, Otto William, count of upper
+                    Burgundy, or Franche Comté, offered so stubborn a resistance that it was not
+                    until 1015 that the king secured the duchy, which he gave as an apanage to his
+                    son Henry. Nevertheless, Robert himself kept a close oversight over its
+                    government, and this was one reason which led to the revolt of his sons in 1030.
+                    Owing to family quarrels, he could not prevent the kingdom of Burgundy, or
+                    Arles, from passing into the hands of the emperor Conrad II., and no serious
+                    results followed his interference in Flanders or in Lorraine. Robert added to
+                    the royal domains, and was greatly aided by the support of Richard II. and
+                    Richard III., dukes of Normandy, the latter of whom was his son-in-law.</p>               <p>His life was written by his chaplain, Helgaud, and this panegyric, <hi
+                        rend="italic">Epitoma vitae Roberti regis,</hi> is published by J. P. Mign»
+                    in the <hi rend="italic">Patrologia Latina,</hi> tome cxli. (Paris, 1844). See
+                    also C. Pfister, <hi rend="italic">Études sur le règne de Robert le Pieux</hi>
+                    (Paris, 1885); and E. Lavisse, <hi rend="italic">Histoire de France,</hi> tome
+                    ii. (Paris, 1901).</p>            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0401-01"
+                facs="encyclopaediabri23chisrich_0424.jp2" type="entry">
+
+               <p>                   <label>ROBERT OF AUXERRE</label> (<hi rend="italic">c.</hi> 1156-1212), French
+                    chronicler, was an inmate of the monastery of St Marien at Auxerre. At the
+                    request of Milo de Trainel (1155-1202), abbot of this house, he wrote a <hi
+                        rend="italic">Chronicon,</hi> or universal history, which covers the period
+                    between the creation of the world and 1211. For the years previous to ri8i this
+                    is merely a compilation from Prosper of Aquitaine, Sigebert of Gembloux and
+                    others, but it is an original authority for the period from 1181 to 1211. It is
+                    one of the most valuable sources for the history of France during the reign of
+                    Philip Augustus, and it also contains information about other European
+                    countries, the Crusades and affairs in the East. Molinier, in fact, describes
+                    the author as one of the best historians of the middle ages. Robert was
+                    evidently a man of great diligence and of sound judgment. Two continuators took
+                    the work down to 1228 and it was extensively used by later chroniclers. The
+                    original manuscript is now at Auxerre.</p>               <p>The <hi rend="italic">Chronicon</hi> was first published by N. Camuzat at Troyes
+                    in 1608; the best edition is in Band xxvi. of the <hi rend="italic">Monumenta
+                        Germaniae historica. Scriptores,</hi> with introduction by A. Holder-Egger.
+                    Robert has been identified, but on very questionable grounds, with a certain
+                    Robert Abolant <hi rend="sub">1</hi> an official of the monastery of St Marien,
+                    who died in 1214. See A. Molinier, <hi rend="italic">Les Sources de l’histoire
+                        de France,</hi> tomes iii. and iv. (19O3-1904).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

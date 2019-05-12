@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0010-08"
+                facs="gri_33125011196389_0016.tif" type="entry">
+              <p>               <label>RAS-SEM</label>, a city of Tripoli in Barbary, concerning which a number
+                    of fables were told by the Tripoline ambaſſador, all of which were believed in
+                    England and other parts of Europe in the beginning of this century. (See <hi
+                        rend="italic"><hi rend="smallcaps"> Petrified-City). </hi></hi> Mr Bruce
+                    informs us, that it is ſituated about five days journey ſouth from Bengazi;-but
+                    has no water excepting one fountain, which has a diſagreeable taſte, and ſeems
+                    to be impregnated with -alum. Hence it has obtained the name of <hi
+                        rend="italic"> Ras-Sem,</hi> or the fountain of poiſon. The only remains of
+                    antiquity in this place conſiſt of the ruins of a tower or fortification, which,
+                    in the opinion of Mr Bruce, is as late as the time of the vandals ; but he ſays
+                    he cannot imagine what ufe they made of the water, and they had no other within
+                    two days journey of the place.— Here our traveller ſaw many of the animals
+                    called <hi rend="italic">jerboa,</hi> a kind of mice ; which, he fays, ſeem to
+                    partake as much of the nature oſ a bird as of a quadruped.</p>            </div>
+        </body>
+    </text>
+</TEI>

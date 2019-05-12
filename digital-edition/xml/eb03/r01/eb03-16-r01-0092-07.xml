@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0092-07"
+                facs="gri_33125011196389_0098.tif" type="entry">
+
+                <p><label>RESIN</label>, in natural hiſtory, a viſcidjuice oozing either
+                    ſpontaneouſiy, or by inciſion, from ſeveral trees, as the pine, fir,
+                    &amp;c.— Â premium for ſeveral years has been offered by the London Society
+                    for Encouraging Arts, &amp;c. for difcovering a mode of reducing the
+                    inflammable quality of refin, ſo as to adapt it to the purpofes of making
+                    candles; but no ſuch diſcovery has yet been madc.</p>
+                <p><hi rend="italic">Rlaftic</hi> <hi rend="italic"><hi rend="smallcaps"> Resin.</hi></hi> See Caoutchouc.</p>
+                <p><hi rend="italic">Gum Resin,</hi> a mixture of gum and refin. See Phar∙ Macy,
+                    n <hi rend="sup">0</hi> 38.</p>
+                <p><hi rend="italic">Red Gum</hi> <hi rend="italic"><hi rend="smallcaps"> Resin,</hi></hi> is procured from the red gum tree, or eucalyptus refinifera ; a tree ſo
+                    large and lofty as to exceed in fize the Engliih oak. The wood of the tree is
+                    brittle, and of little uſe but for firewood, from the large quantity of refinous
+                    gum it contains. The tree is diſtinguiſhed by having pedunculated flowers, and
+                    an acute or pointed conical calyptra. To obtain the juice from this tree
+                    incitions are made in the trunk of it, and ſometimes upwards oſ 60 gallons of
+                    red refinous juice have been obtained from one of them. <note anchored="false"
+                        place="margin" type="authorial" n="1"><hi rend="italics">White's Voyage,
+                            Appendix.</hi></note>"When this juice is dried, it becomes a very
+                    powerful aſtringent gum-refin, of a red colour, much reſerabling that known in
+                    the ſhops by the name of <hi rend="italic">kino,</hi> and, for all medical
+                    purpoſes, fully as efficacious. Mr white ad-miniſtered it to a great number of
+                    patients in the dy-ſentery, which prevailed much ſoon after the landing of the
+                    convicts, and in no one inſtance found it to fail. This gum-refin diffolves
+                    almoſt entirely in ſpirit of wine, to which it gives a blood-red tincture, water
+                    diſtblves about one fixth part only, and the watery folu-tion is cf a bright
+                    red. Both theſe ſolutions are powerfully aſtringent.”</p>
+                <p><hi rend="italic">Fellow Gum</hi> <hi rend="italic"><hi rend="smallcaps"> Resin,</hi></hi> is procured from the yellow re-ſin tree, which is as large as the Engliſh
+                    walnut tree. The properties of this r.efin are equal to thoſe of the</p>
+                <p>moſt fragrant balſams. It exudes from the bark ſperi-taneouſly, but more readily
+                    if incitions are made. The colour of it is yellow, and at firſt it is ſtuid ;
+                    but after being inſpiffated in the ſun, it becomes ſolid. When burnt on hot
+                    coals, it ſmells like a mixture of balſam of Tolu and benzoin, approaching
+                    ſomewhat to ſtorax. <note anchored="false" place="margin" type="authorial" n="2"
+                            ><hi rend="italic">Ibid.</hi></note>"It is perfectly ſoluble in ſpirit
+                    of wine, but not in water, nor even in effential oil of turpentine, unlels it be
+                    digeſted in a ſtrong heat. The varniſh which it makes with either is very weak,
+                    and of little uſe. with re-fpect to its medicinal qualities, Mr white has found,
+                    it, in many caſes, a good pectoral medicine, and very balfamιc. It is not
+                    obtainable in io great abundance as the red gum produced by the eucalyptus
+                    refinifera. The plant which produces the yellow gum ſeems to be perfectly
+                    unknown to botaniſts, but Mr White has communicated no ſpecimens by which its
+                    genus or even claſs could be determined.”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

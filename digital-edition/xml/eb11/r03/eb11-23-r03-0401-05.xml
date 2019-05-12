@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0401-05"
+                facs="encyclopaediabri23chisrich_0424.jp2" type="entry">
+               <p>                   <label>ROBERT OF TORIGNI</label> (<hi rend="italic">c.</hi> 1110-1186), medieval
+                    chronicler, was prior of Bec in 1149, and in 1154 became abbot of Mont</p>                <pb xml:id="eb11-23-r03-0402" facs="encyclopaediabri23chisrich_0425.jp2"/>
+               <p>St Michel, whence he is also sometimes called Robertus de Monte. He died,
+                    according to Potthast, on the 29th of May 1186. He wrote additions and
+                    appendices to the chronicle of Sigebert of Genblours, covering the period <hi
+                        rend="smallcaps">a.d.</hi> 385-1100, and a chronicle in continuation of
+                    Sigebert, extending from 1100 to 1186, of great value for Anglo-Norman history.
+                    Robert was in a good position to obtain information, for the Mont St Michel was
+                    one of the four great centres of pilgrimage in Europe. But he was excessively
+                    timid and cautious, and hardly mentions events, like the murder of Becket, which
+                    were subjects of controversy. Besides, his style is that of the driest annalist.
+                    It is for continental affairs between 1154 and 1170 that his information is
+                    especially valuable. His notices of English affairs are slight and sometimes
+                    misleading.</p>               <p>The best modern editions are the <hi rend="italic">Chronique de Robert de
+                        Torigni,</hi> &amp;, edited by Léopold Delisle for the Soc. <hi
+                        rend="italic">de l’histoire de Normandie</hi> (Rouen, 1872-1873), and <hi
+                        rend="italic">Chronicle of Robert of Torigni,</hi> edited, with an
+                    introduction, by Richard Howlett (Rolls Series, No. 82, iv. 1889).</p>            </div>
+        </body>
+    </text>
+</TEI>

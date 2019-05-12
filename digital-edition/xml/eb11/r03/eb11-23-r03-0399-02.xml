@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0399-02"
+                facs="encyclopaediabri23chisrich_0422.jp2" type="entry">
+
+               <p>                   <label>ROBERT I.</label> (<hi rend="italic">c.</hi> 865-923), king of
+                    France, or king of the Franks, was the younger son of Robert the Strong, count
+                    of Anjou, and the brother of Odo, or Eudes, who became king of the western
+                    Franks in 888. Appointed by Odo ruler of several .counties, including the county
+                    of Paris, and abbot <hi rend="italic">in commendam</hi> of many abbeys, Robert
+                    also secured the office of duke of the Franks, a military dignity of high
+                    importance. He did not claim the crown of France when his brother died in 898;
+                    but recognizing the supremacy of the Carolingian king, Charles III., the Simple,
+                    he was confirmed in his offices and possessions, after which he continued to
+                    defend northern France from the attacks of the Normans. The peace between the
+                    king and his powerful vassal was not seriously disturbed until about 921. The
+                    rule of Charles, and especially his partiality for a certain IIagano, had
+                    aroused some irritation; and, supported by many of the clergy and by some of the
+                    most powerful of the Frankish nobles, Robert took up arms, drove Charles into
+                    Lorraine, and was himself crowned king of the Franks at Reims on the 29th of
+                    June 922. Collecting an army, Charles marched against the usurper, and on the
+                    15th of June 923, in a stubborn and sanguinary battle near Soissons, Robert was
+                    killed, according to one tradition in single combat with his rival. Robert left
+                    a son. Hugh the Great, duke of the Franks, and his grandson was Hugh Capet, king
+                    of France.</p>               <p>See F. Lot, <hi rend="italic">Les Derniers Carolingiens</hi> (Paris, 1891); and
+                    E. Lavisse, <hi rend="italic">Histoire de France,</hi> tome ii. (Paris, 1903).
+               </p>            </div>
+        </body>
+    </text>
+</TEI>

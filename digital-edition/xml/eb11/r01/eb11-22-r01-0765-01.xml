@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-22-r01-0765-01"
+                facs="encyclopaediabri22chisrich_0790.jp2" type="entry">
+
+                <p><label>RTHE</label> twentieth letter in the Phoenician alphabet, the nineteenth
+                    in the numerical Greek, the seventeenth in the ordinary Greek and the Latin and
+                    (owing to the addition of J) the eighteenth in the English. Its earliest form in
+                    the Phoenician alphabet when written from right to left was █, thus resembling
+                    the symbol for D with one side of the triangle prolonged. In Aramaic and other
+                    Semitic scripts which were modified by opening the heads of the letters, the
+                    symbol in time became very much changed. Greek, however, maintained the original
+                    form with slight variations from place to place. Not infrequently in the Greek
+                    alphabets of Asia Minor and occasionally also in the West, R was written as D,
+                    thus introducing a confusion with D (q. v. ). Elsewhere a short tail was added,
+                    as occasionally in the island of Melos, in Attica and in western Greece, but
+                    nowhere does this seem to have been universal. The earliest Latin forms are
+                    exactly like the Greek. Thus in the very early inscriptions found in the Forum
+                    in 1899 R appears as █ (from right to left), p and D (from left to right). Later
+                    the forms R and R come in; sometimes the back is not quite connected in the
+                    middle to the upright, when the form R is produced. The name of the Semitic
+                    symbol is Rēsh; why it was called by the Greeks Rho (ῥῶ) is not clear. The h
+                    which accompanies r in the transliteration of Greek p, indicates that it was
+                    breathed, not voiced, in pronunciation. No consonant varies more in
+                    pronunciation than r. According to Brockelmann, the original Semitic r was
+                    probably a trilled <hi rend="italic">r</hi> , <hi rend="italic">i. e.</hi> an
+                        <hi rend="italic">r</hi> produced by allowing the tip of the tongue to
+                    vibrate behind the teeth while the upper surface of the tongue is pressed
+                    against the sockets of the teeth. The ordinary English r is also produced
+                    against the sockets of the teeth, but without trilling; another r, also
+                    untrilled, which is found in various parts of the south of England, is produced
+                    by turning up the tip of the tongue behind the sockets of the teeth till the
+                    tongue acquires something of a spoon shape. This, which is also common in the
+                    languages of modern India, is called the cerebral or cacuminal r, the former
+                    term, which has no meaning in this connexion, being only a bad translation of a
+                    Sanscrit term. The common German r is produced by vibrations of the uvula at the
+                    end of the soft palate, and hence is called the uvular r. There are also many
+                    other varieties of this sound. In many languages r is able to form syllables by
+                    itself, in the same way that l, m, n may do, as in the English brittle (britl),
+                    written (ritn). In Europe r with this value is most conspicuous in Slavonic
+                    languages like Bohemian (Czech) and Croatian; in English r in this function is
+                    replaced by a genuine vowel in words like mother (moðð). This syllabic r is
+                    first recorded for Sanscrit, where it is common, but is replaced in the
+                    languages descended from Sanscrit by r and a vowel or by a vowel only, according
+                    to the position in which it occurs. Most philologists are of opinion that
+                    syllabic r existed also in the mother-tongue of the Indo-European languages. (P.
+                    Gi. )</p>
+            </div>
+        </body>
+    </text>
+</TEI>

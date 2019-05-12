@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0010-02"
+                facs="gri_33125011196389_0016.tif" type="entry">
+
+                <p><label>RAPPERSWIL</label> a town of Swiſſerland, on the</p>
+                <p>confines of the canton of Zurich, and of the territory of Gaſter, with an old
+                    caſtle. It is ſtrong by ſituation, being ſeated on a neck of land which advances
+                    into the lake of Zurich, and over which there is a bridge 850 paces long. It is
+                    ſubject to the cantons ot Zurich and Berne. E Long. 8. 57. N. Lat. 47. 20.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0010-09"
+                facs="gri_33125011196389_0016.tif" type="entry">
+
+                <p><label>RASAY</label> one of the Hebrides Iſlands, is about 13 miles long and 2
+                    broad. It contains y00 inhabitants, has plenty of lime-ſtone, free-ſtone ∙, and
+                    feeds great numbers of black cattle ; but has neither deers, hares, nor rabbits.
+                    The only appearance of a harbour in Rafay is at Clachan Bay, where Mr Macleod
+                    the proprietor of the iſland reſides. Raſay preſents a bold ſhore, w <hi
+                        rend="sup"> ,</hi> hιch riſes to the height of mountains ; and here the
+                    natives have, with incredible labour, formed many little corn fields and patato
+                    grounds. Theſe heights decreaſe at the ſouth end, where there are ſome farms and
+                    a good-looking country. Mr Macleod is ſole proprietor of this» iſland, and of
+                    Rona and Fladda at the north end of 1t <hi rend="sub">ft</hi> which are only
+                    proper for grazing.</p>
+                <p>The houſe of Raſay is pleaſantly ſituated near the ſouth-weſt end of the iſland,
+                    which is the moſt level part of it. It has an extenſive and excellent garden,
+                    and is ſurrounded with foreſt trees of considerable magnitude ; another proof
+                    that trees will grow upon the edge oſ the ſea-, though it muſt be allowed that
+                    the</p>
+                <pb xml:id="eb03-16-r01-0011" facs="gri_33125011196389_0017.tif"/>
+                <p>channel here is narrow. Immediately behind the houſe of Rasay are the ruins of
+                    an ancient chapel, now uſed as the family burying-place.</p>
+                <p>Dr Johnſon, in his tour, expreſſes the higheſt fatisfaction at the reception he
+                    met with when in Raſay from Mr Macleod.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

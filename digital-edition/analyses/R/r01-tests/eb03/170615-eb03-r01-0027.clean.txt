@@ -1,0 +1,43 @@
+this notch embraces and presses against the steel arbour (d). This end of the frame may be raised or depressed by moving the prismatic sside (u), which may be fixed at any height by the four steel screws V 
+“The bottom of this sside has a notch (k); whose plane is parallel to the endless screw; and by the point of the arbour (d) resting in this notch, this end of the frame is prevented from tilting. The screw s is pre ventcd from unturning, by tightening the finger nut (w). 
+"The teeth on the circumference of the wheel were cut by the following method : 
+"Having considered what number of teeth on the circumference would be most convenient, which in this engine is 2160, or 360 multiplied by 6, I made two screws of the same dimensions, of tempered steel, in the manner hereafter described, the interval between the threads being such as I knew by calculation would come within the limits of what might be turned off the circumference of the wheel : one of these screws, which was intended for ratching or cutting the teeth, was notched across the threads, so that the screw, when pressed against the edge of the wheel and turned round, cut in the manner of a saw. Then having a segment of a circle a little greater than 60 degrees, of about the same radius with the wheel, and the circumference made true, from a very fine centre, I described an arch near the edge, and set off the chord of 60 degrees on this arch. This segment was put in the place of the wheel, the edge of it was ratched, and the number of revolutions and parts of the screw contained between the interval of the 60 degrees were counted. The radius was corrected in the proportion of 360 revolutions, which ought to have been in 60 degrees, to the number actually found; and the radius, so corrected, was taken in a pair of beam compasscs : while the wheel was on the lath, one foot of the compasses was put in the centre, and with the other a circle was de scribed on the ring; then half the depth of the threads of the screw being taken in dividers, was set from this circle outwards, and another circle was described cutting this point; a hollow was then turned on the edge of the wheel of the same curvature as that of the screw at the bottom of the threads : the bottom of this hollow was turned to the same radius or distance from the centre of the wheel, as the outward of the two circles before mentioned, 
+"The wheel was now taken off the lath; and the bell metal piece 
+D 
+was screwed on as before directed, which after this ought not to be removed. 
+"From a very exact centre a circle was described on the ring 
+C 
+about of an inch within where the bottom of the teeth would come. This circle was di vided with the greatest exactness I was capable of, sirst into five parts, and each of these into three. These parts were then bisected four times : (that is to say) supposing the whole circumference of the wheel t con tain 2160 teeth, this being divided into five parts, each would contain 432 teeth; which being divided into three parts, each of them would contain 144; and this space bisected four times would giv? 
+72, 
+36, 
+18, and 91 therefore 
+each of the iast divisions would contain nine teeth. But, as I was apprehensive some error might arise from quinquesection and trisection, in order to examine the accuracy of the divisions, I described another circle 
+on 
+the ring 
+C 
+s? 
+inch within the former, and divided it by continual bisections, as 2160, 1080, 540, 270, 135·, 67è, and 331; and as the fixed wire (to be described presently) crossed both the circles, I could examine their agreement at every 135 revolutions; (after ratching, could examine it at every 334) : but, not finding any sensible difference between the two sets of divisions, I, for ratching, made choice of the former; and, 
+ae 
+the coincidence of the fixed wire with an interfectio could be more exactly determined than with 
+a 
+dot 
+or 
+division, I therefore made use of intersections in both circles before deseribed. 
+"The arms of the frame 
+L 
+were connected by a thin piece of brass of | of an inch broad, having a hole in the middle of of an inch in diameter; across this hole a silver wire was fixed exactly in a line to the cen tre of the wheel; the coincidence of this wire with thc intersections was examined by a lens T ’ g· inch focus, fixed in a tube which was attached to one of the arms 
+L @@ 
+(a). Now a handle or winch being fixed on the end of the screw, the division marked 10 on the circle K was set to its index, and, by means of a clamp and adjusting serew for that purpose, the intersection mark ed i on the circle 
+C 
+was set exactly to coincide with the fixed wire; the serew was then carefully pressed against the circumference of the wheel, by turning the finger screw s; then, removing the clamp, I turned the screw by its handle 9 revolutions, till the interseo* tion marked 240 came nearly to the wire; then, un turning the finger serew s, I released the screw from the wheel, and turned the wheel back till the intersee tion marked 2 exactly coincided with the wire, and, by means of the clamp before mentioned, the division 1 o on the circle being 
+set 
+to its index, the serew was pressed against the edge of the wheel by the finger serew s; the clamps were removed, and the serew turned nine revolutions till the intersection marked 1 nearly coincided with the fixed wire; the screw was released from the wheel by unturning the finger serew 
+s 
+as before, the wheel was turned back till the intersection 3 coincided with the fixed wire; the division 10 on the circle being set to its index, the serew was pressed against the wheel as before, and the serew was turned 9 revolutions, till the intersection 2 nearly coincided with the fixed wire, and the serew was released; and 
+I 
+proceeded in this manner till the teeth were marked round the whole circumference of the wheel. This was repeated three times round, to make the impres sion of the serew deeper. I then ratched the wheel round continually in the same direction without ever disengaging the serew; and, in ratching the wheel about 300 times round, the teeth were finished. 
+"Now it is evident, if the circumference of the wheel was even one tooth or ten minutes greater than the screw would require, this error would in the first ina) 
+
+The intersections are marked for the sake of illustratscn, though properly invisible, they lying under the ferais plate. 
+
+'> b 

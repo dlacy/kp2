@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196348_0199.tif" type="entry" xml:id="eb03-18-s07-0193-05"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SURVIVORSHIP</label>, is that branch of mathematics which treats of
+                    reverſions payable provided one or more particular perſons ſurvive certain
+                    others. By reverſions are meant payments not to take place till ſome future
+                    period. Survivor- ſhip forms one of the moſt difficult and complicated parts of
+                    the doctrine of reverſions and life-annuities. It has been very fully treated of
+                    by Mr Thomas Simpſon in his" Select Exerciſes ; and brought to a ſtate of very
+                    great perfection by Dr Price and Mr Morgan, who have bellowed a great deal of
+                    attention on this ſubject.</p>
+                <p>The calculations are founded on the expectation of lives at different ages,
+                    deduced from tables formed from bills of mortality, of which see ſeveral
+                    examples under the article B <hi rend="italic">ills of</hi>
+                    <hi rend="smallcaps">Mortality.</hi> By the expectation of life is meant the
+                    mean time that any ſingle or joint lives at a given age is found to continue ;
+                    that is, the number of years which, taking one with another, they actually
+                    enjoy, and may be conſidered as sure of enjoying ; thoſe who survive that period
+                    enjoying as much more time in proportion to their number as thoſe who fall ſhort
+                    of it enjoy leſs. Thus, suppoſing 46 perſons alive all 40 years of age, and that
+                    one will die every year till they are all dead in 46 years, half 46 or 23 will
+                    be the <hi rend="italic">expectation</hi> of each of them. If Μ. de Moivre’s
+                    hypotheſis were true, that men always decreaſe in an arithmetical progreſſion,
+                    the expectation of a ſingle life is always half its complement<note
+                        anchored="true" n="1" place="bottom" type="authorial"><p><hi
+                                rend="smallcaps">(a)</hi> By the complement of a life is meant what
+                            it wants of 86, which Μ. de Moivre makes the boundary of human life.
+                            Thus if a man be 30, the complement of his life is 5 <hi rend="italic"
+                                >6.</hi></p></note>
+                    <hi rend="smallcaps">(A),</hi> and the expectation of two joint lives one- third
+                    of their common complement. Thus, ſuppoſing a man 40, his expectation would be
+                    23, the half of 46, his complement; the expectation of two joint lives, each 40,
+                    would be 15 years 4 months, or the third part of 46.</p>
+                <p>The number expreſſing the expectation, multiplied by the number of ſingle or
+                    joint lives (of which it is the expectation), added annually to a ſociety, gives
+                    the whole number living together, to which ſuch an annual addition would in time
+                    grow. Thus, since 19, or the third of 57, is the expectation of two joint lives,
+                    whoſe common age is 20, twenty marriages every year between perſons of this age
+                    would in 57 years grow to 20 times 19 or 380 marriages, always exiſting
+                    together. And since the expectation of a ſingle life is always half its
+                    complement, in 57 years 20 ſingle perſons added annually to a town will increaſe
+                    to 20 times 28.5, or 570 ; and when arrived at this number, the deaths every
+                    year will just equal the acceſſions, and no farther increaſe be poſſible. It
+                    appears from hence, that the particular proportion that becomes extinct every
+                    year, out of the whole number constantly exiſting together of ſingle or joint
+                    lives, muſt, wherever this number undergoes no variation, be exactly the ſame
+                    with the expectation of thoſe lives, at the time when their exiſtence commenced.
+                    Thus, was it found that a 19th part of all the marriages among any bodies of
+                    men, whoſe numbers do not vary, are diſſolved every year by the deaths’ of
+                    either the husband or wife, it would appear that 19 was, at the time they were
+                    contracted, the expectation of theſe marriages. In like manner, was it found in
+                    a ſociety, limited to a fixed number of members; that a 28th part dies annually
+                    out of the whole number of members, it would appear that 28 was their common
+                    expectation of life at the time they entered. So likewiſe, were it found in any
+                    town or diſtrict, where the number of births and burials are equal, that a 20th
+                    or 30tl1 part of the inhabitants die annually, it would appear that 20 or 30 was
+                    the expectation of a child juſt born in that town or diſtrict. Theſe
+                    expectations, therefore, for all ſingle lives, are easily found by a table of
+                    observations, showing the number that die annually at all ages cut of a given
+                    number alive at thoſe ages ; and the general rule for this purpoſe is, to divide
+                    the ſum of all the living in the table, at the age whoſe expectation is
+                    required, and at all greater ages, by the ſum of all that die annually at that
+                    age and above it ; or, which is the ſame, by the number (in the Table) of the
+                    living at that age ; and half unity ſubtracted from the quotient will be the
+                    required expectation. Thus, in Dr Halley’s table, given in the article <hi
+                        rend="smallcaps">Annuity,</hi> the ſum of all the living at 20 and upwards
+                    is 20,724, which, divided by 598, the number living at the age of 20, and half
+                    unity ſubtracted from the quotient, gives 34.15 for the expectation of 20.</p>
+                <p>In calculating the value of expectation of joint lives, Mr de Moivre had recourſe
+                    to the hypotheſis, that the probabilities of life decreaſe in a geometrical
+                    progreſſion ; believing that the values of joint lives, obtained by rules
+                    derived from it, would not deviate much from the truth. But in this he was
+                    greatly miſtaken ; they generally give reſults which are near a quarter of the
+                    true value too great in finding the preſent value of one life after it has
+                    ſurvived another in a ſingle payment, and about 7/5ths too great when the value
+                    is sought in annual payments during the joint lives. They ought therefore to be
+                    calculated upon the hypotheſis (if they are calculated on hypotheſis at all),
+                    that the probabilities of life decreaſe in arithmetical progreſſion, which is
+                    not very far from the truth. Even this hypotheſis never corresponds with the
+                    fact in the firſt and laſt periods of life, and in ſome ſituations not in any
+                    period of life. Dr Price and Mr Morgan therefore have given tables of the value
+                    of lives, not founded on any hypotheſis, but deduced from bills of mortality
+                    themſelves. Some of theſe we ſhall give at the end of this article. Mr Morgan
+                    has likewiſe given rules for calculating values of lives in this manner.</p>
+                <p>Μ. de Moivre has alſo fallen into miſtakes in his rules for calculating the value
+                    of reverſions depending on ſurvivor- ſhip : theſe have been pointed out by Dr
+                    Price in the third effay in the firſt volume of his Treatiſe on Reversionary
+                    Payments ; who has alſo given proper rules for calculating theſe values, the
+                    moſt important of which are comprehended in the following paragraphs.</p>
+                <p>Suppoſe a set of married men to enter into a ſociety in order to provide annuites
+                    for their widows, and that it is limited to a certain number of members, and
+                    conſtantly kept up to that number by the admiſſion of new members as the old
+                    ones are loſt ; it is of importance, in the firſt place, to know the number of
+                    annuitants that after ſome time will come upon the eſtabliſhment. Now ſince
+                    every marriage produces either a widow or widower ; and ſince all marriages
+                    taken together would produce as many widows as Widowers, were every man and his
+                    wife of the ſame age, and the chance equal which ſhall die firſt : it is
+                    evident, that the<pb facs="gri_33125011196348_0200.tif"
+                        xml:id="eb03-18-s07-0194"/> number of widows that have ever exiſted in the
+                    world, would in this caſe be equal to half the number of marriages. And what
+                    would take place in the world muſt alſo, on the ſame ſuppoſitions, take place in
+                    this ſociety. In other words, every other perſon in ſuch a ſociety leaving a
+                    widow, there muſt ariſe from it a number of widows equal to half its own number.
+                    But this does not determine what number, all living at one and the ſame time,
+                    the ſociety may expect will come to be conſtantly upon it. It is, therefore,
+                    neceſſary to determine how long the duration of ſurvivorſhip between perſons of
+                    equal ages will be compared with the duration of marriage. And the truth is,
+                    that, ſuppoſing the probabilities of life to decreaſe uniformly, the former is
+                    equal to the latter ; and conſequently that the number of survivors, or (which
+                    is the ſame, supposing no ſecond marriages) of widows and widowers alive
+                    together, which will ariſe from any given ſet of ſuch marriages constantly kept
+                    up, will be equal to the whole number of marriages; or half of them (the number
+                    of widows in particular) equal to half the number of marriages. Now it appears
+                    that in moſt towns the decreaſe in the probabilities of life is in fact nearly
+                    uniform. According to the Breſlaw Table of Obſervation. (ſee <hi
+                        rend="smallcaps">Annuity</hi>), almoſt the ſame numbers die every year from
+                    20 years of age to 77. Alter this, indeed, fewer die, and the rate of decreaſe
+                    in the probabilities of life is retarded. But this deviation from the hypothesis
+                    is inconſiderable ; and its effect, in the preſent caſe, is to render the
+                    duration of ſurvivorſhip longer than it would otherwiſe be. According to the
+                    London Table of Obſervations, the numbers dying every year begin to grow lels at
+                    50 years of age ; and from hence to extreme old age there is a constant
+                    retardation in the decreaſe of the probabilities of life. Upon the whole,
+                    therefore, it appears that, according to the Breſlaw Table, and ſuppoſing no
+                    widows to marry, the number inquired after is ſomewhat greater than half the
+                    number of the ſociety ; but, according to the London ! able, a good deal
+                    greater. This, however, has been determined on the ſuppoſition that the huſbands
+                    and wives are of equal ages, and that then there is an equal chance who ſhall
+                    die firſt. But in reality huſbands are generally older than wives, and males
+                    have been found to die ſooner than females, as appears inconteſtably from
+                    ſeveral of the tables in Dr Price’s Treatiſe on Reverſions. lt is therefore more
+                    than an equal chance that the husband will die before his wife. This will
+                    increaſe conſiderably the duration of ſurvivorſhip on the part of the women, and
+                    conſequently the number which we have been inquiring after. The marriage of
+                    widows will diminiſh this number, but not ſo much as the other cauſes will
+                    increaſe it.</p>
+                <p>If the ſociety comprehends in it from the firſt all the married people of all
+                    ages in any town, or among any claſs of people where the numbers always continue
+                    the ſame, the whole collective body of members will be at their greateſt age at
+                    the time of the eſtabliſhment of the ſociety ; and the number of widows lest
+                    every year will at a medium be always the ſame. The number of widows will
+                    increaſe continually on the ſociety, till as many die off every year as are
+                    added. This will not be till the whole collective body of widows are at their
+                    greateſt age, or till there are among them the greateſt poſſible number of the
+                    oldeſt widows ; and therefore not till there has been time for an accession to
+                    the oldeſt widows from the youngeſt part.</p>
+                <p>Let us, for the lake of greater preciſion, divide the whole medium of widows that
+                    come on every year into different classes according to their different ages, and
+                    ſuppoſe ſome to be left at 56 years of age, ſome at 46, ſome at 36, and ſome at
+                    26. The widows, conſtantly in life together, derived from the firſt class, will
+                    come to their greateſt age, and to a <hi rend="italic">maximum,</hi> in 30
+                    years, ſuppoſing, with Μ. de Moivre, 86 to be the utmoſt extent of life. The
+                    ſame will happen to the ſecond claſs in 40 years, and to the third in 50 years.
+                    But the whole body compoſed of theſe classes will not come to a <hi
+                        rend="italic">maximum</hi> till the ſame happens to the fourth or youngeſt
+                    claſs ; that is, not till the end of 60 years. After this the affairs of the
+                    ſociety will become ſtationary, and the number of annuitants upon it of all ages
+                    will keep always nearly the ſame.</p>
+                <p>If a society begins with its complete number of members, but at the ſame time
+                    admits none above a particular age : It, for inſtance, it begins with 200
+                    members all under 52, and afterwards limits itself to this number, and keeps it
+                    up by admitting every year, at all ages between 26 and 50, new members as old
+                    ones drop off; in this caſe, the period neceſſary to bring on the <hi
+                        rend="italic">maximum</hi> of annuitants will be juſt doubled.</p>
+                <p>To determine the ſum that every individual ought to, pay in a single preſent
+                    payment, in order to intitle his widow to a certain annuity for her life, let us
+                    ſuppoſe the annuity 3l. <hi rend="italic">per annum,</hi> and the rate of
+                    intereſt four <hi rend="italic">per cent.</hi> It is evident, that the value of
+                    ſuch an expectation is different, according to the different ages of the
+                    purchaſers, and the proportion of the age <hi rend="italic">of</hi> the wife to
+                    that of the husband. Let us then ſuppoſe that every perſon in ſuch a ſociety is
+                    of the ſame age with his wife, and that one with another all the members when
+                    they enter may be reckoned 40 years of age, as many entering above this age as
+                    below it. It has been demonſtrated by Μ. de Moivre and Mr Simpſon, that the
+                    value of an annuity on the joint continuance of any two lives, ſubtracted from
+                    the value of an annuity on the life in expectation, gives the true preſent value
+                    of annuity on what may happen to remain of the latter of the two lives after the
+                    other.</p>
+                <p>In the preſent caſe, the value of an annuity to be enjoyed during the joint
+                    continuance of two lives, each 40, is, by Table II. 9.826, according to the
+                    probabilities of life in the Table of Obſervations formed by Dr Halley from the
+                    bills of mortality of Breſlaw in Silesia. The value of a single life 40 years of
+                    age, as given by Μ. de Moivre, agreeably to the ſame table, is 13.20 ; and the
+                    former ſubtracted from the latter, leaves 3.37, or the true number of years
+                    purchaſe, which ought to be paid for any given annuity, to be enjoyed by a
+                    perſon 40 years of age, provided he ſurvives another perſon of the ſame age,
+                    intereſt being reckoned at four <hi rend="italic">per cent. per annum.</hi> The
+                    annuity, therefore, being 3.0l. the preſent value oſ it is 30 multiplied by
+                    3.37, or 101 l. 2 s.</p>
+                <p>If, inſtead of a single preſent payment, it is thought preferable to make annual
+                    payments during the marriage ; what theſe annual payments ought to be is eaſily
+                    determined by finding what annual payments during two joint lives of given ages
+                    are equivalent to the value of the reverſionary annuity in preſent money.
+                    Suppoſe, as before, that the joint lives are each 4c, and the reverſionary
+                    annuity 30 l. <hi rend="italic">per annum.</hi> An annual payment during the
+                    continuance of two ſuch lives is worth (according to Table II.) 9.82 years
+                    purchaſe. The annual payment ought to be ſuch as, being multiplied by 9.82, will
+                    produce 101 l. the preſent value of the annuity in one payment. Divide then
+                    101.1 by 9.82, and 10.3 the quotient will be the annual pay ment. This method of
+                    calculation ſuppoſes that the firſt annual payment is not to be made till the
+                    end of a year. If it is to be made immediately, the value of the joint lives
+                    will be increaſed one year’s purchaſe; and therefore, in order to find; the
+                    annual payments required, the value of a preſent single payment muſt be divided
+                    by the value of the joint lives increaſed by unity. If the ſociety prefer paying
+                    part of the value in a preſent single payment on admiſſion, and the reſt in
+                    annual payments ; and it they fix theſe annual payments<pb
+                        facs="gri_33125011196348_0201.tif" xml:id="eb03-18-s07-0195"/> at a
+                    particular ſum, the preſent single payment paid on admission is found by
+                    ſubtracting the value of the annual payment during the joint lives from the
+                    whole preſent value of the annuity in one payment. Suppoſe, for inſtance, the
+                    annual payments to be fixed at five guineas, the annuity to be 30 l. the rate of
+                    intereſt four <hi rend="italic">per cent,</hi> and the joint lives each 40; the
+                    value of the annuity in one preſent ſingle payment is 101. 11. The value of five
+                    guineas or 5.25 <hi rend="italic">per annum,</hi> is (5.25 multiplied by 9.82
+                    the value of the joint lives) 51.55 ; which, subtracted from 101.11. gives
+                    1.49.5, the anſwer.</p>
+                <p>If a ſociety takes in all the marriages among perſons of a particular profession
+                    within a given diſtrict, and ſubjects them for perpetuity to a certain equal and
+                    common tax or annual payments, in order to provide life annuities for all the
+                    widows that ſhall result from theſe marriages ; ſince, at the commencement of
+                    ſuch an eſtablishment, all the oldeſt, as well as the youngeſt, marriages are to
+                    be intitled equally to the propoſed benefit, a much greater number of annuitants
+                    will come immediately upon it than would come upon any similar eſtabliſhment
+                    which limited itſelf in the admission of members to perſons not exceeding a
+                    given age. This will check that accumulation of money which ſhould take place at
+                    firſt, in order to produce an income equal to the diſburſements at the time when
+                    the number of annuitants comes to a <hi rend="italic">maximum</hi>; and
+                    therefore will be a particular burden upon the eſtabliſhment in its infancy. For
+                    this ſome compenſation muſt be provided ; and the equitable method of providing
+                    it is, by levying fines at the beginning of the eſtabliſhment on every member
+                    exceeding a given age, proportioned to the number of years which he has lived
+                    beyond that age. But if ſuch fines cannot be levied, and if every payment muſt
+                    be equal and common, whatever diſparity there may be in the value of the
+                    expectations of different members, the fines muſt be reduced to one common one,
+                    anſwering as nearly as poſſible to the diſadvantage, and payable by every member
+                    at the time when the eſtabliſhment begins. After this, the eſtabliſhment will be
+                    the ſame with one that takes upon it all at the time they marry; and the tax or
+                    annual payment of every member adequate to its ſupport will be the annual
+                    payment during marriage due from perſons who marry at the mean age at which,
+                    upon an average, all marriages may be conſidered as commencing. The fines to be
+                    paid at firſt are, for every particular member, the same with the difference
+                    between the value of the expectation to him at his preſent age, and what would
+                    have been its value to him had the ſcheme begun at the time he married. Or, they
+                    are, for the whole body of members, the difference between the value of the
+                    common expectation, to perſons at the mean age of all married perſons taken
+                    together as they exiſt in the world, and to perſons at that age which is to be
+                    deemed their mean age when they marry.</p>
+                <p>Suppoſe we wiſh to know the preſent value of an annuity to be enjoyed by one
+                    life, for what may happen to remain of it beyond another life, after a given
+                    term ; that is, provided both lives continue from the preſent time to the end of
+                    a given term of years ; the method of calculating is this : Find the value of
+                    the annuity for two lives, greater by the given term of years than the given
+                    lives ; diſcount this value for the given term; and then multiply by the
+                    probability, that the two given lives ſhall both continue the given term ; and
+                    the product will be the anſwer. Thus, let the two lives be each the term ſeven
+                    years, the annuity l. 10, intereſt Four <hi rend="italic">per cent.</hi> The
+                    given lives, increaſed by ſeven years, become each 57. The value of two joint
+                    lives, each 37, is (by Table II.) 10.25. The value of a ſingle life at 37 is (by
+                    the table under the article <hi rend="smallcaps">Annuity)</hi> 13.67. The former
+                    ſubtracted from the latter is 3.42, or the value of an annuity for the life of a
+                    perſon 317 years of age, after another of the ſame age, as has been ſhown above.
+                    3.42 dd- counted for ſeven years (that is, multiplied by 0.76 the value of 11.
+                    due at the end of ſeven years) is 2.6. The probability that a ſingle life at 30
+                    ſhall continue ſeven years is <hi rend="superscript"> 49</hi> ∕ <hi
+                        rend="subscript"> 56</hi><note anchored="true" n="2" place="bottom"
+                        type="authorial"><p>(b) The probability that a given life shall continue any
+                            number of years, or reach a given age, is (as is well known) the
+                            fraction, whose numerator is the number of the living in any table of
+                            observations opposite to the given age, and denominator, the number
+                            opposite to the present age of the given life.</p></note>
+                    <hi rend="smallcaps">(b).</hi> The probability, therefore, that two ſuch lives
+                    ſhall continue ſeven years, is 2401∕3136, or in decimals 0.765 ; and 2.6
+                    multiplied by 0.765 is 1.989, the number of years purchaſe which ought to be
+                    given for an annuity to be enjoyed by a life now 30 years of age, after a life
+                    of the same age, provided both continue ſeven years. The annuity then being 10 l
+                        <hi rend="smallcaps">.</hi> its preſent value is 1.19.89.</p>
+                <p>Suppoſe the value is required of an annuity to be enjoyed for what may happen to
+                    remain of one life after another, provided the life in expectation continues a
+                    given time. I. Find the preſent value of the annuity for the remainder of the
+                    life in expectation after the given time, which is done in this manner :
+                    Multiply the preſent value of the life at the given time by the preſent value of
+                    1 l. to be received at that time, and multiply the product again by the
+                    probability that the life in expectation will continue ſo long. Let the given
+                    time which the life in expectation is to continue be 15 years, and let the
+                    perſon then be arrived at 50 years of age. A life at fifty, according to Μ. de
+                    Moivre’s valuation of lives, and reckoning intereſt at <hi rend="italic">four
+                        per cent.</hi> is worth 11.34 years purchaſe. The preſent value of 1 l. to
+                    be received at the end of 15 years, is 0.5553, and the probability that a life
+                    at 35 will continue 15 years is <hi rend="superscript"> 146</hi> ∕ <hi
+                        rend="subscript"> 490</hi>. Theſe three values multiplied into one another
+                    give L.4.44 for the preſent value ot the life in expectation. 2. Find the value
+                    of the reverſion, provided both lives continue the given time, by the rule given
+                    in parag. 5th. 3. Add theſe values together, and the ſum will be the anſwer in a
+                    ſingle preſent payment. We ſhall now illuſtrate this rule by an example.</p>
+                <p>An annuity of 10 l. for the life of a person now 30, is to commence at the end of
+                    11 years, if another perſon now 40 ſhould be then dead ; or, if this ſhould not
+                    happen at the end of any year beyond 11 years in which the former ſhall happen
+                    to survive the latter : What is the preſent value of ſuch an annuity, reckoning
+                    intereſt at four <hi rend="italic">per cent.</hi> and taking the probabilities
+                    of life as they are in Dr Hailey’s table, given in the article <hi
+                        rend="smallcaps">Mortality ?</hi></p>
+                <p>The value of 10l. <hi rend="italic">per annum,</hi> for the remainder of the life
+                    of a perſon now 30, after 11 years is L. 69.43. The probability that a perſon 40
+                    years of age ſhall live 11 years, is, by Dr Halley's table, <hi
+                        rend="superscript"> 335</hi> ∕ <hi rend="subscript"> 445</hi>. The
+                    probability, therefore, that he will die in 11 years, is ſubtracted from
+                        unity<note anchored="true" n="3" place="bottom" type="authorial"><p>(c) For
+                            the difference between unity and the fraction expressing the probability
+                            thta an event will happen, gives the probability that it will not
+                            happen.</p></note> (C), or which multiplied by 1.69.43, gives 1.
+                    17.16.—The value of the reverſion, provided both live 11 years, is 17 l. and
+                    this value added to the former, makes l. 34.16. the value required in a ſingle
+                    preſent paymcnt ; which payment divided by 1. 11.43, the value of two joint
+                    lives, aged 30 and 40, with unity added, gives 3 l. ; or the value required in
+                    annual payments during the joint lives, the firſt payment to be made
+                        immediately.<pb facs="gri_33125011196348_0202.tif" xml:id="eb03-18-s07-0196"/>
+                    <hi rend="smallcaps">Table I.</hi>
+                    <hi rend="italic">Showing the Present Value of an Annuity of L. I. on a Single
+                        Life, according to M. de Moivre's Hypothesis.</hi></p>
+                <table>
+                    <row>
+                        <cell>Age.</cell>
+                        <cell>3 per Ct.</cell>
+                        <cell>3½ per Ct.</cell>
+                        <cell>4 per Ct.</cell>
+                        <cell>4½ per Ct.</cell>
+                        <cell>5 per Ct.</cell>
+                        <cell>6 per Ct.</cell>
+                    </row>
+                    <row>
+                        <cell><p>8</p><p>9</p><p>io</p></cell>
+                        <cell><p>19,736</p><p>19,868.</p><p>19,S68</p></cell>
+                        <cell><p>18,160</p><p>18,269</p><p>18,26'9</p></cell>
+                        <cell><p>16,791</p><p>16,882</p><p>16,882</p></cell>
+                        <cell><p>15’595</p><p>15,672</p><p>15,672</p></cell>
+                        <cell><p>14&gt;544</p><p>14,607</p><p>14,607</p></cell>
+                        <cell><p>I2&gt;79O</p><p>12,839</p><p>12,839</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>1 I .12</p><p>13</p><p>14</p><p>15</p><p>16</p><p>■
+                                17t'</p><p>18</p><p>19</p><p>20</p></cell>
+                        <cell><p>I9&gt;736</p><p>19,604</p><p>19,469</p><p>19&gt;331 19,192 19,050
+                                18,905 j8,759 18,610 18,458</p></cell>
+                        <cell>18,160 18,049 17’937 17,823 17&gt;7°7 17,588 17&gt;467 17&gt;344
+                            17,220 17&gt;093</cell>
+                        <cell><p>16,791</p><p>16,698</p><p>16,604</p><p>16,508</p><p>I 6,4
+                                10</p><p>16,311</p><p>16,209</p><p>16,105</p><p>15&gt;999
+                                i5&gt;^9i</p></cell>
+                        <cell>l5&gt;595 15&gt;517 15’437 i5.356 i5&gt;273 15,189 15,102 15,015 M,923
+                            •4,831</cell>
+                        <cell><p>14’544</p><p>14,480</p><p>14^412 τ4,34i
+                                14,271</p><p>'4ct97</p><p>14,123</p><p>14,047 r3,97o
+                            i3j891</p></cell>
+                        <cell><p>12,790</p><p>12,741</p><p>12,691</p><p>12,639</p><p>12,586</p><p>12,532</p><p>&gt;2,476</p><p>12,419</p><p>12,361</p><p>I2,3oi</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>21</p><p>22</p><p>23</p><p>24</p><p>2
+                                5</p><p>26.</p><p>27</p><p>28</p><p>29</p><p>3°</p></cell>
+                        <cell><p>18,305</p><p>18,148</p><p>17,990</p><p>17,827·</p><p>17,664</p><p>17&gt;497</p><p>17&gt;327</p><p>,7&gt;i54</p><p>•6,979</p><p>16,800</p></cell>
+                        <cell><p>16,963</p><p>16,830</p><p>16,696</p><p>16,559</p><p>16,419</p><p>16,277</p><p>16,133</p><p>15&gt;9*5</p><p>i5&gt;835</p><p>15,682</p></cell>
+                        <cell><p>&gt;5,781</p><p>15,669</p><p>15&gt;554</p><p>15&gt;437 *5&gt;318
+                                15&gt;197 15&gt;o73 14&gt;946</p><p>14,816</p><p>14,684</p></cell>
+                        <cell><p>14&gt;737</p><p>14,641</p><p>,4,543</p><p>14,44 2 i4&gt;340
+                                14&gt;235 14,128 14,018 13&gt;9o5 i3&gt;791</p></cell>
+                        <cell><p>13,810</p><p>13∙727</p><p>13,642</p><p>13&gt;555</p><p>13∏66</p><p>,
+                                3,375</p><p>13,282</p><p>13,186</p><p>13,088</p><p>12,988</p></cell>
+                        <cell><p>12&gt;239</p><p>12,177</p><p>I 2,1
+                                12</p><p>12,045</p><p>IIs978</p><p>11,908</p><p>II,837</p><p>II,763</p><p>11,688</p><p>11,610</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>3J</p><p>32</p><p>33</p><p>34</p><p>35</p><p>36</p><p>37</p><p>38</p><p>39</p><p>40</p></cell>
+                        <cell>16,62.0 16,436 16,248 16,057 15,864 15,660 kfo465 15,260 15&gt;o53
+                            14,842</cell>
+                        <cell><p>155526</p><p>∏j367</p><p>15,204</p><p>1i,°39</p><p>14,871</p><p>14,699</p><p>14&gt;5M</p><p>i4&gt;345</p><p>14,163</p><p>13&gt;978</p></cell>
+                        <cell><p>14&gt;549</p><p>14,41
+                                I</p><p>14,270</p><p>14,126</p><p>13,979</p><p>13,829</p><p>13&gt;676</p><p>13&gt;519</p><p>13&gt;359</p><p>13&gt;196</p></cell>
+                        <cell><p>i3»673</p><p>13’553</p><p>13&gt;43O</p><p>13,3°4</p><p>13&gt;175</p><p>,3&gt;o44</p><p>12,909</p><p>12,771</p><p>12,630</p><p>12,485</p></cell>
+                        <cell><p>12,855</p><p>12,780</p><p>12,673</p><p>12,562</p><p>12,449</p><p>l2&gt;333</p><p>12,214</p><p>12,091</p><p>I
+                                1,966</p><p>ii&gt;837</p></cell>
+                        <cell><p>11,530</p><p>11 &gt;449</p><p>,b365
+                                rι,278</p><p>11,189</p><p>11,098</p><p>11,003</p><p>10,907</p><p>IO,8c7</p><p>10,704</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>41</p><p>42</p><p>43</p><p>44</p><p>45</p><p>46 .
+                                47</p><p>48</p><p>49</p><p>5°</p></cell>
+                        <cell><p>14,626</p><p>14,407</p><p>14,185</p><p>i3&gt;958</p><p>13,728</p><p>13&gt;493</p><p>i3&gt;254
+                                13,012</p><p>12,764</p><p>12,511</p></cell>
+                        <cell><p>13,789</p><p>13&gt;596</p><p>13&gt;399</p><p>13*,99</p><p>l2D93</p><p>12,784</p><p>12,571
+                                •2,354</p><p>12,131</p><p>11,904</p></cell>
+                        <cell><p>13,028</p><p>12,858</p><p>12,683</p><p>12,504</p><p>12,322</p><p>12&gt;,35</p><p>11,944</p><p>11,748</p><p>11,548</p><p>11&gt;344</p></cell>
+                        <cell><p>12&gt;337</p><p>12,185</p><p>I
+                                2,029</p><p>11,870</p><p>11,707</p><p>11,540</p><p>11,368</p><p>II,½2</p><p>I
+                                1,012</p><p>IO,827</p></cell>
+                        <cell><p>I 1,705</p><p>11,57o</p><p>II,431</p><p>11,288</p><p>I
+                                J,142</p><p>10,992</p><p>10,837</p><p>10,679</p><p>10,515</p><p>•10,348</p></cell>
+                        <cell><p>10,599</p><p>10,490</p><p>IC,378</p><p>10,263</p><p>10,144 1
+                                0,021</p><p>9,%95</p><p>9c65</p><p>9,630</p><p>9,492</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>51</p><p>52</p><p>53</p><p>54</p><p>■
+                                55</p><p>56</p><p>57</p><p>-58</p><p>59</p><p>60</p></cell>
+                        <cell><p>12,255</p><p>11,994</p><p>II,729 ιι,457
+                                11,183</p><p>1.0,902</p><p>IO,616</p><p>10,325</p><p>10,029</p><p>9&gt;727</p></cell>
+                        <cell><p>”&gt;673</p><p>”&gt;437</p><p>ii,195</p><p>10,950</p><p>10,698</p><p>ιo,443</p><p>10,181</p><p>9&gt;913</p><p>9,640</p><p>9,36ι</p></cell>
+                        <cell><p>i1&gt;135</p><p>10,921</p><p>10,702</p><p>10,478</p><p>10,248</p><p>10,014</p><p>9’773</p><p>9’527</p><p>9,275</p><p>9,017</p></cell>
+                        <cell><p>IO,638</p><p>i°,443</p><p>to,243</p><p>10,039</p><p>9,Ef29</p><p>9,614</p><p>9&gt;393</p><p>9,166</p><p>8,933</p><p>8,694</p></cell>
+                        <cell><p>10,176</p><p>9’999</p><p>9,S17</p><p>9’63°</p><p>9,437</p><p>9’</p><p>239</p><p>9Ό36</p><p>8,826</p><p>8,611</p><p>8,389</p></cell>
+                        <cell><p>9’349</p><p>9,201</p><p>9Ό49 §,891 8,729 8,561 8κ387 8,208
+                                8,023</p><p>7,831</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>61</p><p>62</p><p>63</p></cell>
+                        <cell><p>9&gt;419</p><p>9,107</p><p>8,787</p></cell>
+                        <cell><p>9,076</p><p>a,786</p><p>8,48 8</p></cell>
+                        <cell><p>8&gt;753</p><p>8,482</p><p>8,205</p></cell>
+                        <cell><p>8.449</p><p>8,197</p><p>7,938</p></cell>
+                        <cell><p>8,161</p><p>7,926</p><p>7,684</p></cell>
+                        <cell><p>7&gt;633</p><p>7,428</p><p>7,216</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>64</p><p>65</p><p>66</p><p>67</p><p>68</p><p>69</p><p>70</p></cell>
+                        <cell><p>8j462</p><p>8,132</p><p>7’794</p><p>7,450</p><p>7,099</p><p>6,743</p><p>6,378</p></cell>
+                        <cell><p>8,185</p><p>7&gt;875</p><p>7,558</p><p>7,234</p><p>6,902</p><p>6,565</p><p>6,219</p></cell>
+                        <cell><p>7,9i I</p><p>7,631</p><p>7,333 7,027
+                                6,714</p><p>6,394</p><p>6,065</p></cell>
+                        <cell><p>7,672</p><p>7,399</p><p>7,fl9</p><p>6,831</p><p>6,534</p><p>6,2
+                                30</p><p>5,9l8</p></cell>
+                        <cell><p>7,435</p><p>7,179</p><p>6,915</p><p>6,643</p><p>6,362</p><p>6,073</p><p>5,775</p></cell>
+                        <cell><p>6,997
+                                .</p><p>6,770</p><p>6,535</p><p>6,292</p><p>6,040</p><p>5,779</p><p>5,508'</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>71</p><p>72</p><p>73</p><p>74</p><p>75</p><p>76</p><p>77</p><p>78</p><p>79</p><p>80</p></cell>
+                        <cell><p>6,008</p><p>5&gt;631</p><p>5,246</p><p>4,854</p><p>4,453</p><p>4,046</p><p>3,632</p><p>3,207</p><p>2,776</p><p>2,334</p></cell>
+                        <cell><p>5,865</p><p>5,505</p><p>5,136</p><p>4,759</p><p>4,373</p><p>3&gt;978</p><p>3’575</p><p>3ct63</p><p>2,741</p><p>2,309</p></cell>
+                        <cell><p>5’728</p><p>5&gt;383</p><p>5,029</p><p>4,666</p><p>4,293</p><p>3,9i2</p><p>3,52o</p><p>3,111</p><p>2,707</p><p>2,284</p></cell>
+                        <cell><p>5&gt;596</p><p>5,265</p><p>4,926</p><p>4,576</p><p>4,217</p><p>3’847
+                                .3,467</p><p>3Ό76</p><p>2,673</p><p>2,259</p></cell>
+                        <cell><p>5&gt;468 5ct52 4,826 4,489 4, »43 3&gt;784 3&gt;4,5 3Ό34
+                                2,641</p><p>2,235</p></cell>
+                        <cell><p>5,228</p><p>4,937</p><p>4,636</p><p>4’324</p><p>4,000</p><p>3,664</p><p>3*3*5</p><p>2&gt;953</p><p>2,578</p><p>2,18*</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>81</p><p>82</p><p>83</p><p>«4</p><p>85</p></cell>
+                        <cell><p>i,886</p><p>1,429</p><p>0,961</p><p>0,484</p><p>0,000</p></cell>
+                        <cell><p>1,867</p><p>t,4ιι</p><p>o&gt;955</p><p>0,483 o,oco</p></cell>
+                        <cell><p>ι,i850</p><p>1,406</p><p>0,950</p><p>0,481</p><p>0,000</p></cell>
+                        <cell><p>1,832</p><p>1,394</p><p>o,943</p><p>°,479</p><p>0,000</p></cell>
+                        <cell><p>1,816</p><p>1&gt;384</p><p>o&gt;937 ! 0,476 ! o,o□o</p></cell>
+                        <cell><p>1,783</p><p>1,362</p><p>0,925</p><p>0,472</p><p>0,000</p></cell>
+                    </row>
+                </table>
+                <p><hi rend="smallcaps">Table II.</hi> <hi rend="italic">Showing the Value of an Annuity on the Joint
+                        Continuance of Two Lives, according to Μ. de Moivre’s Hypothesis.</hi></p>
+                <table>
+                    <row>
+                        <cell>Age of the Youngest.</cell>
+                        <cell>Age of the Eldest</cell>
+                        <cell>Valυe at 3 per Cent.</cell>
+                        <cell>Value at 4 per Cent.</cell>
+                        <cell>Value at 5 per Cent.</cell>
+                    </row>
+                    <row>
+                        <cell>10</cell>
+                        <cell><p>10</p><p>15</p><p>20</p><p>25</p><p>3°</p><p>35</p><p>40</p><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>15.206</p><p>14.878</p><p>14∙5°3</p><p>∣4.c74</p><p>i3√85</p><p>(
+                                3.02
+                                Ç</p><p>12-381</p><p>11.644</p><p>10.796</p><p>9.822</p><p>8.704</p><p>7.417</p><p>5-936</p></cell>
+                        <cell><p>13-342</p><p>13∙c93</p><p>I2.8o8</p><p>1 2.480</p><p>I 2.1
+                                02</p><p>I
+                                1.665</p><p>11.156</p><p>10.564</p><p>9.κ71</p><p>9.059</p><p>8.105</p><p>6.980</p><p>5.652</p></cell>
+                        <cell><p>H.855</p><p>11.66
+                                i</p><p>11.430</p><p>11.182</p><p>10.884</p><p>1°∙537</p><p>10.128</p><p>9.646</p><p>9∙o74</p><p>8.301</p><p>7
+                                572</p><p>«■585</p><p>5∙39'</p></cell>
+                    </row>
+                    <row>
+                        <cell>15</cell>
+                        <cell><p>15</p><p>20</p><p>25</p><p>3o</p><p>35</p><p>40</p><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>14∙574</p><p>14.225</p><p>13.822</p><p>13∙359</p><p>12.824</p><p>12.207</p><p>I
+                                1.496</p><p>10.67
+                                ς</p><p>9.727</p><p>8.632</p><p>7∙377</p><p>5∙932</p></cell>
+                        <cell><p>I 2.860</p><p>12∙593</p><p>12.281</p><p>I 1.92 I I 1.501
+                                II.0I3</p><p>I
+                                0.440</p><p>9.767</p><p>8.975</p><p>8.041</p><p>6.934</p><p>5-623</p></cell>
+                        <cell><p>1147 8</p><p>11.266</p><p>I 1.02
+                                2</p><p>10.736</p><p>10.402</p><p>J
+                                0.008</p><p>9∙541</p><p>8.985</p><p>8.318</p><p>7∙515</p><p>6.544</p><p>5∙364</p></cell>
+                    </row>
+                    <row>
+                        <cell>20</cell>
+                        <cell><p>20</p><p>25</p><p>30</p></cell>
+                        <cell><p>13.904</p><p>13∙531</p><p>13.098</p></cell>
+                        <cell><p>12.341</p><p>12.05 1</p><p>I 1.71 I</p></cell>
+                        <cell><p>11.067</p><p>10.840</p><p>10.565</p></cell>
+                    </row>
+                <pb facs="gri_33125011196348_0203.tif" xml:id="eb03-18-s07-0197"/>
+                                       <row>
+                        <cell><p>20</p></cell>
+                        <cell><p>35</p><p>40</p><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>12∙594</p><p>i 2.008</p><p>11.327</p><p>10.536</p><p>9.617</p><p>•
+                                8∙549</p><p>• 7∙3&lt;&gt;S</p><p>5.868</p></cell>
+                        <cell><p>11.314</p><p>10.847</p><p>IO.297</p><p>9.648</p><p>8∙879</p><p>7.967</p><p>6.882</p><p>5∙59O</p></cell>
+                        <cell><p>10
+                                z78</p><p>9.870</p><p>9∙420</p><p>8.880</p><p>0∙233</p><p>7.448</p><p>6-495</p><p>5∙333</p></cell>
+                    </row>
+                    <row>
+                        <cell>25</cell>
+                        <cell><p>25</p><p>3o</p><p>35</p><p>40</p><p>45</p><p>5°</p><p>T5</p><p>60</p><p>65</p><p>7°</p></cell>
+                        <cell><p>13.192</p><p>12.794
+                                12∙333</p><p>11.770</p><p>ii.130</p><p>10.374</p><p>9.488</p><p>8.452</p><p>7.241</p><p>5.826</p></cell>
+                        <cell><p>1 1.786</p><p>I 1.468 t I.c93
+                                10.655</p><p>10.[3.1</p><p>9.509</p><p>8.766</p><p>7.880</p><p>6.826</p><p>5∙5&gt;&lt;</p></cell>
+                        <cell><p>10.621</p><p>10.367</p><p>10.067</p><p>9.708</p><p>9
+                                278</p><p>8.761</p><p>8-134</p><p>7∙37'</p><p>6
+                            440</p><p>5.294</p></cell>
+                    </row>
+                    <row>
+                        <cell>30</cell>
+                        <cell><p>33</p><p>3J</p><p>40</p><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>12.434</p><p>I
+                                2.010</p><p>11.502</p><p>to.898</p><p>10.183</p><p>9∙338</p><p>8.338</p><p>7.161</p><p>5-777</p></cell>
+                        <cell><p>11.182</p><p>ιc.838</p><p>10.428</p><p>9936</p><p>9∙345</p><p>8.634</p><p>7∙779</p><p>6.748</p><p>5∙5o5</p></cell>
+                        <cell><p>' o∙ ' 33</p><p>9 ^54</p><p>9.514</p><p>9.1 I
+                                2</p><p>8.620</p><p>8.018</p><p>7.280</p><p>6-373</p><p>5∙254</p></cell>
+                    </row>
+                    <row>
+                        <cell>35</cell>
+                        <cell><p>35</p><p>4</p><p>45</p><p>50</p><p>55</p><p>60</p><p>6S</p><p>70</p></cell>
+                        <cell><p>11.63
+                                -</p><p>11.175</p><p>12.622</p><p>9∙955</p><p>9.156</p><p>8.202</p><p>7.c66</p><p>5.718</p></cell>
+                        <cell><p>10.530</p><p>!0.157</p><p>9.702</p><p>9∙,49</p><p>8.4
+                                6</p><p>7.658</p><p>6.602</p><p>5∙45o</p></cell>
+                        <cell><p>9.600</p><p>9.291</p><p>8.913</p><p>8.450</p><p>7.879</p><p>7.172</p><p>6.294</p><p>5.203</p></cell>
+                    </row>
+                    <row>
+                        <cell>40</cell>
+                        <cell><p>40</p><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>10.777</p><p>10.283</p><p>9.677</p><p>fe.936</p><p>8.038</p><p>6.951</p><p>5.646</p></cell>
+                        <cell><p>9.826</p><p>9.418</p><p>8.911</p><p>8.283</p><p>7.510</p><p>6.556</p><p>5∙3*3</p></cell>
+                        <cell><p>9 014</p><p>8.67 ι</p><p>8.244</p><p>7.71c</p><p>7∙o39</p><p>6
+                                198</p><p>5∙141</p></cell>
+                    </row>
+                    <row>
+                        <cell>45</cell>
+                        <cell><p>45</p><p>50</p><p>55</p><p>60</p><p>65</p><p>17°</p></cell>
+                        <cell><p>9.863</p><p>9∙331</p><p>8.662</p><p>7∙⅛31</p><p>6.807</p><p>5∙556</p></cell>
+                        <cell><p>9.063</p><p>8.619</p><p>8.044</p><p>7∙332</p><p>6-435</p><p>5.300</p></cell>
+                        <cell><p>8.370</p><p>7.987</p><p>7.5co</p><p>6.875</p><p>6.080</p><p>5∙c63</p></cell>
+                    </row>
+                    <row>
+                        <cell>50</cell>
+                        <cell><p>5o</p><p>55</p><p>60</p><p>65</p><p>70</p></cell>
+                        <cell><p>8.892</p><p>8.312</p><p>7.568</p><p>6.023</p><p>5.442</p></cell>
+                        <cell><p>S∙-ι35 7∙738 7.09 i</p><p>6.258</p><p>5∙,93</p></cell>
+                        <cell><p>7 660</p><p>7.230</p><p>6 664</p><p>5.926</p><p>4∙964</p></cell>
+                    </row>
+                    <row>
+                        <cell>55</cell>
+                        <cell><p>55</p><p>60</p><p>65</p><p>7'-</p></cell>
+                        <cell><p>7.849</p><p>7.220</p><p>6.379</p><p>5.201</p></cell>
+                        <cell><p>7∙332</p><p>6.781</p><p>6.036</p><p>5∙o53</p></cell>
+                        <cell><p>6.873</p><p>6.386</p><p>5.724</p><p>4 833</p></cell>
+                    </row>
+                    <row>
+                        <cell>60</cell>
+                        <cell><p>60</p><p>6S</p><p>70</p></cell>
+                        <cell><p>6-737</p><p>6.043</p><p>5.081</p></cell>
+                        <cell><p>6∙35i</p><p>5∙73o</p><p>4.858</p></cell>
+                        <cell><p>6.001</p><p>5∙444</p><p>4∙653</p></cell>
+                    </row>
+                    <row>
+                        <cell>65</cell>
+                        <cell><p>65</p><p>70</p></cell>
+                        <cell><p>5∙547</p><p>4∙773</p></cell>
+                        <cell><p>5.277</p><p>4∙57i</p></cell>
+                        <cell><p>5∙o31</p><p>4 3*5</p></cell>
+                    </row>
+                    <row>
+                        <cell>70</cell>
+                        <cell>70</cell>
+                        <cell>4.270</cell>
+                        <cell>4.104</cell>
+                        <cell>3∙952</cell>
+                    </row>
+                </table>
+                <p><hi rend="smallcaps">Table III.</hi> <hi rend="italic">Showing the Values oſ Annuities on Single Lives,
+                        among Males and Females, according to the Probabilities of the Duration of
+                        Life its the Kingdom of Sweden.</hi></p>
+                <table cols="7">
+                    <row>
+                        <cell cols="3"><hi rend="smallcaps">Males.</hi></cell>
+                        <cell cols="2"><hi rend="smallcaps">Females.</hi></cell>
+                        <cell cols="2">Lives in general.</cell>
+                    </row>
+                    <row>
+                        <cell>Ages.</cell>
+                        <cell>4 per Ct.</cell>
+                        <cell>5 per Ct.</cell>
+                        <cell>4 per Ct.</cell>
+                        <cell>5 per Ct.</cell>
+                        <cell>4 per Ct.</cell>
+                        <cell>5 per Ct.</cell>
+                    </row>
+                    <row>
+                        <cell><p>1</p><p>2</p><p>3</p><p>4</p><p>5</p><p>6</p><p>7</p><p>8</p><p>9</p><p>10</p><p>I
+                                I</p><p>12</p><p>13</p><p>14</p><p>15</p><p>16</p>17<p>18</p><p>19</p><p>20</p><p>21</p><p>22</p><p>23</p><p>24</p><p>25</p><p>26</p><p>27</p><p>28</p><p>29</p><p>30</p><p>31</p><p>32</p><p>33</p><p>34</p><p>35</p><p>36</p><p>37</p><p>38</p><p>39</p><p>40</p><p>41</p><p>42</p><p>43</p><p>44</p><p>45</p><p>46</p><p>47</p><p>48</p><p>49</p><p>50</p><p>51</p><p>52</p><p>53</p><p>54</p><p>56</p><p>57</p><p>58</p><p>59</p><p>60</p><p>61</p></cell>
+                        <cell><p>16.503*</p><p>17∙355 17∙935 18.328 18.503
+                                18.622</p><p>18.693</p><p>18.725</p><p>18.715</p><p>18.674</p><p>18.600</p><p>18.491</p><p>18.378</p><p>18.246</p><p>18.105</p><p>i7∙958
+                                17∙803 17∙043</p><p>17.492 ∏∙335 17.192 17.042 16.887 16.742 16.592
+                                16.436</p><p>16.274</p><p>16.105</p><p>i5∙93θ</p><p>15,∙751
+                                .i5∙575</p><p>i5∙395</p><p>15.208</p><p>15.014</p><p>14.812</p><p>14.601
+                                14∙382 i4∙154 i 3.916 13.668 13.426
+                                13.196</p><p>12.984</p><p>12.763</p><p>12.535</p><p>12.297</p><p>12.051</p><p>11.795</p><p>11.528
+                                I 1.267 11.030 10.785 10∙531 10.269</p><p>9.998 ! '9∙7x7 i 9∙425 .
+                                9∙140</p><p>8.845</p><p>8.540</p><p>8.241</p></cell>
+                        <cell><p>14.051 ' I4.7∙78 15.279 I Ç.624 15.786</p><p>15.901 15∙977 16.021
+                                16.030 16.014 15∙97o 15.896 15.819 15.724 15.624 i5∙5'7 15.404
+                                15.285 15.175 15.c59 14∙955 14.846 '4∙732 14.627 14.517 14.402
+                                14.282 14.156 14.024 i 3.889 ’3-750 13∙^19 »3-477 13∙327 13.170
+                                13.006 12.833 12.652 12.462 12.261 12.065 X ∣.88o</p><p>I
+                                1.710</p><p>11.532 Ί-347 11.153 10.951 ÏO.738 10.516 10.298
+                                10.100</p><p>9.895</p><p>9.682</p><p>9.460</p><p>9.229
+                                .8.988</p><p>8.736</p><p>8.489</p><p>8.232 7∙9⅛ 7.700</p></cell>
+                        <cell><p>16.820</p><p>17.719 1S∙344∙ 18.780 18.927 19.045</p><p>19.X3&lt;
+                                19.162 19.151 I∙9.i09 19.O4I &lt;8.952</p><p>1 8.840</p><p>1
+                                8.707</p><p>18.568</p><p>• 8.424</p><p>18.290</p><p>18.15 (
+                                18.013</p><p>17.872</p><p>17.725 17∙5 73 17.414 17.252 17.087 16.915
+                                16.751 16.588 16.427 16.261 16.104 15∙941 i5∙7⅛7</p><p>15.629 15.465
+                                15.278 15.070 14.854</p><p>14.629</p><p>14.401</p><p>14.185 13∙994
+                                i3-798 J3∙596 13∙3⅛ i3∙i5i</p><p>12.894</p><p>12.620</p><p>12∙333
+                                12.049</p><p>11.769</p><p>11.492 1 1.220 IO.937 IO.642 lo∙334 10.01
+                                2</p><p>9.692 9∙358 9∙°39 8-739</p></cell>
+                        <cell><p>14.271 15∙034 15∙571</p><p>,5∙95i</p><p>16.088 16.203 16.291 16-33
+                                5 '6-343 16.325 16.286</p><p>16.229 ; 6.153 16.0,9
+                                15.960</p><p>15.856</p><p>15.761</p><p>15 662 ,5∙563 15.462
+                                15∙35&lt;≡&gt; i5∙245</p><p>15.129</p><p>■ 15.009 14.886 ,4∙757
+                                14∙636 14∙515 14.396</p><p>14.272 14.156 14∙o35 13 923 13.806
+                                13.684</p><p>13∙54* i3∙382 i3∙,i3
+                                i3∙o36</p><p>12.856</p><p>12.687</p><p>12.538</p><p>12,387</p><p>12.229
+                                12.06 '</p><p>11.876</p><p>11.668</p><p>11.443</p><p>I
+                                1.205</p><p>10.970 ιo∙737</p><p>10.507 10.280</p><p>10
+                                042</p><p>9.792</p><p>9.529 9∙253 8.976 8.687 8.406 8.144</p></cell>
+                        <cell><p>ι6.66ι *7∙537 18.139 ι⅛∙554 &gt;8.715, 18.833 18.912 18.943 1^∙933
+                                18.b91- 18.820 18.721 18 609 18.476 18336 18.191 j 8.046 17 897
+                                17.752</p><p>17.603 i7∙458 i7∙307 17.150 16.997 16 839 16.675 16.5·.
+                                2 r6 346 16.178 16.006 ‘5 839 15.668 i5∙497 15∙32i 15.138 14∙939
+                                14.726 &lt;4504 14.272 14∙o34 13.805 i3∙595 13 391 i3∙i79 12959
+                                12.724 12.472 12.217 11.930 11.658 n∙399 1
+                                ,∙13^</p><p>jo.875</p><p>10.603 10.320 10.0*5</p><p>9718 9.416 9 IOi
+                                8.789 8 490</p></cell>
+                        <cell><p>14.161</p><p>14 9c6 15.425</p><p>15 787 15-937 16.052 » 6.131
+                                16.178 16.186 16.169 16.128 16.062 15.986 15,891 15∙792 15.686
+                                15.582 15 473 i5∙369 15.260 15∙i55 15 045 14930 14.818 14.701 r4∙579
+                                14∙459 14.335 14.210 14.080 i3∙956 13.827 13.700 13-566 13∙427
+                                ∣3∙274 13.107 I 2.932 12.749 12.558 12 376 1 2,209 I 2.048 I 1.880 1
+                                1.704 II.514 11.309 1 1.090 10.860 10.634 10.418 IO.201</p><p>9.981
+                                9 751 9.510 9.258 8.99-: 8∙73^ 8.458 8.184 7.922</p></cell>
+                    </row>
+                <pb facs="gri_33125011196348_0204.tif" xml:id="eb03-18-s07-0198"/>
+                    <row>
+                        <cell><p>62</p><p>6
+                                3</p><p>64</p><p>65</p><p>66</p><p>67</p><p>68</p><p>69</p><p>70</p><p>71</p><p>72</p><p>73</p><p>74</p><p>75</p><p>76</p><p>77</p><p>78</p><p>79</p><p>80</p><p>81</p><p>82</p><p>83</p><p>84</p><p>85</p><p>86</p><p>87</p><p>88</p><p>89</p><p>90</p><p>91</p><p>92</p><p>93</p><p>94</p><p>95</p><p>96</p></cell>
+                        <cell><p>7.9jO</p><p>7.669</p><p>7∙302</p><p>7.090</p><p>6.792</p><p>6∙489</p><p>6.2οι</p><p>5∙933</p><p>5.670</p><p>5.418</p><p>5.180</p><p>4.940</p><p>4.724</p><p>4.487</p><p>4∙253</p><p>4.024</p><p>3.768</p><p>3∙512</p><p>3.260</p><p>3.017</p><p>2.792</p><p>2.600</p><p>z∙473</p><p>2.371</p><p>2.281</p><p>2.154</p><p>ι∙955</p><p>1.698</p><p>1.4*7
+                                ι∙i54</p><p>0.83
+                                ç</p><p>0.477</p><p>0.240</p><p>0.000</p><p>0.000</p></cell>
+                        <cell><p>7∙442</p><p>7∙193</p><p>6.938</p><p>6.676</p><p>6.408</p><p>6.134</p><p>5.872</p><p>5.628</p><p>5∙389</p><p>5.158</p><p>4.940</p><p>4.719</p><p>4.52!</p><p>4.302</p><p>4
+                                σ8+</p><p>3 81l</p><p>3-63l
+                                ‘</p><p>3∙39^</p><p>3∙152</p><p>2.921</p><p>2.706</p><p>2∙523</p><p>2.403</p><p>2.306</p><p>2.222</p><p>2.103</p><p>ι∙912</p><p>1∙664</p><p>1.392</p><p>ι.t36</p><p>0.824</p><p>0.471</p><p>0.238</p><p>0.000</p><p>0.000</p></cell>
+                        <cell><p>8-453</p><p>8.166</p><p>7.870</p><p>7.566</p><p>7∙252</p><p>6.930</p><p>6596</p><p>6.253</p><p>5.897</p><p>5
+                                564</p><p>5.261</p><p>4.998</p><p>4 792</p><p>4
+                                582</p><p>4-367</p><p>4∙∣45</p><p>3-9’3</p><p>3 668</p><p>3
+                                402</p><p>3∙*45</p><p>2.905</p><p>2 699</p><p>2
+                                559</p><p>2∙552</p><p>2. ç 18</p><p>2
+                                43l</p><p>2.294</p><p>2.108</p><p>i∙873</p><p>1.628</p><p>1∙349</p><p>i.071</p><p>0.799</p><p>o∙544</p><p>0.320</p></cell>
+                        <cell>7.895 7∙643 7.382 7.1 I 1 6.831 6.541 1 6.239 5.926 5∙599 5∙-93 5∙01S
+                            4.770 4.58 I Λ 4.388 4.189 3-983 3∙767 3∙530 3∙*85 3∙041 2.812 2.615
+                            2.480 2.476 2.446 2∙365 2.236 2.059 1.833 1.596 1∙325 ι.c54 0.788 o∙537
+                            0.317</cell>
+                        <cell><p>8.201</p><p>: 7∙917</p><p>■
+                                7.026</p><p>7.328</p><p>7.022</p><p>6.709</p><p>6∙.⅛'8</p><p>6.093</p><p>5∙783</p><p>5.491</p><p>5.220</p><p>4.969</p><p>4.758</p><p>4∙534</p><p>4∙31°</p><p>4.084</p><p>3.840</p><p>3∙59o</p><p>3∙33i</p><p>3.081</p><p>2.848</p><p>2.649</p><p>2.516</p><p>2.461</p><p>2∙399</p><p>2.292</p><p>2.124</p><p>1∙903</p><p>1.645</p><p>1.391</p><p>i.092</p><p>0
+                                774</p><p>0.519</p></cell>
+                        <cell><p>7 668 .7.418 .</p><p>7.160</p><p>6.893</p><p>6.619
+                                6∙337</p><p>6.055 5∙777 5∙494 5∙225 4.976 4∙744 4∙551 4∙345 4.136
+                                3∙927 3∙699 3∙463 3.218 2.981 2∙759 2.569
+                                2.441</p><p>2.391</p><p>2∙334</p><p>2-33« 2.074 ι.86i 1.612
+                                1.266</p><p>1.074</p><p>0.762</p><p>0.513</p></cell>
+                    </row>
+                </table>
+                <p><hi rend="smallcaps">Table</hi> IV. <hi rend="italic">Showing the Ralue of
+                        Λnnuities on Two Joint Lives, according to the Probabilities of the Duration
+                        oſ Human Life among Males and Females collectively, reckoning interest
+                        at</hi> 4 per cent.</p>
+                <p>Intereſt 4 <hi rend="italic">per cent.</hi></p>
+                <p>Difference of 0, 6, 12, and 18 years.</p>
+                <table cols="8">
+                    <row>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                    </row>
+                    <row>
+                        <cell><p>1- I</p><p>2- 2</p><p>3- 3</p><p>4- 4</p><p>⅞- 5</p><p>6-
+                                6</p><p>'7- 7</p><p>'8- 8</p><p>9- 9</p><p>10-10</p><p>I I-I
+                                I</p><p>12-12</p><p>13- 13</p><p>14- 14</p><p>15-
+                                15</p><p>ι&lt;5-ι6</p><p>17- 17</p><p>18- 18</p><p>19- iQ</p></cell>
+                        <cell><p>12.252</p><p>,3∙5^3
+                                i4∙558</p><p>15.267</p><p>i5∙5-77</p><p>15.820</p><p>16.003</p><p>16.109</p><p>16.152</p><p>16.141</p><p>I
+                                6.087</p><p>15.982</p><p>∑5∙855</p><p>l5.701 i5∙535 15.361
+                                15.196</p><p>15.023</p><p>14.854</p></cell>
+                        <cell><p>1- 7</p><p>2- 8</p><p>3- 9</p><p>4-
+                                10</p><p>5'li</p><p>6-12</p><p>7- J3</p><p>8- 14</p><p>9- 15
+                                ιo-ι6</p><p>11- 17</p><p>12- 18</p><p>i3",9</p><p>i4-2c</p><p>I
+                                Ç-2I</p><p>l6-2 2</p><p>17∙23</p><p>18-24 I9-2ζ</p></cell>
+                        <cell><p>13.989 14.780 l5∙323 (5.685 15.817</p><p>15.887 i5∙914</p><p>15.888
+                                15.824 15.729 15.617 15-47 7 I5&lt;P7 15.164 15.001 14.832
+                                14.66y</p><p>14.491</p><p>14.320</p></cell>
+                        <cell><p>»-IS</p><p>2- i4</p><p>3- 15</p><p>4- 16</p><p>5- 17</p><p>6-
+                                18</p><p>7- 19</p><p>8- 20</p><p>9-21</p><p>10- 3 2</p><p>11-
+                                23</p><p>X2-24</p><p>,325</p><p>14- 26</p><p>15- 27 ι6-2b</p><p>17-
+                                29</p><p>18- 30</p><p>*9-31</p></cell>
+                        <cell>13.894 ‘4*557 14.988 i5.259 15.326 ,5∙354 ‘5-35’ t5∙3,° 15.244 15.149
+                            i5∙°23 14.889 14∙73δ 14.566 14∙392 14.216 14.042 13.860 13.687</cell>
+                        <cell><p>∣-i9 2-20</p><p>3-21</p><p>4- 22</p><p>5- 23</p><p>6- 24</p><p>7-
+                                25</p><p>8- 26</p><p>9- 27 1O∙2⅛</p><p>11- 29</p><p>12-
+                                3c</p><p>13^31</p><p>‘4-32</p><p>‘5*33</p><p>16-34</p><p>&lt;7-35</p><p>18-36</p><p>19*37</p></cell>
+                        <cell><p>l3∙389 14.00» 14∙417 14.671 i4∙735 14.74c 14.727 M∙673 14.590
+                                14.484 14∙357 14.202 14.045 '3∙874 13.70c 13∙52c i3∙34c
+                                13.141</p><p>12.934</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>ZO∙2C</p><p>21-21</p><p>22-22</p><p>’3 2x</p><p>24- ∙z∏</p><p>25-
+                                25 : 6-2ij 27-27 2 8-21'</p><p>29-29 3o'3c 31∙31 32*32</p><p>33-
+                                33</p><p>34- 34 3535</p><p>36- 3i5</p><p>37- 37</p><p>38-
+                                3b</p><p>39- 39</p><p>40- 40</p><p>41 41</p><p>42- 42</p><p>43-
+                                43</p><p>44- 44</p><p>45- 45</p><p>46- 46 4747</p><p>48-
+                                4s</p><p>49- 49</p><p>50- 5g</p><p>51- 51</p><p>52- 52
+                                53*53</p><p>54-54 ^5-55</p><p>56- 56</p><p>57- 57</p><p>58-
+                                58</p><p>59- 59 60 6°</p><p>61- 61</p><p>62- 62</p><p>63-
+                                63</p><p>64- 64 65.65 66-66 67∙67 68∙6b</p><p>69- 69</p><p>70-
+                                70</p><p>71- 7i</p><p>72- 72</p><p>73- 73</p><p>74- 74</p><p>75-
+                                75</p><p>76- 76 77∙77</p><p>78- 78</p><p>79- 79</p><p>80-
+                                80</p><p>81- 81</p><p>82- 82 ⅛ θ3 84-84</p></cell>
+                        <cell><p>14.682 IT525 14.36c</p><p>14.I94</p><p>i4.θ2c</p><p>13 S49 13-671
+                                13∙495 *3∙32j 13.148 12.965 12∙79^) 12.624 12.456
+                                12.286</p><p>12.109 11.90' ii.68 3 ii.452 11.209 10.96.] 1 0.722
+                                10∙531 10 246</p><p>10 154</p><p>9 954 9∙736 9∙497 9.236
+                                8.966</p><p>8
+                                707</p><p>8.469</p><p>8.23c</p><p>7∙994</p><p>7.748</p><p>7∙495</p><p>7.229</p><p>6.924</p><p>6.678</p><p>6.388</p><p>6.104
+                                .5∙844</p><p>5.600
+                                5∙367</p><p>5.128</p><p>4.881</p><p>4.626</p><p>4.362 4.103 3∙85i
+                                3∙593 3∙345</p><p>3.128 2∙935 2.797 2.648 2.490 2.340 ■2.170 1f∙.967
+                                &lt;1.758</p><p>ι.6oa</p><p>■1.472</p><p>1.364</p><p>1.276</p></cell>
+                        <cell><p>2 0-2 6</p><p>21- 27</p><p>22- 2⅛</p><p>23- 2S∙</p><p>24-
+                                33</p><p>25- 31 20-32 27∙33 28.34 29-35 3^-30 31-37 j2-38</p><p>53
+                                39</p><p>34- 4⅛</p><p>35- 4j 3^-4j 37-43 38 44</p><p>39-
+                                45</p><p>40- 46</p><p>41- 47</p><p>42- 48</p><p>43- 49 +4∙5c +5-5i
+                                +6-5.2 47-53 48∙54 -÷9-55 50- cC</p><p>&gt;1*57 5 2-58
+                                ∙5'3-59</p><p>54 OC</p><p>55-6l</p><p>56 62</p><p>57- 6 i</p><p>58-
+                                63 59∙65 0o-66 61-67</p><p>62 68</p><p>63- 69</p><p>64- 70</p><p>65-
+                                71 b6-72 07-73 08∙74</p><p>69- 75</p><p>70- 76</p><p>71-
+                                77</p><p>72- 78</p><p>73- 79</p><p>74- 8c</p><p>75- 81</p><p>76- 82
+                                •77-83</p><p>78-84 79 ^5 80-86 3i∙'87</p><p>82- 88</p><p>83-
+                                b9</p><p>84- 90</p></cell>
+                        <cell><p>r4i44l i3∙976 13 807 l3∙f&gt;35 i3-455 13.2S4 13.100 12.935· 12.763
+                                12.586 12.390 i 2.192 I 1.988 ιι.∙779 I 1.568 I Ict6ι I 1.156 10.953
+                                -10.741 10.519 10.286</p><p>IO.C49</p><p>9.813 9.58j 9∙35i 9.129
+                                8.897 8 658 8∙4^,^ 8.139 7∙874 7∙613 7∙351 7.083 6∙814</p><p>Ö-555
+                                6*299 6-045 5.788 5 5,9 5.249 4.984</p><p>.4∙729</p><p>4.482 4.231
+                                3.982 3∙75C 3∙527 3∙34c 3∙i47 2 946 2∙752 2.558 2∙355 2.172 2017
+                                i-8'77 1.756 1.639 i 52zj 1.41( I 32c 1.225 1.094 O.ÇO2 1</p></cell>
+                        <cell><p>20- 32</p><p>21- 33 i2-34 2 3-3 5 ^4-36</p><p>25- 37</p><p>26-
+                                38</p><p>27- 39</p><p>28- 40</p><p>29- 41</p><p>30- 42 3*∙43 5 2 ^44
+                                33-45 34 40 &lt;5-47</p><p>36- 48</p><p>37- 49 3«-5-
+                                rct-51</p><p>40- 52</p><p>41- 53 +2-54</p><p>43- 55</p><p>44- 5 6
+                                45∙57</p><p>46- 58</p><p>47- 59</p><p>48- 60 49 61</p><p>50-
+                                62</p><p>51- 6;</p><p>52- 64</p><p>53- 65</p><p>54- 66</p><p>55-
+                                0;</p><p>56- 68 57 65.</p><p>58- 7c</p><p>59- 7’ 6c-72 61-73’ 62 74
+                                03*75</p><p>64- 76</p><p>65- 77</p><p>66- 78;</p><p>67.79 68-80 69
+                                81 7c-82 7‘-83 72-84 73∙85 74∙86</p><p>75-8;</p><p>76 88</p><p>77-
+                                s9</p><p>78- 9&lt;</p><p>79- 91 80∙92 81-.93i
+                                82∙94</p><p>83-9&lt;</p></cell>
+                        <cell><p>I 3.5 I 2 13∙345ι i3∙173 12997 I2.8θJ '2∙599 12.387</p><p>12.17c
+                                il∙903</p><p>II 742 11∙543 11∙359 1 ι∙17c 10-978 io.775 1°∙557
+                                l0∙314 10.059</p><p>9.805 9∙SS^ 9∙3oξ9∙066 8∙83c 8∙597 8-354 8∙101 7
+                                841 7∙563 7∙281 7∙008 6∙74c 6∙5c5 6∙256 6∙004 5-743 5’474 5 20z&lt;
+                                4 9?6 4∙C6∏ 4*395 4.14s 3∙927 3’747 3∙563 3∙37^- 3∙18c 2∙974 2*743
+                                2∙514 2∙324 2'J55 2∙004 1∙875 1∙768 1∙692 1 ' i∙2]97 i'339 ι∙097 0
+                                863 0∙∙638 o∙ 5 I I 0.427 c∙379</p></cell>
+                        <cell><p>20-38 21*39</p><p>22- 40</p><p>23- 41 24.42 25-43 26 44 27∙45 2
+                                8-46</p><p>29- 47</p><p>30- 48</p><p>31- 49</p><p>32- 50</p><p>33-
+                                51</p><p>34- 52</p><p>35- 53 3^-'54</p><p>37- 53</p><p>38- 56 39∙57
+                                -to-5h -4χ∙59 42-Cc 43.61 4-4*6: 45i63 46-64 47j6∙ +8÷6(</p><p>49-
+                                67</p><p>50- 68</p><p>51- 65</p><p>52- 7c</p><p>53- 7i</p><p>54-
+                                72</p><p>55- 75</p><p>56- 7fi</p><p>57- 7.l</p><p>58- 76</p><p>59-
+                                77 60.7t</p><p>61- 71.</p><p>62- 8c</p><p>63- 81</p><p>64-
+                                8:</p><p>65- K3</p><p>66- 8,i</p><p>67- 85</p><p>68- 86 69-87 70.8l
+                                71-^9 72∙9c</p><p>73- 91</p><p>74- 9; 75*93 76-94 77’95</p></cell>
+                        <cell><p>12.720</p><p>12.505</p><p>12.280</p><p>12.073</p><p>II.873</p><p>11.683</p><p>II.48^5</p><p>II.284</p><p>11.07
+                                2</p><p>10 847</p><p>10.606</p><p>1&lt;&gt;365</p><p>10.128</p><p>9
+                                9o5</p><p>9.679</p><p>9∙452</p><p>9.207</p><p>8.95
+                                i</p><p>8.683</p><p>8
+                                404</p><p>8.124</p><p>7-839</p><p>7.569</p><p>7.318</p><p>7-075</p><p>6.836</p><p>6.586</p><p>6.323</p><p>6.048</p><p>5-7^4</p><p>5.487</p><p>5.22
+                                j</p><p>4-955</p><p>4.694</p><p>4-455</p><p>÷231</p><p>4∙c43</p><p>3∙⅛44</p><p>3∙637</p><p>3∙43c</p><p>3.210</p><p>2.974</p><p>2.744</p><p>2∙557</p><p>2.39(</p><p>2.252</p><p>2.123</p><p>2.01C</p><p>I
+                                91c</p><p>I.79f</p><p>1.661</p><p>1.464</p><p>1.185</p><p>0937</p><p>0.7c8</p><p>o∙575</p><p>0.481</p><p>0.421</p></cell>
+                    </row>
+                <pb facs="gri_33125011196348_0205.tif" xml:id="eb03-18-s07-0199"/>
+                    <row>
+                        <cell><p>85-85</p><p>8 6-8 6</p><p>87- 87</p><p>88-
+                                88</p><p>89-89</p><p>90-90</p><p>91-91</p><p>92-92</p><p>93
+                                93</p><p>94-94</p><p>95-95</p></cell>
+                        <cell><p>1.21 2</p><p>i 172’</p><p>1.127</p><p>I
+                                071</p><p>0.949</p><p>0.718</p><p>0.516</p><p>0
+                                326</p><p>0.236</p><p>0 Σ90</p><p>0,024</p></cell>
+                        <cell><p>^5∙91</p><p>86-92</p><p>87’93</p><p>88.9a</p><p>89-95</p></cell>
+                        <cell><p>O.725</p><p>O.556</p><p>o∙459</p><p>0.396</p><p>0.364</p></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p><hi rend="smallcaps">Table</hi> V. <hi rend="italic">Showing the Values of two
+                        Joint Lives, according to the Probabilities of the Duration of Human Life
+                        among Males and Females collectively.</hi></p>
+                <p>Intereſt 4 <hi rend="italic">per cent.</hi></p>
+                <p>Difference of age 24, 30, 36, and 42 years.</p>
+                <table cols="8">
+                    <row>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                        <cell>Ages.</cell>
+                        <cell>Values.</cell>
+                    </row>
+                    <row>
+                        <cell><p>1- 2.5</p><p>2- 26</p><p>3'27</p><p>4- 2b</p><p>5- 29</p><p>6-
+                                30</p><p>7- 31</p><p>8- 32</p><p>9- 33</p><p>10- 34 ,ι-35 12-36
+                                &lt;3 37</p><p>14- 38</p><p>15- 39 i 6&gt; 40</p><p>17- 41</p><p>18-
+                                42 ⅛9-43</p><p>20- 4j</p><p>21- 45</p><p>22- 46</p><p>23- 47
+                                24.48</p><p>.f25-zi9</p><p>26 5c ,⅛7-51 1 .28 52</p><p>29 53 30-5d
+                                3J-55 32-5i 33^57 34∙5c</p><p>35- 55</p><p>36- 6c</p><p>37-
+                                61</p><p>38- 62 39'63 40 6i 4i'65</p><p>42- 66</p><p>43-
+                            ^7</p></cell>
+                        <cell><p>12.832 ſe3 409 13.778-.</p><p>14003 14o37 i4∙o33 14 006 l3∙94÷
+                                i3∙855' i3∙74i 13∙6°d i3.428i 13∙23T '3θ23 12.798 ‘2-57° 12∙351 i
+                                2.∑4*, I 1.951</p><p>11.751 I 1.550 ll∙335 ιn07 10.862 10.612 10.364
+                                10.130</p><p>9.894 9.659</p><p>9 413 9.167 8.912</p><p>8 6 ç i 8 389
+                                8.114 7∙833 7∙56i</p><p>7.296</p><p>7∙e33 6763 6.492</p><p>6.225
+                                5∙9i^7 5.689</p></cell>
+                        <cell><p>l'31∣ 2*52j ■ 3-33</p><p>4- 34</p><p>5- 35,</p><p>6- 3 6j 737· 8-38
+                                9'39:</p><p>10- 40</p><p>11- 41'</p><p>I 2-42, 'r 3-43</p><p>14- 44
+                                .15-4S '16-46 ιr7-47 1848</p><p>19- 49</p><p>20- ^0</p><p>21-
+                                5l</p><p>22- 52 '23-53 2454 ∙25^55 t6 56 27^57</p><p>28-
+                                58</p><p>29- 59</p><p>30- 60 31 - ſ I</p><p>32- 62</p><p>33- 63
+                                34^4</p><p>15- 65</p><p>36- 66</p><p>37- ^7</p><p>38- 68 3 9’69
+                                4070</p><p>41- 71</p><p>42- 72</p><p>43- 73 -44:74</p></cell>
+                        <cell><p>12.196 12.730 13 066 13.264 13.277 13 242 13.r7o 13∙o59 12.913 ‘ 2
+                                743</p><p>12 563</p><p>12∙379</p><p>• 2.196 LI.997 1i.787 IX y62 II
+                                328</p><p>1 1 076 10.819 10 567 ,O 332 10 c92</p><p>9
+                                852</p><p>9.602</p><p>9∙347 9.080 8.807 8-534 8 250 7.967 7.702
+                                7.446</p><p>7 196</p><p>6.942 6.679 6.402 6 11 ⅛ ς.828</p><p>5∙543
+                                5∙254 4-977 4-73° 4∙Sσ7 4.32-s</p></cell>
+                        <cell><p>ι-37</p><p>2- 38</p><p>3- 39</p><p>4.40
+                                y-41</p><p>6-42</p><p>7∙43</p><p>8- 44</p><p>9- 45</p><p>10-
+                                46</p><p>11- 47</p><p>12- 48 13∙49 !i4-50 l15-51 !16-52 47-53 ∣18-54
+                                *9∙55 ∣2O∙5( 41-57 •22-58</p><p>23- 59</p><p>24- 6c 25∙61</p><p>26-
+                                62</p><p>27- 63</p><p>28- 64</p><p>29- 65 30 66 21 67 32-68 33'69
+                                ∣[34-7o 35-71 j36-72</p><p>37- 73</p><p>38- 74</p><p>39- 75 4c-7i
+                                ∣41*77 ⅛42-78</p><p>43- 7Ç</p><p>44- 8c</p></cell>
+                        <cell><p>II.465:</p><p>II.9i3</p><p>12.164</p><p>12.284 i2242
+                                I2∙l8c</p><p>12.112-</p><p>X 2.004</p><p>11 865</p><p>Il
+                                694</p><p>11 492 ii.259 1r.011</p><p>10.759</p><p>10-5
+                                Ι-</p><p>ΙΟ.264</p><p>IO O»K</p><p>9 76r</p><p>9.500</p><p>9
+                                228</p><p>• s∙953'</p><p>8-67 s</p><p>8
+                                385</p><p>8.097</p><p>7.823</p><p>7/557</p><p>7 297</p><p>7
+                                03?</p><p>6.761</p><p>6
+                                481</p><p>6.197</p><p>5∙9'7</p><p>5.642</p><p>5
+                                364</p><p>5∙°93</p><p>4 840 ÷603 4.405</p><p>4 195</p><p>3
+                                9"S</p><p>3 7f&gt;2</p><p>5-539</p><p>3∙^9i</p><p>3.052</p></cell>
+                        <cell><p>1'43 2∙44</p><p>■ 3*45</p><p>4-46</p><p>5 47</p><p>6- 48</p><p>7-
+                                49</p><p>8- ço·</p><p>951</p><p>10-52 11"53 12-54 ∙13-55
+                                ,4^5'</p><p>15- 57</p><p>16- 58 17.59 18 6o 19-61 ^0-62 '2 J∙.63 2
+                                2-64 33 65 *24-60</p><p>25- 67</p><p>26- 68</p><p>27- 69</p><p>28-
+                                7c</p><p>12 9-7'</p><p>30-72 '31-73 32-74 '3.3-75</p><p>34-
+                                76</p><p>35- 77</p><p>36- 78</p><p>37- 79 ’38-80 39.81</p><p>40-
+                                82</p><p>41- 83</p><p>42- 84</p><p>43- 8 5</p><p>44- 86</p></cell>
+                        <cell><p>IO.546</p><p>10.&lt;&gt;46</p><p>11
+                                168</p><p>11.260</p><p>U.183</p><p>1 06-∣</p><p>10.915</p><p>10.743
+                                ιo. too</p><p>1°-357 1O∙ 140</p><p>9.898</p><p>9 644</p><p>9
+                                371</p><p>9 087</p><p>8 799</p><p>8.503</p><p>8 Zθ8</p><p>7
+                                928</p><p>7.658</p><p>7 396</p><p>7.127</p><p>6
+                                851</p><p>6.566</p><p>6.275</p><p>5.9⅛6</p><p>5∙7°2</p><p>5∙415</p><p>5
+                                i30</p><p>4.881</p><p>4.646</p><p>4 453</p><p>4∙25*</p><p>4
+                                040</p><p>3 s33</p><p>3 i&gt;o5</p><p>3∙352</p><p>3.098</p><p>2
+                                889</p><p>2.710</p><p>2-553</p><p>2.418</p><p>2
+                            305</p><p>2.203</p></cell>
+                    </row>
+                    <row>
+                        <cell><p>45- 69</p><p>46- 70</p><p>47- 71</p><p>48- 72</p><p>49- 73
+                                jo-74</p><p>51- 75</p><p>52- 76</p><p>53- 77</p><p>54- 78</p><p>55-
+                                79</p><p>56- 80</p><p>57 81</p><p>58-82 .i 9 8 3∙</p><p>60-
+                                84</p><p>61- 85;</p><p>62- 86; ^3-87 64-88</p><p>65.89</p><p>66-
+                                90</p><p>67- 91 .)8-92 09∙93</p><p>70-94 7i∙9'</p></cell>
+                        <cell><p>5.426</p><p>5 153</p><p>4 884</p><p>4 633</p><p>4
+                                398</p><p>4.205</p><p>4 008</p><p>3 803</p><p>3
+                                &lt;fo&gt;</p><p>3∙389</p><p>3∙i50</p><p>2 909</p><p>2.710</p><p>2
+                                539</p><p>2
+                                385</p><p>2.248</p><p>2∙J35</p><p>2.037</p><p>i.916</p><p>1.790</p><p>1.585</p><p>1.290</p><p>I.CI7</p><p>0.764</p><p>0.617</p><p>0.514</p><p>0.4
+                                I I</p></cell>
+                        <cell><p>45-75 +6-76 47-77 ſ8 78 49-79 Jo-So ,-ι∙8ι ,2 82</p><p>53-
+                                83</p><p>54- 84 55∙85 ,6-86 5 7-8 7 58∙88 59-89 6o∙ 90 61-91
+                                62∙92</p><p>63- 93</p><p>64- 94</p><p>65- 95</p></cell>
+                        <cell><p>4.i28</p><p>3∙921 3715 3∙489 3.238 2.990 2 792 2 623 2-475 2 344
+                                2.232 2.130 2.010</p><p>1.864 I 644 ι∙333 I.O,'G O.789
+                                O.639</p><p>O533 O.456</p></cell>
+                        <cell><p>45- 81</p><p>46- 82 +7⅝ 48-84 4985 jo∙86 '51-87</p><p>52-
+                                8S</p><p>53- 89</p><p>54- 9- 55^ι 5 0.-9 2</p><p>57- 93</p><p>58-
+                                94</p><p>59'95</p></cell>
+                        <cell><p>2.854</p><p>2 684</p><p>2∙53f</p><p>2
+                                396</p><p>2.277</p><p>2.171</p><p>2.05c</p><p>1.901</p><p>i.68ι</p><p>1.36C</p><p>i
+                                078</p><p>0 810</p><p>: o∙655</p><p>0.546</p><p>Q∙46⅛</p></cell>
+                        <cell><p>⅛87</p><p>46- 88</p><p>47- 89</p><p>48- 9Ό</p><p>49-
+                                9l</p><p>5O∙92</p><p>51- 93</p><p>52- 94</p><p>53-
+                            95</p><p>ίΐ</p></cell>
+                        <cell><p>2.∙c83</p><p>1∙933</p><p>1.708</p><p>■•385</p><p>1.090</p><p>0.818</p><p>0.662</p><p>0.551</p><p>0.468</p></cell>
+                    </row>
+                </table>
+                <p>The values of joint lives in theſe tables have been computed for only one rate of
+                    intereſt ; and of ſingle lives in Table III. for only two rates oſ intereſt. The
+                    following rules will ſhow, that it would be a needleſs labour to compute theſe
+                    values (in ſtrict conformity to the obſervations) for any other rates of
+                    intereſt.</p>
+                <p><hi rend="smallcaps">Account</hi> of a method of deducing, from the correct
+                    values (according to any obſervations) of any tingle or joint lives at one rate
+                    of intereſt, the ſame values at other rates of intereſt.</p>
+                <p><hi rend="smallcaps">Preliminary Problems.</hi></p>
+                <p><hi rend="smallcaps">Prob.</hi> I. The expectation given oſ a single life by any
+                    table of observations, to find its value, ſupposing the decrements of life
+                    equal, at any given rate of intereſt.</p>
+                <p><hi rend="italic">Solution.</hi> Find the value of an annuity certain for a
+                    number of years equal to twice the expectation. Multiply this value by the
+                    perpetuity increaſed by unity, and divide the product by twice the expectation :
+                    The quotient ſubtracted from the perpetuity will be the value required.</p>
+                <p><hi rend="italic">Example.</hi> The expectation of a male life aged 10, by the
+                    Sweden obſervations, is 43.94. Twice this expectation is 87.88, The value oſ an
+                    annuity certain for 87.88 years is (reckoning intereſt at 4 <hi rend="italic"
+                        >per cent.}</hi> 24.200. The product of 24.200 into 26 (the perpetuity
+                    increaſed by unity) is 62.9.2, which, divided by 87.88, gives 7.159. And this
+                    quotient ſubtracted from 25 (the perpetuity) gives 17.84 years purchaſe, the
+                    value of a life aged ten, deduced from the expectation of life at that age,
+                    according to the Sweden obſervations. (See the Tables in Dr Price on.
+                    Reversions, vol ii.).</p>
+                <p><hi rend="smallcaps">Prob.</hi> II. Having the expectations given of any two
+                    lives by any table of obſervations, to deduce from thence the value of the joint
+                    lives at any rate of intereſt, ſuppoſing an equal decrement of life.</p>
+                <p>Solution. find the difference between twice the expec-<pb
+                        facs="gri_33125011196348_0206.tif" xml:id="eb03-18-s07-0200"/> tation of the
+                    youngeſt life and twice the expectation of the oldeſt life increased by unity
+                    and twice the perpetuity. Multiply this difference by the value of an annuity
+                    certain for a time equal to twice the expectation of the oldeſt life ; and by
+                    twice the same expectation divide the product, reſerving the quotient.</p>
+                <p>From twice the perpetuity ſubtract the reſerved quotient, and multiply the
+                    remainder by the perpetuity increaſed by unity. This laſt product divided by
+                    twice the expectation of the youngeſt life, and then ſubtracted from the
+                    perpetuity, will be the required value.</p>
+                <p>When twice the expectation of the youngeſt life is greater than twice the
+                    expectation of the oldeſt life increaſed by unity and twice the perpetuity, the
+                    reſerved quotient, inſtead of being ſubtracted from twice the perpetuity, muſt
+                    be added to it, and the ſum, not the difference, multiplied by the perpetuity
+                    increaſed by unity.</p>
+                <p><hi rend="italic">Example,</hi> Let the joint lives propoſed be a female life
+                    aged 10, and a male life aged 15 ; and let the table of obſervations be the
+                    Sweden table for lives in general, and the rate of intereſt 4 <hi rend="italic"
+                        >per cent.</hi> Twice the expectations of the two lives are 90.14 and
+                    83.28.</p>
+                <p>Twice the expectation or the oldeſt life, increaſed by unity, and twice the
+                    perpetuity, is 134.28, which leſſens by</p>
+                <p>90.14 (twice the expectation of the youngeſt life), leaves</p>
+                <p>44.14 for the reſerved remainder. This remainder multiplied by 24.045 (the value
+                    of an annuity certain for 83.28 years), and the product divided by 83.28 (twice
+                    the expectation of the oldeſt liſe), gives 12.744, the quotient to be reſerved ;
+                    which ſubtracted from double the perpetuity, and the remainder (or 37.255)
+                    multiplied by the perpetuity increaſed by unity (or by 26) gives 968.630, which
+                    divided by 90.14 (twice the expectation of the youngeſt life) and the quotient
+                    ſubtracted from the perpetuity, we have 14.254 for the required value.</p>
+                <p>The value of an annuity certain, when the number of years is a whole number with
+                    a fraction added (as will be commonly the case) may be beſt computed in the
+                    following manner. In this example the number of years is 83.28. The value of an
+                    annuity certain for 83 years is 24.035. The ſame value for 84 years is 24.072.
+                    The difference between theſe two values is 0.37 ; which difference multiplied by
+                    .28 (the fractional part oſ the number of years), and the product (.0103) added
+                    to the leaſt ot the two values, will give 24.045 the yalue for 83.28 years.</p>
+                <p><hi rend="italic">General Rule.</hi> Call the correct value (ſuppoſed to be
+                    computed for any rate of intereſt) the first value. Call the value deduced (by
+                    the preceding problems) from the expectations at the ſame rate of intereſt, the
+                    ſecond value. Call the value deduced from the expectations for any other rate of
+                    intereſt the third value.</p>
+                <p>Then the difference between the first and ſecond values added to or ſubtracted
+                    from the third value, juſt as the first is greater or leſs than the ſecond, will
+                    be the value at the rate of intereſt for which the third value has been deduced
+                    from the expectations.</p>
+                <p>The following examples will make this perfectly plain.</p>
+                <p><hi rend="italic">Example</hi> I. In the two laſt tables the correct values are
+                    given of two joint lives among mankind, at large, without diſtinguiſhing between
+                    males and females, according to the Sweden obſervations, reckoning intereſt at 4
+                        <hi rend="italic">per cent.</hi> Let it be required to find from theſe
+                    values the values at 3 <hi rend="italic">per cent.</hi> and let the ages of the
+                    joint lives be ſuppoſed 10 and 10.</p>
+                <p>The correct value by Table IV. (reckoning intereſt at 4 <hi rend="italic">per
+                        cent.)</hi> is 16.141. The expectation of a life aged 10 is 45.07. The value
+                    deduced from this expectation at 4 per <hi rend="italic">cent,</hi> by Prob. II.
+                    is 14.539. The value deduced by the ſame problem from the ſame expectation at 3
+                        <hi rend="italic">per cent.</hi> is 16.808. The difference between the first
+                    and ſecond values is 1.602, which, added to the third value (the first being
+                    greater than the second), makes 18.410, the value required.</p>
+                <p><hi rend="italic">Example</hi> II. Let the value be required of a single male
+                    life aged 10, at .3 <hi rend="italic">per cent.</hi> intereſt, from the correct
+                    value at 4 <hi rend="italic">per cents</hi> according to the Sweden
+                    obſervations.</p>
+                <p>Firſt, or correct value at 4 <hi rend="italic">per cent.</hi> (by Table III.) is
+                    18.674. The expectation of a male life aged 10 is 43.94.</p>
+                <p>The ſecond value (or the value deduced from this expectation by Prob. I.) is
+                    17.838.</p>
+                <p>The third value (or the value deduced from the same expectation at 3 <hi
+                        rend="italic">per cent)</hi> is 21.277.</p>
+                <p>The difference between the first and ſecond is .836; which (ſince the first is
+                    greater than the ſecond) muſt be added to the third ; and the ſum (that is,
+                    22.113) will be the value required.</p>
+                <p>The third value at 5 <hi rend="italic">per cent.</hi> is 15.286 ; and the
+                    difference added to 15.286 makes <hi rend="italic">16.122</hi> the value of a
+                    male life aged 10 at 5 <hi rend="italic">per cent.</hi> according to the Sweden
+                    obſervations. The exact value at 5 <hi rend="italic">per cent.</hi> is (by Table
+                    III.) 16.014.</p>
+                <p>Again : The difference between 16,014 (the correct value at 5 <hi rend="italic"
+                        >per cent.),</hi> and 15.286 (the value at the ſame intereſt deduced from
+                    the expectation ), is .728 ; which, added (becauſe the first value is greater
+                    than the ſecond) to 13.335 (the value deduced at 6 <hi rend="italic">per
+                        cent,</hi> from the expectation) gives 14.063, the value of the ſame life,
+                    reckoning intereſt at 6 <hi rend="italic">per cent.</hi></p>
+                <p>Theſe deductions, in the caſe of ſingle lives particularly, are ſo eaſy, and give
+                    the true values ſo nearly, that it will be ſcarcely ever neceſſary to calculate
+                    the exact values (according to any given obſervations) for more than one rate of
+                    intereſt,</p>
+                <p>If,· <hi rend="italic">for</hi> inſtance, the correct values are computed at 4
+                        <hi rend="italic">per cent.</hi> according to any obſervations, the values
+                    at 3, 3 1/2, 4 1/2, 5, 6, 7, or 8 <hi rend="italic">per cent,</hi> may be
+                    deduced from them by the preceding rules as occasion may require, without much
+                    labour or any danger of conſiderable errors. The values thus deduced will seldom
+                    differ from the true values ſo much as a tenth of a year’s purchase. They will
+                    not generally differ more than a 2c4h or 3cth of a year’s purchaſe. In joint
+                    lives they will differ leſs than in single lives, and they will come equally
+                    near to one another whatever the rates of intereſt are.</p>
+                <p>The preceding tables furniſh the means of determining the exact differences
+                    between the values of annuities, as they are made to depend on the ſurvivorſhip
+                    of any male or female lives ; which hitherto has been a desideratum <hi
+                        rend="italic">of</hi> considerable conſequence in the doctrine, of
+                    life-annuities. What has made this of conſequence is chiefly the multitude of
+                    ſocieties lately establiſhed in this and foreign countries for providing
+                    annuities for widows. The general rule for calculating from theſe tables the
+                    value of ſuch annuities is the following.</p>
+                <p><hi rend="italic">Rule.,</hi> “ Find in Table III. the value of a female liſe at
+                    the age of the wife. From this value ſubtract the value in Table IV. of the
+                    joint continuance of two lives at the ages of the husband and wife. The
+                    remainder will be the value in a ſingle preſent payment of an annuity for the
+                    life of the wife, ſhould ſhe be left a widow. And this laſt value divided by the
+                    value of the joint lives increaſed by unity, will be the value of the ſame
+                    annuity in annual payments during the joint lives, and to commence
+                    immediately.”</p>
+                <p><hi rend="italic">Example.</hi> Let the age of the wife be 24, and of the husband
+                    30. The value in Table III. (reckoning intereſt at 4 <hi rend="italic">per
+                        cent.)</hi> of a female life aged 24, is 17.252. The value in Table IV. of
+                    two joint lives aged 24 and 30, is 13. 455, which ſubtracted from 17.252 leaves
+                    3.797, the<pb facs="gri_33125011196348_0207.tif" xml:id="eb03-18-s07-0201"/>
+                    value in a single present payment of an annuity of L. 1 for the life of the wife
+                    after the husband ; that is, for the life of the widow. The annuity, therefore,
+                    being ſuppoſed L.20, its value in a single payment is 20 multiplied by 3.797,
+                    that is, L. 75.94. And this laſt value divided by 14.455 (that is, by the value
+                    of the joint lives increaſed by unity), gives 5.25, the value in annual payments
+                    beginning immediately, and to be continued during the joint lives of an annuity
+                    of <hi rend="smallcaps">L.20</hi> to a wife aged 24 for her life, after her
+                    husband aged 30.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

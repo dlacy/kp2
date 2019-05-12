@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0426-03"
+                facs="encyclopaediabri23chisrich_0459.jp2" type="entry">
+               <p>                   <label>ROCHEFORT, HENRI</label>, <hi rend="smallcaps">Marquis de Rochefort-Luçay</hi>
+                    (1830- ), French politician, was born in Paris on the 30th of January 1830. His father was
+                    a Legitimist noble who as “ Edmond Rochefort ” was well known as a writer of vaudevilles;
+                    his mother’s views were republican. After experience as a medical student, a clerk at the
+                    Hôtel de VUle, a playwright and a journalist, he joined the staff of the <hi rend="italic"
+                        >Figaro</hi> in 1863; but a series of his articles, afterwards published as <hi
+                        rend="italic">Les Français de la Décadence</hi> (3 vols., 1866-68), brought the paper
+                    into collision with the authorities and caused the termination of his engagement. In
+                    collaboration with different dramatists he had meanwhile written a long series of
+                    successful vaudevilles, which began with the <hi rend="italic">Monsieur bien mis</hi> at
+                    the Folies Dramatiques in 1856. On leaving the <hi rend="italic">Figaro</hi> Rochefort
+                    determined to start a paper of his own, <hi rend="italic">La Lanterne.</hi> The paper was
+                    seized on its eleventh appearance, and in August 1868 Rochefort was fined 10,000 francs,
+                    with a year’s imprisonment. He then published his paper in Brussels, whence it was
+                    smuggled into France. Printed in French, English, Spanish, Italian and German, it went the
+                    round of Europe. After a second prosecution he fled to Belgium. A series of duels, of
+                    which the most famous was one fought with Paul de Cassagnac a propos of an article on Joan
+                    of Arc, kept Rochefort in the public eye. In 1869, after two unsuccessful candidatures, he
+                    was returned to the Chamber of Deputies by the first circonscription of Paris. He was
+                    arrested on the frontier, only to be almost immediately released, and forthwith took his
+                    seat. He renewed his onslaught on the empire, starting a new paper, the <hi rend="italic"
+                        >Marseillaise,</hi> as the organ of political meetings arranged by himself at La
+                    Villette. The staff was appointed on the votes of the members, and included Victor Noir
+                    and Pascal Grousset. The violent articles in this paper led to the duel which resulted in
+                    Victor Noir’s death at the hands of Prince Pierre Bonaparte. The paper was seized, and
+                    Rochefort and Grousset were sent to prison for six months. The revolution of September was
+                    the signal for his release. He became a member of the government of National Defence, but
+                    this short association with the forces of law and order was soon broken on account of his
+                    openly expressed sympathy with the Communards. On the nth of May 1871 he fled in disguise
+                    from Paris. A week earlier he had resigned with a handful of other deputies from the
+                    National Assembly ratjier than countenance the dismemberment of France. Arrested at Meaux
+                    by the Versailles government, he was detained for some time in prison with a nervous
+                    illness before he was condemned under military law to imprisonment for life. In spite of
+                    Victor Hugo’s efforts on his behalf he was transported to New Caledonia. In 1874 he
+                    escaped on board an American vessel to San Francisco. He lived in London and Geneva until
+                    the general amnesty permitted his return to France in 1880. In Geneva he resumed the
+                    publication of <hi rend="italic">La Lanterne,</hi> and in the Parisian papers articles
+                    constantly appeared from his pen. When at length in 1880 the general amnesty</p>                <pb xml:id="eb11-23-r03-0427" facs="encyclopaediabri23chisrich_0460.jp2"/>
+               <p>permitted his return to Paris he founded <hi rend="italic">L'Intransigeant</hi> in the
+                    Radical and Socialist interest. For a short time in 1885-86 he sat in the Chamber of
+                    Deputies, but found a great opportunity next year for his talent for inflaming public
+                    opinion in the Boulangist agitation. He was condemned to detention in a fortress in August
+                    1889 at the same time as General Boulanger, whom he had followed into exile. He continued
+                    his polemic from London, and after the suicide of General Boulanger he attacked M.
+                    Constans, minister of the interior in the Freycinet cabinet, with the utmost violence, in
+                    a series of articles which led to an interpellation in the chamber in circumstances of
+                    wild excitement and disorder. The Panama scandals furnished him with another occasion, and
+                    he created something of a sensation by a statement in the <hi rend="italic">Figaro</hi>
+                    that he had met M. Clemenceau at the table of the financier Cornélius Herz. In 1895 he
+                    returned to Paris, two years before the Dreyfus affair supplied him with another <hi
+                        rend="italic">point d’appud.</hi> He became a leader of the anti-Dreyfusards, and had
+                    a principal share in the organization of the press campaign. Subsequently he was editor of
+                        <hi rend="italic">La Patrie.</hi>
+               </p>               <p>Besides his plays and articles in the journals he published several separate works, among
+                    them being: <hi rend="italic">Les Petits Mystères de l’Hôtel des Ventes</hi> (1862), a
+                    collection of nis art criticisms; Les <hi rend="italic">Depraves</hi> (Geneva, 1882); <hi
+                        rend="italic">Les Naufrageurs</hi> (1876); <hi rend="italic">L'Evadé</hi> (1883), <hi
+                        rend="italic">Napoleondernier</hi> (3 vols., 1884); and <hi rend="italic">Les
+                        Aventures de ma vie</hi> (5 vols., 1896).</p>            </div>
+        </body>
+    </text>
+</TEI>

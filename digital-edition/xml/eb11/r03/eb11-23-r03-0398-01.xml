@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0398-01"
+                facs="encyclopaediabri23chisrich_0421.jp2" type="entry">
+
+                <p><label>ROBERT II.</label> (1316-1390), called “the Steward,” king of Scotland,
+                    was a son of Walter, the steward of Scotland (d. 1326), and Marjorie (d. 1316),
+                    daughter of King Robert the Bruce, and was born on the 2nd of March 1316. In
+                    1318 the Scottish parliament decreed that if King Robert died without sons the
+                    crown should pass to his grandson; but the birth of a son, afterwards King David
+                    II., to Bruce in 1324 postponed the accession of Robert for nearly forty-two
+                    years. Soon after the infant David became king in 1329, the Steward began to
+                    take a prominent part in the affairs of Scotland. He was one of the leaders of
+                    the Scottish army at the battle of Halidon Hill in July 1333; and after gaining
+                    some successes over the adherents of Edward Baliol in the west of Scotland, he
+                    and John Randolph, 3rd earl of Moray (d. 1346), were chosen as regents of the
+                    kingdom, while David sought safety in France. The colleagues soon quarrelled;
+                    then Randolph fell into the hands of the English and Robert became sole regent,
+                    meeting with such success in his efforts to restore the royal authority that the
+                    king was able to return to Scotland in 1341. Having handed over the duties of
+                    government to David, the Steward escaped from the battle of Neville’s Cross in
+                    1346, and was again chosen regent while the king was a captive in England. Soon
+                    after this event some friction arose between Robert and his royal uncle.
+                    Accused, probably without truth, of desertion at Neville’s Cross, the Steward as
+                    heir-apparent was greatly chagrined by the king’s proposal to make Edward III.
+                    of England, or one of his sons, the heir to the Scottish throne, and by David’s
+                    marriage with Margaret Logie. In 1363 he rose in rebellion, and after having
+                    made his submission was seized and imprisoned together with four of his sons,
+                    being only released a short time before David’s death in February 1371. By the
+                    terms of the decree of 1318 Robert now succeeded to the throne, and was crowned
+                    at Scone in March. 1371. His reign in unimportant. Some steps were taken by the
+                    nobles to control the royal authority. In 1378 a war broke out with England; but
+                    the king took no part in the fighting, which included the burning of Edinburgh
+                    and the Scottish victory at Otterbourne in 1388. As age and infirmity were
+                    telling upon him, the estates in 1389 appointed his second surviving son Robert,
+                    earl of Fife, afterwards duke of Albany, guardian of the kingdom. The king died
+                    at Dundonald on the 13th of May 1390, and was buried at Scone. His first wife
+                    was Elizabeth, daughter of Sir Robert Mure of Rowallan, a lady who had formerly
+                    been his mistress. By her he had at least four sons, the eldest of whom was his
+                    successor, King Robert III., and six daughters. By his second wife, Euphemia,
+                    daughter of Hugh, earl of Ross, and widow of Moray, formerly his</p>
+                <pb xml:id="eb11-23-r03-0399" facs="encyclopaediabri23chisrich_0422.jp2"/>
+               <p>colleague as regent, he had two sons and several daughters; and he had also many
+                    illegitimate children.</p>
+               <p>See Andrew of Wyntoun <hi rend="italic">The Orygynale Cronykil of Scotland,</hi>
+                    edited by. D. Laing (Edinburgh, 1872-1879); John of Fordun <hi rend="sub">1</hi>
+                    <hi rend="italic">Scotichronicon,</hi> continued by Walter Bower, edited by T.
+                    Hearne (Oxford, 1722); John Major, <hi rend="italic">Historia majoris
+                        Britanniae,</hi> translated by A. Constable (Edinburgh, 1892); and P. F.
+                    Tytler, <hi rend="italic">History of Scotland</hi> (Edinburgh, 1841-1843).</p>
+
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

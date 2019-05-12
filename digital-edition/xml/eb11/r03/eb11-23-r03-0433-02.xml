@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0433-02"
+                facs="encyclopaediabri23chisrich_0466.jp2" type="entry">
+
+                <p><label>ROCK-CRYSTAL</label> a colourless and transparent variety of quartz <hi
+                        rend="italic">(q.v.),</hi> used as an ornamental stone. It usually occurs as
+                    crystals lining cavities in quartz-veins, which often run through granite,
+                    gneiss and crystalline schists. The limpidity of the crystal, its coldness to
+                    the touch and its common occurrence in rocks among Alpine glaciers, led to the
+                    ancient belief that it was a kind of congealed water, whence the name crystal,
+                    from Gr. <hi rend="italic">κῥνσταλλς</hi> (ice). In the Swiss Alps the <hi
+                        rend="italic">“Strahler”</hi> or crystal -gatherer, searches the rocks at
+                    much personal risk, and is often led to a drusy cavity by tracing narrow veins,
+                    or strings, of quartz on the mountain-side. A remarkable druse, or <hi
+                        rend="italic">Krystalkeller,</hi> discovered at Zinkenstock in the Bernese
+                    Oberland, in 1719, yielded about 20 tons of crystal, a single specimen weighing
+                    8 cwt. The famous discovery of the Galenstock, in 1867, furnished magnificent
+                    crystals, but they were dark brown or smoky quartz. La Gardette, near Le Bourg
+                    d'Oisans, in the Alps of Dauphiné, is a notable locality for fine specimens of
+                    rock-crystal. The Alps and India probably furnished the ancients with their
+                    supplies.</p>
+               <p>Rock-crystal has been used for ornamental purposes since the Mycenean period. By
+                    the Romans under the Empire it was highly valued, and carved into vases and
+                    goblets, in some cases elaborately engraved. Lenses or globes were used for
+                    kindling the sacred vestal fire and for cauterizing the flesh, whilst ladies
+                    carried balls of crystal in order to cool their hands during the heat of summer.
+                    The artists of the Early Renaissance greatly favoured the use of rock-crystal,
+                    and executed beautiful carvings in this material. In modern times the use of
+                    rock-crystal has been largely superseded by that of glass, and it is notable
+                    that flint-glass is known in France as <hi rend="italic">“ cristal”</hi>
+                    probably from its resemblance to limpid quartz, or perhaps from the fact that
+                    powdered rock-crystal has been used as a source of silica in the manufacture of
+                    the finest glass. Rock-crystal is still cut as a faceted stone for personal
+                    decoration, but though not without brilliancy it lacks the “ fire ” of many
+                    gemstones. It is often known locally by such names as Bristol diamond, Cornish
+                    diamond, Isle of Wight diamond, Briançon diamond, Marmaros diamond, Lake George
+                    diamond, &amp;c. Rock-crystal is also carved into seals, paper-weights and
+                    other trivial objects, and into spheres for divination by crystal-gazing,
+                    Japanese balls being specially noteworthy. In Japan the crystal has been
+                    obtained for centuries from the granitic districts around Kimpū-san, in the
+                    province of Kai. Probably the most valuable application of rock-crystal is for
+                    spectacle lenses, which in consequence of their hardness are not readily abraded
+                    by use. They should be cut at right angles to the optic axis, or axis of the
+                    prism.</p>
+               <p>The “ pebble ” for lenses is found loose in the soil in many parts of the
+                    provinces of Goyaz, Sao Paulo and Minas Geraes in Brazil. Much of the material
+                    for spectacles comes also from Madagascar, where large crystals of clear quartz
+                    are found in the beds of certain streams, especially in the N.E. part of the
+                    island, having probably</p>
+               <p>been derived from quartz-veins in the gneiss and pegmatite. In India
+                    rock-crystal has been worked at many localities, and the loot of the palace of
+                    Delhi yielded marvellous ornaments carved in this material. At the present day
+                    it is cut and polished at Vellum in the Tanjore district in Madras, and is known
+                    as Vellum stone. Among the numerous localities in the United States which yield
+                    rock-crystal mention may be made of those in Herkimcr Co., New York State,
+                    whence the Lake George crystals are obtained; and it is notable that some of the
+                    Herkimer quartz encloses bituminous matter. Mokelumne Hill, Calaveras Co.,
+                    California, has Iurnisheil some remarkable rock-crystal. In Europe the
+                    localities are very numerous, the most important being those in the Alps. Very
+                    fine crystals remarkable for pellucidity though not of large size occur in
+                    cavities in the statuary marble of Carrara; ancf remarkably hollowed crystals
+                    arc known from Porretta near Bologna in ltaly. The finest rock-crystal in Great
+                    Britain occurs at Tintagcl and the Delabolc slate quarry in N. Cornwall; and at
+                    Snowdon in N. Wales. (F. W. R.*)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

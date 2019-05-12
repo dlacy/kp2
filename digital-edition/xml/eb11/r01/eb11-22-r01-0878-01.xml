@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-22-r01-0878-01"
+                facs="encyclopaediabri22chisrich_0903.jp2" type="entry">
+
+                <p><label>RAMPUR BOALIA</label>, or Beuleah, a town of British India, the
+                    administrative headquarters of Rajshahi district in Eastern Bengal and Assam; on
+                    the left bank of the Ganges. Pop. (1901) 21,589. It was originally chosen as a
+                    commercial factory for the silk trade, which is again being officially
+                    encouraged by the agricultural department. The town contains a government
+                    college, and an industrial school for sericulture. Most of the public buildings
+                    were severely damaged by the earthquake of the 12th of June 1897. There is a
+                    daily steamer service on the Ganges.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

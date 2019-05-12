@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196389_0585.tif" type="entry" xml:id="eb03-16-s01-0579-01"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>S</label>, ſ, or s, the 18th letter and 14th conſonant of our alphabet;
+                    the found of which is formed by driving the breath through a narrow paſſage
+                    between the palate and the tongue elevated near it, together with a motion of
+                    the lower jaw and teeth towards the upper, the lips being a little way open;
+                    with ſuch a configuration of every part of the mouth and larynx, as renders the
+                    voice ſomewhat ſibilous and hiſſing. Its found, however, varies; being ſtrong in
+                    ſome words, as this, thus, &amp;c. and ſoft in words which have a final e,
+                    as muſe, wiſe, &amp;c. It is generally doubled at the end of words, whereby
+                    they become hard and harſh, as in kiſs, loss, &amp;c. In ſome words it is
+                    ſilent, as iſle, iſland, viſcount, &amp;c. In writing or printing, the long
+                    character ſ is generally uſed at the beginning and middle of words, but the
+                    ſhort s at the end.</p>
+                <p>In abbreviations, S ſtands for <hi rend="italic">ſocietas</hi> or <hi
+                        rend="italic">ſocius;</hi> as,</p>
+                <p>R. S. S. for <hi rend="italic">regiae ſoc'etatis ſocius, i. e.</hi> fellow of the
+                    royal ſociety. In medicinal preſcriptions, S. A. ſignifies <hi rend="italic"
+                        >ſecundum artem,</hi> i. e. according to the rules of art: And in the notes
+                    of the ancients, S ſtands for <hi rend="italic">Sextus;</hi></p>
+                <p>S. P. for <hi rend="italic">Spurius;</hi> S. C. <hi rend="italic">for ſenatus
+                        conſultum;</hi> S. P. Q. R. <hi rend="italic">for ſenatus populuſque
+                        Romanus;</hi> S. S. S. <hi rend="italic">for ſtratum ſu- per ſtratum,</hi>
+                    i. e. one layer above another alternately; S. V. B. E. E. Q. V. for <hi
+                        rend="italic">ſi vales bene eſt, ego quoque valeo,</hi> a form uſed in
+                    Cicero’s time, in the beginning of letters. Uſed as a numeral, S anciently
+                    denoted ſeven; in the Italian inuſic, S ſignifies <hi rend="italic">ſolo:</hi>
+                    And in books of navigation, S. ſtands for ſouth; S. E. for ſouth-eaſt; S. W. for
+                    ſouth-weſt; S. S. E. for ſouth ſouth-eaſt; S. S. W for ſouth ſouth-weſt
+                    &amp;c.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

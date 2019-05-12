@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0087-05"
+                facs="gri_33125011196389_0093.tif" type="entry">
+
+                <p><label>RESEMBLANCE</label>, <hi rend="italic">and</hi>
+                    <hi rend="smallcaps">Dissimilitude</hi>, the relations of likeneſs and
+                    difference among objects. See <hi rend="smallcaps">Comparison</hi>.</p>
+                <p>The connection that man hath with the beings around him, requires ſome
+                    acquaintance with their nature, their powers, and their qualities, for
+                    regulating his conduct. For acquiring a branch of knowledge ſo effential to our
+                    well-being, motives alone of reaſon and intereſt are not ſuſſicient : nature
+                    hath providentially ſuperadded curio-ſity, a vigorous propenſity, which never is
+                    at reſt. This propenfity alone attaches ns to every new object<note
+                        anchored="true" place="margin" type="authorial" n="1">See <hi rend="italic"
+                            >Novelty.</hi></note>; and incites us to compare objects, in order to
+                    difcover their differences and reſemblances.</p>
+                <p>Reſemblance among objects of the ſame kind, and diſſimilitude among objects of
+                    different kinds, are too obvious and familiar to gratify our curiofity in any
+                    de-gree : its· gratification lies in diſcovering differences among things where
+                    reſemblance prevails, and reſemblances where difference prevails. Thus a
+                    difference, in individuals of the ſame kind of plants or animals, is deemed a
+                    diſcovery, while the many particulars in which they agree are neglected ; and in
+                    different kinds, any reſemblance is greedily remarked, without attending to the
+                    many particulars in which they differ,.</p>
+                <p>A compariſon of the former neither tends to gratify our curiofity, nor to ſct
+                    the objects compared in a ſtronger light : two apartments in. a palace, fimilar
+                    in ſhape, fize, and furniture, make feparately as good a figure as when compared
+                    ; and the lame obſervation is applicable to, two fimilar compartments in a
+                    garden ; on the other hand, oppoſe a regular building to a fall of water, or a
+                    good picture to.a towering hill, or even a little dog to a large horſe, and the
+                    contraſt will produce no effect. But a reſemblance between objects of different
+                    kinds, and a difference between objects of' the ſame kind, have remarkably an
+                    enlivening effect. the poets, filch of them as have a juft taſte, draw all their
+                    ſtmilies from things that in the main differ widely from the principal ſubject ;
+                    and they never attempt a contraſt, but where the things have a common ge-nus,
+                    and a reſemblance in the capital circumſtances : place together a large and a
+                    ſmall-ſized animal of the fame ſpecies, the one will appear greater, the other
+                    leſs, than when viewed feparately : when we oppoſe beauty to deformity, each
+                    makes a greater figure by the compariſon. λVe compare the drefs of different
+                    nations with curiofity, but without ſurpriſe becauſe, they have no ſuch
+                    refemblance in · the capital'parts as to pleaſe us. by contraſting the fmaller
+                    parts. But a new cut of a ∩eeve, or of a pocket, enchants by its novelty ; and,
+                    in oppoſition to the former faſhion, raiſes ſome degree of ſurpriſe.</p>
+                <p>That reſemblance and diſſimilitude have an enliven-</p>
+                <pb xml:id="eb03-16-r01-0088" facs="gri_33125011196389_0094.tif"/>
+                <p>ing effect upon objects of ſight, is made ſufficiently evident ; and that they
+                    have the ſame effect upon objects of the other ſenſes, is alſo certain. Nor is
+                    that law confined to the external ſenſes ; ſor characters contraſted make a
+                    greater figure by the oppoſition : Iago, in the tragedy of othello, ſays,</p>
+                <p>He hath a daily beauty in his life That makes me ugly.</p>
+                <p>The character of a fop, and of a rough warrior, are nowhere more ſucceſsfully
+                    contraſted than in J3hake-ſpeare :</p>
+                <p><hi rend="italic">Hotſpur.</hi> My liege, I did deny no prifoners :</p>
+                <p>But I remember, when the ſight was done, . when I was dry with rage, and extreme
+                    toil,</p>
+                <p>Breathleſs and faint, leaning upon my ſword,</p>
+                <p>Came there a certain lord, neat, trimly dreſs’d,</p>
+                <p>Freſh as a bridegroom ; and his chin, new-reap’d, Show’d like a ſtubble-land at
+                    harveſt-home.</p>
+                <p>He was perfumed like a milliner ;</p>
+                <p>And ſtwixt his finger and his thumb he held</p>
+                <p>A pouncet-box, which ever and anon</p>
+                <p>He gave his noſe :—-and ſtill he ſmil d and talk d ;</p>
+                <p>And as the ſoldiers bare dead bodies by,</p>
+                <p>He call’d them untaught knaves, unmannerly,</p>
+                <p>To bring a ſiovenly, unhandfome corſe Betwixt the wind and his nobility, with
+                    many holiday and lady terms He queſtion’d me : among the reſt, demanded My
+                    pris’ners, in your majeſty’s behalf.</p>
+                <p>I then, aſl ſmarting with my wounds ; being gall’d To be ſo peſter’d with a
+                    popinjay,</p>
+                <p>Dut of my grief, and my impatience,</p>
+                <p>Anſwer’d, negle&lt;⅛ngly, I know not v⅛hat :</p>
+                <p>He ſhould,· or ſhould not ; for hé made me mad,</p>
+                <p>To ſee him ſhine ſo briſk, and ſmell fo ſweet,</p>
+                <p>And talk ſo like a waiting gentlewoman,</p>
+                <p>ΟΙ' guns, and drums, and wounds, ( God ſave the mark! ) And telling me, the
+                    ſovereign’ſt thing on earth was parmacity for an inward bruiſe ;</p>
+                <p>And that it was great pity, ſo it vvas,</p>
+                <p>This villanous ſaltpetre ſhould be digg’d out of the bowels of the harmleſs
+                    earth, which many a good, tall fellow had deſtroy’d So cowardly : and but for
+                    theſe vile guns,</p>
+                <p>He would hrnſelf have been a ſoldier.·--</p>
+                <p><hi rend="italic">Firβ part, Henry</hi> IV. <hi rend="italic">act</hi> t. <hi rend="italic">ſc.</hi> 4</p>
+                <p>Paſſions and emotions are alſo enſiamed by compariſon. A man of high rank
+                    humbles the byſtanders even to annihilate them in their own opinion : Cæfar,
+                    beholding the ſtatue of Alexander, was greatly mortified, that now, at the age
+                    of 32, when Alexander died, he had not performed one memorable action.</p>
+                <p>Ο11Γ opinions alſo are much influenced by companion. A man whoſe opulence
+                    exceeds the ordinary ſtandard is reputed richer than he is in reality ; and
+                    wiſdom or weakneſs, if at all remarkable in an individual, is generally carried
+                    beyond the truth.</p>
+                <p>The opinion a man forms of his preſent diſtreis is heightened by contraſting it
+                    with his former happi-neſs :</p>
+                <p>______Could I forget</p>
+                <p>what I have been, I might the better bear IVhat Γm deſtin’d to. Γm not the ſirſt</p>
+                <p>That have been wretched : but to think how much I have been happier.</p>
+                <p><hi rend="italic">Southern’s Innocent Adultery, act</hi> 2.</p>
+                <p>The diſtreſs of a long journey makes even an indifferent inn agreeable : and, in
+                    travelling, when the road is good, and the horſeman well covered, a bad day may
+                    be agreeable, by making him ſenſible bow fnug he is.</p>
+                <p>The ſame effect is equally remarkable, when a man oppoſes his condition to that
+                    of others. A ſhip toſ-ſed about in a ſtorm, makes the ſpectator reflect upon his
+                    own eaſe and ſecurity, and puts theſe in the ſtrong-eſt light.</p>
+                <p>A man in grief cannot bear mirth ; it gives him a more lively notion of his
+                    unhappineſs, and of courſe makes him more unhappy. Satan, contemplating the
+                    heauties of the terreſtrial paradiſe, has the following exclamation :</p>
+                <p>with what delight could I have walk’d thee round,</p>
+                <p>If I could joy in ought, ſwect interchange Οί hill and valley, rivers, woods,
+                    and plains,</p>
+                <p>Now land, now fea, and ſhores with foreſt crown’d, Rocks, dcns, and caves ! but
+                    I in none of theſe Find place or refuge ; and the more I ſee Pleaſures about me,
+                    ſo much more I feel Torment within me, as from the hateful ſtege Qf contraries :
+                    all good to me becomes Bane, and in heav’n much worſe would be my ſtate.</p>
+                <p><hi rend="italic">Paradiſe Loβ, book</hi> 9. ∕. 114,</p>
+                <p>The appearance of danger gives ſometimes pleafure, ſometimes pain. A timorous
+                    perſon upon the battlements of a high tower, is ſeized with fear, which even the
+                    conſciouſnefs of ſecurity cannot diffipate. But upon one of a firm head, this
+                    ſituation has a contrary effect : the appearance of danger heightens, by
+                    oppoſition, the conſciouſnefs of ſecurity, and conſequently the fatisfaction
+                    that ariſes from ſecurity ; here the feeling reſem-bles that above-mentioned,
+                    occaſioned by a ſhip labouring in a ſtorm.</p>
+                <p>The effect of magnifying or leſſening objects by means oſ compariſon is to be
+                    attributed to the in-ſtuence of paſſion over our opinions. This will evidently
+                    appear by reflecting in what manner a ſpectator is affected, when a very large
+                    animal is for the firſt time pla-ced befide a very ſmall one of the ſame
+                    ſpecies. The ſtrſt thing that ſtrikes the mind is the difference between the two
+                    animals, which is ſo great as to occaſion ſurpriſe ; and this, like other
+                    emotions, magnifying its object, makes ns conceive the difference to be the
+                    greateſt that can be : we ſee, or ſeem to ſee, the one animal extremely little,
+                    and the other extremely large. The emotion of ſurpriſe ariſing from any unuſual
+                    reſemblance, ſerves equally to explain, why at ſirſt view we are apt to think
+                    fuch reſemblance more entire than it is in reality. And it muſt be obſerved,
+                    that the circumſtances of more and lefs, which are the proper ſubjects of
+                    compariſon, raife a perception ſo indiſtinct and vague as to facilitate the
+                    effect defcribed ; we have no mental ſtandard of great and little, nor of the
+                    feveral degrees of any attribute ; and the mind, thus· unreſtrained, is
+                    naturally diſpoſed to indulge its furprife to the utmoſt extent.</p>
+                <p>In exploring the operations of the mind, ſome of which are extremely nice and
+                    ſlippery, it is ncceffary</p>
+                <pb xml:id="eb03-16-r01-0089" facs="gri_33125011196389_0095.tif"/>
+                <p>to proceed with the utmoſt circumfpection : and after all, ſeldom it happens
+                    that ſpeculations of that kind afford any fatisfaction. Luckily, in the preſent
+                    caſe, our ſpeculations are ſupported by facts and ſolid argument. Firſt, a
+                    -ſmall object of one ſpecies oppoſed to a great object of another, produces not,
+                    in any degree, that deception which is ſo remarkable when both ob-jects are of
+                    the ſame ſpecies. The greateſt diſparity between objects of different kinds, is
+                    ſo common as to be obferved with perfect indifference ; but ſuch diſpa-rity
+                    between the objects of the fame kind being uncommon, never fails to produce
+                    ſurpriſe : and may we not fairly conclude, that ſurpriſe, in the latter caſe, is
+                    what occafions the deception, when we ſind no deception in the former ? In the
+                    npxt place, if ſurpriſe be the ſole cauſe of the deception, it follows
+                    neceffarily that the deception will vaniſh as ſoon as the objects compared
+                    become familiar. This holds ſo unerringly, as to leave no reaſonable doubt that
+                    ſurpriſe is the prime mover: our ſurpriſe is great, the ſirſt time a ſmall
+                    lapdog is ſeen with a large maſtiff ; but when two ſuch animals are conſtantly
+                    together, there is no furprife, and it makes no difference whether they be
+                    viewed feparately or in company. We ſet no bounds to the riches of- a man who
+                    has recently made his fortune ; the ſurpriſing diſproportion between his preſent
+                    and his paſt ſituation being carried to an extreme : but with regard to a family
+                    that for many generations hath enjoyed great wealth, the ſame falſe reckoning is
+                    not made. It is equally remarkable, that a trite ſimile has no effect : a lover
+                    compared to a moth ſcorching itfelf at the flame of a candle, originally a
+                    ſprightly ſimile, has by frequent ule loft all force ; love cannot now be
+                    compared to ſire, without ſome degree of diſguft. It has been juftly obſerved
+                    againft Homer, that the lion is too often introduced into his ſimiles ; all the
+                    variety he is able to throw into them not being ſufficient to keep alive the
+                    reader’s ſurpriſe.</p>
+                <p>To explain the influence of compariſon upon the mind, we have choſen the
+                    ſimpleft caſe, viz. the ſirſt ſight of two animals of the fame kind, differing
+                    in ſize only ; but to complete the theory, other circumſtances muſt be taken in.
+                    And the next ſuppoſition we make, is where both animals, feparately familiar to
+                    the ſpectator, are brought together for the ſirſt time. In that cafe, the effect
+                    of magnifying and dimiiiiſtſing is found remarkably greater than in that ſirſt
+                    mentioned ; and the reaſon will appear upon analyſing the operation.; the ſtrft
+                    feeling we have is of ſurpriſe at the uncommon difference of two creatures of
+                    the ſame ſpecies ; we are next ſenfible, that the one appears leſs, the other
+                    larger, than they did formerly ; and that new circumſtance increaſingour
+                    ſurpriſe, makes us imagine a ſtill greater oppoſition between the animals, than
+                    if we had formed no notion of them beforehand.</p>
+                <p>Let us make one other ſuppoſition, that the ſpectator was acquainted beforehand
+                    with one of the animals only ; the lapdog, for example. This new circumſtance
+                    will vary the effect ; for, inſtead of widening the natural difference, by
+                    enlarging in appearance the one animal, and diminifhing the other in proportion,
+                    the whole apparent alteration will reft upon the lapdog : the ſurpriſe to ſind
+                    it leſs than it appeared formerly, directs to it our whole attention, and makes
+                    us conceive it to be a moſt diminutive creature : the maſtiff</p>
+                <p>in the mean time is quite overlooked. To illuſtrate this effect by a familiar
+                    example. Take a piece of pa-per or of linen tolerably white, and compare it with
+                    a pure white of the ſame kind : the judgment we formed of the ſirſt object is
+                    inſtantly varied ; and the ſurpriſe occafioned by finding it leſs white than was
+                    thought, produceth a haſty conviction that it is much leſs white than it is in
+                    reality : withdrawing now the pure white, and putting in its place a deep black,
+                    the furpriſe occaſioned by that new circumſtance carries us to the other
+                    extreme, and makes us conceive the object ſirſt mentioned to be a pure white :
+                    and thus experience compels us to acknowledge, that our emotions have an
+                    influence even upon our eye-light. 1 his experiment leads to a general
+                    obſervation, that whatever is found more ſtrange and beautiful than was
+                    expected, is judged to be more ſtrange and beautiful than it is in reality.
+                    Hence a common artifice, to depreciate beforehand what we wiih to make a figure
+                    in the opinion of others.</p>
+                <p>The companions employed by poets and orators are of the kind laſt mentioned; for
+                    it is always a known object that is to be magnified or lefleπed∙ The former is
+                    effected by likening it to ſome grand object, or by contrafting it with one of
+                    an oppoſite character. To effectuate the. latter, the method muſt be reverfed ⅛
+                    the object muſt be contraſted with fomething ſuperior to it, or likened to
+                    ſomething inferior. The whole effect is produced upon the principal object ;
+                    which by that means is elevated above its rank, or depreffed below it.</p>
+                <p>In accounting for the effect that any unufual reſemblance or diffimilſtude hath
+                    upon the mind, no canſe has been mentioned but ſurpriſe ; and to prevent
+                    confuſion, it was proper to diſcuſs that caufe ſirſt. But ſurpriſe is not the
+                    only cauſe of the effect deſcribed ; another occurs, which operates perhaps not
+                    leſs powerfully, viz. a principle in human nature that lies ſtill in obſcurity,
+                    not having been unfolded by any writer, , though its effects are extenſive : and
+                    as it is not diſtinguiſhed by a proper name, the reader muſt be ſatisſied with
+                    the following deſcription. Every man who ſtu-dies himſelf or others, muſt be
+                    ſenſible of a tendency or propenſity in the mind to complete every work that is
+                    begun, and to carry things to their full perfection. There is little opportunity
+                    to diſplay that propenſity upon natural operations, which are ſeldom left
+                    imperfect ; but in the operations of art it hath great ſcope : it impels us to
+                    perſevere in our own work, and to wiſli for the completion of what another is
+                    doing : we feel a ſenſible pleaſure when the work is brought to perfection ; and
+                    our pain is not leſs fenſible when we are difappointed. Hence our uneaſineſs
+                    when an intereſting ſtory is broke off in the middle, when a piece of muſic ends
+                    without a cloſe, or when a building or garden is left unſiniihed. The ſame
+                    propenſity operates in making collections ; ſuch as the whole works, good and
+                    bad, oſ any author. A certain perſon attempted to collect prints of all the
+                    capital paintings, and fuc-ceeded except as to a few. La Bruyere remarks, that
+                    an anxious ſearch was made for theſe ; not for their value, but to complete the
+                    ſet.</p>
+                <p>The final cauſe of the propenſity is an additional proof of its exiſtence. Human
+                    works are of no ſigni-ſicancy till they be completed ; and reaſon is not always
+                    a ſufficient counterbalance to indolence : ſome prin-</p>
+                <pb xml:id="eb03-16-r01-0090" facs="gri_33125011196389_0096.tif"/>
+                <p>ciple over and above is neceffary to excite our induſtry, and to prevent our
+                    ſtopping ſhort in the middle of the courſe.</p>
+                <p>V7e need not loſe time to defcribe the co-operation of the foregoing propenſity
+                    with ſnrpriſe, in producing the effect that follows any unuſual reſemblance or
+                    diſ-ſimilitude. Surpriſe firſt operates, and carries our opinion of the
+                    reſemblance or diſſimilitude beyond truth. The propenfity we have been
+                    deſcribing carries us ſtill farther ; for i.t forces upon the mind a conviction,
+                    that the reſemblance or diſſimilitude is complete. λVe need no better
+                    illuſtration, than the reſemblance that is fancied in ſome pebbles to a tree or
+                    an infect ; which reſemblance, however faint in reality, is conceived to be
+                    wonderfully perfect. The tendency to complete a reſemblance acting jointly with
+                    ſurpriſe, carries the mind ſometimes ſo far, as even to preſume upon future
+                    events. In the Greek tragedy entitled <hi rend="italic">Phimides,</hi> thoſe
+                    unhappy women feeing the place where it was intended they fhould be ſlain, cried
+                    out with anguiſh, <note anchored="false" place="margin" type="authorial" n="2"
+                            ><hi rend="italic">Arist. Poet.</hi> cap. 17.</note>"They now saw their
+                    cruel deſtiny bad condemned them to die in that place, being the fame where they
+                    had been expo-fed in their infancy.”</p>
+                <p>The propenfity to advance every thing to its perfection, not only co-operates
+                    with ſurpriſe to deceive the mind, but of itſelf is able to produce that effect,
+                    of this we ſee many iuſtances where there is no place for ſurpriſe ; and the
+                    firſt we ſhall give is of reſem-blance. <hi rend="italic">Unumquodque eodem
+                        modo dijſolvitur quo colh-gatum eβ,</hi> is a maxim in the Roman law that
+                    has no foundation in truth ; for tying and loôfing, building and demoliſhſhg,
+                    are acts oppofite to each other, and are performed by oppofite means : but when
+                    tbeſe acts are connected by their relation to the fame ſubject, their connection
+                    leads us to imagine a fort of reſem-blance between them, which by tbe foregoing
+                    propen-ſity is conceived to be as complete as poſſible. The next inſtance ſhall
+                    be of contraſt. Addiſon obferves, <note anchored="false" place="margin"
+                        type="authorial" n="3"><hi rend="italic">Spectator,</hi> n<hi rend="sup"
+                            >o</hi> 265.</note>"That the paleſt features look the moſt agreeable in
+                    white ; that a face which is oveiſtuſhed appears to advantage in the deepeſt
+                    ſcarlet ; and that a dark complexion is not a little alleviated by a black
+                    hood.” The foregoing propenfity ſerves to account for theſe appearances ; to
+                    make this evident, one of the caſes ſhall ſuſſice. A complexion, however dark,
+                    never ap-proaches to black : when thefe colours appear together, their
+                    oppofition ſtrikes us; and the. propenfity we have to complete the oppofition,
+                    makes the dark-neſs of complexion vaniſh out of fight.</p>
+                <p>The operation of this propensity, even where there is no ground for surpriſe, is
+                    not confined to opinion or conviction : fo powerful it is, as to make us
+                    fometimes proceed to action, in order to complete a reſemblance or
+                    diſſimilitude. If this appear obſcure, it will be made clear by the following
+                    inſtance. Upon what principle is the <hi rend="italic">lex talionis</hi> founded, other than to make the puniſhment referable the miſchief? Reafon
+                    dic-tates, that there ought to be a conformity or refem-blance between a crime
+                    and its puniſhment ; and the foregoing propenfity impels us to make the
+                    reſemblance as complete as poſſible. Titus Livius<note anchored="true"
+                        place="margin" type="authorial" n="4">Lib. 1. § 28.</note>, under the
+                    influence of that propenfity, accounts for a certain puniſhment by a reſemblance
+                    between it and the crime, too ſubtile for common apprehcnſion. Speaking of</p>
+                <p>Mettus Fuffetius, the Alban general, who, for treachery to the Romans his
+                    alliés, was ſentenced to be torn to pieces by horſes, he puts the following
+                    ſpeech in the mouth of Tullus Hoſtilius, who decreed the puniſhment. <hi
+                        rend="italic"> " Mette Fuffeû, inquit, ſi ipſe dijeere p <hi rend="sup">r</hi> ffβs ~, fidem ac fœdera ſervare, vivo tibi ea diſciplina a me adhibita
+                        effet. Nunc, quoniam tuum infanabile ingenium eβ, at tu tno fupplicio doce
+                        humanum genus ea fan id a credere, qux a te violata ſunt. Ut igitur paulo
+                        ante animum inter Fi-denatem Romanamque rem ancipιtem geβffβi, itajam corpus
+                        -paffim d'βrahendum dabis.”</hi> By the ſame influence, the ſentence is
+                    often executed upon the very fpot where the crime was committed. In the <hi
+                        rend="italic"> Plectra</hi> of Sophocles, Egiſtheus is dragged from the
+                    theatre into an inner room of the ſuppofed palace, to fuffer death where he
+                    murdered Agamemnon. Shakeſpeare, whoſe knowledge of nature is not leſs profound
+                    than extenfive, has not overlooked this propenfity :</p>
+                <p><hi rend="italic">" Othello.</hi> Get me ſome poiſon, Iago, this night. I’ll
+                    not expoſtulate with her, leſt her body and her beauty unprovide my mind again.
+                    This night, Iago.”</p>
+                <p><hi rend="italic">" Iago.</hi> Do it not with poiſon ; ſtrangle her in her
+                    bed, even in the bed ſhe hath contaminated.”</p>
+                <p><hi rend="italic">“ Othello.</hi> Good, good : the juſtice of it pleafes :
+                    very good.” <hi rend="italic">Othello, act A <hi rend="sub">t</hi> ∙fc∙ ξ.</hi></p>
+                <p>Perſons in their laſt moments are generally ſeized with an anxiety to be buried
+                    with their relations. In the <hi rend="italic">Amynta</hi> of Taffo, the
+                    lover, hearing that his miſtreſs was torn to pieces by a wolf, expreffes a
+                    deſire to die tbe ſame death.</p>
+                <p>Upon the ſubject in general we have two remarks to add. Tlie firſt. concerns
+                    reſemblance, which, when too entire, hath no effect, however different in kind
+                    the things compared may be. The remark is applicable to works of art only ; for
+                    natural objects of different kinds have ſcarce ever an entire reſemblance. To
+                    give an example in a work of art : Marble is a fort of matter very different
+                    ſrom what compoſes an animal ; and marble cut into a human figure, produces
+                    great plea-ſure by the reſemblance : but if a marble ſtatue be co-loured like a
+                    picture, the reſemblance is ſo entire as at a diftance to make the ſtatue appear
+                    a real perſon : we diſcover the miſtake when we approach ; and no other emotion
+                    is raiſed, but ſurpriſe occaſioned by the de-ception : the figure ſtill appears
+                    a real perſon, rather than an imitation ; and we muſt uſe reflection to correct
+                    the miſtake. This cannot happen in a picture ; for the reſemblance can never be
+                    ſo entire as to diſguiſe the imitation.</p>
+                <p>The other remark belongs to contraſt. Emotion3 make the greateſt figure when
+                    contraſted in ſucceſſion ; but then the ſucceſſion ought neither to be rapid,
+                    nor immoderately flow : if too flow, the effect of contraſt becomes faint by the
+                    diſtance of the emotions ; and if rapid, no ſtngle emotion has room to expand
+                    itſelf to . its full fize, but is ſtiſted, as it were, in the birth by a
+                    ſucceeding emotion. The funeral oration of the biſhop of Meux upon the ducheſs
+                    of Qrleans, is a perfect hodge-podge of cheerful and melancholy
+                    reprefeπ-tations, following each other in the quickeſt ſucceſſion : oppofite
+                    emotions are belt felt in ſucceſſion ; but each emotion feparately ſſiould be
+                    raiſed to its due pitch, before another be introduced..</p>
+                <pb xml:id="eb03-16-r01-0091" facs="gri_33125011196389_0097.tif"/>
+                <p>what is above laid down, will enable us to deter-miiie a very important queftion
+                    concerning emotions raiſed by the fine arts, viz. whether ought ſimilar emotions
+                    to ſucceed each other, or diſſimilar ? The emotions raiſed by the fine arts are
+                    for the moft part too nearly related to make a figure by reſemblance ; and for
+                    that reafon their fucceſſion ought to be regu-latcd as much as poſſible by
+                    contrail. This holds confcffedly in epic and dramatic compoſitions ; and the
+                    belt writers, led perhaps by taſte more than by rea-foning, have generally aimed
+                    at that "beauty. It holds equally in muſic : in the ſame cantata all the variety
+                    of emotions that are within the power of muſic, may not only be indulged, but,
+                    to make the greateſt figure, ought to be contraſted. In gardening, there is an
+                    ad-ditional reaſon for the rule : the emotions raiſed by that art, are at beſt
+                    ſo faint, that every artifice ſirould be employed to give them their utmoſt
+                    vigour : a field may be laid out in grand, ſweet, gay, neat, wild, melancholy
+                    ſcenes ; and when theſe are viewed in ſucceſ</p>
+                <p>ſion, grandeur ought to be contraſted with neatnefs, regularity with wildneſs,
+                    and gaiety with melancholy, ſo as that each emotion may fucceed its oppoſite :
+                    nay, it is an improvement to intermix in the fucceſſion rude uncultivated ſpots
+                    as well as unbounded views, which in themſelves are diſagreeable, but in
+                    ſucceſſion heighten the feeling of the agreeable object ; and we have nature for
+                    our guide, which in her moſt beautiful landſcapes often intermixes rugged rocks,
+                    dirty marſties, and barren ſtony heaths. The greateſt maſters of mu-ſic have the
+                    ſame view in their compoſitions : the fecond part of an Italian ſong ſeldom
+                    conveys any ſentiment : and, by lts harſhneſs, ſeems purpoſely contrived to give
+                    a greater reliſli for the interefting parts of the compoſition.</p>
+                <p>A ſmall garden, comprehended under a fingle view, affords little opportunity for
+                    that embelliſhment. Diſſi-milar emotions require different tones of mind ; and
+                    therefore in conjunction can never be pleaſant : gai-ety and ſweetneſs may be
+                    combined, or wildneſs and gloomineſs ; but a compoſition of gaiety and
+                    gloomi-neſs is diſtaſteſul. The rude uncultivated compartment of furze and broom
+                    in Richmond garden, hath a good effect in the fucceſſion of objects ; but a ſpot
+                    of that nature would be inſufferable in the midſt of a poliſhed parterre or
+                    flower-plot. A garden, therefore, if not of great extent, admits not diſſimilar
+                    emotions ; and in ornamenting a ſmall garden, the ſafeſt courſe is to confine it
+                    to a ſingle expreſſion. For the ſame reafon, a landſcape ought alſo to be
+                    confined to a fingle ex-preſſion ; and accordingly it is a rule in painting,
+                    that if the ſubject be gay, every figure ought to contribute to that emotion.</p>
+                <p>It follows from the foregoing train of reaſoning, that a garden near a great
+                    city ought to have an air of ſolitude. The folitarineſs, again, of a waſte
+                    country ought to be contraſted in forming a garden ; no temples, no obfcure
+                    walks ; but <hi rend="italic">jets d’eau,</hi> caſcades, objects active, gay,
+                    and ſplendid.. Nay, fuch a gat den ſhould in ſome meaſure avoid imitating
+                    nature, by taking on an ex-traordſhary appearance of regularity and art, to ſhow
+                    the buſy hand of man, which in a waſte country has a fine effect by contraſt.</p>
+                <p>Wit and ridicule make not an agreeable mixture with grandeur. Diſſimilar
+                    emotions have a fine effect in a slow ſucceſſion ; but in a rapid ſucceſſion,
+                    which approaches to co-exiſtence, they will not be reliſhed. In the midſt of a
+                    laboured and elevated deſcription of battle, virgil introduces a ludicrous
+                    image, which is certainly out of its pla"ce :</p>
+                <p>obvius ambuſtum torrem Chorinæus ab ara Corripit, ct veπienti Ebυfo plagamque
+                    ferenti occupai os fiammis : illi ingens barba relûxit, Nidoremque ambuſta
+                    dédit. <hi rend="italic">Æn.</hi> xii. 298,</p>
+                <p>E quai tauro ferito, il fuo dolore verfo mugghiando e fofpirando fuore.</p>
+                <p><hi rend="italic">Gierufal</hi> cant. 4. ſt. 1.</p>
+                <p>It would however be too auſtere to baniſh altogether ludicrous images from an
+                    epic poem. This poem doth not always ſoar above the clouds : it admits great
+                    variety ; and upon occafion can deſcertd even to the ground without finking. In
+                    its more familiar tones, a ludicrous ſcene may be introduced without
+                    impropriety. This is done by Virgil<note anchored="true" place="margin"
+                        type="authorial" n="5"><hi rend="italic">Eneid,</hi> lib. v.</note> in a
+                    foot-race : the circumſtances of which, not excepting the ludicrous part, are
+                    copied from Homer<note anchored="true" place="margin" type="authorial" n="6"><hi
+                            rend="italic">Iliad,</hi> xxiii. 879.</note>. After a fit of merriment,
+                    we are, it is true, the leſs difpoſed to the ferious and fublime : but then, a
+                    ludicrous ſcene, by unbending the mind from ſevere application to more
+                    intereſting ſubjects, may prevent fatigue, and preſerve our reliſh entire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

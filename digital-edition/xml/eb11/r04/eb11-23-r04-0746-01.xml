@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0746-01"
+                facs="encyclopaediabri23chisrich_0799.jp2" type="entry">
+               <p>                   <label>ROSSELLINO, ANTONIO</label> (1427-c. 1479), Florentine sculptor, was the
+                    son of Matteo di Domenico Gamberclli, and had four brothers, who all practised
+                    some branch of the fine arts. Almost nothing is known about the life of Antonio,
+                    but many of his works exist, and are full of religious sentiment, and executed
+                    with the utmost delicacy of touch and technical skill. The style of Antonio and
+                    his brother Bernardo is a development of that of Donatello and Ghiberti; it
+                    possesses all the refinement and sweetness of the earlier masters, but is not
+                    equal to them in vigour or originality. Antonio’s chief work, still in perfect
+                    preservation, is the lovely tomb of a young cardinal prince of Portugal, who
+                    died in 1459. It occupies one side of a small chapel, also built by Rossellino,
+                    on the north of the nave of San Miniato al Monte. <note anchored="true"
+                        place="bottom" type="authorial" n="1"> Illustrated by Gonnelli, <hi
+                            rend="italic">Mon. Sepol. della Toscana</hi> (Florence, 1819), pl.
+                        xxiii. </note> The recumbent effigy of the cardinal rests on a handsome
+                    sarcophagus, and over it, under the arch which frames the whole, is a beautiful
+                    relief of the Madonna between two flying angels. The tomb was begun in 146T and
+                    finished in 1466; Antonio received four hundred and twenty-five gold florins for
+                    it. A reproduction of this tomb with slight</p>               <p>alterations, and of course a different effigy, was made by Antonio for the wife
+                    of Antonio Piccolomini, duke of Amalfi, in the church of S. Maria del Monte at
+                    Naples, where it still exists. For the same church he also executed some
+                    delicate reliefs, which perhaps err in being too pictorial in style, especially
+                    in the treatment of the backgrounds. A fine medallion relief by him in marble,
+                    originally modelled in terra-cotta, is preserved in the Bargello at Florence
+                    (see fig.).</p>               <p>                   <hi rend="smallcaps">Bernardo Rossellino</hi> (1409-1464), Florentine sculptor,
+                    was no less able than his younger brother Antonio. I?is finest piece of
+                    sculpture is the tomb, in the Florentine Santa Croce, of Leonardo Bruni of
+                    Arezzo, the historian of Florence, executed in 1443 some years after Bruni’s
+                    death; the recumbent effigy is of great merit. The inner cathedral pulpit at
+                    Prato, circular in form on a tall slender stem, was partly the work of Mino da
+                    Fiesole and partly by Bernardo Rossellino. The latter executed the minute
+                    reliefs of St Stephen and the Assumption of the Virgin. For his part in the work
+                    he received sixty-six gold florins. The South Kensington Museum possesses a
+                    relief by Bernardo, signed and dated (1456). It is a fine portrait of the
+                    physician Giovanni da S. Miniato. Bernardo’s works as an architect were numerous
+                    and important, and he was also a skilful military engineer. He restored the
+                    church of S. Francis at Assisi, and designed several fine buildings at Civita
+                    Vecchia, Orvieto and elsewhere. He also built fortresses and city walls at
+                    Spoleto, Orvieto and Civita Castellana. He was largely employed by Nicholas V.
+                    and Pius II. for restorations in nearly all the great basilicas of Rome, but
+                    little trace of his work remains, owing to the sweeping alterations made during
+                    the 17th and 18th centuries. Between the years i46r and 1464 (when he died while
+                    engaged on the Lazzari monument at Pistoia) he occupied the important post of
+                        <hi rend="italic">capo-maestro</hi> to the Florentine duomo. A number of
+                    buildings at Pienza, executed for Pius II., are attributed to him; the Vatican
+                    registers mention the architect of these as M° Bernardo di Fiorenza, but this
+                    indication is too slight to make it certain that the elder Rossellino is
+                    referred to (see Vasari, ed. Milanesi, iii. 93 seq.).</p>               <p>See Wilhelm Bode, <hi rend="italic">Die Italienische Plastik</hi> (Berlin,
+                    1902).</p>            </div>
+        </body>
+    </text>
+</TEI>

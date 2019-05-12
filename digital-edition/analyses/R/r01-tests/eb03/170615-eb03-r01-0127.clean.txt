@@ -1,0 +1,63 @@
+For , when GH represents the direct impulse of 
+a 
+particle, GI is the absolute oblique impulse, and GO is the effective impulse in the direction GO : Now GI is to GO as radius to the sine of GIO, and GIO is the compliment of IGO, and is therefore equal to CGO, the ang southeast of obliquity. 
+Therefore 
+f 
+: rr: : O. 
+But F : 
+s 
+r1 : sinh' 
+Therefore F : î = r3 : sin.h’ X sin. O. and 
+φ 
+F X sin.’z X sin. O. 
+Con. — 
+The direct impulse on any sursace is to the effective oblique impsme in the direction of the stream, as the cube of radius to the cube of the sine of incidence. For draw I q^and GP perpendicular'to GLAND IP perpendicular to GP; then the absolute im pulse GI is equivalent to the impulse gqjn the direc tion of the stream, and GP, which may be called the tranfverse impulse. The angle G I (Qujs evidently equal to the angle GHI, or FGC, the angle of incidence. 
+Therefore / : P GI: : = R : sin. 
+i. 
+Tut F : 
+s — 
+Rsc sin.’/. 
+Therefore F : 
+P— — 
+’ : sin 
+i. 
+And? — F X sin.’/. 
+Before we proceed further, we shall consider the im pulsc on a suiface which is also in motion. This is evidently a frequent and an important cafe. It is perhaps the most frequent and important : It is the case of 
+a 
+ship under sail, and of a wind or water mill at work. 
+Therefore, let a stream of fluid, moving with the direction and velocity DE, meet a plane B.C., (fig. 
+I. 
+'· n 2.), which is moving parallel to itseff in the direction and with the velocity DF : It is required to determine 
+the impulse? 
+Nothing is more easy : The mutual actions of bodies depend on their relative motions only. The motion DE of the fluid relative to B.C., which is also in motion, is compounded of the real motion of the fluid and the opposite to the real motion of the body. there fore produce FD till D f “D»F, and complete the pa 'rallelogram D 
+f e 
+E, and draw the diagonal D 
+e. 
+The smipulse on the plane is the same as if the plane were at rest, and every particle of the fluid impelled it in the direction and with the velocity D 
+e 
+; and may therefore be determined by the foregoing proposttion. This pro position applies to every possible cafe; and we shall not bestow more time on it, but reserve the important mo dification of the general proposition for the cases which shall occur in thc practical applications of the whole doctrine of the impulse and resistance of fluids. 
+Prop. IV The direct impulse of a stream of fluid, whose breadth is given, is to its oblique effective impure in the direction of the stream, as the square of radius to the square of the sine of the angle of in cidence. 
+For the number of filaments which occupy the ob lique plane B.C., would occupy the portion NC of a perpendicular plane, and therefore we have only to compare the perpendicular impulse on any point V with the effective impulse made by the same filament FV on the oblique plane at G. Now GH fepresents the im pulse which this filament would make at V; and G Quis the effective impulse of the same filament at G, estimated in the direction G H of the stream; and G H 
+is te 
+GQ as G H! to G i1, that is, as rad to stn.'h 
+Cor. 
+I. The effective impulse in the direction of the stream on any plane surface B.C., is to the direct impulse on its base BR or se, as the square of the fine of the angle of incidence to the square of the radius. 
+2. If an isoseeles wedge ACB (fig. 2.) be exposed to a stream of fluid moving in the direction of its height CD the impulse on the sides is to the direct impulse on the base as the square of half the base AD to the square of the side AC, ör as the square of the sine of half the angle of the wedge to the square of the radius. For it is evident, that in this case the two transverse impulses, such as GP in sig. i, balance each other, and the only impulse which can be observed is the sum of the two impulles, such as gsquof sig. i, which are to be compared with the impulses on the two halves AD, DB of the base. Now AC : AB = rad. : sin. ACD, and ACD is equal to the angle of incidence. 
+Therefore, if the angle ACB is a right angle, and ACD is half a right angle, the square of AC is twice the square of AD, ' and the impulse on the sides of a rectangular wedge is half the impulse on its base. 
+Also, if a cube ACHE (sig. 3.) be exposed to a stream moving in a direction perpendicular to one of its sides, and then to a stream moving in a direction perpendicular to one of its diagonal planes, the impulse in the sirst case wili be to the irapulse in the second as 
+off. 
+to i. Call the perpendicular impulse on a side F, and the perpendicular impulse on its diagonal plane of and the effective oblique impulse on its sides <?; — we have 
+F ‘of = AC : AB = i 
+: of 2, 
+and 
+/: f = AC! : AD’ = 2: 1. Therefore 
+F : p = 2 : 
+of, = of 
+: 1, or 
+very nearly as 10 to 7. 
+The same reasoning will apply to a pyramid whose base is a regular polygon, and whose axis is perpendicu lar to the base. If such a pyramid is exposed to a stream of fluid moving in the direction of the axis, the direct impulse on the base is to the effective impulse on the pyramid, as the square of the radius to the square of the sine of the angle which the axis makes with the sides of the pyramid. * 
+And, in like manner, the direct impulsion on the base of a right cone is to the effective impulsion on the conical surface, as the square of the radius to the square of the sine of half the angle at the vertex of the cone. This is demonstrated., by supposing the cone to be a pyramid of an infinite number of sides. 
+we may in this manner compare the impulse on any polygonal surface with the impulse on its base, by comparing apart the impulses on each plane with those in their corresponding bales, and taking their sum. 
+And we may compare the impulse on a curved sur face with that on its base, by resolving the curved surface into, elementary planes, each of which is impelled by an elementary filament of the stream. 
+The following beautiful proposition, given by Le seur and Jaquier, in their Commentary on the second Book of newton’s Principia, with a few examples of its application, will suffice for any further account of tins theory. 
+Prop. V — Let ADB (fig. 4.) be the section of a surface of snnple curvature, such as is the fnrface of a cylinder. Let this be exposed to the action of a fluid moving in the direction AC. Let B.C. be the 

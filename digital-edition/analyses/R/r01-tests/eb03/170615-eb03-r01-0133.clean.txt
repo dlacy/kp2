@@ -1,0 +1,78 @@
+Γ . 
+IL 
+HL IV 
+x8a 10000 
+IOOOQ 
+o 
+163 
+9890 9893 
+4-3 
+I 9^68 9578 ff iq 
+144, 9045 9084 + 39 
+132 834ö 8446 
+4 wo 
+J2Q 75qq 77iq 4-210 
+zo 6545 692^ 4-380 
+96 5>23 6148 +625 
+8+ 
+4478 5433 +955 
+72 3455 4800 +134s 
+60 
+2500 4404 + !9°4 
+st 1654 4240 -j-2586 
+36 
+9π 4142 
+Ψ3ι8 7 
+24 43 g 4063 + 36 3* 
+12 
+109 3999 4-3890 
+The resistance to 
+i 
+square foot, French measure, moving with the velocity of 2, 56 feet pci second, was ve jry nearly 7, 625 pounds French. 
+Reducing these to English measures, we have the swface = 1, 1363 seet, the velocity of the motion equal to 2, 7263 feet per second, and the resistance equal to 8, 234 pounds avoirdupois. The weight of a column of sresh water of this base, and having sor its height the fall necessary for communicating this velocity, is 8, 264 pounds avoirdupois. tïte resistances to other velocities were accurately proportional to the squares of the velocities. 
+There is great divetsity in the value which different authors have deduced for the absolute resistance of water from their experiments. In the value now given nothing is taken into account but the inertia of the wa ter. The accumulation against the forepart of the box was carefully noted, and the statical pressure backwards, arising from this canse, was subtracted from the whole resiftance to the drag. There had not been a sufficient variety of experiments for discovering the share which tenacity and friction produced; fo that the number of pounds set down here may be considered as somewhat superior to the mere effects of the inertia of the water, 
+we 
+think, upon the whole, that it is the most accurate determination yet given of the resistance to a body in motion : but we shall afterwards see reasons for belie ving, that the irnpulse of a running stream having the same velocity is somewhat greater; and this is the form in which most of the experiments have been made. 
+Also obierve, that the resistance here given is that to a vessel two feet broad and deep and four seet long. The resistance to a plane of two feet broad and deep would probably have exceeded this in the proportion of 15, 22 to 14, 54, for reasons we shall see afterwards. 
+From the experiments of Chevalier Buat, it appears that a body of one foot square, French measure, and two feet long, having its centre 1 y inches under water, moving three French feet per second, suslained a pressure of 14, 54 French pounds, or 15, 63 Englissu This redu ced in the proportion of 31 to 2, 56* gives 11, 43 pounds, considerably exceeding the 8, 24. 
+Mr Bouguer, in his 
+Manœuvre des Vaffe aux, 
+says, that he found the resistance of seawater to a velocity of one foot to be 23 ounces 
+poids des Marc. 
+The Chevalier Borda found the resistance of seawater to the face of a cubic foot, moving against the water one foot per second, to 
+be 21 
+ounces nearly. But 
+this 
+experiment ig 
+complicated; the wave 
+was net 
+ste. ducted; and it was not a plane, but a cube. 
+Don George d’ulloa found the impulse of a stream of seawater, running two feet per second on a foot square, to be 15î pounds English measure. This greatly exceeds all the values given by others. 
+From these experiments we learn, in the first place, that the direct resistance to a motion of a plane sursace through water, is very nearly equal to the weight of 
+a 
+column of water having that surface for its basc, and for its height the fall producing 
+the 
+velocity of the motion. This is but one half of the resistance determined by the preceding theory. It agrees, however, very well with the best experiments made by other philoso phers on bodies totally immersed or surrounded by the fluid; and sufficiently shows, that there mnst be some fallacy in the principles or reasoning by which this result of the theory is supposed to be deduced, W 
+e shall 
+have occasion to return to this again. 
+But we see that the effects of the obliquity of iuci dence deviate enormoussy from the theory, and that this deviation increases rapidly as the acuteness of tin prow increases. In the prow of 60° the deviation 
+is 
+nearly equal to the whole resistance pointed out by the theory, and in the prow of 120 it is nearly 40 times greater than the theoretical resistance. 
+The resistance of the prow of 90° should be one half the resistance of the base. we have not such a prow; but the medium between the resistance of the prow of 96 and 84 is 5790, instead of 500. 
+These experiments are very conform to those of other authors on plane surfaces. Mr Robins found the resistance of the air to a pyramid of 45°, with its apex foremost, was to that of its base as 1000 to 1411, in stead of. one to two, Chevalier Borda found the resistance of a cube, moving in water in the direction of the fide, was to the oblique resistance, when it was moved in the direction of the diagonal, in the proportion of 54- to 7; whereas it should have been that of 
+of 
+to I, or of 10 to 7 nearly. He also found, that a wedge whose angle was 90°, moving in air, gave for the proportion of the refistances of the edge and base 7281 : 10000, instead of 5000 : 10000, Also when the angle of the wedge was 60°, the refistances of the edge and base were 52 and 100, instead of 2£ and 100. 
+In short, in all the cases of oblique plane surfaces, the refistances were greater than those which are assigned by the theory. The theoretical law agrees tolerably with observation in large angles of incidence, that is, in incidences not differing very far from the perpendicular; but in more acute prows the resistances are more nearly proportional to the fines of incidence than to their squares. 
+The academicians deduced from these experiments an expression of the general value of the resistance, which corresponds tolerably well with observation. Thus let 
+X 
+be the compliment of the half angle of the prow, and let P be the direct pressure or resistance, with an incidence of 90°, and 
+p 
+the effective oblique pressure: : 
+
+p 
+= P χ cosine ’ * + 3, 153 
+‘ This 
+gives sora prow of 120 an error in defect about and in larger angles it is much nearer the truth; and 
+this is exact enough for 
+aby 
+practice. 

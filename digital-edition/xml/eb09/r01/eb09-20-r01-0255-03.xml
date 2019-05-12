@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09-20-r01-0255-03"
+                facs="encyclopediabrit20newyrich_raw_0273.jp2" type="entry">
+
+                <p><label>RAIN</label>. See <hi rend="smallcaps">Meteorology,</hi> vol. xvi. pp.
+                    128, 150-4, 180, and <hi rend="smallcaps">Geology,</hi> vol. <hi
+                        rend="smallcaps">x.</hi> p. 267 <hi rend="italic">sq</hi> .</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0151-02"
+                facs="encyclopaediabri24chisrich_0168.jp2" type="entry">
+                <p><label>SAN JUAN (or Haro) ISLANDS</label>, an archipelago (San Juan, Orcas,
+                    Shaw, Lopez, Blakely, Cypress, &amp;amp;c.) lying between Vancouver Island and
+                    the mainland of North America. These islands were for many years the subject of
+                    dispute between the British and the United States governments, and were finally
+                    assigned to the latter country by the arbitration of the emperor of Germany (on
+                    the 21st of October 1872). Geographically the cluster certainly belongs to the
+                    mainland, from which it is separated by Rosario Strait, generally much under 50
+                    fathoms in depth, while Haro Strait, separating it from Vancouver Island, has
+                    depths ranging from 100 to 190 fathoms. In 1873 the islands, formerly considered
+                    part of Whatcom county, Washington, were made the separate county of San Juan.
+                    Of the total area of 200 sq. m., about 60 are in San Juan, 60 in Orcas and 30 in
+                    Lopez.</p>
+                <p>See <hi rend="italic">Papers relating to the Treaty of Washington,</hi> vol. v.
+                    (Washington, 1872), and the map in <hi rend="italic">Petermann's
+                        Mitteilungen</hi> (1873).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

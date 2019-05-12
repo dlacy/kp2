@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0538-01"
+                facs="gri_33125011196389_0544.tif" type="entry">
+
+              <p>               <label>ROXBURGH<hi rend="smallcaps">-shire</hi></label>, or Teviotdale, a county
+                    of Scotland, deriving its name from the town of Roxburgh, which is now
+                    deſtroyed, and the river Teviot, that runs through the ſhire into the Tweed, is
+                    divided into the three diſtricts of <hi rend="italic">Teviotdale, Liddisdale,</hi> and <hi rend="italic">Eusdale,</hi> or <hi rend="italic">Euſdale,</hi> ſo called from their refpective rivers, Teviot, IAddal, and Eſk. It is bounded
+                    on the eaſt and ſouth-eaſt by Northumberland and Cumberland, on the ſouth and
+                    ſouth-weſt by Annandale, on the weſt by Tweeddale, on the north by the Merſe and
+                    Lauderdale; extending about 30 miles from eaſt to weſt, and about 15 in breadth
+                    from the border of England to the Blue Cairn in Lauder-moor. The ſhire exhibits
+                    a rough irregular appearance of hills, moffes, and mountains, interſperſed,
+                    however, with narrow valleys, and watered with delightful ſtreams. Though the
+                    face of the country is bare of woods, the valleys yield plenty of corn, and the
+                    hills abound with paſture for ſheep and black cattle. The principal mountains of
+                    this country are known by the name of <hi rend="italic">Cockraw :</hi> from
+                    whence a range of very high hills runs weſtward, dividing Scotland from England.
+                    On the confines of this ſhire are the debateable lands ; the property of which
+                    was formerly diſputed by the Scots and Engliſh borderers, but adjudged to the
+                    Scots at the union of the crowns.— Roxburghſhiie yields plenty of lime and
+                    freeſtone, which in former times was freely uſed by the inhabitants in building
+                    cattles to defend them from the invafions of their Engliſh neighbours. The moſt
+                    diſtinguiſhed families in this county are the Scots and Kers, who raiſed
+                    themſelves to wealth and honours by their bravery and ſucceſs in a fort of
+                    predatory war with their enemies of South Britain. The ſhire is very populous ;
+                    and the people are ſtout and valiant. They were formerly inured to military
+                    diſeipline and all the dangers of war, by living on dry marches contiguous to
+                    thoſe of England ; being ſo numerous and alert, that this and the neighbouring
+                    ſhire of Berwick could in 24 hours produce 10,000 men on horſeback, well armed
+                    and accoutred. In the ſhire of Roxburgh we ſtill meet with a great number of old
+                    caſtles and ſeats belonging to private gentlemen, whoſe anceſtors fignalized
+                    themſelves in this manner ; and we find the remains of old encampments, and a
+                    Roman military way, vulgarly called the <hi rend="italic">cauſewny,</hi> rιmning from Haunυm to the Tweed. The principal town, called <hi rend="italic">Roxburgh,</hi> giving the title of <hi rend="italic">duke</hi> to the
+                    chief of the Kers, was anciently a royal borough, containing divers pariſhes,
+                    large and fiouriſhing, defended by a ſtrong citadel, which was often alternately
+                    reduced by the Engliſh and Scotch adventurers. It was in befieging this caſtle
+                    that James II. of Scotland loſt his life by the burſting of a cannon. In
+                    conſequence of the almoſt continual wars between the two. nations, this fortreſs
+                    was razed, the town ruined, and its royalty tranflated to Jedburgh, which is now
+                    a royal borough, ſituated between the Tefy and Jed.</p>            </div>
+        </body>
+    </text>
+</TEI>

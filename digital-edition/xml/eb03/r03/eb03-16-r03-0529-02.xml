@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0529-02"
+                facs="gri_33125011196389_0535.tif" type="entry">
+
+              <p>               <label>ROUND<hi rend="smallcaps">-House</hi></label>, a kind of prison for the
+                    nightly watch in London to ſecure diſorderly perſons till they can be carried
+                    before a magiftrate.</p>              <p>               <hi rend="italic">Round-House,</hi> in a ſhip, the uppermoſt room or cabin on
+                    the ſtern of a ſhip, where the master lies.</p>            </div>
+        </body>
+    </text>
+</TEI>

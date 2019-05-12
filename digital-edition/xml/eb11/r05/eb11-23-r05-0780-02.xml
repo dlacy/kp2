@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r05-0780-02"
+                facs="encyclopaediabri23chisrich_0835.jp2" type="entry">
+
+                <p><label>ROUTH, EDWARD JOHN</label> (1831-1907), English mathematician, was born at
+                    Quebec on the 20th of January 1831. At the age of eleven he came to England, and
+                    after studying under A. de Morgan at University College, London, entered
+                    Peterhouse, Cambridge, in 1851. In the mathematical tripos three years later he
+                    was senior wrangler, beating J. Clerk Maxwell, who, however, tied with him for
+                    the Smith’s prize. Elected a fellow of his college, he devoted himself to
+                    teaching, and quickly proved himself one of the most successful mathematical “
+                    coaches ” ever known at Cambridge. In thirty years, of some 700 pupils who
+                    passed through his hands 500 became wranglers; and for twenty-two successive
+                    years, from 1861 to 1882, the senior wrangler was trained by him. He made
+                    considerable contributions to scientific literature, and among his publications
+                    were: <hi rend="italic">An Analytical View of Newton’s Principia,</hi> with Lord
+                    Brougham (1855); an <hi rend="italic">Essay on the Stability of a given State of
+                        Motion,</hi> which won the Adams’ prize in 1877; and treatises on the <hi
+                        rend="italic">Dynamics of Rigid Bodies,</hi> on <hi rend="italic">Analytical
+                        Statics,</hi> and on the <hi rend="italic">Dynamics of a Particle.</hi> He
+                    died at Cambridge on the 7th of June 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0423-03"
+                facs="encyclopaediabri23chisrich_0456.jp2" type="entry">
+
+                <p><label>ROBINSON, JOHN THOMAS ROMNEY</label> (1792-1882), Irish astronomer and
+                    physicist, was born in Dublin on the 23rd of April 1792. He studied at Trinity
+                    College, Dublin, and obtained a fellowship in 1814; for some years he was deputy
+                    professor of natural philosophy, until in 1821 he obtained the college living of
+                    Enniskillen. In 1823 he was appointed astronomer of the Armagh observatory, with
+                    which he (from 1824) combined the living of Carrickmacross, but he always
+                    resided at the observatory, engaged in researches connected with astronomy and
+                    physics, until his death on the 28th of February 1882.</p>
+               <p>Robinson published a number of papers in scientific journals, and the Armagh
+                    catalogue of stars <hi rend="italic">{Places of 5345 Stars Observed from 1828 to
+                        1854 at the Armagh Observatory,</hi> Dublin, 1859), but he is best known as
+                    the inventor (1846) of the cup-anemometer for registering the velocity of the
+                    wind.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0738-01"
+                facs="encyclopaediabri23chisrich_0791.jp2" type="entry">
+
+                <p><label>ROSKILDE</label> or <hi rend="smallcaps">Roeskilde,</hi> a town of Denmark
+                    in the <hi rend="italic">amt</hi> (county) of Kjobenhavn (Copenhagen), 20 m. by
+                    rail W. of Copenhagen, on the great lagoon-like inlet riamed Roskilde Fjord.
+                    Pop. (1901) 8368. It has a small port, and is an important railway junction,
+                    from which lines diverge W.,</p>
+               <p>S.W. and S. through the island of Zealand. Its interest, however, is historical.
+                    It was the capital of the kingdom until 1443, and the residence of the bishops
+                    of Zealand until the Reformation. The cathedral, a beautiful church, was
+                    consecrated in 1084, but of this early building only foundation walls remain;
+                    the present structure of brick was begun in 1215, and
+                    enlarged and restored at various later dates. It stands in relation to Danish
+                    history somewhat as Westminster Abbey does to English, containing the tombs of
+                    most of the Danish kings from Harold I. (987). The most noteworthy architectural
+                    details are the Chapel of the Trinity (15th century) and that of Christian IV.
+                    (Renaissance, 1617), carved choir-stalls, and an altar-piece of the 16th
+                    century. Other old buildings are a church of Our Lady, dating as it stands from
+                    1242, a diocesan library (partly of the 15th century), royal palace (1733) and
+                    institute for daughters of noblemen (1670).</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

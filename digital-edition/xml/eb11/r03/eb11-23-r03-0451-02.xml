@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0451-02"
+                facs="encyclopaediabri23chisrich_0484.jp2" type="entry">
+
+                <p><label>ROE-BUCK</label> the smallest of the British deer (a full-grown buck
+                    standing not more than 27 in. high at the shoulder), the typical representative
+                    of a genus <hi rend="italic">(Capreolus)</hi> in which the antlers lack a
+                    brow-tine and belong to what is characterized as the forked type, while the tail
+                    is rudimentary (see <hi rend="smallcaps">Deer).</hi> The antlers are short,
+                    upright arid deeply furrowed, the beam forking at «about two-thirds of its
+                    length, and the upper prong again dividing, thus making three points. The coat
+                    in summer is foxy red above and white below; in winter this changes to a greyish
+                    fawn, with a white rump-patch. The roe-buck or roe-deer <hi rend="italic"
+                        >(Capreolus caprea,</hi> or C. <hi rend="italic">capreolus)</hi> inhabits
+                    southern and temperate Europe as far east as the Caucasus, where, as in Syria,
+                    it is probably represented by another race or species. It frequents woods,
+                    preferring such as have a large growth of underwood and are in the neighbourhood
+                    of cultivated ground. The latter it visits in the evening in search of food; and
+                    where roe are numerous the damage done to growing crops is considerable. Pairing
+                    takes place in August, but the fawns are not born till the following May.
+                    According to one theory, the germ lies dormant until December, when it begins to
+                    develop; but it is now believed that this long gestation is due to slow rather
+                    than arrested development. Roe were formerly abundant in all the wooded parts of
+                    Great Britain, but were gradually exterminated, till a century and a half ago
+                    they were unknown</p>
+               <p>south of Perthshire. Since then the increase of plantations has led to the
+                    partial restoration of the species in the south of Scotland and the north of
+                    England; and it was reintroduced into Dorset early in the 19th century. These
+                    deer take readily to the water, and they have been known to swim across lochs
+                    more than half a mile in breadth. The Siberian roe (C. <hi rend="italic"
+                        >pygargus),</hi> which is common in the Altai, is larger and paler than the
+                    type species, with shorter and more hairy ears, a larger white rump-patch, and
+                    small irregular snags on the inner border of the antlers. The Manchurian roe <hi
+                        rend="italic">(Capreolus manchuricus)</hi> is about the size of the European
+                    species, with antlers of the type of those of the Siberian roe, but more
+                    slender, and the coat shorter. Although described in 1889 as a local variety of
+                    the Siberian species, the Manchurian roe really appears, both as regards
+                    stature, hairiness and the black and white markings on the muzzle, much more
+                    nearly related to the European animal. This is the more remarkable seeing that
+                    the habitats of the two are separated by such an enormous tract of country. (R.
+                    L.*)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

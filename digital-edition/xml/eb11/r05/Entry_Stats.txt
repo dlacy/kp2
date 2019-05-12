@@ -1,0 +1,900 @@
+1    eb11-23-r05-0759-01.xml                                ROTHWELL 0759                    
+2    eb11-23-r05-0759-02.xml                                ROTIFERA 0759                    
+3    eb11-23-r05-0764-01.xml                                 ROTORUA 0764                    
+4    eb11-23-r05-0764-02.xml                         ROTROU, JEAN DE 0764                    
+5    eb11-23-r05-0765-01.xml                                   ROTTA 0765           footnotes
+6    eb11-23-r05-0765-02.xml                              ROTTENBURG 0765                    
+7    eb11-23-r05-0766-01.xml                               ROTTERDAM 0766                    
+8    eb11-23-r05-0766-02.xml                                ROTTWEIL 0766                    
+9    eb11-23-r05-0767-01.xml                                 ROTUMAH 0767                    
+10   eb11-23-r05-0767-02.xml                        ROUAULT, JOACHIM 0767                    
+11   eb11-23-r05-0767-03.xml                                 ROUBAIX 0767                    
+12   eb11-23-r05-0767-04.xml                               ROUBILIAC 0767                    
+13   eb11-23-r05-0767-05.xml                   ROUCHER, JEAN ANTOINE 0767                    
+14   eb11-23-r05-0768-01.xml                                    ROUÉ 0768                    
+15   eb11-23-r05-0768-02.xml             ROUELLE, GUILLAUME FRANÇOIS 0768                    
+16   eb11-23-r05-0768-03.xml                                   ROUEN 0768                    
+17   eb11-23-r05-0770-01.xml                                ROUERGUE 0770                    
+18   eb11-23-r05-0770-02.xml                                   ROUGE 0770                    
+19   eb11-23-r05-0770-03.xml          ROUGET DE LISLE, CLAUDE JOSEPH 0770                    
+20   eb11-23-r05-0770-04.xml                              ROUGH CAST 0770                    
+21   eb11-23-r05-0770-05.xml                          ROUHER, EUGÈNE 0770                    
+22   eb11-23-r05-0771-01.xml                                 ROULERS 0771                    
+23   eb11-23-r05-0771-02.xml                                ROULETTE 0771                    
+24   eb11-23-r05-0771-03.xml                                ROULETTE 0771                    
+25   eb11-23-r05-0771-04.xml                                   ROUND 0771                    
+26   eb11-23-r05-0772-01.xml                                ROUNDERS 0772                    
+27   eb11-23-r05-0772-02.xml                               ROUNDHEAD 0772                    
+28   eb11-23-r05-0772-03.xml                        ROUNDSMAN SYSTEM 0772                    
+29   eb11-23-r05-0772-04.xml                        ROUND TABLE, THE 0772                    
+30   eb11-23-r05-0773-01.xml                            ROUND TOWERS 0773                    
+31   eb11-23-r05-0774-01.xml                           ROUS, FRANCIS 0774                    
+32   eb11-23-r05-0774-02.xml                        ROUS, HENRY JOHN 0774                    
+33   eb11-23-r05-0774-03.xml                       ROUSSEAU, JACQUES 0774                    
+34   eb11-23-r05-0774-04.xml                 ROUSSEAU, JEAN BAPTISTE 0774                    
+35   eb11-23-r05-0775-01.xml                  ROUSSEAU, JEAN JACQUES 0775           footnotes
+36   eb11-23-r05-0779-01.xml       ROUSSEAU, PIERRE ÉTIENNE THÉODORE 0779                    
+37   eb11-23-r05-0779-02.xml    ROUSSEAU DE LA ROTTIÈRE, JEAN SIMÉON 0779                    
+38   eb11-23-r05-0780-01.xml                              ROUSSILLON 0780                    
+39   eb11-23-r05-0780-02.xml                      ROUTH, EDWARD JOHN 0780                    
+40   eb11-23-r05-0780-03.xml                    ROUTH, MARTIN JOSEPH 0780                    
+41   eb11-23-r05-0780-04.xml                       ROUTLEDGE, GEORGE 0780                    
+42   eb11-23-r05-0781-01.xml                        ROUVIER, MAURICE 0781                    
+43   eb11-23-r05-0781-02.xml                                ROVERETO 0781                    
+44   eb11-23-r05-0781-03.xml                                 ROVIGNO 0781                    
+45   eb11-23-r05-0781-04.xml                                  ROVIGO 0781                    
+46   eb11-23-r05-0782-01.xml                                  ROVUMA 0782                    
+47   eb11-23-r05-0782-02.xml                               ROW, JOHN 0782                    
+48   eb11-23-r05-0782-03.xml                          ROWE, NICHOLAS 0782                    
+49   eb11-23-r05-0783-01.xml                                   ROWEL 0783                    
+50   eb11-23-r05-0783-02.xml                                  ROWING 0783                    
+51   eb11-23-r05-0786-01.xml                 ROWLAND, HENRY AUGUSTUS 0786                    
+52   eb11-23-r05-0787-01.xml                       ROWLANDS, RICHARD 0787                    
+53   eb11-23-r05-0787-02.xml                        ROWLANDS, SAMUEL 0787                    
+54   eb11-23-r05-0787-03.xml                      ROWLANDSON, THOMAS 0787                    
+55   eb11-23-r05-0788-01.xml                         ROWLEY, WILLIAM 0788           footnotes
+56   eb11-23-r05-0788-02.xml                            ROWLEY REGIS 0788                    
+57   eb11-23-r05-0788-03.xml                                 ROWLOCK 0788                    
+58   eb11-23-r05-0788-04.xml    ROWTON, MONTAGUE WILLIAM LOWRY-CORRY 0788                    
+59   eb11-23-r05-0789-01.xml                                  ROXANA 0789                    
+60   eb11-23-r05-0789-02.xml           ROXBURGHE, EARLS AND DUKES OF 0789                    
+61   eb11-23-r05-0789-03.xml                           ROXBURGHSHIRE 0789                    
+62   eb11-23-r05-0791-01.xml                                 ROXBURY 0791           footnotes
+63   eb11-23-r05-0791-02.xml                            ROY, WILLIAM 0791                    
+64   eb11-23-r05-0791-03.xml                              ROYAL FERN 0791                    
+65   eb11-23-r05-0791-04.xml                      ROYAL SOCIETY, THE 0791                    
+66   eb11-23-r05-0794-01.xml                                 ROYALTY 0794                    
+67   eb11-23-r05-0794-02.xml                                  ROY AN 0794                    
+68   eb11-23-r05-0794-03.xml                                   ROYAT 0794                    
+69   eb11-23-r05-0794-04.xml              ROYER-COLLARD, PIERRE PAUL 0794                    
+70   eb11-23-r05-0794-05.xml                      ROYLE, JOHN FORBES 0794                    
+71   eb11-23-r05-0795-01.xml                                 ROYSTON 0795                    
+72   eb11-23-r05-0795-02.xml                                  ROYTON 0795                    
+73   eb11-23-r05-0795-03.xml                 ROZAS, JUAN MARTINEZ DE 0795                    
+74   eb11-23-r05-0795-04.xml                                  RUABON 0795                    
+75   eb11-23-r05-0795-05.xml                                  RUBBER 0795                    
+76   eb11-23-r05-0804-01.xml                                  RUBBLE 0804                    
+77   eb11-23-r05-0804-02.xml                               RUBELLITE 0804                    
+78   eb11-23-r05-0804-03.xml                      RUBENS, PETER PAUL 0804           footnotes
+79   eb11-23-r05-0808-01.xml                               RUBIACEAE 0808                    
+80   eb11-23-r05-0808-02.xml                                 RUBICON 0808                    
+81   eb11-23-r05-0808-03.xml                                RUBIDIUM 0808                    
+82   eb11-23-r05-0809-01.xml           RUBINSTEIN, ANTON GRIGOROVICH 0809                    
+83   eb11-23-r05-0810-01.xml                                  RUBRIC 0810                    
+84   eb11-23-r05-0810-02.xml                               RUBRUQUIS 0810           footnotes
+85   eb11-23-r05-0812-01.xml                                    RUBY 0812                    
+86   eb11-23-r05-0813-01.xml                              RUBY MINES 0813                    
+87   eb11-23-r05-0813-02.xml       RÜCKERT, JOHANN MICHAEL FRIEDRICH 0813                    
+88   eb11-23-r05-0813-03.xml                                  RÜDAGI 0813                    
+89   eb11-23-r05-0813-04.xml                                    RUDD 0813                    
+90   eb11-23-r05-0814-01.xml                                  RUDDER 0814                    
+91   eb11-23-r05-0814-02.xml                        RUDDIMAN, THOMAS 0814                    
+92   eb11-23-r05-0814-03.xml                          RUDE, FRANÇOIS 0814                    
+93   eb11-23-r05-0814-04.xml                                 RUDERAL 0814                    
+94   eb11-23-r05-0814-05.xml                               RÜDESHEIM 0814                    
+95   eb11-23-r05-0815-01.xml                RUDINÌ, ANTONIO STARABBA 0815                    
+96   eb11-23-r05-0815-02.xml                                   RUDOK 0815                    
+97   eb11-23-r05-0815-03.xml                                  RUDOLF 0815                    
+98   eb11-23-r05-0816-01.xml                               RUDOLPH I 0816                    
+99   eb11-23-r05-0817-01.xml                              RUDOLPH II 0817                    
+100  eb11-23-r05-0817-02.xml                                 RUDOLPH 0817                    
+101  eb11-23-r05-0817-03.xml                                 RUDOLPH 0817                    
+102  eb11-23-r05-0817-04.xml                                 RUDOLPH 0817                    
+103  eb11-23-r05-0818-01.xml                              RUDOLSTADT 0818                    
+104  eb11-23-r05-0818-02.xml                                   RUDRA 0818                    
+105  eb11-23-r05-0818-03.xml                                     RUE 0818                    
+106  eb11-23-r05-0818-04.xml                          RUEDA, LOPE DE 0818                    
+107  eb11-23-r05-0818-05.xml                                   RUEIL 0818                    
+108  eb11-23-r05-0818-06.xml                                    RUFF 0818           footnotes
+109  eb11-23-r05-0819-01.xml                                 RUFFIAN 0819                    
+110  eb11-23-r05-0819-02.xml                         RUFFO, FABRIZIO 0819                    
+111  eb11-23-r05-0820-01.xml                                  RUFIJI 0820                    
+112  eb11-23-r05-0820-02.xml                      RUFINUS, TYRANNIUS 0820           footnotes
+113  eb11-23-r05-0821-01.xml                    RUFUS, GAIUS VALGIUS 0821                    
+114  eb11-23-r05-0821-02.xml                    RUFUS, LUCIUS VARIUS 0821                    
+115  eb11-23-r05-0821-03.xml                                     RUG 0821                    
+116  eb11-23-r05-0821-04.xml                                   RUGBY 0821                    
+117  eb11-23-r05-0821-05.xml                            RUGE, ARNOLD 0821                    
+118  eb11-23-r05-0822-01.xml                                 RUGELEY 0822                    
+119  eb11-23-r05-0822-02.xml                                   RÜGEN 0822                    
+120  eb11-23-r05-0822-03.xml                                   RUHLA 0822                    
+121  eb11-23-r05-0822-04.xml                          RUHNKEN, DAVID 0822                    
+122  eb11-23-r05-0823-01.xml                                    RUHR 0823                    
+123  eb11-23-r05-0823-02.xml                                 RUHRORT 0823                    
+124  eb11-23-r05-0823-03.xml                              RUIZ, JUAN 0823                    
+125  eb11-23-r05-0824-01.xml                                   RUKWA 0824                    
+126  eb11-23-r05-0824-02.xml                                RULHIÉRE 0824                    
+127  eb11-23-r05-0824-03.xml               RULLUS, PUBLIUS SERVILIUS 0824                    
+128  eb11-23-r05-0825-01.xml                                     RUM 0825                    
+129  eb11-23-r05-0825-02.xml                                     RUM 0825                    
+130  eb11-23-r05-0825-03.xml                                 RUMANIA 0825           footnotes
+131  eb11-23-r05-0849-01.xml                                RUM ELIA 0849                    
+132  eb11-23-r05-0849-02.xml              RUMFORD, BENJAMIN THOMPSON 0849                    
+133  eb11-23-r05-0850-01.xml                                    RUMI 0850                    
+134  eb11-23-r05-0851-01.xml                              RUMINANTIA 0851                    
+135  eb11-23-r05-0851-02.xml           RUMKER, CARL LUDWIG CHRISTIAN 0851                    
+136  eb11-23-r05-0851-03.xml                     RUNCIMAN, ALEXANDER 0851                    
+137  eb11-23-r05-0851-04.xml                                 RUNCORN 0851                    
+138  eb11-23-r05-0851-05.xml                                 RUNDALE 0851                    
+139  eb11-23-r05-0851-06.xml                  RUNEBERG, JOHAN LUDVIG 0851                    
+140  eb11-23-r05-0852-01.xml  RUNES, RUNIC LANGUAGE AND INSCRIPTIONS 0852                    
+141  eb11-23-r05-0853-01.xml                                    RUNG 0853                    
+142  eb11-23-r05-0853-02.xml                               RUNNIMEDE 0853                    
+143  eb11-23-r05-0853-03.xml                                 RUNNING 0853                    
+144  eb11-23-r05-0854-01.xml                                RUODLIEB 0854                    
+145  eb11-23-r05-0855-01.xml                                   RUPAR 0855                    
+146  eb11-23-r05-0855-02.xml                                   RUPEE 0855                    
+147  eb11-23-r05-0855-03.xml                                  RUPERT 0855                    
+148  eb11-23-r05-0855-04.xml                          RUPERT, PRINCE 0855                    
+149  eb11-23-r05-0856-01.xml                                  RUPERT 0856                    
+150  eb11-23-r05-0856-02.xml                           RUPERT’S LAND 0856                    
+151  eb11-23-r05-0856-03.xml                       RUPILIUS, PUBLIUS 0856                    
+152  eb11-23-r05-0856-04.xml                                  RUPPIN 0856                    
+153  eb11-23-r05-0856-05.xml                                RUSELLAE 0856                    
+154  eb11-23-r05-0857-01.xml                          RUSH, BENJAMIN 0857                    
+155  eb11-23-r05-0857-02.xml                           RUSH, RICHARD 0857                    
+156  eb11-23-r05-0857-03.xml                                    RUSH 0857                    
+157  eb11-23-r05-0857-04.xml                                 RUSHDEN 0857                    
+158  eb11-23-r05-0857-05.xml                        RUSH WORTH, JOHN 0857                    
+159  eb11-23-r05-0858-01.xml                            RUSKIN, JOHN 0858                    
+160  eb11-23-r05-0861-01.xml                                 RUSSELL 0861                    
+161  eb11-23-r05-0862-01.xml                    RUSSELL, ISRAEL COOK 0862                    
+162  eb11-23-r05-0863-01.xml                           RUSSELL, JOHN 0863                    
+163  eb11-23-r05-0863-02.xml                           RUSSELL, JOHN 0863                    
+164  eb11-23-r05-0863-03.xml                   RUSSELL, JOHN RUSSELL 0863                    
+165  eb11-23-r05-0864-01.xml                     RUSSELL, JOHN SCOTT 0864                    
+166  eb11-23-r05-0865-01.xml                         RUSSELL, THOMAS 0865                    
+167  eb11-23-r05-0865-02.xml                  RUSSELL, WILLIAM CLARK 0865                    
+168  eb11-23-r05-0865-03.xml             RUSSELL, SIR WILLIAM HOWARD 0865                    
+169  eb11-23-r05-0866-01.xml                   RUSSELL, LORD WILLIAM 0866                    
+170  eb11-23-r05-0867-01.xml    RUSSELL OF KILLOWEN, CHARLES RUSSELL 0867                    
+171  eb11-23-r05-0869-01.xml          RUSSELL OF THORNHAUGH, WILLIAM 0869                    
+172  eb11-23-r05-0869-02.xml                                  RUSSIA 0869           footnotes
+173  eb11-23-r05-0912-01.xml                        RUSSIAN LANGUAGE 0912                    
+174  eb11-23-r05-0914-01.xml                      RUSSIAN LITERATURE 0914           footnotes
+175  eb11-23-r05-0919-01.xml                      RUSSO-JAPANESE WAR 0919           footnotes
+176  eb11-23-r05-0931-01.xml                      RUSSO-TURKISH WARS 0931                    
+177  eb11-23-r05-0936-01.xml                                    RUST 0936                    
+178  eb11-23-r05-0936-02.xml                                RUSTCHUK 0936                    
+179  eb11-23-r05-0936-03.xml                              RUSTENBURG 0936                    
+180  eb11-23-r05-0936-04.xml                             RUSTICATION 0936                    
+181  eb11-23-r05-0937-01.xml               RÜSTOW, FRIEDRICH WILHELM 0937                    
+182  eb11-23-r05-0937-02.xml                                RUTEBEUF 0937           footnotes
+183  eb11-23-r05-0938-01.xml                           RUTH, BOOK OF 0938           footnotes
+184  eb11-23-r05-0939-01.xml                              RUTHENIANS 0939                    
+185  eb11-23-r05-0939-02.xml                               RUTHENIUM 0939                    
+186  eb11-23-r05-0940-01.xml                        RUTHERFORD, MARK 0940                    
+187  eb11-23-r05-0940-02.xml              RUTHERFORD, WILLIAM GUNION 0940                    
+188  eb11-23-r05-0940-03.xml                              RUTHERFURD 0940                    
+189  eb11-23-r05-0940-04.xml                              RUTHERGLEN 0940                    
+190  eb11-23-r05-0941-01.xml                                  RUTHIN 0941                    
+191  eb11-23-r05-0941-02.xml                                 RUTHVEN 0941                    
+192  eb11-23-r05-0941-03.xml                                  RUTILE 0941                    
+193  eb11-23-r05-0942-01.xml            RUTILIUS CLAUDIUS NAMATIANUS 0942                    
+194  eb11-23-r05-0943-01.xml                 RUTILIUS RUFUS, PUBLIUS 0943                    
+195  eb11-23-r05-0943-02.xml             RUTLAND, EARLS AND DUKES OF 0943                    
+196  eb11-23-r05-0943-03.xml      RUTLAND, JOHN JAMES ROBERT MANNERS 0943                    
+197  eb11-23-r05-0944-01.xml                                 RUTLAND 0944                    
+198  eb11-23-r05-0945-01.xml                                 RUTLAND 0945                    
+199  eb11-23-r05-0945-02.xml                          RUTLEDGE, JOHN 0945                    
+200  eb11-23-r05-0945-03.xml                           RUTLEY, FRANK 0945                    
+201  eb11-23-r05-0946-01.xml                                  RUTULI 0946                    
+202  eb11-23-r05-0946-02.xml                RUVIGNY, HENRI DE MASSUE 0946           footnotes
+203  eb11-23-r05-0946-03.xml                                    RUVO 0946                    
+204  eb11-23-r05-0946-04.xml                               RUWENZORI 0946                    
+205  eb11-23-r05-0947-01.xml                               RUYSBROEK 0947                    
+206  eb11-23-r05-0947-02.xml                                RUYSDAEL 0947                    
+207  eb11-23-r05-0948-01.xml                              RYAN, LACY 0948                    
+208  eb11-23-r05-0948-02.xml                                  RYAZAN 0948                    
+209  eb11-23-r05-0948-03.xml                                  RYAZAN 0948                    
+210  eb11-23-r05-0949-01.xml                                 RYAZHSK 0949                    
+211  eb11-23-r05-0949-02.xml                                 RYBINSK 0949                    
+212  eb11-23-r05-0949-03.xml                 RYDBERG, ABRAHAM VIKTOR 0949                    
+213  eb11-23-r05-0949-04.xml                                    RYDE 0949                    
+214  eb11-23-r05-0949-05.xml                   RYDER, ALBERT PINKHAM 0949                    
+215  eb11-23-r05-0949-06.xml                                     RYE 0949                    
+216  eb11-23-r05-0950-01.xml                                     RYE 0950                    
+217  eb11-23-r05-0950-02.xml                               RYEZHITSA 0950                    
+218  eb11-23-r05-0950-03.xml                   RYLAND, WILLIAM WYNNE 0950                    
+219  eb11-23-r05-0950-04.xml                           RYLANDS, JOHN 0950                    
+220  eb11-23-r05-0950-05.xml                      RYLE, JOHN CHARLES 0950                    
+221  eb11-23-r05-0951-01.xml                                   RYLSK 0951                    
+222  eb11-23-r05-0951-02.xml                           RYMER, THOMAS 0951           footnotes
+223  eb11-23-r05-0952-01.xml                                    RYOT 0952                    
+224  eb11-23-r05-0952-02.xml                      RYSWICK, TREATY OF 0952                    
+225  eb11-23-r05-0952-03.xml                                   RZHEV 0952                    
+1    eb11-23-r05-0759-01.xml                                ROTHWELL 0759                    
+2    eb11-23-r05-0759-02.xml                                ROTIFERA 0759                    
+3    eb11-23-r05-0764-01.xml                                 ROTORUA 0764                    
+4    eb11-23-r05-0764-02.xml                         ROTROU, JEAN DE 0764                    
+5    eb11-23-r05-0765-01.xml                                   ROTTA 0765           footnotes
+6    eb11-23-r05-0765-02.xml                              ROTTENBURG 0765                    
+7    eb11-23-r05-0766-01.xml                               ROTTERDAM 0766                    
+8    eb11-23-r05-0766-02.xml                                ROTTWEIL 0766                    
+9    eb11-23-r05-0767-01.xml                                 ROTUMAH 0767                    
+10   eb11-23-r05-0767-02.xml                        ROUAULT, JOACHIM 0767                    
+11   eb11-23-r05-0767-03.xml                                 ROUBAIX 0767                    
+12   eb11-23-r05-0767-04.xml                               ROUBILIAC 0767                    
+13   eb11-23-r05-0767-05.xml                   ROUCHER, JEAN ANTOINE 0767                    
+14   eb11-23-r05-0768-01.xml                                    ROUÉ 0768                    
+15   eb11-23-r05-0768-02.xml             ROUELLE, GUILLAUME FRANÇOIS 0768                    
+16   eb11-23-r05-0768-03.xml                                   ROUEN 0768                    
+17   eb11-23-r05-0770-01.xml                                ROUERGUE 0770                    
+18   eb11-23-r05-0770-02.xml                                   ROUGE 0770                    
+19   eb11-23-r05-0770-03.xml          ROUGET DE LISLE, CLAUDE JOSEPH 0770                    
+20   eb11-23-r05-0770-04.xml                              ROUGH CAST 0770                    
+21   eb11-23-r05-0770-05.xml                          ROUHER, EUGÈNE 0770                    
+22   eb11-23-r05-0771-01.xml                                 ROULERS 0771                    
+23   eb11-23-r05-0771-02.xml                                ROULETTE 0771                    
+24   eb11-23-r05-0771-03.xml                                ROULETTE 0771                    
+25   eb11-23-r05-0771-04.xml                                   ROUND 0771                    
+26   eb11-23-r05-0772-01.xml                                ROUNDERS 0772                    
+27   eb11-23-r05-0772-02.xml                               ROUNDHEAD 0772                    
+28   eb11-23-r05-0772-03.xml                        ROUNDSMAN SYSTEM 0772                    
+29   eb11-23-r05-0772-04.xml                        ROUND TABLE, THE 0772                    
+30   eb11-23-r05-0773-01.xml                            ROUND TOWERS 0773                    
+31   eb11-23-r05-0774-01.xml                           ROUS, FRANCIS 0774                    
+32   eb11-23-r05-0774-02.xml                        ROUS, HENRY JOHN 0774                    
+33   eb11-23-r05-0774-03.xml                       ROUSSEAU, JACQUES 0774                    
+34   eb11-23-r05-0774-04.xml                 ROUSSEAU, JEAN BAPTISTE 0774                    
+35   eb11-23-r05-0775-01.xml                  ROUSSEAU, JEAN JACQUES 0775           footnotes
+36   eb11-23-r05-0779-01.xml       ROUSSEAU, PIERRE ÉTIENNE THÉODORE 0779                    
+37   eb11-23-r05-0779-02.xml    ROUSSEAU DE LA ROTTIÈRE, JEAN SIMÉON 0779                    
+38   eb11-23-r05-0780-01.xml                              ROUSSILLON 0780                    
+39   eb11-23-r05-0780-02.xml                      ROUTH, EDWARD JOHN 0780                    
+40   eb11-23-r05-0780-03.xml                    ROUTH, MARTIN JOSEPH 0780                    
+41   eb11-23-r05-0780-04.xml                       ROUTLEDGE, GEORGE 0780                    
+42   eb11-23-r05-0781-01.xml                        ROUVIER, MAURICE 0781                    
+43   eb11-23-r05-0781-02.xml                                ROVERETO 0781                    
+44   eb11-23-r05-0781-03.xml                                 ROVIGNO 0781                    
+45   eb11-23-r05-0781-04.xml                                  ROVIGO 0781                    
+46   eb11-23-r05-0782-01.xml                                  ROVUMA 0782                    
+47   eb11-23-r05-0782-02.xml                               ROW, JOHN 0782                    
+48   eb11-23-r05-0782-03.xml                          ROWE, NICHOLAS 0782                    
+49   eb11-23-r05-0783-01.xml                                   ROWEL 0783                    
+50   eb11-23-r05-0783-02.xml                                  ROWING 0783                    
+51   eb11-23-r05-0786-01.xml                 ROWLAND, HENRY AUGUSTUS 0786                    
+52   eb11-23-r05-0787-01.xml                       ROWLANDS, RICHARD 0787                    
+53   eb11-23-r05-0787-02.xml                        ROWLANDS, SAMUEL 0787                    
+54   eb11-23-r05-0787-03.xml                      ROWLANDSON, THOMAS 0787                    
+55   eb11-23-r05-0788-01.xml                         ROWLEY, WILLIAM 0788           footnotes
+56   eb11-23-r05-0788-02.xml                            ROWLEY REGIS 0788                    
+57   eb11-23-r05-0788-03.xml                                 ROWLOCK 0788                    
+58   eb11-23-r05-0788-04.xml    ROWTON, MONTAGUE WILLIAM LOWRY-CORRY 0788                    
+59   eb11-23-r05-0789-01.xml                                  ROXANA 0789                    
+60   eb11-23-r05-0789-02.xml           ROXBURGHE, EARLS AND DUKES OF 0789                    
+61   eb11-23-r05-0789-03.xml                           ROXBURGHSHIRE 0789                    
+62   eb11-23-r05-0791-01.xml                                 ROXBURY 0791           footnotes
+63   eb11-23-r05-0791-02.xml                            ROY, WILLIAM 0791                    
+64   eb11-23-r05-0791-03.xml                              ROYAL FERN 0791                    
+65   eb11-23-r05-0791-04.xml                      ROYAL SOCIETY, THE 0791                    
+66   eb11-23-r05-0794-01.xml                                 ROYALTY 0794                    
+67   eb11-23-r05-0794-02.xml                                  ROY AN 0794                    
+68   eb11-23-r05-0794-03.xml                                   ROYAT 0794                    
+69   eb11-23-r05-0794-04.xml              ROYER-COLLARD, PIERRE PAUL 0794                    
+70   eb11-23-r05-0794-05.xml                      ROYLE, JOHN FORBES 0794                    
+71   eb11-23-r05-0795-01.xml                                 ROYSTON 0795                    
+72   eb11-23-r05-0795-02.xml                                  ROYTON 0795                    
+73   eb11-23-r05-0795-03.xml                 ROZAS, JUAN MARTINEZ DE 0795                    
+74   eb11-23-r05-0795-04.xml                                  RUABON 0795                    
+75   eb11-23-r05-0795-05.xml                                  RUBBER 0795                    
+76   eb11-23-r05-0804-01.xml                                  RUBBLE 0804                    
+77   eb11-23-r05-0804-02.xml                               RUBELLITE 0804                    
+78   eb11-23-r05-0804-03.xml                      RUBENS, PETER PAUL 0804           footnotes
+79   eb11-23-r05-0808-01.xml                               RUBIACEAE 0808                    
+80   eb11-23-r05-0808-02.xml                                 RUBICON 0808                    
+81   eb11-23-r05-0808-03.xml                                RUBIDIUM 0808                    
+82   eb11-23-r05-0809-01.xml           RUBINSTEIN, ANTON GRIGOROVICH 0809                    
+83   eb11-23-r05-0810-01.xml                                  RUBRIC 0810                    
+84   eb11-23-r05-0810-02.xml                               RUBRUQUIS 0810           footnotes
+85   eb11-23-r05-0812-01.xml                                    RUBY 0812                    
+86   eb11-23-r05-0813-01.xml                              RUBY MINES 0813                    
+87   eb11-23-r05-0813-02.xml       RÜCKERT, JOHANN MICHAEL FRIEDRICH 0813                    
+88   eb11-23-r05-0813-03.xml                                  RÜDAGI 0813                    
+89   eb11-23-r05-0813-04.xml                                    RUDD 0813                    
+90   eb11-23-r05-0814-01.xml                                  RUDDER 0814                    
+91   eb11-23-r05-0814-02.xml                        RUDDIMAN, THOMAS 0814                    
+92   eb11-23-r05-0814-03.xml                          RUDE, FRANÇOIS 0814                    
+93   eb11-23-r05-0814-04.xml                                 RUDERAL 0814                    
+94   eb11-23-r05-0814-05.xml                               RÜDESHEIM 0814                    
+95   eb11-23-r05-0815-01.xml                RUDINÌ, ANTONIO STARABBA 0815                    
+96   eb11-23-r05-0815-02.xml                                   RUDOK 0815                    
+97   eb11-23-r05-0815-03.xml                                  RUDOLF 0815                    
+98   eb11-23-r05-0816-01.xml                               RUDOLPH I 0816                    
+99   eb11-23-r05-0817-01.xml                              RUDOLPH II 0817                    
+100  eb11-23-r05-0817-02.xml                                 RUDOLPH 0817                    
+101  eb11-23-r05-0817-03.xml                                 RUDOLPH 0817                    
+102  eb11-23-r05-0817-04.xml                                 RUDOLPH 0817                    
+103  eb11-23-r05-0818-01.xml                              RUDOLSTADT 0818                    
+104  eb11-23-r05-0818-02.xml                                   RUDRA 0818                    
+105  eb11-23-r05-0818-03.xml                                     RUE 0818                    
+106  eb11-23-r05-0818-04.xml                          RUEDA, LOPE DE 0818                    
+107  eb11-23-r05-0818-05.xml                                   RUEIL 0818                    
+108  eb11-23-r05-0818-06.xml                                    RUFF 0818           footnotes
+109  eb11-23-r05-0819-01.xml                                 RUFFIAN 0819                    
+110  eb11-23-r05-0819-02.xml                         RUFFO, FABRIZIO 0819                    
+111  eb11-23-r05-0820-01.xml                                  RUFIJI 0820                    
+112  eb11-23-r05-0820-02.xml                      RUFINUS, TYRANNIUS 0820           footnotes
+113  eb11-23-r05-0821-01.xml                    RUFUS, GAIUS VALGIUS 0821                    
+114  eb11-23-r05-0821-02.xml                    RUFUS, LUCIUS VARIUS 0821                    
+115  eb11-23-r05-0821-03.xml                                     RUG 0821                    
+116  eb11-23-r05-0821-04.xml                                   RUGBY 0821                    
+117  eb11-23-r05-0821-05.xml                            RUGE, ARNOLD 0821                    
+118  eb11-23-r05-0822-01.xml                                 RUGELEY 0822                    
+119  eb11-23-r05-0822-02.xml                                   RÜGEN 0822                    
+120  eb11-23-r05-0822-03.xml                                   RUHLA 0822                    
+121  eb11-23-r05-0822-04.xml                          RUHNKEN, DAVID 0822                    
+122  eb11-23-r05-0823-01.xml                                    RUHR 0823                    
+123  eb11-23-r05-0823-02.xml                                 RUHRORT 0823                    
+124  eb11-23-r05-0823-03.xml                              RUIZ, JUAN 0823                    
+125  eb11-23-r05-0824-01.xml                                   RUKWA 0824                    
+126  eb11-23-r05-0824-02.xml                                RULHIÉRE 0824                    
+127  eb11-23-r05-0824-03.xml               RULLUS, PUBLIUS SERVILIUS 0824                    
+128  eb11-23-r05-0825-01.xml                                     RUM 0825                    
+129  eb11-23-r05-0825-02.xml                                     RUM 0825                    
+130  eb11-23-r05-0825-03.xml                                 RUMANIA 0825           footnotes
+131  eb11-23-r05-0849-01.xml                                RUM ELIA 0849                    
+132  eb11-23-r05-0849-02.xml              RUMFORD, BENJAMIN THOMPSON 0849                    
+133  eb11-23-r05-0850-01.xml                                    RUMI 0850                    
+134  eb11-23-r05-0851-01.xml                              RUMINANTIA 0851                    
+135  eb11-23-r05-0851-02.xml           RUMKER, CARL LUDWIG CHRISTIAN 0851                    
+136  eb11-23-r05-0851-03.xml                     RUNCIMAN, ALEXANDER 0851                    
+137  eb11-23-r05-0851-04.xml                                 RUNCORN 0851                    
+138  eb11-23-r05-0851-05.xml                                 RUNDALE 0851                    
+139  eb11-23-r05-0851-06.xml                  RUNEBERG, JOHAN LUDVIG 0851                    
+140  eb11-23-r05-0852-01.xml  RUNES, RUNIC LANGUAGE AND INSCRIPTIONS 0852                    
+141  eb11-23-r05-0853-01.xml                                    RUNG 0853                    
+142  eb11-23-r05-0853-02.xml                               RUNNIMEDE 0853                    
+143  eb11-23-r05-0853-03.xml                                 RUNNING 0853                    
+144  eb11-23-r05-0854-01.xml                                RUODLIEB 0854                    
+145  eb11-23-r05-0855-01.xml                                   RUPAR 0855                    
+146  eb11-23-r05-0855-02.xml                                   RUPEE 0855                    
+147  eb11-23-r05-0855-03.xml                                  RUPERT 0855                    
+148  eb11-23-r05-0855-04.xml                          RUPERT, PRINCE 0855                    
+149  eb11-23-r05-0856-01.xml                                  RUPERT 0856                    
+150  eb11-23-r05-0856-02.xml                           RUPERT’S LAND 0856                    
+151  eb11-23-r05-0856-03.xml                       RUPILIUS, PUBLIUS 0856                    
+152  eb11-23-r05-0856-04.xml                                  RUPPIN 0856                    
+153  eb11-23-r05-0856-05.xml                                RUSELLAE 0856                    
+154  eb11-23-r05-0857-01.xml                          RUSH, BENJAMIN 0857                    
+155  eb11-23-r05-0857-02.xml                           RUSH, RICHARD 0857                    
+156  eb11-23-r05-0857-03.xml                                    RUSH 0857                    
+157  eb11-23-r05-0857-04.xml                                 RUSHDEN 0857                    
+158  eb11-23-r05-0857-05.xml                        RUSH WORTH, JOHN 0857                    
+159  eb11-23-r05-0858-01.xml                            RUSKIN, JOHN 0858                    
+160  eb11-23-r05-0861-01.xml                                 RUSSELL 0861                    
+161  eb11-23-r05-0862-01.xml                    RUSSELL, ISRAEL COOK 0862                    
+162  eb11-23-r05-0863-01.xml                           RUSSELL, JOHN 0863                    
+163  eb11-23-r05-0863-02.xml                           RUSSELL, JOHN 0863                    
+164  eb11-23-r05-0863-03.xml                   RUSSELL, JOHN RUSSELL 0863                    
+165  eb11-23-r05-0864-01.xml                     RUSSELL, JOHN SCOTT 0864                    
+166  eb11-23-r05-0865-01.xml                         RUSSELL, THOMAS 0865                    
+167  eb11-23-r05-0865-02.xml                  RUSSELL, WILLIAM CLARK 0865                    
+168  eb11-23-r05-0865-03.xml             RUSSELL, SIR WILLIAM HOWARD 0865                    
+169  eb11-23-r05-0866-01.xml                   RUSSELL, LORD WILLIAM 0866                    
+170  eb11-23-r05-0867-01.xml    RUSSELL OF KILLOWEN, CHARLES RUSSELL 0867                    
+171  eb11-23-r05-0869-01.xml          RUSSELL OF THORNHAUGH, WILLIAM 0869                    
+172  eb11-23-r05-0869-02.xml                                  RUSSIA 0869           footnotes
+173  eb11-23-r05-0912-01.xml                        RUSSIAN LANGUAGE 0912                    
+174  eb11-23-r05-0914-01.xml                      RUSSIAN LITERATURE 0914           footnotes
+175  eb11-23-r05-0919-01.xml                      RUSSO-JAPANESE WAR 0919           footnotes
+176  eb11-23-r05-0931-01.xml                      RUSSO-TURKISH WARS 0931                    
+177  eb11-23-r05-0936-01.xml                                    RUST 0936                    
+178  eb11-23-r05-0936-02.xml                                RUSTCHUK 0936                    
+179  eb11-23-r05-0936-03.xml                              RUSTENBURG 0936                    
+180  eb11-23-r05-0936-04.xml                             RUSTICATION 0936                    
+181  eb11-23-r05-0937-01.xml               RÜSTOW, FRIEDRICH WILHELM 0937                    
+182  eb11-23-r05-0937-02.xml                                RUTEBEUF 0937           footnotes
+183  eb11-23-r05-0938-01.xml                           RUTH, BOOK OF 0938           footnotes
+184  eb11-23-r05-0939-01.xml                              RUTHENIANS 0939                    
+185  eb11-23-r05-0939-02.xml                               RUTHENIUM 0939                    
+186  eb11-23-r05-0940-01.xml                        RUTHERFORD, MARK 0940                    
+187  eb11-23-r05-0940-02.xml              RUTHERFORD, WILLIAM GUNION 0940                    
+188  eb11-23-r05-0940-03.xml                              RUTHERFURD 0940                    
+189  eb11-23-r05-0940-04.xml                              RUTHERGLEN 0940                    
+190  eb11-23-r05-0941-01.xml                                  RUTHIN 0941                    
+191  eb11-23-r05-0941-02.xml                                 RUTHVEN 0941                    
+192  eb11-23-r05-0941-03.xml                                  RUTILE 0941                    
+193  eb11-23-r05-0942-01.xml            RUTILIUS CLAUDIUS NAMATIANUS 0942                    
+194  eb11-23-r05-0943-01.xml                 RUTILIUS RUFUS, PUBLIUS 0943                    
+195  eb11-23-r05-0943-02.xml             RUTLAND, EARLS AND DUKES OF 0943                    
+196  eb11-23-r05-0943-03.xml      RUTLAND, JOHN JAMES ROBERT MANNERS 0943                    
+197  eb11-23-r05-0944-01.xml                                 RUTLAND 0944                    
+198  eb11-23-r05-0945-01.xml                                 RUTLAND 0945                    
+199  eb11-23-r05-0945-02.xml                          RUTLEDGE, JOHN 0945                    
+200  eb11-23-r05-0945-03.xml                           RUTLEY, FRANK 0945                    
+201  eb11-23-r05-0946-01.xml                                  RUTULI 0946                    
+202  eb11-23-r05-0946-02.xml                RUVIGNY, HENRI DE MASSUE 0946           footnotes
+203  eb11-23-r05-0946-03.xml                                    RUVO 0946                    
+204  eb11-23-r05-0946-04.xml                               RUWENZORI 0946                    
+205  eb11-23-r05-0947-01.xml                               RUYSBROEK 0947                    
+206  eb11-23-r05-0947-02.xml                                RUYSDAEL 0947                    
+207  eb11-23-r05-0948-01.xml                              RYAN, LACY 0948                    
+208  eb11-23-r05-0948-02.xml                                  RYAZAN 0948                    
+209  eb11-23-r05-0948-03.xml                                  RYAZAN 0948                    
+210  eb11-23-r05-0949-01.xml                                 RYAZHSK 0949                    
+211  eb11-23-r05-0949-02.xml                                 RYBINSK 0949                    
+212  eb11-23-r05-0949-03.xml                 RYDBERG, ABRAHAM VIKTOR 0949                    
+213  eb11-23-r05-0949-04.xml                                    RYDE 0949                    
+214  eb11-23-r05-0949-05.xml                   RYDER, ALBERT PINKHAM 0949                    
+215  eb11-23-r05-0949-06.xml                                     RYE 0949                    
+216  eb11-23-r05-0950-01.xml                                     RYE 0950                    
+217  eb11-23-r05-0950-02.xml                               RYEZHITSA 0950                    
+218  eb11-23-r05-0950-03.xml                   RYLAND, WILLIAM WYNNE 0950                    
+219  eb11-23-r05-0950-04.xml                           RYLANDS, JOHN 0950                    
+220  eb11-23-r05-0950-05.xml                      RYLE, JOHN CHARLES 0950                    
+221  eb11-23-r05-0951-01.xml                                   RYLSK 0951                    
+222  eb11-23-r05-0951-02.xml                           RYMER, THOMAS 0951           footnotes
+223  eb11-23-r05-0952-01.xml                                    RYOT 0952                    
+224  eb11-23-r05-0952-02.xml                      RYSWICK, TREATY OF 0952                    
+225  eb11-23-r05-0952-03.xml                                   RZHEV 0952                    
+1    eb11-23-r05-0759-01.xml                                ROTHWELL 0759                    
+2    eb11-23-r05-0759-02.xml                                ROTIFERA 0759                    
+3    eb11-23-r05-0764-01.xml                                 ROTORUA 0764                    
+4    eb11-23-r05-0764-02.xml                         ROTROU, JEAN DE 0764                    
+5    eb11-23-r05-0765-01.xml                                   ROTTA 0765           footnotes
+6    eb11-23-r05-0765-02.xml                              ROTTENBURG 0765                    
+7    eb11-23-r05-0766-01.xml                               ROTTERDAM 0766                    
+8    eb11-23-r05-0766-02.xml                                ROTTWEIL 0766                    
+9    eb11-23-r05-0767-01.xml                                 ROTUMAH 0767                    
+10   eb11-23-r05-0767-02.xml                        ROUAULT, JOACHIM 0767                    
+11   eb11-23-r05-0767-03.xml                                 ROUBAIX 0767                    
+12   eb11-23-r05-0767-04.xml                               ROUBILIAC 0767                    
+13   eb11-23-r05-0767-05.xml                   ROUCHER, JEAN ANTOINE 0767                    
+14   eb11-23-r05-0768-01.xml                                    ROUÉ 0768                    
+15   eb11-23-r05-0768-02.xml             ROUELLE, GUILLAUME FRANÇOIS 0768                    
+16   eb11-23-r05-0768-03.xml                                   ROUEN 0768                    
+17   eb11-23-r05-0770-01.xml                                ROUERGUE 0770                    
+18   eb11-23-r05-0770-02.xml                                   ROUGE 0770                    
+19   eb11-23-r05-0770-03.xml          ROUGET DE LISLE, CLAUDE JOSEPH 0770                    
+20   eb11-23-r05-0770-04.xml                              ROUGH CAST 0770                    
+21   eb11-23-r05-0770-05.xml                          ROUHER, EUGÈNE 0770                    
+22   eb11-23-r05-0771-01.xml                                 ROULERS 0771                    
+23   eb11-23-r05-0771-02.xml                                ROULETTE 0771                    
+24   eb11-23-r05-0771-03.xml                                ROULETTE 0771                    
+25   eb11-23-r05-0771-04.xml                                   ROUND 0771                    
+26   eb11-23-r05-0772-01.xml                                ROUNDERS 0772                    
+27   eb11-23-r05-0772-02.xml                               ROUNDHEAD 0772                    
+28   eb11-23-r05-0772-03.xml                        ROUNDSMAN SYSTEM 0772                    
+29   eb11-23-r05-0772-04.xml                        ROUND TABLE, THE 0772                    
+30   eb11-23-r05-0773-01.xml                            ROUND TOWERS 0773                    
+31   eb11-23-r05-0774-01.xml                           ROUS, FRANCIS 0774                    
+32   eb11-23-r05-0774-02.xml                        ROUS, HENRY JOHN 0774                    
+33   eb11-23-r05-0774-03.xml                       ROUSSEAU, JACQUES 0774                    
+34   eb11-23-r05-0774-04.xml                 ROUSSEAU, JEAN BAPTISTE 0774                    
+35   eb11-23-r05-0775-01.xml                  ROUSSEAU, JEAN JACQUES 0775           footnotes
+36   eb11-23-r05-0779-01.xml       ROUSSEAU, PIERRE ÉTIENNE THÉODORE 0779                    
+37   eb11-23-r05-0779-02.xml    ROUSSEAU DE LA ROTTIÈRE, JEAN SIMÉON 0779                    
+38   eb11-23-r05-0780-01.xml                              ROUSSILLON 0780                    
+39   eb11-23-r05-0780-02.xml                      ROUTH, EDWARD JOHN 0780                    
+40   eb11-23-r05-0780-03.xml                    ROUTH, MARTIN JOSEPH 0780                    
+41   eb11-23-r05-0780-04.xml                       ROUTLEDGE, GEORGE 0780                    
+42   eb11-23-r05-0781-01.xml                        ROUVIER, MAURICE 0781                    
+43   eb11-23-r05-0781-02.xml                                ROVERETO 0781                    
+44   eb11-23-r05-0781-03.xml                                 ROVIGNO 0781                    
+45   eb11-23-r05-0781-04.xml                                  ROVIGO 0781                    
+46   eb11-23-r05-0782-01.xml                                  ROVUMA 0782                    
+47   eb11-23-r05-0782-02.xml                               ROW, JOHN 0782                    
+48   eb11-23-r05-0782-03.xml                          ROWE, NICHOLAS 0782                    
+49   eb11-23-r05-0783-01.xml                                   ROWEL 0783                    
+50   eb11-23-r05-0783-02.xml                                  ROWING 0783                    
+51   eb11-23-r05-0786-01.xml                 ROWLAND, HENRY AUGUSTUS 0786                    
+52   eb11-23-r05-0787-01.xml                       ROWLANDS, RICHARD 0787                    
+53   eb11-23-r05-0787-02.xml                        ROWLANDS, SAMUEL 0787                    
+54   eb11-23-r05-0787-03.xml                      ROWLANDSON, THOMAS 0787                    
+55   eb11-23-r05-0788-01.xml                         ROWLEY, WILLIAM 0788           footnotes
+56   eb11-23-r05-0788-02.xml                            ROWLEY REGIS 0788                    
+57   eb11-23-r05-0788-03.xml                                 ROWLOCK 0788                    
+58   eb11-23-r05-0788-04.xml    ROWTON, MONTAGUE WILLIAM LOWRY-CORRY 0788                    
+59   eb11-23-r05-0789-01.xml                                  ROXANA 0789                    
+60   eb11-23-r05-0789-02.xml           ROXBURGHE, EARLS AND DUKES OF 0789                    
+61   eb11-23-r05-0789-03.xml                           ROXBURGHSHIRE 0789                    
+62   eb11-23-r05-0791-01.xml                                 ROXBURY 0791           footnotes
+63   eb11-23-r05-0791-02.xml                            ROY, WILLIAM 0791                    
+64   eb11-23-r05-0791-03.xml                              ROYAL FERN 0791                    
+65   eb11-23-r05-0791-04.xml                      ROYAL SOCIETY, THE 0791                    
+66   eb11-23-r05-0794-01.xml                                 ROYALTY 0794                    
+67   eb11-23-r05-0794-02.xml                                  ROY AN 0794                    
+68   eb11-23-r05-0794-03.xml                                   ROYAT 0794                    
+69   eb11-23-r05-0794-04.xml              ROYER-COLLARD, PIERRE PAUL 0794                    
+70   eb11-23-r05-0794-05.xml                      ROYLE, JOHN FORBES 0794                    
+71   eb11-23-r05-0795-01.xml                                 ROYSTON 0795                    
+72   eb11-23-r05-0795-02.xml                                  ROYTON 0795                    
+73   eb11-23-r05-0795-03.xml                 ROZAS, JUAN MARTINEZ DE 0795                    
+74   eb11-23-r05-0795-04.xml                                  RUABON 0795                    
+75   eb11-23-r05-0795-05.xml                                  RUBBER 0795                    
+76   eb11-23-r05-0804-01.xml                                  RUBBLE 0804                    
+77   eb11-23-r05-0804-02.xml                               RUBELLITE 0804                    
+78   eb11-23-r05-0804-03.xml                      RUBENS, PETER PAUL 0804           footnotes
+79   eb11-23-r05-0808-01.xml                               RUBIACEAE 0808                    
+80   eb11-23-r05-0808-02.xml                                 RUBICON 0808                    
+81   eb11-23-r05-0808-03.xml                                RUBIDIUM 0808                    
+82   eb11-23-r05-0809-01.xml           RUBINSTEIN, ANTON GRIGOROVICH 0809                    
+83   eb11-23-r05-0810-01.xml                                  RUBRIC 0810                    
+84   eb11-23-r05-0810-02.xml                               RUBRUQUIS 0810           footnotes
+85   eb11-23-r05-0812-01.xml                                    RUBY 0812                    
+86   eb11-23-r05-0813-01.xml                              RUBY MINES 0813                    
+87   eb11-23-r05-0813-02.xml       RÜCKERT, JOHANN MICHAEL FRIEDRICH 0813                    
+88   eb11-23-r05-0813-03.xml                                  RÜDAGI 0813                    
+89   eb11-23-r05-0813-04.xml                                    RUDD 0813                    
+90   eb11-23-r05-0814-01.xml                                  RUDDER 0814                    
+91   eb11-23-r05-0814-02.xml                        RUDDIMAN, THOMAS 0814                    
+92   eb11-23-r05-0814-03.xml                          RUDE, FRANÇOIS 0814                    
+93   eb11-23-r05-0814-04.xml                                 RUDERAL 0814                    
+94   eb11-23-r05-0814-05.xml                               RÜDESHEIM 0814                    
+95   eb11-23-r05-0815-01.xml                RUDINÌ, ANTONIO STARABBA 0815                    
+96   eb11-23-r05-0815-02.xml                                   RUDOK 0815                    
+97   eb11-23-r05-0815-03.xml                                  RUDOLF 0815                    
+98   eb11-23-r05-0816-01.xml                               RUDOLPH I 0816                    
+99   eb11-23-r05-0817-01.xml                              RUDOLPH II 0817                    
+100  eb11-23-r05-0817-02.xml                                 RUDOLPH 0817                    
+101  eb11-23-r05-0817-03.xml                                 RUDOLPH 0817                    
+102  eb11-23-r05-0817-04.xml                                 RUDOLPH 0817                    
+103  eb11-23-r05-0818-01.xml                              RUDOLSTADT 0818                    
+104  eb11-23-r05-0818-02.xml                                   RUDRA 0818                    
+105  eb11-23-r05-0818-03.xml                                     RUE 0818                    
+106  eb11-23-r05-0818-04.xml                          RUEDA, LOPE DE 0818                    
+107  eb11-23-r05-0818-05.xml                                   RUEIL 0818                    
+108  eb11-23-r05-0818-06.xml                                    RUFF 0818           footnotes
+109  eb11-23-r05-0819-01.xml                                 RUFFIAN 0819                    
+110  eb11-23-r05-0819-02.xml                         RUFFO, FABRIZIO 0819                    
+111  eb11-23-r05-0820-01.xml                                  RUFIJI 0820                    
+112  eb11-23-r05-0820-02.xml                      RUFINUS, TYRANNIUS 0820           footnotes
+113  eb11-23-r05-0821-01.xml                    RUFUS, GAIUS VALGIUS 0821                    
+114  eb11-23-r05-0821-02.xml                    RUFUS, LUCIUS VARIUS 0821                    
+115  eb11-23-r05-0821-03.xml                                     RUG 0821                    
+116  eb11-23-r05-0821-04.xml                                   RUGBY 0821                    
+117  eb11-23-r05-0821-05.xml                            RUGE, ARNOLD 0821                    
+118  eb11-23-r05-0822-01.xml                                 RUGELEY 0822                    
+119  eb11-23-r05-0822-02.xml                                   RÜGEN 0822                    
+120  eb11-23-r05-0822-03.xml                                   RUHLA 0822                    
+121  eb11-23-r05-0822-04.xml                          RUHNKEN, DAVID 0822                    
+122  eb11-23-r05-0823-01.xml                                    RUHR 0823                    
+123  eb11-23-r05-0823-02.xml                                 RUHRORT 0823                    
+124  eb11-23-r05-0823-03.xml                              RUIZ, JUAN 0823                    
+125  eb11-23-r05-0824-01.xml                                   RUKWA 0824                    
+126  eb11-23-r05-0824-02.xml                                RULHIÉRE 0824                    
+127  eb11-23-r05-0824-03.xml               RULLUS, PUBLIUS SERVILIUS 0824                    
+128  eb11-23-r05-0825-01.xml                                     RUM 0825                    
+129  eb11-23-r05-0825-02.xml                                     RUM 0825                    
+130  eb11-23-r05-0825-03.xml                                 RUMANIA 0825           footnotes
+131  eb11-23-r05-0849-01.xml                                RUM ELIA 0849                    
+132  eb11-23-r05-0849-02.xml              RUMFORD, BENJAMIN THOMPSON 0849                    
+133  eb11-23-r05-0850-01.xml                                    RUMI 0850                    
+134  eb11-23-r05-0851-01.xml                              RUMINANTIA 0851                    
+135  eb11-23-r05-0851-02.xml           RUMKER, CARL LUDWIG CHRISTIAN 0851                    
+136  eb11-23-r05-0851-03.xml                     RUNCIMAN, ALEXANDER 0851                    
+137  eb11-23-r05-0851-04.xml                                 RUNCORN 0851                    
+138  eb11-23-r05-0851-05.xml                                 RUNDALE 0851                    
+139  eb11-23-r05-0851-06.xml                  RUNEBERG, JOHAN LUDVIG 0851                    
+140  eb11-23-r05-0852-01.xml  RUNES, RUNIC LANGUAGE AND INSCRIPTIONS 0852                    
+141  eb11-23-r05-0853-01.xml                                    RUNG 0853                    
+142  eb11-23-r05-0853-02.xml                               RUNNIMEDE 0853                    
+143  eb11-23-r05-0853-03.xml                                 RUNNING 0853                    
+144  eb11-23-r05-0854-01.xml                                RUODLIEB 0854                    
+145  eb11-23-r05-0855-01.xml                                   RUPAR 0855                    
+146  eb11-23-r05-0855-02.xml                                   RUPEE 0855                    
+147  eb11-23-r05-0855-03.xml                                  RUPERT 0855                    
+148  eb11-23-r05-0855-04.xml                          RUPERT, PRINCE 0855                    
+149  eb11-23-r05-0856-01.xml                                  RUPERT 0856                    
+150  eb11-23-r05-0856-02.xml                           RUPERT’S LAND 0856                    
+151  eb11-23-r05-0856-03.xml                       RUPILIUS, PUBLIUS 0856                    
+152  eb11-23-r05-0856-04.xml                                  RUPPIN 0856                    
+153  eb11-23-r05-0856-05.xml                                RUSELLAE 0856                    
+154  eb11-23-r05-0857-01.xml                          RUSH, BENJAMIN 0857                    
+155  eb11-23-r05-0857-02.xml                           RUSH, RICHARD 0857                    
+156  eb11-23-r05-0857-03.xml                                    RUSH 0857                    
+157  eb11-23-r05-0857-04.xml                                 RUSHDEN 0857                    
+158  eb11-23-r05-0857-05.xml                        RUSH WORTH, JOHN 0857                    
+159  eb11-23-r05-0858-01.xml                            RUSKIN, JOHN 0858                    
+160  eb11-23-r05-0861-01.xml                                 RUSSELL 0861                    
+161  eb11-23-r05-0862-01.xml                    RUSSELL, ISRAEL COOK 0862                    
+162  eb11-23-r05-0863-01.xml                           RUSSELL, JOHN 0863                    
+163  eb11-23-r05-0863-02.xml                           RUSSELL, JOHN 0863                    
+164  eb11-23-r05-0863-03.xml                   RUSSELL, JOHN RUSSELL 0863                    
+165  eb11-23-r05-0864-01.xml                     RUSSELL, JOHN SCOTT 0864                    
+166  eb11-23-r05-0865-01.xml                         RUSSELL, THOMAS 0865                    
+167  eb11-23-r05-0865-02.xml                  RUSSELL, WILLIAM CLARK 0865                    
+168  eb11-23-r05-0865-03.xml             RUSSELL, SIR WILLIAM HOWARD 0865                    
+169  eb11-23-r05-0866-01.xml                   RUSSELL, LORD WILLIAM 0866                    
+170  eb11-23-r05-0867-01.xml    RUSSELL OF KILLOWEN, CHARLES RUSSELL 0867                    
+171  eb11-23-r05-0869-01.xml          RUSSELL OF THORNHAUGH, WILLIAM 0869                    
+172  eb11-23-r05-0869-02.xml                                  RUSSIA 0869           footnotes
+173  eb11-23-r05-0912-01.xml                        RUSSIAN LANGUAGE 0912                    
+174  eb11-23-r05-0914-01.xml                      RUSSIAN LITERATURE 0914           footnotes
+175  eb11-23-r05-0919-01.xml                      RUSSO-JAPANESE WAR 0919           footnotes
+176  eb11-23-r05-0931-01.xml                      RUSSO-TURKISH WARS 0931                    
+177  eb11-23-r05-0936-01.xml                                    RUST 0936                    
+178  eb11-23-r05-0936-02.xml                                RUSTCHUK 0936                    
+179  eb11-23-r05-0936-03.xml                              RUSTENBURG 0936                    
+180  eb11-23-r05-0936-04.xml                             RUSTICATION 0936                    
+181  eb11-23-r05-0937-01.xml               RÜSTOW, FRIEDRICH WILHELM 0937                    
+182  eb11-23-r05-0937-02.xml                                RUTEBEUF 0937           footnotes
+183  eb11-23-r05-0938-01.xml                           RUTH, BOOK OF 0938           footnotes
+184  eb11-23-r05-0939-01.xml                              RUTHENIANS 0939                    
+185  eb11-23-r05-0939-02.xml                               RUTHENIUM 0939                    
+186  eb11-23-r05-0940-01.xml                        RUTHERFORD, MARK 0940                    
+187  eb11-23-r05-0940-02.xml              RUTHERFORD, WILLIAM GUNION 0940                    
+188  eb11-23-r05-0940-03.xml                              RUTHERFURD 0940                    
+189  eb11-23-r05-0940-04.xml                              RUTHERGLEN 0940                    
+190  eb11-23-r05-0941-01.xml                                  RUTHIN 0941                    
+191  eb11-23-r05-0941-02.xml                                 RUTHVEN 0941                    
+192  eb11-23-r05-0941-03.xml                                  RUTILE 0941                    
+193  eb11-23-r05-0942-01.xml            RUTILIUS CLAUDIUS NAMATIANUS 0942                    
+194  eb11-23-r05-0943-01.xml                 RUTILIUS RUFUS, PUBLIUS 0943                    
+195  eb11-23-r05-0943-02.xml             RUTLAND, EARLS AND DUKES OF 0943                    
+196  eb11-23-r05-0943-03.xml      RUTLAND, JOHN JAMES ROBERT MANNERS 0943                    
+197  eb11-23-r05-0944-01.xml                                 RUTLAND 0944                    
+198  eb11-23-r05-0945-01.xml                                 RUTLAND 0945                    
+199  eb11-23-r05-0945-02.xml                          RUTLEDGE, JOHN 0945                    
+200  eb11-23-r05-0945-03.xml                           RUTLEY, FRANK 0945                    
+201  eb11-23-r05-0946-01.xml                                  RUTULI 0946                    
+202  eb11-23-r05-0946-02.xml                RUVIGNY, HENRI DE MASSUE 0946           footnotes
+203  eb11-23-r05-0946-03.xml                                    RUVO 0946                    
+204  eb11-23-r05-0946-04.xml                               RUWENZORI 0946                    
+205  eb11-23-r05-0947-01.xml                               RUYSBROEK 0947                    
+206  eb11-23-r05-0947-02.xml                                RUYSDAEL 0947                    
+207  eb11-23-r05-0948-01.xml                              RYAN, LACY 0948                    
+208  eb11-23-r05-0948-02.xml                                  RYAZAN 0948                    
+209  eb11-23-r05-0948-03.xml                                  RYAZAN 0948                    
+210  eb11-23-r05-0949-01.xml                                 RYAZHSK 0949                    
+211  eb11-23-r05-0949-02.xml                                 RYBINSK 0949                    
+212  eb11-23-r05-0949-03.xml                 RYDBERG, ABRAHAM VIKTOR 0949                    
+213  eb11-23-r05-0949-04.xml                                    RYDE 0949                    
+214  eb11-23-r05-0949-05.xml                   RYDER, ALBERT PINKHAM 0949                    
+215  eb11-23-r05-0949-06.xml                                     RYE 0949                    
+216  eb11-23-r05-0950-01.xml                                     RYE 0950                    
+217  eb11-23-r05-0950-02.xml                               RYEZHITSA 0950                    
+218  eb11-23-r05-0950-03.xml                   RYLAND, WILLIAM WYNNE 0950                    
+219  eb11-23-r05-0950-04.xml                           RYLANDS, JOHN 0950                    
+220  eb11-23-r05-0950-05.xml                      RYLE, JOHN CHARLES 0950                    
+221  eb11-23-r05-0951-01.xml                                   RYLSK 0951                    
+222  eb11-23-r05-0951-02.xml                           RYMER, THOMAS 0951           footnotes
+223  eb11-23-r05-0952-01.xml                                    RYOT 0952                    
+224  eb11-23-r05-0952-02.xml                      RYSWICK, TREATY OF 0952                    
+225  eb11-23-r05-0952-03.xml                                   RZHEV 0952                    
+1    eb11-23-r05-0759-01.xml                                ROTHWELL 0759                    
+2    eb11-23-r05-0759-02.xml                                ROTIFERA 0759                    
+3    eb11-23-r05-0764-01.xml                                 ROTORUA 0764                    
+4    eb11-23-r05-0764-02.xml                         ROTROU, JEAN DE 0764                    
+5    eb11-23-r05-0765-01.xml                                   ROTTA 0765           footnotes
+6    eb11-23-r05-0765-02.xml                              ROTTENBURG 0765                    
+7    eb11-23-r05-0766-01.xml                               ROTTERDAM 0766                    
+8    eb11-23-r05-0766-02.xml                                ROTTWEIL 0766                    
+9    eb11-23-r05-0767-01.xml                                 ROTUMAH 0767                    
+10   eb11-23-r05-0767-02.xml                        ROUAULT, JOACHIM 0767                    
+11   eb11-23-r05-0767-03.xml                                 ROUBAIX 0767                    
+12   eb11-23-r05-0767-04.xml                               ROUBILIAC 0767                    
+13   eb11-23-r05-0767-05.xml                   ROUCHER, JEAN ANTOINE 0767                    
+14   eb11-23-r05-0768-01.xml                                    ROUÉ 0768                    
+15   eb11-23-r05-0768-02.xml             ROUELLE, GUILLAUME FRANÇOIS 0768                    
+16   eb11-23-r05-0768-03.xml                                   ROUEN 0768                    
+17   eb11-23-r05-0770-01.xml                                ROUERGUE 0770                    
+18   eb11-23-r05-0770-02.xml                                   ROUGE 0770                    
+19   eb11-23-r05-0770-03.xml          ROUGET DE LISLE, CLAUDE JOSEPH 0770                    
+20   eb11-23-r05-0770-04.xml                              ROUGH CAST 0770                    
+21   eb11-23-r05-0770-05.xml                          ROUHER, EUGÈNE 0770                    
+22   eb11-23-r05-0771-01.xml                                 ROULERS 0771                    
+23   eb11-23-r05-0771-02.xml                                ROULETTE 0771                    
+24   eb11-23-r05-0771-03.xml                                ROULETTE 0771                    
+25   eb11-23-r05-0771-04.xml                                   ROUND 0771                    
+26   eb11-23-r05-0772-01.xml                                ROUNDERS 0772                    
+27   eb11-23-r05-0772-02.xml                               ROUNDHEAD 0772                    
+28   eb11-23-r05-0772-03.xml                        ROUNDSMAN SYSTEM 0772                    
+29   eb11-23-r05-0772-04.xml                        ROUND TABLE, THE 0772                    
+30   eb11-23-r05-0773-01.xml                            ROUND TOWERS 0773                    
+31   eb11-23-r05-0774-01.xml                           ROUS, FRANCIS 0774                    
+32   eb11-23-r05-0774-02.xml                        ROUS, HENRY JOHN 0774                    
+33   eb11-23-r05-0774-03.xml                       ROUSSEAU, JACQUES 0774                    
+34   eb11-23-r05-0774-04.xml                 ROUSSEAU, JEAN BAPTISTE 0774                    
+35   eb11-23-r05-0775-01.xml                  ROUSSEAU, JEAN JACQUES 0775           footnotes
+36   eb11-23-r05-0779-01.xml       ROUSSEAU, PIERRE ÉTIENNE THÉODORE 0779                    
+37   eb11-23-r05-0779-02.xml    ROUSSEAU DE LA ROTTIÈRE, JEAN SIMÉON 0779                    
+38   eb11-23-r05-0780-01.xml                              ROUSSILLON 0780                    
+39   eb11-23-r05-0780-02.xml                      ROUTH, EDWARD JOHN 0780                    
+40   eb11-23-r05-0780-03.xml                    ROUTH, MARTIN JOSEPH 0780                    
+41   eb11-23-r05-0780-04.xml                       ROUTLEDGE, GEORGE 0780                    
+42   eb11-23-r05-0781-01.xml                        ROUVIER, MAURICE 0781                    
+43   eb11-23-r05-0781-02.xml                                ROVERETO 0781                    
+44   eb11-23-r05-0781-03.xml                                 ROVIGNO 0781                    
+45   eb11-23-r05-0781-04.xml                                  ROVIGO 0781                    
+46   eb11-23-r05-0782-01.xml                                  ROVUMA 0782                    
+47   eb11-23-r05-0782-02.xml                               ROW, JOHN 0782                    
+48   eb11-23-r05-0782-03.xml                          ROWE, NICHOLAS 0782                    
+49   eb11-23-r05-0783-01.xml                                   ROWEL 0783                    
+50   eb11-23-r05-0783-02.xml                                  ROWING 0783                    
+51   eb11-23-r05-0786-01.xml                 ROWLAND, HENRY AUGUSTUS 0786                    
+52   eb11-23-r05-0787-01.xml                       ROWLANDS, RICHARD 0787                    
+53   eb11-23-r05-0787-02.xml                        ROWLANDS, SAMUEL 0787                    
+54   eb11-23-r05-0787-03.xml                      ROWLANDSON, THOMAS 0787                    
+55   eb11-23-r05-0788-01.xml                         ROWLEY, WILLIAM 0788           footnotes
+56   eb11-23-r05-0788-02.xml                            ROWLEY REGIS 0788                    
+57   eb11-23-r05-0788-03.xml                                 ROWLOCK 0788                    
+58   eb11-23-r05-0788-04.xml    ROWTON, MONTAGUE WILLIAM LOWRY-CORRY 0788                    
+59   eb11-23-r05-0789-01.xml                                  ROXANA 0789                    
+60   eb11-23-r05-0789-02.xml           ROXBURGHE, EARLS AND DUKES OF 0789                    
+61   eb11-23-r05-0789-03.xml                           ROXBURGHSHIRE 0789                    
+62   eb11-23-r05-0791-01.xml                                 ROXBURY 0791           footnotes
+63   eb11-23-r05-0791-02.xml                            ROY, WILLIAM 0791                    
+64   eb11-23-r05-0791-03.xml                              ROYAL FERN 0791                    
+65   eb11-23-r05-0791-04.xml                      ROYAL SOCIETY, THE 0791                    
+66   eb11-23-r05-0794-01.xml                                 ROYALTY 0794                    
+67   eb11-23-r05-0794-02.xml                                  ROY AN 0794                    
+68   eb11-23-r05-0794-03.xml                                   ROYAT 0794                    
+69   eb11-23-r05-0794-04.xml              ROYER-COLLARD, PIERRE PAUL 0794                    
+70   eb11-23-r05-0794-05.xml                      ROYLE, JOHN FORBES 0794                    
+71   eb11-23-r05-0795-01.xml                                 ROYSTON 0795                    
+72   eb11-23-r05-0795-02.xml                                  ROYTON 0795                    
+73   eb11-23-r05-0795-03.xml                 ROZAS, JUAN MARTINEZ DE 0795                    
+74   eb11-23-r05-0795-04.xml                                  RUABON 0795                    
+75   eb11-23-r05-0795-05.xml                                  RUBBER 0795                    
+76   eb11-23-r05-0804-01.xml                                  RUBBLE 0804                    
+77   eb11-23-r05-0804-02.xml                               RUBELLITE 0804                    
+78   eb11-23-r05-0804-03.xml                      RUBENS, PETER PAUL 0804           footnotes
+79   eb11-23-r05-0808-01.xml                               RUBIACEAE 0808                    
+80   eb11-23-r05-0808-02.xml                                 RUBICON 0808                    
+81   eb11-23-r05-0808-03.xml                                RUBIDIUM 0808                    
+82   eb11-23-r05-0809-01.xml           RUBINSTEIN, ANTON GRIGOROVICH 0809                    
+83   eb11-23-r05-0810-01.xml                                  RUBRIC 0810                    
+84   eb11-23-r05-0810-02.xml                               RUBRUQUIS 0810           footnotes
+85   eb11-23-r05-0812-01.xml                                    RUBY 0812                    
+86   eb11-23-r05-0813-01.xml                              RUBY MINES 0813                    
+87   eb11-23-r05-0813-02.xml       RÜCKERT, JOHANN MICHAEL FRIEDRICH 0813                    
+88   eb11-23-r05-0813-03.xml                                  RÜDAGI 0813                    
+89   eb11-23-r05-0813-04.xml                                    RUDD 0813                    
+90   eb11-23-r05-0814-01.xml                                  RUDDER 0814                    
+91   eb11-23-r05-0814-02.xml                        RUDDIMAN, THOMAS 0814                    
+92   eb11-23-r05-0814-03.xml                          RUDE, FRANÇOIS 0814                    
+93   eb11-23-r05-0814-04.xml                                 RUDERAL 0814                    
+94   eb11-23-r05-0814-05.xml                               RÜDESHEIM 0814                    
+95   eb11-23-r05-0815-01.xml                RUDINÌ, ANTONIO STARABBA 0815                    
+96   eb11-23-r05-0815-02.xml                                   RUDOK 0815                    
+97   eb11-23-r05-0815-03.xml                                  RUDOLF 0815                    
+98   eb11-23-r05-0816-01.xml                               RUDOLPH I 0816                    
+99   eb11-23-r05-0817-01.xml                              RUDOLPH II 0817                    
+100  eb11-23-r05-0817-02.xml                                 RUDOLPH 0817                    
+101  eb11-23-r05-0817-03.xml                                 RUDOLPH 0817                    
+102  eb11-23-r05-0817-04.xml                                 RUDOLPH 0817                    
+103  eb11-23-r05-0818-01.xml                              RUDOLSTADT 0818                    
+104  eb11-23-r05-0818-02.xml                                   RUDRA 0818                    
+105  eb11-23-r05-0818-03.xml                                     RUE 0818                    
+106  eb11-23-r05-0818-04.xml                          RUEDA, LOPE DE 0818                    
+107  eb11-23-r05-0818-05.xml                                   RUEIL 0818                    
+108  eb11-23-r05-0818-06.xml                                    RUFF 0818           footnotes
+109  eb11-23-r05-0819-01.xml                                 RUFFIAN 0819                    
+110  eb11-23-r05-0819-02.xml                         RUFFO, FABRIZIO 0819                    
+111  eb11-23-r05-0820-01.xml                                  RUFIJI 0820                    
+112  eb11-23-r05-0820-02.xml                      RUFINUS, TYRANNIUS 0820           footnotes
+113  eb11-23-r05-0821-01.xml                    RUFUS, GAIUS VALGIUS 0821                    
+114  eb11-23-r05-0821-02.xml                    RUFUS, LUCIUS VARIUS 0821                    
+115  eb11-23-r05-0821-03.xml                                     RUG 0821                    
+116  eb11-23-r05-0821-04.xml                                   RUGBY 0821                    
+117  eb11-23-r05-0821-05.xml                            RUGE, ARNOLD 0821                    
+118  eb11-23-r05-0822-01.xml                                 RUGELEY 0822                    
+119  eb11-23-r05-0822-02.xml                                   RÜGEN 0822                    
+120  eb11-23-r05-0822-03.xml                                   RUHLA 0822                    
+121  eb11-23-r05-0822-04.xml                          RUHNKEN, DAVID 0822                    
+122  eb11-23-r05-0823-01.xml                                    RUHR 0823                    
+123  eb11-23-r05-0823-02.xml                                 RUHRORT 0823                    
+124  eb11-23-r05-0823-03.xml                              RUIZ, JUAN 0823                    
+125  eb11-23-r05-0824-01.xml                                   RUKWA 0824                    
+126  eb11-23-r05-0824-02.xml                                RULHIÉRE 0824                    
+127  eb11-23-r05-0824-03.xml               RULLUS, PUBLIUS SERVILIUS 0824                    
+128  eb11-23-r05-0825-01.xml                                     RUM 0825                    
+129  eb11-23-r05-0825-02.xml                                     RUM 0825                    
+130  eb11-23-r05-0825-03.xml                                 RUMANIA 0825           footnotes
+131  eb11-23-r05-0849-01.xml                                RUM ELIA 0849                    
+132  eb11-23-r05-0849-02.xml              RUMFORD, BENJAMIN THOMPSON 0849                    
+133  eb11-23-r05-0850-01.xml                                    RUMI 0850                    
+134  eb11-23-r05-0851-01.xml                              RUMINANTIA 0851                    
+135  eb11-23-r05-0851-02.xml           RUMKER, CARL LUDWIG CHRISTIAN 0851                    
+136  eb11-23-r05-0851-03.xml                     RUNCIMAN, ALEXANDER 0851                    
+137  eb11-23-r05-0851-04.xml                                 RUNCORN 0851                    
+138  eb11-23-r05-0851-05.xml                                 RUNDALE 0851                    
+139  eb11-23-r05-0851-06.xml                  RUNEBERG, JOHAN LUDVIG 0851                    
+140  eb11-23-r05-0852-01.xml  RUNES, RUNIC LANGUAGE AND INSCRIPTIONS 0852                    
+141  eb11-23-r05-0853-01.xml                                    RUNG 0853                    
+142  eb11-23-r05-0853-02.xml                               RUNNIMEDE 0853                    
+143  eb11-23-r05-0853-03.xml                                 RUNNING 0853                    
+144  eb11-23-r05-0854-01.xml                                RUODLIEB 0854                    
+145  eb11-23-r05-0855-01.xml                                   RUPAR 0855                    
+146  eb11-23-r05-0855-02.xml                                   RUPEE 0855                    
+147  eb11-23-r05-0855-03.xml                                  RUPERT 0855                    
+148  eb11-23-r05-0855-04.xml                          RUPERT, PRINCE 0855                    
+149  eb11-23-r05-0856-01.xml                                  RUPERT 0856                    
+150  eb11-23-r05-0856-02.xml                           RUPERT’S LAND 0856                    
+151  eb11-23-r05-0856-03.xml                       RUPILIUS, PUBLIUS 0856                    
+152  eb11-23-r05-0856-04.xml                                  RUPPIN 0856                    
+153  eb11-23-r05-0856-05.xml                                RUSELLAE 0856                    
+154  eb11-23-r05-0857-01.xml                          RUSH, BENJAMIN 0857                    
+155  eb11-23-r05-0857-02.xml                           RUSH, RICHARD 0857                    
+156  eb11-23-r05-0857-03.xml                                    RUSH 0857                    
+157  eb11-23-r05-0857-04.xml                                 RUSHDEN 0857                    
+158  eb11-23-r05-0857-05.xml                        RUSH WORTH, JOHN 0857                    
+159  eb11-23-r05-0858-01.xml                            RUSKIN, JOHN 0858                    
+160  eb11-23-r05-0861-01.xml                                 RUSSELL 0861                    
+161  eb11-23-r05-0862-01.xml                    RUSSELL, ISRAEL COOK 0862                    
+162  eb11-23-r05-0863-01.xml                           RUSSELL, JOHN 0863                    
+163  eb11-23-r05-0863-02.xml                           RUSSELL, JOHN 0863                    
+164  eb11-23-r05-0863-03.xml                   RUSSELL, JOHN RUSSELL 0863                    
+165  eb11-23-r05-0864-01.xml                     RUSSELL, JOHN SCOTT 0864                    
+166  eb11-23-r05-0865-01.xml                         RUSSELL, THOMAS 0865                    
+167  eb11-23-r05-0865-02.xml                  RUSSELL, WILLIAM CLARK 0865                    
+168  eb11-23-r05-0865-03.xml             RUSSELL, SIR WILLIAM HOWARD 0865                    
+169  eb11-23-r05-0866-01.xml                   RUSSELL, LORD WILLIAM 0866                    
+170  eb11-23-r05-0867-01.xml    RUSSELL OF KILLOWEN, CHARLES RUSSELL 0867                    
+171  eb11-23-r05-0869-01.xml          RUSSELL OF THORNHAUGH, WILLIAM 0869                    
+172  eb11-23-r05-0869-02.xml                                  RUSSIA 0869           footnotes
+173  eb11-23-r05-0912-01.xml                        RUSSIAN LANGUAGE 0912                    
+174  eb11-23-r05-0914-01.xml                      RUSSIAN LITERATURE 0914           footnotes
+175  eb11-23-r05-0919-01.xml                      RUSSO-JAPANESE WAR 0919           footnotes
+176  eb11-23-r05-0931-01.xml                      RUSSO-TURKISH WARS 0931                    
+177  eb11-23-r05-0936-01.xml                                    RUST 0936                    
+178  eb11-23-r05-0936-02.xml                                RUSTCHUK 0936                    
+179  eb11-23-r05-0936-03.xml                              RUSTENBURG 0936                    
+180  eb11-23-r05-0936-04.xml                             RUSTICATION 0936                    
+181  eb11-23-r05-0937-01.xml               RÜSTOW, FRIEDRICH WILHELM 0937                    
+182  eb11-23-r05-0937-02.xml                                RUTEBEUF 0937           footnotes
+183  eb11-23-r05-0938-01.xml                           RUTH, BOOK OF 0938           footnotes
+184  eb11-23-r05-0939-01.xml                              RUTHENIANS 0939                    
+185  eb11-23-r05-0939-02.xml                               RUTHENIUM 0939                    
+186  eb11-23-r05-0940-01.xml                        RUTHERFORD, MARK 0940                    
+187  eb11-23-r05-0940-02.xml              RUTHERFORD, WILLIAM GUNION 0940                    
+188  eb11-23-r05-0940-03.xml                              RUTHERFURD 0940                    
+189  eb11-23-r05-0940-04.xml                              RUTHERGLEN 0940                    
+190  eb11-23-r05-0941-01.xml                                  RUTHIN 0941                    
+191  eb11-23-r05-0941-02.xml                                 RUTHVEN 0941                    
+192  eb11-23-r05-0941-03.xml                                  RUTILE 0941                    
+193  eb11-23-r05-0942-01.xml            RUTILIUS CLAUDIUS NAMATIANUS 0942                    
+194  eb11-23-r05-0943-01.xml                 RUTILIUS RUFUS, PUBLIUS 0943                    
+195  eb11-23-r05-0943-02.xml             RUTLAND, EARLS AND DUKES OF 0943                    
+196  eb11-23-r05-0943-03.xml      RUTLAND, JOHN JAMES ROBERT MANNERS 0943                    
+197  eb11-23-r05-0944-01.xml                                 RUTLAND 0944                    
+198  eb11-23-r05-0945-01.xml                                 RUTLAND 0945                    
+199  eb11-23-r05-0945-02.xml                          RUTLEDGE, JOHN 0945                    
+200  eb11-23-r05-0945-03.xml                           RUTLEY, FRANK 0945                    
+201  eb11-23-r05-0946-01.xml                                  RUTULI 0946                    
+202  eb11-23-r05-0946-02.xml                RUVIGNY, HENRI DE MASSUE 0946           footnotes
+203  eb11-23-r05-0946-03.xml                                    RUVO 0946                    
+204  eb11-23-r05-0946-04.xml                               RUWENZORI 0946                    
+205  eb11-23-r05-0947-01.xml                               RUYSBROEK 0947                    
+206  eb11-23-r05-0947-02.xml                                RUYSDAEL 0947                    
+207  eb11-23-r05-0948-01.xml                              RYAN, LACY 0948                    
+208  eb11-23-r05-0948-02.xml                                  RYAZAN 0948                    
+209  eb11-23-r05-0948-03.xml                                  RYAZAN 0948                    
+210  eb11-23-r05-0949-01.xml                                 RYAZHSK 0949                    
+211  eb11-23-r05-0949-02.xml                                 RYBINSK 0949                    
+212  eb11-23-r05-0949-03.xml                 RYDBERG, ABRAHAM VIKTOR 0949                    
+213  eb11-23-r05-0949-04.xml                                    RYDE 0949                    
+214  eb11-23-r05-0949-05.xml                   RYDER, ALBERT PINKHAM 0949                    
+215  eb11-23-r05-0949-06.xml                                     RYE 0949                    
+216  eb11-23-r05-0950-01.xml                                     RYE 0950                    
+217  eb11-23-r05-0950-02.xml                               RYEZHITSA 0950                    
+218  eb11-23-r05-0950-03.xml                   RYLAND, WILLIAM WYNNE 0950                    
+219  eb11-23-r05-0950-04.xml                           RYLANDS, JOHN 0950                    
+220  eb11-23-r05-0950-05.xml                      RYLE, JOHN CHARLES 0950                    
+221  eb11-23-r05-0951-01.xml                                   RYLSK 0951                    
+222  eb11-23-r05-0951-02.xml                           RYMER, THOMAS 0951           footnotes
+223  eb11-23-r05-0952-01.xml                                    RYOT 0952                    
+224  eb11-23-r05-0952-02.xml                      RYSWICK, TREATY OF 0952                    
+225  eb11-23-r05-0952-03.xml                                   RZHEV 0952                    

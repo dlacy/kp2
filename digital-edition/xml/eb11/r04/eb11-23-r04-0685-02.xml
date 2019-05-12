@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0685-02"
+                facs="encyclopaediabri23chisrich_0732.jp2" type="entry">
+
+                <p><label>ROMESH CHANDRA MITRA</label>, <hi rend="smallcaps">Sir</hi> (1840-1899),
+                    Indian judge, was born in 1840. When the East India Company’s charter was
+                    renewed in 1853, the old supreme courts and sadr courts in the presidency towns
+                    were changed into high courts, and Roma Prasad Roy, son of the great reformer
+                    Raja Ram Mohan Roy, was the first Indian who was appointed a judge of the new
+                    high court of Calcutta. He did not live, however, to take his seat on the bench,
+                    and was succeeded by Sambhu Nath Pandit, and then by Dwarka Nath Mitra, perhaps
+                    the most talented judge that India produced in the 19th century. Dwarka Nath’s
+                    great ability and thorough insight into cases were universally recognized in
+                    India; his decisions were valued and often quoted; and his name was often
+                    mentioned as an illustration of the judicial capacity of the natives of India.
+                    Anukul Chandra Mukerji also sat on the bench for a time; and on his death in
+                    1871, Romesh Chandra Mitra was appointed judge in his place. He maintained the
+                    high reputation of his predecessors, and for a period of nearly twenty years,
+                    down to 1890, he performed his judicial duties with credit and distinction. When
+                    the post of chief justice was temporarily vacant in 1882, the marquis of Ripon,
+                    then viceroy of India, appointed Romesh Chandra to officiate in that post—the
+                    highest judicial position in the Indian empire. Lord Dufferin, who succeeded
+                    Lord Ripon as viceroy of India, appointed Romesh Chandra a member of the Public
+                    Service Commission, and in this capacity he did valuable work. Failing health
+                    compelled him to retire from the high court in 1890, and he was then knighted
+                    and appointed a member of the viceroy’s legislative council. Till he died in
+                    1899, he continued to take interest in all social, educational and political
+                    reforms in India.</p>            </div>
+        </body>
+    </text>
+</TEI>

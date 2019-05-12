@@ -1,0 +1,5 @@
+Regex--clean up Gary's commas after label.
+
+For biographical entries where name is followed by lifespan
+
+</label>, \(\d{3,4}

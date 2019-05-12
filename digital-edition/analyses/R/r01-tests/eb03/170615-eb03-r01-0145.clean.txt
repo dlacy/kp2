@@ -1,0 +1,36 @@
+no use. so imperfect is our mathematical knowledge, that even Mr d’alembert has not been able to exem plisy the application of the equation to the simplest cafe which can be proposed, such as the direct impulse on a plane surface wholly immersed in the ssuid. All that he is enabled to do, is to apply it (by some modifications and substitutions which take it out of its state of extreme generality) to the .direct impulse of a vein of fluid on a plane which deflects it wholly, and thus to show its conformity to the solution given by Daniel Bernoulli, and to observation and experience. He shows, that this impulse (independent of the deficiency arising from the plane’s not being of infinite extent) is somewhat less than the weight of a column whose base is the section of the vein, and whose height is twice the fall necessary for communicating the velocity. Thi3 great philosopher and geometer concludes by saying, that he does not believe that any method can be found for solving this problem that is more direct and simple;; imagines, that if the deductions from it shall be found not to agree with experiment, we must give up all hopes of determining the ressstance of fluids by theory and analytical calculus. He says 
+analytical calculus; 
+for all the physscal principles on which the calculus pro ceeds are rigoroussy demonssrated, and will not admit of a doubt. There is only one hypothesis introduced in his investigation, and this is not a physical hypothe sis, but a hypothesis of calculation. It is, that the quantities which determine the ratios of the second ssu xions of the velocities, estimated in the directions pa railel and perpendicular to the axis AC (sig. 16.) are functions of the abscissa AP, and ordinate PM of the curve. Any person, in the least acquainted with mathematical analysis, will see, that without this supposi tion no analysis or calculus whatever can be instituted. But let üs see what is the 
+phyßcal 
+meaning of this hypothecs. It is simply this, that the motion of the par ticle M depends on its situation only. It appears impossible to form any other opinion; and is we could form such an opinion, it is as clear as daylight that the case is desperate, and that we must renounce all hopes. 
+We are sorry to bring our labours to this conclusion; but we are of opinion, that the only thing that remains is, sor mathematicians to attach themselves with sirmness and vigour to some simple cases; and, without aiming at generality, to apply Mr d’alembert’s or bernoulli’s mode of procedure to the particular circum stances of the case. It is not improbable but that, in the solutions which may be obtained of these particular cafes, circumstances may occur which are of a more ge neral nature. These will be so many laws of hydraulics to be added to our present very scanty stock; and these may have points of resemblance, which will give birth to laws of still greater generality. And we repeat our expression of hopes of some success, by endea vouring to determine, in some simple cases, the 
+minimum possibile 
+of motion. The attempts of the Jesuit commentators on the 
+Principia 
+to ascertain this on the new tonian hypothesis do them honour, anil have really given us great asslstance in thc particular cafe which came through their hands. 
+And we should multiply experiments on the resistance of bodies. Those of the French academy are undoubtedly of inestimable value, and will always be ap 
+peaied to. But there are circumstances in those experiments which render them more complicated than is proper for a general theory, and which therefore limit the cotlclnsions which we wish to draw from them. The bodies Were floating on the surface. This greatly modifies the deflections of the filaments of water, causing some to deflect laterally, which would otherwise have remained in one vertical plane; and this circumstance also necessarily produced what the academicians called the 
+remou, 
+or accumulation on the anterior part of the body, and depression behind it. This produced an ad ditional resistance, which was measured with great diffi culty and uncertainty. The effect of adhesion mnst also have been very considerable, and very different ill the different cases; and it is of difficult calculation. It cannot perhaps be totally removed in any experiment, and it is necessary to consider it as making part of the resistance in the most important practical cases, viz. the motion of ships. Here we see that its effect is very great. Every seaman knows that the speed, even of 
+a 
+copper sheathed 
+ship, 
+is 
+greatly 
+increased bygreasing her bottom. The difference is too remarkable to admit of a doubt : nor should we be surprised at this, when we attend to the diminution of the motion of water in long pipes. A smooth pipe four and an half inches diameter, and 500 yards long, yields but one fifth of the quantity which it ought to do independent of friction. But adhesion does 
+a 
+great deal which cannot be corn pared with friction, we see that water flowing thro’ a hole in a thin plate will be increased in quantity fully one third, by adding a little tube whose length is about twice the diameter of the hole. The adhesion therefore will greatly modify the action of the fila ments both on the solid body and on each other, and will change both the forms of the curves and the velo cities in different points; and this is a sort of objec tion to the only hypothesis introduced by d’alemberts Yet it is only a sort of objection; for the effect of this adhesion, too, mull undoubtedly depend on the situation of the particle. 
+The form of these experiments of the academy is ill fuited to the examination of the resistance of bodies wholly immersed in the fluid. The form of experiment adopted by Robins for the resistance of air, and afterwards by the Chevalier Borda for water, is sree from these inconveniences, and is susceptible of equal accuracy The great advantage of both is the exact knowledge which they give us of the velocity of the motion; a circumstance essentially necessary, and but imperfectly known in the experiments of Mariotte and others, who examined quiescent bodies exposed to the action of a stream. It is extremely difficult to measure the velocity of a stream. It is very different in its different parts. It is swistest of all in the middle supersicial filament, and diminishes as we recede srom this towards the iides or bottom, and the rate of diminution is not precisely known. Could this be ascertained with the necessary precision, we should recommend the sol lowing form of experiment as the most simple, easy, eco nomical, and accurate. 
+Let 
+a, b, C d, 
+(fig. 19.) be four hooks placed in 
+a 
+horizontal plane at the corners of a rectangular parallelogram, the sides 
+nr, bd 
+being parallel to the direction of the stream ABCD, and "the sides 
+ab, ai 
+being perpendicular 
+to 
+it. Let the body 
+G 
+be sastened to 

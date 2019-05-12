@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0277-02"
+                facs="encyclopaediabri24chisrich_0296.jp2" type="entry">
+                <p><label>SAYER (or Sayers), JAMES</label>, (1748-1823), English caricaturist, was a
+                    native of Yarmouth, and son of a merchant captain. He began as clerk in an
+                    attorney’s office, and was for a time a member of the borough council. In 1780
+                    the death of his father put him in possession of a small fortune, and he came to
+                    London. As a political caricaturist he was a supporter of William Pitt. His
+                    plate of “ Carlo Khan’s triumphal entry into Leadenhall Street ’’ was allowed by
+                    C. J. Fox, against whom it was directed, to have damaged him severely in public
+                    opinion. Indeed Sayer was always at his best when attacking Fox, whose strongly
+                    marked features he rendered with remarkable power, and always so as to make them
+                    convey expressions of defiant impudence or of anger. Pitt, who showed no wish to
+                    help literature or art in any other case, provided Sayer with a place as marshal
+                    of the Exchequer court. He died in Curzon Street, Mayfair, on the 2oth of April
+                    1823.</p>
+                <p>Sayer's “ Carlo Khan ” has been frequently reproduced. But he can only be judged
+                    with confidence after examining the collection in the British Museum, or other
+                    public libraries. His drawings, made originally with pencil on oil paper, were
+                    etched for him by the Brethertons. They were then sold in collections of the
+                    size of a large octavo copybook, under such titles as <hi rend="italic"
+                        >Illustrious Heads</hi> (1794) or <hi rend="italic">Outlines of the
+                        Opposition</hi> (1795). Sayer left a complete gallery of small full-length
+                    pictures of the public men of his time, slightly caricatured. In his great
+                    plates he is inferior to Gillray, and he never has the grace of Rowlandson, but
+                    he is less exaggerated than either, and nearer the truth.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

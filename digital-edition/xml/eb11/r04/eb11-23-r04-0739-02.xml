@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0739-02"
+                facs="encyclopaediabri23chisrich_0792.jp2" type="entry">
+
+                <p><label>ROSS, ALEXANDER</label> (1699-1784), Scottish poet, was born on the 13th
+                    of April 1699 at Kincardine-0’Neil, Aberdeenshire. He was educated at Marischal
+                    College, Aberdeen, and became tutor to the children of Sir William Forbes of
+                    Craigievar. He became in 1732 schoolmaster of Lochlee, Angus, where the rest of
+                    his life was spent. He had long been in the habit of writing verse for his own
+                    amusement, when in 1768 he published, at the suggestion of James Beattie, <hi
+                        rend="italic">The Fortunate Shepherdess . . . to which is (sic) added a few
+                        songs.</hi> This is a pastoral narrative poem, written in obvious imitation
+                    of Allan Ramsay’s <hi rend="italic">Gentle Shepherd.</hi> Its affectations are
+                    chiefly on the surface. The background of shepherd life as known to Ross, and
+                    the rather sordid motives of the characters, despite their high-sounding names
+                    of Helenore, Rosalind, &amp;c., are depicted with uncompromising truth. He
+                    died at Lochlee, and was buried on the 26th of May 1784.</p>
+               <p>See <hi rend="italic">Helenore, or the Fortunate Shepherdess,</hi> edited by
+                    John Long-muir (1866); also H. Walker, <hi rend="italic">Three Centuries of
+                        Scottish Literature</hi> (1893), ii. 28-34. The bulk of Ross’s writings
+                    remain in MS.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

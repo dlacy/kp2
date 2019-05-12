@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="chi.28490931-1526160593_Page_719.jpf" type="entry"
+                xml:id="eb07-19-s01-0662-06" xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SAVU</label>, an island in the Eastern Seas, about twenty miles in length,
+                    low at the sea-coast, but towards the middle rising into considerable hills.
+                    According to Captain Cook and other navigators, it presents a delightful
+                    prospect from the sea. The inhabitants have made some approaches to
+                    civilization, and the island is divided into five principalities. Long. 122. 30.
+                    E. Lat 10. 35. S.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

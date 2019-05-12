@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0137-01"
+                facs="encyclopaediabri24chisrich_0154.jp2" type="entry">
+                <p><label>SANDARACH</label>, (Fr. <hi rend="italic">sandaraque,</hi> Lat. <hi
+                        rend="italic">sandaraca,</hi> Gr. <hi rend="italic">σανδαράκη,</hi> realgar
+                    or red sulphide of arsenic, cf. Pers. <hi rend="italic">sandarus,</hi> Skt. <hi
+                        rend="italic">sindura,</hi> realgar), in mineralogy realgar or native
+                    arsenic disulphide, but generally (a use found in Dioscorides) a resinous body
+                    obtained from the small coniferous tree <hi rend="italic">Callitris
+                        quadriυalυis,</hi> native of the north-west regions of Africa, and
+                    especially characteristic of the Atlas mountains. The resin, which is procured
+                    as a natural exudation on the stems, and also obtained by ma <hi
+                        rend="underline">kin</hi> g incisions in the bark of the trees, comes into
+                    commerce in the form of small round balls or elongated tears, transparent, and
+                    having a delicate yellow tinge. It is a little harder than mastic, for which it
+                    is sometimes substituted. It is also used as incense, and by the Arabs
+                    medicinally as a remedy for diarrhoea. It has no medicinal advantages over many
+                    of the resins employed in modern therapeutics. An analogous resin is procured in
+                    China from <hi rend="italic">Callitris sinensis,</hi> and in S. Australia, under
+                    the name of pine gum, from <hi rend="italic">C. Reissii.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

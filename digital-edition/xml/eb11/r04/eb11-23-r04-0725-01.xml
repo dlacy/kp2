@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0725-01"
+                facs="encyclopaediabri23chisrich_0778.jp2" type="entry">
+
+               <p>                   <label>ROSAS, JUAN MANUEL</label> (1793-1877), tyrant of Buenos Aires, was
+                    born on the 30th of March 1793, in the city of that name. His father, Leon Ortiz
+                    de Rosas, was an owner of cattle runs <hi rend="italic">(estancias)</hi> and a
+                    trader in hides, who took an active part in defeating the English attack on the
+                    city in 1807. Juan Rosas received so little education that he had to learn to
+                    read and write when he was already a married man and a successful cattle
+                    breeder. From a very early age he was left in charge of one of his father’s
+                    establishments. When he was eighteen he married Maria de la Encarnacion Eseurra.
+                    His mother having suspected him of appropriating money, he left his parents, and
+                    for some time subsisted by working as a <hi rend="italic">vaquero</hi> or
+                    cowboy, and then as overseer on the estates of other owners; but he accumulated
+                    money, and by the help of a loan from a friend he became possessed of a cattle
+                    run of his own, Los Cerrillos. The anarchical state of the country since its
+                    independence of Spain had favoured the Indians, who had taken the offensive and
+                    raided up to within forty miles of Buenos Aires. Rosas obtained leave to arm his
+                    cowboys. Under his management Los Cerrillos became a refuge for adventurers,
+                    whom he paid and fed well, but from whom he exacted implicit obedience. His
+                    followers became a fighting force of acknowledged efficiency, and Rosas took
+                    practically the position of an independent ruler whose help was sought by
+                    contending political parties. By attending to his own interest only, and by
+                    astute intrigue, or savage fighting when necessary, he grew in power from 1820
+                    onwards, and from 1835 to 1852 ruled as dictator (see <hi rend="smallcaps"
+                        >Argentina).</hi> It is probable that he would have continued to govern in
+                    Buenos Aires till his death if his ambition had not led him into wars with all
+                    his neighbours. He wished to extend the authority of the Republic over all the
+                    territory which had belonged to the Spanish viceroyalty of Buenos. This led him
+                    directly into wars with Uruguay, Paraguay and Chile, and into “ warlike
+                    operations ” with England and France, with whom he had other causes of quarrel
+                    arising out of the complaints of traders and bondholders. His government was
+                    overthrown in 1852 by a coalition of his neighbours and the defection of several
+                    of his generals, and even members of his own family who lived in fear of his
+                    suspicions and violence. He took refuge in England, and lived at Swaythling,
+                    near Southampton, till his death on the 14th of March 1877. A portrait taken in
+                    1834 and reproduced by Sir Woodbine Parish in his <hi rend="italic">Buenos Ayres
+                        and Provinces of the Rio de là Plata</hi> (London, 1852) represents Rosas as
+                    a fine-looking man of the handsome Spanish type.</p>               <p>See 0. Martens, <hi rend="italic">Ein Caligula unseres Jahrhunderts</hi>
+                    (Berlin, 1896), which contains a full bibliography.</p>            </div>
+        </body>
+    </text>
+</TEI>

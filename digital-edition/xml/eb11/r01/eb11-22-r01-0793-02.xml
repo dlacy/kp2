@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-22-r01-0793-02"
+                facs="encyclopaediabri22chisrich_0818.jp2" type="entry">
+
+                <p><label>RADIOACTIVITY</label>. The subject of radioactivity deals with phenomena
+                    exhibited by a special class of bodies of high atomic weight of which uranium,
+                    thorium, radium and actinium are the best known examples. These substances
+                    possess the property of spontaneously emitting radiations of a special character
+                    which are able to penetrate through matter opaque to ordinary light. The
+                    beginning of this subject dates from 1896, and was an indirect consequence of
+                    the discovery of the X rays made a few months before by Röntgen. It was known
+                    that the production of X rays in a vacuum tube was accompanied by a strong
+                    phosphorescence of the glass, and it occurred to several investigators that
+                    ordinary substances made phos-phorescent by visible light might emit a
+                    penetrating radiation similar to X rays. Following out this idea, H. Becquerel
+                    (1), <note anchored="true" place="bottom" type="authorial" n="1"> These numbers
+                        refer to papers noted under <hi rend="italic">References</hi> (below). </note> <hi rend="sup">l</hi> a distinguished French physicist, exposed amongst other
+                    substances a phosphorescent compound of uranium, uranium-</p>
+                <pb xml:id="eb11-22-r01-0794" facs="encyclopaediabri22chisrich_0819.jp2"/>
+               <p>potassium sulphate, enveloped in paper beneath a photographic plate. A weak
+                    photographic effect was obtained. This was shown to be due to a penetrating
+                    radiation capable of passing through sheets of matter opaque to ordinary light.
+                    Further investigation showed that this photographic action was ex-hibited by all
+                    compounds of uranium and by the metal itself, and had nothing to do with
+                    phosphorescence. It was shown equally if the uranium were kept in darkness and
+                    did not vary appreciably with time. Becquerel showed that the rays from uranium
+                    like X rays were capable of discharging a body whether positively or negatively
+                    electrified. A uranium compound brought close to the charged plate of a gold
+                    leaf electroscope causes a rapid collapse of the gold leaves. This property of
+                    uranium, and also of the radioactive bodies in general, has supplied a delicate
+                    and quantitative method of accurate comparison of the intensity of the
+                    radiations from substances under varying conditions. A modified form of gold
+                    leaf electroscope has come into general use for comparison of the radioactivity
+                    of substances. Rutherford (2) made a systematic examination of the discharging
+                    effect produced by the rays from uranium and showed that it was due to the
+                    pro-duction of charged carriers or ions in the volume of the gas through which
+                    the radiations pass. In an electric field, the positive ions travel to the
+                    negative electrode and vice versa, thus causing a discharge of the electrified
+                    body. If a suffi-ciently strong field is used, the ions are all swept to the
+                    electrodes before appreciable loss of their number can occur by recombination.
+                    The rate of discharge then reaches a steady maximum value which is not altered
+                    by a large increase in voltage. This maximum current through the gas is called
+                    the saturation current. The ions produced in gases by the rays from uranium and
+                    other radioactive substances are in general identical with those produced by X
+                    rays, and the mechanism of conductivity of the gas is very similar in both cases
+                    (see Conduction, Electric: § <hi rend="italic">Through Gases</hi> ) <hi
+                        rend="italic"> .</hi></p>
+               <p>Some time after Becquerel’s discovery, Mme Curie (3) made a systematic
+                    examination or the electric method of a large number of chemical elements and
+                    their compounds to test whether they possessed the “ radioactive ” property of
+                    uranium. Only one other element, thorium, was found to show this effect to a
+                    degree comparable with that of uranium—a result inde-pendently observed by
+                    Schmidt. Mme Curie examined the activity of the various compounds of uranium and
+                    found that their radioactivity was an atomic property, <hi rend="italic">i. e.</hi> the activity was proportional to the amount of the element uranium
+                    present, and was independent of its combination with other sub-stances. In
+                    testing the activity of the minerals containing uranium, Mme Curie found that
+                    the activity was always four to five times as great as that to be expected from
+                    their content of uranium. If the radioactivity were an atomic phenomenon, this
+                    could only be explained by the presence in these minerals of another substance
+                    more active than uranium itself. Relying on this hypothesis, Mme Curie made a
+                    chemical examination of uranium minerals in order to try to separate this new
+                    radio-active substance. In these experiments, the Austrian Government generously
+                    provided Mme Curie with a ton of the residues from the State manufactory of
+                    uranium at Joachimstahl, Bohemia. At that place there are extensive deposits of
+                    pitch-blende or uranite which are mined for the uranium. After separation of the
+                    latter, the residues are three to five times as radioactive weight for weight as
+                    the uranium. From this residue Mme Curie separated a substance far more
+                    radio-active than uranium, which she called polonium in honour of the country of
+                    her birth. This substance is usually separated with bismuth in the mineral, but
+                    by special methods can be partly separated from it. A further examination
+                    revealed the presence of a second radioactive substance which is normally
+                    separated with the barium, to which the name “ radium ” was given. This name was
+                    happily chosen, for in the pure state radium bromide has a very great
+                    activity—about two million times as great as an equal weight of uranium. By
+                    means of successive fractionations of the chloride, the radium was gradually
+                    concentrated, until finally the radium was obtained so that the barium lines
+                    showed very faintly. The atomic weight was found by Mme Curie to be 225. In a
+                    recent redetermination, using a larger quantity of 0∙4 grams of pure radium
+                    chloride, Mme Curie (4) found the atomic weight to be 226∙2. Thorpe (5) using a
+                    smaller quantity obtained a value 227. The spectrum of the purified sample of
+                    radium chloride obtained by Mme Curie was first examined by Demarçay. It was
+                    found to have a characteristic spark spectrum of bright lines analogous in many
+                    respects to the spectra of the alkaline earths. Giesel (6) found that pure
+                    radium bromide gives a brilliant carmine colour to the bunsen flame. The flame
+                    spectrum shows two broad bright bands in the orange-red. There is also a line in
+                    the blue-green and two weak lines in the violet. Giesel (7) has taken an active
+                    part in the preparation of pure radium compounds, and was the first to place
+                    preparations of pure radium bromide on the market. He found that the separation
+                    of radium from the barium mixed with it proceeded much more rapidly if the
+                    crystallizations were carried out using thebromide instead of the chloride. He
+                    states that six to eight crystallizations are sufficient for an almost complete
+                    separation. From the chemical point of view radium possesses all the
+                    characteristic properties of a new element. It has a definite atomic weight, a
+                    well-marked and characteristic spectrum, and distinct chemical properties. Its
+                    comparative ease of separation and great activity has attracted much attention
+                    to this substance, although we shall see that very similar radioactive
+                    properties are possessed by a large number of distinct substances.</p>
+               <p>Radium emits three distinct types of radiation, known as the <hi rend="italic">α</hi> , <hi rend="italic">ß</hi> and γ rays, of which an account will be
+                    given later. It produces in addition a radioactive emanation or gas which is
+                    about 100,000 times as active weight for weight as radium itself. The emanation
+                    released from 10 milligrams of pure radium bromide causes a glass tube into
+                    which it is introduced to phosphoresce brightly. A brilliant luminosity is
+                    produced in phosphorescent substances like zinc sulphide, willemite and barium
+                    platino-cyanide when introduced into a tube containing the emanation. The radium
+                    emanation, a more detailed account of which will be given later, has proved of
+                    the greatest utility in radioactive experiments. The property of radium of
+                    pro-ducing the emanation has been utilized as a very delicate and certain
+                    method, not only of detection but of estimation of small quantities of radium.
+                    This “ emanation method ” depends upon the introduction of the emanation,
+                    liberated from a substance by boiling or heating, into a suitable electroscope.
+                    The rate of discharge of the electroscope due to the emanation affords a
+                    quantitative measure of the amount of radium present. In this way, it is not
+                    difficult to determine with certainty the</p>
+                <pb xml:id="eb11-22-r01-0795" facs="encyclopaediabri22chisrich_0820.jp2"/>
+               <p>presence of radium in a body which contains only 10 <hi rend="sup">-11</hi> gram of radium. With care, 10 <hi rend="sup">-12</hi> gram can just be
+                    detected. This emanation method has been employed with great success in
+                    measuring the quantity of radium in minerals and in rocks. A very simple method
+                    has been devised of determining the quantity of radium present when it is not
+                    less than 1∕100 milligram. The tube containing the radium is placed some
+                    distance from an electroscope which is surrounded by a lead screen about 3 mms.
+                    thick. This cuts off the <hi rend="italic">α</hi> and <hi rend="italic">ß</hi> rays and the effect in the electroscope is then due to the penetrating 7
+                    rays. By comparison of the rate of discharge with that of a standard preparation
+                    of radium at the same distance, the quantity of radium can at once be deduced,
+                    provided the radium is in equilibrium with its emanation. This is usually the
+                    case if the radium preparation is one month old. This method is simple and
+                    direct, and has the great advantage that the radium tube under test need not be
+                    opened, nor its contents weighed. We shall sec later that the amount of radium
+                    in an old mineral is always proportional to the amount of uranium present.
+                    Rutherford and Boltwood (8) found that 3‧4 parts of radium by weight arc present
+                    in ten million parts of uranium. Consequently an old mineral containing 1000
+                    kilos of uranium should contain 340 milligrams of pure radium.</p>
+               <p>In addition to radium and polonium, a number of other radioactive substances
+                    have been found in uranium minerals. With the exception of the radium emanation,
+                    none of these have yet been isolated in a pure state, although preparations of
+                    some of them have been obtained comparable in activity with radium itself.
+                    Debierne (9) found a radioactive substance which was separated from pitchblende
+                    with the rare earths and had chemical properties similar to those of thorium.
+                    This he called <hi rend="italic">actinium.</hi> Giesel (10) independently
+                    noted the presence of a new radio-active substance which was usually separated
+                    with lanthanum and cerium from the minerals. It possessed the property of giving
+                    out a radioactive emanation or gas, the activity of which died away in a few
+                    seconds. For this reason he called it the <hi rend="italic">emanating substance</hi> and afterwards <hi rend="italic">emanium.</hi> Later work has shown that
+                    emanium is identical in chemical and radioactive properities with actinium, so
+                    that the former name will be retained.</p>
+               <p>We have already seen that Mme Curie gave the name polonium to a radioactive
+                    substance separated with bismuth. Later Marckwald found that a very radioactive
+                    substance was deposited from a solution of a radioactive mineral on a polished
+                    bismuth plate. The active matter was found to be deposited in the bismuth with
+                    tellurium, and he gave the name <hi rend="italic">radio-tellurium</hi> to this
+                    substance. In later work, he showed that the new substance could be chemically
+                    separated from tellurium. By treating the residues from 15 tons of Joachimsthal
+                    pitch-blende, Marckwald (11) finally obtained 3 milligrams of intensely active
+                    material—far more active weight for weight than radium. It has been definitely
+                    settled that the active substance of Marckwald is identical with polonium. Both
+                    substances give out a type of easily absorbed <hi rend="italic">a</hi> rays
+                    and both lose their activity at the same rate. The activity of polonium decays
+                    in a geo-metrical progression with the time and falls to half its initial value
+                    in 140 days. This law of decay, as we shall see, is characteristic of all
+                    radioactive products, although the period of decay is different in each case.</p>
+               <p>Mme Curie and Debierne (12) have described further experiments with polonium.
+                    The latter substance was extracted from several tons of pitchblende and purified
+                    until 2 milligrams of material were obtained containing about 1/10 milligram of
+                    pure polonium. From a knowledge of the relative periods of transformation of
+                    radium and polonium, it can be calculated that the amount of polonium in a
+                    radium mineral is 1/5000 of the amount of radium, while the activity of pure
+                    polonium measured by the α rays should be 5000 times greater than that of
+                    radium. As we have seen, polonium is rapidly transformed, and it is of great
+                    interest to determine the nature of the substance into which polonium changes.
+                    We shall see later that there is considerable evidence that polonium changes
+                    into lead.</p>
+               <p>Recently Boltwood (13) has separated another substance from uranium minerals
+                    which he has called “ ionium. ” This substance is sometimes separated from the
+                    mineral with actinium and has chemical properties very similar to those of
+                    thorium. Preparations of ionium have been obtained several thousand times as
+                    active as uranium. Ionium emits <hi rend="italic">α</hi> rays of short range
+                    and has a period of transformation probably much longer than that of radium.
+                    Ionium has a special interest inasmuch as it is the substance which changes
+                    directly into radium. A preparation of ionium initially free from radium grows
+                    radium at a rapid rate. Hofmann found that the lead separated from uranium
+                    minerals and named it radiolead. The active con-stituent in the lead is radium
+                    D, which changes into radium E and then into radium F (polonium). Both radium D
+                    and radium F arc products of the transformation of radium. In addition to these
+                    radioactive substances mentioned above, a large number of other radioactive
+                    substances have been discovered. Most of these lose their activity in the course
+                    of a few hours or days. The properties of these substances and their position in
+                    the radioactive series will be discussed later.</p>
+               <p><hi rend="italic">Radiations from Radioactive Substances. —</hi> All the
+                    radioactive substances possess in common the property of emitting radiations
+                    which darken a photographic plate and cause a discharge of electrified bodies.
+                    Very active preparations of radium, actinium and polonium also possess the
+                    property of causing strong phosphorescence in some substances. Bodies which
+                    phosphoresce under X rays usually do so under the rays from radioactive matter.
+                    Barium platinocyanide, the mineral willemite (zinc silicate) and zinc sulphide
+                    are the best known examples.</p>
+               <p>There are in general three types of radiation emitted by the radioactive bodies,
+                    called the <hi rend="italic">α</hi> , <hi rend="italic">ß</hi> and 7 rays.
+                    Ruther-ford (2) in 1899 showed that the radiation from uranium was complex and
+                    consisted of <hi rend="italic">(a)</hi> an easily absorbed radiation stopped
+                    by a sheet of paper or a few centimetres of air which he called the a rays and <hi rend="italic">(b)</hi> a far more penetrating radiation capable of
+                    passing through several millimetres of aluminium, called the <hi rend="italic">ß</hi> rays. Later Villard found that radium emitted a very pene-trating
+                    kind of radiation called the γ rays capable of passing before absorption through
+                    twenty centimetres of iron and several centimetres of lead.</p>
+               <p>Giesel and, later, Curie and Becquerel showed that the <hi rend="italic">ß</hi> rays of radium were deflected by a magnetic field. By the work of
+                    Becquerel and Kaufmann the <hi rend="italic">ß</hi> rays have been shown to
+                    consist of negatively charged particles projected with a velocity ap-proaching
+                    that of light, and having the same small mass as the electrons set free in a
+                    vacuum tube. In fact the <hi rend="italic">ß</hi> rays are electrons
+                    spontaneously ejected from the radioactive matter at a speed on an average much
+                    greater than that observed in the electrons set free in a vacuum tube.</p>
+               <p>The very penetrating γ rays are not deflected in a magnetic or electric field
+                    and are believed to be a type of radiation similar to X rays. The γ rays are
+                    only observed in radioactive substances which emit <hi rend="italic">ß</hi> rays, and the penetrating power of the 7 rays appears to be connected with the
+                    initial velocity of expulsion of the <hi rend="italic">ß</hi> rays. Two
+                    general theories have been advanced to account for the properties of these rays.
+                    On one view, the γ rays are to be regarded as electromagnetic pulses which have
+                    their origin in the expulsion of the <hi rend="italic">ß</hi> particle from
+                    the atom. On the other hand Bragg has collected evidence in support of the view
+                    that the γ rays arc corpuscular and con-sist of uncharged particles or “ neutral
+                    doublets. ” There is as yet no general consensus of opinion as to the true
+                    nature of the γ rays.</p>
+               <p>Rutherford (14) showed in 1903 that the <hi rend="italic">α</hi> rays were
+                    deflected in a powerful magnetic or electric field. The amount of deflection is
+                    very small compared with the <hi rend="italic">ß</hi> rays under similar
+                    conditions. The direction of deflection in a magnetic field is opposite to that
+                    of the <hi rend="italic">ß</hi> rays, showing that the <hi rend="italic">α</hi> rays consist of a stream of positively charged particles. A pencil of rays
+                    from a thick layer of radioactive matter is complex and con-sists of particles
+                    moving at varying velocities If, however,</p>
+                <pb xml:id="eb11-22-r01-0796" facs="encyclopaediabri22chisrich_0821.jp2"/>
+               <p>a thin film of radioactive matter of one kind is taken, the particles which
+                    escape without absorption are found to be homo-geneous and consist of particles
+                    projected at an identical speed. Observations of the velocity and mass of the
+                    particle have been made by Rutherford. The general method employed for this
+                    purpose is similar to that used for the determination of the velocity and mass
+                    of the electron in a vacuum tube. The deflection of a pencil of rays in a vacuum
+                    is determined for both a magnetic and electric field. From these observations
+                    the velocity and value <hi rend="italic">e</hi> <hi rend="italic">∣</hi> <hi rend="italic">m</hi> (the ratio of the charge carried by the particle to
+                    its mass) are determined. The value of <hi rend="italic">e</hi> / <hi
+                        rend="italic"> m</hi> has been found to be the same for the particles from
+                    all the types of radioactive matter that have been examined, indicating that the <hi rend="italic">α</hi> particles from all radioactive substances are
+                    identical in mass. The value of <hi rend="italic">e</hi> / <hi rend="italic">m</hi> found for the <hi rend="italic">α</hi> particle is 5‧07 X 10 <hi
+                        rend="sup"> 3</hi> . Now the value of <hi rend="italic">e</hi> / <hi
+                        rend="italic"> m</hi> for the hydrogen atom set free in the electrolysis of
+                    water is 9660. On the assumption that the value of the charge <hi rend="italic">e</hi> is the same for the <hi rend="italic">α</hi> particle as for the
+                    hydrogen atom, the value would indicate that the <hi rend="italic">α</hi> particle has about twice the mass of the hydrogen atom, <hi rend="italic">i. e.</hi> has the same mass as the hydrogen molecule. If the charge on the <hi
+                        rend="italic"> α</hi> particle is twice that on the hydrogen atom, the
+                    value of <hi rend="italic">e</hi> / <hi rend="italic">m</hi> indicates that
+                    the <hi rend="italic">α</hi> particle is a helium atom, for the latter has an
+                    atomic weight of four times that of hydrogen. It was difficult at first to
+                    decide between these and other hypotheses, but we shall show later that there is
+                    now no doubt that the <hi rend="italic">α</hi> particle is in reality a helium
+                    atom carrying two elementary charges. We may consequently regard the <hi
+                        rend="italic"> α</hi> rays as a stream of helium atoms which are projected
+                    from a radio-active substance with a high velocity. The maximum velocity of the <hi rend="italic">α</hi> particle from radium is 2×10 <hi rend="sup">9</hi> cms. per second, or one-fifteenth of the velocity of light. Although the <hi rend="italic">α</hi> rays are the least penetrating of the radiations,
+                    it will be seen that they play an extremely important part in radioactive
+                    phenomena. They are responsible for the greater part of the ionization and
+                    heating effects of radioactive matter and are closely connected with the
+                    transformations occurring in them.</p>
+               <p>Under ordinary experimental conditions the greater part of the ionization
+                    observed in a gas is due to the <hi rend="italic">α</hi> particles. This
+                    ionization due to the <hi rend="italic">α</hi> rays does not extend in air at
+                    atmospheric pressure for more than 7 cms. from radium, and 8∙6 cms. from
+                    thorium. If a screen of aluminium about ‧01 cms. thick is placed over the active
+                    material, the <hi rend="italic">α</hi> rays are completely absorbed, and the
+                    ionization above the screen is then due to the <hi rend="italic">ß</hi> and <hi rend="italic">γ</hi> rays alone. If a layer of lead about 2 mms. thick
+                    is placed over the active material, the <hi rend="italic">ß</hi> rays are
+                    stopped, and the ionization is then due almost entirely to the penetrating γ
+                    rays. By the use of screens of suitable thickness we are thus able to sift out
+                    the various types of rays. These three types of radiations all set up secondary
+                    radiations in passing through matter. A pencil of <hi rend="italic">ß</hi> rays falling on matter is widely scattered in all directions. This scattered
+                    radiation is sometimes called the secondary <hi rend="italic">ß</hi> rays. The
+                    7 rays give rise to secondary rays which consist in part of scattered 7 rays and
+                    in part electrons moving with a high velocity. These secondary rays in turn
+                    produce tertiary rays and so on. The impact of the <hi rend="italic">α</hi> rays on matter sets free a number of slow moving electrons which are very easily
+                    deflected by a magnetic or electric field. This type of radiation was first
+                    observed by J. J. Thomson, and has been called by him the δ rays.</p>
+               <p><hi rend="italic">Emanations or Radioactive Gases. —</hi> In addition to their
+                    power of emitting penetrating radiations, the substances thorium, actinium and
+                    radium possess another very striking and im-portant property. Rutherford (15) in
+                    1900 showed that thorium compounds (especially the oxide) continuously emitted a
+                    radioactive emanation or gas. This emanation can be carried away by a current of
+                    air and its properties tested apart from the substance which produces it. A
+                    little later Dorn showed that radium possesses a similar property, while Giesel
+                    and Debierne observed a similar effect with actinium. These emanations all
+                    possess the property of ionizing a gas and, if sufficiently intense, of
+                    producing marked photographic and phosphorescent action. The activity of the
+                    radioactive gases is not permanent but disappears according to a definite law
+                    with the time, viz. the activity falls off in a geometric progression with the
+                    time. The emanations are distinguished by the different rates at which they lose
+                    their activity. The emanation of actinium is very shortlived, the time for the
+                    activity to fall to half value, <hi rend="italic">i.e.</hi> the period of the
+                    emanation, being 3∙7 seconds. The period of the thorium emanation is 54 seconds
+                    and of the radium emanation 3*9 days. This property of emitting an emanation is
+                    shown in a very striking manner by actinium. A compound of actinium is wrapped
+                    in a sheet of thin paper and laid on a screen of phosphorescent zinc sulphide.
+                    In a dark room the phosphorescence, marked by the characteristic scintillation,
+                    is seen to extend on all sides from the active body. A puff of air is seen to
+                    remove the emanation and with it the greater part of the phosphorescence. Fresh
+                    emanation immediately diffuses out and the experiment may be repeated
+                    indefinitely. The emanations have all the properties of radioactive gases. They
+                    can be transferred from point to point by currents of air. The emanations can be
+                    separated from the air or other gas with which they are mixed by the action of
+                    extreme cold. Rutherford and Soddy (16) showed that under ordinary conditions
+                    the temperature of condensation of the radium emanation mixed was - 150 <hi
+                        rend="sup"> 0</hi> C.</p>
+               <p>The emanations are produced from the parent matter and escape into the air under
+                    some conditions. Rutherford and Soddy (17) made a systematic examination of the
+                    emanating power of thorium compounds under different conditions. The hydroxide
+                    emanates most freely, while in thorium nitrate, practically none of the
+                    emanation escapes into the air. Most of the compounds of actinium emanate very
+                    freely. Radium compounds, except in very thin films, retain most of the
+                    emanation in the compound. The occluded emanation can in all cases be released
+                    by solution or by heating. On account of its very slow period of decay, the
+                    emanation of radium can be collected like a gas and stored, when it retains its
+                    characteristic properties for a month or more.</p>
+               <p><hi rend="italic">Induced Activity. —</hi> Curie (18) showed that radium
+                    possessed another remarkable property. The surface of any body placed near
+                    radium, or still better, immersed in the emanation from it, acquires a new
+                    property. The surface after removal is found to be strongly active. Like the
+                    emanations, this induced activity in a body decays with the time, though at
+                    quite a different rate from the emanation itself. Rutherford (19) independently
+                    showed that thorium possessed a like property. He showed that the bodies made
+                    active behaved as if a thin film of intensely active matter were deposited on
+                    their surface. The active matter could be partly removed by rubbing, and could
+                    be dissolved off by strong acids. When the acid was evaporated the active matter
+                    remained behind. It was shown that induced activity was due to the emanations,
+                    and could not be produced if no emanation was present. We shall see that induced
+                    activity on bodies is due to a deposit of non-gaseous matter derived from the
+                    transformation of the emanations. Each emanation gives a distinctive active
+                    deposit which decays at different rates. The active deposits of radium, thorium
+                    and actinium are very complex, and consist of several types of matter. Several
+                    hours after removal from the emanation the active deposit from radium decays to
+                    half-value—26 minutes, for actinium half-value—34 minutes, for thorium
+                    half-value— 10∙5 hours. The active deposits obtained on a platinum wire or plate
+                    are volatilized before a white heat, and are again de-posited on the cooler
+                    bodies in the neighbourhood. Rutherford showed that the induced activity could
+                    be concentrated on the negative electrode in a strong electric field, indicating
+                    that the radioactive carriers had a positive charge. The distribution of the
+                    active deposit in a gas at low pressure has been investigated in detail by
+                    Makower and Russ.</p>
+               <p><hi rend="italic">Theory of Radioactive Transformations. —</hi> We have seen
+                    that the radioactive bodies spontaneously and continuously emit a great number
+                    of <hi rend="italic">α</hi> and <hi rend="italic">ß</hi> particles. In
+                    addition, new types of radioactive matter like the emanations and active
+                    deposits</p>
+                <pb xml:id="eb11-22-r01-0797" facs="encyclopaediabri22chisrich_0822.jp2"/>
+               <p>appear, and these are quite distinct in chemical and physical properties from
+                    the parent matter. The radiating power is an atomic property, for it is
+                    unaffected by combination of the active element with inactive bodies, and is
+                    uninfluenced by the most powerful chemical and physical agencies at our command.
+                    In order to explain these results, Rutherford and Soddy (2o) in 1903 put forward
+                    a simple but comprehensive theory. The atoms of radioactive matter are unstable,
+                    and each second a definite fraction of the number of atoms present break up with
+                    explosive violence, in most cases expelling an <hi rend="italic">a</hi> or <hi
+                        rend="italic"> ß</hi> particle with great velocity. Taking as a simple
+                    illustration that an <hi rend="italic">α</hi> particle is expelled during the
+                    explosion, the resulting atom has decreased in mass and possesses chemical and
+                    physical properties entirely distinct from the parent atom. A new type of matter
+                    has thus appeared as a result of the transformation. The atoms of this new
+                    matter are again unstable and break up in turn, the process of successive
+                    disintegration of the atom continuing through a number of distinct stages. On
+                    this view, a substance like the radium emanation is derived from the
+                    transformation of radium. The atoms of the emanation are far more unstable than
+                    the atoms of radium, and break up at a much quicker rate. We shall now consider
+                    the law of radioactive transformation according to this theory. It is
+                    experi-mentally observed that in all simple radioactive substances, the tensity
+                    of the radiation decreases in a geometrical progression with the time, <hi
+                        rend="italic"> i. e.</hi> I∕I <hi rend="sub">o</hi> = <hi rend="italic">e <hi rend="sup">-</hi></hi> <hi rend="sup">λt</hi> where I is the intensity of the radiation at any time <hi rend="italic">t,</hi> I <hi rend="sub">o</hi> the initial intensity,
+                    and λ a constant. Now according to this theory, the intensity of the radiation
+                    is proportional to the number of atoms breaking up per second. From this it
+                    follows that the atoms of active matter present decrease in a geometrical
+                    progression with the time, <hi rend="italic">i.</hi> <hi rend="italic">e.</hi> N∕N <hi rend="sub">o</hi> =e <hi rend="sup">-λt</hi> where N is the number of atoms present at a time <hi rend="italic">t</hi> , N <hi rend="sub">o</hi> the initial number, and λ the same constant as
+                    before. Differentiating, we have <hi rend="italic">d</hi> N∕ <hi rend="italic"
+                        > dt</hi> = -λN, <hi rend="italic">i.</hi> <hi rend="italic">e. λ</hi> represents the fraction of the total number of
+                    atoms present which break up per second. The radioactive constant λ has a
+                    definite and characteristic value for each type of matter. Since λ is usually a
+                    very small fraction, it is convenient to distinguish the products by stating the
+                    time required for half the matter to be transformed. This will be called the
+                    period of the product, and is numerically equal to log <hi rend="italic"><hi rend="sub"> c</hi></hi> ∕λ. As far as our observation has gone, the law of radioactive change is
+                    applicable to all radioactive matter without exception. It appears to be an
+                    expression of the law of probability, for the average number breaking up per
+                    second is proportional to the number present. Viewed from this point of view,
+                    the number of atoms breaking up per second should have a certain average value,
+                    but the number from second to second should vary within certain limits according
+                    to the theory of probability. The theory of this effect was first put" forward
+                    by Schweidler, and has since been verified by a number of experimenters,
+                    including Kohl-rausch, Meyer, and Begener and H. Geiger. This variation in the
+                    number of atoms breaking up from moment to moment becomes marked with weak
+                    radioactive matter, where only a few atoms break up per second. The variations
+                    observed are in good agreement with those to be expected from the theory of
+                    probability. This effect does not in any way invalidate the law of radioactive
+                    change. On an average the number of atoms of any simple kind of matter breaking
+                    up per second is proportional to the number present. We shall now consider how
+                    the amount of radioactive matter which is supplied at a constant rate from a
+                    source varies with the time. For clear-ness, we shall take the case of the
+                    production of emanation, by radium. The rate of transformation of radium is so
+                    slow compared with that of the emanation that we may assume without sensible
+                    error that the number of atoms of radium breaking up per second, <hi
+                        rend="italic"> Le.</hi> the supply of fresh emanation, is on the average
+                    constant over the interval required. Suppose that initially radium is completely
+                    freed from emanation. In consequence of the steady supply, the amount of
+                    emanation present increases, but not at a constant rate, for the emanation is in
+                    turn breaking up. Let <hi rend="italic">q</hi> be the number of atoms of
+                    emanation produced by the radium per second and N the number present after an
+                    interval <hi rend="italic">t</hi> , then <hi rend="italic">dN</hi> <hi rend="italic">∣</hi> <hi rend="italic">dt=q-λ</hi> N where λ is the radioactive constant of the
+                    emanation. It is obvious that a steady state will ultimately be reached when the
+                    number of atoms of emanation supplied per second are on the average to the atoms
+                    which break up per second. If N <hi rend="sub">o</hi> be the maximum number, <hi rend="italic">q</hi> =XN <hi rend="sub">o</hi> . Integrating the
+                    above equation, it follows that N∕N <hi rend="sub">o</hi> =1-e" <hi rend="sup"
+                        > λi</hi> . If a curve be plotted with N as ordinates and time as
+                    abscissae, it is seen that the recovery curve is complementary to the decay
+                    curve. The two curves for the radium emanation period, 3∙9 days, are shown in
+                    fig. 1, the maximum ordinate being in each case 100.</p>
+               <p>This process of production and disappearance of active* matter holds for all the
+                    radioactive bodies. We shall now consider some special cases of the variation of
+                    the amount of active matter with time which have proved of great importance in
+                    the analysis of radioactive changes.</p>
+               <p>(a) Suppose that initially the matter A is present, and this changes into B and
+                    B into C, it is required to find the number of atoms P, Q and R of A, B and C
+                    present at any subsequent time <hi rend="italic">t..</hi></p>
+               <p>Let λ <hi rend="sub">1</hi> , λ <hi rend="sub">2</hi> , λ <hi rend="sub">3</hi> be the constants of transformation of A, B and C respectively. Suppose <hi
+                        rend="italic"> n</hi> be the number of atoms of A initially present. From
+                    the law of radioactive change it follows:</p>
+               <p>P= <hi rend="italic">ne <hi rend="sup">-</hi></hi> <hi rend="sup">λ</hi> 1 <hi rend="italic"><hi rend="sup"> c</hi></hi></p>
+               <p><hi rend="italic">d</hi> Q∕ <hi rend="italic">dt</hi> = λ <hi rend="sub">1</hi> P-λ <hi rend="sub">2</hi> Q.........(1)</p>
+               <p><hi rend="italic">d</hi> R <hi rend="italic">∕dt=λ <hi rend="sub">2</hi></hi> Q <hi rend="italic">-</hi> λ <hi rend="sub">2</hi> R ......(2)</p>
+               <p>Substituting the value of P in terms of <hi rend="italic">n</hi> in(1), dQ∕ <hi rend="italic">dt</hi> =λ <hi rend="sub">1</hi> <hi rend="italic">ne <hi rend="sup">-</hi></hi> <hi rend="sup">λ1t</hi> -λ <hi rend="sub">2</hi> Q; the solution of which is
+                    of the form</p>
+               <p>Q = n( <hi rend="italic">ae <hi rend="sup">-</hi></hi> <hi rend="sup">λ1</hi> '+ <hi rend="italic">be <hi rend="sup">-</hi></hi> <hi rend="sup">λ</hi> 2 <hi rend="sup">t</hi> ),</p>
+               <p>where <hi rend="italic">a</hi> and <hi rend="italic">b</hi> are constants.
+                    By substitution it is seen that <hi rend="italic">a</hi> = λι∕(λ <hi
+                        rend="sub"> 2</hi> -λ <hi rend="sub">1</hi> ). Since Q=0 when <hi
+                        rend="italic"> t</hi> =o, <hi rend="italic">b=</hi> — λ <hi rend="sub">1</hi> ∕(λ <hi rend="sub">2</hi> -λ <hi rend="sub">i</hi> )</p>
+               <p>Thus Q= <hi rend="sub">ξ</hi> 2k. ( <hi rend="sub">e</hi> -⅜'-e-M')........(3)</p>
+               <p>Similarly it can be shown that</p>
+               <p>R = <hi rend="italic">n</hi> ( <hi rend="italic">ae</hi> <hi rend="sup">-λ1'</hi> + <hi rend="italic">be</hi> <hi rend="sup">-λ2'</hi> + <hi rend="italic">ce <hi rend="sup">-</hi></hi> <hi rend="sup">λ3'</hi> )......(4)</p>
+               <p>λ <hi rend="sub">l</hi> λ <hi rend="sub">2</hi> , λ <hi rend="sub">l</hi> λ <hi rend="sub">2</hi> λ <hi rend="sub">l</hi> λ <hi rend="sub">2</hi></p>
+               <p>where <hi rend="italic">a=</hi> ( <hi rend="sub">λl</hi> - <hi rend="sub">λj</hi> )( <hi rend="sub">λl</hi> - <hi rend="sub">λ4</hi> )∙ <hi
+                        rend="italic"> b</hi> = (λ <hi rend="sub">2</hi> - λ <hi rend="sub">l</hi> ) (λ, - λ,? (λ <hi rend="sub">i</hi> -λ <hi rend="sub">l</hi> ) (λ <hi
+                        rend="sub"> i</hi> -λ, )*</p>
+               <p>It will be seen from (3), that the value of Q, initially zero, increases to a
+                    maximum and then decays; finally, according to an exponential law, with the
+                    period of the more slowly transformed product, whether A or B.</p>
+               <p>( <hi rend="italic">b</hi> ) A primary source supplies the matter A at a
+                    constant rate, and the process has continued so long that the amounts of the
+                    products A, B, C have reached a steady limiting value. The primary source is
+                    then suddenly removed. It is required to find the amounts of A, B and C
+                    remaining at any subsequent time <hi rend="italic">t.</hi></p>
+               <p>In this case of equilibrium, the number <hi rend="italic">n</hi> <hi rend="sub">o</hi> of particles of A supplied per second from the source is
+                    equal to the number of particles which change into B per second, and also of B
+                    into C. This requires the relation</p>
+               <p><hi rend="italic">n</hi> <hi rend="sub">0</hi> =λ <hi rend="sub">1</hi> P <hi rend="sub">0</hi> =y <hi rend="sub">2</hi> Q <hi rend="sub">0</hi> =λ <hi rend="sub">2</hi> R <hi rend="sub">0</hi></p>
+               <p>where P <hi rend="sub">o</hi> , Q <hi rend="sub">o</hi> , R <hi rend="sub">o</hi> are the initial number of particles of A, B, C present, and λ <hi
+                        rend="sub"> 1</hi> , λ <hi rend="sub">2</hi> , λ <hi rend="sub">2</hi> are their constants of transformation.</p>
+               <p>Using the same quotations as in case (1), but remembering the new initial
+                    conditions, it can easily be shown that the number of particles P, Q and R of
+                    the matter A, B and C existing at the time <hi rend="italic">t</hi> after
+                    removal are given by</p>
+               <p>P-⅞&lt;-w.</p>
+               <p>Q-⅛, frl</p>
+               <p>R=n <hi rend="sub">o</hi> (ae- <hi rend="sup">λ1t</hi> +be <hi rend="sup">-λ2t</hi> +ce <hi rend="sup">-λ3t</hi> ),</p>
+               <p>_ <hi rend="underline">λ¾</hi> . _ <hi rend="underline">—λt</hi> __ <hi
+                        rend="underline"> λ1λ3</hi></p>
+               <p><hi rend="sup">where a</hi> = (λl — λj) (λi^ “ λl) ’ (λl <hi rend="sup">-</hi> λj)(×2 <hi rend="sup">-</hi> λj)* ×*(λl — λ j) (λj - λ&gt;)*</p>
+               <p>The curves expressing the rate of variation of P, Q, R with time are in these
+                    cases very different from case (l).</p>
+               <p>(c) The matter A is supplied at a constant rate from a primary source. Required
+                    to find the number of particles of A, B and C present at any time <hi
+                        rend="italic"> t</hi> later, when initially A, B, and C were absent.</p>
+               <p>This is a converse case from case (2) and the solutions can be obtained from
+                    general considerations. Initially suppose A, B and C arc in equilibrium with the
+                    primary source which supplied A at a constant rate. The source is then removed
+                    and the amounts of A, B and C vary according to the equation given in case (2).
+                    The source after removal continues to supply A at the same rate as before. Since
+                    initially the product A was in equilibrium with the source, and the radioactive
+                    processes are in no way changed by the removal of the source, it is clear that
+                    the amount of A present in the two parts in which the matter is distributed is
+                    unchanged. If P <hi rend="sub">1</hi> be the amount of A produced by the
+                    source in the time <hi rend="italic">t</hi> , and P</p>
+                <pb xml:id="eb11-22-r01-0798" facs="encyclopaediabri22chisrich_0823.jp2"/>
+               <p>the amount remaining in the part removed, then P <hi rend="sub">1</hi> +P = P <hi rend="sub">o</hi> where P <hi rend="sub">o</hi> is the equilibrium
+                    value. Thus</p>
+               <p>P <hi rend="sub">1</hi> /P <hi rend="sub">o</hi> = I —P <hi rend="sub">1</hi> ∕P <hi rend="sub">o</hi> .</p>
+               <p>The ratio P∕P <hi rend="sub">o</hi> can be written down from the solution
+                    given in case (2). Similarly the corresponding values of Q <hi rend="sub">1</hi> ∕Q <hi rend="sub">0</hi> , R <hi rend="sub">1</hi> ∕R <hi rend="sub">0</hi> may be at once derived. It is obvious in these cases that the curve
+                    plotted with P∕P <hi rend="sub">o</hi> as ordinates and time as abscissae is
+                    complementary to the corresponding curve with P <hi rend="sub">1</hi> /P <hi
+                        rend="sub"> o</hi> as ordinates. This simple relation holds for all
+                    recovery and decay curves of radioactive products in general.</p>
+               <p>We have so far considered the variation in the number of atoms of successive
+                    products with time when the periods of the products are known. In practice, the
+                    variation of the number of atoms is deduced from measurements of activity,
+                    usually made by the electric method. Using the same notation as before, the
+                    activity of any product is proportional to its rate of breaking up, <hi
+                        rend="italic"> i. e.</hi> to λ <hi rend="sub">l</hi> P where P is the
+                    number of atoms present. If two products are present, the activity is the sum of
+                    two corresponding terms λ <hi rend="sub">l</hi> P and λ <hi rend="sub">2</hi> Q. In practice, however, no two products emit α or <hi rend="italic">ß</hi> particles, with the same velocity. The difference in ionizing power of a
+                    single α particle from the two products has thus to be taken into account. If,
+                    under the experimental conditions, the ionization produced by an α particle from
+                    the second product is K times that from the first product, the activity observed
+                    is proportional to λ <hi rend="sub">l</hi> P+Kλ2Q. In this way, it is possible
+                    to compare the theoretical activity curves of a mixture of products with those
+                    deduced experimentally.</p>
+               <p><hi rend="italic">Analysis of Radioactive Changes. —</hi> The analysis of the
+                    sucessive changes occurring in uranium, thorium, radium and actinium has proved
+                    a very difficult matter. In order to establish the existence of a new product
+                    and to fix its position in the scheme of changes, it is necessary to show ( <hi
+                        rend="italic"> a</hi> ) that the new product has a distinctive period of
+                    decay and shows some distinctive physical or chemical properties; ( <hi
+                        rend="italic"> b</hi> ) that the product under consideration arises
+                    directly from the product preceding it in the scheme of changes, and is
+                    transformed into the product succeeding it.</p>
+               <p>In general, it has been found that each product shows some distinctive chemical
+                    or physical behaviour which allows of its partial or complete separation from a
+                    mixture of other products. It must be remembered that in most cases the amount
+                    of radioactive matter under examination is too small to detect by weight, but
+                    its presence is inferred from its characteristic radiations and rate of change.
+                    In some cases, a separation may be effected by ordinary chemical methods; for
+                    example thorium X is separated from thorium by precipitation of thorium with
+                    ammonia. The Th X remains in the filtrate and is practically free from thorium.
+                    In other cases, a separation is effected by a separation of a metal in the
+                    solution of active matter. For example, polonium (radium F) always comes down
+                    with bismuth and may be separated by placing a bismuth plate in a solution.
+                    Radium C is separated from radium B by adding nickel filings to a solution of
+                    the two. Radium C is deposited on the nickel. In other cases, a partial
+                    separation may be effected by electrolysis or by differences in volatility when
+                    heated. For example, when radium A, B and C are deposited on a platinum plate,
+                    on heating the plate, radium B is volatilized and is deposited on any cold
+                    surface in the neighbourhood. A very striking method of separating certain
+                    products has been recently observed depend-ing upon the recoil of an atom which
+                    breaks up with the expulsion' of an α particle. The residual atom acquires
+                    sufficient velocity in consequence of the ejection of an α particle to escape
+                    and be deposited on bodies in the neighbourhood. This is especially marked in a
+                    low vacuum. This property was independently investigated by Russ and Makower
+                    (21) and by Hahn (22). The latter has shown that by means of the recoil,
+                    actinium C may be obtained pure from the active deposit containing actinium A, B
+                    and C, for B emits α rays, and actinium C is driven from the plate by the
+                    recoil. In a similar way a new product, thorium D, has been isolated. By the
+                    recoil method, radium B may be separated from radium A and C. The recoil method
+                    is one of the most definite and certain methods of settling whether an α ray
+                    product is simple or complex.</p>
+               <p>While in the majority of cases the products break up either with the emission of
+                    α or <hi rend="italic">ß</hi> particles, some products have been observed
+                    which do not emit any characteristic radiation and have been called “ rayless
+                    products. ” For example, radium D and thorium A are changing substances which
+                    break up without emitting either penetrating α or <hi rend="italic">ß</hi> rays. They appear to emit slow δ rays which can only be detected by special
+                    methods. The presence and properties of a fayless product can be easily inferred
+                    if it is transformed into a product emitting a radiation, for the variation in
+                    activity of the latter affords a method of determining the amount of the parent
+                    product present. The distinction between a “ ray ” and a “ rayless ” product is
+                    not clear. It may be that the atom of a rayless product undergoes a
+                    re-arrangement of its constituent parts giving rise to an atom of the same mass
+                    but of different properties. In the case of an α ray or <hi rend="italic">ß</hi> ray product, the expulsion of an α or <hi rend="italic">ß</hi> particle
+                    affords an obvious explanation of the appearance of a new product with
+                    distinctive physical properties.</p>
+               <p>In the table a list of the known products of transformation is given. In each
+                    case, the half period of transformation is given and the type of radiation
+                    emitted. If the product emits α rays, the range of ionization of the α particle
+                    in air is given.</p>
+                <table>
+                    <row>
+                        <cell cols="4" rows="1">
+                           <p><hi rend="smallcaps">Table of Radioactive Products</hi></p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Product.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Half Period of</p>
+                           <p>Transforma-</p>
+                           <p>tîon.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Rays.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Range of Rays in Air in</p>
+                           <p>Cms.</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>URANIUM—</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5×10 <hi rend="sup">9</hi> years</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3‧5</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Uranium X</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>22 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="italic">β</hi> +γ</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Ionium.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>?</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>2∙8</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1"><p>RADIUM —</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>1760 years</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3‧5</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Ra Emanation.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3·86 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>4‧33</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium A</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>4‧83</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium B</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>26 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>slow <hi rend="italic">ß</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium C</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>19 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>a+β+γ</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>7∙06</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium D</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>17 years</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>slow β</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium E</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="italic">ß</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium F</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>140 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3‧86</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium G = lead?</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>THORIUM—</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>about 10 <hi rend="sup">10</hi> yrs.</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>3∙5</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>(Th. I)</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5‧5 years</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>rayless</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Mesothorium (Th. 2)</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>6∙2 hours</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="italic">ß+γ</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radiothorium.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>737 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3∙9</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Thorium X</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3∙6 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5∙7</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Th Emanation</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>54 secs</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5‧5</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Thorium A</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>10∙6 hours</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>slow <hi rend="italic">ß</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Thorium B</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>55 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5‧0</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Thorium C</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>very short?</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>8‧6</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Thorium D</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="italic">β+γ</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="smallcaps">Actinium—</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>?</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>rayless</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radioactinium.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>19‧5 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α+ <hi rend="italic">β</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>4‧8</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Actinium X</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>11 ∙8 days</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>6‧55</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Act Emanation</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>3‧7 secs.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5∙8</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Actinium A</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>36 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>slow <hi rend="italic">ß</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Actinium B</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>2‧15 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>α</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5∙5o</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Actinium C</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>5·1 mins.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p><hi rend="italic">ß+y</hi></p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                </table>
+               <p>In each of the groups under the heading uranium, thorium and actinium, each
+                    product is derived from the direct transformation of the product above it.</p>
+               <p><hi rend="italic">Products of Radium. —</hi> Radium is transformed directly
+                    into the emanation which in turn goes through a rapid series of trans-formations
+                    called radium A, B and C. The complete analysis of these changes has involved a
+                    large amount of work. The emanation changes first into radium A, a substance of
+                    period 3 minutes emitting only α rays. Radium A changes into radium B, a product
+                    of period 26 minutes emitting <hi rend="italic">ß</hi> rays of penetrating
+                    power small compared with those emitted from the next product radium C. The
+                    product radium C has proved of considerable importance, for it not only emits
+                    very penetrating α rays and <hi rend="italic">ß</hi> rays, but is the origin
+                    of the 7 rays arising from radium in equilibrium. When a wire charged negatively
+                    has been exposed for some time in the presence of the radium emanation, it
+                    becomes coated with an invisible film of radium A, B and C. After</p>
+                <pb xml:id="eb11-22-r01-0799" facs="encyclopaediabri22chisrich_0824.jp2"/>
+               <p>removal from the emanation for 20 minutes, radium A has practically disappeared
+                    and the α rays arise entirely from radium C. Radium C has proved very valuable
+                    in radioactive measurements as providing an intense source of homogeneous α
+                    rays. Twenty-four hours after removal, the activity due to radium B and C has
+                    become exceedingly small. The wire, however, still shows a very small residual
+                    activity, first noted by Mme Curie. This residual activity measured by the α
+                    rays rapidly increases with the time and reaches a maximum in about three years.
+                    The active deposit of slow change has been examined in detail by Rutherford (23)
+                    and by Meyer and Schweidler (24). It has been shown to consist of three
+                    successive products called radium D, E and F. Radium D is a rayless substance of
+                    slow period of transformation. Its period has been calculated by Rutherford to
+                    be about 40 years, and by Meyer and Schweidler about 12 years. Antonoff (25)
+                    fixes the period of about 17 years. Radium D changes into E, a <hi rend="italic"
+                        > ß</hi> ray product of period about 5 days, and E into F, an α ray product
+                    of period 140 days. It was at first thought that radium E was complex, but no
+                    evidence of this has been observed by Antonoff. The product radium F is of
+                    special interest, for it is identical with polonium—the first active body
+                    separated by Mme Curie. In a similar way it has been shown that radium D is the
+                    primary source of the activity observed in lead or “ radiolead ” separated by
+                    Hofmann. It is interesting to note what valuable results have been obtained from
+                    an examination of the minute residual activity observed on bodies exposed in the
+                    presence of the radium emanation.</p>
+               <p><hi rend="italic">Radium Emanation. —</hi> The radium emanation is to be
+                    regarded as a typical radioactive product or transition element which exists in
+                    a gaseous form. It is produced from radium at a constant rate, and is
+                    transformed into radium A and helium. Its half-period of transformation is 3·86
+                    days. The emanation from radium has been purified by condensing it in liquid
+                    air, and pumping out the residual gases. The volume (26) of the emanation at
+                    normal pressure and temperature to be derived from one gram of radium in
+                    equilibrium is about o∙6 cubic milli-mctrcs. This small quantity of gas contains
+                    initially more than three-quarters of the total activity of the radium before
+                    its separation. In a pure state, the emanation is 100, 000 times as active
+                    weight for weight as pure radium. Pure emanation in a spectrum tube gives a
+                    characteristic spectrum of bright lines (27). The discharge in the gas is bluish
+                    in colour. With continued sparking, the emanation is driven into the walls of
+                    the tube and the electrodes. Notwithstanding the minute volume of emanation
+                    available, the boiling-point of the emana-tion has been determined at various
+                    pressures. At atmo-spheric pressure Rutherford (28) found the boiling-point to
+                    be — 67° C., and Gray and Ramsay (29) 71° C. Liquid emanation appears colourless
+                    when first condensed; when the temperature is lowered, the liquid emanation
+                    freezes, and at the temperature of liquid air glows with a bright rose colour.
+                    The density of liquid emanation has been estimated at 5 or 6.</p>
+               <p>Approximate estimates of the molecular weight of the radium emanation were early
+                    made by diffusion methods. The molecular weight in most cases came out about
+                    100. In a comparison by Perkins of the rate of diffusion of the emanation with
+                    that of a monatomic vapour of high molecular weight, viz. mercury, the value
+                    deduced was 234. Since the radium atom in breaking up gives rise to one atom of
+                    the emanation and one atom of helium, its atomic weight should be 226—4=222. The
+                    emanation appears to have no definite chemical properties, and in this respect
+                    belongs to the group of inert monatomic gases of which helium and argon are the
+                    best known examples. It is partially soluble in water, and readily absorbed by
+                    charcoal.</p>
+               <p><hi rend="italic">Thorium.</hi> —The first product observed in thorium was the
+                    emanation. This gives rise to the active deposit which has been analysed by
+                    Rutherford, Miss Brooks and by Hahn, and shown to consist of probably four
+                    products—thorium A, B, C and D. Thorium A is a rayless product of period 10‧5
+                    hours; thorium B an α ray product of period about one hour. The presence of
+                    thorium C has been inferred from the two types of α rays present in the active
+                    deposit, but no chemical separation of B and C has yet been found possible. Hahn
+                    has shown that thorium D—a <hi rend="italic">ß</hi> ray product of period 3
+                    minutes—can easily be separated by the recoil method. A special interest
+                    attaches to the product thorium X (30), which was first separated by Rutherford
+                    and Soddy, since experiments with this substance laid the foundation of the
+                    general theory of radioactive trans-formations. A close analysis of thorium has
+                    led to the separation of a number of new products. Hahn (31) found that a very
+                    active substance emitting α rays, which gave rise to thorium X, could be
+                    separated from thorium minerals. This active substance, called <hi rend="italic"
+                        > radiothorium,</hi> has been closely examined by Hahn and Blanc. Its
+                    period of decay was found by Hahn to be about 2 years, and by Blanc to be 737
+                    days. From an examination of the activity of commercial thorium nitrate of
+                    different ages, Hahn showed that another product must be present, which he
+                    called <hi rend="italic">mesothorium.</hi> This is separated from thorium with
+                    Th X by precipitation with ammonia. Thorium is first transformed into the
+                    rayless product mesothorium, of period about 5 years. This gives rise to a <hi
+                        rend="italic"> ß</hi> ray product of quick transformation, which in turn
+                    changes into <hi rend="italic">radiothorium.</hi> This changes into thorium X,
+                    and so on through a long series of changes. When isolated in the pure state,
+                    radiothorium would have an activity about a thousand times greater than radium,
+                    but would lose its activity with time with a period of about 2 years.
+                    Mesothorium, when first separated, would be inactive, but in consequence of the
+                    production of radiothorium, its activity would rapidly increase for several
+                    years. After reaching a maximum, it would finally decay with a period of five
+                    years. Since a large amount of thorium is separated annually from thorium
+                    minerals, it would be of great importance at the same time to separate the
+                    radiothorium and mesothorium present. For many purposes active preparations of
+                    these substances would be as valuable as radium itself, and the amount of active
+                    matter from this source would be greater than that at present available from the
+                    separation of radium from uranium minerals.</p>
+               <p><hi rend="italic">Actinium. —</hi> The transformations observed in actinium
+                    are very analogous to those in thorium. Actinium itself is a rayless product
+                    which changes into radioactinium, an α ray product of period 19‧5 days, first
+                    separated by Hahn (32). This changes into actinium X, of period 10∙2 days, first
+                    separated by Godlewski (33). Actinium X is transformed into the emanation which
+                    in turn gives rise to three further products, called actinium A, B and C.
+                    Although very active preparations of actinium have been prepared, it has so far
+                    not been found possible to separate the actinium from the rare earths with which
+                    it is mixed. We do not in consequence know its atomic weight or spectrum.</p>
+               <p><hi rend="italic">Origin of Radium.</hi> —According to the transformation
+                    theory, radium, like all other radioactive products, must be regarded as a
+                    changing element. Preliminary calculations showed that radium must have a period
+                    of transformation of several thousand years. Consequently in order that any
+                    radium could exist in old minerals, the supply must be kept up by the
+                    transformation of some other substance. Since radium is always found asso-ciated
+                    with uranium minerals, it seemed probable from the beginning that uranium must
+                    be the primary element from which radium is derived. If this were the case, in
+                    old minerals which have not been altered by the action of percolating waters,
+                    the ratio of the amount of radium to uranium in a mineral must be a constant.
+                    This must evidently be the case, for in a state of equilibrium the rate of
+                    breaking up of radium must equal the rate of supply of radium from uranium. If
+                    P, Q be the number of atoms of uranium and radium respectively in equilibrium,
+                    and λ <hi rend="sub">l</hi> , λ <hi rend="sub">2</hi> their constants of
+                    change, then</p>
+               <p>λ2Q=λ <hi rend="sub">l</hi> P or Q/P =λ <hi rend="sub">1</hi> ∕λ <hi
+                        rend="sub"> 2</hi> =T <hi rend="sub">2</hi> ∕T <hi rend="sub">1</hi> .</p>
+               <p>where T <hi rend="sub">2</hi> and T <hi rend="sub">1</hi> are the
+                    half-periods of transformation of uranium and radium respectively. The work of
+                    Boltwood (34), Strutt (35) and McCoy (36) has conclusively shown that the ratio
+                    of radium to uranium in old minerals is a constant. Boltwood and Strutt
+                    determined the quantity of radium present in a mineral by the emanation method,
+                    and the amount of uranium by analysis.</p>
+                <pb xml:id="eb11-22-r01-0800" facs="encyclopaediabri22chisrich_0825.jp2"/>
+               <p>In order, however, to obtain a direct proof of the genetic relation between
+                    uranium and radium, it is necessary to show that radium appears after some time
+                    in a uranium compound from which all trace of radium has been initially removed.
+                    It can readily be calculated that the growth of radium should be easily observed
+                    by the emanation method in the course of one week, using a kilogram of uranium
+                    nitrate.. Experiments of this kind were first made by Soddy (37), but initially
+                    no definite evidence was obtained that radium grew in the solution at all. The
+                    rate of production of radium, if it took place at all, was certainly less than
+                    1/10, 000th part of the amount to be expected if uranium were transformed
+                    directly into radium. It thus appeared probable that one or more products of
+                    slow period of trans-formation existed between uranium and radium. Since uranium
+                    must be transformed through these intermediate stages before radium appears, it
+                    is evident that the initial rate of production of radium under these conditions
+                    might be extremely small. This conclusion has been confirmed by Soddy, who has
+                    shown that radium does appear in the solution which has been placed aside for
+                    several years.</p>
+               <p>Since the direct parent of radium must be present in radio-active minerals, one
+                    of the constituents separated from the mineral must grow radium. This was shown
+                    to be the case by Boltwood (38), who found that actinium preparations produced
+                    radium at a fairly rapid rate. By the work of Rutherford and Boltwood, it was
+                    found that the growth of radium was not due to actinium itself, but to a new
+                    substance separated in some cases with the actinium. This new substance, which
+                    emits α rays, was separated by Boltwood (38), and called by him “ Ionium. ” It
+                    has chemical properties very similar to thorium. Soddy has shown that the period
+                    of ionium is probably not less than 20, 000 years, indicating that ionium must
+                    exist in uranium minerals in not less than ten times the quantity of radium. It
+                    has not yet been directly shown that uranium produces ionium, but there can be
+                    no doubt that it does do so. Since ionium produces radium, Boltwood (38) has
+                    determined by direct experiment that radium is half transformed in 2000 years—a
+                    number in good agreement with other data on that subject. The constant relation
+                    between uranium and radium will only hold for old minerals where there has been
+                    no opportunity for chemical alteration or removal of its constituents by the
+                    action of percolating water or other agencies. It is quite possible that altered
+                    minerals of no great age will not show this constant relation. It seems probable
+                    that this is the explanation of some results of Mlle Gleditsch, where the
+                    relation between uranium and radium has been found not to be constant for some
+                    mineral specimens.</p>
+               <p><hi rend="italic">Connexion of the Radioelements. —</hi> We have already seen
+                    that a number of slowly transforming radioactive substances, viz. polonium
+                    (radium F), radiolead (radium D) and ionium are linked up to the uranium-radium
+                    series of transformations. Boltwood (39) has made a systematic examination of
+                    the relative activity in the form of very thin films due to each of the products
+                    present in the uranium-radium family. The results are shown in the following
+                    table, where the activity of pure uranium itself is taken as unity: —</p>
+                <table>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Uranium</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>• 1∙00</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Radium B.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>0·04(? )</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Ionium</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>• 0∙34</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Radium C.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>0∙91</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium.</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>• 0∙45</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Radium F.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>0∙46</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Emanation</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>. 0∙62</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Actinium and its</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radium A</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                        <cell cols="1" rows="1">
+                           <p>• 0∙54</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>products.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>0∙28</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="4" rows="1">
+                           <p>Total activity mineral, 4∙64 times uranium.</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                </table>
+               <p>Taking into account the differences in the ionization due to an α particle from
+                    the various products, the results indicate that uranium expels two α particles
+                    for one from each of the other α ray products in the series of transformations.
+                    This indicates either that two particles are expelled during the transformation
+                    of the atom of uranium, or that another α ray product is present which has so
+                    far not been separated from the uranium.</p>
+               <p>Although thorium is nearly always present in old uranium minerals and uranium in
+                    thorium minerals, there does not appear to be any radioactive connexion between
+                    these two elements. Uranium and thorium are to he regarded as two distinct
+                    radioactive elements. With regard to actinium, there is still no definite
+                    information of its place in the scheme of transformations. Boltwood has shown
+                    that the amount of actinium in uranium minerals is proportional to the content
+                    of uranium. This indicates that actinium, like radium, is in genetic connexion
+                    with uranium. On the other hand, the activity of actinium with its series of α
+                    ray products is less than that of radium itself or uranium. In order to explain
+                    this anomaly, Rutherford has suggested that at a certain stage of disintegration
+                    of the uranium-radium series, the disintegration is complex, and two distinct
+                    kinds of matter appear, one in much larger quantity than the other. On this
+                    view, the smaller fraction is actinium, so that the latter is a branch
+                    descendant of the main uranium-radium series.</p>
+               <p><hi rend="italic">End Products of Transformation. —</hi> It is now definitely
+                    established that the α particle expelled from any type of radioactive matter is
+                    an atom of helium, so that helium is a necessary accom-paniment of radioactive
+                    changes involving the expulsion of α particles. - After the radioactive
+                    transformations have come to an end, each of the elements uranium and thorium
+                    and actinium should give rise to an end or final product, which may be either a
+                    known element or some unknown element of very slow period of transformation.
+                    Supposing, as seems probable, that the expulsion of an α particle lowers the
+                    atomic weight of an element by four units—the atomic weight of helium—the atomic
+                    weights of each of the products in the uranium and radium series can be simply
+                    calculated. Since uranium expels two α particles, the atomic weight of the next
+                    ray product, ionium, is 238‧5-8 or 230‧5. The atomic weight of radium comes out
+                    to be 266‧5, a number in good agreement with the experimental value. Similarly
+                    the atomic weight of polonium is 210‧5, and that of the final product after the
+                    trans-formation of polonium should be 206‧5. This value is very close to the
+                    atomic weight of lead, and indicates that this sub-stance is the final product
+                    of the transformation of radium.</p>
+               <p>This suggestion was first put forward by Boltwood (40), who has collected a
+                    large amount of evidence bearing on this subject. Since in old minerals the
+                    transformations have been in progress for periods of time, in some cases
+                    measured by hundreds of millions of years, it is obvious that the end product,
+                    if a stable element, should be an invariable companion of the radioelement and
+                    be present in considerable quantity. Boltwood has shown that lead always occurs
+                    in radioactive minerals, and in many cases in amount about that to be expected
+                    from their uranium content and age. It is difficult to settle definitely this
+                    very important problem until it can be experimentally shown that radium is
+                    transformed into lead, or, what should prove simpler in practice, that polonium
+                    changes into helium and lead. Unfortunately for a solution of this problem
+                    within a reasonable time, a very large quantity of polonium would be necessary.
+                    Mme. Curie and Debierne have obtained a very active pre-paration of polonium
+                    containing about ⅒th milligram of pure polonium. Rutherford and Boltwood and
+                    Curie and Debierne have both independently shown that polonium produces helium
+                    —a result to be expected, since it emits α particles.</p>
+               <p><hi rend="italic">Production of Helium. —</hi> In 1902 Rutherford and Soddy
+                    sug-gested that the helium which is invariably found in radioactive minerals was
+                    derived from the disintegration of radioactive matter. In 1903 Ramsay and Soddy
+                    definitely showed that helium was produced by radium and also by its emanation.
+                    From the observed mass of the α particle, it seemed probable from the first that
+                    the a particle was an atom of helium. This conclusion was confirmed by the work
+                    of Rutherford and Geiger (41), who showed that the α particle was an atom of
+                    helium carrying two unit charges of electricity. In order to prove definitely
+                    this relation, it was necessary to show that the α particles, quite
+                    independently of the active matter from which they were expelled, gave rise to
+                    helium. This was done by Rutherford and Royds (42), who allowed the α particles
+                    from a large quantity of emanation to be fired through the</p>
+                <pb xml:id="eb11-22-r01-0801" facs="encyclopaediabri22chisrich_0826.jp2"/>
+               <p>very thin glass walls of the containing tube. The collected particle gave the
+                    spectrum of helium, showing, without doubt, that the α particle must be a helium
+                    atom.</p>
+               <p>Since the α particle is an atom of helium, all radioactive matter which expels <hi rend="italic">a</hi> particles must give rise to helium. In agreement
+                    with this, Debiernc and Giesel have shown that actinium as well as radium
+                    produces helium. Observations of the production of helium by radium have been
+                    made by Ramsay and Soddy, Curie and Dewar, Himstedt and others. The rate of
+                    production of helium per gram of radium was first definitely measured by Dewar
+                    (43). His preliminary measurements gave a value of 134 cubic mms. of helium per
+                    year per gram of radium and its products. Later observations extending over a
+                    larger interval give a rate of production about 168 cubic mms. per year. As a
+                    result of preliminary measurements, Boltwood and Rutherford (44) have found a
+                    growth of 163 cubic mms. per year. It is of interest to note that the rate of
+                    production of helium by radium is in excellent agreement with the value
+                    calculated theoretically. From their work of counting the particles and
+                    measuring their charge, Rutherford and Geiger showed that the rate of production
+                    of helium should be 158 cubic mms. per year.</p>
+               <p><hi rend="italic">Properties of the α Rays.</hi> —We have seen that the rays
+                    are positively charged atoms of helium projected at a high velocity, which are
+                    capable of penetrating through thin metal sheets and several centimetres of air.
+                    Early observations indicated that the ionization due to a layer of radioactive
+                    matter decreased approximately according to an exponential law with the
+                    thick-ness of the absorbing matter placed over the active matter. The true
+                    nature of the absorption of the α rays was first shown by Bragg and by Bragg and
+                    Kleeman (45). The active particles projected from a thin film of active matter
+                    of one kind have identical velocities, and are able to ionize the air for a
+                    definite distance, termed the “ range ” of the α particle. It was found that the
+                    ionization per centimetre of path due to a narrow pencil of α rays increases
+                    with the distance from the active matter, at first slowly, then more rapidly,
+                    near the end of the range. After passing through a maximum value the ionization
+                    falls off rapidly to zero. The range of an α particle in air has a definite
+                    value which can be accurately measured. If a uniform screen of matter is placed
+                    in the path of the pencil of rays the range is reduced by a definite amount
+                    proportional to the thickness of the screen. All the α particles have their
+                    velocity reduced by the same amount in their passage through the screen. The
+                    ranges in air of the α rays from the various products of the radioelements have
+                    been measured. The ranges for the different products vary between 2‧8 cms. and
+                    8∙6 cms.</p>
+               <p>Bragg has shown that the range of an α particle in different elements is nearly
+                    proportional to the square roots of their atomic weights. Using the photographic
+                    method, Rutherford (46) showed that the velocity V of an α particle of range R
+                    cms. in air is given by V <hi rend="sup">2</hi> = K(R + I∙25), where K is a
+                    constant. In his experiments he was unable to detect particles which had a
+                    velocity lower than 8∙8×10 <hi rend="sup">8</hi> cms. per second. Geiger (47),
+                    using the scintillation method, has recently found that α particles of still
+                    lower velocity can be detected under suitable conditions by the scintillations
+                    produced on a zinc sulphide screen. He has found that the connexion between
+                    velocity and range can be closely expressed by V <hi rend="sup">3</hi> =KR,
+                    where K is a constant.</p>
+               <p>On account of the great energy of motion of the α particle, it was at first
+                    thought that it pursued a rectilinear path in the gas without appreciable
+                    deflection due to its encounters with the molecules. Geiger (48) has, however,
+                    shown by the scintillation method that the α particles are scattered to a marked
+                    extent in passing through matter. The scattering increases with the atomic
+                    weight of the substance traversed, and becomes more marked with decreasing
+                    velocity of the α particle. A small fraction of the α particles falling on a
+                    thick screen are deflected through more than a right angle, and emerge again on
+                    the side of incidence.</p>
+               <p>Rutherford and Geiger (49) have devised an electrical method of counting the α
+                    particles expelled from radioactive matter. The α particle enters through a
+                    small opening into a metal tube containing a gas at a reduced pressure. The
+                    ionization produced by the α particle in its passage through the gas is
+                    magnified several thousand times by the movement of the ions in a strong
+                    electric field. In this way, the entrance of an α particle into the detecting
+                    vessel is shown by a sudden and large deflection of the measuring instrument. By
+                    this method, they determined that 3∙4 × 10 <hi rend="sup">l0</hi> α particles
+                    are ejected per second from one gram of radium itseíf and from each of its α ray
+                    products in equilibrium with it. By measuring the charge on a counted number of
+                    α particles, it was found that the α particle carries a positive charge of 9∙3 ×
+                    10 <hi rend="sup">-l0</hi> electrostatic units. From other evidence, it is
+                    known that this must be twice the fundamental unit of charge carried by the
+                    hydrogen atom. It follows that this unit charge is 4∙65 × 10 <hi rend="sup">-10</hi> units. This value is in good agreement with numerous recent
+                    detcr-minations of this fundamental quantity by other methods. With this data,
+                    it is possible to calculate directly the values of some important radioactive
+                    data. The calculated and observed values are given below: —</p>
+                <table>
+                    <row>
+                        <cell cols="2" rows="1">
+                           <p>Calculated.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Observed.</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Volume of the emanation in cubic milli-metres per gram of radium
+                           </p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•585</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•6</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Volume of helium in cubic millimetres produced per year per gram of
+                                radium.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•58</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>169</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Heating effect of radium per gram per hour in gram calories.....
+                           </p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>113</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>118</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Half-period of transformation of radium in year ......</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>1760</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>2000</p>
+                        </cell>
+                    </row>
+                </table>
+               <p>The calculated values are in all cases in good agreement with the experimental
+                    numbers.</p>
+               <p>It is well known from the experiments of Sir William Crookes (50) that the α
+                    rays produce visible scintillations when they fall on a screen of phosphorescent
+                    zinc sulphide. This is shown in the instrument called the spinthariscope. By
+                    means of a suitable microscope, the number of these scintillations on a given
+                    area in a given time can be counted. The number so obtained is practically
+                    identical with the number of α particles incident on the screen, determined by
+                    the electrical method of counting. This shows that each α particle produces a
+                    visible flash of light when it falls on a suitable zinc sulphide screen. The
+                    scintillations produced by α rays are observed in certain diamonds, and their
+                    number has been counted by Regener (51) and the charge on each particle has been
+                    deduced. The latter was the first to employ the scintillation method for actual
+                    counting of α particles. Kinoshita has shown that the number of α particles can
+                    also be counted by the photographic method, and that each particle must produce
+                    a detectable effect.</p>
+               <p><hi rend="italic">Absorption of ß Rays.</hi> —We have seen that the <hi
+                        rend="italic"> β</hi> particles, which arc emitted from a number of
+                    radioactive products, carry a negative charge and have the same small mass as
+                    the particles constituting the cathode rays. The velocity of expulsion and
+                    penetrating power of the <hi rend="italic">ß</hi> rays varies widely for
+                    different products. For example, the rays from radium B are very easily
+                    absorbed, while some of the rays from radium C are of a very penetrating type.
+                    It has been found that for a single <hi rend="italic">ß</hi> ray product, the
+                    particles are absorbed according to an exponential law with the thickness of
+                    matter traversed, and Hahn has made use of this fact to isolate a number of new
+                    products. It has been generally assumed that the exponential law of absorption
+                    is a criterion that the <hi rend="italic">ß</hi> rays are all expelled at the
+                    same speed. In addition, it has been supposed that the <hi rend="italic">β</hi> particles do not decrease much in velocity in passing through matter.
+                    Wilson has recently made experiments upon homogeneous <hi rend="italic">ß</hi> rays, and finds that the intensity of the radiation falls off in some cases
+                    according to a linear rather than to an exponential law, and that there is
+                    undoubted evidence that the <hi rend="italic">ß</hi> particles decrease in
+                    velocity in traversing matter. Experiments upon the absorption of <hi
+                        rend="italic"> ß</hi> rays are greatly complicated by the scattering of the <hi rend="italic">ß</hi> rays in their encounters with the molecules. For
+                    example, if a pencil of <hi rend="italic">ß</hi> rays falls on a metal, a
+                    large fraction of the rays are scattered</p>
+                <pb xml:id="eb11-22-r01-0802" facs="encyclopaediabri22chisrich_0827.jp2"/>
+               <p>sufficiently to emerge on the side of incidence. This scattering of the <hi
+                        rend="italic"> ß</hi> rays has been investigated by Eve, McLennan, Schmidt,
+                    Crowther and others. It has been found that the scattering for different
+                    chemical elements is connected with their atomic weight and their position in
+                    the periodic table. McCelland and Schmidt have given theories to account for the
+                    absorption of <hi rend="italic">ß</hi> rays by matter. The whole problem of
+                    absorption and scattering of particles by substances is very complicated, and
+                    the question is still under active examination and discussion. The negative
+                    charge carried by the <hi rend="italic">ß</hi> rays has been measured by a
+                    number of observers. It has been shown by Rutherford and Makower that the number
+                    of <hi rend="italic">β</hi> particles expelled per second from one gram of
+                    radium in equilibrium is about that to be ex-pected if each atom of the <hi
+                        rend="italic"> β</hi> ray products in breaking up emits one <hi
+                        rend="italic"> β</hi> particle.</p>
+               <p><hi rend="italic">Heat Emission of Radioactive Matter. —</hi> In 1903 it was
+                    shown by Curie and Laborde (52) that a radium compound was always hotter than
+                    the surrounding medium, and radiated heat at a constant rate of about 100 gram
+                    calories per hour per gram of radium. The rate of evolution of heat by radium
+                    has been measured subsequently by a number of observers. The latest and most
+                    accurate determination by Schweidler and Hess, using about half a gram of
+                    radium, gave 118 gram calories per gram per hour (53). There is now no doubt
+                    that the evolution of heat by radium and other radioactive matter is mainly a
+                    second-ary phenomenon, resulting mainly from the expulsion of α particles. Since
+                    the latter have a large kinetic energy and are easily absorbed by matter, all of
+                    these particles are stopped in the radium itself or in the envelope surrounding
+                    it, and their energy of motion is transformed into heat. On this view, the
+                    evolution of heat from any type of radioactive matter is proportional to the
+                    kinetic energy of the expelled α particles. The view that the heating effect of
+                    radium was a measure of the kinetic energy of the α particles was strongly
+                    confirmed by the experiments of Rutherford and Barnes (54). They showed that the
+                    emanation and its products when removed from radium were responsible for about
+                    three-quarters of the heating effect of radium in equilibrium. The heating
+                    effect of the radium emanation decayed at the same rate as its activity. In
+                    addition, it was found that the ray products, viz. the emanation radium A and
+                    radium C, each gave a heating effect approximately proportional to their
+                    activity. Measurements have been made on the heating effect of uranium and
+                    thorium and of pitchblende and polonium. In each case, the evolution of heat has
+                    been shown to be approximately a measure of the kinetic energy of the α
+                    particles.</p>
+               <p>Experiments on the evolution of heat from radium and its emanation have brought
+                    to light the enormous amount of energy accompanying the transformation of
+                    radioactive matter where α particles are emitted. For example, the emanation
+                    from one gram of radium in equilibrium with its products emits heat initially at
+                    the rate of about 90 gram calories per hour. The total heat emitted during its
+                    transformation is about 12, 000 gram calories. Now the initial volume of the
+                    emanation from one gram of radium is ∙6 cubic millimetres. Consequently one
+                    cubic centimetre of emanation during its life emits 2 × 10 <hi rend="sup">7</hi> gram calories. Taking the atomic weight of the emanation as 222, one gram
+                    of the emanation emits during its life 2 × 10 <hi rend="sup">9</hi> gram
+                    calories of heat. This evolution of heat is enormous compared with that emitted
+                    in any known chemical reaction. There is every reason to believe that the total
+                    emission of energy from any type of radioactive matter during its transformation
+                    is of the same order of magnitude as for the emanation. The atoms of matter must
+                    consequently be regarded as containing enormous stores of energy which are only
+                    released by the dis-integration of the atom.</p>
+               <p>A large amount of work has been done in measuring the amount of the thorium and
+                    radium emanation in the atmo-sphere, and in determining the quantity of radium
+                    and thorium distributed on the surface of the earth. The information already
+                    obtained has an important bearing on geology and atmospheric electricity.</p>
+               <p><hi rend="smallcaps">References. —I. H. Becquerel,</hi> <hi rend="italic">Comptes Rendus,</hi> 1896, pp. 420, 501, 559, 689, 762,
+                    1086; 2. Rutherford, <hi rend="italic">Phil. Mag.,</hi> Jan. 1899; 3. Mme
+                    Curie, <hi rend="italic">Comptes Rendus,</hi> 1898, 126, p. 1101; M and Mme
+                    Curie and G. Bémont, <hi rend="italic">ib.,</hi> 1898, 127. ρ. 1215; 4. Mme
+                    Curie, <hi rend="italic">ib.,</hi> 1907, 145. p. 422; 5. Thorpe, <hi
+                        rend="italic"> Proc. Roy. Soc.,</hi> 1908, 80. p. 298; 6. Giesd, <hi
+                        rend="italic"> Phys. Zeit.,</hi> 1902, 3. p. 578; 7. Giesel, <hi
+                        rend="italic"> Annal.</hi> <hi rend="italic">d.</hi> <hi rend="italic">Phys.,</hi> 1899, 69. p. 91; <hi rend="italic">Ber.,</hi> 1902, p. 3608; 8. Rutherford and Boltwood, <hi rend="italic">Amer. Journ. Sci.,</hi> July 1906; 9. Debierne, <hi rend="italic">Comptes Rendus,</hi> 1899,
+                    129. p. 593; 1900, 130. p. 206; 10. Giesel, <hi rend="italic">Ber.,</hi> 1902,
+                    p. 3608; 1903, p. 342; 11. Marckwald, <hi rend="italic">ib</hi> ., 1903, p.
+                    2662; 12. Mme Curie and Debierne, <hi rend="italic">Comptes Rendus,</hi> 1910,
+                    150. p. 386; 13. Boltwood, <hi rend="italic">Amer. Jοurn. Sd.,</hi> May 1908;
+                    14. Rutherford, <hi rend="italic">Phil. Mαg.,</hi> Feb. 1903, Oct. 1906; 15.
+                    Rutherford, <hi rend="italic">ib.,</hi> Jan. 1900; 16. Rutherford and Soddy, <hi rend="italic">ib.,</hi> May 1903; 17. Rutherford and Soddy, <hi
+                        rend="italic"> ib.,</hi> Nov. 1902; 18. M and Mme Curie, <hi rend="italic">Comptes Rendus,</hi> 1899, 129. ρ. 714; 19. Rutherford, <hi rend="italic">Phil. Mag.,</hi> Jan. and Feb. 1900; 20. Rutherford and Soddy, <hi
+                        rend="italic"> ib.,</hi> Sept. and Nov. 1902, April and May 1903;
+                    Rutherford, <hi rend="italic">Phil. Trans.</hi> , 1904, 204A. p. 169; 21. Russ
+                    and Makower, <hi rend="italic">Proc. Roy. Soc.,</hi> 1909, 82A. p. 205; 22.
+                    Hahn, <hi rend="italic">Phys. Zeit.,</hi> 1909, 10. p. 81; 23. Rutherford, <hi
+                        rend="italic"> Phil. Mag.,</hi> Nov. 1904, Sept. 1905; 24. Meyer and
+                    Schweidler, <hi rend="italic">Wien. Βer.,</hi> July 1905; 25. Antonoff, <hi
+                        rend="italic"> Phil. Mαg.,</hi> June 1910; 26. Cameron and Ramsay, <hi
+                        rend="italic"> Trans. Chem. Soc.,</hi> 1907, p. 1266; Rutherford, <hi
+                        rend="italic"> Phil. Mag.,</hi> Aug. 1908; 27. Cameron and Ramsay, <hi
+                        rend="italic"> Proc. Roy. Soc.,</hi> 1908, 81 A. p. 210; Rutherford and
+                    Royds, <hi rend="italic">Phil. Mag.,</hi> 1908, 16. p. 313; Royds, <hi
+                        rend="italic"> Proc. Roy. Soc.,</hi> 1909, 82A. p. 22; Watson, <hi
+                        rend="italic"> ib</hi> ., 1910, 83a. p. 50; 28. Rutherford, <hi
+                        rend="italic"> Phil. Mag.,</hi> 1909; 29. Gray and Ramsay, <hi
+                        rend="italic"> Trans. Chem. Soc.,</hi> 1909, pp. 354. 1073; 30. Rutherford
+                    and Soddy, <hi rend="italic">Phil. Μag.,</hi> Sept. and Nov, 1902; 31. Hahn, <hi rend="italic">Proc. Roy. Soc.,</hi> March 1905; <hi rend="italic">Phil. Mag.,</hi> June 1906; <hi rend="italic">Ber.,</hi> 40. pp. 1462,
+                    3304; <hi rend="italic">Phys. Zeit.,</hi> 1908, 9. pp. 245, 246; 32. Hahn, <hi
+                        rend="italic"> Phil. Mag.,</hi> Sept. 1906; 33. Godlewski, <hi
+                        rend="italic"> ib.,</hi> July 1905; 34. Boltwood, <hi rend="italic">ib.,</hi> April 1905; 35. Strutt, <hi rend="italic">Trans. Roy. Soc.,</hi> 1905Α.;
+                    36. McCoy, <hi rend="italic">Ber.,</hi> 1904, p. 2641; 37. Soddy, <hi
+                        rend="italic"> Phil. Mag.,</hi> June 1905, Aug. 1907, Oct. 1908, Jan. 1909;
+                    38. Boltwood, <hi rend="italic">Amer. Journ. Sd.,</hi> Dec. 1906, Oct. 1907,
+                    May 1908, June 1908; 39. Boltwood, <hi rend="italic">ib.,</hi> April 1908; 40.
+                    Boltwood, <hi rend="italic">ib.,</hi> Oct. 1905, Feb. 1907; 41. Rutherford and
+                    Geiger, <hi rend="italic">Prοc. Roy. Soc.,</hi> 1908, 81a. p. 141; 42.
+                    Rutherford and Royds, <hi rend="italic">Phil. Mag.,</hi> Feb. 1909; 43. Dewar, <hi rend="italic">Proc. Roy. Sοc.,</hi> 1908, 81A. p. 280; 1910, 83. p.
+                    404; 44. Boltwood and Rutherford, <hi rend="italic">Manch. Lit. and Phil. Soc.,</hi> 1909, 54. No. 6; 45. Bragg and Kleeman, <hi rend="italic">Phil. Mag.,</hi> Dec. 1904, Sept. 1905; 46. Rutherford, <hi rend="italic">ib.,</hi> Aug.
+                    1906; 47. Geiger, <hi rend="italic">Prοc. Roy. Sοc.,</hi> 1910, 83a. p. 505;
+                    48. Geiger, <hi rend="italic">ib.,</hi> 1910, 83A. p. 492; 49. Rutherford and
+                    Geiger, <hi rend="italic">ib.,</hi> 1908, 81a. pp. 141, 163; 50. Crookes, <hi
+                        rend="italic"> ib.,</hi> 1903; 51. Regener, <hi rend="italic">Verhandl. d.
+                        D. Pnys. Ges.,</hi> 1908, 10. p. 28; 52. Curie and Laborde, <hi
+                        rend="italic"> Comptes Rendus,</hi> 1904, 136. p. 673; 53. Schweidler and
+                    Hess, <hi rend="italic">Wien.</hi> <hi rend="italic">Ber.,</hi> June 1908, 117; 54. Rutherford and Barnes, <hi
+                        rend="italic"> Phil. Mag.,</hi> Feb. 1904.</p>
+               <p>General treatises are: P. Curie, <hi rend="italic">Œuvres,</hi> 1908; E.
+                    Rutherford, <hi rend="italic">Radioactive Transformations,</hi> 1906; F.
+                    Soddy, <hi rend="italic">Interpretation of Radium,</hi> 1909; R. J. Strutt, <hi rend="italic">Becquerel Rays and Radium,</hi> 1904; W. Makower, <hi
+                        rend="italic"> Radioactive Substances,</hi> 1908; J. Joly, <hi
+                        rend="italic"> Radioactivity and Geology,</hi> 1909. See also <hi
+                        rend="italic"> Annual Reports of the Chemical Society.</hi></p>
+               <p>(E. Ru. )</p>
+            </div>
+        </body>
+    </text>
+</TEI>

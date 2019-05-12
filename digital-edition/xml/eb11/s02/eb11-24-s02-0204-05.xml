@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0204-05"
+                facs="encyclopaediabri24chisrich_0221.jp2" type="entry">
+                <p><label>SARASIN, or Sarrazin, JEAN FRANÇOIS</label> (1611-1654), French author,
+                    son of Roger Sarasin, treasurer-general at Caen, was born at Hermanville near
+                    Caen. He was educated at Caen, and settled in Paris. As a writer of <hi
+                        rend="italic">vers de société</hi> he rivalled Voiture, but he was never
+                    admitted to the inner circle of the hôtel de Rambouillet. He was on terms of
+                    intimate friendship with Scarron, with whom he exchanged verses, with Ménage,
+                    and with Pellisson. In 1639 he supported Georges de Scudéry in his attack on
+                    Corneille with a <hi rend="italic">Discours de la tragédie.</hi> He accompanied
+                    Léon Bouthillier, comte de Chavigny, secretary of state for foreign affairs, on
+                    various diplomatic errands. He was to have been sent on an embassy to Rome, but
+                    spent the money allotted for the purpose in Paris. This weakened his position
+                    with Chavigny, from whom he parted in the winter of 1643-1644. To restore his
+                    fallen fortunes he married a rich widow, but the alliance was of short duration.
+                    He joined in the pamphlet war against Pierre de Montmaur, against whom he
+                    directed his satire, <hi rend="italic">Bellum parasiticum</hi> (1644). He was
+                    accused of writing satires on Mazarin, and for a short time gave up the practice
+                    of verse. In 1648, supported by the cardinal</p>
+                <pb xml:id="eb11-24-s02-0205" facs="encyclopaediabri24chisrich_0222.jp2"/>
+                <p>de Retz and Madame de Longueville, he entered the household of Armand de Bourbon,
+                    prince de Conti, whose marriage with Mazarin’s niece he helped to negotiate. He
+                    died of fever at Pézénas, in Languedoc on the 5th of December 1654. His
+                    biographers have variously stated on inadequate evidence that his death was
+                    caused by the prince de Conti in a moment of passion, or that he was poisoned by
+                    a jealous husband. The most considerable of his poems were the epic fragments of
+                        <hi rend="italic">Rollon conquérant, la guerre espagnole,</hi> with <hi
+                        rend="italic">Dulot vaincu</hi> and the <hi rend="italic">Pompe funèbre</hi>
+                    in honour of Voiture. As a poet he was overrated, but he was the author of two
+                    excellent pieces of prose narration, the <hi rend="italic">Histoire du siège de
+                        Dunkerque</hi> (1649) and the unfinished <hi rend="italic">Conspiration de
+                        Walstein</hi> (1651). The <hi rend="italic">Walstein</hi> has been compared
+                    for elegance and simplicity of style to Voltaire’s <hi rend="italic">Charles
+                        XII.</hi></p>
+                <p>His <hi rend="italic">Œuvres</hi> appeared in 1656, <hi rend="italic">Nouvelles
+                        Œuvres</hi> (2 vols.) in 1674. His <hi rend="italic">Poésies</hi> were
+                    edited in 1877 by Octave Uzanne with an introductory note. Much of his
+                    correspondence is preserved in the library of the Arsenal, Paris. See Albert
+                    Mennung’s <hi rend="italic">Jean François Sαrαsιns Leben und Werke</hi> (2
+                    vols., Halle, 1902-1904).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

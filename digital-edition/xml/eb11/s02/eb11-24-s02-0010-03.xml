@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0010-03"
+                facs="encyclopaediabri24chisrich_0027.jp2" type="entry">
+                <p><label>ST JEAN-D'ANGÉLY</label>, a town of western France, capital of an
+                    arrondissement in the department of Charente-Inférieure, 33 m. E. of Rochefort
+                    by rail. Pop. (1906) 6242. St Jean lies on the right bank of the Boutonne, which
+                    is navigable for small vessels. The parish church of St Jean stands on the site
+                    of an abbey church of the 13th century, of which some remains are left. In 1568
+                    the monastery was destroyed by the Huguenots, but much of it was rebuilt in the
+                    17th and 18th centuries, to which period belong two towers and the façade of an
+                    unfinished church.</p>
+                <p>St Jean owes the suffix of its name to the neighbouring forest of Angéry <hi
+                        rend="italic">(Angeriacum).</hi> Pippin I. of Aquitaine in the 9th century
+                    established there a Benedictine monastery which was afterwards reputed to
+                    possess the head of John the Baptist. This relic attracted hosts of pilgrims; a
+                    town grew up, took the name of St Jean d'Angeri, afterwards d’Angély, was
+                    fortified in 1131, and in 1204 received a charter from Philip Augustus. The
+                    possession of the place was disputed between French and English in the Hundred
+                    Years’ War, and between Catholics and Protestants at a later date. In 1569 it
+                    capitulated to the duke of Anjou (afterwards Henry III.). Louis XIII. again took
+                    it from the Protestants in 1621 and deprived it of its privileges and its very
+                    name, which he changed to Bourg-Louis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

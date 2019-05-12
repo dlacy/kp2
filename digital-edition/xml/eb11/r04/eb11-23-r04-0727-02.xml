@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0727-02"
+                facs="encyclopaediabri23chisrich_0780.jp2" type="entry">
+               <p>                   <label>ROSCOMMON, WENTWORTH DILLON</label>,
+                    <hi rend="smallcaps">4th Earl of (c.</hi> 1630-1685), English poet, was born in
+                    Ireland about 1630. He was a nephew of Thomas Wentworth, earl of Strafford, and
+                    was educated partly under a tutor at his uncle’s seat in Yorkshire, partly at
+                    Caen in Normandy and partly at Rome. After the Restoration he returned to
+                    England, and was well received at court. In 1649 he had succeeded to the earldom
+                    of Roscommon, which had been created in 1622 for his great-grandfather, James
+                    Dillon; and he was now put in possession by act of parliament of all the lands
+                    possessed by his family before the Civil War. As captain of the Gentleman
+                    Pensioners he found abundant opportunity to indulge the love of gambling, which
+                    appears to have been his only vice. Disputes with the Lord Privy Seal about his
+                    Irish estates necessitated his presence in Ireland, where he gave proof of some
+                    business capacity. On his return to London he was made master of the horse to
+                    the duchess of York. He was twice married, in 1662 to Lady Frances Boyle, widow
+                    of Colonel Francis Courtenay, and in 1674 to Isabella Boynton.</p>               <p>His reputation as a didactic writer and critic rests on his blank verse
+                    translation of the <hi rend="italic">Ars Poetica</hi> (1680) and his <hi
+                        rend="italic">Essay on Translated Verse</hi> (1684). The essay contained the
+                    first definite enunciation of the principles of “ poetic diction,” which were to
+                    be fully developed in the reign of Queen Anne. Roscommon, who was fastidious in
+                    his notions of “ dignified writing,” was himself a very correct writer, and
+                    quite free from the indecencies of his contemporaries. Alexander Pope, who seems
+                    to have learnt something from his carefully balanced phrases and the regular
+                    cadence of his verse, says that “ In all Charles’s days, Roscommon only boasts
+                    unspotted bays.” He saw clearly that a low code of morals was necessarily
+                    followed by a corresponding degradation in literature, and he insists that
+                    sincerity and sympathy with the subject in hand are essential qualities in the
+                    poet. This elevated conception of his art is in itself no small merit. He has,
+                    moreover, the distinction of having been the first critic to avow his admiration
+                    for <hi rend="italic">Paradise Lost.</hi> Roscommon formed a small literary
+                    society which he hoped to develop into an academy with authority to formulate
+                    rules on language and style, but its influence only extended to a limited
+                    circle, and the scheme fell through after its promoter’s death. He was buried in
+                    Westminster Abbey on the 21st of January 1685.</p>               <p>The title passed to his uncle, Carey Dillon (1627-1689). In 1746, on the death
+                    of James, the 8th earl, it passed to Robert Dillon (d. 1770), a descendant of
+                    the first earl. His family became extinct in 1816, and in 1828 Michael James
+                    Robert Dillon, another descendant of the 1st earl, established his title to the
+                    earldom before the House of Lords. When he died in May 1850 it became extinct.</p>               <p>Roscommon’s poems were collected in 1701, and are included in Anderson’s and
+                    other collections of the British poets. He also translated into French from the
+                    English of Dr W. Sherlock, <hi rend="italic">Traitté touchant lobéissance
+                        passive</hi> (1686).</p>            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0464-01"
+                facs="encyclopaediabri23chisrich_0497.jp2" type="entry">
+
+                <p><label>ROLAND, LEGEND OF</label>. The legend of the French epic hero Roland
+                    (transferred to Italian romance as Orlando) is based on authentic history.
+                    Charlemagne invaded Spain in 778, and had captured Pampeluna, but failed before
+                    Saragossa, when the news of a Saxon revolt recalled him to the banks of the
+                    Rhine. On his retreat to France through the defiles of the Pyrenees, part of his
+                    army was cut off from the main body by the Basques, who had ambushed in a narrow
+                    defile, and now drove the rearguard into a valley where it was surrounded and
+                    entirely destroyed. The Basques, after plundering the baggage, made good their
+                    escape, favoured by the darkness and by their knowledge of the ground. The
+                    incident is related in the <hi rend="italic">Annales</hi> (Pertz i. 159)
+                    commonly ascribed to Einhard, and with more detail in Einhard's <hi
+                        rend="italic">Vita Karoli</hi> (cap. ix.; Pertz ii. 448), where the names of
+                    the leaders are given. “ In this battle were slain Eggihard, <hi rend="italic"
+                        >praepositus</hi> of the royal table; Anselm, count of the palace; and
+                    Hruodland, praefect of the Breton march. . . The scene of the disaster is fixed
+                    by tradition at Roncevaux, on the road from Pampeluna to Saint Jean Pied de
+                    Port. There is no foundation in this story for the fiction of the twelve peers,
+                    which may possibly arise from a still earlier tradition. In 636-37, according to
+                    the <hi rend="italic">Chronicles</hi> of Fredegarius (ed. Krusch p. 159), twelve
+                    chiefs, whose names are given, were sent by Dagobert against the Basques. The
+                    expedition was successful, but in an engagement fought in the valley of Subola,
+                    or Robola, identified with Mauleon, which is not far from Roncevaux, the Duke
+                    Harembert, with other Frankish chiefs, was slain. Later fights in the same
+                    neighbourhood and under similar circumstances are related in 813 <hi
+                        rend="italic">{Vita Hludowici,</hi> Pertz ii. 616), and especially in 824
+                    (Einhard's <hi rend="italic">Annales',</hi> Pertz i. 213). These incidents no
+                    doubt served to strengthen the tradition of the disaster to Charlemagne's
+                    rear-guard in 778, the importance of which was perhaps underrated by the
+                    Frankish historians and was certainly magnified in popular story. The author of
+                    the <hi rend="italic">Vita Hludowici,</hi> writing sixty years after the battle
+                    of Roncevaux, thought it superfluous to give the names of the fallen chiefs, as
+                    being matter of common report.</p>
+               <p>                    <hi rend="italic">Growth of the Legend.—</hi> The choice of Roland or Hruodland
+                    as the hero of the story probably points to the borders of French Brittany as
+                    the home of the legend. The exaggeration of a rear-guard action into a national
+                    defeat; the substitution of a vast army of Saracens, the enemies of the Frankish
+                    nation and the Christian faith, for the border tribe mentioned by Einhard; <note
+                        anchored="true" place="bottom" type="authorial" n="1"> It is noteworthy,
+                        however, that an Arab historian, Ibn-al-Athîr, states that Charles’s
+                        assailants were the Arabs of Saragossa, by whom he had been originally
+                        invited to interfere in Spain. </note> and the vengeance inflicted by
+                    Charlemagne, where in fact the enemy escaped with complete impunity—all are in
+                    keeping with the general laws of romance. Charlemagne himself appears as the
+                    ancient epic monarch, not as the young man he really was in 778. The earliest
+                    version of the legend which we possess dates no eariier than the nth century,
+                    but there is abundant evidence of the existence of a continuous tradition dating
+                    from the original event, although its methods of transmission remain a vexed
+                    question. Roncevaux lay on the route to Compostella, and the many pilgrims who
+                    must have passed the site from the middle of the 9th century onwards may have
+                    helped to spread the story. Whether the actual <hi rend="italic">cantilena
+                        Rollandi</hi> chanted by Taillefer at the battle of Hastings (William of
+                    Malmesbury, <hi rend="italic">De gestis regum angl.</hi> iii. 242, and Wace, <hi
+                        rend="italic">Brut.</hi> ii. <hi rend="smallcaps">ii,</hi>
+                     8035 seq.) was any part of the existing <hi rend="italic">Chanson de
+                        Roland</hi> cannot be stated, but the choice of the legend on this occasion
+                    by the trouvère is proof of its popularity.</p>
+               <p>The oldest extant forms of the legend are: <hi rend="italic">{a)</hi> chapters
+                    xix.-xxx. of the Latin chronicle, known as the <hi rend="italic"
+                        >Pseudo-Turpin,</hi>
+               </p>
+               <p>which purports to be the work of Turpin, archbishop of Reims, who died about
+                    800, but probably dates from the 12th century; (ô) <hi rend="italic">Carmen de
+                        proditione Guenonis, &amp;</hi> poem in Latin distichs; and <hi
+                        rend="italic">(c)</hi> the <hi rend="italic">Chanson de Roland,</hi> a
+                    French <hi rend="italic">chanson de geste</hi> of about 4000 Hnes, the oldest
+                    recension of which is in the Bodleian Library, Oxford (MS. Digby 23). It is in
+                    assonanced tirades, of unequal length, many of them terminated with the refrain
+                        <hi rend="italic">Aoi.</hi> This MS. was written by an Anglo-Norman scribe
+                    about the end of the 12th century, and is a corrupt copy of a text by a French
+                    trouvère of the middle of the nth century. It concludes with the words: “ Ci
+                    falt la geste, que Turoldus declinet.” There was a Turold (d. 1098) who was
+                    abbot of Peterborough; another was tutor to William the Conqueror and died in
+                    J035. Even if we could identify this personage, we cannot tell whether he was
+                    the poet, the minstrel or the scribe of the MS., but it seems likely that he was
+                    merely the scribe. The poem, which was first printed by Francisque Michel
+                    (Oxford, 1837), is the finest monument of the heroic age of French epic. In its
+                    fundamental features it evidently dates back to the reign of Charlemagne, who is
+                    not represented as the capricious despot of the later <hi rend="italic">chansons
+                        de geste,</hi> but as governing in accordance with Frankish custom,
+                    accepting the counsel of his barons, and carrying out the curious procedure of
+                    Frankish law. <hi rend="italic">Roland</hi> represents the monarchical idea, and
+                    was evidently, in its primitive form, written before the feudal revolts which
+                    weakened the power of Charlemagne’s successors. Its unity of conception, the
+                    severity and conciseness of the language, the directness, vividness and sobriety
+                    of the narrative, place it far above the chansons of later trouvères, with their
+                    wordiness and their loose, episodic construction. With the exception of the
+                    small place allotted to Aide, women have practically no place in the story, and
+                    the romantic element is thus absent. Roland's master-passions are daring and an
+                    exaggerated conception of honour, the extravagance of which is the cause of the
+                    disaster. His address to Oliver before the battle is typical of the warlike
+                    spirit of the poem:—</p>
+               <p>“ Notre empereur qui ses Francs nous laissa,</p>
+               <p>Tels vingt mille hommes a pour nous mis à part,</p>
+               <p>Qu’il sait très bien que pas un n’est couard.</p>
+               <p>Pour son seigneur grands maux on souffrira,</p>
+               <p>Terribles froids, grands chauds endurera,</p>
+               <p>Et de son sang, de sa chair on perdra!</p>
+               <p>Brandis ta lance; et moi, ma Durendal,</p>
+               <p>Ma bonne épée, que le Roi me donna.</p>
+               <p>Et si je meurs, peut dire qui Vaura</p>
+               <p>C’était l’épée d’un très noble vassal.”</p>
+               <p>(tr. Petit de Julleville xi. 1114 seq.)</p>
+               <p>                    <hi rend="italic">The Story as related in the Chanson de Roland.—</hi>
+                    Charlemagne, after fighting for seven years in Spain, had conquered the whole
+                    country with the exception of Saragossa, the seat of the Saracen king Marsile.
+                    He was encamped before Cordova when he received envoys from the Saracen king,
+                    sent to procure the evacuation of Spain by the Franks through false offers of
+                    submission. Charlemagne held a council of his barons, Naimes of Bavaria, Roland,
+                    Oliver, Turpin, Ogier, Ganelon and the rest. Roland, the emperor’s nephew, was
+                    eager for war; the peace party was headed by Ganelon of Mayence. <note
+                        anchored="true" place="bottom" type="authorial" n="2"> Ganelon may perhaps
+                        be identified with Wenilo, archbishop of Sens, whose treason against Charles
+                        the Bald is related in the <hi rend="italic">Annales Bertiniani</hi> (anno
+                        859). </note> The Franks were weary of campaigning, and Ganelon’s counsels
+                    won the day. At the suggestion of Roland, Ganelon, who was his stepfather, was
+                    entrusted with the embassy to Marsile—a sufficiently perilous errand, since two
+                    former envoys had been beheaded by the Saracens. Ganelon, inspired by hatred of
+                    Roland and Oliver, agreed with Marsile to betray Roland and his comrades for ten
+                    mule-loads of gold. He then returned to Charlemagne bearing Marsile’s supposed
+                    assent to the Frankish terms. The retreat began. Roland, at Ganelon's
+                    instigation, was placed in command of the rear-guard. With him were the rest of
+                    the famous twelve peers, <note anchored="true" place="bottom" type="authorial"
+                        n="3"> The lists vary in different texts. </note> his companions-in-arms,
+                    Oliver, Gerin, Gerier, Oton, Berengier, Samson, Anseis, Girard</p>
+                <pb xml:id="eb11-23-r03-0465" facs="encyclopaediabri23chisrich_0498.jp2"/>
+               <p>de Roussillon, Engelier the Gascon, Ivon and Ivoire, and the flower of the
+                    Frankish army. They had nearly reached the summit of the pass when Oliver, who
+                    had mounted a high rock, saw the advancing army of the Saracens, 400,000 strong.
+                    In vain Oliver begged Roland to sound his horn and summon Charlemagne to his
+                    aid. A description of the battle, a series of single combats, follows. Oliver,
+                    with his sword Hauteclêre, rivalled Roland with Durendal. After the first fight,
+                    a second division of the pagan army appears, then a third. Roland’s army was
+                    reduced to sixty men before he consented to sound his horn. Presently all were
+                    slain but Roland and Oliver, Turpin and another. Finally, when the Saracens,
+                    warned of the return of Charlemagne, had retreated, Roland alone survived on the
+                    field of battle. With a last effort he blew his horn once more, and heard before
+                    he died the sound of Charlemagne’s battlecry of “ Montjoie.” Charlemagne pursued
+                    the enemy, and destroyed their army. The raising of a second army by Baligant,
+                    the emir of Babylon, and its defeat by the emperor, who slays Baligant in single
+                    combat, is obviously an interpolation in the original narrative. The trouvère
+                    then relates the return of the Franks, the burial of the heroes of Roncevaux,
+                    and, at great length, the trial of Ganelon at Aix, his execution, and that of
+                    his thirty kinsmen, and the death of Alde, Roland’s betrothed and Oliver’s
+                    sister, when she heard the news of Roland’s death. The trial of Ganelon is one
+                    of the most curious parts of the story, providing, as it does, a full account of
+                    the Frankish criminal procedure.</p>
+               <p>                    <hi rend="italic">Relations between the Earlier Forms of the Legend.—</hi> The
+                        <hi rend="italic">Pseudo-Turpin</hi> represents a different recension of the
+                    story, and is throughout clerical in tone. It was the trouvère of the <hi
+                        rend="italic">Chanson de Roland</hi> who developed the characters into epic
+                    types; he invented the heroic friendship of Roland and Oliver, the motives of
+                    Ganelon’s treachery, and many other details. The famous fight between Roland and
+                    the giant Ferragus appears in the <hi rend="italic">Pseudo-Turpin</hi> (chapter
+                    xviii.), but not in the poem. The <hi rend="italic">Chanson de Roland</hi>
+                    presupposes the existence of a whole cycle of epic poetry, probably in episodic
+                    form; it contains allusions to many events outside the narrative, some of which
+                    can be explained from other existing chansons, while others refer to narratives
+                    which are lost. In lines 590-603 of the poem Roland gives a list of the
+                    countries he has conquered for Charles, from Constantinople and Hungary on the
+                    east to Scotland on the west. Of most of these exploits no trace remains in
+                    extant poems, but his capture of Bordeaux, of Nobles, of Carcassonne, occur in
+                    various compilations. Roland was variously represented by the romancers as the
+                    son of Charlemagne’s sister Gilles or Berte and the knight Milon d’Anglers. The
+                    romantic episode of the reconciliation of the pair with Charlemagne through
+                    Roland’s childish prattle <hi rend="italic">{Berte et Milon)</hi> is probably
+                    foreign to the original legend. In the Scandinavian versions Roland is the son
+                    of Charlemagne and his sister, a recital probably borrowed from mythology. His
+                        <hi rend="italic">enfances,</hi> or youthful exploits, were, according to
+                        <hi rend="italic">Aspremont,</hi> performed in Italy against the giant
+                    Eaumont, but in <hi rend="italic">Girais de Viane</hi> his first taste of battle
+                    is under the walls of Vienne, where Oliver, at first his adversary, becomes his
+                    brother-in-arms.</p>
+               <p>                    <hi rend="italic">Other Versions.—</hi> Most closely allied to the Oxford <hi
+                        rend="italic">Roland</hi> are (a) a version in Italianized French preserved
+                    in a 13th or 14th century MS. in the library of St Mark, Venice (MS. Fr. iv.) ;
+                    (δ) the <hi rend="italic">Ruolantes Liet</hi> (ed. W. Grimm, Göttingen, 1838) of
+                    the Swabian priest Konrad (fl. 1130), who gave, however, a pious tone to the
+                    whole; <note anchored="true" place="bottom" type="authorial" n="4"> A proof of
+                        the popularity of the legend in Germany is supplied by the so-called Roland
+                        statues, of which perhaps the most famous example is that of Bremen. Mention
+                        of a <hi rend="italic">statua Rolandi</hi> is made in a <hi rend="italic"
+                            >Privilegium</hi> granted by Henry V. to the town of Bremen in 1111. The
+                            <hi rend="italic">Rolandssäule</hi> were probably symbolic of. the
+                        judicial rights possessed by the towns where they are found, and it has been
+                        suggested that the word arises from false etymology with <hi rend="italic"
+                            >Rothlandsaide,</hi> red-land-pillar, the symbol of the possession of
+                        the power of life and death.</note> (c) the 8th branch of the <hi
+                        rend="italic">Karlamagnus-saga</hi> (ed. C. Unger, Christiania, 1860), and
+                    the Danish version of that compilation.</p>
+               <p>In the 12th century the <hi rend="italic">Chanson de Roland</hi> was modernized
+                    by replacing the assonance by rhyme, and by amplifications and additions.
+                    Several MSS. of this rhymed recension, sometimes known as <hi rend="italic"
+                        >Roncevaux,</hi> are preserved. In the prose compilations of <hi
+                        rend="italic">Galien</hi> and in David Aubert’s <hi rend="italic">Conquîtes
+                        de Charlemagne</hi> (1158) the story kept its popularity for many centuries.
+                    In England the story was understood in the original French, and the English
+                    romances of Charlemagne <hi rend="italic">(q.v.)</hi> are mostly derived from
+                    late and inferior sources. In Spain the legend underwent a curious
+                    transformation. Spanish patriotism created a Spanish ally of Marsile, Bernard
+                    del Carpio, to be the rival and victor of Roland. It was in Italy that the
+                    Roland legend had its greatest fortune : Charlemagne and Roland appear in the
+                        <hi rend="italic">Paradiso</hi> (canto xviii.) of Dante ; the statues of
+                    Roland and Oliver appear on the doorway of the cathedral of Verona; and. the
+                    French <hi rend="italic">chansons de geste</hi> regularly appeared in a corrupt
+                    Italianized French. The Roland legend passed through a succession of revisions,
+                    and, as the. <hi rend="italic">Spagna,</hi> forming the 8th book of the great
+                    compilation of Carolingian romance, the <hi rend="italic">Reali di Francia,</hi>
+                    kept its popularity down to the Renaissance. The story of Roland (Orlando) in a
+                    greatly modified form is the subject of the poems of Luigi Pulci <hi
+                        rend="italic">(Morgante Maggiore,</hi> 1481), of Matteo Boiardo <hi
+                        rend="italic">(Orlando innamorato,</hi> i486), of Ariosto <hi rend="italic"
+                        >(Orlando furioso,</hi> 1516), and of Francesco Berni <hi rend="italic"
+                        >(Orlando,</hi> 1541).</p>
+               <p>                    <hi rend="smallcaps">Authorities.—For a complete bibliography of the editions of
+                        the various MSS. of the</hi>
+                    <hi rend="italic">Chanson de Roland,</hi> of the foreign versions, and of the
+                    enormous literature of the subject, see Lcon Gautier, <hi rend="italic">Les
+                        Épopées françaises</hi> (2nd ed., vol. iii., 1880), and the same author’s
+                        <hi rend="italic">Bibliographic des chansons de geste</hi> (1897). Among
+                    critical editions of the <hi rend="italic">Chanson</hi> are those by. Wendelin
+                    Foerster in the <hi rend="italic">Altfranz. Bibliotek,</hi> vols, vi. and vii.
+                    (Ikilbronn, 1883-86), and by E. Stengel, <hi rend="italic">Das altfranzösische
+                        Rolandslied</hi> (Leipzig, 1900, &amp;c.). The most popular edition is
+                        <hi rend="italic">La Chanson de Roland</hi> (Tours, 1872, and numerous
+                    subsequent editions), by Léon Gautier, with.text, translation, introduction,
+                    notes, variants and glossary. L. Petit de Julleville published in 1878 an
+                    edition with the old French text, and a modern French translation in assonanced
+                    verse. There are various other translations in French; in English prose by I.
+                    Butler (Boston, Mass., 1904); and a partial English verse translation by A. Way
+                    and F. Spencer (London, 1895). Consult further G. Paris, <hi rend="italic">Hist.
+                        poét. de Charlemagne</hi> (reprint, 1905), and <hi rend="italic">De Pseudo
+                        Turpino</hi> (Paris, 1865); P. Rajna <hi rend="sub">1</hi>
+                    <hi rend="italic">Le Origini dell’ epopea francese</hi> (Florence, 1884) and <hi
+                        rend="italic">Le Fonti dell’ Orlando Furioso</hi> (2na ed., Florence, 1900);
+                    F. Picco, <hi rend="italic">Rolando netla storia e nella poesia</hi> (Turin,
+                    1901); G. Paris, “ Roncevaux,” in <hi rend="italic">Légendes du moyen âge</hi>
+                    (1903), on the topography of the battlefield.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

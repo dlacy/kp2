@@ -1,0 +1,471 @@
+dients from 1 in 90 to 1 in 1500, and as the errors in the data are principally on the safe side, we give here the most useful one for the description of engine we have before stated, the gross load, including the engine and tender, being 80 tons, and the length of the inclined plane being taken as unity.
+Gradient.
+Equivalent horizontal lines.
+Ascending.
+Descending. !
+Mean.
+1 in 90
+2∙66
+1∙00
+1∙83
+„    95
+2∙58
+1∙00
+1∙79
+„ 100
+2∙50
+1∙00
+1∙75
+„ 110
+2∙36
+1∙00
+1∙68
+„ 120
+2∙25
+l∙00
+1∙62
+„    130
+2∙15
+1∙00
+1∙57
+„    140
+2∙07
+1∙00
+1∙53
+„ 160
+1∙94
+•83
+1∙43
+„ 180
+1.83
+•83
+1∙33
+„ 200
+1∙75
+•83
+1∙29
+„    250
+1∙60
+■83
+1∙21
+„    300
+1∙50
+•83
+1∙16
+„    350
+1∙43
+•83
+1-13
+,,    400
+1∙37
+•83
+1-10
+„    500
+1∙30
+•83
+1∙06
+„    750
+1∙20
+•83
+1∙01
+„ 1000
+1∙15
+•85
+1∙00
+„    1500
+l∙10
+•90
+1∙00
+The following table from Mr. Pambour⅛ work will also assist in forming a judgment ; it is for engines of 8 tons, the loads being that of the train and tender. The errors here are also on the safe side.
+Load— tons.
+Equivalent load on a level, the inclination of the plane being
+jIb
+Ï35
+sis
+3BB
+T⅛B
+Γ⅛5
+25
+44
+48
+56
+71
+87
+117
+50
+83
+91
+105
+131
+158
+212
+75
+122
+133
+153
+191
+230
+307
+100
+161
+176
+201
+251
+302
+402
+125
+200
+218
+249
+311
+373
+497
+150
+239
+261
+298
+371
+445
+592
+The great disadvantages arising from bad gradients, are capable of being tolerably well estimated by these tables ; but the principal evil is the expense which they occasion, since the load to be carried along the whole line must not be heavier than can be drawn by the engines up the inclined planes, or else additional engines must be employed to assist at those places. On some of the American railways, there are planes so steep that sails are made use of in descending them to check the velocity. The Irish railway commission have computed the cost of working locomotive engines with different loads, as in the following table, in which, as in the preceding one extracted from them, the engine may be expected to
+do
+more than is stated.
+This table, as far as expense goes, can only be considered as an approximation ; the steam pressure too, which is taken at 9 lb. per ton, is higher than what is now found to be the case ; but it will, nevertheless, shew the relative expense ; for instance, if the engine can draw 191 tons on a level, and there are gradients of 5 Jδ on the line of railway, the load, to enable the engine to ascend these, must be only 75 tons, and the ratio of expense will be 1∙04—∙72= •32, or the increased cost of the engine will be 32 per cent, on its journey, besides, there being three journeys to carry the 191 tons, so that the expense and locomotive power
+will be quadruple what it would amount to if the line was level, and double what it would be with no incline beyond 
+ι⅛o∙
+Tons
+load.
+Steam
+pressure.
+I Power ex-Relative pended per
+Wages per ton per mile.
+Wear and tear per ton per mile.
+speed.
+ton per mile.
+O
+10
+702
+792
+2∙02
+1∙79
+4∙46
+4∙46
+4∙46
+20
+882
+l∙6l
+2∙48
+2∙48
+2∙48
+30
+972
+1-46
+1∙82
+1∙82
+1∙82
+40
+1062
+1∙34
+1∙49
+1∙49
+1∙49
+50
+1152
+1∙23
+1∙29
+1∙29
+1-29
+60
+1242
+1-14
+116
+1∙16
+1∙16
+70
+1332
+l∙06
+l∙07
+1∙07
+1∙07
+80
+1422
+l∙00
+l∙00
+1∙00
+1∙00
+90
+1512
+•94
+•95
+•95
+■95'
+100
+1602
+•89
+•90
+•90
+•90
+110
+1692
+•84
+•86
+•86
+•86
+120
+1782
+•79
+•84
+•84
+•84
+130
+1872
+•75
+•81
+•81
+•81
+140
+1962
+•72
+•79
+•79
+•79
+150
+2052
+•69
+•77
+•77
+•77
+160
+2142
+•66
+•75
+•75
+•75
+170
+2232
+•64
+•74
+•74
+•74
+180
+2322
+•63
+•73
+•73
+•73
+The following table will be useful in calculating gradients:
+Table of Gradients.
+Feet
+per
+mile.
+Inches
+per
+chain.
+Ratio of height to length.
+Feet
+per
+mile.
+Inches
+per
+chain.
+Ratio of height to length.
+1
+0-15
+1 in 5280
+45
+6∙75
+1 in 117-3
+2
+0∙30
+„ 2640
+46
+6∙90
+„ 114∙8
+3
+0∙45
+„ 1760
+47
+7∙05
+„ 112-3
+4
+0∙60
+„ 1320
+48
+7∙20
+„ 110∙0
+5
+0∙75
+„ 1056
+49
+7∙35
+„ 107∙7
+6
+0∙90
+„ 880
+50
+7∙50
+„ 105∙6
+7
+1∙05
+„    754∙2
+51
+7∙65
+„ 103∙5
+8
+l∙20
+„ 660∙0
+52
+7∙80
+„ 101.5
+9
+1∙35
+„    586∙6
+53
+7∙95
+„    99∙6
+10
+1∙50
+„    528∙0
+54
+8∙10
+„    97∙8
+11
+1∙65
+„    480∙0
+55
+8∙25
+„    96∙0
+12
+l∙80
+„    440∙0
+56
+8∙40
+„    94∙3
+13
+1∙95
+„    406∙1
+57
+8∙55
+„ 92∙6
+14
+2∙10
+„    377∙1
+58
+8∙70
+„    91.0
+15
+2∙25
+„    352∙0
+59
+8∙85
+„    89∙5
+16
+2∙40
+„    3300
+60
+9∙00
+„ 88∙0
+17
+2∙55
+„    310∙6
+61
+9∙15
+„ 86∙6
+18
+2∙70
+„    293∙3
+62
+9∙30
+„    85∙1
+19
+2∙85
+„    277∙9
+63
+9∙45
+„    83∙8
+20
+2-00
+„    264∙0
+64
+9-60
+„    82∙5
+21
+3∙15
+»,    251∙4
+65
+9∙75
+„    8l∙2
+22
+3∙30
+„    240∙0
+66
+9∙90
+„ 800
+23
+3∙45
+„    229∙5
+67
+10∙05
+„ 78∙8
+24
+3∙60
+„ 220∙0
+68
+10∙20
+„    77∙6
+25
+3∙75
+„ 211-2
+69
+10∙35
+„    76-5
+26
+3∙90
+„    203∙l
+70
+10∙50
+„    75-4
+27
+4∙05
+„    195∙5
+71
+10∙65
+„    74-4
+28
+4∙20
+„ 188∙6
+72
+10∙80
+„    73-3
+29
+4∙35
+„ 182∙1
+73
+10∙95
+„    72-3
+30
+4∙50
+„    176∙0
+74
+11-10
+„    7l∙4
+31
+4∙65
+„    170∙3
+75
+11-25
+„    70-4
+I
+32
+4∙80
+„    165∙0
+76
+11-40
+„    69-5
+I
+33
+4∙95
+„ 160-0
+77
+11-55
+„ 68∙6

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0687-01"
+                facs="encyclopaediabri23chisrich_0734.jp2" type="entry">
+                <p>
+                    <label>ROMNEY, HENRY SIDNEY</label>, <hi rend="smallcaps">Earl of</hi>
+                    (1641-1704), fourth son of Robert, 2nd earl of Leicester, was born in Paris in
+                    1641. He and his nephew, Robert Spencer, afterwards 2nd earl of Sunderland, his
+                    senior by a few months, were sent to travel on the continent of Europe in charge
+                    of a Calvinist divine, Dr Thomas Pierce. Sidney’s handsome face helped his
+                    advancement at court, but the favour in which he was held by the duchess of
+                    York, to whom he was master of the robes, led to his dismissal in 1666. His
+                    disgrace, however, was short-lived. He was promoted captain in 1667, and colonel
+                    in 1678. In 1672 he was sent on a mission of congratulation to Louis XIV., and
+                    in 1677 became master of the robes to Charles II. He entered parliament as
+                    member for Bramber in 1679, and became a close political ally of his nephew
+                    Sunderland, with whose wife he carried on an intrigue which caused considerable
+                    scandal. Sunderland made this intimacy a means to further his political ends,
+                    while Sidney’s social reputation and his apparent frivolity partly concealed his
+                    real capacity for intrigue. Sidney was sent by Sunderland and others in 1679 on
+                    a special mission to urge William of Orange to visit England, a task that he was
+                    able to discharge while acting as the official envoy of Charles II. at the
+                    Hague. He was recalled in 1682, but was again sent on a special mission to
+                    Holland in the year of the accession of James II. He returned to England in the
+                    spring of 1688, and set to work, at William’s desire, to obtain promises of
+                    support for the prince of Orange in the event of his landing. He was presently
+                    allowed to leave England on giving his word not to visit the</p>
+                <pb xml:id="eb11-23-r04-0688" facs="encyclopaediabri23chisrich_0735.jp2"/>
+                <p>Hague, but he broke his promise on getting clear of England, and conveyed to
+                    William a duplicate of the invitation addressed to him by the English nobility,
+                    together with intelligence of affairs of state obtained through the countess of
+                    Sunderland. He landed with William at Torbay, and received substantial rewards
+                    for his undoubted services. Sworn of the privy council in 1689, Sidney was made
+                    gentleman of the bedchamber and colonel of the king’s regiment of footguards,
+                    and received the titles of Baron Milton and Viscount Sidney of Sheppey. In 1690
+                    he received considerable grants of land from the confiscated estates of the
+                    Irish supporters of James II., much of which he lost, however, on the
+                    parliamentary investigation in 1699 into the distribution of the Irish lands.
+                    William made him secretary of state in 1690, pending the discovery of a better
+                    person. He was soon asked to resign, but was compensated by his appointment, in
+                    1692, as lord-lieutenant of Ireland. His inability to cope with the difficulties
+                    of this position led to his recall in the next year, when he became
+                    master-general of the ordnance. He was created earl of Romney in May 1694, and
+                    he retained William’s confidence to the last, but on Anne’s accession he was
+                    dismissed from his various offices. He never married, and his titles became
+                    extinct on his death on the 8th of April 1704.</p>
+                <p>In 1801 the title of earl of Romney was revived in the family of Marsham. Sir
+                    Robert Marsham, Bart. (1685-1724), of Cuxton in Kent, was a member of parliament
+                    from 1708 to 1716, when he was created Baron of Romney. His grandson Charles,
+                    the 3rd Baron (1774-1811), was created earl of Romney in 1801, and from him the
+                    present earl is descended.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

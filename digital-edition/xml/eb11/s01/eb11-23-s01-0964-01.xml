@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-s01-0964-01"
+                facs="encyclopaediabri23chisrich_1027.jp2" type="entry">
+                <p><label>ṢĀBIANS</label>, . The Sãbians (<hi rend="italic">aṣ-Sābi'ūn</hi>) who are
+                    first mentioned in the Koran (ii. 59, v. 73, xxii. 17) were a semi-Christian
+                    sect of Babylonia, the Elkesaites, closely resembling the Mandaeans or so-called
+                    “ Christians of St John the Baptist,” but not identical with them. Their name is
+                    probably derived from the Aramaic ■■■ a dialectical form of ■■■, and signifies “
+                    those who wash themselves ”; the term <hi rend="italic">al-mughtasila,</hi>
+                    which is sometimes applied to them by Arab writers, has the same meaning, and
+                    they were also known as <hi rend="italic">ήμϵροβαπτισται.</hi> How Mahomet
+                    understood the term “ Sãbians ” is uncertain, but he mentions them together with
+                    the Jews and Christians. The older Mahommedan theo-logians were agreed that they
+                    possessed a written revelation and were entitled accordingly to enjoy a
+                    toleration not granted to mere heathen. Curiously enough, the name “ Sãbian ”
+                    was used by the Meccanidolaters to denote Mahomet himself and his Moslem
+                    converts, apparently on account of the frequent ceremonial ablutions which
+                    formed a striking feature of the new religion.</p>
+                <p>From these true Sãbians the pseudo-Ṣābians of Ḥarrān <hi rend="italic"
+                        >(Carrhae)</hi> in Mesopotamia must be carefully distinguished. In λ.d. 830
+                    the Caliph Ma’mūn, while marching against the Byzantines, received a deputation
+                    of the inhabitants of IJarrãn. Astonished by the sight of their long hair and
+                    extraordinary costume, he inquired what religion they professed, and getting no
+                    satisfactory answer threatened to exterminate them, unless by the time of his
+                    return from the war they should have embraced either Islam or one of the creeds
+                    tolerated in the Koran. Con-sequently, acting on the advice of a Mahommedan
+                    jurist, the Ḥarrānians declared themselves to be “ Ṣābians,” a name which
+                    shielded them from persecution in virtue of its Koranic authority and was so
+                    vague that it enabled them to maintain their ancient beliefs undisturbed. There
+                    is no doubt as to the general nature of the religious beliefs and practices
+                    which they sought to mask. Since the epoch of Alexander the Great IJarrãn had
+                    been a famous centre of pagan and Hellenistic culture; its people were Syrian
+                    heathens, star-worshippers versed in astrology and magic. In their temples the
+                    planetary powers were propitiated by blood-offerings, and it is probable that
+                    human victims were occasionally sacrificed even as late as the 9th century of
+                    our era. The more enlightened Ḥarrānians, however, adopted a religious
+                    philosophy strongly tinged with Neoplatonic and Christian elements. They
+                    produced a brilliant succession of eminent scholars and scientists who
+                    transmitted to the Moslems the results of Babylonian civilization and Greek
+                    learning, and their influence at the court of Baghdad secured more or less
+                    toleration for Sãbianism, although in the reign of Harūn al-Rashïd the
+                    Ḥarrānians had already found it necessary to establish a fund by means of which
+                    the conscientious scruples of Moslem officials might be overcome. Accounts of
+                    these false Sãbians reached the West through Maimonides, and then through Arabic
+                    sources, long before it was understood that the name in this application was
+                    only a disguise. Hence the utmost confusion prevailed in all European accounts
+                    of them till Chwolsohn published in 1856 his <hi rend="italic">Ssabier und der
+                        Ssabismus,</hi> in which the authorities for the history and belief of the
+                    Ḥarrānians in the middle ages are collected and discussed.</p>
+                <p>See also “ Nouveaux documents pour l’étude de la religion des Harraniens,” by
+                    Dozy and De Goeje, in the <hi rend="italic">Actes</hi> of the sixth Oriental
+                    congress, ii. 281 f. (Leiden, 1885). ' (R. A. N.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

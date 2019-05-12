@@ -1,0 +1,78 @@
+y , not that with which water would issue from a hole whose depth under the surface 
+is A, 
+but the velocity with which it will issue from a hole whose depth is 
+h 
+33 feet Because the pressure of the atmosphere is equal to that of a column of water 3 3 feet high: for this is the acknowledged velocity with which it would rush in to the void lest by the body. If therefore this velocity (which does not exist) has any share in the effort, we mu 
+st have 
+for the fluxion of 
+„ Kofh V 
+4^64-33)0 
+pressure not ■ but 7.^.' —, Thts would not 
+of i > 
+
+2? 
+only give pressure or resistances many times exceeding those that have been observed in our experiments, but would also totally change the proportions which this theory determines. It was at any rate improper to em barrass an suvestigatson, already very intricate, with the pressure of gravity, and with two motions of efflux, which do not exist, and are necessary for making the pressures in the ratio of w f i/ and « — of. 
+Mr Prony has been at no pains to inform his readers of his reasons for adopting this theory of resistance, so contrary to all received opinions, and to the most distinct experiments. Those of the French academy, made un der greater pressures, gave a much smaller ressstance; and the very experiments adduced in support of this theory are extremely deficient, wanting fully Jd of what the theory requires. The resistances by experiment were 15i and 26j, and the theory required Q and 
+39, 
+The equation, however, deduced from the theory is greatly deficient in the expression of the pressures caused by the accumulation and depression, Rating the 
+heights of them as =3 —, They can never be so high, 
+3? 
+because the heaped up water flows off at the sides, and 
+it 
+also comes in behind by the sides j fo that the pressure is much less than half the weight of a column whose •y2 
+height is —; both because the accumulation and depression 
+are less at the sides than in the middle, and be cause, when the body is wholly immersed, the accumu jation is greatly diminished. Indeed in this case the final equation does not include their effects, though as real in this case as when part of the body is above water. 
+Upon the whole, we are somewhat surprised that an airthor of d’ulioa’s eminence should have adopted a theory so unnecessarily and so improperly embarrassed with foreign circumstances; and that Mr Prony should have inserted it with the explanation by which he was to abide, in a work destined for practical use. 
+This point, or the effect of deep immersion, is still much esntested; and it 13 a received opinion, by many not ac customed to mathematical researches, that the resistance 
+is 
+greater in greater depths. This is assumed as an important principle by Mr Gordon, author of 
+A Theory of Naval Architecture; 
+but on very vague and slight grounds; and the author seems unacquainted with the manner 
+of 
+reasoning on such subjects. It shall be considered afterwards. 
+with these corrections, it may be asserted that theory and experiment agree very well in this respect, and that the resistance may be asserted to be in the duplicate ratio of the velocity, 
+we have been more minute on this subject, becaujfe it is the leading proposition in the theory of the ac 
+tion of fluide, newton’s demonstratioa of it take 
+ha 
+notice 
+of 
+the manner in which the various particles of the fluid are put into motion, or the motion which each in particular acquires. He only shows, that if there ba nothing concerned in the communication but pure in ertia, the sum total of the motions of the particles, esti mated in the direction of the bodies motion, or that of the stream, will be in the duplicate ratio of the velocity. It was therefore of importance to show that thia part of the theory was just. To do this, we had to consider the effect of every circumstance which could be combined with the inertia of the fluid, AU these had been soreseen by that great man, and are most briefly, 
+though 
+perspicuously, mentioned in thc last scholium to prop. 
+36, 
+B. Π. 
+2. It appears from a companion of all the expert ments, that the smpulscs and resistances are very nearly in the proportion of the surfaces. They appear, how ever, to shcrease somewhat faster than the sursaces. The Chevalier Borda found that thç 
+resistance, 
+with the same velocity, 
+to a 
+sursace of 
+9 inches') ( 9) 
+C 
+9 
+*1 r was A 
+30 
+Ç J 
+42, 750c 
+Jp 
+81 
+J 
+ο©4>737? 
+The deviation in these experiments srom the theory increases with the sursaee, and is probably much greater in thc extensive sursaces of the fads of ships and windmills, and the hulls of ships. 
+3. The resistances do by no means vary in the duplicate ratio of the fines of the angles of incidence. 
+As this is the most interesting circumstance, having a chief influence on all the particular modifications of the resistance of fluids, aqd as on this depends the whole theory of the construction and working of ships, 
+and 
+the action of water on oui most important machines, and seems most immediately connected with the mechanism of fluids, it merits a very particular consideration. we cannot do a greater scrvsce than by rendering more generally known the excellent experiments of the French academy. 
+Fifteen boxes or vessels were constructed, which were two seet wide, and two seet deep, and four seet long, One of them was a paralielopiped of these dimensions; the others had prows of a wedge form, the angle ACB (sig. 7.) varying by 120 degrees from 12° to 180° 5 so that the angle of incidence increased by 
+6q 
+from one to another. These boxes were dragged across a very large basin of smooth water (in which they were immersed two seet) by mean of a line passing over 
+a 
+wheel connected with a cylinder, from which the 
+actu' 
+'weight was suspended. The motion became per fectly uniform after a very little way } and the time 
+of 
+passmg over 96 French seet with this uniform motion was very carefully noted. The resistance was measu red by the weight employed, after deducting a certain quantity (properly estimated) for friction, and for the accumulation of the water against thc anterior surface. Thc results of the many cxperimeots arc given 
+in the 
+following table; where column ist contains the angle of the prow, column zd contains the resistance as given by the preceding theory, column 3d contains the resistance exhibited in the experiments, and column 4th contain 
+the deviation 
+of the experiment 
+from the theory. 

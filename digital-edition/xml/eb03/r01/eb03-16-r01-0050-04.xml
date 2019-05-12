@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0050-04"
+                facs="gri_33125011196389_0056.tif" type="entry">
+
+                <p><label>REFRIGERATORY</label> in chemiſtry, a veffel filled with cold water,
+                    through which the worm paffes in di-Λillations ; the ufe of which is to condenſe
+                    the vapours as they paſs through the worm.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

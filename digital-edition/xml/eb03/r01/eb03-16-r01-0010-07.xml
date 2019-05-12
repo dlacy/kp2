@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0010-07"
+                facs="gri_33125011196389_0016.tif" type="entry">
+
+              <p>               <label>RAS-EL-FEEL</label>, one of the frontier provinces of Abyssinia, of which
+                    the late celebrated traveller Mr Bruce was made governor while in that country.
+                    It is but of ſmall extent, and in its moſt proſperous ſtate contained only <hi
+                        rend="sub"> 39</hi> villages. The climate is extremely hot, in Mr Bruce’s
+                    opinion one of the hotteſt in the world. He informs us, that on the firſt day of
+                    March, at three o’clock in the afternoon, the thermometer ſtood at 114° in the
+                    ſhade, and in the evening at 82° ; though at ſunriſe it
+                    had been no higher than 61. Notwithſtand-ing this appearance of extreme heat,
+                    however, the ſen-ſation was by no means intolerable ; they could hunt at
+                    mid-day, and felt the evenings rather cold. The ſod is a fat, looſe, black
+                    earth, which our author ſays is the ſame from 13° to 1 6° of north latitude-; at
+                    leaſt till we come to the deſerts of Atbara, where the tropical rains ceaſe.
+                    This conntry divides that of the Shan-galla into two parts, nearly equal. Theſe
+                    people in-habit a belt of land about 60 miles broad, all along the northern
+                    frontier of Abyſſinia, excepting two large gaps or ſpaces which have been left
+                    open for the ſake of commerce, and which are inhabited by ſtrangers, to-keep the
+                    Shangalla in awe. The latter trade in gold, which they pick up in the ſtreams as
+                    it is waſhed down from the mountains ; for there are no mines in their country,
+                    neither is there any gold in Abyſſinia, excepting wliat is imported from this or
+                    ſome other country’. The Shangalla are the natural enemies of the inhabitants of
+                    Ras-el-Feel, and much blood has been ſhed in the various incurſions they have
+                    made upon one ano-ther ; thougſh of late thoſe of Ras-el-Feel, by the
+                    aſſiſtance of the emperors, have been enabled to keep the Shangalla at bay.</p> 
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r05-0813-03"
+                facs="encyclopaediabri23chisrich_0870.jp2" type="entry">
+
+                <p><label>RŪDAGĪ</label> (d. 954). Farīd-eddīn Mahommed 'Abdallāh, the first great
+                    literary genius of modern Persia, was born in Rūdag, a village in Transoxiana,
+                    about 870-900. Most of his biographers assert that he was totally blind, but the
+                    accurate knowledge of colours shown in his poems makes this very doubtful. The
+                    fame of his accomplishments reached the ear of the Sāmānid Nasr II. bin Ahmad,
+                    the ruler of Khorāsān and Transoxiana (913-42), who invited the poet to his
+                    court. Rūdagī became his daily companion, rose to the highest honours and
+                    amassed great wealth. In spite of various predecessors, he well deserves the
+                    title of “ father of Persian literature,” “ the Adam or ’ Sultan of poets,”
+                    since he was the first who impressed upon every form of epic, lyric and didactic
+                    poetry its peculiar stamp and its individual character. He is also said to have
+                    been the founder of the “ dīwān ”—that is, the typical form of the complete
+                    collection of a poet’s lyrical compositions in a more or less alphabetical order
+                    which prevails to the present day among all Mahommedan writers. Of the 1,300,000
+                    verses attributed to him, there remain only 52 kasīdas, ghazals and rubā‘īs; of
+                    his epic masterpieces we have nothing beyond a few stray lines in native
+                    dictionaries. But the most serious loss is that of his translation of Ibn
+                    Mokaffa’s Arabic version of the old Indian fable book <hi rend="italic">Kalilah
+                        and Dimnah,</hi> which he put into Persian verse at the request of his royal
+                    patron. Numerous fragments, however, are preserved in the Persian lexicon of
+                    Asadī of Tus (ed. P. Hom, Göttingen, 1897). In his kasīdas, all devoted to the
+                    praise of his sovereign and friend, Rūdagī has left us unequalled models of a
+                    refined and delicate taste, very different from the often bombastic compositions
+                    of later Persian encomiasts. His didactic odes and epigrams express in
+                    well-measured lines a sort of Epicurean philosophy of human life and human
+                    happiness; more charming still are the purely lyrical pieces in glorification of
+                    love and wine. Rūdagī survived his royal friend, and died poor and forgotten by
+                    the world.</p>
+               <p>There is a complete edition of all the extant poems of Rūdagī, in Persian text
+                    and metrical German translation, together with a biographical account, based on
+                    forty-six Persian MSS., in Dr H. Ethé’s “ Rūdagī der Sāmānidendichter ” <hi
+                        rend="italic">{Göttinger Nachrichten,</hi> 1873, pp. 663-742); see also his
+                    “Neupersische Literatur” in Geigers <hi rend="italic">Grundriss der iranischen
+                        Philologie</hi> (ii.); P. Horn, <hi rend="italic">Gesch. der persischen
+                        Literatur</hi> (1901), p. 73; E. G. Browne, <hi rend="italic">Literary
+                        History of Persia,</hi> i. (1902); C. J. Pickering, “ A Persian Chaucer ” in
+                        <hi rend="italic">National Review</hi> (May 1890).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

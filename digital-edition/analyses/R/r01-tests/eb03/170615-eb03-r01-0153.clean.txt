@@ -1,0 +1,47 @@
+ball) , he states the mean value 
+of 
+the number 
+n 
+at 1, 583. so that a sphere in motion drags along with it about /h s its own bulk of fluid with a velocity equal to its own. 
+He made similar experiments with prisms, pyramids, and other bodies, and found a complete confirmation of his assertion, that prisms of equal lengths and sec tions, though disshnilar, dragged equal quantities of fluid; that similar prisms. and prisms not similar, but whose length wr ere as the square root of their sections, dragged quantities proportional to their bulks. 
+He sound a general value of 
+n 
+sor prismatic bodies, which alone may be considered as a valuable truth; 
+of s 
+namely, that « = 0, 705 — + 1, 13. 
+From all these circumstances, we see an intimate connexion between the pressures, non pressures, and the fluid dragged along with the body. Indeed this is immediately deducible from the sirst principles; for what Mr Buat calls the 
+dragged fluid 
+is in fact a cer tain portion of the whole change of motion produced in the direction of the bodies motion. 
+It was sound, that with respect to thin planes, spheres, and pyramidal bodies of equal bases, the resistances were inversely as the quantities of fluid dragged along. 
+The intelligent reader will readily observe, that these views of the Chevalier Buat are not so much discoveries of new principles as they are claffisications of conse quences, which may all be deduced from the general prin ciples employed by D’alembert and other mathemati cians. But they greatly assist us in forming notions of different parts of the procedure of nature in the mutual action of fluids and solids on each other. This rauft be very acceptable in a subject which it is by no means probable that we shall be able to investigate with mathematical precision. we have given an account of these last observations, that we may omit nothing of consequence that has been written on the subject; and we take this opportunity of recommending the 
+Hydraulique 
+of Mr Buat as a most ingenious work, containing more original, ingenious, and practically useful thoughts, than all the performances we have met with. His doctrine of 
+the principle of uniform motion of fluids in pipes and open canals, 
+will be of immense service to all engi neers, and enable them to determine with sufficient precision the most important questions in their profession;; which at present they are hardly able to guess at. see Rivers and 
+WATERWORKS. 
+The only circumstance which we have not noticed in detail, is the change of resistance produced by the void, or tendency to a, void, which obtains behind the body; and we omitted a particular discussion, merely because 
+we 
+could say nothing sufficiently precise on the subject. Persons not accustomed to the discussions in the physicomathematical sciences, are apt to entertain doubts or false notions connected with this circumstance, which we shall attempt to remove; and with this we shall conclude this long and unsatisfactory dissertation. 
+If a 
+fluid were perfectly incompreffible, and were contained in a vessel incapable of extension, it is impossible that any void could be formed behind the body; and in this case it is not very easy to see how motion could be performed in it, A sphere moved in such a medium could not advance the smallest distance, unless 
+flume 
+particles of the fluid, in filling up the space left hy it, moved with 
+a 
+velocity next to infinite. some 
+degree of compreffibility, however small, 
+seems necessary. 
+If this be insensible, it may be rigidly demonstrated, that an external force of compression will make no 
+senjible 
+change in the internal motions, or in the resistances. This indeed is not obvious, but is an immediate consequence of the 
+quaquaveofum 
+pressure of fluids. As much as the preffiire 
+is 
+augmented by the externai comprenions on one side of a body, so much is 
+it 
+augmented on the other side; and the same must be said of every particle. Nothing more is necessary sor securing the same motions by the same partial and internal forces; and this is fully verified by experiment, water re mains equally fluid under any compreffioni. In some of sir Isaac newton’s experiments balis of four inches diameter were made so light as to preponderate in wa ter only three grains. These balls deseended in the same manner as they would have deseended in a fluid where the resistance was equal in every part; yet, when they were near the bottom of a vessel nine feet deep, the compression round them was at last 2400 times the moving force; whereas, when near the top of the vessel, it was not above 50 or 60 times. 
+But in a fluid sensibly compressible, or which is not confined, a void may be left behind the body. Its motion may be so swift that the surrounding pressure may not suffice for filling up the deserted space; and, in this case, a statical pressure will be added to the resistance. This may be the cafe in a vessel or pond of water having an open sursace exposed to the finite or limited pressure of the atmosphere. The question now is, whether the resistance will be increased by an increase of external pressure? supposing a sphere moving near the surface of water, and another moving equally fast at four times the depth. If the motion be so swift that a void is formed in both cases, there is no doubt but that the sphere which movcs at the greatest depth is most resisted by the pressure of the water. If there is no void in either case, then, because the quadruple depth would cause the water to flow in with only a double velocity, it would seem that the resistance would be greater; and indeed the water flowing in laterally with a double velocity produces a quadruple non pressure. — But, on the other hand, the pressure at a small depth may be insufficient sor preventing a void, while that below effectually prevents it; and this was observed in some experiments of Chevalier de Borda. The effect, therefore, of greater immersion, or of greater compression, in an elastic fluid, does not soliow a precise ratio of the pressure, but depends partly on absolute quantities. It cannot, therefore, be stated by any very simple formula what increase or diminution of resistance will result srom a greater depth; and it is chiefly on this account that experiments made with models of ships and mills are not conclusive with respect to the performance of a large machine of the same proportions, without corrections, sometimes pretty intricate, we assert, however, with great confidence, that this is of all methods the most exact, and infinitely more certain than anything that can be deduced srom the most elaborate calculation srom theory. If the resistances at ali depths be equal, the proportionality of the total resistance to 
+the 
+body is exact, and perfectly conformable to observation 
+It is only in great velocities where the depth has any material influence, and the influence is not near so con siderable as we should, at sirst sight, suppose; sor, in estimating the effect 
+of 
+immersion, which has a relation 

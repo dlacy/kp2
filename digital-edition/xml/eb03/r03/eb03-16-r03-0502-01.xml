@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0502-01"
+                facs="gri_33125011196389_0508.tif" type="entry">
+
+                <p><label>ROSSANO</label> a ſtrong town of Italy, in the kingdom βf Naples, and in
+                    the Hither Calabria, with an archbi-ſhop’s ſee, and the title of a principality.
+                    It is pretty large, well peopled, and ſeated on an eminence ſurrounded with
+                    rocks. There is nothing in this archiepiſcopal city that claims much notice ;
+                    the buildings are mean, the ſtreets vilely paved and contrived. The number of
+                    inhabitants does not exceed 6000, who ſubſiſt by the ſale of their oil, the
+                    principal object of their attention, though the territory produces a great deal
+                    of good wine and corn.</p>
+                <p>Roffano probably owes its origin to the Roman emperors, who conſidered it as a
+                    poll equally valuable for ſtrength and convenience of traffic. The Marfans, a
+                    family of French extraction, poffeffed this territory, with the title of prince,
+                    from the time of Charles II. to that of Alphonſus II. when the laſt male heir
+                    was, by that prince’s order, put to death in Iſchia, where he</p>
+                <p>was confined for treaſon. It afterwards belonged to Bona, queen of Poland, in
+                    right of her mother Iſabella, daughter to Alphonſus II. and at her deceaſe
+                    returned to the crown. It was next in the poſſeſſion of the Aldobrandini, from
+                    whom the Borgheſi inherited it. So late as the 16th century, the inhabitants of
+                    this city ſpoke the Greek language, and followed the rites of the eaſtern
+                    church. Here was formerly the moſt celebrated rendezvous of the Bafilian monks
+                    in Magna Graecia. E. Long. 16. 52. N. Lat. 39. 45.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

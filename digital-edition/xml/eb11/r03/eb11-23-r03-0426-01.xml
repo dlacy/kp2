@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0426-01"
+                facs="encyclopaediabri23chisrich_0459.jp2" type="entry">
+
+                <p><label>ROCHDALE</label> a municipal, county and parliamentary borough of
+                    Lancashire, England, on the river Roch, 10-J m. N.N.E. from Manchester and 196
+                    m. N.W. by N. from London, on the Lancashire &amp; Yorkshire railway. Pop.
+                    (1891) 76,161;</p>
+               <p>(1901) 83,114. By means of the Rochdale canal and connexions it has water
+                    communications in every direction. The site rises sharply from the Roch, near
+                    its confluence with the Spodden, and from the high-lying public park of Rochdale
+                    fine views of the picturesque neighbourhood are obtained. Several interesting
+                    old houses remain in the vicinity of the town. The parish church of St Chad is
+                    built on the site of a church erected in the 12th century, but itself retains no
+                    portion earlier than the Perpendicular period. In the churchyard is buried John
+                    Collier (1708-1786), a local author, artist and caricaturist, who was among the
+                    first to recognize and utilize in writing the humour of the Lancashire dialect,
+                    and attained considerable fame under the pseudonym of Tim Bobbin. The town hall
+                    is an extensive and elaborate structure in the Decorated style, with a tower. Of
+                    educational charities the principal is the Archbishop Parker free grammar
+                    school, founded in 1565. There are also technical and art schools; and a large
+                    Roman Catholic orphanage. Among other public institutions are the public
+                    library, the infirmary, the literary and scientific society and the art society.
+                    Rochdale was the birthplace of the co-operative movement. The Equitable Pioneers
+                    Society (1844) numbers over 11,000 members, with a capital of over £350,000. A
+                    handsome co-operative store, belonging to the Rochdale Provident Co-operative
+                    Society, was opened in 1900. A statue of John Bright (1891) recalls the
+                    connexion of the statesman and his family with Rochdale. The staple manufactures
+                    are those of woollens and cottons. There are, besides, foundries, iron-works and
+                    machine-factories. Coal and stone are obtained extensively in the neighbourhood.
+                    Frequent cattle and horse fairs are held. Rochdale was incorporated in 1856, and
+                    includes several townships. The corporation consists of a mayor, 10 aldermen and
+                    30 councillors. The county borough was created in 1888. The parliamentary
+                    borough, which has returned one member since 1832, falls between the Middleton
+                    and Heywood divisions of the county. Area of municipal borough, 6446 acres.</p>
+               <p>Rochdale (Recedham, Rachedam, Rachedal) takes its name from the river on which
+                    it stands. A Roman road passed the site, and a Saxon castle stood in Castleton,
+                    one of the component parts of the town. In Edward the Confessor’s reign most of
+                    the land was held by Gamel the Thane, but after the Conquest the manor probably
+                    came into the hands of Roger de Poictou, from whom it passed to the Lacys and
+                    like their other lands became merged in. the duchy of Lancaster. From 1462 to
+                    1625 the crown seems to have leased it to the Byron family. In 1625 Charles I.
+                    conveyed the manor in trust for the earl of Holdernesse, and in 1638 it was sold
+                    to Sir John Byron, afterwards Baron Byron of Rochdale, whose descendants held it
+                    till 1823 when it was sold to the Deardens. Manor courts are still held
+                    periodically. Henry III. in 1240-41 granted by charter to Edmund de Lacy the
+                    right to hold a weekly market on Wednesday and an annual fair on the feast of SS
+                    Simon and Jude (28th October). Early in George III.'s reign the market day was
+                    changed to Monday. Two of the early industries, cutlery and hat-making, date
+                    from about the middle of the 16th century. The woollen industry is generally,
+                    but erroneously, said to have been introduced by Flemish immigrants in Edward
+                    III.'s reign; but, with the cognate trades of dyeing and fulling, its importance
+                    only dates from the early part of the 17th century. It was not till 1795 that a
+                    cotton mill was built here, and in the latter half of the 18th century the town
+                    was famed for its woollen, not its cotton manufactures.</p>
+               <p>See H. Fishwick, <hi rend="italic">History of the Parish of Rochdale</hi>
+                    (1889).</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

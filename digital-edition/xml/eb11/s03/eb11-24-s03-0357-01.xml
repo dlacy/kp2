@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0357-01"
+                facs="encyclopaediabri24chisrich_0380.jp2" type="entry">
+                <p><label>SCHÖMANN, GEORG FRIEDRICH</label> (1793-1879), German classical scholar,
+                    was born at Stralsund in Pomerania on the 28th of June 1793. In 1827 he was
+                    appointed professor of ancient literature and eloquence in the university of
+                    Greifswald, where he died on the 25th of March 1879. Schömann’s attention was
+                    chiefly devoted to the constitutional and religious antiquities of Greece. His
+                    first works on the subject were <hi rend="italic">De comitiis Atheniensium</hi>
+                    (1819), the first independent account of the forms of Athenian political life,
+                    and a treatise <hi rend="italic">De sortitione judicum apud Athenienses</hi>
+                    (1820). In conjunction with M. H. E. Meier, Schömann wrote <hi rend="italic">Der
+                        attische Process</hi> (1824, revised ed. by J. H. Lipsius, 1883-1887),
+                    which, although in some respects out of date, still has considerable value.</p>
+                <p>Among his other works are:—editions of Isaeus (1831) and Plutarch’s <hi
+                        rend="italic">Agis</hi>
+                    <hi rend="italic">and Cleomenes</hi> (1839, important for the Attic law of
+                    inheritance and the history of the Spartan constitution); <hi rend="italic"
+                        >Anti-</hi></p>
+                <p><hi rend="italic">quitates juris publici Graecorum</hi> (1838); a critical
+                    examination of Grote’s account of the Athenian constitution (1854, Eng. trans.
+                    by B. Bosanquet, 1878) from a conservative point of view; and lastly, <hi
+                        rend="italic">Griechische Alterthümer</hi> (1855-1859; 4th ed. by T. H.
+                    Lipsius, 1897-1902; Eng. trans. of vol. i. by E. G. Hardy and T. S. Mann, 1880),
+                    treating of the general historical development of the Greek states, followed by
+                    a detailed account of the constitutions of Sparta, Crete and Athens, the cults
+                    and international relations of the Greek tribes. The question of the religious
+                    institutions of the Greeks, which he considered an essential part of their
+                    public life, had early engaged his attention, and he held the opinion that
+                    everything really religious was akin to Christianity, and that the greatest
+                    intellects of Greece produced intuitively Christian, dogmatic ideas. From this
+                    point of view he edited the <hi rend="italic">Theogony</hi> of Hesiod (1868),
+                    with a commentary, chiefly mythological, and Cicero’s <hi rend="italic">De
+                        natura deorum</hi> (1850, 4th ed. 1876); translated with introduction and
+                    notes Aeschylus’s <hi rend="italic">Prometheus Bound,</hi> and wrote a <hi
+                        rend="italic">Prometheus Unbound</hi> (1844), in which Prometheus is brought
+                    to see the greatness of his offence and is pardoned by Zeus. Of his
+                    contributions on grammatical subjects special mention may be made of <hi
+                        rend="italic">Die Lehre von den Redetheilen nach den Alten dargestellt</hi>
+                    (1862), an introduction to the elements of the science of grammar. His
+                    many-sidedness is shown in his <hi rend="italic">Opuscula academica</hi> (4
+                    vols., 1856-1871).</p>
+                <p>See F. S(usemihl) in C. Bursian's <hi rend="italic">Βiog. Jahrbuch für
+                        Altertumskunde</hi></p>
+                <p>(1879); A. Baumeister in <hi rend="italic">Allgemeine deutsche Biographie,</hi>
+                    xxxii.; C. Bursian, <hi rend="italic">Gesch. der class. Philologie in
+                        Deutschland</hi> (1883), and J. E. Sandys, <hi rend="italic">Hist. of
+                        Classical Scholarship,</hi> iii. (1908), p. 165.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

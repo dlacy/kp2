@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+    <author/>
+   </titleStmt>
+   <publicationStmt>
+    <p/>
+   </publicationStmt>
+   <sourceDesc>
+    <p>TEI-page files converted by Python to TEI-entry file</p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div facs="gri_33125011196363_0519.tif" type="entry" xml:id="eb03-17-s04-0513-02"
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <p><label>SISYMBRIUM, <hi rend="smallcaps">water-cresses,</hi></label> in botany : A genus of
+     plants belonging to the claſs of <hi rend="italic">tetradynamia,</hi> and to the order of <hi
+      rend="italic">ſiliquoſa ;</hi> and in the natural ſyſtem ranged under the 39th order, <hi
+      rend="italic">Siliquoſa.</hi> The ſiliqua, or pod, opens with valves ſomewhat ſtraight. The
+     calyx and corolla are expanded. There are 29 species, of which eight are natives of Britain ;
+     the naſturtium, or common water-creſs ; ſylveſtre, water-rocket ; amphibium, water-radiſh ;
+     terreſtre, annual water-radiſh ; monenſe ; ſophia, flixweed ; irio, broad-leaved hedge-
+     muſtard.</p>
+    <p>1 .The naſturtium grows on the brinks of rivulets and water ditches. The leaves have from 6
+     to 8 pair of ſmooth ſucculent and ſeſſile pinnæ ; the flowers are ſmall and white, and grow in
+     ſhort spikes or tufts. The leaves of water-creſſes have a moderately pungent taſte, emit a
+     quick penetrating ſmell, like that of muſtard ſeed, but much weaker. Their pungent matter is
+     taken up both by watery and ſpirituous menſtrua, and accompanies the aqueous juice, which
+     iſſues copiouſly upon expreſſion.<note anchored="true" n="1" place="bottom" type="authorial"
+       ><p>[mu] L <gap/> ie's Materia Medica. </p></note>It is very volatile, ſo as to ariſe in
+     great part in diſtillation with rectified ſpirit, as well as with water, and almoſt totally to
+     exhale in drying the leaves, or in- ſpiſſating by the gentleſt heat to the conſiſtence of an
+     extract, either the expreſſed juice, or the watery or ſpirituous tinctures. Both the
+     inſpiſſated juice, and the watery extract, diſcover to the taſte a ſaline impregnation, and in
+     keeping throw up cryſtalline effloreſcences to the ſurface. On diſtilling conſiderable
+     quantities of the herb with water, a ſmall proportion of a ſubtile volatile very pungent oil is
+     obtained.</p>
+    <p>Water-creſſes obtain a place in the Materia Medica for their antiſcorbutic qualities, which
+     have been long very generally acknowledged by physicians.<note anchored="false" n="2" place="margin" type="authorial"><p><gap/> elville's Medical Botany, p. 135.
+     </p></note>They are alſo ſuppoſed to purify the blood and humours, and to open viſceral
+     obſtructions. They are nearly allied to ſcurvy-graſs, but are more mild and pleaſant, and for
+     this reason are frequently eaten as ſalad. In the pharmacopoeias the juice of this plant is
+     directed with that of ſcurvy-graſs and Seville oranges : and Dr Cullen has remarked, that the
+     addition of acids renders the juices of the plantæ siliquoſae more certainly effectual, by
+     determining them more powerfully to an aceſcent fermentation.</p>
+    <p>2. Silveſtre, or water-rocket.<note anchored="true" n="3" place="bottom" type="authorial"
+       ><p>[mu] Berkenbout's Synopsis of Natural History.</p></note> The ſtem is weak, branched, and
+     above a foot high. The leaves are pinnated ; the pinnæ lance-ſhaped, and ſerrated ; the flowers
+     ſmall, and yellow ; and grow frequently in ſhallow water.</p>
+    <p>3. Amphibium, or water-radiſh. The ſtem is firm, erect, and two or three feet high ; the
+     leaves are pinnatiſtd, and ſerrated ; the flowers are yellow, and in ſpikes ; the pods are
+     ſomewhat oval, and ſhort. It grows in water.</p>
+    <p>4. Terreſtre, or land-rocket. The leaves are pinnatiſid ; the pods are filled with ſeed ; the
+     root is annual, and white ; the ſtem is angular, red-green, and ſmooth.</p>
+    <p>5. Murale, or wall-rocket. The ſtems are rough, and about eight inches high ; the leaves grow
+     on foot-ſtalks, lance-ſhaped, ſmooth, ſinuated, and ſerrated; the flowers are yellow ; the pods
+     a little compreſſed, and slightly carinated. It grows on ſandy ground in the North, Angleſea, &amp;c.</p>
+    <p>6. Monenſe, or yellow rocket. The ſtem is ſmooth, and about 6 or 8 inches high ; the leaves
+     are pinnatifid; the pinnæ remote, generally 7 pair ; the flower is yellow ; the petals entire ;
+     the calyx is cloſed. It grows in the Iſle of Man.</p>
+    <p>7. Irio, broad leaved rocket, or hedge muſtard ; the ſtem is ſmooth, and about two feet high
+     ; the leaves are broad, naked, pinnated, and halberd ſhaped at the end ; the flowers are
+     yellow, and the pods erect. It grows on waſte ground.</p>
+    <p>8. Sophia, flixweed. The ſtem is firm, branched, and two or three feet high ; the leaves are
+     multifid ; the ſegments are narrow ; the flowers are yellow ; the petals much leſs than the
+     calyx ; the pods are long, ſtiff, curved, without ſtyle, and erect ; the ſeeds are minute, and
+     yellow. It grows on walls, waſte ground, &amp;c.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

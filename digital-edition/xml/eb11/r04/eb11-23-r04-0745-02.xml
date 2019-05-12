@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0745-02"
+                facs="encyclopaediabri23chisrich_0798.jp2" type="entry">
+               <p>                   <label>ROSSELLI, COSIMO</label> (1439-c. 1507), Florentine painter, was born in
+                    1439. At the age of fourteen he became a pupil of Neri di Bicci, and in 1460 he
+                    worked as assistant to his cousin Bernardo di Stefano Rosselli. The first work
+                    of Cosimo mentioned by Vasari exists in S. Ambrogio, in Florence, over the third
+                    altar on the left. It is an “ Assumption of the Virgin,” a youthful and feeble
+                    work. In the same church, on the wall of one of the chapels, is a fresco by
+                    Cosimo which Vasari praises highly, especially for a portrait of the young
+                    scholar Pico of Mirandola. The scene, a procession bearing a miracle-working
+                    chalice, is painted with much vigour and less mannerism than most of this
+                    artist’s work. A picture painted by Rosselli for the church of the Annunziata,
+                    with figures of SS. Barbara, Matthew and the Baptist, is in the Academy of
+                    Florence. Rosselli also spent some time in Lucca, where he painted several
+                    altar-pieces for various churches. A picture attributed to him, taken from the
+                    church of S. Girolamo at Fiesole, is now in the National Gallery of London. It
+                    is a large retable, with, in the</p>                <pb xml:id="eb11-23-r04-0746" facs="encyclopaediabri23chisrich_0799.jp2"/>
+               <p>centre, St Jerome in the wilderness kneeling before a crucifix, and at the sides
+                    standing figures of St Damasus and St Eusebius, St Paolo and St Eustachia; below
+                    is a predella with small subjects. Though dry and hard in treatment, the figures
+                    are designed with much dignity. The Berlin Gallery possesses three pictures by
+                    Rosselli: “The Virgin in Glory," “ The Entombment of Christ," and “ The Massacre
+                    of the Innocents.” In 1480 Rosselli, together with the chief painters of
+                    Florence, was invited by Sixtus IV. to Rome to assist in the painting of the
+                    frescoes in the Sistine Chapel. Three of these were executed by him—“ The
+                    Destruction of Pharaoh’s Army in the Red Sea," “ Christ Preaching by the Lake of
+                    Tiberias,” and “ The Last Supper.” The last of these is well preserved, but is a
+                    mediocre work. Vasari’s story about the pope admiring Rosselli*s paintings more
+                    than those of his abler brother painters has probably little foundation.
+                    Rosselli’s Sistine frescoes were partly painted by his assistant Piero di
+                    Cosimo, who was so called after Cosimo Rosselli. His chief pupil was Fra
+                    Bartolommeo. According to Vasari, Rosselli died in 1484, but this is a mistake,
+                    as his will exists dated 25th of November 1506 (see Gaye, <hi rend="italic">Car.
+                        ined.</hi> ii. 457 <hi rend="italic">n.).</hi>
+               </p>               <p>For an account of Rosselli’s Sistine frescoes, see Platner and Bunsen, <hi
+                        rend="italic">Beschreibung der Stadt Rom,</hi> ii. pt. i.; and Rumohr, <hi
+                        rend="italic">Italien. Forschungen,</hi> ii. 265.</p>            </div>
+        </body>
+    </text>
+</TEI>

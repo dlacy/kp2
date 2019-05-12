@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-22-r01-0766-05"
+                facs="encyclopaediabri22chisrich_0791.jp2" type="entry">
+
+                <p><label>RABBAH BAR NAḤMANI</label> (c. 270-c. 330), a Babylonian rabbi or amora ( <hi rend="italic">q.v.</hi> ). He was for twenty-two years head of the
+                    Academy at Pumbeditha. His great dialectic skill acquired</p>
+                <pb xml:id="eb11-22-r01-0767" facs="encyclopaediabri22chisrich_0792.jp2"/>
+               <p>for him the epithet “ uprooter of mountains. ” The Talmud owes much to this
+                    rabbi. He is said to have perished in a jungle into which he had fled from the
+                    officers of the Persian king.</p>
+               <p>See Graetz, <hi rend="italic">History of the Jews</hi> (Eng. trans. ), vol.
+                    ii. ch. xxi.; Bacher, <hi rend="italic">Agada der Babyl. Amoräer,</hi> 97-101.
+                    (I. A. )</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,266 @@
+1    eb07-20-s04-0451-01.xml                          SOCRATES CONTD 0451         footnote(s)
+2    eb07-20-s04-0470-01.xml                                    SODA 0470                    
+3    eb07-20-s04-0470-02.xml                                 SODERAH 0470                    
+4    eb07-20-s04-0470-03.xml                                   SODOM 0470                    
+5    eb07-20-s04-0470-04.xml                                   SODOR 0470                    
+6    eb07-20-s04-0471-01.xml                                   SOEST 0471                    
+7    eb07-20-s04-0471-02.xml                                  SOFALA 0471                    
+8    eb07-20-s04-0471-03.xml                                 SOFFITA 0471                    
+9    eb07-20-s04-0471-04.xml                                   SOFIA 0471                    
+10   eb07-20-s04-0471-05.xml                              SOHAGEPOOR 0471                    
+11   eb07-20-s04-0471-06.xml                                   SOHAM 0471                    
+12   eb07-20-s04-0471-07.xml                                  SOHAUL 0471                    
+13   eb07-20-s04-0471-08.xml                                SOHNPOOR 0471                    
+14   eb07-20-s04-0471-09.xml                                 SOIGNES 0471                    
+15   eb07-20-s04-0471-10.xml                                    SOIL 0471                    
+16   eb07-20-s04-0471-11.xml                                SOISSONS 0471                    
+17   eb07-20-s04-0471-12.xml                               SOKOR ZOK 0471                    
+18   eb07-20-s04-0471-13.xml                       SOLANDER’S Island 0471                    
+19   eb07-20-s04-0471-14.xml                          SOLDER, Sodder 0471                    
+20   eb07-20-s04-0472-01.xml                                 SOLDIER 0472                    
+21   eb07-20-s04-0472-02.xml                                  SOLDIN 0472                    
+22   eb07-20-s04-0472-03.xml                                SOLECISM 0472                    
+23   eb07-20-s04-0472-04.xml                                 SOLEURE 0472                    
+24   eb07-20-s04-0472-05.xml                                   SOLFA 0472                    
+25   eb07-20-s04-0472-06.xml                                SOLFAING 0472                    
+26   eb07-20-s04-0472-07.xml                               SOLFATARA 0472                    
+27   eb07-20-s04-0472-08.xml                              SOLFATERRA 0472                    
+28   eb07-20-s04-0472-09.xml                               SOLICITOR 0472                    
+29   eb07-20-s04-0472-10.xml                                   SOLID 0472                    
+30   eb07-20-s04-0472-11.xml                                SOLIDITY 0472                    
+31   eb07-20-s04-0472-12.xml                               SOLILOQUY 0472                    
+32   eb07-20-s04-0472-13.xml                              SOLIMAN II 0472                    
+33   eb07-20-s04-0472-14.xml                                SOLINGEN 0472                    
+34   eb07-20-s04-0472-15.xml                       SOLIS, Αντονιο de 0472                    
+35   eb07-20-s04-0473-01.xml                              SOLITARIES 0473                    
+36   eb07-20-s04-0473-02.xml                         SOLITARY Island 0473                    
+37   eb07-20-s04-0473-03.xml                                    SOLO 0473                    
+38   eb07-20-s04-0473-04.xml                                 SOLOFRA 0473                    
+39   eb07-20-s04-0473-05.xml                                  SOLLER 0473                    
+40   eb07-20-s04-0473-06.xml                          SOLOMBO, GREAT 0473                    
+41   eb07-20-s04-0473-07.xml                                 SOLOMON 0473                    
+42   eb07-20-s04-0473-08.xml                                   SOLON 0473         footnote(s)
+43   eb07-20-s04-0474-01.xml                                  SOLOON 0474                    
+44   eb07-20-s04-0474-02.xml                              SOLOR Isle 0474                    
+45   eb07-20-s04-0474-03.xml                               SOLOTHURN 0474                    
+46   eb07-20-s04-0474-04.xml                            SOLOTONOSCHA 0474                    
+47   eb07-20-s04-0474-05.xml                                SOLSTICE 0474                    
+48   eb07-20-s04-0474-06.xml                               SOLYMANIA 0474                    
+49   eb07-20-s04-0474-07.xml                                SOMALPET 0474                    
+50   eb07-20-s04-0474-08.xml                                  SOMBOR 0474                    
+51   eb07-20-s04-0474-09.xml                            SOMERS, John 0474                    
+52   eb07-20-s04-0474-10.xml                           SOMERSETSHIRE 0474                    
+53   eb07-20-s04-0476-01.xml                                SOMERTON 0476                    
+54   eb07-20-s04-0476-02.xml                                SOMMEANY 0476                    
+55   eb07-20-s04-0476-03.xml                                  SOMMEE 0476                    
+56   eb07-20-s04-0476-04.xml                                   SOMME 0476                    
+57   eb07-20-s04-0476-05.xml                            SOMNAMBULISM 0476                    
+58   eb07-20-s04-0478-01.xml                         SOMNER, William 0478                    
+59   eb07-20-s04-0478-02.xml                                  SOMPRE 0478                    
+60   eb07-20-s04-0478-03.xml                                  SONATA 0478                    
+61   eb07-20-s04-0478-04.xml                                SONATINA 0478                    
+62   eb07-20-s04-0478-05.xml                            SONDERHAUSEN 0478                    
+63   eb07-20-s04-0478-06.xml                            SONDRE Grund 0478                    
+64   eb07-20-s04-0478-07.xml                                 SONDRIO 0478                    
+65   eb07-20-s04-0478-08.xml                                 SONEHUT 0478                    
+66   eb07-20-s04-0478-09.xml                                SONEPOUR 0478                    
+67   eb07-20-s04-0478-10.xml                                    SONG 0478                    
+68   eb07-20-s04-0478-11.xml                                 SONGHUR 0478                    
+69   eb07-20-s04-0478-12.xml                                   SONGI 0478                    
+70   eb07-20-s04-0478-13.xml                               SONGKIANG 0478                    
+71   eb07-20-s04-0478-14.xml                             SONGMENCHAN 0478                    
+72   eb07-20-s04-0478-15.xml                                  SONGOA 0478                    
+73   eb07-20-s04-0478-16.xml                            SOOLOO Isles 0478                    
+74   eb07-20-s04-0479-01.xml                                  SOONDA 0479                    
+75   eb07-20-s04-0479-02.xml                                 SOONDIA 0479                    
+76   eb07-20-s04-0479-03.xml                                  SOONEL 0479                    
+77   eb07-20-s04-0479-04.xml                              SOONERGONG 0479                    
+78   eb07-20-s04-0479-05.xml                                 SOONGUR 0479                    
+79   eb07-20-s04-0479-06.xml                                 SOONPUT 0479                    
+80   eb07-20-s04-0479-07.xml                            SOONTABURDAR 0479                    
+81   eb07-20-s04-0479-08.xml                                 SOOPOOR 0479                    
+82   eb07-20-s04-0479-09.xml                          SOOROOTOO Isle 0479                    
+83   eb07-20-s04-0479-10.xml                               SOOROPOOR 0479                    
+84   eb07-20-s04-0479-11.xml                                   SOORY 0479                    
+85   eb07-20-s04-0479-12.xml                                SOOSNEER 0479                    
+86   eb07-20-s04-0479-13.xml                                  SOOSOQ 0479                    
+87   eb07-20-s04-0479-14.xml                            SOOSOOHOONAN 0479                    
+88   eb07-20-s04-0480-01.xml                                    SOOT 0480                    
+89   eb07-20-s04-0480-02.xml                                   SOOTY 0480                    
+90   eb07-20-s04-0480-03.xml                                   SOPHI 0480                    
+91   eb07-20-s04-0480-04.xml                                  SOPHIS 0480                    
+92   eb07-20-s04-0480-05.xml                                 SOPHISM 0480                    
+93   eb07-20-s04-0480-06.xml                                 SOPHIST 0480                    
+94   eb07-20-s04-0480-07.xml                               SOPHOCLES 0480         footnote(s)
+95   eb07-20-s04-0481-01.xml                                  SOPING 0481                    
+96   eb07-20-s04-0481-02.xml                                   SOPRA 0481                    
+97   eb07-20-s04-0481-03.xml                                    SORA 0481                    
+98   eb07-20-s04-0481-04.xml                                   SORAU 0481                    
+99   eb07-20-s04-0481-05.xml                                SORBONNE 0481                    
+100  eb07-20-s04-0481-06.xml                                SORBONNE 0481                    
+101  eb07-20-s04-0481-07.xml                                 SORCERY 0481                    
+102  eb07-20-s04-0481-08.xml                                   SORIA 0481                    
+103  eb07-20-s04-0481-09.xml                                 SORIANG 0481                    
+104  eb07-20-s04-0481-10.xml                                 SORITES 0481                    
+105  eb07-20-s04-0482-01.xml                                SORRENTO 0482                    
+106  eb07-20-s04-0482-02.xml                               SORTILEGE 0482                    
+107  eb07-20-s04-0482-03.xml                                 SORTINO 0482                    
+108  eb07-20-s04-0482-04.xml                              SORTINSKOI 0482                    
+109  eb07-20-s04-0482-05.xml                                   SOSVA 0482                    
+110  eb07-20-s04-0482-06.xml                                 SOTERIA 0482                    
+111  eb07-20-s04-0482-07.xml                                  SOUDAN 0482                    
+112  eb07-20-s04-0482-08.xml                                SOUERICK 0482                    
+113  eb07-20-s04-0482-09.xml                                   SOUGH 0482                    
+114  eb07-20-s04-0482-10.xml                              SOUITCHEOU 0482                    
+115  eb07-20-s04-0482-11.xml                                    SOUL 0482                    
+116  eb07-20-s04-0482-12.xml                                   SOUND 0482         footnote(s)
+117  eb07-20-s04-0486-01.xml                         SOUNDS, Musical 0486                    
+118  eb07-20-s04-0486-02.xml                                SOUNDING 0486                    
+119  eb07-20-s04-0487-01.xml                               SOURABAYA 0487         footnote(s)
+120  eb07-20-s04-0487-02.xml                                 SOURERA 0487                    
+121  eb07-20-s04-0487-03.xml                               SOURGOUTE 0487                    
+122  eb07-20-s04-0487-04.xml                            SOUTCHEOUFOU 0487                    
+123  eb07-20-s04-0487-05.xml                                   SOUTH 0487                    
+124  eb07-20-s04-0488-01.xml                                 SOUTHAM 0488                    
+125  eb07-20-s04-0488-02.xml                             SOUTHAMPTON 0488                    
+126  eb07-20-s04-0488-03.xml                                SOUTHEND 0488                    
+127  eb07-20-s04-0488-04.xml                       SOUTHERNE, Thomas 0488                    
+128  eb07-20-s04-0489-01.xml                            SOUTHMOULTON 0489                    
+129  eb07-20-s04-0489-02.xml                               SOUTHWARK 0489                    
+130  eb07-20-s04-0489-03.xml                               SOUTHWELL 0489                    
+131  eb07-20-s04-0489-04.xml                               SOUTHWOLD 0489                    
+132  eb07-20-s04-0489-05.xml                               SOVEREIGN 0489                    
+133  eb07-20-s04-0489-06.xml                      SOZOMENUS, Hermias 0489                    
+134  eb07-20-s04-0489-07.xml                                     SPA 0489                    
+135  eb07-20-s04-0489-08.xml                              SPACAFORNO 0489                    
+136  eb07-20-s04-0489-09.xml                            SPAGIRIC Art 0489                    
+137  eb07-20-s04-0489-10.xml                                  SPAHIS 0489                    
+138  eb07-20-s04-0490-01.xml                                   SPAIN 0490         footnote(s)
+139  eb07-20-s04-0514-01.xml                              STATISTICS 0514                    
+140  eb07-20-s04-0523-01.xml                                SPALATRO 0523                    
+141  eb07-20-s04-0523-02.xml                                SPALDING 0523                    
+142  eb07-20-s04-0523-03.xml                    SPALLANZANI, Lazzaro 0523         footnote(s)
+143  eb07-20-s04-0525-01.xml                              SPALMADORI 0525                    
+144  eb07-20-s04-0525-02.xml                                    SPAN 0525                    
+145  eb07-20-s04-0525-03.xml                                 SPANDAU 0525                    
+146  eb07-20-s04-0525-04.xml                               SPANDRELL 0525                    
+147  eb07-20-s04-0525-05.xml                       SPANHEIM, Ezekiel 0525                    
+148  eb07-20-s04-0525-06.xml                                    SPAR 0525                    
+149  eb07-20-s04-0525-07.xml                                  SPARTA 0525                    
+150  eb07-20-s04-0531-01.xml                       SPARTIANUS, Ælius 0531                    
+151  eb07-20-s04-0531-02.xml                                 SPECIES 0531                    
+152  eb07-20-s04-0531-03.xml                                SPECIFIC 0531                    
+153  eb07-20-s04-0531-04.xml                              SPECTACLES 0531                    
+154  eb07-20-s04-0531-05.xml                                 SPECTRA 0531                    
+155  eb07-20-s04-0531-06.xml                                 SPECTRE 0531                    
+156  eb07-20-s04-0531-07.xml                             SPECULATIVE 0531                    
+157  eb07-20-s04-0531-08.xml                                SPECULUM 0531                    
+158  eb07-20-s04-0531-09.xml                             SPEED, John 0531                    
+159  eb07-20-s04-0531-10.xml                              SPELDHURST 0531                    
+160  eb07-20-s04-0532-01.xml                                SPELLING 0532                    
+161  eb07-20-s04-0532-02.xml                      SPELMAN, Sir Henry 0532                    
+162  eb07-20-s04-0532-03.xml                          SPENCE, Joseph 0532                    
+163  eb07-20-s04-0533-01.xml                                 SPENCER 0533         footnote(s)
+164  eb07-20-s04-0533-02.xml                         SPENSER, Edmund 0533         footnote(s)
+165  eb07-20-s04-0535-01.xml                              SPERMACETI 0535                    
+166  eb07-20-s04-0535-02.xml                              SPEUSIPPUS 0535                    
+167  eb07-20-s04-0535-03.xml                                    SPEY 0535                    
+168  eb07-20-s04-0535-04.xml                                  SPHERE 0535                    
+169  eb07-20-s04-0535-05.xml                                SPHEROID 0535                    
+170  eb07-20-s04-0535-06.xml                               SPHINCTER 0535                    
+171  eb07-20-s04-0535-07.xml                                  SPHINX 0535         footnote(s)
+172  eb07-20-s04-0535-08.xml                                   SPICE 0535                    
+173  eb07-20-s04-0535-09.xml                                 SPILSBY 0535                    
+174  eb07-20-s04-0536-01.xml                                 SPINAGE 0536                    
+175  eb07-20-s04-0536-02.xml                                 SPINDLE 0536                    
+176  eb07-20-s04-0536-03.xml                                  SPINET 0536                    
+177  eb07-20-s04-0536-04.xml                                SPINNING 0536                    
+178  eb07-20-s04-0546-01.xml                       SPINOZA, Benedict 0546         footnote(s)
+179  eb07-20-s04-0547-01.xml                                  SPIRAL 0547                    
+180  eb07-20-s04-0547-02.xml                                   SPIRE 0547                    
+181  eb07-20-s04-0547-03.xml                                  SPIRIT 0547                    
+182  eb07-20-s04-0547-04.xml                                SPLICING 0547                    
+183  eb07-20-s04-0547-05.xml                                 SPLUGEN 0547                    
+184  eb07-20-s04-0547-06.xml                                  SPOILS 0547                    
+185  eb07-20-s04-0547-07.xml                                 SPOLANK 0547                    
+186  eb07-20-s04-0547-08.xml                                 SPOLETO 0547                    
+187  eb07-20-s04-0547-09.xml                                 SPONDEE 0547                    
+188  eb07-20-s04-0547-10.xml                         SPONGIA, Sponge 0547                    
+189  eb07-20-s04-0547-11.xml                                SPONSORS 0547                    
+190  eb07-20-s04-0547-12.xml                             SPONTANEOUS 0547                    
+191  eb07-20-s04-0547-13.xml                                SPOONING 0547                    
+192  eb07-20-s04-0547-14.xml                                SPORADES 0547                    
+193  eb07-20-s04-0548-01.xml                       SPORADIC DISEASES 0548                    
+194  eb07-20-s04-0548-02.xml                         SPOTSWOOD, John 0548         footnote(s)
+195  eb07-20-s04-0548-03.xml                           SPRAT, Thomas 0548                    
+196  eb07-20-s04-0548-04.xml                                   SPRAY 0548                    
+197  eb07-20-s04-0548-05.xml                                  SPRING 0548                    
+198  eb07-20-s04-0551-01.xml                                  SPRING 0551                    
+199  eb07-20-s04-0551-02.xml                                   SPRIT 0551                    
+200  eb07-20-s04-0551-03.xml                  SPURZHEIM, John Gaspar 0551         footnote(s)
+201  eb07-20-s04-0552-01.xml                                     SPY 0552                    
+202  eb07-20-s04-0552-02.xml                                SQUADRON 0552                    
+203  eb07-20-s04-0552-03.xml                                  SQUADS 0552                    
+204  eb07-20-s04-0552-04.xml                                  SQUALL 0552                    
+205  eb07-20-s04-0552-05.xml                                  SQUARE 0552                    
+206  eb07-20-s04-0552-06.xml                                SQUARING 0552                    
+207  eb07-20-s04-0555-01.xml                         SRAVANA BALGUTA 0555                    
+208  eb07-20-s04-0555-02.xml                              SRI MUTTRA 0555                    
+209  eb07-20-s04-0556-01.xml                           SRI PERMATURA 0556                    
+210  eb07-20-s04-0556-02.xml                            STABAT MATER 0556                    
+211  eb07-20-s04-0556-03.xml                                   STADE 0556                    
+212  eb07-20-s04-0556-04.xml                                 STADIUM 0556                    
+213  eb07-20-s04-0556-05.xml                             STADTHOLDER 0556                    
+214  eb07-20-s04-0556-06.xml                                   STAFF 0556                    
+215  eb07-20-s04-0556-07.xml                                  STAFFA 0556                    
+216  eb07-20-s04-0557-01.xml                                STAFFORD 0557                    
+217  eb07-20-s04-0557-02.xml                           STAFFORDSHIRE 0557                    
+218  eb07-20-s04-0559-01.xml                                   STAGE 0559                    
+219  eb07-20-s04-0559-02.xml                    STAHL, George Ernest 0559         footnote(s)
+220  eb07-20-s04-0560-01.xml                               STAINDROP 0560                    
+221  eb07-20-s04-0560-02.xml                                 STAINES 0560                    
+222  eb07-20-s04-0560-03.xml                               STAIRCASE 0560                    
+223  eb07-20-s04-0560-04.xml                             STALACTITES 0560                    
+224  eb07-20-s04-0560-05.xml                              STALBRIDGE 0560                    
+225  eb07-20-s04-0560-06.xml                                   STALE 0560                    
+226  eb07-20-s04-0560-07.xml                                STAMFORD 0560                    
+227  eb07-20-s04-0560-08.xml                                 STAMINA 0560                    
+228  eb07-20-s04-0560-09.xml                              STAMPHALIA 0560                    
+229  eb07-20-s04-0560-10.xml                              STANCHIONS 0560                    
+230  eb07-20-s04-0560-11.xml                                 STANDON 0560                    
+231  eb07-20-s04-0560-12.xml                                 STANDRA 0560                    
+232  eb07-20-s04-0560-13.xml                STANHOPE, Phillip Dormer 0560                    
+233  eb07-20-s04-0561-01.xml                                STANHOPE 0561                    
+234  eb07-20-s04-0561-02.xml                    STANISLAS Leckzinski 0561                    
+235  eb07-20-s04-0562-01.xml                             STANISLAWOW 0562                    
+236  eb07-20-s04-0562-02.xml                         STANLEY, Thomas 0562                    
+237  eb07-20-s04-0563-01.xml                              STANNARIES 0563                    
+238  eb07-20-s04-0563-02.xml                                STANNARY 0563                    
+239  eb07-20-s04-0563-03.xml                                STANOVOI 0563                    
+240  eb07-20-s04-0563-04.xml                               STANSTEAD 0563                    
+241  eb07-20-s04-0563-05.xml                                  STANZA 0563                    
+242  eb07-20-s04-0563-06.xml                                  STAPLE 0563                    
+243  eb07-20-s04-0563-07.xml                                    STAR 0563                    
+244  eb07-20-s04-0563-08.xml                           STARAJA-RUSSA 0563                    
+245  eb07-20-s04-0563-09.xml                                  STARCH 0563                    
+246  eb07-20-s04-0564-01.xml                                STARGARD 0564                    
+247  eb07-20-s04-0564-02.xml                                STARITZA 0564                    
+248  eb07-20-s04-0564-03.xml                          STARK, William 0564                    
+249  eb07-20-s04-0564-04.xml                             STARKENBURG 0564                    
+250  eb07-20-s04-0564-05.xml                               STABLINGS 0564                    
+251  eb07-20-s04-0564-06.xml                                  STATES 0564                    
+252  eb07-20-s04-0564-07.xml                                 STATICS 0564                    
+253  eb07-20-s04-0566-01.xml                              STATIONARY 0566                    
+254  eb07-20-s04-0566-02.xml                              STATISTICS 0566         footnote(s)
+255  eb07-20-s04-0569-01.xml                STATIUS, Publius Papinus 0569                    
+256  eb07-20-s04-0569-02.xml                                STATUARY 0569                    
+257  eb07-20-s04-0569-03.xml                                  STATUE 0569                    
+258  eb07-20-s04-0570-01.xml                                   STEAM 0570                    
+259  eb07-20-s04-0570-02.xml                               SECTION I 0570                    
+260  eb07-20-s04-0577-01.xml                                    SECT 0577         footnote(s)
+261  eb07-20-s04-0592-01.xml                                    SECT 0592                    
+262  eb07-20-s04-0600-01.xml                              SECTION IV 0600                    
+263  eb07-20-s04-0600-02.xmlSTEAM, ITS DENSITY AND VOLUME AT DIFFERENT TEMPERATURES, AND ITS GENERATION AND CONDENSATION 0600                    
+264  eb07-20-s04-0604-01.xml                               SECTION V 0604                    
+265  eb07-20-s04-0604-02.xmlSTEAM, TO PRACTICAL AND ECONOMICAL PURPOSES 0604                    
+266  eb07-20-s04-0610-01.xml                     SS THE STEAM-ENGINE 0610         footnote(s)

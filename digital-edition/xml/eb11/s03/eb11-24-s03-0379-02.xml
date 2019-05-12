@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s03-0379-02"
+                facs="encyclopaediabri24chisrich_0402.jp2" type="entry">
+                <p><label>SCHRÖDER-DERIENT, WILHELMINE</label> (1804-1860), German operatic
+                    singer, was born on the 6th of December 1804, in Hamburg, being the daughter of
+                    the actress, Sophie Schröder (1781-1868). Her first impersonation was at the age
+                    of fifteen as Aricia in Schiller’s translation of Racine’s <hi rend="italic"
+                        >Phèdre,</hi> and in 1821 she was received with so much enthusiasm as Pamina
+                    in Mozart’s <hi rend="italic">Zauberflöte</hi> that her future career in opera
+                    was assured. In 1823 she married Karl Devrient, but was separated from him in
+                    1828, afterwards making two other marriages. Meanwhile she had maintained her
+                    popularity at Dresden and elsewhere. She made her first Paris appearance in
+                    1830, and she sang in London in 1833 and 1837. As a singer she combined a rare
+                    quality of tone with dramatic intensity of expression, which was as remarkable
+                    on the concert platform as in opera. She died in Coburg on the 26th of January
+                    1860.</p>
+                <p>See E. von Glümer, <hi rend="italic">Erinnerungen an Wilhelmine
+                        Schröder-Devrient</hi> (Leipzig, 1862); and A. von Wolzogen, <hi
+                        rend="italic">Wilhelmine Schröder-Devrient</hi> (Leipzig, 1863).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

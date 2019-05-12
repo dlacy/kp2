@@ -1,0 +1,47 @@
+is desired to cool. One end (generally the bottom) of the coils is connected to the liquid pipe from the condenser and the other end
+to the suction of the compressor. Liquid from the condenser is admitted to the coils through an adjustable regulating valve, and by taking heat from the substance outside is evaporated, the vapour being continually drawn off by the compressor and discharged under increased pressure into the condenser. The condenser is constructed of coils like the refrigerator, the cooling water being contained in a tank; frequently, however, a scries of open coils is employed, the cooling water falling over the coils into a collecting tray below, and this form is perhaps the most convenient for ordinary use as it affords great facilities for inspection and painting. The compressor may be driven by a steam engine or in any other convenient manner. The pressure in the condenser varies according to the temperature of the cooling water, and that in the refrigerator is dependent upon the temperature to which the outside substance is copied. In an ammonia machine copper and copper alloys must be avoided, but for carbonic acid they are not objectionable.
+The compression of ammonia is sometimes carried out on what is known as the Linde or “ wet ” system, and sometimes on the “ dry ” system. When wet compression is used the^ regulating valve is opened to such an extent that a little more liquid is passed than can be evaporated in the refrigerator. This liquid enters the compressor with the vapour, and is evaporated there, the heat taken up preventing the rise in temperature during compression which would otherwise take place. The compressed vapour is discharged at a temperature but little above that of the cooling water. With dry compression, vapour alone is drawn into the compressor, and the temperature rises to as much as 180 or 200 degrees. Wet compression theoretically is not quite so efficient as dry compression, but it possesses practical advantages in keeping the working parts of the compressor cool, and it also greatly facilitates the regulation of the liquid, and ensures the full duty of the machine being continuously performed. Very exact comparative trials have been made by Professor M. Schrocter and others with compression machines using sulphur dioxide and ammonia. The results are published in Vergleichende Versuche an Kaltemaschinen, by Schrocter, Munich, 1890, and in Nos. 32 and 51 of Bayerisches Industrie und Gewerbeblattt  1892. Some of the results obtained by Schroeter in 1893 with an ordinary brine cooling machine on the Linde ammonia system are given in Table VI.:—
+Table VI.
+Temperature reduction in refriger
+-o*4 to-5*8
+ator. Degs. Fahr......
+42*8 to 37*4
+28*4 to 23
+14 to 8*6
+I.H.P. in steam cylinder ....
+15*70
+10*48
+15*29
+I 4'2S
+I.H.P. in compressor......
+Pressure in refrigerator in pounds
+14*33
+14*3
+32*6
+13*54
+19*8
+11*98
+per sq. in. above atmosphere . . Pressure in condenser in pnunds
+45*2
+9*9
+per sq. in. above atmosphere . Heat abstracted in refrigerator.
+116*0
+115*0
+ΧΧΟΌ
+108*0
+B.T.U. per hour......
+Heat rejected in condenser.
+342192
+263400
+Ι7Ι5Ϊ5
+X21218
+B.T.U. per hour......
+377567
+301200
+214347
+158594
+The principle of the absorption process is chemical or physical rather than mechanical; it depends on the fact that many vapours of low boiling-point are readily absorbed in water, and can be separated again by the application of heat. In its simplest form an absorption machine consists of two iron vessels connected together by a bent pipe. One of these contains a mixture of ammonia and water, which on the application of heat gives off a mixed vapour containing a large proportion of ammonia, a liquid containing but little ammonia being left behind. In the second vessel, which is placed in cold water, the vapour rich in ammonia is condensed under pressure. To produce refrigeration the operation is reversed. On allowing the weak liquor to cool to normal temperature, it becomes greedy of ammonia (at 6o° F. at atmospheric pressure water will absorb about 760 times its own volume of ammonia vapour), and this produces an evaporation from the liquid in the vessel previously used as a condenser. This liquid, containing a large proportion of ammonia, gives off vapour at a low temperature, and therefore becomes a refrigerator abstracting heat from water or any surrounding body. When the ammonia is evaporated the operation as described must be again commenced. Such an apparatus is not much used now. Larger and more elaborate machines were made by F. P. E. Carre in France; but no very high degree of perfection was arrived at, owing to the impossibility of getting an anhydrous product of distillation. In 1867 Rees Reece, taking advantage of the fact that two vapours of different boiling-points, when mixed, can be separated by means of fractional condensation, brought out an absorption machine in which the distillate was very nearly anhydrous. By means of vessels termed the analyser and the rectifier, the bulk of the water was condensed at a comparatively high temperature and run back to the generator, while the ammonia passed into a condenser, and there assumed the liquid form under the pressure produced by the heat in the generator and the cooling action of water circulating outside the condenser tubes.
+Fig. 4 is a diagram of an absorption apparatus. The ammonia vapour given off in the refrigerator is absorbed by a cold weak solution of ammonia and water in the absorber, and the strong liquor is pumped back into the generator through an intcrchanger through which also the weak hot liquor from the generator passes on its way to the absorber. In this way the strong liquor is heated before it enters the generator, and the weak liquor is cooled before it enters the absorber.
+The generator being heated by means of a steam coil, ammonia vapour is driven off at such a pressure as to cause its condensation in the condenser. From the condenser it passes into the refrigerator through a regulating valve in the usual manner. The process is continuous, and is identical with that of the compression machine, with the exception of the return from the temperature Tj to the temperature T2, which is brought about by the direct application of heat instead of by means of mechanical compression. With the same temperature range, however, the same amount of heat has to be acquired in both cases, though from the nature of the process theactual amount of heat demanded from the steam is much greater in the absorption system than in the compression. This is chiefly due to the fact that in the former the neat of vaporization acquired in the refrigerator is rejected in the absorber, so that the whole heat of vaporization has to be supplied again by the steam in the generator. In the latter the vapour passes direct from the refrigerator to the pump* and power has to be expended merely in raising the temperature to a sufficient degree to enable condensation to occur at the temperature of the cooling water. On the other hand, a great advantage is gained in the absorption machine^ by using the direct heat of the steam, without first converting it into mechanical work, for in this way its latent heat of ^ vaporization pan be utilized by condensing the steam in the coils and letting it escape in the form of water. Each pound of steam can thus be made to give up some 950 units of heat; while in a good steam engine only about 200 units are utilized in the steam cylinder per pound of steam, and in addition allowance has to be made for mechanical inefficiency. In the absorption machine the cooling water has to take up about twice as much heat as in the compression system, owing to the ammonia being twice liquefied—namely, once in the absorber and once in the condenser. It is usual to pass the cooling water first through the condenser and then through the absorber.
+e The absorption machine^ is not so economical as the compression; but an actual comparison between the two systems is difficult to make. Information on this head is given in papers read by Dr. Linde and by Professor J. A. Ewing before tne Society of Arts (Journal of the Society of Arts, vol. xlii., 1894, p. 322, and Howard Lectures, January, February and March 1897).
+An absorption apparatus as applied to the cooling of liquids consists of a generator containing coils to which steam is supplied at suitable pressure, an analyser, a rectifier, a condenser either of the submerged or open type, a refrigerator in which the nearly anhydrous ammonia obtained in the condenser is allowed to evaporate, an absorber through which the weak liquor from the generator continually flows and absorbs the anhydrous vapour produced in the refrigerator, and a pump for forcing the strong liquor produced in the absorber back through an economizer into the analyser where, meeting with steam from the generator, the ammonia gas is again driven off, the process being tjnus carried on continuously. Sometimes an additional vessel is employed for heating liquor by means of the exhaust steam from the engine driving the ammonia pump.t Absorption machines are also made without a pump for returning the strong liquor to the generator. In these cases they work intermittently. In some machines the same vessel is used alternately as a generator and absorber, while in others, in order

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb07-19-r03-0594-04"
+                facs="eb07_19_Page_607.tif" type="entry">
+
+                <p><label>RZESZOW</label> a city of the Austrian province of Gallicia, and the
+                    capital of a circle which extends over 1782 square miles. It comprehends four
+                    cities, thirteen market-towns, and three hundred and thirty-three villages, with
+                    251,500 inhabitants. The city stands on the river Wisloch, and contains 388
+                    houses, with 4850 inhabitants. It has some trade in making linen and woollen
+                    goods, and some goldsmiths’ work.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

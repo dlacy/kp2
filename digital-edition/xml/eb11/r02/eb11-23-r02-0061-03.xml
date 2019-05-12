@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r02-0061-03"
+                facs="encyclopaediabri23chisrich_0084.jp2" type="entry">
+
+                <p><label>RELIGION</label> . The origin of the Latin word <hi rend="italic"
+                        >rZligio</hi> or <hi rend="italic">relligio</hi> has been the subject of
+                    discussion since the time of Cicero. Two alternative derivations have been
+                    given, viz. from <hi rend="italic">rëlëgere,</hi> to gather together, and <hi
+                        rend="italic">rëligare,</hi> to bind back, fasten. <hi rend="italic"
+                        >Relegere</hi> meant to gather together, collect, hence to go over a subject
+                    again in thought, from <hi rend="italic">re</hi> and <hi rend="italic"
+                        >legere,</hi> to collect together, hence to read, collect at a glance. This
+                    view is that given by Cicero <hi rend="italic">(Nat. Dear.</hi> ii. 28, 72). He
+                    says: “ Qui omnia quae ad cultum deorum pertinerent diligenter retractarent et
+                    tanquamrelegerent, sunt dicti religiosi ex relegendo,” “ men were called <hi
+                        rend="sup">f</hi> religious ’ from <hi rend="italic">relegere,</hi> because
+                    they reconsidered carefully and, as it were, went over again in thought all that
+                    appertained to the worship of the gods.” He compares <hi rend="italic"
+                        >elegantes</hi> from <hi rend="italic">eligere, diligentes</hi> from <hi
+                        rend="italic">diligere,</hi> and continues, “ his enim in verbis omnibus
+                    inest vis legendi eadem quae in religioso.” This view is supported by the form
+                    of the word in the verse quoted by Gellius (iv. 9), “ religentem esse oportet,
+                    rcligiosum nef as,” and by the use of the Greek <hi rend="italic">KKeyeiv,</hi>
+                    to pay heed to, frequently with a negative, in the sense of the Latin <hi
+                        rend="italic">negligere (nec-legere),</hi> cf. <hi rend="smallcaps"
+                        >Gcwp</hi> inrtp <hi rend="italic"><hi rend="smallcaps"> ovk</hi></hi> <hi rend="italic">tikeyovres</hi> (Homer, <hi rend="italic">II.</hi> xvi. 388),
+                    heeding not the visitation of the gods, or où <hi rend="italic">yàp</hi>
+                    KuxXanres Atôs . . . <hi rend="italic">ä\eyovaw (Od.</hi> ix. 275). The
+                    alternative derivation, from <hi rend="italic">religare,</hi> to fasten, bind,
+                    is that adopted by Lactantius <hi rend="italic">(Inst.</hi> iv. 28), <hi
+                        rend="sup">ii</hi> Vinculo pietatis obstricti, Dco rcligati sumus unde ipsa
+                    religio nomen cepit. ” He quotes in support the line from Lucretius (i. 931), “
+                    religionum nodis animos exsolvere.” Servius (on Virgil, <hi rend="italic"
+                        >Aen.</hi> viii. 349) and St Augustine <hi rend="italic">(Retract,</hi> i.
+                    13) also take <hi rend="italic">religare</hi> as the source of the word. It is
+                    one that has certainly coloured the meaning of the word, particularly in that
+                    use which restricts</p>
+                <pb xml:id="eb11-23-r02-0062" facs="encyclopaediabri23chisrich_0085.jp2"/>
+               <p>it to the monastic life with its binding rules. It also has appealed to
+                    Christian thought. Liddon <hi rend="italic">(Some Elements. of Religion,</hi>
+                    Lecture I. 19) says: “ Lactantius may be wrong in his etymology, but he has
+                    certainly seized the broad popular sense of the word when he connects it with
+                    the idea of an obligation by which man is bound to an invisible God.” Archbishop
+                    Trench <hi rend="italic">(Study of Words)</hi> supposed that when “ religion ”
+                    became equivalent to the monastic life, and “ religious ” to a monk, the words
+                    lost their original meaning, but the <hi rend="italic">Ancren Riwle <hi
+                            rend="sub"> i</hi> ante</hi> 1225, and the <hi rend="italic">Cursor
+                        Mundi</hi> use the words both in the general and the more particular sense
+                    (see quotations in the <hi rend="italic">New English Dictionary),</hi> and both
+                    meanings can be found in the <hi rend="italic">Imitatio Christi</hi> and in
+                    Erasmus’s <hi rend="italic">Colloquia.</hi> (X.)</p>
+               <p>The study of the forms of belief and worship belonging to different tribes,
+                    nations or religious communities has only recently acquired a scientific
+                    foundation. The Greek historians early directed their attention to the ideas and
+                    customs of the peoples with whom they were brought into contact ; and Herodotus
+                    has been called the “ first anthropologist of religion.” Theopompus described
+                    the Persian dualism in the 4th century <hi rend="smallcaps">b.c.,</hi> and when
+                    Megasthenes was ambassador to the court of Chandragupta, 302 <hi
+                        rend="smallcaps">b.c.,</hi> he noted the religious usages of the middle
+                    Ganges valley. The early Christian Fathers recorded many a valuable observation
+                    of the Gentile faiths around them from varying points of view, sympathetic or
+                    hostile; and Eusebius and Epiphanius, in the 4th century <hi rend="smallcaps"
+                        >a.d.,</hi> attributed to the librarian of Ptolemy Philadelphus the design
+                    of collecting the sacred books of the Ethiopians, Indians, Persians, Elamites,
+                    Babylonians, Assyrians, Romans, Phoenicians, Syrians and Greeks. The Mahommedan
+                    BiruiiI (b. <hi rend="smallcaps">a.d,</hi> 973) compared the doctrines of the
+                    Greeks, Christians, Jews, Manichaeans and Sufis with the philosophies and
+                    religions of India. Akbar (1542-1605) gathered Brahmans and Zoroastrians, Jews,
+                    Christians and Mahommedans at his court, and endeavoured to get translations of
+                    their scriptures. In the next century the Persian author of the <hi
+                        rend="italic">Dabistan</hi> exhibited the doctrines of no less than twelve
+                    religions and their various sects. Meanwhile the scholars of the West had begun
+                    to work. Thomas Hyde (1636-1703) studied the religion of the ancient Persians;
+                    John Spencer (1630-1693) analysed the laws of the Hebrews; and Lord Herbert of
+                    Cherbury <hi rend="italic">(De Religione Gentilium,</hi> 1645) endeavoured to
+                    trace all religions back to five “ truly Catholic truths ” of primitive faith,
+                    the first being the existence of God. The doctrine of a primeval revelation
+                    survived in various forms for two centuries, and appeared as late as the <hi
+                        rend="italic">Juventus Mundi</hi> of W. E. Gladstone (1868, p. 207 ff.).
+                    David Hume, on the other hand, based his essay on <hi rend="italic">The Natural
+                        History of Religion</hi> (1757) on the conception of the development of
+                    human society from rude beginnings, and all modern study is frankly founded on
+                    the general idea of Evolution. <note anchored="true" place="bottom"
+                        type="authorial" n="1"> This does not, of course, preclude the possibility
+                        of degeneration in particular instances. </note>
+               </p>
+               <p>The materials at Hume’s command, however, were destined to vast and speedy
+                    expansion. The Jesuit missionaries had already been at work in India and China,
+                    and a brilliant band of English students, led by Sir William Jones ând H. T.
+                    Colebrooke, began to make known the treasures of Sanskrit literature, which the
+                    great scholars of Germany and France proceeded to develop. In Egypt the
+                    discovery of the Rosetta stone placed the key to the hieroglyphics within
+                    Western reach; and the decipherment of the cuneiform character enabled the
+                    patient scholars of Europe tq recover the clues to the contents of the ancient
+                    libraries of Babylonia and Assyria. With the aid of inscriptions the cults of
+                    Greece and Rome have been largely reconstructed. Travellers and missionaries
+                    reported the beliefs and usages of uncivilized tribes in every part of the
+                    world, with the result that “ ethnography knows no race devoid of religion, but
+                    only differences in the degree to which religious ideas have developed ”
+                    (Ratzel, <hi rend="italic">History of Mankind,</hi> i. 40). Meanwhile philosophy
+                    was at work on the problem of the religious consciousness. The great series of
+                    ,German thinkers, Lessing, Herder, Kant, Hegel, Fichte, Schleiermacher and their</p>
+               <p>successors, sought to explain religion by means of the phenomena of mind, and to
+                    track it to its roots in the processes of thought and feeling. While ethnography
+                    was gathering up the facts from every part of the globe, psychology began to
+                    analyse the forms of belief, of action and emotion, to discover if possible the
+                    key to the multitudinous variety which history revealed. From the historical and
+                    linguistic side attention was first fixed upon the myth, and the publication of
+                    the ancient hymns of the <hi rend="italic">Rig Veda</hi> led Max Müller to seek
+                    in the common elements of Aryan thought for the secrets of primitive religion
+                    (essay on <hi rend="italic">Comparative Mythology,</hi> 1856). The phenomena of
+                    day and night, of sunshine and storm, and other aspects of nature, were invoked
+                    by different interpreters to explain the conceptions of the gods, their origins
+                    and their referions. Fresh materials were gathered at the same time out of
+                    European folk-lore; the work begun by the brothers Grimm was continued by J. W.
+                    E. Mannhardt, and a lower stratum of beliefs and rites began to emerge into view
+                    beneath the poetic forms of the more developed mythologies. By such preliminary
+                    labours the way was prepared for the new science of anthropology.</p>
+               <p>Since the appearance of Dr E. B. Tylor’s classical treatise on <hi rend="italic"
+                        >Primitive Culture</hi> (1871), the study of the origins of religion has
+                    becn pursued with the utmost zeal. Comte had already described the primitive
+                    form of the religious consciousness as that in which man conceives of all
+                    external bodies as animated by a life analogous to his own <hi rend="italic"
+                        >(Philos. Positive,</hi> tome v., 1841, p. 30). This has been since
+                    designated as <hi rend="italic">polyzoism</hi> or <hi rend="italic"
+                        >Panthelism</hi> or <hi rend="italic">panvitalism,</hi>
+                    <note anchored="true" place="bottom" type="authorial" n="2"> Comte’s own term “
+                        fetishism ” was most unfortunately, misleading (see Fetishism). Marett
+                        proposed the termAnimatism,” <hi rend="italic">Folk Lore</hi> (1900), xi. p.
+                        171. </note> and represents the obscure undifferentiated groundwork out of
+                    which Tylor’s <hi rend="italic">Animism</hi> arises. Many are the clues by which
+                    it has been sought to explain the secret of primitive religion. Hegel, before
+                    the anthropological stage, found it in magic. Max Muller, building on philosophy
+                    and mythology, affirmed that “ Religion consists in the perception of the
+                    infinite under such manifestations as are able to influence the moral character
+                    of man ” ( <hi rend="italic">Natural Religion,</hi> 1899, p. 188). Herbert
+                    Spencer derived all religion from the worship of the dead <hi rend="italic"
+                        >(Principles of Sociology,</hi> i.), like Grant Allen, and Lippert in
+                    Germany. Mr Andrew Lang, on the other hand, supposes that belief in a supreme
+                    being came first in order of evolution, but was afterwards thrust into the
+                    background by belief in ghosts and lesser divinities <hi rend="italic">(Magic
+                        and Religion,</hi> 1901, p. 224). <note anchored="true" place="bottom"
+                        type="authorial" n="3"> See his treatise on <hi rend="italic">The Making of
+                            Religion</hi> (1898), and Hartland’s article on “ The * High Gods ’ of
+                        Australia,” <hi rend="italic">Folk Lore</hi> (1898), ix. p. 290. </note> Dr
+                    Jevons finds the primitive form in totemism <hi rend="italic">(Introd. to the
+                        History of Religion,</hi> 1896, chap. ix.). Mr J. G. Frazer regards religion
+                    (see his definition quoted below) as superposed on an antecedent stage of magic.
+                    In <hi rend="italic">The Tree of Life</hi> (1905), Mr E. Crawley interprets it
+                    by the vital instinct, and connects its first manifestations with the processes
+                    of the organic life. The VeteranWilhelm Wundt <hi rend="italic">(Mythus und
+                        Religion,</hi> ii. 1906, p. 177) recurs to the primitive conceptions of the
+                    soul as the source of all subsequent development. The origin of religion,
+                    however, can never be determined archaeologically or historically; it must be
+                    sought conjecturally through psychology. (J. E. C.)</p>
+               <p>                    <hi rend="italic">A.</hi>
+                    <hi rend="smallcaps">Primitive ’Religion</hi>
+               </p>
+               <p>There is a point at which the History of Religion becomes in its predominant
+                    aspect a History of Religions. The conditions that we describe by the
+                    comprehensive term “ civilization ” occasion a specification and corresponding
+                    differentiation of the life of societies; whence there result competing types of
+                    culture, each instinct with the spirit of propagandism and, one might almost
+                    say, of empire. It is an age of conscious selection as between ideal systems.
+                    Instead of necessitating a wasteful and precarious elimination of inadequate
+                    customs by the actual destruction of those who practise them—this being the
+                    method of natural selection, which, like some Spanish Inquisition, abolishes the
+                    heresÿ by wiping out the heretics one and all— progress now becomes possible
+                    along the more direct and less</p>
+                <pb xml:id="eb11-23-r02-0063" facs="encyclopaediabri23chisrich_0086.jp2"/>
+               <p>painful path of conversion. The heretic, having developed powers of rational
+                    choice, perceives his heresy, to wit, his want of adaptation to the moral
+                    environment, and turning round embraces the new faith that is the passport to
+                    survival.</p>
+               <p>Far otherwise is it with man at the stage of savagery—the stage of petty groups
+                    pursuing a self-centred life of inveterate custom, in an isolation almost as
+                    complete as if they were marooned on separate atolls of the ocean. Progress, or
+                    at all events change, does indeed take place, though very slowly, since the most
+                    primitive savage we know of has his portion of human intelligence, looks after
+                    and before, nay, in regard to the pressing needs of every day shows a quite
+                    remarkable shrewdness and resource. Speaking generally, however, we must
+                    pronounce him unprogressive, since, on the whole, unreflective in regard to his
+                    ends. It is the price that must be paid for social discreteness and incoherency.
+                    And the consequence of this atomism is not what a careless thinker might be led
+                    to assume, extreme diversity, but, on the contrary, extreme homogeneity of
+                    culture. It has been found unworkable, for instance, to classify the religions
+                    of really primitive peoples under a plurality of heads, as becomes necessary the
+                    moment that the presence of a distinctive basis of linked ideas testifies to the
+                    individuality of this or that type of higher creed. Primitive religions are like
+                    so many similar beads on a string; and the concern of the student of comparative
+                    religion is at this stage mainly with the nature of the string, to wit, the
+                    common conditions of soul and society that make, say, totemism, or taboo, very
+                    much the same thing all the savage world over, when we seek to penetrate to its
+                    essence.</p>
+               <p>This fundamental homogeneity of primitive culture, however, must not be made the
+                    excuse for a treatment at the hands of psychology and sociology that dispenses
+                    with the study of details and trusts to an a priori method. By all means let
+                    universal characterization be attempted—we are about to attempt one here, though
+                    well aware of the difficulty in the present state of our knowledge—but they must
+                    at least model themselves on the composite photograph rather than the
+                    impressionist sketch. An enormous mass of material, mostly quite in the raw,
+                    awaits reduction to order on the part of anthropological theorists, as yet a
+                    small and ill-supported body of enthusiasts. Under these circumstances it would
+                    be premature to expect agreement as to results. In regard to method, however,
+                    there is little difference of opinion. Thus, whereas the popular writer abounds
+                    in wide generalizations on the subject of primitive humanity, the expert has
+                    hitherto for the most part deliberately restricted himself to departmental
+                    investigations. Religion, for example, seems altogether too vast a theme for him
+                    to embark on, and he usually prefers to deal with some single element or aspect.
+                    Again, origins attract the <hi rend="italic">litterateur;</hi> he revels in
+                    describing the transition from the pre-religious to the religious era. But the
+                    expert, confining his attention to the known savage, finds him already
+                    religious, nay, encumbered with religious survivals of all kinds; for him, then,
+                    it suffices to describe things as they now are, or as they were in the
+                    comparatively recent fore-time. Lastly, there are many who, being competent in
+                    some other branch of science, but having small acquaintance with the scientific
+                    study of human culture, are inclined to explain primitive ideas and institutions
+                    from without, namely by reference to various external conditions of the mental
+                    life of peoples, such as race, climate, food-supply and so on. The
+                    anthropological expert, on the other hand, insists on making the primitive point
+                    of view itself the be-all and end-all of his investigations. The inwardness of
+                    savage religion—the meaning it has for those who practise it—constitutes its
+                    essence and meaning likewise for him, who after all is a man and a brother, not
+                    one who stands really outside.</p>
+               <p>In what follows, then, we shall, indeed, venture to present a wholesale
+                    appreciation of the religious idea as it is for primitive man in general; but
+                    our account will respect the modern anthropological method that bids the student
+                    keep closely to the actualities of the religious experience of savages, as it
+                    can with reasonable accuracy be gathered from what they do and say.</p>
+               <p>We have sought to render only the spirit of primitive religion, keeping clear
+                    both of technicalities and of departmental investigations. These are left to the
+                    separate articles bearing on the subject. There the reader will find the most
+                    solid results of recent anthropological research. Here is he merely offered a
+                    flimsy thread that, we hope, may guide him through the maze of facts, but alas!
+                    is only too likely to break off short in his hand.</p>
+               <p>                    <hi rend="italic">Definition of Primitive Religion.—</hi> In dealing with a
+                    development of culture that has no immutable essence, but is intrinsically fluid
+                    and changing, definition must consist either in a definition of type, which
+                    indicates prevalence of relevant resemblance as between specimens more or less
+                    divergent, or in exterior definition, which delimits the field of inquiry by
+                    laying down within what extreme limits this divergence holds. Amongst the
+                    numberless definitions of religion that have been suggested, those that have
+                    been most frequently adopted for working purposes by anthropologists are Tylor’s
+                    and Frazer’s. Dr E. B. Tylor in <hi rend="italic">Primitive Culture</hi> (i), i.
+                    424, proposes as a “ minimum definition” of religion “ the belief in spiritual
+                    beings.” Objections to this definition on the score of incompleteness are,
+                    firstly, that, bcsides belief, practice must be reckoned with (since, as Dr W.
+                    Robertson Smith has made clear in his <hi rend="italic">Lectures on the Religion
+                        of the Semites,</hi> 18 sqq., ritual is in fact primary for primitive
+                    religion, whilst dogma and myth are secondary); secondly, that the outlook of
+                    such belief and practice is not exclusively towards the spiritual, unless this
+                    term be widened until it mean next to nothing, but is likewise towards the
+                    quasimaterial, as will be shown presently. The merit of this definition, on the
+                    other hand, lies in its bilateral form, which calls attention to the need of
+                    characterizing both the religious attitude and the religious object to which the
+                    former has reference. The same form appears in Dr J. G. Frazer’s definition in
+                        <hi rend="italic">The Golden Bough</hi> (2nd ed.), i. 63. He understands by
+                    religion “ a propitiation or conciliation of powers superior to man which are
+                    believed to direct and control the course of nature and of human life.” He goes
+                    on to explain that by “ powers” he means “ conscious or personal agents.” It is
+                    also to be noted that he is here definitely opposing religion to magic, which he
+                    holds to be based on the (implicit) assumption “ that the course of nature is
+                    determined, not by the passions or caprice of personal beings, but by the
+                    operation of immutable laws acting mechanically.” His definition improves on
+                    Tylor’s in so far as it makes worship integral to the religious attitude. By
+                    regarding the object of religion as necessarily personal, however, he is led to
+                    exclude much that the primitive man undoubtedly treats with awe and respect as
+                    exerting a mystic effect on his life. Further, in maintaining that the powers
+                    recognized by religion are always superior to man, he leaves unclassed a host of
+                    practices that display a bargaining, or even a hectoring, spirit on the part of
+                    those addressing them (see <hi rend="smallcaps">Prayer).</hi> Threatening or
+                    beating a fetish cannot be brought under the head of magic, even if we adopt
+                    Frazer’s principle <hi rend="italic">(op. cit.</hi> i. 64) that to constrain or
+                    coerce a personal being is to treat him as an inanimate agent; for such a
+                    principle is quite inapplicable to cases of mere terrorism, whilst it may be
+                    doubted if it even renders the sense of the savage magician’s typical notion of
+                    his <hi rend="italic">modus operandi,</hi> viz. as the bringing to bear of a
+                    greater <hi rend="italic">mana</hi> or psychic influence (see below) on what has
+                    less, and must therefore do as it is bidden. Such definitions, then, are to be
+                    accepted; if at all, as definitions of type, selective designations of leading
+                    but not strictly universal features. An encyclopaedic account, however, should
+                    rest rather on an exterior definition which can serve as it were to pigeon-hole
+                    the whole mass of significant facts. Such an exterior definition is suggested by
+                    Mr E. Crawley in <hi rend="italic">The Tree of Life,</hi> 209, where he points
+                    out that “ neither the Greek nor the Latin language has any comprehensive term
+                    for religion, except in the one <hi rend="italic">lepa,</hi> and in the other
+                        <hi rend="italic">sacra,</hi> words which are equivalent to ‘sacred.’ No
+                    other term covers the whole of religious phenomena, and a survey of the complex
+                    details of various worships results in showing that no other conception will
+                    comprise the whole body of religious facts.” It may be added that we have here
+                    no generalization imported from a</p>
+                <pb xml:id="eb11-23-r02-0064" facs="encyclopaediabri23chisrich_0087.jp2"/>
+               <p>higher level of culture, but an idea or blend of ideas familiar to primitive
+                    thought. An important consequence of thus giving the study of primitive religion
+                    the wide scope of a comparative hierology is that magic is no longer divorced
+                    from religion, since the sacred will now be found to be coextensive with the
+                    magico-religious, that largely undifferentiated plasm out of which religion and
+                    magic slowly take separate shape as society comes more and more to contrast
+                    legitimate with illicit modes of dealing with the sacred. We may define, then,
+                    the religious object as the sacred, and the corresponding religious attitude as
+                    consisting in such manifestation of feeling, thought and action in regard to the
+                    sacred as is held to conduce to the welfare of the community or to that of
+                    individuals considered as members of the community.</p>
+               <p>                    <hi rend="italic">Aspects of the Nature of the Sacred.—</hi> To exhibit the
+                    general character of the sacred as it exists for primitive religion it is
+                    simplest to take stock of various aspects recognized by primitive thought as
+                    expressed in language. If some, and not the least essential, of these aspects
+                    are quasi-negative, it must be remembered that negations—witness the Unseen, the
+                    Unknown, the Infinite of a more advanced theology—are well adapted to supply
+                    that mystery on which the religious consciousness feeds with the slight basis of
+                    conceptual support it needs, (i) <hi rend="italic">The sacred as the
+                        forbidden.</hi> The primitive notion that perhaps comes nearest to our “
+                    sacred,” whilst it immediately underlies the meanings of the Latin <hi
+                        rend="italic">sacer</hi> and <hi rend="italic">sanctus,</hi> is that of a
+                        <hi rend="italic">taboo,</hi> a Polynesian term for which equivalents can be
+                    quoted from most savage vocabularies. The root idea seems to be that something
+                    is marked off as to be shunned, with the added hint of a mystic sanction or
+                    penalty enforcing the avoidance. Two derivative senses of a more positive import
+                    call for special notice. On the one hand, since that which is tabooed is held to
+                    punish the taboo-breaker by a sort of mystic infection, taboo comes to stand for
+                    uncleanness and sin. On the other hand, since the isolation of the sacred, even
+                    when originally conceived in the interest of the profane, may be interpreted as
+                    self-protection on the part of the sacred as against defiling contact, taboo
+                    takes on the connotation of ascetic virtue, purity, devotion, dignity and
+                    blessedness. Primary and secondary senses of the term between them cover so much
+                    ground that it is not surprising to find taboo used in Polynesia as a name for
+                    the whole system of religion, founded as it largely is on prohibitions and
+                    abstinences. (2) <hi rend="italic">The sacred as the mysterious.</hi> Another
+                    quasinegative notion of more restricted distribution is that of the mysterious
+                    or strange, as we have it expressed, for example, in the Siouan <hi
+                        rend="italic">wakan,</hi> though possihly this is a derivative meaning.
+                    Meanwhile, it is certain that what is strange, new or portentous is regularly
+                    treated by all savages as sacred. (3) <hi rend="italic">The sacred as the
+                        secret.</hi> The literal sense of the term <hi rend="italic">churinga,</hi>
+                    applied by the Central Australians to their sacred objects, and likewise used
+                    more abstractly to denote mystic power, as when a man is said to be “ full of
+                        <hi rend="italic">Churinga,"</hi> is “ secret,” and is symptomatic of the
+                    esotericism that is a striking mark of Australian, and indeed of all primitive,
+                    religion, with its insistence on initiation, its exclusion of women, and its
+                    strictly enforced reticence concerning traditional lore and proceedings. (4) <hi
+                        rend="italic">The sacred as the potent.</hi> Passing on to positive
+                    conceptions of the sacred, perhaps the most fundamental is that which identifies
+                    the efficacy of sacredness with such mystic or magical power as is signified by
+                    the <hi rend="italic">mana</hi> of the Pacific or <hi rend="italic">orenda</hi>
+                    of the Hurons, terms for which analogies are forthcoming on all sides. Of <hi
+                        rend="italic">mana</hi> Dr R. H. Codrington in <hi rend="italic">The
+                        Melanesians,</hi>
+               </p>
+               <p>119 <hi rend="italic">n.,</hi> writes: “It essentially belongs to personal
+                    beings to originate it, though it may act through the medium of water, or a
+                    stone, or a bone. All Melanesian religion consists . . . in getting this <hi
+                        rend="italic">mana</hi> for oneself, or getting it used for one’s benefit.”
+                    E. Tregear’s <hi rend="italic">Maori-Polynesian Comparative Dictionary</hi>
+                    shows how the word and its derivatives are used to express thought, memory,
+                    emotion, desire, will—in short, psychic energy of all kinds. It also stands for
+                    the vehicle of the magician’s energy—the spell; which would seem likewise to be
+                    a meaning, perhaps the root-meaning, of <hi rend="italic">orenda</hi> (cf. J. N.
+                    B. Hewitt, <hi rend="italic">American Anthropologist,</hi> N.S., iv. 40).
+                    Whereas everything, perhaps, has some share of indwelling potency, whatever is
+                    sacred manifests this potency in an extraordinary degree, as typically the
+                    wonder-working leader of society, whose <hi rend="italic">mana</hi> consists in
+                    his cunning and luck together. Altogether, in <hi rend="italic">mana</hi> we
+                    have what is <hi rend="italic">par excellence</hi> the primitive religious idea
+                    in its positive aspect, tahoo representing its negative side, since whatever has
+                        <hi rend="italic">mana</hi> is taboo, and whatever is taboo has <hi
+                        rend="italic">mana.</hi> (5) <hi rend="italic">The sacred as the
+                        animate.</hi> The term “ animism,” which embodies Tylor’s classical theory
+                    of primitive religion, is unfortunately somewhat ambiguous. If we take it
+                    strictly to mean the belief in ghosts or spirits having the “ vaporous
+                    materiality ” proper to the objects of dream or hallucination, it is certain
+                    that the agency of such phantasms is not the sole cause to which all mystic
+                    happenings are referred (though ghosts and spirits are everywhere believed in,
+                    and appear to be endowed with greater predominance as religious synthesis
+                    advances amongst primitive peoples). Thus there is good evidence to show that
+                    many of the early gods, notahly those that are held to be especially well
+                    disposed to man, are conceived rather in the shape of magnified nonnatural men
+                    dwelling somewhere apart, such as the Mungan-ngaur of the Kurnai of S.E.
+                    Australia (cf. A. Lang, <hi rend="italic">The Making of Religion <hi rend="sup">2</hi> , x.</hi> sqq.). Such anthropomorphism is with difficulty
+                    reduced to the Tylorian animism. The term, however, will have to be used still
+                    more vaguely, if it is to cover all attribution of personality, will or
+                    vitality. This can be more simply brought under the notion of <hi rend="italic"
+                        >mana.</hi> Meanwhile, since quasi-mechanical means are freely resorted to
+                    in dealing with the sacred, as when a Maori chief snuffs up the sanctity his
+                    fingers have acquired by touching his own sacred head that he may restore the
+                    virtue to the part whence it was taken (R. Taylor, <hi rend="italic">Te Ika a
+                        Maui,</hi> 165), or when uncleanness is removed as if it were a physical
+                    secretion by washing, wiping and so forth, it is hard to say whether what we
+                    should now call a “ material ” nature is not ascribed to the sacred, more
+                    especially when its transmissihility after the manner of a contagion is the
+                    trait that holds the attention. It is possible, however, that the savage always
+                    distinguishes in a dim way between the material medium and the indwelling
+                    principle of vital energy, examples of a pure fetishism, in the sense of the
+                    cult of the purely material, recognized as such, being hard to find. (6) <hi
+                        rend="italic">The sacred as the ancient.</hi> The prominence of the notion
+                    of the <hi rend="italic">Alcheringa</hi> “ dreamtime,” or sacred past, in
+                    Central Australian religion illustrates the essential connexion perceived by the
+                    savage to lie between the sacred and the traditional. Ritualistic conservatism
+                    may be instanced as a practical outcome of this feeling. Another development is
+                    ancestor-worship, the organized cult of ancestors marking, however, a certain
+                    stage of advance beyond the very primitive, though the dead are always sacred
+                    and have <hi rend="italic">mana</hi> which the living may exploit for their own
+                    advantage.</p>
+               <p>                    <hi rend="italic">The Activity of the Sacred.—</hi> The foregoing views of the
+                    sacred, though starting from distinct conceptions, converge in a single complex
+                    notion, as may be seen from the many-sided sense borne by such a term as <hi
+                        rend="italic">wakan,</hi> which may stand not only for “ mystery,” but also
+                    for “ power, sacred, ancient, grandeur, animate, immortal ” (W J McGee, <hi
+                        rend="italic">15th Report of U. S. Bureau of Ethnology,</hi> 182). The
+                    reason for this convergence is that, whereas there is found great difficulty in
+                    characterizing the elusive nature of the sacred, its mode of manifesting itself
+                    is recognized to be much the same in all its phases. Uniform characteristics are
+                    the fecundity, ambiguity, relativity and transmissihility of its activity, (r)
+                        <hi rend="italic">Fecundity.</hi> The mystic potency of the sabred is no
+                    fixed quantity, but is big with possibilities of all sorts. The same sacred
+                    person, object, act, will suffice for a variety of purposes. Even where a piece
+                    of sympathetic magic appears to promise definite results, or when a departmental
+                    god is recognized, there would seem to be room left for a more or less
+                    indefinite expectancy. It must be re-membered that the meaning of a rite is for
+                    the most part obscure</p>
+                <pb xml:id="eb11-23-r02-0065" facs="encyclopaediabri23chisrich_0088.jp2"/>
+               <p>to the participants, being overlaid by its traditional character, which but
+                    guarantees a general efficacy. “ Blessings come, evils go,” may be said to be
+                    the magico-religious formula implicit in all socially approved dealings with the
+                    sacred, however specialized in semblance. (2) <hi rend="italic">Ambiguity.</hi>
+                    Mystic potency, however, because of the very indefiniteness of its action, is a
+                    two-edged sword. The sacred is not to be approached lightly. It will heal or
+                    blast, according as it is handled with or without due circumspection. That which
+                    is taboo, for instance, the person of the king, or woman’s blood, is poison or
+                    medicine according as it is manipulated, being inherently just a potentiality
+                    for wonder-working in any direction. Not but what primitive thought shows a
+                    tendency to mark off a certain kind of mystic power as wholly bad by a special
+                    name, <hi rend="italic">e.g.</hi> the <hi rend="italic">arungquiltha of</hi>
+                    Central Australia; and here, we may note, we come nearest to a conception of
+                    magic as something other than religion, the trafficker in <hi rend="italic"
+                        >arungquiltha</hi> being socially suspect, nay, liable to persecution, and
+                    even death (as amongst the Arunta tribe, see Spencer and Gillen, <hi
+                        rend="italic">Native Tribes of</hi> C. <hi rend="italic">Australia,</hi>
+                    536), at the hands of his fellows. On the other hand, wholly beneficent powers
+                    seem hardly to be recognized, unless we find them in beings such as Mungan-ngaur
+                    (“ father-our” ), who derive an ethical character from their association with
+                    the initiation ceremonies and the moral instruction given thereat (cf. Lang,
+                    Z.c.). (3) <hi rend="italic">Relativity.</hi> So far we have tended to represent
+                    the activity of the sacred as that of a universal force, somewhat in the style
+                    of our “ electricity” or “ mind. ” It remains to add that this activity
+                    manifests itself at numberless independent centres. These differ amongst
+                    themselves in the degree of their energy. One spell is stronger than another,
+                    one taboo more inviolable than another. Dr W. H. R. Rivers <hi rend="italic"
+                        >{The Todas,</hi> 448) gives an interesting analysis of the grades of
+                    sanctity apparent in Toda religion. The gods of the hill-tops come first. The
+                    sacred buffaloes, their milk, their bells, the dairies and their vessels are on
+                    a lower plane; whilst we may note that there are several grades amongst the
+                    dairies, increase of sanctity going with elaboration of dairy ritual (cf. ibid.
+                    232). Still lower is the dairyman, who is in no way divine, yet has sanctity as
+                    one who maintains a condition of ceremonial purity. (4) <hi rend="italic"
+                        >Transmissibility.</hi> If, however, this activity originates at certain
+                    centres, it tends to spread therefrom in all directions. Dr F. B. Jevons (in <hi
+                        rend="italic">An Introduction to the History of Religion,</hi> vii.)
+                    distinguishes between “ things taboo,” which have the mystic contagion inherent
+                    in them, and “ things tabooed,” to which the taboo-infection has been
+                    transmitted. In the former class he places supernatural beings (including men
+                    with <hi rend="italic">mana</hi> as well as ghosts and spirits), blood, new-born
+                    children with their mothers, and corpses; which list might be considerably
+                    extended, for instance, by the inclusion of natural portents, and animals and
+                    plants such as are strikingly odd, dangerous or useful. Any one of these can
+                    pass on its sacred quality to other persons and objects (as a corpse defiles the
+                    mourner and his clothes), nay to actions, places and times as well (as a corpse
+                    will likewise cause work to be tabooed, ground to be set apart, a holy season to
+                    be observed). Such Iransmissibility is commonly explained by the association of
+                    ideas, that becoming sacred which as it were reminds one of the sacred; though
+                    it is important to add, firstly, that such association takes place under the
+                    influence of a selective interest generated by strong religious feeling, and,
+                    secondly, that this interest is primarily a collective product, being governed
+                    by a social tradition which causes certain possibilities of ideal combination
+                    alone to be realized, whilst it is the chief guarantee of the objectivity of
+                    what they suggest.</p>
+               <p>                    <hi rend="italic">The Exploitation of the Sacred.</hi> A. <hi rend="italic"
+                        >Methods.</hi> —It is hard to find terms general enough to cover dealings
+                    with the sacred that range from the manipulation of an almost inanimate type of
+                    power to intercourse modelled on that between man and man. Primitive religion,
+                    however, resorts to either way of approach so indifferently as to prove that
+                    there is little or no awareness of an inconsistency of attitude. The radical
+                    contrast between mechanical and spiritual religion, though fundamental for
+                    modern theology, is alien to the primitive point of view, and is therefore
+                    inappropriate to the purposes of anthropological description. (1) <hi
+                        rend="italic">Acquisition.</hi> Mystic power may be regarded as innate so
+                    far as skill, luck or queerness are signs and conditions of its presence. On the
+                    whole, however, savage society tends to regard it as something acquired, the
+                    product of acts and abstinences having a traditional character for imparting
+                    magico-religious virtue. An external symbol in the shape of a ceremony or
+                    cult-object is of great assistance to the dim eye of primitive faith. Again, the
+                    savage universe is no preserve of man, but is an open field wherein human and
+                    non-human activities of all sorts compete on more or less equal terms, yet so
+                    that a certain measure of predominance may be secured by a judicious combination
+                    of forces. (2) <hi rend="italic">Concentration.</hi> Hence the magico-religious
+                    society or individual practitioner piles ceremony on ceremony, name of power on
+                    name of power, relic on relic, to consolidate the forces within reach and assume
+                    direction thereof. The transmissihility of the sacred ensures the fusion of
+                    powers drawn from all sources, however disparate. (3) <hi rend="italic"
+                        >Induction.</hi> It is necessary, however, as it were to bring this force to
+                    a head. This would appear to be the essential significance of sacrifice, where a
+                    number of sacred operations and instruments are made to discharge their efficacy
+                    into the victim as into a vat, so that a blessing-yielding, evil-neutralizing
+                    force of highest attainable potency is obtained (see H. Hubert and M. Mauss, “
+                    Essai sur la nature et la fonction du sacrifice” in <hi rend="italic">L' Année
+                        sociologique,</hi> ii.). (4) <hi rend="italic">Renovation.</hi> An important
+                        <hi rend="italic">motif</hi> in magico-religious ritual, which may not have
+                    been without effect on the development of sacrifice, is, as Dr Frazer’s main
+                    thesis in <hi rend="italic">The Golden Boiigh</hi> asserts, the imparting of
+                    reproductive energy to animals, plants and man himself, its cessation being
+                    suggested by such phenomena as old age and the fall of the year. To concentrate,
+                    induce and renovate are, however, but aspects of one process of acquisition by
+                    the transfusion of a transmissible energy. (5) <hi rend="italic">Demission.</hi>
+                    Hubert and Mauss show in their penetrating analysis of sacrifice that after the
+                    rite has been brought to its culminating point there follows as a pendant a
+                    ceremony of re-entry into ordinary life, the idea of which is preserved in the
+                    Christian formula <hi rend="italic">Ite, missa est.</hi> (6) <hi rend="italic"
+                        >Insidation.</hi> Such deposition of sacredness is but an aspect of the
+                    wider method that causes a ring-fence to be erected round the sacred to ward off
+                    casual trespassers at once in their own interest and to prevent contamination.
+                    We see here a natural outcome of religious awe supported by the spirit of
+                    esotericism, and by a sense of the need for an expert handling of that which is
+                    so potent for good or ill. (7) <hi rend="italic">Direction.</hi> This last
+                    consideration brings to notice the fact that throughout magico-religious
+                    practice of all kinds the human operator retains a certain control over the
+                    issue. In the numberless transitions that, whilst connecting, separate the spell
+                    and the prayer we observe as the accompaniment of every mood from extreme
+                    imperiousness to extreme humility an abiding will and desire to help the action
+                    out. Even “ Thy will be done ” preserves the echo of a direction, and, needless
+                    to say, this is hardly a form of primitive address. At the bottom is the vague
+                    feeling that it is man’s own self-directed mysterious energy that is at work,
+                    however much it needs to be reinforced from without. Meanwhile, tradition
+                    strictly prescribes the ways and means of such reinforcement, so that religion
+                    becomes largely a matter of sacred lore; and the expert director of rites, who
+                    is likewise usually at this stage the leader of society, comes more and more to
+                    be needed as an intermediary between the lay portion of the community and the
+                    sacred powers.</p>
+               <p>B. <hi rend="italic">Results.</hi> —Hitherto our account of primitive religion
+                    has had to move on somewhat abstract lines. His religion is, however, anything
+                    but an abstraction to the savage, and stands rather for the whole of his
+                    concrete life so far as it is penetrated by a spirit of earnest endeavour. The
+                    end and result of primitive religion is, in a word, the consecration of life,
+                    the stimulation of the will to live and to do. This bracing of the vital feeling
+                    takes place by means of imaginative appeal to the great forces man perceives
+                    stirring within him and about him, such appeal proving effective doubtless by
+                    reason of the psychological law that to conceive strongly is</p>
+                <pb xml:id="eb11-23-r02-0066" facs="encyclopaediabri23chisrich_0089.jp2"/>
+               <p>to imitate. Meanwhile, that there shall be no clashing of conceptions to inhibit
+                    the tendency of the idea of an acquired “ grace ” to realize itself in action,
+                    is secured by the complete unanimity of public opinion, dominated as it is by an
+                    inveterate custom. To appreciate the consecrating effect of religion on
+                    primitive life we have only to look to the <hi rend="italic">churinga</hi>
+                    -worship of the Central Australians (as described by Spencer and Gillen in <hi
+                        rend="italic">The Native Tribes of Central Australia</hi> and <hi
+                        rend="italic">The Northern Tribes of Central Australia).</hi> Contact with
+                    these repositories of mystic'influence “makes them glad” <hi rend="italic">(Nat.
+                        Tr.</hi> 165); it likewise makes them “ good,” so that they are no longer
+                    greedy or selfish <hi rend="italic">(North. Tr.</hi> 266); it endows them with
+                    second sight (ibid.); it gives them confidence and success in war <hi
+                        rend="italic">(Nat. Tr.</hi> 135); in fact, there is no end to its
+                    “strengthening” effects (ibid. <hi rend="italic">n</hi> .). Or, again, we may
+                    note the earnestness and solemnity that characterize all their sacred
+                    ceremonies. The inwardness of primitive religion is, however, non-existent for
+                    those who observe it as uninitiated strangers; whilst, again, it evaporates as
+                    soon as native custom breaks down under pressure of civilization, when only
+                    fragments of meaningless superstition survive: wherefore do travesties of
+                    primitive religion abound.</p>
+               <p>It remains to consider shortly the consecration of life in relation to
+                    particular categories and departments. (1) <hi rend="italic">Education.</hi>
+                    Almost every tribe has its initiation ceremonies, and in many tribes adult life
+                    may almost be described as a continuous initiation. The object of these rites is
+                    primarily to impart mystic virtue to the novice, such virtue, in the eyes of the
+                    primitive man, being always something more than social usefulness, amounting as
+                    it does to a share in the tribal luck by means of association with all it holds
+                    sacred. Incidentally the candidate is trained to perform his duties as a
+                    tribesman, but religion presides over the course, demanding earnest endeavour of
+                    an impressionable age. (2) <hi rend="italic">Government.</hi> Where society is
+                    most primitive it is most democratic, as in Australia, and magico-religious
+                    powers are possessed by the whole body of fully initiated males, age, however,
+                    conferring increase of sacred lore and consequently of authority; whilst even at
+                    this stage the experts tend to form an inner circle of rulers. The man with <hi
+                        rend="italic">mana</hi> is bound to come to the top, both because his gifts
+                    give him a start and because his success is taken as a sign that he has the
+                    gift. A decisive “ moment ” in the evolution of chief ship is the recognition of
+                    hereditary <hi rend="italic">mana,</hi> bound up as this is with the handing on
+                    of ceremonies and cult-objects. Invested, as society grows more complex, with a
+                    sanctity increasingly superior to that of the layman,, the priest-king becomes
+                    the representative of the community as repository of its luck, whilst, as
+                    controller of all sacred forces that bear thereon, he is, as Dr Frazer puts it,
+                    “ dynamical centre of the universe” (The <hi rend="italic">Golden Bough</hi>
+                    (2nd ed.), i. 233). Only when the holy man’s duty to preserve his holiness binds
+                    him hand and foot in a network of taboos does his temporal power tend to devolve
+                    on a deputy. (3) <hi rend="italic">Pood-supply.</hi> In accordance with the
+                    principle of Renovation (see above), the root-idea of the application of
+                    religion to economics is not the extorting of boons from an unwilling nature,
+                    but rather the stimulation of the sources of life, so that all beings alike may
+                    increase and multiply. (4) <hi rend="italic">Food-taking.</hi> Meanwhile, the
+                    primitive meal is always more or less of a sacrament, and there are many
+                    food-taboos, the significance of which is, however, not so much that certain
+                    foods are unclean and poisonous as that they are of special virtue and must be
+                    partaken of solemnly and with circumspection. (s) <hi rend="italic"
+                        >Kinship.</hi> It is hard to say whether the unit of primitive society is
+                    the tribe or the group of kinsmen. Both are forms of union that are consolidated
+                    by means of religious usages. Thus in Australia the initiation ceremonies,
+                    concerned as they partly are with marriage, always an affair between the
+                    kin-groups, are tribal, whilst the totemic rites are the prime concern of the
+                    members of the totem clans. The significance of a common name and a common blood
+                    is immensely enhanced by its association with mystic rights and duties, and the
+                    pulse of brotherhood beats faster. (6) <hi rend="italic">The Family.</hi> Side
+                    by side with the kin there is-always found the domestic group, but the latter
+                    institution develops fully only as the former weakens, so that the one comes
+                    largely to inherit the functions of the other, whilst the tribe too in its turn
+                    hands over certain interests. Thus in process of time birth-rites,
+                    marriage-rites, funeral-rites, not to mention subordinate ceremonies such as
+                    those of name-giving and food-taking, become domestic sacraments. (7) <hi
+                        rend="italic">Sex.</hi> Woman, for certain physiological reasons, is always
+                    for primitive peoples hedged round with sanctity, whilst man does all he can to
+                    inspire awe of his powers in woman by keeping religion largely in his own hands.
+                    Theresult, so far as woman is concerned, is that, in company with those males
+                    who are endowed with sacredness in a more than ordinary degree, she tends as a
+                    sex to lose in freedom as much as she gains in respect. (8) <hi rend="italic"
+                        >Personality.</hi> Every one has his modicum of innate <hi rend="italic"
+                        >mana,</hi> or at least may develop it in himself by communicating with
+                    powers that can be brought into answering relation by the proper means.
+                    Nagualism, or the acquisition of a mystic guardian, is a widely distributed
+                    custom, the essence of which probably consists in the procuring of a personal
+                    name having potency. The exceptional man is recognized as having <hi
+                        rend="italic">mana</hi> in a special degree, and a belief thus held at once
+                    by others and by himself is bound to stimulate his individuality. The primitive
+                    community is not so custom-bound that personality has no chance to make itself
+                    felt, and the leader of men possessed of an inner fund of inspiration is the
+                    wonderworker who encourages all forms of social advance.</p>
+               <p>                    <hi rend="italic">Psychology of the Primitive Attitude towards the Sacred.—</hi>
+                    We are on firmer ground when simply describing the phenomena of primitive
+                    religion than when seeking to account for these in terms of natural law—in
+                    whatever sense the conception of natural law be applicable to the facts of the
+                    mental life of man. One thing is certain, namely, that savages stand on
+                    virtually one footing with the civilized as regards the type of explanation
+                    appropriate to their beliefs and practices. We have no right to refer to “
+                    instincts ” in the case of primitive man, any more at any rate than we have in
+                    our own case. A child of civilized parents brought up from the first amongst
+                    savages is a savage, neither more nor less. Though race may count for something
+                    in the matter of mental endowment—and at least it would seem to involve
+                    differences in weight of brain—it clearly counts for much less than does <hi
+                        rend="italic">milieu,</hi> to wit, that social environment of ideas and
+                    institutions which depends so largely for its effectiveness on mechanical means
+                    of tradition, such as the art of writing. The outstanding feature of the mental
+                    life of savages known to psychologists as “ primitive credulity ” is doubtless
+                    chiefly due to sheer want of diversity of suggestiveness in their intellectual
+                    surroundings. Their notions stick fast because there are no competing notions to
+                    dislodge them. Society suffers a sort of perpetual obsession, and remains
+                    self-hypnotized as it were within a magic circle of traditional views. A rigid
+                    orthodoxy is sustained by means of purblind imitation assisted by no little
+                    persecution. Such changes as occur come about, not in consequence of a new
+                    direction taken by conscious policy, but rather in the way that fashions in
+                    dress alter amongst ourselves, by subconscious, hardly purposive drifting. The
+                    crowd rather than the individual is the thinking unit. A proof is the mysterious
+                    rapid extinction of savages the moment that their group-life is broken up; they
+                    are individually so many lost sheep, without self-reliance or initiative. And
+                    the thinking power of a crowd—that is, a mob, not a deliberative assembly— is of
+                    a very low order, emotion of a “ panicky ” type driving it hither and thither
+                    like a rudderless ship. However, as the students of mob-psychology have shown,
+                    every crowd tends to have its <hi rend="italic">meneur,</hi> its mob-leader, the
+                    man who sets the cheering or starts the running-away. So too, then, with the
+                    primitive society. Grossly ignorant of all that falls outside “ the daily round,
+                    the common task,” they are full of panicky fears in regard to this unknown, and
+                    the primary attitude of society towards it is sheer avoidance, taboo. But the
+                    mysterious has another face. To the mob the mob-leader is mysterious in his
+                    power of bringing luck and salvation; to himself also he is a wonder, since he
+                    wills, and lo ! things happen accordingly. He has</p>
+                <pb xml:id="eb11-23-r02-0067" facs="encyclopaediabri23chisrich_0090.jp2"/>
+               <p>                    <hi rend="italic">mana,</hi> power, and by means of this <hi rend="italic"
+                        >mana,</hi> felt inwardly by himself, acknowledged by his fellows, he stems
+                    the social impulse to run away from a mystery. Not without nervous dread—
+                    witness the special taboo to which the leader of society is subject —he draws
+                    near and strives to constrain, conciliate or cajole the awful forces with which
+                    the life of the group is set about. He enters the Holy of Holies; the rest
+                    remain without, and are more than half afraid of their mediator. In short, from
+                    the standpoint of lay society, the manipulator of the sacred is himself sacred,
+                    and shares in all the associations of sacred-ness. An anthropomorphism which is
+                    specifically a “ mago-morphism ” renders the sacred powers increasingly one with
+                    the governing element in society, and religion assumes an ethico-political
+                    character, whilst correspondingly authority and law are invested with a deeper
+                    meaning.</p>
+               <p>                    <hi rend="italic">The Abuse of the Sacred.—</hi> Lest our picture of primitive
+                    religion appear too brightly coloured, a word must be said on the perversions to
+                    which the exploitation of the sacred is liable. Envy, malice and
+                    uncharitableness are found in primitive society, as elsewhere, and in their
+                    behoof the mystic forces are not unfrequently unloosed by those who know how to
+                    do so. To use the sacred to the detriment of the community, as does, for
+                    instance, the expert who casts a spell, or utters a prayer, to his neighbour’s
+                    hurt, is what primitive society understands by magic (cf. <hi rend="italic"
+                        >arungquiltha,</hi> above), and anthropology has no business to attach any
+                    other meaning to the word if it undertakes to interpret the primitive point of
+                    view. On the other hand, if those in authority perpetrate in the name of what
+                    their society holds sacred, and therefore with its full approval, acts that to
+                    the modern mind are cruel, silly or revolting, it is bad science and bad ethics
+                    to speak of vice and degradation, unless it can be shown that the community in
+                    which these things occur is thereby brought nearer to elimination in the
+                    struggle for existence. As a matter of fact, the earlier and more democratic
+                    types of primitive society, uncontaminated by our civilization, do not present
+                    many features to which the modern conscience can take exception, but display
+                    rather the edifying spectacle of religious brotherhoods encouraging themselves
+                    by mystical communion to common effort. With the evolution of rank, however, and
+                    the concentration of magico-religious power in the hands of certain orders,
+                    there is less solidarity and more individualism, or at all events more
+                    opportunity for sectional interests to be pursued at other than critical times;
+                    whereupon fraud and violence are apt to infect religion. Indeed, as the history
+                    of the higher religions shows, religion tends in the end to break away from
+                    secular government with its aristocratic traditions, and to revert to the more
+                    democratic spirit of the primitive age, having by now obtained a clearer
+                    consciousness of its purpose, yet nevertheless clinging to the inveterate forms
+                    of human ritual as still adequate to symbolize the consecration of life—the
+                    quickening of the will to face life earnestly.</p>
+               <p>                    <hi rend="smallcaps">Bibliography.</hi> —The number of works dealing with
+                    primitive religion is endless. The English reader who is more or less new to the
+                    subject is recommended to begin with E. B. Tylor, <hi rend="italic">Primitive
+                        Culture</hi> (4th ed., Lond. 1903), and then to proceed to J. G. Frazer, <hi
+                        rend="italic">The Golden Bough</hi> (2nd ed., Lond. 1900). The latter
+                    author’s <hi rend="italic">Lectures on the Early History of the Kingship</hi>
+                    (Lond. 1905) may also be consulted. Only second in importance to the above are
+                    W. Robertson Smith, <hi rend="italic">Lectures on the Religion of the
+                        Semites</hi> (2nd ed., Lond. 1904); A. Lang, <hi rend="italic">Myth, Ritual
+                        and Religion</hi> (2nd ed., Lond. 1899), and <hi rend="italic">Magic and
+                        Religion</hi> (Lond. 1902); E. S. Hartland, <hi rend="italic">The Legend of
+                        Perseus</hi> (Lond. 1894-1896) ; F. B. Jevons, <hi rend="italic">An
+                        Introduction to the History of Religion</hi> (2nd ed., 1902); E. Crawley,
+                        <hi rend="italic">The Mystic Rose</hi> (Lond. 1902), and <hi rend="italic"
+                        >The Tree of Life</hi> (Lond. 1905). The two last-mentioned works perhaps
+                    most nearly represent the views taken in the text, which are also developed by
+                    the present writer in “ Pre-An i mist ic Religion,” <hi rend="italic"
+                        >Folk-Lore</hi> xi. (1900), “ From Spell to Prayer,” <hi rend="italic"
+                        >Folk-Lore,</hi> xv. (1904), and “ Is Taboo a Negative Magic?” <hi
+                        rend="italic">Anthropological Essays presented to E. B. Tylor</hi> (1907);
+                    L. R. Farnell, <hi rend="italic">The Evolution of Religion</hi> (1905), follows
+                    similar lineç. The present writer owes something to Goblet d’Alviella, <hi
+                        rend="italic">Hibbert Lectures</hi> (Lond. 1891), and more to H. Hubert and
+                    M. Mauss, “ Essai sur la nature et la fonction du sacrifice,” <hi rend="italic"
+                        >L'Année sociologique,</hi> ii. ; and “ Esquisse d’une théorie générale de
+                    la magie,” ibid. vii. If the reader wish to keep pace with the output of
+                    literature on this vast subject, he will find <hi rend="italic">L’Année
+                        sociologique</hi> (1896 onwards) a wonderfully complete bibliographical
+                    guide.</p>
+               <p>Side by side with works of general theory, first-hand authorities should be
+                    freely used. To make a selection from these is not easy, but the following at
+                    least are very important: R. H. Codrington, <hi rend="italic">The
+                        Melanesians</hi> (Oxford, 1891); W. B. Spencer and F. J. Gillen, <hi
+                        rend="italic">The Native Tribes of Central Australia</hi> (Lond. 1899); <hi
+                        rend="italic">The Northern Tribes of Central Australia</hi> (Lond. 1904); A.
+                    W. Howitt, <hi rend="italic">The Native Tribes of South-Eastern Australia</hi>
+                    (Lond. 1904); A. C. Haddon, <hi rend="italic">Reports of the Cambridge
+                        Anthropological Expedition to Torres Straits</hi> (Cambridge, 1904, vol.
+                    v.); A. B. Ellis, <hi rend="italic">The Tshi-Speaking Peoples OftheGotd
+                        Coast</hi> (Lond. 1897); <hi rend="italic">The Ewe-Speaking Peoples of the
+                        Slave Coast</hi> (Lond. 1890); <hi rend="italic">The Yoruba-Speaking Peoples
+                        of the Slave Coast</hi> (Lond. 189a); Miss M. H. Kingsley, <hi rend="italic"
+                        >Travels in West Africa</hi> (Lond. 1898), and <hi rend="italic">West
+                        African Studies</hi> (Lond. 1899); A. C. Hollis, <hi rend="italic">The
+                        Masai</hi> (1905); W. Crooke, <hi rend="italic">The North-West Provinces of
+                        India</hi> (Lond. 1897;; W. H. R. Rivers, <hi rend="italic">The Todas</hi>
+                    (1906). An immense amount of valuable evidence is to be obtained in the <hi
+                        rend="italic">Reports of the Bureau of Ethnology,</hi> Smithsonian
+                    Institution, Washington. See Nos. 2, 5, 6, 7, 8, 9, n, 13, 14, 15, 16, 18, 19,
+                    21, 22, 23, and specially J. O. Dorsey, <hi rend="italic">A Study of Siouan
+                        Cults,</hi> in No. 11 ; A. C. Fletcher, <hi rend="italic">The Hako,</hi> in
+                    No. 22; and M. C. Stevenson, <hi rend="italic">The Zuhi Indians,</hi> in No. 23.
+                    Though dealing, primarily with a more advanced culture, T. J. M. de Groot, <hi
+                        rend="italic">The Religious System of China</hi> (1892-1901), will be found
+                    to throw much light on primitive ideas. Finally let it be repeated that there is
+                    offered here no more than an introductory course of standard authorities
+                    suitable for the English reader. (R. R. M.)</p>
+               <p>                    <hi rend="italic">B.</hi>
+                    <hi rend="smallcaps">The Higher Religions</hi>
+               </p>
+               <p>Various phenomena associated with the religions of the lower culture will be
+                    found discussed in the articles on <hi rend="smallcaps">Animism; Fetishism;
+                        Magic; Mythology; Prayer; Ritual; Sacrifice;</hi> and <hi rend="smallcaps"
+                        >Totemism.</hi> In this article religions .are treated from the point of
+                    view of morphology, and no attempt can be made in the allotted limits to connect
+                    them with the phases of ritual, sociological or ethical development. See the
+                    separate articles on each religious system, and the separate headings for
+                    different forms of ritual.</p>
+               <p>i. <hi rend="italic">Developments of Animism.—</hi> Animism is not, indeed,
+                    itself a religion; it is Tatheraprimitive kind of philosophy which provides the
+                    intellectual form for the interpretation alike of Man and of Nature. It implies
+                    that the first great step has been taken for distinguishing between the material
+                    objects—whether the conscious body, or the rocks, trees and animals—and the
+                    powers that act in or through them. The Zufiis of New Mexico, U.S.A., supposed “
+                    the sun, moon and stars, the sky, earth and sea, in all their phenomena and
+                    elements, and all inanimate objects as well as plants, animals and men, to
+                    belong to one great system of all-conscious and interrelated life, in which the
+                    degrees of relationship seem to be determined largely, if not wholly, by the
+                    degrees of resemblance.” <note anchored="true" place="bottom" type="authorial"
+                        n="4"> F. H. Cushing, on “ Zuni Fetiches” in <hi rend="italic">Second Annual
+                            Report of the Bureau of Ethnology,</hi> Washington, 1883, p. 9. </note>
+                    If the earliest conception is that of an obscure undifferentiated animation (
+                        <hi rend="italic">panvitalism),</hi> the analysis of the human person into
+                    body and spirit with the corresponding doctrine of “ object-souls ” ( <hi
+                        rend="italic">e.g.</hi> the <hi rend="italic">tornait</hi> or “ invisible
+                    rulers ” of every object among the Eskimo) <note anchored="true" place="bottom"
+                        type="authorial" n="5"> Dr. Franz Boas, in the <hi rend="italic">Sixth
+                            Annual Report of the Bureau of Ethnology,</hi> 1888, p. 591. </note>
+                    constitutes an important development. Matter is no longer animated or
+                    self-acting; it is subject to the will of an agent which can enter or quit it,
+                    perhaps at its own pleasure, perhaps at the compulsion of another. The
+                    transition has usually been effected ages before the higher religions come into
+                    view; but it has left innumerable traces in language and custom. Thus the Vedic
+                    hymns, which exhibit the deposits of so many stages of thought, are founded
+                    ultimately on the conception of the animation of nature. The objects of the
+                    visible world are themselves mighty to hurt or help. The springs and rivers, the
+                    wind, the sun, fire, the Earth-Mother, the Sky-Father, are all active powers.
+                    The animals, domesticated or wild, like the horse or cow, the guardian dog, the
+                    bird of omen, naturally share the same life, and are approached with the same
+                    invocation. The sacred energy is also discerned in the ritual implements, in the
+                    stones for squeezing the soma-juice, and the sacrificial post to which animals
+                    were bound; nay, it was even recognized in fabricated products like the plough
+                    (the “ tearer ” or “ divider ”), the</p>
+                <pb xml:id="eb11-23-r02-0068" facs="encyclopaediabri23chisrich_0091.jp2"/>
+               <p>tvar-car, the drum, quiver, bow and axe. The Earth-Mother and Sky-Father are to
+                    be found again and again in religions, at various stages of development, as
+                    co-ordinating conceptions which comprehend the universe. <note anchored="true"
+                        place="bottom" type="authorial" n="6"> The Japanese name is <hi
+                            rend="italic">Ame-tsuchi,</hi> “ heaven and earth,” a translation of the
+                        Chinese <hi rend="italic">ten-chi,</hi> Aston, <hi rend="italic">Shinto</hi>
+                        (1905), p. 35. </note> Sometimes one is more prominent, sometimes the other.
+                    In many cases the Sky has been already resolved into the visible firmament and
+                    its lord and owner, like the Yoruban Olorun or the Finnic Ukko. The consort of
+                    Ukko is <hi rend="italic">Maan-emö, “</hi> mother of the earth,” or <hi
+                        rend="italic">maan ernanicl, “</hi> mistress of the earth.” But the rare
+                    expression <hi rend="italic">maan-emd,</hi> “ Mother-earth,” still used in the
+                    ancient lays, <note anchored="true" place="bottom" type="authorial" n="7">
+                        Castrén, <hi rend="italic">Finnische Mythologie,</hi> p. 86. </note> points
+                    to the older type of belief in the animation of the productive soil. So the
+                    Peruvians designated the Earth as Pacha-mama, “ mother of (all) things.” In
+                    Egypt the relation was curiously reversed; the earth-god Keb was the husband of
+                    Nut, the sky, represented sometimes as a woman, overarching the earth and
+                    supported on hands and feet, sometimes as a gigantic cow, upheld on the
+                    outstretched hands of Shu, the atmosphere. <note anchored="true" place="bottom"
+                        type="authorial" n="8"> Erman, <hi rend="italic">Handbook of Egyptian
+                            Religion</hi> (1907), pp. 8, 12. </note> When earth and sky were still
+                    unseparated, Shu thrust himself between them and raised Nut to the heights. So
+                    in the New Zealand myth, Rangi and Papa, Sky and Earth, who once clave together
+                    in the darkness, were rent asunder by the forest-god Tane-mahuta, who forced up
+                    the sky far above him. <note anchored="true" place="bottom" type="authorial"
+                        n="9"> Sir George Grey, <hi rend="italic">Polynesian Mythology</hi> (1855),
+                        pp. 1-4. </note> The most elaborate presentment of this mode of thought is
+                    to be seen in the organized animism of the ancient state religion of China,
+                    where the supreme power is lodged in the living sky (Tien). <note
+                        anchored="true" place="bottom" type="authorial" n="10"> The English “Heaven”
+                        has acquired a quasi-personal mean </note> Tien was originally the actual
+                    firmament; In the <hi rend="italic">Shi-King</hi> it is addressed in prayer as “
+                    great and wide,” as “ vast and distant ”; it is even “ blue ” (Pt. II. V. 6, s).
+                    So it is the ancestor of all things; and Heaven and Earth are the father and
+                    mother of the world. From the imperial point of view the sky bore the name of
+                    Ti, “ ruler,” or Shang Ti, “ supreme ruler ” (emperor) ; and later commentators
+                    readily took advantage of this to discriminate between the visible expanse and
+                    the indwelling spirit, producing a kind of Theism. But the older conception
+                    still holds its own. “ Why ” (says Edkins, <hi rend="italic">Religion in
+                        China,</hi> 95), “ they have been often asked, should you speak of those
+                    things which are dead matter, fashioned from nothing by the hand of God, as
+                    living beings? And why not? they have replied. The Sky pours down rain and
+                    sunshine; the Earth produces corn and grass. We see them in perpetual movement,
+                    and we therefore say that they are living.” <hi rend="italic">Tien Ti, Fu
+                        Mu,</hi> “ Heaven and Earth, Father and Mother,” are conjoined in common
+                    speech, and are the supreme objects of imperial worship. The great altar to
+                    Heaven, round in shape like the circuit of the sky, and white as the symbol of
+                    the light principle (Yang), stands in the southern suburb of Peking in the
+                    direction of light and heat. The altar to the Earth is dark and square, on the
+                    north side of the city, the region of <hi rend="italic">yin,</hi> the principle
+                    of cold and gloom. Associated with the Sky are tablets to the sun and moon, the
+                    seven stars of the Great Bear, the five planets, the twenty-eight
+                    constellations, and all the stars of heaven; tablets to clouds, rain, wind and
+                    thunder being placed next to that of the moon. With the Earth are grouped the
+                    tablets to the five lofty Mountains, the three Hills of perpetual peace and the
+                    four Seas, the five celebrated Mountains and the four great Rivers. <note
+                        anchored="true" place="bottom" type="authorial" n="11"> Blodget, on “ The
+                        Chinese Worship of Heaven and Earth,” <hi rend="italic">Joum. of the
+                            American Oriental Society,</hi> xx. p. 58 ff. </note> The ancient ritual
+                        <hi rend="italic">(Chow Li)</hi> carefully graded the right of sacrifice
+                    from the viceroys of provinces down to the humblest district-superintendent who
+                    offered to the spirits of his district, the hills, lakes and grains. With these
+                    spirits ranged in feudal order in two vast groups beneath Heaven and Earth is
+                    associated a third class, those of human beings. They are designated by the same
+                    name, <hi rend="italic">shin</hi> ; and they are in-</p>
+               <p>extricably mingled with the operations of nature. So in the Vedic hymns the
+                    departed “ Fathers ” inhabit the three zones-of earth, air and sky; they are
+                    invoked with the streams and mountains of this lower earth, as well as with the
+                    dawns and the sky itself; even cosmic functions are ascribed to them; and they
+                    adorn the heaven with stars. The Chinese conception of the <hi rend="italic"
+                        >Shin</hi> under the name of <hi rend="italic">Shin-to</hi> (Chinese <hi
+                        rend="italic">tao)</hi> or “ spirits’-way ” profoundly influenced Japanese
+                    thought from the 6th century <hi rend="smallcaps">a.d.</hi> onwards; and the
+                    great Shinto revival of the 18th century brought the doctrine again into
+                    prominence. The Japanese <hi rend="italic">Kami</hi> are the “ higher ” powers,
+                    the <hi rend="italic">superi,</hi> conceived as acting through nature on the one
+                    hand and government on the other. Just as the emperor is <hi rend="italic"
+                        >kami,</hi> and provincial officers of rank, so also mountains, rivers, the
+                    sea, thunder, winds, and even animals like the tiger, wolf or fox, are all <hi
+                        rend="italic">kami.</hi>
+                    <note anchored="true" place="bottom" type="authorial" n="12"> So the epithet <hi
+                            rend="italic">'el</hi> might be applied in Hebrew to men of might, to
+                        lofty cedars, or mountains of unusual height, as well as to the Supreme
+                        Being. </note> The spirits of the dead also become <hi rend="italic"
+                        >kami,</hi> of varying character and position; some reside in the temples
+                    built in their honour; some hover near their tombs; but they are constantly
+                    active, mingling in the vast multitude of agencies which makes every event in
+                    the universe, in the language of Motowori (1730-1801), the act of the Kami. They
+                    direct the changing seasons, the wind and the rain; and the good and bad
+                    fortunes of individuals, families and states are due to them. <note
+                        anchored="true" place="bottom" type="authorial" n="13"> See E. M. Satow, “
+                        Revival of Pure Shinto,” <hi rend="italic">Trans.</hi>
+                        <hi rend="italic">As.</hi>
+                        <hi rend="italic">Soc. of Japan,</hi> vol. iii. pt. 1 (1875), Appendix, p.
+                        26. </note> Everywhere from birth to death the entire life of man is
+                    encompassed and guided by the Kami, which are sometimes reckoned at 8,000,000 in
+                    number.</p>
+               <p>2. <hi rend="italic">Transition to Polytheism.—</hi> In such ways does the
+                    Poly-daemonism of early faith survive in the modern practice of religion. The
+                    process of enrolling the spirits of the dead in the ranks of what may be more or
+                    less definitely called “ gods ” may be seen in the popular usages of India at
+                    the present day, or traced in the pages of the <hi rend="italic">Peking
+                        Gazette</hi> under the direction of the Board of Rites, one of the most
+                    ancient branches of Chinese administration. Whether the higher polytheisms were
+                    produced in this fashion out of the cultus of the dead, may, however, be
+                    doubted. Many influences have doubtless contributed, and different races have
+                    followed different lines of development. No definite succession like the series
+                    of ages marked by the use of stone, bronze and iron can be clearly marked. But
+                    there must always have been some correspondence between the stages of social
+                    advance (or, in certain cases, of degeneration) and the religious interpretation
+                    of the world. The formation of clans and tribes, the transitions from the
+                    hunting to the pastoral life, and from the pastoral to the agricultural—the
+                    struggle with forest and swamp, the clearings for settlement, the protection of
+                    the dwelling-place, the safety of flocks and herds, the production of corn,—the
+                    migration of peoples, the founding of colonies, the processes of conquest,
+                    fusion, and political union—have all reacted on the elaboration of the higher
+                    polytheisms, before bards and poets, priesthoods and theological speculators,
+                    began to systematize and regulate the relations of the gods. Certain phases of
+                    thought may be more or less clearly indicated ; certain elements of race, of
+                    local condition, of foreign contact, may be distinguished with more or less
+                    historic probability; but no single key can explain all the wide diversity of
+                    phenomena. Broadly speaking it may be said that a distinction may be drawn
+                    between “ spirits ”” and “ gods,” but it is a distinction of degree rather than
+                    of kind, obvious enough at the upper end, yet shading off into manifold
+                    varieties of resemblance in the lower forms. Some writers, only recognize
+                    friendly agencies as gods; but destructive powers like the volcano, or the lords
+                    of the underworld, cannot be regarded as the protectors of the life of man, yet
+                    they seem in many mythologies to attain the full personalised stature of gods
+                    with definite names. Early Greek religion recognized a class of gods of Aversion
+                    and Riddance, αποτρόπαιοι and άποπομπαιοι. Neither the spirit nor the god is
+                    conceived as</p>
+               <p>ing, and is usually employed as its equivalent, but, like the Jewish use <hi
+                        rend="italic">(e.g.</hi> Luke xv. 18), tends to carry too definite religious
+                    associations with it.</p>
+                <pb xml:id="eb11-23-r02-0069" facs="encyclopaediabri23chisrich_0092.jp2"/>
+               <p>immaterial. They can take food, though the crudest form of this belief soon
+                    passes into the more refined notion that they consume the impalpable essence of
+                    the meals provided for them. The ancient Indian ritual for the sacrifice to the
+                    Fathers required the officiating priest to turn away with bated breath that he
+                    might not see the spirits engaged upon the rice-balls laid out for them. The
+                    elastic impalpable stuff of the spirit-body is apparently capable of compression
+                    or expansion, just as Athena can transform herself into a bird. The spirits can
+                    pass swiftly through the air or the water; they can enter the stone or the tree,
+                    the animal or the man. The spirit-land of the Ibo on the Lower Niger had its
+                    rivers, forests or hills, its towns and roads, as upon earth: <note
+                        anchored="true" place="bottom" type="authorial" n="14"> Leonard, <hi
+                            rend="italic">The Lower Niger and its Tribes</hi> (1906), p. 186.
+                    </note> the spirits of the Mordvinian mythology, created by Chkai, not only
+                    resembled men, they even possessed the faculty of reproduction by
+                    multiplication. <note anchored="true" place="bottom" type="authorial" n="15">
+                        Mainof, “ Les Restes de la mythologie mordvine,” <hi rend="italic">Journal
+                            de la Soc. Finno-Ougrienne,</hi> v. (1889), p. 102. </note> The Finns
+                    ascribed a <hi rend="italic">haltia</hi> or genius to each object, which could,
+                    however, guard other individuals of the same species. This is the beginning of
+                    the species-god, and implies a step of thought comparable to the production in
+                    language of general terms. These protecting spirits were free beings, having
+                    form and shape, hut not individualized; while above them rose the higher deities
+                    like the forest-god Tapio and his maiden Hillervo, protectress of herds, or Ahto
+                    the water-god who gradually took the place of Vesi, the actual element
+                    originally conceived as itself divine, and ruled over the spirits of lakes and
+                    rivers, wells and springs. <note anchored="true" place="bottom" type="authorial"
+                        n="16"> Castrén, <hi rend="italic">Finn. Mythol.</hi> pp. 92 ff., 72.
+                    </note> The Finns came to apply to the. upper gods the term Yumala which
+                    originally denoted the living sky; the Samoyedes made the same use of Num, and
+                    the Mongols of Tengri. <note anchored="true" place="bottom" type="authorial"
+                        n="17"> Ibid. pp. 7, 14, 17, 24. </note> Above the innumerable of the Gold
+                    Coast rose</p>
+               <p>Nyongmo, the Sky-god, giver of the sunshine and the rain. The Yoruba-Speaking
+                    peoples generalized the spirits of mountain and hill into Oke, god of heights;
+                    and the multitude of local sea-gods on the western half of the slave coast was
+                    fused into one god of the Ocean, Olokun. <note anchored="true" place="bottom"
+                        type="authorial" n="18"> A. B. Ellis, <hi rend="italic">The Yoruba-Speaking
+                            Peoples</hi> (1894), P- 289. </note> The Babylonian theology recognized
+                    a <hi rend="italic">Zi</hi> or “ spirit ” in both men and gods, somewhat
+                    resembling the Egyptian “ double ” or <hi rend="italic">ka</hi> ; spirits are
+                    classed as spirits of heaven and spirits of earth; but the original identity of
+                    gods and spirits may be inferred from the fact that the same sign stands before
+                    the names of both. <note anchored="true" place="bottom" type="authorial" n="19">
+                        Jastrow, <hi rend="italic">Religion of Babylonia and Assyria</hi> (1898), p.
+                        181. The </note> Out of the vast mass of undifferentiated powers certain
+                    functional deities appear; and the Kami of Japan to-day who preside over the
+                    gilds and crafts of industry and agriculture, over the trees and grasses of the
+                    field, the operations of the household, and even the kitchen-range, the
+                    saucepan, the rice-pot, the well, the garden, the scarecrow and the privy, have
+                    their counterparts in thé lists of ancient Rome, the <hi rend="italic"
+                        >Migitamenla</hi> over whose contents Tertullian and Augustine made merry.
+                    The child was reared under the superintendence of <hi rend="italic">Educa</hi>
+                    and <hi rend="italic">Potina. Abeona</hi> and <hi rend="italic">Adeona</hi>
+                    taught him to go out and in. <hi rend="italic">Cuba</hi> guarded him when he was
+                    old enough to exchange a cradle for a bed. <hi rend="italic">Ossipaga</hi>
+                    strengthened his hones; <hi rend="italic">Leväna</hi> helped him to get up, and
+                        <hi rend="italic">Slalina</hi> to stand. <note anchored="true"
+                        place="bottom" type="authorial" n="20"> Zufiis applied the term ö-Ädt “
+                        All-Life ” or ” the Beings ” to all supernatural beings, men, animals,
+                        plants, and many objects in nature regarded as personal existences, as well
+                        as to the higher anthropomorphic powers known as “ Finishers or Makers of
+                        the Paths of Life," <hi rend="italic">Report of Bureau of Ethnol.</hi>
+                        (1883), p. 11. On the distinction between “ gods ” and “ spirits,” cf. Ed.
+                        Meyer, <hi rend="italic">Gesch. des Alterthums,</hi> 2nd ed. Band i. erste
+                        Haelfte (1907), p. 97 ff. </note> There were 'powers ptotecting the
+                    threshold, the door and the hinge: and the duties of the house, the farm, the
+                    mill, had each its appointed guardian. But such powers were hardly persons. The
+                    settler who went into the woods might know neither the name nor the sex .of the
+                    indwelling <hi rend="italic">numen</hi> ; “si deus si dea,” “ sive mas sive
+                    femina,” ran the old formulae. <note anchored="true" place="bottom"
+                        type="authorial" n="21"> Tert. <hi rend="italic">De Anima,</hi> 39 Aug. <hi
+                            rend="italic">De Civ. Dei,</hi> iv. 11, &amp;c. </note> So the Baals of
+                    the Semitic peoples constituted a group of powers fertilizing the land with
+                    water-springs, the givers of com and wine and oil, out of which under Xonditions
+                    of superior political development a high-god like the Tyrian Baal, the majestic
+                    City-King, might he evolved. The Celts who saw the world peopled with the
+                    spirits of trees and animals, rocks, mountains, springs and rivers, grouped them
+                    in classes like the Dervonnae (oak-spirits), the Niskai (water-spirits), the
+                    Proximae, the Matronae (earth-goddesses) <note anchored="true" place="bottom"
+                        type="authorial" n="22"> On the Dei Certi and the Dei Incerti, see von
+                        Domaszewski in the <hi rend="italic">Archivfur Religionswiss.,</hi> x.
+                        (1907), pp. 1-17. </note> and the like. Below the small band of Teutonic
+                    divinities were the elves of forest and field, the water-elves or nixes and
+                    spirits of house and home. The Vedic deities of the nobler sort, the shining <hi
+                        rend="italic">devas,</hi> the <hi rend="italic">asuras</hi> (the “ breathers
+                    ” or living, perhaps to be identified with the Scandinavian <hi rend="italic"
+                        >oesir)</hi> rose above a vast multitude of demonic powers, many of them
+                    doubtless derived from the local customs and beliefs of the native races whom
+                    the immigrant Aryans subdued. In the earliest literary record of Greek religion
+                    Homer distinguishes between the and the δαίμων, the personalized god and the <hi
+                        rend="italic">numen or</hi> divine power. In Homer the element of time is
+                    definitely recognized. The gods are the “ Immortals.” They arc born, and their
+                    parentage is known, but they do not die. Zeus is not self-existent in the sense
+                    in which the Indian Brahmä is <hi rend="italic">svayambhu,</hi> but certain
+                    questions have been by implication asked and answered, which the demonology of
+                    the savage has not yet raised. But behind Homcr stretches the dim scene of
+                    pre-Hellenic religion, and the conflict of elements “ Pelasgic,” oriental and
+                    Hellenic, out of which the Homeric religion emerged; and beneath the Homeric
+                    religion how many features of the religion of ghosts and nature-spirits survived
+                    in popular usage and the lower cults! <note anchored="true" place="bottom"
+                        type="authorial" n="23"> Cf. the groups of “ Mothers ” in modem India, of
+                        various origins, Crooke, <hi rend="italic">Popular Religion and
+                            Folklore</hi> (2), i. 111. </note> When Herodotus (ii. 53) tried to
+                    trace the origin of the beliefs around him, he found his way back to an age
+                    before Hesiod or Homer, when the gods were nameless. To that age the traditions
+                    preserved at Dodona bore witness; and the designations of special groups like
+                    the <hi rend="italic">Bcol</hi> μέγ <hi rend="italic">ιστοί, Beol μαλίχιοι,
+                        Bcol</hi> πραξιδικαι, or, possibly, thé Venerable Goddesses <hi
+                        rend="italic">(Bcai σ€μναΙ)</hi> of Athens, point to a mode of thought when
+                    the divine Powers were not definitely individualized. They are just at the point
+                    of transition from the ranks of spirits to the higher classes of the gods. As
+                    they had no names, they had no relations. Nor had any images yet been made of
+                    them. They were associated with hallowed trees, with sacred stones and pillars,
+                    out of which came the square rough-hewn Hermae which were anointed with oil Hke
+                    the sacred stone attributed by legend to Jacob at Bethel. <note anchored="true"
+                        place="bottom" type="authorial" n="24"> Cf. Andrew Lang, <hi rend="italic"
+                            >Myth, Ritual and Religion</hi> ; and Miss Harrison, <hi rend="italic"
+                            >Prolegomena to the Study OfGreek Religion.</hi>
+                    </note> By what processes the Hellenic immigration introduced new deities and
+                    the Greek pantheon was slowly formed, can only be conjecturally traced with the
+                    help of archaeology. But Herodotus and Aeschylus were well aware that the
+                    religion of Greece had not been uniformly the same; and the gods whom they knew
+                    had been developed out of intercourse with other peoples and the succession of
+                    races in the obscure and distant past.</p>
+               <p>3. <hi rend="italic">Polytheism.—</hi> The lower and unprogressive religions
+                    practically remain in the polydaemonistic stage, though not without occasionally
+                    feehng the stimulus of contact with higher faiths, Hke some of the West African
+                    peoples in the presence of the Mahommedan advance. Among the more progressive
+                    races, on the other hand, continual processes of elevation and decline may be
+                    observed, and the activities of the greater gods are constantly being enriched
+                    with new functions. Personal or social experiences of the satisfaction of some
+                    desire or escape from some danger are referred to some particular deity.
+                    Elements of race-consciousness help to shape the outlook on nature or life: and
+                    slight differences of linguistic use in the coining of descriptive terms
+                    sometimes lead to the multipHcation of divine forms. Exacter observation of
+                    nature; closer attention to its contrasts of life and death, or Hght and
+                    darkness, or male and</p>
+                <pb xml:id="eb11-23-r02-0070" facs="encyclopaediabri23chisrich_0093.jp2"/>
+               <p>female; the distinction between its permanent objects, and its occasional or
+                    recurring operations; the recognition that behind sudden manifestations of
+                    power, like the thunder-storm, there are steady forces and continuous cosmic
+                    agencies at work—lead to the graduaI rise of the higher deities. And from the
+                    social side the development of law, the influence of city life, the formation of
+                    priesthoods, the connexion of particular deities with the fortunes of dynasties
+                    or the vicissitudes of nations, the processes of migration, of conquest and
+                    political fusion, the deportations of vanquished peoples, even the sale of
+                    slaves to distant lands and the growth of trade and travel, all contribute to
+                    the processes which expand and modify different pantheons, and determine the
+                    importance of particular deities. In the midst of the bewildering variety, where
+                    aIl types co-exist together and act and react on each other, it is impossible to
+                    do more than point out some obvious groups receiving their special forms chiefly
+                    from the side (1) of nature, (2) of human life, and (3) from moral or
+                    theological speculation. Divine persons, objects or powers, connected with
+                    ritual, are not here considered, such as the Brahman priests who claimed to be
+                        <hi rend="italic">manushyadeväh</hi> (human-gods), or the sacred soma-juice
+                    which grew by strange analogies into a mysterious element, linking together
+                    heaven and earth.</p>
+               <p>I. On the side of Nature the lowest rank (1) seems to belong to what Usener has
+                    designated “ momentary ” or “ occasional ” gods. <note anchored="true"
+                        place="bottom" type="authorial" n="25">
+                        <hi rend="italic">Gotternamen,</hi> Bonn, 1896, p. 279 ff. But cp. Dr
+                        FarnelVs essay “ On the Place of the Sonder-Gotter in Greek Polytheism,” in
+                            <hi rend="italic">Anthropological Essays presented to Edward Burnett
+                            Tylor</hi> (1907), p. 81. </note> They embody for the time being a vague
+                    consciousness of the divine, which is concentrated for some single act into an
+                    outward object, like a warrior’s spear or the thunderbolt, <note anchored="true"
+                        place="bottom" type="authorial" n="26"> Ibid. pp. 285, 286. </note> or the
+                    last sheaf of com into „ which the Corn-Mother has been driven. <note
+                        anchored="true" place="bottom" type="authorial" n="27"> Frazer, <hi
+                            rend="italic">The Golden Bough</hi> (2), ii. 170-1. </note> (2) Above
+                    these, to use again Useneris nomenclature, <note anchored="true" place="bottom"
+                        type="authorial" n="28">
+                        <hi rend="italic">Gdtternamen</hi> p. 75. </note> are the “ special ” or
+                    functional ” gods, “ departmental gods,” as Mr Lang has called them. Such were
+                    some of the deities of the <hi rend="italic">Indigitarnenta</hi> already
+                    compared with the Japanese Kami. Among them, for example, were twelve deities of
+                    ploughing and harvest operations, who were invoked with Tellus and Ceres. (3)
+                    Another class may be seen in the species-deities previously named; the Samoan
+                    gods which could become incarnate as a heron or an owl, did not die with
+                    particular birds. A dead owl was not a dead god; he yet lived in all other owls.
+                        <note anchored="true" place="bottom" type="authorial" n="29"> Turner, <hi
+                            rend="italic">Samoa,</hi> 1884, p. 21. </note>
+               </p>
+               <p>(4) The worship of trees, plants and animals is a particular phase of the wider
+                    series of nature-cults, only named here because of its frequency and its obvious
+                    survivals in some of the higher polytheisms, where, as in Egypt, the Apis bulls
+                    were.worshipped; or where, as in Mesopotamia, the great gods are partly
+                    symbolized by animal forms; or where, as in Israel, Yahweh might be represented
+                    as a bull; or where, as in Greece, such epithets as Dendrites and Endendros
+                    preserved traces of the association of Dionysus and Zeus with vegetation; while
+                    sacred animals like the serpents of Aesculapius were preserved in the temples.
+                        <note anchored="true" place="bottom" type="authorial" n="30"> Cf. de Visser,
+                            <hi rend="italic">Die nicht Menschen-Gestaltigen Götter der
+                            Griechin</hi> (Leiden, 1903). </note>
+               </p>
+               <p>(5) The higher elemental gods sometimes, like the sun, as the Indian Surya, the
+                    Egyptian Rê, the Babylonian Shamash (Samas), the Greek Helios, retain their
+                    distinct connexion with the visible object. It was naturally more easy for a
+                    relatively spiritual worship to gather round a god whose name did not
+                    immediately suggest a familiar body. No one ever thought of confessing sin, for
+                    instance, to a river. But the da*ily survey of the sun (occasionally also the
+                    function of the moon as measurer of time), together with his importance for
+                    life, secured him a high moral rank; and Rê, united with the Theban Ammon,
+                    became (under the New Empire) the leading god of Egypt for a thousand years, “
+                    He who hath made all, the sole One with many hands.” Other deities, like Zeus,
+                    rise to the head of a monarchical polytheism, in which their physical base is
+                    almost,</p>
+               <p>if not quite, forgotten in cosmic and moral grandeur. The gods are often
+                    arranged in groups, three, seven and twelve being frequent numbers. Egyptian
+                    summaries recognized gods in the sky, on earth and in the water; gods of the
+                    north and south, the east and west, gods of the field and the cities. Indian
+                    theologians classified them in three zones, earth, air and sky. Babylonian
+                    speculation embraced the world in a triad of divine powers, Anu the god of
+                    heaven, Bel of earth and Ea of the deep; and these became the symbols of the
+                    order of nature, the divine embodiments of physical law. <note anchored="true"
+                        place="bottom" type="authorial" n="31"> Jastrow, <hi rend="italic">Rel. of
+                            Babylonia,</hi> p. 432. </note> Sometimes the number three is reached by
+                    the distribution of the universe into sky, earth and UnderworId, and the gods of
+                    death claim their place as the rulers of the world to come. Among these deities
+                    all kinds of relationships are displayed; consorts must be provided for the
+                    unwedded, and the family conception, as distinct from the regal, presents a
+                    divine father, mother and child. The Ibani in Southern Nigeria recognized Adum
+                    the father-god, Okoba the mother-god and Eberebo the son-god. <note
+                        anchored="true" place="bottom" type="authorial" n="32"> Leonard, <hi
+                            rend="italic">The Lower Niger and its Tribes,</hi> p. 354. </note> In
+                    Egypt, Osiris, Isis and Horus proved an influential type. Perhaps at a
+                    relatively earIier stage maternity alone is emphatically asserted, as in the
+                    figure of the Cretan Mother, productive without distinctly sexual character.
+                        <note anchored="true" place="bottom" type="authorial" n="33"> Cf. Farneil,
+                            <hi rend="italic">Cults of Greece,</hi> iii. 295. </note> Or, again,
+                    maternity disappears, while parenthood survives, and causation is embodied in a
+                    universal “ Father of all that are and are to be,” like the Indian Brahma in the
+                    days of Gotama the Buddha.” <note anchored="true" place="bottom"
+                        type="authorial" n="34">
+                        <hi rend="italic">Digha Nikaya,</hi> i. 18. </note>
+               </p>
+               <p>II. On the human side polytheism receives fresh groups in connexion with the
+                    development of social institutions and national feeling. (1) In the family the
+                    hearth-fire is the scene of the protecting care of deity; the gods of the
+                    household watch over its welfare. Each Roman householder had his <hi
+                        rend="italic">Genius,</hi> the women their <hi rend="italic">Junones.</hi>
+                    These stood at a higher level than the “ occasional gods,” having permanent
+                    functions of supervision. (2) From the household a scries of steps embodied the
+                    divine power in higher forms for social and political ends. Hestia presided over
+                    cities; there was even a common Hestia for all Greece. The <hi rend="italic"
+                        >fravashi</hi> or ideal type, the genius of both men and gods in the Zend
+                    Avesta (possibly connected originally with the cultus of the dead <note
+                        anchored="true" place="bottom" type="authorial" n="35"> This is denied by
+                        Tiele, <hi rend="italic">Religion im Altertum,</hi> tr. Gehrich, ii. (1898),
+                        p. 259. </note> ), rises in successive ranks from the worshipper’s own
+                    person through the household, the village, the district and the province, up to
+                    the throne of Ahura himself. <note anchored="true" place="bottom"
+                        type="authorial" n="36"> Cf. <hi rend="italic">Yasna,</hi> 4xxi. <hi
+                            rend="italic">iSfS.B.E.</hi> xxxi. p. 331 ; and Soderblom <hi rend="sup"
+                            >t</hi> S essay in the <hi rend="italic">Rev. de Vhist. des
+                            religions,</hi> xxxix. (1899), pp. 229, 373. </note> The Chinese Shin
+                    were similarly organized; so (less elaborately) were the Japanese <hi
+                        rend="italic">Kami</hi> ; <note anchored="true" place="bottom"
+                        type="authorial" n="37"> Hirata’s morning prayer in the last century
+                        included 800 myriads of celestial <hi rend="italic">kami,</hi> 800 myriads
+                        of ancestral <hi rend="italic">kami,</hi> the 1500 myriads to whom are
+                        consecrated the great and small temples in all provinces, all islands, and
+                        all places of the great land of eight islands, &amp;c. </note> and the Roman
+                        <hi rend="italic">lares,</hi> the old local land-gods, found their highest
+                    co-ordinating term in the <hi rend="italic">Lares Augusti,</hi> just as the
+                    Genius was extended to the legion and the colony, and finally to Rome itself.
+                    (3) In the case of national deities the tie between god and people is peculiarly
+                    close, as when Yahweh of Israel is pitted against Chemosh of Ammon (Judges xi.
+                    24). The great gods of Greece, in their functions as “ saviours ” and
+                    city-guardians, acquire new moral characters, and become really different gods,
+                    though they retain the old names. Ashur rises into majestic sovereignty as the “
+                    Ruler of all the gods,” the supreme religious form of Assyrian sway: when the
+                    empire falls beneath the revived power of Babylon, he fades away and disappears.
+                    (4) The earthly counterpart of the heavenly monarch is the divine king, who may
+                    be traced back in Egypt, for example, to the remotest antiquity, <note
+                        anchored="true" place="bottom" type="authorial" n="38"> Moret, <hi
+                            rend="italic">Du caractère religieux de la royauté pharaonique</hi>
+                        (1902). For instances in the lower culture see Frazer, <hi rend="italic"
+                            >Golden Bough</hi> (2), i. 140 ff. </note> and who survives to-day among
+                    the civilized powers in the emperor of Japan (anciently <hi rend="italic"
+                        >Arahito-gami,</hi> “ incarnate Kami ”). “To the end of time,”</p>
+                <pb xml:id="eb11-23-r02-0071" facs="encyclopaediabri23chisrich_0094.jp2"/>
+               <p>said Motowori (18th century), “ the Mikado is the child of the Sun-goddess.” (5)
+                    The dead hero (historical or mythic) signalizes his power by gracious saving
+                    acts; and Heracles, Asclepius, Amphiaraus, and others pass into the ranks of the
+                    gods, which are thus continually recruited from below.</p>
+               <p>HI. A third great group rises out of the sentiments and affections of man, or
+                    the moral energies which he secs working in human life. (1) The Vedic <hi
+                        rend="italic">Craddhä,</hi> “ faith,” the Greek <hi rend="italic"
+                        >Metameleia,</hi> “repentance,” <note anchored="true" place="bottom"
+                        type="authorial" n="39"> Worshipped at Argos. Usener, <hi rend="italic"
+                            >Gotternarnen,</hi> p. 366. </note> the Latin <hi rend="italic"
+                        >Spes,</hi> and a band of other figures, represent the dispositions of the
+                    heart; Nemesis and Nike and Concordia and their kin belong to a somewhat
+                    different sphere, the divine powers avenging, conquering, harmonizing the
+                    counterparts of the “ departmental ” gods in the field of moral agencies. (2)
+                    Over these theological speculation erects a few lofty and impressive forms;
+                    sometimes below the highest, like Vohu Mano, “ the Good Mind ” of Ahura Mazda;
+                    or the Bodhisattva Avalokitccvara, who vowed not to enter into final peace till
+                    every creature had received the saving truth; sometimes supreme, like Brahma or
+                    Prajapati (“ lord of creatures ”) in the early Brahmanic theology; or Adi
+                    Buddha, or the Zervan Akarana, “ boundless time,” of a kind of Persian
+                    gnosticism; or the Geôs <hi rend="italic">νψιστος</hi> whose worship appears
+                    among other syncretistic cults of the Roman empire.</p>
+               <p>4. <hi rend="italic">The Order of Nature.—</hi> Polytheism is here on the way to
+                    monotheism, and this tendency receives significant support from the recognition
+                    of an order in nature which is the ground and framework of social ethics. Not
+                    only does a sky-god like Varuna, or a sun-god like the Babylonian Shamash,
+                    survey all human things, and take cognizance of the evil-doer, but the daily
+                    course of the world is itself the expression of an intellectual and moral power.
+                    In the Chinese combination of Heaven and Earth as the parents and nourishers of
+                    all things, the energy and action lie with Tien, Earth being docile and
+                    receptive. Tien is intelligent and all-observing, and its “ sincerity ” or
+                    steadfastness, displayed in the courses of the sun and moon and the succession
+                    of the seasons, becomes the basis of right human conduct, personal and social.
+                    The “ way ” of Heaven, the “ course ” of Heaven, the “ lessons ” of Heaven, the
+                    law or “ decree ” <hi rend="italic">(ming)</hi> of Heaven, are constantly cited
+                    as the pattern for the emperor and his subjects. This conception is even
+                    reflected in human nature: “ Heaven in giving birth to the multitude of the
+                    people, to every faculty and relationship affixed its laws ” <hi rend="italic"
+                        >(Shi King,</hi> III. iii. 6; cf. IV. iii. <hi rend="italic">2,</hi> tr.
+                    Legge), and the “ Grand Unity ” forms the source of all moral order <hi
+                        rend="italic">(Li Ki,</hi> in <hi rend="italic">Sacred Books of lhe
+                        East,</hi> xxvii. p. 387). Indian thought presented this Order in a
+                    semi-personal form. The great elemental gods imposed their laws <hi
+                        rend="italic">(dhaman, dharman, vrata)</hi> on the visible objects of
+                    nature, the flow of rivers, the march of the heavenly bodies across the sky. But
+                    the idea of Law was generalized in the figure of <hi rend="italic">Rita</hi>
+                    (what is “ fitted ” or “ fixed or the “ course ” or “ path ” which is
+                    traversed), whose Zend equivalent <hi rend="italic">asha</hi> shows that the
+                    conception had been reached before the separation of the Eastern Aryans produced
+                    the migrations into India and Iran. <note anchored="true" place="bottom"
+                        type="authorial" n="40"> Cf. Max Müller, <hi rend="italic">Lectures on the
+                            Origin and Growth of Religion</hi> (Hibbert Lect., 1878), v., and the
+                        Vedic treatises of Ludwig, Ber-gaigne and Wallis. </note> In the <hi
+                        rend="italic">Rig Veda</hi> the gods (even those of storm) are again and
+                    again described as “born from the Rita,” or born in it, according to it, or of
+                    it. Even Heaven and Earth rejoice in the womb or lap of the Rita. In virtue of
+                    the mystic identity between the cosmic phenomena and sacrifice, Rita may be also
+                    viewed as the principle of the cultus; and from that sphere it passes into
+                    conduct and acquires the meaning of morality and is equated with what is “
+                    true.” The fundamental idea remains the same in the Zend Asha, its philological
+                    counterpart, but it is applied with a difference. Its form is more personal, for
+                    Asha is one of the six Holy Immortals round the throne of Ahura Mazda
+                    (Auramazda). In the primeval conflict between the powers of good and evil, the
+                    Bounteous Spirit chose Asha, the Righteous Order which</p>
+               <p>knit the world together and maintained the stars. <note anchored="true"
+                        place="bottom" type="authorial" n="41">
+                        <hi rend="italic">Yasna <hi rend="sub">i</hi></hi> xxx. 5; <hi rend="italic">Sacred Books of the East,</hi> xxxi. p. 30;
+                        cf. pp. 44, 5b 248. </note> The immediacy of the relation between Ahura and
+                    Asha is implied in the statements that Ahura created Asha and that he dwells in
+                    the paths which proceed from Asha; and when he created the inspired word of
+                    Reason, Asha consented with him in his deed. In its ritual form Asha becomes the
+                    principle of sacrifice, and hence of holiness, first ritual and then moral. Like
+                    Rita, it rises into an object of worship, and in its most exalted aspect <hi
+                        rend="italic">(Asha vahisia,</hi> the “ best ” Asha, most excellent
+                    righteousness) it is identified with Ahura himself, being fourth among his
+                    sacred names <hi rend="italic">(Orrnazd Yasht,</hi> § 7; <hi rend="italic"
+                        >S.B.E.</hi> xxiii. p. 25). Egyptian speculation, in like manner,
+                    impersonated the conceptions of physical and moral order as two sides of a
+                    fundamental unity in the goddess Maât. Derived from the verb <hi rend="italic"
+                        >mä,</hi> “ to stretch out,” her name denoted the ideas of right and rule,
+                    and covered the notions of order, law, justice and truth, which remained
+                    steadfast and unalterable. Mythologically she was the daughter (or the eye) of
+                    the sun-god Re; but she bçcame Lady of Heaven and Queen of Earth, and even Lady
+                    of the land of the West, the mysterious habitation of the dead. Each of the
+                    great gods was said to be lord or master of Maât; but from another point of view
+                    she “ knew no lord or master,” and the particular quality of deity was expressed
+                    in the phrase <hi rend="italic">anx em maät,</hi> “ living by Maât,” which was
+                    applied to the gods of the physical world, the sun and moon, the days and hours,
+                    as well as to the divine king. She was solemnly offered by the sovereign to his
+                    god; and the deity replied by laying her within the heart of his worshipper “to
+                    manifest her everlastingly before the gods.” So in the famous scene of the
+                    weighing of the soul, which first appears pictorially under the New Empire, she
+                    introduces the deceased before the forty-two assessors of the heavenly judge,
+                    Osiris, and presides over the scale in which his actions and life are weighed.
+                    From the zenith to the realm of the departed she is the “queen of all gods and
+                    goddesses.” <note anchored="true" place="bottom" type="authorial" n="42"> Cf.
+                        Renouf, <hi rend="italic">Hibbert Lectures,</hi> p. 119; Brugsch, <hi
+                            rend="italic">Rel. und Mythol.,</hi> p. 477; Wiedemann, <hi
+                            rend="italic">Ann. du Musée Guirnet <hi rend="sub">i</hi></hi> x. p. 561; Budge, <hi rend="italic">Gods of Egypt,</hi> i. p. 416.
+                    </note> The Hellenic polytheism of Homer and Hesiod is already at work upon
+                    similar ideas, and a whole group of mythic personifications slowly rises into
+                    view representing different phases of the same fundamental conception. Themis
+                    (root 0e=Sanskr. <hi rend="italic">dha,</hi> as in <hi rend="italic"
+                        >dhäman)</hi> appears in Homer as the embodiment of what is fit or right;
+                        <note anchored="true" place="bottom" type="authorial" n="43"> Cf. AMs
+                        UijLttaresOd. xvi. 403 ; cf. Apollo, <hi rend="italic">Horn. Hymn.</hi> 394.
+                    </note> she convenes or dismisses assemblies, she even keeps order at the
+                    banquet of the gods. Next, Hesiod supplies a significant biography. She is the
+                    daughter of Ouranos and Gaia; and after Metis she becomes the bride of Zeus.
+                        <note anchored="true" place="bottom" type="authorial" n="44">
+                        <hi rend="italic"/> @@@ <hi rend="italic">Theog.</hi> 135, 901. </note>
+                    Pindar describes her as born in a golden car from the primeval Oceanus, source
+                    of all things, to the sacred height of Olympus to be the consort of Zeus the
+                    saviour; and she bears the same august epithet, as the symbol of social justice
+                    and the refuge for the oppressed. <note anchored="true" place="bottom"
+                        type="authorial" n="45">
+                        <hi rend="italic"/> @@@ <hi rend="italic">Fr.</hi> 6, 7 ; <hi rend="italic"
+                            >Ol.</hi> viii. 29. </note> Law was thus the spouse of the sovereign of
+                    the sky, but Aeschylus identified her with the Earth (worshipped at Athens as
+                    Ge-Themis), not only the kindly Mother, but the goddess who bound herself by
+                    fixed rules or laws of nature and life. <note anchored="true" place="bottom"
+                        type="authorial" n="46"> Farnell, however, supposes that Ge acquired the
+                        cult-appellative through her prophetic character <hi rend="italic">(Cults of
+                            the Greek States,</hi> iii. p. 12). The union of Zeus and Themis is,
+                        then, a later equivalent of the marriage of Zeus and Earth (ibid. p. 14).
+                    </note> For the cultus of the earth as the source of fertility was associated
+                    with the maintenance of the family, with the operations of agricuiture and the
+                    social order of marriage. So Themis became the mother of the seasons; the
+                    regular sequence of blossom and fruit was her work; and Good Order, Justice and
+                    Peace were her offspring. <note anchored="true" place="bottom" type="authorial"
+                        n="47"> Paus. v. 17; Hes. <hi rend="italic">Theog.</hi> 901 ; Pindar, <hi
+                            rend="italic">Ol.</hi> xiii. 6; ix. 26. </note> By such conceptions the
+                    Hellenic polytheism was moralized; the physical character of the greater gods
+                    fell into the background, and the sculptor’s art came to the aid of the poet by
+                    completely enduing them with personality.</p>
+                <pb xml:id="eb11-23-r02-0072" facs="encyclopaediabri23chisrich_0095.jp2"/>
+               <p>5. <hi rend="italic">Transition lo Monotheism.—From</hi> the higher Polytheism
+                    an easy step leads to some form of Monotheism. The transition may be effected in
+                    various ways. Max Müller observed the Vedic poets addressing themselves to the
+                    several objects of their devotion, as if each occupied the field alone. Varuna
+                    or Indra was for the time being the only god within the worshipper’s view; and
+                    to this mode of thought he gave the name Heno-theism. <note anchored="true"
+                        place="bottom" type="authorial" n="48"> Or Kathenotheism, a term which did
+                        not succeed in gaining permanent support, <hi rend="italic">Hibbert
+                            Lect.,</hi> p. 271. </note> It obviously reappears elsewhere, as it is
+                    the natural attitude of prayer, and may be seen in the pious homage of the
+                    pilgrims to the Virgin of Loretto or Einsiedeln. Pfleiderer employed the word to
+                    denote a relative monotheism like that of the early religion of Israel, whose
+                    teachers demanded that the nation should worship but one god, Yahweh, but did
+                    not deny the existence of other gods for other peoples. Yet once again the term
+                    has been applied to characterize a whole group of religions, like the
+                    Indo-Germanic, which are ultimately founded on the unity of the divine nature in
+                    a plurality of divine persons. A designation of such doubtful meaning it seems
+                    better (with Chantepie de la Saussaye) to abandon. But the unifying process may
+                    advance along different lines. The deities of different local centres may be
+                    identified; many such combinations took place in Egypt, and Isis in late days
+                    served to her votaries as the unitary principle which appeared in one figure
+                    after another of whole pantheons. Again, the gods may be viewed as a collective
+                    totality, like the “ All-gods ” of the Vedic poets, or as at Olympia where there
+                    was a “ common altar for all the gods” (cf. the frequent Roman dedication in
+                    later days, “ Jovi optimo maximo caeterisque dis immortalibus ”). Or the
+                    relation between the inferior deities and the most exalted may be conceived
+                    politically and explained by Tertullian’s formula, “ Imperium penes unum,
+                    officia penes multos.” One particular god may be eminent enough, like Zeus, to
+                    rise above all others, and supply cultivated thought with a name for the supreme
+                    power; and this may be strengthened by the national motive as in the case of
+                    Israel. Or philosophic theology may penetrate to an abstract conception of
+                    deity, like the Babylonian <hi rend="italic">'iluth,</hi> or the Vedic <hi
+                        rend="italic">devatva</hi> and <hi rend="italic">asuratva',</hi> and some
+                    seer may have the courage and insight to formulate the principle that “ the
+                    great <hi rend="italic">asuratva</hi> of the <hi rend="italic">devas</hi> is one
+                    ” <hi rend="italic">(R.V.</hi> iii. 55. 1). “ The One with many names ” was
+                    recognized alike in India and in Greece; “πολλών <hi rend="italic">ονομάτων
+                        μορφή μία,”</hi> says Aeschylus, almost in the words of the Vedic poet.
+                        <note anchored="true" place="bottom" type="authorial" n="49">
+                        <hi rend="italic">R. V.</hi> i. 164. 46, “ Men call him Indra, Mitra,
+                        Varuna, Agni. . . . Poets name variously what is but one.” </note>
+                    Historians have usually recognized only three monotheistic religions, Judaism,
+                    Christianity and Islam. The Christian apologists of the 2nd century, however,
+                    found plenty of testimony to their doctrine of the unity of God in the writings
+                    of Greek poets and philosophers; it was a commonplace in the revival under the
+                    Empire; and among the group of religions embraced under the name Buddhism more
+                    than one form must be ranked as monotheistic. The idealist philosophy of the
+                    Prajna Päramitä in the system of the “ Great Vehicle ” declared that “ every
+                    phenomenon is the manifestation of mind ” (Beal, <hi rend="italic">Catena,</hi>
+                    p. 303). In the “ Lotus of the Good Law ” <hi rend="italic">(S.B.E.</hi> xxi.)
+                    the Buddha is the “ Father of the World,” “ Self-born ” or Uncreate (like the
+                    eternal Brahmä of the Hindu theology), the protector of all creatures, the
+                    Healer (Saviour) of the sickness of their sins. These types have reappeared in
+                    Japan. Nichiren taught a philosophical monism in the 13th century which is the
+                    basis of a vigorous sect at the present day; and the “ True Sect of the Pure
+                    Land;” founded by his older contemporary Shin-ran, and now the most numerous,
+                    wealthy and powerful of the Buddhist denominations, has dropped the original
+                    Gotama altogether out of sight, and permits worship to Amida alone, the sublime
+                    figure of “ Boundless Light,” whose saving power is appropriated by faith. Here
+                    is a monotheism of a definite and clear-cut type, arising apparently by
+                    spontaneous development apart from any external impulse. <note anchored="true"
+                        place="bottom" type="authorial" n="50"> Cf. Carpenter, “ Japanese Buddhism,”
+                        in <hi rend="italic">Hibbert Journal,</hi> April 1906, p. 522. </note> On
+                    the other hand, the mono</p>
+               <p>theism of Judaism was subject to serious qualifications. An exuberant demonology
+                    admitted all kinds of interfering causes in the field of human life. Above man
+                    on earth rose rank after rank of angels in the seven heavens. These were of
+                    course created, but they were in their turn the agents of the phenomena of
+                    nature, “ the angels of the spirit of fire and the angels of the spirit of the
+                    winds, and the angels of the spirits of the clouds and of darkness and of snow
+                    and of hail and of hoarfrost, and the angels of the voices and of the thunder
+                    and of the lightning, and the angels of the spirits of cold and of heat, and of
+                    winter and of spring and of autumn and of summer ” <hi rend="italic"
+                        >(Jubilees,</hi> tr. R. H. Charles, ii. 2). These powers are of a
+                    well-marked animistic type, and correspond to the Chinese Shin, save that they
+                    were not incorporated in the cultus. Higher in rank came various mediating
+                    forms, like Wisdom, Memra (the Word) or Shekinah (the Presence), more or less
+                    definitely personalized. IMahom-medanism still recognizes innumerable <hi
+                        rend="italic">jinn</hi> peopling the solitudes of the desert, and over the
+                    grave of the deceased saint a little mosque is built, and prayers are offered
+                    and miracles performed. <note anchored="true" place="bottom" type="authorial"
+                        n="51"> Cf. Goldziher, <hi rend="italic">Rev. de l’Hist. des Rel.</hi> ii.
+                        257 ; Weir, <hi rend="italic">The Shaikhs of Morocco</hi> (1904). </note>
+                    Christianity has, in like manner, in the course of its long and eventful
+                    history, admitted numerous agencies within the sphere of superhuman causation.
+                    The Virgin, the angelic hierarchy, the saints, have received the believer’s
+                    homage, and answered his petitions. Theology might draw subtle distinctions
+                    between different forms of devotion; but, tried by the comparisons of the
+                    anthropologist, the monotheism even of historical Christianity cannot be
+                    strictly maintained.</p>
+               <p>6. <hi rend="italic">Classification.—</hi> In the panorama of religious
+                    development thus briefly sketched, the different stages constantly appear to
+                    shade off into one another, and any one of the higher seems to contain elements
+                    of all the rest. This is the great difficulty of classification. All religions,
+                    even the most conservative and traditional, are in constant flux, they either
+                    advance or decay.</p>
+               <p>In these processes, which do not take place at equal rates in different cases,
+                    all kinds of survivals remain lodged, and embarrass every attempt to fix the
+                    place of specific religions in any general course of development. The
+                    theologian, the philosopher, the historian, have all tried their hands at
+                    distribution. (i.) The 18th-century divine who divided religions into True and
+                    False grimly remarked that the second chapter was much the longer of the two.
+                        <note anchored="true" place="bottom" type="authorial" n="52"> Broughton, <hi
+                            rend="italic">Diet, of all Religions</hi> (1745), preface. </note> The
+                    corresponding distinction into Natural and Revealed breaks down in view of the
+                    fact that revelation by dream and oracle, by inspired seer or divine teacher and
+                    law-giver, is a practically universal phenomenon in more or less distinctly
+                    defined forms, (ii.) Philosophy, in the person of Hegel, classified religion in
+                    a threefold form : <hi rend="italic">(a)</hi> the religion of Nature, ( <hi
+                        rend="italic">b</hi> ) the religion of Spiritual Individuality,</p>
+               <p>(c) the Absolute Religion (Christianity). <note anchored="true" place="bottom"
+                        type="authorial" n="53">
+                        <hi rend="italic">Philosophy of Religion</hi> (Eng. trans.), i. p. 266.
+                    </note> The subdivisions of this scheme have been long since abandoned, as the
+                    progress of knowledge rendered them untenable. K. F. A. Wuttke, however, adopted
+                    its fundamental idea <note anchored="true" place="bottom" type="authorial"
+                        n="54">
+                        <hi rend="italic">Geschichte des Heidenthums</hi> (1852), i. p. 95. </note>
+                    and distinguished three periods or phases: (1) the objective, producing the
+                    religions of nature;</p>
+               <p>(2) the subjective, God as comprehended in the individual mind;</p>
+               <p>(3) God as Absolute Spirit. In the same way Dr Edward Caird <note
+                        anchored="true" place="bottom" type="authorial" n="55">
+                        <hi rend="italic">Evolution of Religion</hi> (1893), lect. vii. </note>
+                    recognizes three similar stages: (1) objective consciousness, the divine in
+                    nature; (2) self-consciousness, the divine in man ' <hi rend="italic">(e.g.</hi>
+                    Judaism, Stoicism, and modern philosophy of the type of Kant) ; (3)
+                    God-consciousness, where God is above the contrast of subject and object, yet is
+                    revealed in both (Christianity), (iii.) On the historical side numerous bases
+                    have been suggested. (1) Max Müller proposed to group religions ethnologically
+                    by tests of language. This had the obvious advantage of lifting two great
+                    families into prominence, the Semitic and the Indo-Germanic. The Semitic peoples
+                    were closely bound together by common types of thought and civilization, and
+                    produced three of the leading religions of the world, Judaism, Christianity and
+                    Isläm. But a glance at the table of Indo-Germanic religions</p>
+                <pb xml:id="eb11-23-r02-0073" facs="encyclopaediabri23chisrich_0096.jp2"/>
+               <p>drawn up by Tiele <hi rend="italic">(Ency. Bril.,</hi> 9th ed., voI. xx. p. 360)
+                    will show what diversified products are blended together. Why should
+                    philosophical Brahmanism, or the Buddhism which reacted against it, be
+                    associated with so undeveloped a form as the religion of the ancient Latin
+                    settlers in mid-Italy? And why, on the other hand, should the religions of the
+                    lower culture, which are practically of a common type, be separated
+                    genealogically into numerous independent families? (2) Whitney <note
+                        anchored="true" place="bottom" type="authorial" n="56">
+                        <hi rend="italic"/> @@@ <hi rend="italic">Princeton Review,</hi> May 1881,
+                        quoted by Tiele, <hi rend="italic">Elements of the Science of Religion</hi>
+                        (1897), i. p. 42. </note> found the most important distinction to lie
+                    between religions which were the collective product of the wisdom of the
+                    community, race-religions as they might be called, and those which proceeded
+                    from individual founders. But, as TieIe pointed out, the “ individual ” element
+                    cannot be eliminated from the “ race-religion,” where each myth has been first
+                    uttered, each rite first performed, by some single person. And the founder who
+                    enters history with an impressive personality can only do his work through the
+                    response made to him by the insight and feeling of his time. (3) Kuenen
+                    disengaged another characteristic, the scope and aim of any given religion; was
+                    it limited to a particular people, or could it be thrown open to the world? On
+                    this foundation the higher religions were classed as national or universal, the
+                    latter group being formerIy supposed to include Buddhism, Christianity and
+                    Mahommedanisra. Here, once more, the student is confronted with many
+                    qualifications. A missionary religion Uke Mithraism, which established itself
+                    all the way from Western Asia to the borders of Scotland, was certainly not “
+                    national.” Judaism and Brahmanism both passed beyond the confines of race. The
+                    Confucian morality could be adopted without difficulty in Japan. In other words,
+                    there was either a definite tendency to expansion, or there was no impediment in
+                    the religion itself when circumstances promoted its transplantation. Further,
+                    there are elements of Islam, like the usages of the <hi rend="italic">hajj</hi>
+                    (or pilgrimage to the sacred places at Mecca), the dryness of its official
+                    doctrine and the limitations of its real character as indicated in the Wahhabi
+                    revival, which so impair its apparent Universalism that Kuenen found himself
+                    obliged to withdraw it from the highest rank of religions. <note anchored="true"
+                        place="bottom" type="authorial" n="57">
+                        <hi rend="italic"/> @@@ <hi rend="italic">National Religions and Universal
+                            Religions</hi> (Hibbert Lectures, 1882). </note> (4) Professor M.
+                    Jastrow, jun., starting from the relation of religion to life, distinguishes
+                    four groups, the religions of savages, the religions of primitive culture, the
+                    religions of advanced culture and the religions which emphasize as an ideal the
+                    coextensiveness of religion with life. It may, however, be doubted whether the
+                    fundamental assumption of such a scheme, viz. that in the life of the savage
+                    religion plays a comparatively small part, can be satisfactorily established.
+                    The evidence rather implies that, so far as the sanctions of relligion affect
+                    the savage at all, they affect him with unusual force. In the absence of other
+                    competing interests his religious beliefs and duties occupy a much larger share
+                    of his attention than the votaries of many higher faiths bestow on theirs; and
+                    though his ethical range may be very limited, yet the total influence of his
+                    religion in determining for him what he may do and what he may not, brings the
+                    greater part of conduct under its control. The savage who finds himself
+                    encompassed by taboos which he dare not break, lives up to his religion with a
+                    faithfulness which many professing Christians fail to reach. (5) There remains a
+                    broad distinction between religions that are in the main founded on the relation
+                    of man to the powers of Nature, and those based on ethical ideas, which partly
+                    corresponds to the philosophical division already cited. This enabled Professor
+                    Tiele to arrange the chief religions in certain groups, starting from the
+                    primitive conception of the common life of the objects of the surrounding
+                    scene:— <note anchored="true" place="bottom" type="authorial" n="58">
+                        <hi rend="italic"/> @@@ <hi rend="italic">Ency. Brit.,</hi> 9th ed., art. “
+                        Religions ” ; <hi rend="italic">Elements of the Science of Religion,</hi>
+                        vol. i. (1897), with some corrections communicated by letter to Professor
+                        Chantcpie de la Saussaye, <hi rend="italic">Religionsgesch.</hi> (3rd ed.,
+                        1905), vol. i. p. n. </note>
+               </p>
+               <p>I. <hi rend="italic">Nature Religions—</hi>
+               </p>
+               <p>1. Polyzoic Naturalism (hypothetical).</p>
+               <p>2. Polydemonistic-magical religions under the control of</p>
+               <p>Animism (religions of savages).</p>
+               <p>3. Purified or organized magical religions. Therianthropic</p>
+               <p>Polytheism.</p>
+               <p>(fl) Unorganized (religions of the Japanese, Dravidians, Finns, Esths, the
+                    ancient Arabs, the ancient Pelasgi, the Old-Italian peoples, the Etruscans (?),
+                    the Old-Slavs).</p>
+               <p>(ά) Organized (religions of the half-civilized peoples of America, ancient
+                    Chinese state-religion, religion of the Egyptians).</p>
+               <p>4. Worship of beings in human form, but of superhuman</p>
+               <p>power and half-ethical nature. Anthropomorphic polytheism (religions of the
+                    Vedic Indians,the ancient Persians, the later Babylonians and
+                    Assyrians,thea.dvanced Semites, the Kelts, Germans, Hellenes, Greeks and
+                    Romans).</p>
+               <p>II. <hi rend="italic">Ethical Religions</hi> (spiritualistic ethical religions
+                    of Revelation)—</p>
+               <p>1. National Nomistic (nomothetic) Religious Communions</p>
+               <p>(Taoismand Confucianism <hi rend="sub">i</hi> Brahmanism,Jainism, Mazde-ism,
+                    Mosaism and Judaism, the two last already passing into 2).’.</p>
+               <p>2. Universalistic Religious Communions(Buddhism,Christian</p>
+               <p>ity: Islam with its particularistic and nomistic elements only partially belongs
+                    to this group). <note anchored="true" place="bottom" type="authorial" n="59">
+                        For a long series of suggested bases of classification see Raoul de la
+                        Grasserie, <hi rend="italic">Des Religions Comparées au Point de Vue
+                            Sociologique</hi> (1899), chap, xii.; cf. further E. von Hartmann, <hi
+                            rend="italic">Religionsphilosophie</hi> (1888); Siebeck, <hi
+                            rend="italic">Lehrbuch der Religionsphilosofhie</hi> (1893); Domer, <hi
+                            rend="italic">Grundriss der Religionsphilosophie</hi> (1903). Siebeck
+                        proposed to distribute religions in three grades: (1) Nature-Religions, <hi
+                            rend="italic">i.e.</hi> those of the lower culture; (2)
+                        Morality-Religions in various grades and stages, <hi rend="italic">e.g.</hi>
+                        Mexicans and Peruvians, Arcadians, Chinese, Egyptians, Hindus, Persians,
+                        Germans, Romans, with the Greek religion in the highest rank; (3) Religions
+                        of Redemption (Judaism forming the transition from the second group),
+                        Buddhism in the sense of world-negation, and, positively, Christianity.
+                        Bousset, <hi rend="italic">Whot is Religion?</hi> (1907) reckons Platonism
+                        along with Buddhism. For criticism of Siebeck’s scheme see Tiele, <hi
+                            rend="italic">Elements of the Science of Religion,</hi> vol. i. (1897),
+                        pp. 62,65. Pfleiderer, <hi rend="italic">Religion and HistoricFaiths</hi>
+                        (1907), p. 88, recognizes more clearly the difficulty of carrying almost any
+                        division through the whole field, without frequent breach of historical
+                        connexions. </note>
+               </p>
+               <p>7. <hi rend="italic">Revelation.—</hi> The second group in this division
+                    practicaIly corresponds to the second stage recognized by Caird; but it rests
+                    upon a somewhat different basis, the conception of revelation addressed to the
+                    conscience in the form of religious law. Neither Taoism nor Confucianism,
+                    indeed, makes this claim. The <hi rend="italic">Tao-teh-king,</hi> or book of
+                    aphorisms on “ the Tao and virtue ” ascribed to Lao Tsze, is wholly unlike such
+                    a. composition as Deuteronomy; and the disciples of Confucius carefully
+                    refrained from attributing to him any kind of supernatural inspiration in his
+                    conversations about social and personal morality. The sacred literatures of
+                    India and Israel, however, present many analogies, and emerge out of a wide
+                    range of phenomena which have their roots in the practices of the lower culture.
+                    The belief that the Powers controlling man’s life are w illin g upon occasion to
+                    disclose something of their purpose, has led to widespread rites of divination,
+                    which Plato described as the “ art of fellowship between gods and men,” and the
+                    Stoics defended on grounds of a priori religious expectation as well as of
+                    universal experience. Through the dream the living was put into communication
+                    with the dead, which sometimes embodied itself in peculiar and pathetic literary
+                    forms, such as the Icelandic dream-verses imparted by the spirits of those who
+                    had been lost at sea or overwhelmed by the snow; and a whole series of steps
+                    leads up from necromancy to prophecy and oracle, as the higher gods become the
+                    teachers of men. The gods of revelation are naturally not the highest, since
+                    they appear as the interpreters of one superior to themselves. The revealing
+                    agency may be only a voice like Aius Locutius, to which the Romans raised a
+                    temple; or, like Hermes, he may be the messenger of the gods; or, like Marduk,
+                    pre-eminently the god of oracles in Babylonia, he may be the son of Ea, the
+                    mighty deep encompassing the earth, source of all wisdom and culture. To Marduk
+                    the prophet-god Nabu in his turn became son, and his consort Tasbmit (“ causing
+                    to hear ”) was the personification of Revelation. Egyptian thought ascribed this
+                    function to Thoth, who played somewhat different parts in different systems, but
+                    emerges as the representative of the immanent intelligence</p>
+                <pb xml:id="eb11-23-r02-0074" facs="encyclopaediabri23chisrich_0097.jp2"/>
+               <p>of the world, brother of Maät and the giver of laws and culture to man. <note
+                        anchored="true" place="bottom" type="authorial" n="60"> Cf. Maspero, <hi
+                            rend="italic">Dawn of Civilization,</hi> p. 204; Wiedemann, <hi
+                            rend="italic">Religion of the Ancient Egyptians,</hi> p. 227; Budge, <hi
+                            rend="italic">Gods of Egypt,</hi> i. p. 415. </note> Thoth “ the
+                    thrice-great ” passed into Hermes Trismegistus whom Christian fathers could
+                    recognize, <note anchored="true" place="bottom" type="authorial" n="61"> Aug.
+                            <hi rend="italic">De Civ. Dei,</hi> xviii. 39, attributes the origin of
+                        philosophy to his era. </note> when the supremely beautiful figure of Greek
+                    theology, Apollo, had lost his dignity and ceased to be desired. Thoth was a
+                    voluminous author, and the collection of forty-two books which bore his name was
+                    a kind of primitive cyclopaedia of theology, astronomy, geography and
+                    physiology. Apollo proclaims at his birth that he will declare the counsel of
+                    Father Zeus to men. <note anchored="true" place="bottom" type="authorial" n="62">
+                        <hi rend="italic">Hom. Hymn.</hi> i. </note> But his utterances have been
+                    only casually preserved. A special literature of oracles did indeed arise; the
+                    divine words were collected and the circumstances which produced them' were
+                    recorded; and had Delphi become in fact the centre of Greece, as Plato conceiyed
+                    it, here might have been the nucleus of a scripture. Theories of inspiration
+                    lurk behind the rich vocabulary of Greek prophecy; the seer is <hi rend="italic"
+                        >cvBcos, BcFKrprros, BclnrvcvaTOS, BcOfkbprjTOS,</hi> and Bakis and Musaeus
+                    give their names to sacred verses. The story of the Sibylline books in Rome, on
+                    the other hand, shows the growth of the idea of authority. They are deposited in
+                    a temple, in charge of a small sacred college; new deities and rites are
+                    introduced under their sanction; when they are accidentally destroyed, envoys
+                    are sent to the East and fresh collections are made; these are in their turn
+                    purged, the false are discarded and the true reverently preserved. By what
+                    method the books were consulted is not known; but they exhibit the idea of a
+                    sacred canon in process of formation. The theologians of India guarded their
+                    ancient hymns with the utmost care. A vast literary apparatus was devised for
+                    their protection. The famous Purusha-hymn <hi rend="italic">(R. V.</hi> x. 90)
+                    already claimed a divine origin for the three Vedas, the Rik, the Saman and the
+                    Yajush. The “ triple knowledge ” was sometimes derived from the “ Lord of
+                    Creatures ” Prajapati—one of the unifying forms of Brahmanical theology—through
+                    Vac or “ speech.” The Veda, that is to say, had existed in the divine mind ere
+                    it was made known to men, and as such it belonged to the realm of the deathless
+                    and the infinite. The tribal poets were supposed to have “ seen ” the heavenly
+                    originals; elaborate arguments were devised to explain how the names of
+                    particular objects like rivers and mountains could have existed in the Eternal;
+                    while the grounds of belief in the infallibility of the sacred verses were
+                    enforced with the double weight of philosophy and tradition. Buddhism repudiated
+                    the authority of the Veda, but found it needful to supply its place; and the
+                    word of the omniscient Teacher, faithfully reported by his disciples and
+                    guaranteed by concurrent traditions, became the rule of belief for the new
+                    Order. Nor were the authors of the scriptures whose fragments are preserved in
+                    the Zend Avesta less conscious of their divine value. The ancient Gāthās, which
+                    were supposed to be the composition of Zarathustra himself, received the homage
+                    of later worshippers. <note anchored="true" place="bottom" type="authorial"
+                        n="63">
+                        <hi rend="italic">Yasna,</hi> lv. ; <hi rend="italic">S.B.E.</hi> xxxi. p.
+                        294. </note> Daena, the ideal personification of law and religion, is the
+                    object of praise and sacrifice. She dwells on high in the Heavenly Home, the
+                    radiant “Abode of song,” but Zarathustra summons her thence, begs for her
+                    fellowship, and prays her for righteousness of thought, speech and deed. <note
+                        anchored="true" place="bottom" type="authorial" n="64">
+                        <hi rend="italic">S.B.E.</hi> xxiii. p. 264. </note> She is produced by Vohu
+                    Mano, the “ Good Thought ” of Ahura,· one of the six Holy Immortals; she thus
+                    belongs to the ideal creation before the earth and its inhabitants; <note
+                        anchored="true" place="bottom" type="authorial" n="65">
+                        <hi rend="italic">Bundahis,</hi> i. 25 ; <hi rend="italic">S.B.E.</hi> v. p.
+                        9. </note> but how the heavenly Daena was wrought by Zarathustra into
+                    written form is nowhere stated. This conception of pre-existent spiritual
+                    counterparts was not without influence on the later theology of Israel. The
+                    sacred law (Torah) was the earthly reproduction of a heavenly Torah which had no
+                    origin in time, and constituted the sum of ideal wisdom into which God looked
+                    when he would create the world. <note anchored="true" place="bottom"
+                        type="authorial" n="66">
+                        <hi rend="italic">Midrash Bereshith Rabba,</hi> tr. Wunsche, I. i. ver. i.
+                    </note>
+               </p>
+               <p>Even Mahommedanism felt the spell of the same modes of thought. The idea of
+                    revelation was expressed by “ sending down ” (from <hi rend="italic"
+                        >nazala,</hi> to descend) ; that which passed from heaven to earth was a
+                    pre-existent word, eternal as God Himself. Allusions in particular passages of
+                    the Koran to the “ mother of the scripture,” the invisible originals of the
+                    prophet’s speech, led to the doctrine of its uncreated being. The whole history
+                    of religion presents perhaps no more singular spectacle than the mosques of
+                    Bagdad in the middle of the 9th century filled with vast crowds of twenty and
+                    thirty thousand of the faithful, assembled to discuss the dogmas of the created
+                    and the uncreated Koran. <note anchored="true" place="bottom" type="authorial"
+                        n="67"> Von Kremer, <hi rend="italic">Die Herrschenden Ideen des
+                            Islams,</hi> p. 233 ff. </note>
+               </p>
+               <p>8. <hi rend="italic">Ethics and Eschalology.—</hi> The second distinguishing
+                    mark in Tiele’s higher group is implied in the term “ Ethical.” By this it is
+                    not intended to assert that moral ideas are wanting in the so-called “ naturist
+                    ” religions. Anthropologists have, it is true, taken widely different views of
+                    the relation of ethics and religion, and the stage at which an effective
+                    alliance between them might be recognized. Like all problems of origins, the
+                    question is necessarily extremely obscure, and cannot be definitely settled by
+                    historical evidence. Broadly speaking, however, it may be said that the attempt
+                    to show that certain savages are destitute of moral feeling cannot be sustained;
+                        <note anchored="true" place="bottom" type="authorial" n="68"> See
+                        Westermarck, <hi rend="italic">Origin and Development of Moral Ideas,</hi>
+                        vol.i. (1906), η. 125, on Lord Avebury’s conclusions. </note> and evidence
+                    has been already cited above (in the section on <hi rend="smallcaps">Primitive
+                        Religion)</hi> proving the varied and immediate effects of religion on the
+                    life of the lowest tribes. Continuous interaction marks the slow courses of
+                    advance. At a very early period in social development the rules of conduct are
+                    referred to some higher source. Thus among the tribes of south-eastern Australia
+                    described by Mr Howitt, <note anchored="true" place="bottom" type="authorial"
+                        n="69">
+                        <hi rend="italic">Native Tribes of SE. Australia</hi> (1904), pp. 488, 489,
+                        495, 543. </note> the native rites and laws handed down from generation to
+                    generation were supposed to have been first imparted by some higher being such
+                    as Nurrundere, who made all things on the earth; or Nurelli, who created the
+                    whole country, with the rivers, trees and animals; or Daramulun, who (like
+                    Nurrundere) bestowed weapons on the men, and instituted the rites and ceremonies
+                    connected with life and death. As religion advances with improved social
+                    organization, a series-of figures, partly human, partly divine, embodies the
+                    idea that the command of nature implied in the progress of the arts is due to
+                    some kind of instruction from above, and that the obU-gations of law are of more
+                    than human origin. The Algonquin Manibozho and Quetzalcoatl of Mexico stand for
+                    a whole group of typical personalities in North and-Central America. The
+                    mysterious fish-man Oannes,who taught the primitive inhabitants of Babylonia,
+                    according to Alexander Polyhistor, has been identified with Ea, god of the deep,
+                    the source of wisdom, culture and social order. Zeus gave laws to Minos; Apollo
+                    revealed the Spartan constitution to Lycurgus; Zaleucus received the laws for
+                    the Locrians from Athena in a dream; Vishnu and Manu condescended to draw up
+                    law-books in India. The worship of ancestors has again and again gathered around
+                    it powerful and ethical influences, emphasizing the parental and filial
+                    relations, and strengthening the mutual obligations of communal life. Hirata
+                    answered by anticipation the modern reproach against Shinto, founded on the
+                    absence of any definite morality connected with it, by laying down the simple
+                    rule, “ Act so that you need not be ashamed before the Kami of the unseen.”
+                        <note anchored="true" place="bottom" type="authorial" n="70"> Satow, “
+                        Revival of Pure Shinto,” <hi rend="italic">Trans.</hi> As. <hi rend="italic"
+                            >Soc. Japan,</hi> vol. iii. Appendix, p. 87. </note> The mythological
+                    embodiments of the connexion of law in nature with the social and moral order
+                    have already been briefly noted: a few words may be said in conclusion on
+                    another product of the union of religion and ethics, viz. the doctrine of
+                    judgment after death. That this doctrine is not essential to a highly moralized
+                    religion is clear from the fact that it formed no part of the earlier Hebrew
+                    prophecy. Judgment, indeed, was an inevitable outcome of the sovereignty of
+                    Yahweh, but it would be passed upon the nation in the-immediate scene of its
+                    misdoings; and even when the scope of the divine doom</p>
+                <pb xml:id="eb11-23-r02-0075" facs="encyclopaediabri23chisrich_0098.jp2"/>
+               <p>was extended to include the nations of the world, it was still upon the living
+                    that it would alight. The seers of Israel were content to dismiss their dead to
+                    a land of silence and darkness, the vast hollow gloom of the subterranean Sheol.
+                        <note anchored="true" place="bottom" type="authorial" n="71"> Cf. Ezek.
+                        xxxii. 17-32; Ps. lxxxviii 3-4, io, 11; Job x. 21-22, and many other
+                        passages. </note> A far ruder outlook on life, however, which has again and
+                    again appealed to some form of the divine cognizance by means of the ordeal and
+                    the oath, frequently supplements the moral issues of this world by the judicial
+                    award of the next. Assuming the proper fulfilment of the ritual of death, ethics
+                    gradually extends its control over the future. At first the social distinctions
+                    of this life are simply continued hereafter: the chief remains a chief, the
+                    slave a slave; and the Conditionsof the future only prolong those of the
+                    present. In so far as tribal eminence depends on superior skill or courage or
+                    wisdom, the germs of ethical differentiation may be discovered even here. The
+                    process is carried further (i) in individual cases of retribution, when (as
+                    among the Kaupuis) crime within the tribe was punished, and a murderer becomes
+                    in the next life his victim’s slave; <note anchored="true" place="bottom"
+                        type="authorial" n="72"> Watt, <hi rend="italic">Journ. Anthrop.
+                            Institute,</hi> xvi p. 356. Cf. Codrington, <hi rend="italic">The
+                            Melanesians</hi> (1891), p. 274. </note> or (2) when service to the
+                    community received special reward, and warriors who had fallen in battle, women
+                    who had died in childbirth and merchants who had perished on a journey were sent
+                    in Mexico to the house of the sun. <note anchored="true" place="bottom"
+                        type="authorial" n="73"> Bancroft, <hi rend="italic">Native Races of the
+                            Pacific States of N. America,</hi> iii. P- 532. </note> As the social
+                    order acquires more definiteness and stability, the control of life by the gods
+                    tends to become more clearly moralized. This brings with it new standards
+                    independent of clan-customs or tribe-usage. Only the worst offences, however, at
+                    first draw down post-mortem punishment. The Homeric Erinyes chastise outrages on
+                    the poor, injuries to guests, failure to show the respect due to parents or to
+                    recognize the rights of age, in this life; only on perjury does the divine doom
+                    extend to the next. <note anchored="true" place="bottom" type="authorial" n="74">
+                        <hi rend="italic">II.</hi> iii. 278-79; xix. 258-60. </note> On the other
+                    hand, the Egyptian version of “ the whole duty of man ” in the famous 125th
+                    chapter of the <hi rend="italic">Book of the Dead</hi> embraces a singular
+                    complex of ritual, social and personal sins, in which the inward states of
+                    lying, anger and ill-will are condemned along with murder, theft and adultery,
+                    beside violation of the times of offerings to the gods, or interference with the
+                    food of the blessed dead. The great judgment of Osiris formulates with the
+                    utmost precision the alliance between morals and religion. The doctrine
+                    established itself in Greek theology under the influence of Orphism, and
+                    supplied Plato with mythic forms for his “ criticism of life.” In India the
+                    union of morality and religion was effected in another manner. True, Yama, first
+                    of men to enter the world beyond, became the “ King of Righteousness ” before
+                    whose tribunal the dead must appear. But a new agency began to engage the
+                    speculations of thinkers, the moral values of action embodied in the Deed. “.The
+                    deed does not perish,” ran an early formula. <note anchored="true"
+                        place="bottom" type="authorial" n="75">
+                        <hi rend="italic">S.B.E.</hi> ii. p. 271; xiv. pp. 116, 310. </note> “ A man
+                    is born into the world that he has made,” said another: <note anchored="true"
+                        place="bottom" type="authorial" n="76"> Ibid., xii. p. 181. </note> and what
+                    was laid down first as a ritual principle survived as an ethical. Buddhism
+                    conceived men as constantly making their own world for good and ill; it took
+                    over from Brahmanism a whole series of heavens and hells to provide an exact
+                    adjustment in the future for the virtue or vice of the present; and its
+                    eschatologie confidence was one of the potent instruments of its success in
+                    countries which, like China and Japan, had developed no theories of retribution
+                    or reward beyond the grave. Along a different line of thought the Iranian
+                    teachers, beholding the world divided between hostile powers, demanded, as the
+                    fundamental postulate of religion, the victory of the good. The conflict must
+                    end with the triumph of light, truth and right. The details of this remarkable
+                    scheme must be studied elsewhere (see Zoroaster). The award of the angel-judges
+                    at the Bridge of Assembly, soon after death, despatched the individual to his
+                    appropriate lot in the homes of Good or Evil Thought, Word and Deed. But at
+                    length the long struggle would draw to an end. The great “ divine event,” the
+                        <hi rend="italic">frasho-kereti,</hi> the renovation, would set in. A new
+                    heaven and a new earth would be created: a generaI resurrection shouId take
+                    place; the powers of evil should be overthrown and extinguished; and hell should
+                    be brought back for the enlargement of the world. Eschatology has again and
+                    again expressed the alliance between ethics and religion. It remains for the
+                    future to show how long that alliance will require its support.</p>
+               <p>                    <hi rend="smallcaps">Bibliography.—(For primitive religion see preceding
+                        section.) Only a selection of the copious and ever-increasing literature can
+                        here be named. Monographs on the separate religions are named in their
+                        respective articles.</hi>
+               </p>
+               <p>1. After Hume’s <hi rend="italic">Natural Hist, of Religions</hi> (1757) earlier
+                    surveys will be found in Meiners, <hi rend="italic">Allgem. Krit. Gesch. der
+                        Religionen</hi> (2 vols., 1806-7); Constant, <hi rend="italic">De la
+                        religion</hi> (5 vols., 1824-31); Baur <hi rend="italic">Symbolik und
+                        Mythologie</hi> (3 vols., 1825); Creuzcr <hi rend="italic">Symbolik und
+                        Mythol. der alten Volker <hi rend="sup">i</hi></hi> (18^7); F. D. Maurice, <hi rend="italic">The Religions of the World</hi>
+                    (1846); Hardwick, <hi rend="italic">Christ and other Masters</hi> (4 vols.,
+                    1855-59); Dollinger, <hi rend="italic">The Gentile and the Jew</hi> (2 vols.,
+                    1863). On Mythology and Religion English study was chiefly influenced by F. Max
+                    Müller, <hi rend="italic">Essay on Comparative Mythology</hi> (1856); <hi
+                        rend="italic">Chips from a German Workshop</hi> (1867 onwards); <hi
+                        rend="italic">Lectures on the Science of Language</hi> (2 vols., 1861-64) *»
+                        <hi rend="italic">Contributions to the Science of Mythology</hi> (2 vols.,
+                    1897); cf. A. Lang, <hi rend="italic">Modern Mythology</hi> (1897). Earlier
+                    Anthropology, Bastian, <hi rend="italic">Der Mensch in der Gesch.</hi> (3 vols.,
+                    Leipzig, i860); Waitz-perïand, <hi rend="italic">Anthropologie</hi> (6 vols. <hi
+                        rend="sub">;</hi> Leipzig, 1877).</p>
+               <p>2. Translations from the Scriptures of various religions.— <hi rend="italic"
+                        >Sacred Books of the East</hi> (49 vols., 1879 and onwards); <hi
+                        rend="italic">Annales du Musée Guimet</hi> (1880 and onwards).</p>
+               <p>3. Manuals, treatises and series in single or collective authorship.— C. P.
+                    Tiele, <hi rend="italic">Outlines of the History of Religion,</hi> tr. Carpenter
+                    (London, 1877); <hi rend="italic">Gesch. der Religion im Altcrthum <hi
+                            rend="sub"> i</hi></hi> tr. Gehrich (2 vols., Gotha,895*98) ; <hi rend="italic">Kompendium der
+                        Religionsgesch.,</hi> tr. Webef (Breslau, 1903) ; G. Rawlinson, <hi
+                        rend="italic">Religions of the Ancient World</hi> (London, 1882); <hi
+                        rend="italic">Religious Systems of the. World,</hi> by various authors
+                    (London, 1890); Menzies, <hi rend="italic">Hist, of Religion</hi> (1895);
+                    Orelli, <hi rend="italic">Allgemeine Religionsgesch.</hi> (Bonn, 1899); <hi
+                        rend="italic">Great Religions of the World,</hi> by various authors (1901) ;
+                    Bousset, <hi rend="italic">Das Wesen der Religion</hi> (Halle, 1903); Eng.
+                    trans., <hi rend="italic">What is Religion?</hi> (London, 1907); Chantepie de la
+                    Saussaye, <hi rend="italic">ReligionsgeschJ</hi> (2 vols., 1905); Achelis, <hi
+                        rend="italic">Abriss der Vergleichenden Religionswissenschaft</hi> (Sammlung
+                    Göschen) ; “ Die Orientalischen Religionen ” (in <hi rend="italic">Die Kultur
+                        der Gegenwart),</hi> by Variousauthors (1906); Pfleiderer <hi rend="italic"
+                        >Religion und Religionen</hi> (Berlin, 1906) ; Eng. trans., <hi
+                        rend="italic">Religion and Historic Faiths</hi> (London, 1907); Haarlem
+                    Series, <hi rend="italic">Die Voornaamste Godsdiensten <hi rend="sub">i</hi></hi> beginning, with Islam, by Dozy (1863 onwards); Soc. for Promotion of
+                    Christian Knowledge, <hi rend="italic">Non-Christian Religions ;</hi> Hibbert
+                    Lectures on <hi rend="italic">The Origin and Growth of Religion</hi> (15 vols.»
+                    beginning with F. Max Müller, 1878) ; AsehendorfTs series, <hi rend="italic"
+                        >Darstellungen aus dem Gebiete der Nichtchristl. Religionsgesch.</hi> (14
+                    vols.. Münster i.w., beginning 1890); <hi rend="italic">Handbooks on the History
+                        of Religions,</hi> ed. Jastrow, beginning with Hopkins on India (1895); <hi
+                        rend="italic">American Lectures on the History of Religions,</hi> beginning
+                    with Rhys Davids on Buddhism (1896); Constables series, <hi rend="italic"
+                        >Religions, Ancient and Modern</hi> (London, beginning 1905), brief and
+                    popular; J. Freeman Clarke, <hi rend="italic">Ten Great Religions</hi> (Boston,
+                    1871); S. Johnson, <hi rend="italic">Oriental Religions,</hi> &amp;c. (3
+                    vols.); <hi rend="italic">IndiaJ</hi> (London, 1873); <hi rend="italic"
+                        >China</hi> (Boston, 1877); <hi rend="italic">Persia</hi> (1885); Lippert,
+                        <hi rend="italic">Die Religionen der Europäischen Cultur-Volker</hi>
+                    (Berlin, 1881); A. Réville, <hi rend="italic">Prolêgom. de Fhist. des rel.</hi>
+                    (Paris, 1881 ; Engl, trans., 1884); <hi rend="italic">Les Rel. des peuples
+                        non-civilisés</hi> (2 vols., Paris, 1883); <hi rend="italic">Rel. du
+                        Mexique</hi> (1885) ; <hi rend="italic">Rel. chinoise</hi> (1889);
+                    Letourneau, <hi rend="italic">HEvolution religieuse*</hi> (Paris, 1898);
+                    Publications of the <hi rend="italic">École des hautes études, section des
+                        sciences religieuses','</hi> and <hi rend="italic">Annales du Musée
+                        Guimet,</hi> " Bibliothèque de Vulgarisation.”</p>
+               <p>4. Works bearing on history.—Fustel de Coulanges, <hi rend="italic">La Cité
+                        antique</hi> (Paris, 1864); Lubbock, <hi rend="italic">Origin of
+                        Civilization</hi> (1870); Whitney, <hi rend="italic">Oriental and Linguistic
+                        Studies</hi> (New York, 1872 and 1874) ; Brinton, <hi rend="italic">The
+                        Religious Sentiment</hi> (1876); <hi rend="italic">Myths of the New
+                        World</hi> (New York, 1876); <hi rend="italic">Essays of an Americanist</hi>
+                    (1890); <hi rend="italic">Religions of Primitive Peoples</hi> (1897); Keary, <hi
+                        rend="italic">Outlines of Primitive Belief</hi> (London, 1882) ; Leblois,
+                        <hi rend="italic">Les Bibles et les initiateurs de l’humanité</hi> (4 vols,
+                    in 7 parts, Paris, 1883); Goblet d’Alviella, <hi rend="italic">Introd. à l'hist.
+                        générale des religions</hi> (Brussels, 1887); <hi rend="italic">La Migration
+                        des symboles</hi> (Paris, 1891); Hartland, <hi rend="italic">The Legend of
+                        Perseus</hi> (3 vols., London, 1894); Ratzel, <hi rend="italic">The History
+                        of Mankind,</hi> tr. Butler (3 vols., London, 1896) ; Usener, <hi
+                        rend="italic">Götternamen</hi> (Bonn, 1896) ; Grant Allen, <hi rend="italic"
+                        >The Evolution of the Idea of God</hi> (London, 1897); Forlong, <hi
+                        rend="italic">Short Studies in the Science of Comp. Religions</hi> (London,
+                    1897); Lang, <hi rend="italic">The Making of Religion</hi> (1898); Lyall, <hi
+                        rend="italic">Asiatic Studies</hi> (2 vols., London, 1899); Baissac, <hi
+                        rend="italic">Les Origines de la religion</hi> (Paris, 1899); Marillicr,
+                    “Religion,” <hi rend="italic">Grande Encyclop.</hi> xxviii. (Paris, 1900);
+                    Maculloch, <hi rend="italic">Comparative Theol.</hi> (1902); Dieterich, <hi
+                        rend="italic">Mutter Erde</hi> (Leipzig, 1905);</p>
+               <p>S. Reinach, <hi rend="italic">Cultes, mythes et religions</hi> (2 vols., Paris,
+                    1905-6); Frazer, <hi rend="italic">Adonis, Attis and Osiris</hi> (1906); Ed.
+                    Meyer, <hi rend="italic">Gesch. des Alterthums,</hi> I. i. “ Einleitungz
+                    Elemente der Anthropologie ” (1907).</p>
+               <p>5. Psychology, Philosophy and History.—Hegel, <hi rend="italic">Philosophy
+                        of</hi>
+               </p>
+                <pb xml:id="eb11-23-r02-0076" facs="encyclopaediabri23chisrich_0099.jp2"/>
+               <p>                    <hi rend="italic">Religion</hi> (Eng. trans., 3 vols., 1895) ; Pflelderer, <hi
+                        rend="italic">Die Religion (2</hi> vols., Berlin, 1869); <hi rend="italic"
+                        >Philos, of Religion,</hi> vol. iii. (Engl, trans., London, 1888); <hi
+                        rend="italic">Religionsphilosophie *</hi> (Berlin, 1896); F. MaxMiiller, <hi
+                        rend="italic">Introd. to the Science of Religion</hi> (1873); <hi
+                        rend="italic">Hibbert Lectures</hi> (1878); <hi rend="italic">Gifford
+                        Lectures</hi> (4 vols., 1889-93) ; Spencer, <hi rend="italic">Principlesof
+                        Sociology,</hi> i. (1876) ; Fairbairn, <hi rend="italic">Studies in the
+                        Philosophy of Religion and History</hi> (1876); E. von Hartmann, <hi
+                        rend="italic">Das Relig. Bewusstsein der Menschheit</hi> (Berlin, 1882) ;
+                    Rauwenhoff, <hi rend="italic">Weisbegeerte van den Godsdienst</hi> (Leiden,
+                    1887); E. Caird, <hi rend="italic">The Evolution of Religion</hi> (2 vols.,
+                    1893) ; Siebeck, <hi rend="italic">Lehrbuch der Religionsphilosophie</hi>
+                    (Freiburg i. B., 1893); Tiele, <hi rend="italic">Elements of the Science of
+                        Religion</hi> (2 vols., 1897); Raoul de la Grasserie, <hi rend="italic">Des
+                        religions comparées au point de vue sociologique,</hi> and <hi rend="italic"
+                        >De la psychologie des religions</hi> (Paris, 1899); Starbuck, <hi
+                        rend="italic">Psychology of Religion</hi> (London, 1900); Jastrow, <hi
+                        rend="italic">The Study of Religion</hi> (London, 1901); W. James, <hi
+                        rend="italic">The Varieties of Religious Experience</hi> (1903); Dorner, <hi
+                        rend="italic">Grundriss der Religionsphilosophie</hi> (Leipzig, 1903);
+                    Girgensohn, <hi rend="italic">Die Religion, ihre Psychischen Formen und ihre
+                        Zentralidee</hi> (Leipzig, 1903); Wundt, <hi rend="italic"
+                        >Völkerpsychologie,</hi> Bd. ii. <hi rend="italic">Mythus und Religion</hi>
+                    (1905-6); Ladd, <hi rend="italic">The Philosophy of Religion</hi> (2 vols.,
+                    London, 1906); Hoffding, <hi rend="italic">The Philosophy of Religion</hi>
+                    (Engl, trans., 1906) ; Wester-maarck, <hi rend="italic">The Origin and
+                        Development of the Moral Ideas,</hi> i. (London, 1906); Hobhouse, <hi
+                        rend="italic">Morals in Evolution</hi> (2 vols., London, 1906).</p>
+               <p>6. Periodicals, &amp;c.— <hi rend="italic">Revue de l’hist. des
+                        religions</hi> (Paris, 1880 onwards); <hi rend="italic">Folk-Lore</hi>
+                    (London, 1890 onwards); <hi rend="italic">Archiv, für Religionswissenschaft</hi>
+                    (Freiburg i. B., 1898 onwards); <hi rend="italic">L’Année sociologique</hi>
+                    (Paris, 1898 onwards); <hi rend="italic">Actes du premier congrès international
+                        d’histoire des religions</hi> (Paris, 1900); <hi rend="italic">Verhandlungen
+                        des II. Internationalen Kongresses für Allgemeine Religionsgeschichte in
+                        Basel</hi> (1904).</p>
+               <p>Much information on the growth and present condition of the study has been
+                    collected by Jordan, <hi rend="italic">Comparative Religion, its Genesis and
+                        Growth</hi> (Edinburgh, 1905). (J. E. C.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

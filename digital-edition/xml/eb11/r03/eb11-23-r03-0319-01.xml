@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0319-01"
+                facs="encyclopaediabri23chisrich_0342.jp2" type="entry">
+
+                <p><label>RIDINGS</label> are the three districts into which from ancient times
+                    Yorkshire has been divided for administrative purposes.</p>
+               <p>Formerly there were similar districts in Lindsey in Lincolnshire. The word
+                    riding was originally Written as <hi rend="italic">thrithing</hi> or <hi
+                        rend="italic">thriding,</hi> but the initial <hi rend="italic">th</hi> has
+                    been absorbed in the final <hi rend="italic">th</hi> or <hi rend="italic">t</hi>
+                    of the words north, south, east and west, by which it was normally preceded.
+                    Ridings are Scandinavian institutions. In Iceland the third part of a <hi
+                        rend="italic">thing</hi> which corresponds roughly to an English county was
+                    called <hi rend="italic">thrithjungr,</hi> in Norway, however, the <hi
+                        rend="italic">thrithjungr</hi> seems to have been an ecclesiastical
+                    division. According to the 12th-century compilation known as the “ laws of
+                    Edward the Confessor,” the riding was the third part of a county <hi
+                        rend="italic">(provincia),</hi> to it causes were brought which could not be
+                    determined in the wapentake, and a matter which could not be determined in the
+                    riding was brought into the court of the shire. There is abundant evidence that
+                    riding courts were held after the Norman Conquest. A charter which Henry I.
+                    granted to the Church of St Peter’s at York mentions wapentacmot, tridingmot and
+                    shircsmot, and exemptions from suit to the thriding or riding may be noticed
+                    frequently in the charters of the Norman kings. As yet, however, the
+                    jurisdiction and functions of these courts have not been ascertained. It seems
+                    probable from the silence of the records that they had already fallen into
+                    disuse early in the 13th century.</p>
+               <p>Each of the ridings of Yorkshire has its own lord lieutenant and commission of
+                    the peace, and under the Local Government Act of 1888 forms a separate
+                    administrative county. They are distinguished as the north, east and west
+                    ridings, but the ancient</p>
+                <pb xml:id="eb11-23-r03-0320" facs="encyclopaediabri23chisrich_0343.jp2"/>
+               <p>divisions of Lindsey were known as the north, south and west ridings
+                    respectively.</p>
+               <p>See Felix Liebermann, <hi rend="italic">Die Gesetze der Angelsachsen</hi>
+                    (Halle, 1888-89); William Stubbs, <hi rend="italic">Constitutional History of
+                        England',</hi> Richard Cleasby, <hi rend="italic">Icelandic Dictionary; New
+                        English Dictionary',</hi> and William Dugdale, <hi rend="italic">Monasticon
+                        Anglicanum</hi> vol. vi., edited by John Caley and others (1846). (G. J. T.)
+               </p>
+            </div>
+        </body>
+    </text>
+</TEI>

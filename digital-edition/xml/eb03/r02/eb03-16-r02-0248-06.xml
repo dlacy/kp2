@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r02-0248-06"
+                facs="gri_33125011196389_0254.tif" type="entry">
+
+                <p><label>RIO-<hi rend="smallcaps">Grande</hi></label>, a river of Africa, which
+                    runs from eaſt to weſt through Negroland, and falls into the Atlantic ocean, in
+                    11 degrees of latitude. Some take it to be a branch of the Niger, of which there
+                    is not the leaſt proof.</p>                <p><hi rend="italic">Rio-Grande,</hi> a river of South America, in Braſil, which
+                    has its ſource in an unknown country : it croſſes the captainſhip of Rio-Grande,
+                    and falls into the ſea at Natal los Reyes.</p>                <p><hi rend="italic">Rio-Janeiro,</hi> a river of South America, which riſes in
+                    the mountains weſt of Braſil, and running eaſt through that country, falls into
+                    the Atlantic Ocean, in S. Lat 23. 30. The province of Janeiro is one of the
+                    richelt in Braſil ; and produces gold, ſilver, diamonds, and other precious
+                    ſtones.</p>            </div>
+        </body>
+    </text>
+</TEI>

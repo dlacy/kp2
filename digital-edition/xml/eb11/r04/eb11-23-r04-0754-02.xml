@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0754-02"
+                facs="encyclopaediabri23chisrich_0807.jp2" type="entry">
+               <p>                   <label>ROSTAND, EDMOND</label> (1869- ), French dramatist, was</p>               <p>born on the ist of April 1869, the son of Joseph Eugène Herbert Rostand (b.
+                    1843), a prominent journalist and economist of Marseilles. His first play, a
+                    burlesque, <hi rend="italic">Les romanesques,</hi> was produced on the 21st of
+                    May 1894 at the Théâtre Français. He’took the motive of his second piece, <hi
+                        rend="italic">La Princesse lointaine</hi> (Théâtre de la Renaissance, 5th
+                    April 1895), from the story of the troubadour Rudel and the Lady of Tripoli. The
+                    part of Mélissande was created by Sarah Bernhardt, who also was the original
+                    Photine of <hi rend="italic">La Samaritaine</hi> (Théâtre de la Renaissance,
+                    14th April 1897), a Biblical drama in three scenes taken from the gospel story
+                    of the woman of Samaria. The production of his “ heroic comedy ” of <hi
+                        rend="italic">Cyrano de Bergerac</hi> (28th December 1807, Théâtre de la
+                    Porte Saint-Martin), with Coquelin in the title-rôle, was a triumph. No such
+                    enthusiasm for a drama in verse had been known since the days of Hugo's <hi
+                        rend="italic">Hernani.</hi> The play was quickly translated into English,
+                    German, Russian and other European languages. For his hero he had drawn on
+                    French 17th-century history; in <hi rend="italic">U Aiglon</hi> he chose a
+                    subject from Napoleoqjc legend, suggested probably by Henri Welsch-inger’s <hi
+                        rend="italic">Roi de Rome, 1811-32</hi> (1897), which contained much new
+                    information about the unhappy life of the duke of Reichstadt, son of Napoleon I.
+                    and Marie Louise, under the surveillance of Metternich at the palace of
+                    Schönbrunn. <hi rend="italic">L'Aiglon,</hi> in six acts and in verse, was
+                    produced (15th March 1900) by Sarah Bernhardt at her own theatre, she herself
+                    undertaking the part of the duke of Reichstadt. In 1902 Rostand was elected to
+                    the French Academy. His <hi rend="italic">Chantecler,</hi> produced in February
+                    1910, was awaited with an interest (enhanced by considerable delay in the
+                    production) hardly equalled by the enthusiasm of its reception. Lucien Guitry
+                    was in the title-rôle and Mme. Simone played the part of the pheasant, the play
+                    being a fantasy of bird and animal life, and the characters denizens of the
+                    farmyard and the woods. Rostand’s wife, <hi rend="italic">née</hi> Rosemonde
+                    Êtienette Gérard, published in 1890 <hi rend="italic">Les Pipeaux,</hi> a volume
+                    of verse crowned by the Academy.</p>               <p>See a notice by Henry James in vol. 84, pp. 477 seq. of the <hi rend="italic"
+                        >Cornhill Magazine.</hi>
+               </p>            </div>
+        </body>
+    </text>
+</TEI>

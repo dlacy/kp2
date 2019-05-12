@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r03-0552-07"
+                facs="gri_33125011196389_0558.tif" type="entry">
+
+                <p><label>RUNNER</label>, in the ſea-language, a rope belonging to the garnet and
+                    the two bolt-tackles. It is reeved <hi rend="italic">in</hi> a ſingſe block
+                    joined to the end of a pendant ; it has at one end a hook to hitch into any
+                    thing ; and, at the other, a double block, into which is reeved the fall of the
+                    tackle, or the garnet, by which means it purchaſes more than the tackle would
+                    without it.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

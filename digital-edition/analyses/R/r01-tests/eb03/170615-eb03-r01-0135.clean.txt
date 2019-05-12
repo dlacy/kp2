@@ -1,0 +1,37 @@
+proportion 
+of the direct and oblique 
+resistances of plane surfaces, he considers the resistances to arise from mutual collisions of the surface and fluid, repeated at intervals of time too small to be perceived. But in making this comparison, he has no occasion whatever to consider this 
+repetition; 
+and when he assigns the proportion between the resistance of a cone and of its base, he, in fact, assigns the proportion between two 
+simultaneous 
+and instantaneous impulses. But the mathematicians who followed him have considered this repetition as equivalent to an augmentation of the initial or sirst impulse;; in this way have attempted to demonstrate that the resistances are as the squares of the velocities, when the velocity is double, each impulse is double, and the number in a given time is double; therefore, say they, the resistance, and the force which will with stand it, is quadruple; and observation confirms their deduction; yet nothing is more gratuitous and illogi cal. It is very true that the resistance, conceived as Newton conceives it, the loss of motion sustained by a body moving in the fluid, is quadruple; but the instan taneous impulse, and the force which can withstand it, is, by all the laws of mechanics, only double, wha tis the force which can withstand a double impulse? Nothing but a double impulse. Nothing but impulse can be opposed to impulse; and it is a gross misconception to think of stating any kind of comparison between im pulse and pressure. It is this which has given rise to much jargon and false reasoning about the force of percussion. This is stated as infinitely greater than any pressure, and as equivalent to a pressure infinitely repeated. It forced the abettors of these doctrines at 
+last 
+to deny the existence of all pressures whatever, and to assert that all motion, and tendency to motion, was the result of impulse. The celebrated Euler, perhaps the first mathematician, and the lowest philosopher, of this century, says, “since motion and impulse are seen to exist, and since we see that by means of motion pres sure may be produced, as when a body in motion strikes another, or as when a body moving in a curved channel prefl’es upon it, merely in consequence of its curvilineal motion, and the exertion of a centrifugal force; and since Nature is most wisely economical in all her operations; it is absurd to suppose that pressure, or tendency to motion, lias any other origin; and it is the business of a philosopher to discover by what motions any observed pressure is produced.” whenever any preffiire is observed, such as the pressure of gravity, of magnetism, of electricity, of condensed air, nay, of a spring, and of elasticity and cohesion themselves, however difparate, nay, opposite, the philosopher must immediately cast about, and contrive a set of motions (creating 
+pro re natd 
+the movers) which will produce a pressure like the one observed. Having pleased his fancy with this, he cries out '«ÿ’«« “this 
+will produce 
+the pressure” ” 
+frujlra fit per plura quod fieri pot efi per pauciora, “
+therefore in this way the pressure 
+is 
+produced.” Thus the vortices of Descartes are brought back in triumph, and have produced vortices without number, which sill the universe with motion and pressure. 
+such bold attempts to overturn long received doc trines in mechanics, could not be received without much criticism and opposition; aud many able differtatious appeared srom time to time in defence 
+of 
+the common doctrines. In consequence of the many objections to 
+the comparison of pure 
+pressure with 
+pure percussion 
+or impulse, John Bernoulli and others were 
+at 
+last obli ged to assert that there were 
+no 
+perfectly hard bodies in nature, nor could be, but that all bodies were elastic; and that in the communication of motion by percussion, the velocities of both bodies were 
+gradually 
+changed by their mutual elasticity acting during the finite but imperceptible time of the coliision. This was, in fact, giving up the whole argument, and banismng percus sion, while their aim was to get rid of pressure. For what is elasticity but a pressure? and how shall 
+it 
+be produced? To act in this instance, must it arise from a still smaller impulse? But this will require another ela sticity, and so on without end. 
+These are all legitimate consequences of this attempt to state a comparison between percussion and pressure. Numberless experiments have been made to confirm the statement; and there is hardly an itinerant lecturing showman who does not exhibit among his apparatus gravesande’s machine (Vol. I. plate XXXV sig. 4). But nothing affords so specious an argument as the ex perimented proportionality of the impulse of fluids to the square of the velocity. Here is every appearance of the acciunulation of an insinity of minute impulses, in the known ratio of the velocity, each to each, pro ducing pressures which are in the ratio of the squares of the velocities. 
+The pressures are observed; but the impulses or per cuffions, whose accumulation produces these pressures, are only supposed. The rare fluid, introduced by new tonne for the purpose already mentioned, either does not exist in nature, or does not act in the manner we have said, the particles making their impulse, and then escaping through among the rest without affecting their motion. we cannot indeed say what may be the proportion between the diameter and the distance of the particles. The sirst may be incomparably smaller than the second, even in mercury, the densest fluid which we are familiarly acquainted with;; although they do not touch each other, they act. nearly as if they did, in conse quence of their mutual attractions and repullions, we have seen air a thousand times rarer in some experi ments than in others, and therefore the distance of the particles at least ten times greater than their diameters; and yet, in this rare state, it propagates all prestures or impulses made on any part of it to a great distance, almost in an instant. It cannot be, therefore, that fluids act on bodies by impulse. It is very possible to conceive a fluid advancing with a flat surface against the flat surface of a solid. The very 
+silst 
+and supersicial particles may make an impulse; and is they were annihi lated, the next might do the same : and if the velocity were double, these impulses would be double, and would be witlistoocl by a double force, and not a quadruple, ais observed : and this very circumstance, that a qua druple force is necessary, should have made us conclude that it was not to impulse that this force was opposed. The sirst particles having made their stroke, and not be ing annihilated, must escape laterally. In their efca psug, they effectually prevent every farther impulse, because they come in the way of those filaments which would have struck the body. The whole process seems to be somewhat as follows : 
+when the flat surface of the fluid has come into con tact with the plane surface AD (fig, 6.), perpendicular 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0451-03"
+                facs="encyclopaediabri23chisrich_0484.jp2" type="entry">
+
+               <p>                   <label>ROEDERER, PIERRE LOUIS,</label>
+                    <hi rend="smallcaps">Comte</hi> (1754-1835), French politician and economist,
+                    was born at Metz on the 15th of February 1754, the son of a magistrate. At the
+                    age of twenty-five he became councillor at the parlement of Metz, and was
+                    commissioned in 1787 to draw up a list of remonstrances. His work advocating the
+                    suppression of internal customs houses <hi rend="italic">(Suppression des
+                        douanes intérieures),</hi> published the same year, is an elaborate treatise
+                    on the laws of commerce and on the theory of customs imposts. In 1788 he
+                    published <hi rend="italic">Députation aux États généraux,</hi> a pamphlet
+                    remarkable for its bold exposition of liberal principles, and partly on the
+                    strength of this he was elected deputy to the states-general by the Third Estate
+                    of the <hi rend="italic">bailliage</hi> of Aletz. In the Constituent Assembly he
+                    was a member of the committee of taxes <hi rend="italic">(comité des
+                        contributions),</hi> prepared a scheme for a new system of taxation, drew up
+                    a law on patents, occupied himself with the laws relating to stamps and <hi
+                        rend="italic">assignats,</hi> and was successful in opposing the
+                    introduction of an income tax. After the close of the Constituent Assembly he
+                    was elected, on the nth of November 1791, <hi rend="italic">procureur général
+                        syndic</hi> of the department of Paris. The directory of the department, of
+                    which the duc de la Rochefoucauld was president, was at this time in pronounced
+                    opposition to the advanced views that dominated the Legislative Assembly and the
+                    Jacobin Club, and Roederer was not altogether in touch with his colleagues. Thus
+                    he took no share in signing their protest against the law against the non-juring
+                    clergy, as a violation of religious liberty. But the directory did not long
+                    survive. With the growing anarchy of the capital many of its members resigned
+                    and fled, and their places could not be filled up. Roederer himself has left in
+                    his <hi rend="italic">Chronique des cinquante jours</hi> (1832) an account of
+                    the pitiable part played by* the directory of the department in the critical
+                    period between the 20th of June and the 10th of August 1792. Seeing the perilous
+                    drift of things, he had tried to get into touch with the king; and it was on his
+                    advice that Louis, on the fatal 10th, took refuge in the Assembly. His conduct
+                    arousing suspicion, he went into hiding, and did not emerge again until after
+                    the fall of Robespierre. In 1796 he was made a member of the Institute, was
+                    appointed to a professorship of political economy, and founded the <hi
+                        rend="italic">Journal d’économie publique, de morale et de législation.</hi>
+                    Having escaped deportation at the time of the <hi rend="italic">coup d’état</hi>
+                    of 18 Fructidor, he took part in the revolution of 18 Brumaire, and was
+                    appointed by Napoleon member of the council of state and senator. Under the
+                    Empire, Roederer, whose public influence was very considerable, was Joseph
+                    Bonaparte’s minister of finance at Naples (1806), administrator of the grand
+                    duchy of Berg (1810), and imperial commissary in the south of France. During the
+                    Hundred Days he was created a peer of France. The Restoration government
+                    stripped him of his offices and dignities, but he recovered the title of peer of
+                    France in 1S32. He died on the 17th of December 1835. His son, Baron Antoine
+                    Marie Roederer</p>                <pb xml:id="eb11-23-r03-0452" facs="encyclopaediabri23chisrich_0485.jp2"/>
+               <p>(1782-1865), was also a politician of some note in his day.</p>               <p>Among P. L. Roederer’s writings may be mentioned <hi rend="italic">Louis
+                        XII.</hi> (1820); <hi rend="italic">François I.</hi> (1825); <hi
+                        rend="italic">Comédies historiques</hi> (1827-30); <hi rend="italic"
+                        >L'Esprit de la révolution de 1789</hi> (1831); <hi rend="italic">La
+                        Première et ta deuxième année du consulat de Bonaparte</hi> (1802); <hi
+                        rend="italic">Chronique des cinquante jours,</hi> an account of the events
+                    of the 10th of August 1792; and <hi rend="italic">Mémoire pour servir à
+                        l'histoire de la société polie en France</hi> (1835).</p>               <p>See his <hi rend="italic">Œuvres,</hi> edited by his son (Paris, 1853 seq.);
+                    Sainte-Beuve, <hi rend="italic">Causeries du lundi,</hi> vol. viii.; M. Mignet,
+                        <hi rend="italic">Notices historiques</hi> (Paris, 1853).</p>            </div>
+        </body>
+    </text>
+</TEI>

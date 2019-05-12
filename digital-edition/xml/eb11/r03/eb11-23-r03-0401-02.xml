@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0401-02"
+                facs="encyclopaediabri23chisrich_0424.jp2" type="entry">
+
+                <p><label>ROBERT OF COURTENAY</label> (d. 1228), emperor of Romania, or
+                    Constantinople, was a younger son of the emperor Peter of Courtenay, and was
+                    descended from the French king, Louis VI., while his mother Yolande was a sister
+                    of Baldwin and Henry of Flanders, the first and second emperors of
+                    Constantinople. When it became known in France that Peter of Courtenay was dead,
+                    his eldest son, Philip, marquess of Namur, renounced the succession to the Latin
+                    empire of Constantinople in favour of his brother Robert, who set out to take
+                    possession of his distracted inheritance, which was then ruled by Conon of
+                    Bethune as regent. Crowned emperor on the 25th of March 1221, Robert, who was
+                    surrounded by enemies, appealed Ior help to the pope and to the king of France;
+                    but meanwhile his lands were falling into the hands of the Greeks. Some little
+                    aid was sent from western Europe, but soon Robert was compelled to make peace
+                    with his chief foe, John Ducas Vataces, emperor of Nicaea, who was confirmed in
+                    all his conquests. Robert promised to marry Eudoxia, daughter of the late
+                    emperor of Nicaea, Theodore Lascaris I., a lady to whom he had been betrothed on
+                    a former occasion; however, he soon repudiated this engagement, and married a
+                    French lady, already the fiancee of a Burgundian gentleman. Heading a
+                    conspiracy, the Burgundian drove Robert from Constantinople, and early in 1228
+                    the emperor died in Achaia.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

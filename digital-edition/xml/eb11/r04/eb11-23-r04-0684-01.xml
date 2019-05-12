@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0684-01"
+                facs="encyclopaediabri23chisrich_0731.jp2" type="entry">
+
+                <p>ROME, a province of modern Italy, co-extensive with the <hi
+                        rend="italic">compartimento</hi> of Lazio, but really covering a
+                    considerably larger area than the ancient Latium, even including Latium
+                    adjectum. On the S.E. and E. alone it does not extend so far, the boundary being
+                    that between the former papal states and the kingdom of Naples, running from a
+                    point S.E. of Ter-racina along the eastern, edge of the Volscian mountains to
+                    Coprano, and thence along the Liris valley. It then runs N.E. through the
+                    mountains to Carsoli, being conterminous with the Abruzzi; it then includes part
+                    of the ancient Sabine country, reaching the Tiber near the railway station of
+                    Fara Sabina, 25 m. N. of Rome. It follows the river for some distance, where it
+                    is conterminous with Umbria, and then runs S.W. to the coast, where it is
+                    conterminous with the province of Grosseto (Tuscany), thus including a
+                    considerable portion of the ancient Etruria. The resident population in 1901 was
+                    estimated at 1,196,909 (including Rome itself, 520,196), and the floating
+                    population, Italian and foreign, 54,383. In 1907 the total number was calculated
+                    at 1,278,000. In 1871 the aggregate population was only 836,704. Emigration rose
+                    from 2222 in 1896 to 18,507 in 1906, there being a great rise in 1905, as over
+                    all Italy. The economic crisis in the United States in 1907, led, however, to a
+                    set-back, many emigrants being obliged to return to Italy for lack of work. Alum
+                    is extracted from the mines principally near Tolfa. At Filettino above Subiaco
+                    asphaltic rock is obtained, and salt from a rocksalt mine near Cometo Tarquinia.
+                    Chemical fertilizers are manufactured by several firms. The main industries of
+                    the district are, however, agricultural (see <hi rend="smallcaps">Latium).</hi>
+               </p>            </div>
+        </body>
+    </text>
+</TEI>

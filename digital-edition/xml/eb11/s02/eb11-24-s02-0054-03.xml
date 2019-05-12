@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0054-03"
+                facs="encyclopaediabri24chisrich_0071.jp2" type="entry">
+                <p><label>SAKURA-JIMA</label>, a Japanese island, oval in shape and measur-ing 7 m.
+                    by 5 m., lying in the northern part of the Bay of Kagoshima (31° 40' N., 130°
+                    35' E.). It has a volcano 3743 ft. high (of which an eruption was recorded in
+                    1779), and is celebrated for its hot springs, its oranges and its giant radishes
+                        <hi rend="italic">(daikon),</hi> which sometimes weigh as much as 70 lb.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

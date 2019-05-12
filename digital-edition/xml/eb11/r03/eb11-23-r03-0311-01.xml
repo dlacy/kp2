@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r03-0311-01"
+                facs="encyclopaediabri23chisrich_0334.jp2" type="entry">
+
+               <p>                   <label>RICHMOND AND DERBY, MARGARET</label>, <hi rend="smallcaps">Countess
+                        of</hi> (1443-1509), mother of the English king, Henry VII., and foundress
+                    of St John’s and Christ’s colleges at Cambridge, was the daughter and heiress of
+                    John Beaufort, duke of Somerset, and was born on the 31st of May 1443. In 1455
+                    she married Edmund Tudor, earl of Richmond, who died in the following year; she
+                    then took for her husband Henry (d. 1482), son of Humphrey Stafford, duke of
+                    Buckingham, and later Thomas Stanley, afterwards earl of Derby. She was in
+                    constant communication with her son, the future king, during his exile in
+                    Brittany, and with her husband, Lord Stanley, aided him to gain the crown in
+                    1485. The countess was very pious and charitable, and under the influence of her
+                    confessor, John Fisher, afterwards bishop of Rochester, she founded the Lady
+                    Margaret professorships of divinity at the universities of Oxford and Cambridge.
+                    She completed the foundation of Christ’s College, Cambridge, and after her
+                    death, in accordance with her wishes, much of her wealth was devoted to building
+                    and endowing St John’s College in the same university. She survived her son,
+                    whose title to the English throne was derived through her, and died on the 29th
+                    of June 1509. The countess translated some devotional books into English, and
+                    Fisher said of her, " All England for her death had cause of weeping.”</p>               <p>See C. H. Cooper, <hi rend="italic">Memoir of Margaret, Conntess of Richmond and
+                        Derby</hi> (1874).</p>            </div>
+        </body>
+    </text>
+</TEI>

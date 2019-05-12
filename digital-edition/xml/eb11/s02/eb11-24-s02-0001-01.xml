@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0001-01"
+                facs="encyclopaediabri24chisrich_0018.jp2" type="entry">
+                <p><label>SAINTE-CLAIRE DEVILLE, ÉTIENNE HENRI</label>, (1818-1881), French chemist,
+                    was born on the 11th of March 1818 in the island of St Thomas, West Indies,
+                    where his father was French consul. Together with his elder brother Charles he
+                    was educated in Paris at the Collège Rollin. In 1844, having graduated as doctor
+                    of medicine and doctor of science, he was appointed to organize the new faculty
+                    of science at Besançon, where he acted as dean and professor of chemistry from
+                    1845 to 1851. Returning to Paris in the latter year he succeeded A. J. Balard at
+                    the École Normale, and in 1859 became professor at the Sorbonne in place of J.
+                    B. A. Dumas, for whom he had begun to lecture in 1853. He died at
+                    Boulogne-sur-Seine on the 1st of July 1881.</p>
+                <p>He began his experimental work in 1841 with investigations of oil of turpentine
+                    and tolu balsam, in the course of which he discovered toluene. But his most
+                    important work was in inorganic and thermal chemistry. In 1849 he discovered
+                    anhydrous nitric acid (nitrogen pentoxide), a substance interesting as the first
+                    obtained of the so-called “ anhydrides ” of the monobasic acids. In 1855,
+                    ignorant of what Wöhler had done ten years previously, he succeeded in obtaining
+                    metallic aluminium, and ultimately he devised a method by which the metal could
+                    be prepared on a large scale by the aid of sodium, the manufacture of which he
+                    also developed. With H. J. Debray (1827-1888) he worked at the platinum metals,
+                    his object being on the one hand to prepare them pure, and on the other to find
+                    a suitable metal for the standard metre for the International Metric Commission
+                    then sitting at Paris. With L. J. Troost (b. 1825) he devised a method for
+                    determining vapour densities at temperatures up to 1400° C., and, partly with F.
+                    Wöhler, he investigated the allotropic forms of silicon and boron. The
+                    artificial preparation of minerals, especially of apatite and isomor-phous
+                    minerals and of crystalline oxides, was another subject in which he made many
+                    experiments. But his best known contribution to general chemistry is his work on
+                    the phenomena of reversible reactions, which he comprehended under a general
+                    theory of “ dis-sociation.” He first took up the subject about 1857, and it was
+                    in the course of his investigations on it that he devised the apparatus known as
+                    the “ Deville hot and cold tube.”</p>
+                <p>His brother, Charles Joseph Sainte-Claire Deville (1814-1876), geologist and
+                    meteorologist, was born in St Thomas on the 26th of February 1814. Having
+                    attended at the École des Mines in Paris, he assisted Elie de Beaumont in the
+                    chair of geology at the Collège de France from 1855 until he succeeded him in
+                    1874. He made researches on volcanic phenomena, especially on the gaseous
+                    emanations. He investigated also the variations of temperature in the atmosphere
+                    and ocean. He died at Paris on the 10th of October 1876.</p>
+                <p>His published works include: <hi rend="italic">Études géologiques sur les îles de
+                        Ténériffe et de Fogo</hi> (1848); <hi rend="italic">Voyage géologique aux
+                        Antilles et aux Îles de Tênêriffe et de Fogo</hi> (1848-1859); <hi
+                        rend="italic">Recherches sur les principaux phénomènes de météorologie et de
+                        physique générale aux Antilles</hi> (1849); <hi rend="italic">Sur les
+                        variations périodiques de la température</hi> (1866), and <hi rend="italic"
+                        >Coup d'œil historique sur la géologie</hi> (1878).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r05-0771-02"
+                facs="encyclopaediabri23chisrich_0824.jp2" type="entry">
+
+                <p><label>ROULETTE</label> in mathematics, the locus of a point carried on a curve
+                    which rolls on another (fixed) curve. The name appears to have been used by
+                    Pascal to denote the cycloid (ç.v.), which is the simplest roulette, being
+                    traced by a point on the circumference of a circle rolling on a straight line.
+                    The trochoids and epicycloids <hi rend="italic">(q.v</hi> .) are also simple
+                    roulettes, the latter being traced by points on a circle which rolls on another
+                    circle.</p>
+                <p>See W. H. Besant, <hi rend="italic">Roulettes and Glissettes.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

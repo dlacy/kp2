@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0685-03"
+                facs="encyclopaediabri23chisrich_0732.jp2" type="entry">
+
+                <p><label>ROMFORD</label> a market town in the Romford parliamentary division of
+                    Essex, England; on the small river Rom, which flows into the Thames; 12j m.
+                    E.N.E. from London by the Great Eastern railway. Pop. of urban district (1901)
+                    13,656. The ancient church of St Edward the Confessor was replaced in 1850 by a
+                    structure in Decorated style. There is a large brewery in the town, and
+                    extensive market gardens in the neighbourhood. A grant of a market was obtained
+                    in 1247, and this is still of importance as regards both cattle and corn.
+                    Romford was included in the liberty of Havering-atte-Bower, which until 1892 had
+                    a jurisdiction of its own distinct from that of the county, with a high steward,
+                    magistrates, clerk of the peace, coroner and quarter sessions. The name of Bower
+                    was derived from a queen’s residence attached to the ancient royal hunting-lodge
+                    in the vicinity.</p>
+               <p>The fact that Romford (<hi rend="italic">Rumford, Rompford</hi>) lies on the
+                    high road between Colchester and London has determined its history. Bronze
+                    implements have been found here, but no notice of Romford occurs till the 12th
+                    century. It was included in the liberty of Havering, and the chief business of
+                    the liberty was conducted there. But the corporation which is mentioned in
+                    medieval records is not that of the town of Romford, but of the liberty of
+                    Havering. Romford has only had a separate constitution since a local board of
+                    health was formed in 1894, under the act of 1875, after the abolition of the
+                    liberty in 1892. In the middle ages Romford was rather a meeting-place for
+                    merchants than an industrial centre. Brewing, however, is mentioned in 1331, and
+                    one tanner at least carried on business in Hare Street in 1467.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-24-s02-0066-04"
+                facs="encyclopaediabri24chisrich_0083.jp2" type="entry">
+                <p><label>SALESBURY (or Salisbury), WILLIAM</label> (<hi rend="italic">c</hi>.
+                    1520- <hi rend="italic">c</hi>. 1600), Welsh scholar, was a native of
+                    Denbighshire, being the son of Foulke Salesbury, who belonged to a family said
+                    to be descended from a certain Adam of Salzburg, a member of the ducal house of
+                    Bavaria, who came to England in the 12th century. Salesbury was educated at
+                    Oxford, where he accepted the Protestant</p>
+                <pb xml:id="eb11-24-s02-0067" facs="encyclopaediabri24chisrich_0084.jp2"/>
+                <p>faith, but he passed most of his life at Llanrwst, working at his literary
+                    undertakings. The greatest Welsh scholar of his time, Salesbury was acquainted
+                    with nine languages, including Latin, Greek and Hebrew, and was learned in
+                    philology and botany. He died about 1600. About 1546 he edited a collection of
+                    Welsh proverbs (<hi rend="italic">Oll synwyr pen kembero),</hi> probably the
+                    first book printed in Welsh, and in 1547 his <hi rend="italic">Dictionary in
+                        Englyshe and Welshe</hi> was published (facsimile edition, 1877). In 1563
+                    the English parliament ordered the Welsh bishops to arrange for the translation
+                    of the Scriptures and the book of common prayer into Welsh. The New Testament
+                    was assigned to Salesbury, who had previously translated parts of it. He
+                    received valu-able assistance from Richard Davies, bishop of St Davids, and also
+                    from Thomas Huet, or Hewett (d. 1591), but he himself did the greater part of
+                    the work. The translation was made from the Greek, but Latin versions were
+                    consulted, and in October 1567 the New Testament was published for the first
+                    time in Welsh. This translation never became very popular, but it served as the
+                    basis for the new one made by Bishop William Morgan (c. 1547-1604). Salesbury
+                    and Davies continued to work together, translating various writings into Welsh,
+                    until about 1576 when the literary partnership was broken. After this event,
+                    Salesbury, although continuing his studies, produced nothing of importance.</p>
+                <p>Other noteworthy members of the family (the modern spelling is Salusbury) are:
+                    John Salesbury (<hi rend="italic"><hi rend="smallcaps">c</hi></hi>
+                    <hi rend="smallcaps">. 1500-1573), who held many preferments under the Tudor
+                        sovereigns and was bishop of Sodor and Man from 1571 to 1573; Thomas
+                        Salesbury (</hi>
+                    <hi rend="italic"><hi rend="smallcaps">c</hi></hi>
+                    <hi rend="smallcaps">. I555-1586), an associate of Anthony Babington, who was
+                        executed for conspiring against Queen Elizabeth; Henry Salesbury (1561-</hi>
+                    <hi rend="italic">c</hi>. 1637), the author of a Welsh grammar published in
+                    1593; Thomas Salesbury (d. 1643), a poet, who probably fought for Charles I. at
+                    Edgehill; and another royalist, William Salesbury (c. 1580-c. 1659), governor of
+                    Denbigh Castle, which, in 1646, he gallantly defended in the interests of the
+                    king.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

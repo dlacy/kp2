@@ -1,0 +1,122 @@
+the amount remaining in the part removed, then Pi+P = P0 where P3 is the equilibrium value. Thus
+P,/P0 = i-P/P0 .
+The ratio P/P0 can be written down from the solution given in case (2). Similarly the corresponding values of 0i/Qo , Ri/R0 ma Y be at once derived. It is obvious in these cases that the curve plotted with P/P0 as ordinates and time as abscissae is complementary to the corresponding curve with Pi/P0 as ordinates. This simple relation holds for all recovery and decay curves of radioactive products in general.
+We have so far considered the variation in the number of atoms of successive products with time when the periods of the products are known. In practice, the variation of the number of atoms is deduced from measurements of activity, usually made by the electric method. Using the same notation as before, the activity of any product is proportional to its rate of breaking up, i.e. to AiP where P is the number of atoms present. If two products are present, the activity is the sum of two corresponding terms AiP and A2 Q. In practice, however, no two products emit a or 0 particles ,with the same velocity. The difference in ionizing power of a single a particle from the two products has thus to be^ taken into account. If, under the experimental conditions, the ionization produced by an a particle from the second product is K times that from the first product, the activity observed is proportional to AiP+KA2 Q. In this way, it is possible to compare the theoretical activity curves of a mixture of products with those deduced experimentally.·
+Analysis of Radioactive Changes.—The analysis of the successive* changes occurring in uranium, thorium, radium and actinium has proved a very difficult matter. In order to establish the existence of a new product and to fix its position in the scheme of changes, it is necessary to show (a) that the new product has a distinctive period of decay and shows some distinctive physical or chemical properties; (b) that the product under consideration arises directly from the product preceding it in the scheme of changes, and is transformed into the product succeeding it.
+In general, it has been found that each product shows some distinctive chemical or physical behaviour which allows of its partial or complete separation from a mixture of other products. It must be remembered that in most cases the amount of radioactive matter under examination is too small to detect by weight, but its presence is inferred from its characteristic radiations and rate of change. In some cases, a separation may be effected by ordinary chemical methods; for example thorium X is separated from thorium by precipitation of thorium with ammonia. The Th X remains in the filtrate and is practically free from thorium. In other cases, a separation is effected by a separation of a metal in the solution of active matter. For example, polonium (radium F) always comes down with bismuth and may be separated by placing a bismuth plate in a solution. Radium C is separated from radium B by adding nickel filings to a solution of the two. Radium C is deposited on the nickel. In other cases, a partial separation may be effected by electrolysis or by differences in volatility when heated. For example, when radium A, B and C are deposited on a platinum plate, on heating the plate, radium B is volatilized and is deposited on any cold surface in the neighbourhood. A very striking method of separating certain products has been recently observed depending upon the recoil of an atom which breaks up with the expulsion* of an a particle. The residual atom acquires sufficient velocity in consequence of the ejection of an a particle to escape and be deposited on bodies in the neighbourhood. This is especially marked in a low vacuum. This property was independently investigated by Russ and Makower (21) and by Hahn (22). The latter has shown that by means of the recoil, actinium C may be obtained pure from the active deposit containing actinium A, B and C, for B emits a rays, and actinium C is driven from the plate by the recoil. In a similar way a new product, thorium D, has been isolated. By the recoil method, radium B may be separated from radium A and C. The recoil method is one of the most definite and certain methods of settling whether an a ray product is simple or complex.
+While in the majority of cases the products break up either with the emission of a or 0 particles, some products have been observed which do not emit any characteristic radiation and have been called “ rayless products.” For example, radium D and
+thorium A are changing substances which break up without emitting either penetrating a or 0 rays. They appear to emit slow 5 rays which can only be detected by special methods. The presence and properties of a rayless product can be easily inferred if it is transformed into a product emitting a radiation, for the variation in activity of the latter affords a method of determining the amount of the parent product present. The distinction between a “ ray ” and a “ rayless ” product is not clear. It may be that the atom of a rayless product undergoes a re-arrangement of its constituent parts giving rise to an atom of the same mass but of different properties. In the case of an a ray or 0 ray product, the expulsion of an a or 0 particle affords an obvious explanation of the appearance of a new product with distinctive physical properties.
+In the table a list of the known products of transformation is given. In each case, the half period of transformation is given and the type of radiation emitted. If the product emits a rays, the range of ionization of the a particle in air is given.
+Table of Radioactive Products
+Product.
+Half Period of
+Transforma
+tion.
+Rays.
+Range of Rays in Air in Cms.
+Uranium—
+5X109 years
+a
+3*5
+Uranium X
+22 days
+0+7
+Ionium .
+?
+a
+2-8
+Radium—
+1760 years
+a
+3*5
+Ra Emanation.
+3*86 days
+a
+4*33
+Radium A
+3 mins.
+a
+4*83
+Radium B
+26 mins.
+slow ß
+Radium C
+19 mins.
+a+0+7
+7-06
+Radium D
+17 years
+slow ß
+# (
+Radium E
+5 days
+0
+* ,
+Radium F
+140 days
+a j
+3*86
+Radium G=riead?
+Thorium—
+about io10 yrs.
+3*5
+(Th. i)
+5*5 years
+rayless
+Mesothorium (Th. 2)
+6*2 hour^
+0+7
+, „
+Radiothorium .
+737 days
+a
+3*9
+Thorium X
+3*6 days
+* a
+5*7
+Th Emanation
+54 secs
+a
+5*5
+Thorium A
+10*6 hours
+slow ß
+Thorium B
+55 mins.
+a
+5'0
+Thorium C
+very short?
+a
+8-6
+Thorium D
+3 mins.
+0+7
+Actinium—
+?
+rayless
+Radioactinium .
+19*5 days
+a+0
+4-8
+Actinium X
+11 *8 days
+a
+6*55
+Act Emanation
+3*7 secs.
+a
+5*8
+Actinium A
+36 mins.
+slow 0
+Actinium B
+2-15 mins.
+a
+5*50
+Actinium C
+5*1 mins.
+0+7
+In each of the groups under the heading uranium, thorium and actinium, each product is derived from the direct transformation of the product above it.
+Products of Radium.—Radium is transformed directly into the emanation which in turn goes through a rapid series of transformations called radium A, B and C. The complete analysis of these changes has involved a large amount of work. The emanation changes first into radium A, a substance of period 3 minutes emitting only a rays. Radium A changes into radium B, a product of period 26 minutes emitting £rays of penetrating power small compared with those emitted from the next product radium C. The product radium C has proved of considerable importance, for it not only emits very penetrating a rays and /3 rays, but is the origin of the 7 rays arising from radium in equilibrium. When a wire charged negatively has been exposed for some time in the presence of the radium emanation, it becomes coated with an invisible film ’of radium A, B and C. After

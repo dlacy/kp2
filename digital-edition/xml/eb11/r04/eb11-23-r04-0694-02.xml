@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0694-02"
+                facs="encyclopaediabri23chisrich_0741.jp2" type="entry">
+
+                <p><label>RÖNTGEN RAYS</label>, W. K. Röntgen discovered in 1895 <hi rend="italic"
+                        >(Wied. Ann.</hi> 64, p. 1) that when the electric discharge passes through
+                    a tube exhausted so that the glass of the tube is brightly phosphorescent,
+                    phosphorescent substances such as potassium platinocyanide became luminous when
+                    brought near to the tube. He found that if a thick piece of metal, a coin for
+                    example, were placed between the tube and a plate covered with the
+                    phosphorescent substance a sharp shadow of the metal was cast upon the plate;
+                    pieces of wood or thin plates of aluminium cast, however, only partial shadows,
+                    thus showing that the agent which produced the phosphorescence could traverse
+                    with considerable freedom bodies opaque to ordinary light. He found that as a
+                    general rule the greater the density of the substance the greater its opacity to
+                    this agent. Thus while this effect could pass through the flesh it was stopped
+                    by the bones, so that if the hand were held between the discharge tube and a
+                    phosphorescent screen the outline of the bones was distinctly visible as a
+                    shadow cast upon the screen, or if a purse containing coins were placed between
+                    the tube and the screen the purse itself cast but little shadow while the coins
+                    cast a very dark one. Röntgen showed that the cause of the phosphorescence, now
+                    called Röntgen rays, is propagated in straight lines starting from places where
+                    the cathode rays strike against a solid obstacle, and the direction of
+                    propagation is not bent when the rays pass from one medium to another, <hi
+                        rend="italic">i.e.</hi> there is no refraction of the rays. These rays,
+                    unlike cathode rays or <hi rend="italic">Canalstrahlen,</hi> are not deflected
+                    by magnetic force; Röntgen could not detect any deflection with the strongest
+                    magnets at his disposal, and later experiments made with stronger magnetic
+                    fields have failed to reveal any effect of the magnet on the rays. The rays
+                    affect a photographic plate as well as a phosphorescent screen, and shadow
+                    photographs can be readily taken. The time of exposure required depends upon the
+                    intensity of the rays, and this depends upon the state of the tube, and the
+                    electric current going through it, as well as upon the substances traversed by
+                    the rays on their journey to the photographic plate. In some cases an exposure
+                    of a few seconds is sufficient, in others hours may be required. The rays coming
+                    from different discharge tubes have very different powers of penetration. If the
+                    pressure in the tube is fairly high, so that the potential difference between
+                    its electrodes is small, and the velocity of the cathode rays-in consequence
+                    small, the Röntgen rays coming from the tube will be very easily absorbed; such
+                    rays are called “ soft rays.” If the exhaustion of the tube is carried further,
+                    so that there is a considerable increase* in the potential differences between
+                    the cathode and the anode in the tube and- therefore in the velocity of the
+                    cathode rays, the Röntgen rays have much greater penetrating power and aie
+                    called “ hard rays.” With a highly exhausted tube and a powerful induction coil
+                    it is possible to get appreciable effects trom rays which have passed through
+                    sheets of brass or iron several millimetres thick. The penetrating power of the
+                    rays thus varies with the pressure in the tube; as this pressure gradually
+                    diminishes when the discharge is kept running through the tube, the type of
+                    Röntgen ray coming from the tube is continually changing. The lowering of
+                    pressure due to the current through the tube finally leads to such a high degree
+                    of exhaustion that the discharge has great difficulty in passing, and the
+                    emission of the rays becomes very irregular. Heating the walls of the tube
+                    causes some gas to come off the sides, and by thus increasing the pressure
+                    creates a temporary improvement. A thin-walled platinum tube is sometimes fused
+                    on to the discharge tube to remedy this defect; red-hot platinum allows hydrogen
+                    to pass through it, so that if the platinum tube is heated, hydrogen from the
+                    flame will pass into the discharge tube and increase the pressure. In this way
+                    hydrogen may be introduced into the tube when the pressure gets too low. When
+                    liquid air is available the pressure in the tube may be kept constant by fusing
+                    on to the discharge tube a tube containing charcoal; this dips into a vessel
+                    containing liquid air, and the charcoal is saturated with air at the pressure
+                    which it is desired to maintain in the tube. Not only do bulbs emit different
+                    types of rays at different times, but the same bulb emits at the same time rays
+                    of different kinds. The property by which it is most convenient to identify a
+                    ray is the absorption it suffers when it passes through a given thickness of
+                    aluminium or tin-foil. Experiments made by McClelland and Sir J. J. Thomson on
+                    the absorption of the rays produced by sheets of tin-foil showed that the
+                    absorption by the first sheets of tin-foil traversed by -the rays was much
+                    greater than that by the same number of sheets when the rays had already passed
+                    through several sheets of the foil. The effect is just what would occur if some
+                    of the rays were much more readily absorbed by the tin-foil than others, for the
+                    first few layers would stop all the easily absorbable rays while the ones left
+                    would be those that were but little absorbed by tin-foil.</p>
+                <pb xml:id="eb11-23-r04-0695" facs="encyclopaediabri23chisrich_0742.jp2"/>
+                <table>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Element.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Atomic weight.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>λ.</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Chromium</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. . . . 52</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>367</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Iron .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>• · . 55·9</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>239</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Cobalt</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 59·0</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>193.2</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Nickel</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. . . 58·7? <hi rend="smallcaps">(6i</hi> · <hi rend="smallcaps"
+                                    >3)</hi>
+                           </p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>159.5</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Copper</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. . . . 63-6</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>128.9</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Zinc .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 65·4</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>106.3</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Arsenic .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 75·0</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>60.7</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Selenium .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>• 79·2</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>51.0</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Strontium</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 87·6</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>35.2</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Molybdenum</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. . . . 96·0</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>12.7</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Rhodium</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 103·0</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>8.44</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Silver .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 107·9</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>6.75</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Tin . .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 119·0</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>4.33</p>
+                        </cell>
+                    </row>
+                </table>
+               <p>The fact that the rays when they pass through a gas ionize it and make it a
+                    conductor of electricity furnishes the best means of measuring their intensity,
+                    as the measurement of the amount of conductivity they produce in a gas is both
+                    more accurate and more convenient than measurements of photographic or
+                    phosphorescent effects. Röntgen rays when they pass through matter produce—as
+                    Perrin <hi rend="italic">{Comptes rendus,</hi> 124, ρ. 455), Sagnac <hi
+                        rend="italic">(Jour, de Phys.,</hi> 1899, (3), 8, and J. Townsend <hi
+                        rend="italic">(Proc. Camb. Phil. Soc.,</hi> 1899, 10, p. 217, have
+                    shown—secondary Röntgen rays as. well as cathodic rays. A very complete
+                    investigation of this subject has been made by BarkIa and Sadler (Barkla, <hi
+                        rend="italic">Phil. Mag.,</hi> June 1906, pp. 812-828; Barkla and Sadler,
+                        <hi rend="italic">Phil. Mag.,</hi> October 1908, pp. 550-504; Sadler, <hi
+                        rend="italic">Phil. Mag.,</hi> July 1909, p. 107; Sadler, <hi rend="italic"
+                        >Phil. Mag.,</hi> March 1910, p. 337). They have shown that the secondary
+                    Röntgen rays are of two kinds: one kind is of the same type as the primary
+                    incident ray and may be regarded as scattered primary rays, the other kind,
+                    depends only on the matter struck by the rays—their quality is independent of
+                    that of the incident ray. When the atomic weight of the element exposed to the
+                    primary rays was less than that of calcium, Barkla and Sadler could only detect
+                    the first type of ray, <hi rend="italic">i.e.</hi> the secondary radiation
+                    consisted entirely of scattered primary radiation; elements with atomic weights
+                    greater than that of calcium gave out, in addition to the scattered primary
+                    radiation, Röntgen rays characteristic of the element and independent of the
+                    quality of the primary rays. The higher the atomic weight of the metal the more
+                    penetrating are the characteristic rays it gives out. This is shown in the
+                    table, which gives for the different elements the reciprocal of the distance,
+                    measured in centimetres, through Which the rays from the element can pass
+                    through aluminium before their energy sinks to ½*7 of the value it had when
+                    entering the aluminium; this quantity is denoted in the table by λ.</p>
+               <p>The radiation from chromium cannot pass through more than a few centimetres of
+                    air without being absorbed, while that from tin is as penetrating as that given
+                    out by a fairly efficient Röntgen tube. Barkla and Sadler found that the
+                    radiation characteristic of the metal is not excited .unless the primary
+                    radiation is more penetrating than the characteristic radiation. Thus the
+                    characteristic radiation from silver can excite the characteristic radiation,
+                    from iron, but. the characteristic radiation from iron cannot excite that from
+                    silver. We may compare this result with Stokes’s rule for phosphorescence, that
+                    the phosphorescent light is of longer wave-length than the light which excites
+                    it.</p>
+               <p>The discovery that each element gives out a characteristic radiation (or, as
+                    still more recent work indicates, a line spectrum of characteristic radiation)
+                    is one of the utmost importance. It gives us, for example, the means of getting
+                    homogeneous Röntgen radiation of a perfectly definite type: it is also of
+                    fundamental importance in connexion with any theory of the Röntgen rays. We have
+                    seen that there is no evidence of refraction of the Röntgen rays ; it would be
+                    interesting to try if this were the case when the rays passing through the
+                    refracting substance are those characteristic of the substance.</p>
+               <p>                    <hi rend="italic">Secondary Cathodic Rays.—</hi> The incidence of Röntgen rays
+                    on matter causes the matter to emit cathodic rays. The velocity of these rays is
+                    independent of the intensity of the primary Röntgen rays, but depends upon the
+                    “hardness” of the rays; it seems also to be independent of the nature of the
+                    matter exposed to the primary rays. The velocity of the cathodic rays increases
+                    as the hardness of the primary Röntgen rays increases. Innes <hi rend="italic"
+                        >(Proc. Roy. Soc.</hi> 79, p. .442) measured the velocity of the cathodic
+                    radiation excited by the rays from Röntgen tubes, and found velocities varying
+                    from 6-2 X io’cm./sec. to 8·3X10’ cm./sec. according to the hardness of the rays
+                    given out by the tube. The cathodic rays given out under the action of the
+                    homogeneous secondary Roptgen radiation characteristic of the different elements
+                    have been studied by Sadler <hi rend="italic">(Phil. Mag.,</hi> March 1910) and
+                    Beatty <hi rend="italic">(Phil. Mag.,</hi> August 1910). The following table
+                    giving the properties of the cathode rays excited by the radiation from various
+                    elements is taken from Beatty’s paper; Z <hi rend="sub">1</hi> is the thickness
+                    of air at atmospheric pressure and</p>
+               <p>temperature required to absorb one-half of the energy of the cathode particles,
+                    Z <hi rend="sub">2</hi> is the corresponding quantity for hydrogen.</p>
+                <table>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Radiator.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Zi</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>Z <hi rend="sub">2</hi>
+                           </p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Iron</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>. 00804</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•0410</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Copper.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>..... .0135</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•0733</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Zinc</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>..... .0164</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>•0909</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Arsenic.</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>..... .0255</p>
+                        </cell>
+                        <cell cols="1" rows="1"/>
+                    </row>
+                    <row>
+                        <cell cols="1" rows="1">
+                           <p>Tin . .</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>..... .1672</p>
+                        </cell>
+                        <cell cols="1" rows="1">
+                           <p>1.37</p>
+                        </cell>
+                    </row>
+                </table>
+               <p>The properties of the cathode rays excited by the radiation from tin correspond
+                    very closely with those produced in a discharge tube when the potential
+                    difference between the anode and cathode is about 30,000 volts. When Röntgen
+                    rays pass through a thin plate the cathodic radiation on the side the rays
+                    emerge is more intense than on the side they enter. Kaye <hi rend="italic"
+                        >(Phil. Trans. 209,</hi> p. 123) has shown that when cathode rays fall upon
+                    a metal two kinds of Röntgen rays are excited, one being the characteristic
+                    radiation of the metal and the other a kind independent of the nature of the
+                    metal and dependent only upon the velocity of the cathode rays. The faster the
+                    cathode rays the harder the Röntgen rays they produce. It would be interesting
+                    to see if there is any connexion between the velocity of the cathode rays
+                    required to excite Röntgen rays as hard as those given out say by tin and the
+                    velocity of the cathode rays which the radiation from tin produces when it falls
+                    upon any metal. Sadler has shown that metals can give off cathodic radiation
+                    even when the incident Röntgen rays are too soft to excite the characteristic
+                    Röntgen radiation of the metal, but that there is a large increase in the
+                    cathodic radiation as soon as the characteristic Röntgen radiation is excited.
+                    It is possible that the shock produced by the emission of these cathode
+                    particles starts the vibrations which give rise to the characteristic rays; the
+                    cathode particles emitted when the incident rays arc too soft to excite the
+                    characteristic radiation coming from a different source from those tapped by the
+                    hard rays.</p>
+               <p>                    <hi rend="italic">Absorption of Ronlgen Rays.—</hi> The wide variations in the
+                    penetrating power of Röntgen rays from different sources is shown by the above
+                    table of the penetrating power of the characteristic rays of the different
+                    elements. Many experiments have been made on the penetration of the same rays
+                    for different substances. It is a rule to which there is no well-established
+                    exception that the greater the density of the substance the greater is its power
+                    of absorbing the rays. The connexion, however, between the absorption and the
+                    density of the substance is not in general a simple one, though there is
+                    evidence that for exceedingly hard rays the absorption is proportional to the
+                    density.</p>
+               <p>The power of any material to absorb rays is usually measured by a coefficient λ,
+                    the definition of which is that a plate i/X centimetres thick reduces the energy
+                    of the rays when they pass through it normally to <hi rend="italic">i/e</hi> of
+                    their original value, where <hi rend="italic">e</hi> is the base of the
+                    Napierian logarithms and equal to 2·7128. It has been shown that however the
+                    physical state of a substance may alter,—if, for example, it changes from the
+                    liquid to the gaseous,—λ/D, where <hi rend="italic">D</hi> is the density of the
+                    substance, remains constant. It has also been shown that if we have a mass <hi
+                        rend="italic">M</hi> made up of masses Mi, M <hi rend="sub">2</hi> , M <hi
+                        rend="sub">1</hi> , . . . of substances having coefficients, of absorption
+                    λι, X <hi rend="sub">2</hi> , Xj, . . . and densities Di, D <hi rend="sub"
+                        >2</hi> , D <hi rend="sub">8</hi> , . . . then if λ/D for the mixture is
+                    given by the equation</p>
+               <p>Mλ/D = M <hi rend="sub">1</hi> λ <hi rend="sub">1</hi> /D <hi rend="sub">1</hi>
+                    +M <hi rend="sub">2</hi> λ <hi rend="sub">2</hi> /D <hi rend="sub">2</hi> +M <hi
+                        rend="sub">3</hi> λ <hi rend="sub">3</hi> /D <hi rend="sub">3</hi> + . . .
+                    this equation is true whether the substances are chemically combined or
+                    chemically mixed. From this equation, when we know λ/D for a binary compound and
+                    for one of its constituents, we can find the value of λ/D for the other
+                    constituent. By the use of this principle we can find the value of λ/D for the
+                    elements which cannot be obtained in a .free state. Benoist <hi rend="italic"
+                        >(Jour, de Phys.</hi> (7), 28, p. 289) has shown that if the values of λ/D
+                    are plotted against the atomic weight we get a smooth curve; if we draw this
+                    curve it is evident that we have the means of determining the atomic weight of
+                    an element by measuring its transparency to Röntgen rays when in combination
+                    with elements whose transparency is known. Benoist has applied this method to
+                    determine the atomic weight of indium.</p>
+               <p>The value of λ/D for any one substance depends upon the type of ray used, and
+                    the ratio of the values of λ/D for two substances may vary very greatly with the
+                    type of ray; this is especially the case when one of the substances is hydrogen.
+                    Thus Crowther <hi rend="italic">(Proc. Roy. Soc.,</hi> March 1909) has shown
+                    that the ratio of X for air to X for hydrogen varied from 100 for rays given out
+                    by a Röntgen tube at a comparatively high pressure when the rays were very soft
+                    to 5*56 when the pressure in the bulb was very low and the rays very hard.
+                    Beatty <hi rend="italic">(Phil. Mag.,</hi> August 1910) found that this ratio
+                    was as large as 175 for the characteristic rays given out by iron, copper, zinc
+                    and arsenic, but fell to 25-0 for the rays from tin.</p>
+                <div>
+                    <head>
+                        <hi rend="italic">Polarization of Ronlgen Rays.—</hi>
+                        A great deal of attention has been paid to a phenomenon
+                        called the polarization of the </head>
+                </div>
+                <pb xml:id="eb11-23-r04-0696" facs="encyclopaediabri23chisrich_0743.jp2"/>
+                <div>
+                   <p>Röntgen rays. The nature of this effect may be illustrated by fig. i.
+                        Suppose that AB is a stream of cathode rays striking against a solid
+                        obstacle B and giving rise to Röntgen rays, let these rays impinge on a
+                        small body P, P under these conditions will emit secondary rays in all
+                        directions. Barkla <hi rend="italic">(Phil. Trans.</hi> , 1905, A, 204, p.
+                        467; <hi rend="italic">Proc. Roy. Soc. p,</hi> p. 247) found that the
+                        intensity of the secondary rays, tested by the ionization they produced in
+                        air, was less intense in the plane ABP than in a plane through PB at right
+                        angles to this plane, the distances from P being the same in the two cases;
+                        the difference in the intensities amounting to about 15%. Haga <hi
+                            rend="italic">(Ann. d. Phys.</hi> 28, p. 439), who tried a similar
+                        experiment hut used a photographic method to measure the intensity of the
+                        secondary rays, could not detect any difference of intensity in the two
+                        planes, but experiments by Bassler (<hi rend="italic">Ann. der Phys.</hi>
+                        28, p. 808) and Vegard <hi rend="italic">(Proc. Roy. Soc.</hi> 83, p. 379)
+                        have confirmed Barkla’s original observations.</p>
+                   <p>The “ polarization ” is much more marked if instead of exciting the
+                        secondary radiation in P by the Röntgen rays from a discharge tube we do so
+                        by means of secondary rays. If, for example, in the case illustrated by fig.
+                        1 we allow a beam of Röntgen rays to fall upon B instead of the cathode
+                        rays, the difference between the intensities in the plane ABP and in the
+                        plane at right angles to it are very much increased. _ It is only the
+                        scattered secondaiy radiation which shows this “polarization”; the
+                        characteristic secondary radiation emitted by the body at P is quite
+                        unpolarized. The existence of this effect has a very important bearing on
+                        the nature of Röntgen rays. Whether Röntgen rays are or are not a form of
+                        light, <hi rend="italic">t.e.</hi> are some form of electromagnetic
+                        disturbance propagated through the aether, is a question on which opinion is
+                        not unanimous. They resemble light in their rectilinear propagation; they
+                        affect a photographic plate and, Brandes and Dorn have shown, they produce
+                        an effect, though a small one, on the retina, .giving rise to a very faint
+                        illumination of the whole field of view. They resemble light in not being
+                        deflected by either electric or magnetic forces, while the characteristic
+                        secondary radiation may be compared with the phosphorescence produced by
+                        ultra-violet light, and the cathodic secondary rays with the photo-electric
+                        effect. . The absence of refraction is not an argument against the rays
+                        being a kind of light, for all theories of refraction make this property
+                        depend upon the relation • between the natural time of vibration T of the
+                        refracting substance and the period Z of the light vibrations, the
+                        refraction vanishing when Z/T is very small. Thus there would be no
+                        refraction for light of a very small period, and this would also be true if
+                        instead of regular periodic undulations we had a pulse of electromagnetic
+                        disturbance, provided the time taken by the light to travel over the
+                        thickness of the pulse is small compared with the periods of vibration of
+                        the molecules of the refracting substance. Experiments on the diffraction of
+                        Röntgen rays are very difficult, for, in addition to the difficulties caused
+                        by the smallness .of the wavelength or the thinness of the pulse, the
+                        secondary radiation produced when the rays strike against a photographic
+                        plate or pass, through air might give rise to what might easily be mistaken
+                        for diffraction effects. Röntgen has never succeeded in observing effects
+                        which prove the existence of diffraction. Fomm <hi rend="italic">(Wied.
+                            Ann.</hi> 59, p. 50) observed in the photograph of a narrow slit light
+                        and dark bands which looked like diffraction bands; but observation with
+                        slits of different sizes showed that they were not of this nature, and Haga
+                        and Wind <hi rend="italic">(Wied. Ann.</hi> 68, p. 884) have explained them
+                        as contrast effects. These observers, however, noticed with a very narrow
+                        wedge-shaped slit a broadening of the image, of the narrow part which they
+                        are satisfied could not be explained by the causes. Walter and Pohl <hi
+                            rend="italic">(Ann. der Phys.</hi> 29, p. 331) could not observe any
+                        diffraction effects, though their arrangement would have enabled them to do
+                        so if the wave-length had not been smaller than 1·5×10-<hi rend="sup"
+                            >9</hi> cm. Sir George Stokes <hi rend="italic">(Proc. Manchester Lit.
+                            and Phil. Soc.,</hi> 1898) put forward the view that the disturbances
+                        which constitute the rays are not regular periodic undulations but very thin
+                        pulses. Thomson <hi rend="italic">(Phil. Mag.</hi> 45, p. 172) has shown
+                        that when charged particles are suddenly stopped, pulses of very intense
+                        electric and magnetic disturbances are started. As the cathode rays consist
+                        of negatively electrified particles, the impact of these on a solid would
+                        give rise to these intense pulses. The electromagnetic theory therefore
+                        shows that effects resembling light, inasmuch as they are electromagnetic
+                        disturbances propagated through the aether, must be produced when the
+                        cathode rays strike against an obstacle. Since under these circumstances
+                        Röntgen rays are produced, it seems natural, unless direct evidence to the
+                        contrary is obtained, to connect the Röntgen rays with these pulses. This
+                        view explains very simply the “ polarization” of the rays; for, suppose the
+                        cathode particle moving from A to B were stopped at its first impact with
+                        the plate B (fig. 1), the electric force transmitted along BP would be in
+                        the plane ABP at right angles to BP. When this electric force reached the
+                        body at P it would accelerate any electrified particles in that body, the.
+                        acceleration being parallel to AB. Each of these accelerated particles
+                        would, start electric waves. The theory of such waves shows that their
+                        intensity vanishes along a line through the particle parallel to the
+                        direction of acceleration, while it is a maximum at right angles to this
+                        line; thus the intensity of the rays along a horizontal line through P would
+                        vanish, while it would be a maximum in the plane at right angles to this
+                        line. In this case there would be complete polarization. In reality the
+                        cathode particle is not. stopped at its first encounter, but makes many
+                        collisions, changing its direction between each; and these collisions will
+                        send out electric disturbances which when they fall on P are able to excite
+                        waves which send some energy along PC. The polarization will therefore be
+                        only partial and will be of the kind found by Barkla.</p>
+                   <p>The velocity with which the waves travel has not yet been definitely
+                        settled. Marx <hi rend="italic">(Ann. der Phys.</hi> 20, p. 677) by an
+                        ingenious but elaborate method came to the conclusion that they travelled
+                        with the velocity of light; his interpretation of his experiments has,
+                        however, been criticized by Franck and Pohl <hi rend="italic">(Verh. d. D.
+                            Physik Ges.</hi> 10, p. 489).</p>
+                   <p>Another view of the nafure of Röntgen rays has been advocated by Bragg <hi
+                            rend="italic">(Phil. Mag..</hi> 14, p. 429); he regards them as neutral
+                        electric doublets consisting of a negative and a positive charge of
+                        electricity which are usually held together by the attraction between them,
+                        but which may be knocked asunder when the rays strike against matter and
+                        turned into cathodic rays. On this view when the rays pass through a gas
+                        only a few of the molecules of the gas are struck by the rays and so we can
+                        easily understand why so few of the molecules are ionized. On the ordinary
+                        view of an electric wave all the molecules would be affected by the wave
+                        when it passed through a gas, and to explain the small fraction ionized we
+                        must either suppose that systems sensitive to the Röntgen rays are at any
+                        time present only in a very small fraction of the molecule or else that the
+                        front of an electric or light wave is not continuous but that the energy is
+                        concentrated in patches which only occupy a fraction of the wave front.</p>
+                   <p>                        <hi rend="italic">Apparatus for producing Röntgen Rays.—</hi> The tube now
+                        used most frequently for producing Röntgen rays is of the kind introduced by
+                        Porter and known as a focus tube (fig. 2). The cathode is a portion of a
+                        hollow sphere,</p>
+                   <p>and the cathode rays come</p>
+                   <p>to a point on or near a</p>
+                   <p>metal plate A, called the</p>
+                   <p>anti-cathode, connected</p>
+                   <p>with the anode; this plate</p>
+                   <p>is the source of the rays.</p>
+                   <p>This ought to be made of</p>
+                   <p>a very unfusible metal</p>
+                   <p>such as platinum or, still</p>
+                   <p>better, tantalum, and kept</p>
+                   <p>cool by a water-cooling</p>
+                   <p>arrangement. The anti-cathode is generally set at an angle of 45° to the
+                        rays; it is probable. that the 'action of the tube would be improved by
+                        putting the anti-cathode at right angles to the cathode rays. The walls of
+                        the tube get strongly electrified. This electrification affects the working
+                        of the tube, and the production of rays can often be improved by having an
+                        earth-connected piece of tin-foil on the outside, of the bulb, and moving it
+                        about until the best position is attained. . To produce the discharge an
+                        induction coil is generally employed with a mercury interrupter. Excellent
+                        results have been obtained by using an electrostatic induction machine to
+                        produce the current, the emission of rays is more uniform than when an
+                        induction coil is.used. The rays are emitted pretty uniformly in all
+                        directions until the plane of the anti-cathode is approached; in the
+                        neighbourhood of this plane there is a rapid falling off in the intensity of
+                        the rays. After long use the glass of the bulb often becomes distinctly
+                        purple. This is believed to be due to the presence of manganese compounds in
+                        the glass. (J. J. T.)</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

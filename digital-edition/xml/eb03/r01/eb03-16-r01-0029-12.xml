@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb03-16-r01-0029-12"
+                facs="gri_33125011196389_0035.tif" type="entry">
+
+                <p><label>RECONNOITRE</label> in military affairs, implies to view and examine the
+                    ſtatc of things, in order to make a report thereof.</p>
+                <p>Parties ordered to reconnoitre· are to obſerve the country and the enemy ; to
+                    remark the routes, conve∙&gt; niences, and inconveniences of the ſirſt ; the
+                    poſition, march, or forces of the ſecond. In either caſe, they ihould have an
+                    expert geographer? capable cf taking</p>
+                <pb xml:id="eb03-16-r01-0030" facs="gri_33125011196389_0036.tif"/>
+                <p>plans readily : he ſhould be the beſt mounted of the whole, in caſe the enemy
+                    happen to ſcatter the cſcorte, that he may ſave his works and ideas. See war.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

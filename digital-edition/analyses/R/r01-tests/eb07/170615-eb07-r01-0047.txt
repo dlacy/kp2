@@ -1,0 +1,208 @@
+gine to generate a given number of cylinders of steam in a certain time, and not in the diameter of the piston.
+The evaporation is produced partly by radiant heat communicated to the water surrounding the fire-box, and partly from that which is transmitted by the hot air passing through the tubes, the effect of the former being to the latter as 3 to L At a velocity of l8∙88 miles per hour, M. Pambour found that 55∙82 cubic feet of water were evaporated per hour, with a heating surface exposed to radiation of 43∙ 1
+2
+square feet, and a surface exposed to the heated air of 288∙35 feet, equal together to 139∙24 square feet of radiating surface ; and calling
+a
+the former surface, and 
+b
+the latter, we shall have the evaporating power of different engines at the above velocity,
+e=a
++ ~y> ar, d reducing the communicative to the equivalent radiant heat as above, we get 0∙4 cubic feet evaporated per hour for each square foot of radiating surface, of which, from blowing off, loss from the steam ports, and half an inch at each end of the cylinders, the effective steam is only 0∙3 cubic feet for each square foot of radiating surface. The piston must move about 300 feet per minute to work the blast properly, which generally requires 6 lb. per square inch, at 25 miles per hour, and at the highest velocities, will take one-third the power of the engine.
+The coke consumed in the best kind of engines, will be about one-fourth ofa pound per ton per mile, gross load, and one-fourth of a gallon of water, provided the load is proportioned to the capability of the engine. A great deal also depends on the quality of the coke ; and as the power of an engine consists so much in the quantity of water it can evaporate, we subjoin a Table giving the load to the nearest ton and velocity on different inclinations, when sixty cubic fect of water per hour can be converted into steam, that being the capability of the best modern engines.
+The expenses of railroads are not yet well understood, and are very variable. For instance, in America, the Boston and Worcestercosts L.157 per mile, and the Uticaand Shenectady, L.363 per mile ; whilst in England the Liverpool and Manchester costs L.1000. Again, the latter costs L.444 per mile, for maintenance of the way, whilst the Leicester and Swannington, a coal line, was let for four or five years, at L.70 per mile, and is now let for less, the company finding engines and ballast, at which price the contractor is supposed to have made L.500 a-year, besides interest upon the cost of his waggons. About 180,000 tons yearly pass on this line. The engines weigh from three to twelve tons, and the waggons thirty-eight cwt. carrying four
+Evaporation
+1
+cubic foot per minute. Gross Load exclusive of Terlder.
+Plane.
+e≤
+~ C
+ε∙c
+s⅛.
+Ja
+2 B.
+«5
+ε∙=
+= 8.
+0
+SI
+Ii
+β<β
+Sg.
+Ef
+Sl
+i
+∣
+Sg.
+81 Eλ
+SsL
+IS
+∈
+f
+Level.
+1 in 4480
+... 2240 ... 1120 ... 1000 ...    900
+... 800 ...    700
+... 600 ... 500 ...    400
+...    300
+... 200 ... 100
+346
+326
+308
+276
+270
+265
+256
+246
+235
+220
+201
+175
+138
+84
+251
+236
+223
+200
+195
+191
+184
+177
+169
+158
+144
+125
+98
+55
+188
+176
+166
+148
+145
+142
+137
+131
+125
+116
+106
+91
+70
+38
+143
+134
+126
+112
+109
+107
+102
+98
+93
+87
+78
+67
+51
+25
+109
+102
+95
+84
+82
+80
+77
+74
+70
+65
+58
+49
+36
+16
+82
+77
+72
+63
+61
+60
+57
+55
+51
+47
+42
+35
+25
+9
+61
+57
+53
+46
+45
+43
+41
+39
+37
+34
+29
+24
+16
+3
+44
+41
+37
+32
+31
+30
+28
+27
+25
+22
+19
+15
+8
+30
+27
+25
+20
+l9⅞
+19
+18
+16
+15
+13
+10
+7
+2
+tons nett. The locomotive power is rather more than one-fourth of a penny per ton per mile.
+The maintenance of the way upon the Grand Junction railway, for eighty-two mdes to Newton, has been let at L.244 per mile, including rails, chairs, bridges, and every thing. We have no doubt this is amply sufficient. They pay L.20,000 a-year to the Liverpool and Manchester company for the use of their line and offices. The Great Western railway, under unfavourable circumstances, has been let at L.4l6 per mile; and the repairs to the London and Southampton line are divided, the company finding all materials, and contracting for their labour only, for which they pay L.140 per mile, including the use of tools. But the best data to found any calculation on this varying expenditure, are those contained in the reports published by the Directors of the Liverpool and Manchester railway, for the five half yearsending the 30th of June 1834. We shall endeavour to set this calculation in its true light, which has not yet been done. The following are the various items of expenditure, exclusive of interest, with which we have nothing to do.
+Liverpool and Manchester Railway expenditure for five half years ending June 1834, exclusive of interest:—
+Locomotive power, including new engines.........L.67552
+Maintenance of way, including new rails............ 38306
+Coaching, including compensation for lost goods,
+repairs, and office expenses........................ 32628
+Carrying, including waggon repairs, carting, and
+compensation.........................................    63279
+Stationary engine expenses, including ropes, &c...    4728
+Police disbursements................................. 5285
+Engineering department.............................. 2084
+Direction, office expenses, rent, taxes, bad debts,
+and sundries.......................................... 23842
+Total, exclusive of interest..............L.237,704
+We have included the cost of new engines in the locomotive power expenditure, as otherwise we should have had to allow an uncertain amount for depreciation. For the same reason we have included tile cost of new rails in the disbursements for the maintenance of way ; whereas former computers have only included the cost of new blocks and sleepers. In the coaching and carrying departments are included the following items, which we shall afterwards use.
+Coach repairs......................L.7957
+Waggon repairs.................. 6436
+Let us now see what duty has been performed for these several amounts of expenditure :—
+944,113
+passengers conveyed in
+15,831
+trips, or
+59.63
+per
+trip
+= 34½
+miles on a level.
+For power, Goods, nett, 440229 tons, viz. goods 345463
+1 189533 + coals —-—
+... G∞ds, gross, 676065 tons, viz. 440229 + waggons 188669 + empty do. at¼ = 47167.
+For way, G∞ds, nett, 489614 tons, viz. 440229 +
+7411+91358 di .
+--= Bolton tonnage
+... Goods, gross, 751914 tons, viz. 489614 + waggons 209840 + empty do 52460.
+For power, Goods, trips, 11702 at 37- 63 tons per trip, Forway,    ...    13014    ...
+The distinction shewn here between the power and the way arises from a small portion of the coals and the Bolton tonnage not being drawn by the company’s engines ; and hence these have to be omitted in any calculations on the cost of locomotive power, but are retained in the expenses

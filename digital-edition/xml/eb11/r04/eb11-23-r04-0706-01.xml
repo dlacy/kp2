@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0706-01"
+                facs="encyclopaediabri23chisrich_0755.jp2" type="entry">
+
+                <p><label>ROOM</label> originally a word meaning space or accommodation; the
+                    ordinary meaning of an apartment in a building, one of the interior divisions of
+                    a house, dates from the 15th century. The word is common to Teutonic languages,
+                    cf. Du. <hi rend="italic">ruim,</hi> Ger. <hi rend="italic">Raum,</hi> Swed. and
+                    Dan. <hi rend="italic">rum</hi>, with the original meaning of space. Skeat
+                    connects the word with the root seen in Lat. <hi rend="italic">rus</hi>, open
+                    country.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="chi.28490931-1526160593_Page_719.jpf" type="entry"
+                xml:id="eb07-19-s01-0662-02" xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SAVIOUR</label>, an appellation which is peculiarly given to Jesus Christ,
+                    as being the Messiah and Saviour of the world. See <hi rend="smallcaps"
+                        >Jesus.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>
