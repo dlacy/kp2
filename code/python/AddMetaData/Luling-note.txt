@@ -1,0 +1,15 @@
+Dr. Logan,
+
+Please see the attached script.
+
+In addition to lxml, pandas [a Python package that processes spreadsheets] is also needed to run the script.
+
+You could test this script for another entry. You just need to change the input/output filenames at 3 places:
+Line 79 for the csv file;
+Line 84 for the unprocessed entry file;
+Line 96 for the output entry file.
+This assumes that the above 3 files and the python script are in the same folder. 
+
+Best,
+Luling
+
