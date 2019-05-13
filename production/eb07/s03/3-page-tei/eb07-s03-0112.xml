@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:16:56Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>every private ship the drum is beaten, or the bell is chimed every quarter of an
+                hour, according as the ship is on the starboard or larboard tack. By such
+                contrivances, it is never difficult to keep a fleet in very good order when sailing
+                on a wind. The wind is almost always moderate, and the ships keep under a very easy
+                sail. It is much more difficult when going large, and separation can be prevented
+                only by the most unwearied attention. The greatest risk is the falling in with
+                strange ships steering another course. But evolutions and other movements are
+                frequently indispensable. The course must be changed by tacking or wearing, and
+                other services must be performed. None, however, are admitted but the most probable,
+                the most simple, and the most necessary.</p>
+            <p>The commander-in-chief first informs the fleet by the preparatory fog signal, that he
+                is about to order an evolution, and that he is to direct it by fog signals. This
+                precaution is indispensable to prevent mistakes. Along with this advertising signal
+                he makes the signal of the movement intended. This not only calls the attention of
+                the fleet, but makes the ships prepare for the precise execution of that movement.
+                The commanders of divisions repeat the advertising signal, which informs their ships
+                of their situation, and the private ships beat their drums or chime their bells.
+                Thus the whole ships of the fleet close a little, and become a little better
+                acquainted with their mutual position. It is now understood that a movement is to be
+                made precisely a quarter of an hour after the advertisement. At the expiration of
+                this time, the effective signal for this movement is made by the commander-in-chief,
+                and must be instantly repeated by the commanders of divisions, and then the movement
+                must be made by each ship, according to the sailing and fighting instructions. This
+                must be done with the utmost attention and precision, because it produces a
+                prodigious change in the relative position of the ships ; and even although the good
+                sense of the commander-in-chief will select such movements for accomplishing bis
+                purpose as produce the smallest alterations, and the least risk of separation or
+                running foul of each other ; it is still extremely difficult to avoid these
+                misfortunes. To prevent this as much as possible, each ship which has executed the
+                movement, or which has come on a course thwarting that of the fleet, intimates this
+                by a signal properly adapted, often adding the signal of the tack on which it is now
+                standing, and even its particular signal of recognizance. This is particularly
+                incumbent on the flag ships and the leading ships of each division. After a
+                reasonable interval, the commander-in-chief will make proper signals for bringing
+                the fleet to a knowledge of their reunion in this new position.</p>
+            <p>This must serve for a general account of the circumstances which must be attended to
+                in framing a code of signals. The arbitrary characters in which the language is
+                written must be left to the sagacity of the gentlemen of the profession. It must be
+                observed, that the stratagems of war make secrecy very’ necessary. It may be of
+                immense hazard if the enemy should understand our signals. In time of battle it
+                might frequently frustrate our attempts to destroy them, and at all times would
+                enable them to escape, or to throw us into disorder. Every commander of a squadron,
+                therefore, issues private signals, suited to his particular destination ; and
+                therefore it is necessary that our code of signals be susceptible of endless
+                variations. This is exceedingly easy, with out any increase of their number. The
+                commander needs only intimate that such and such a signal is so and so changed in
+                its meaning during his command.</p>
+            <p>We cannot leave this article without returning to an observation which we made almost
+                in the beginning, viz. that the system of signals, or, to speak more properly, the
+                manner of framing this system, has received much improvement from the gentlemen of
+                the French navy, and particularly from the most ingenious thought of M. de la
+                Bourdonnais,</p>
+            <p>of making the signals the immediate expressions of numbers only, which numbers may be
+                afterwards used to indicate any order whatever. We shall present our readers with a
+                scheme or two of the manner in which this may be done for all signals, both day,
+                night, and fog. This alone may be considered as a system of signals, and is equally
+                applicable to every kind of information at a distance. Without detracting in the
+                smallest degree from the praise due to M. de la Bourdonnais, we must observe, that
+                this principle of notation is of much older date. Bishop Wilkins, in his <hi
+                    rend="italic">Secret and Sιvift Messenger,</hi> expressly recommends it, and
+                gives specimens of the manner of execution ; so does Dr. Hook in some of his
+                proposals to the Royal Society. Gaspar Schottus also mentions it in his <hi
+                    rend="italic">Technica Curiosa; </hi>and Kircher, amongst others of his <hi
+                    rend="italic">curious Projects.</hi></p>
+            <p>M. de la Bourdonnais’s method is as follows :—He chooses pendants for his effective
+                signals, because they are the most easily displayed in the proper order. Several
+                pendants, making part of one signal, may be hoisted by one halyard, being stopped on
+                it at the distance of four or six feet from each other. If it be found proper to
+                throw out another signal at the same time and place, they are separated by a red
+                pendant without a point. His colours are chosen with judgment, being very distinctly
+                recognised, and not liable to he confounded with the addressing signals appropriated
+                to the different ships of the fleet. They are, for</p>
+            <p>No.</p>
+            <list type="ordered">
+                <item>Red.</item>
+                <item>White.</item>
+                <item>Blue.</item>
+                <item>Yellow.</item>
+                <item>Red, with white tail.</item>
+                <item>Red, with blue tail.</item>
+                <item>White, with blue tail.</item>
+                <item>White, with red tail.</item>
+                <item>Blue, with yellow tail.</item>
+            </list>
+            <p>10. Yellow, with blue tail.</p>
+            <p>Three sets of such pendants will express every number under a thousand, by hoisting
+                one above the other, and reckoning the uppermost hundreds, the next below it tens,
+                and the lowest units. Thus the number 643 will be expressed by a pendant red with
+                blue tail, a yellow pendant below it, and a blue one below the last.</p>
+            <p>This method has great advantages. The signals may be hoisted in any place where best
+                seen, and therefore the signification is not affected by the derangement of the
+                flagship’s masts and rigging. And by appropriating the smaller numbers to the battle
+                signals, they are more simple, requiring fewer pendants.</p>
+            <p>As this method requires a particular set of colours, it has its inconveniences. An
+                admiral is often obliged to shift his flag, even in time of action. He cannot easily
+                take the colours along with him. It is therefore better to make use of such colours
+                as every private ship is provided with. One set of 11 will do, with the addition of
+                three, or at most of four pendants, of singular make, to mark 100, 200, .300, 400.
+                Two of these flags, one above the other, will express any number under 100, by using
+                the 11th as a substitute for any flag that should be repeated. Thus the 11th flag,
+                along with the flag for eight or for six, will express the number 88 or 66. Thus we
+                are able to express every number below 500, and this is sufficient for a very large
+                code of signals.</p>
+            <p>And in order to diminish as much as possible the number of these compound signals, it
+                will be proper that a number of single flag signals be preserved, and even varied by
+                circumstances of position, for orders which are of very frequent occurrence, and
+                which can hardly occur in situations where any obstructions are occasioned by loss
+                of masts or otherwise. And farther, to avoid all chance of mistake, a particular
+                signal can be added, intimating that the signals now exhibited are numeracy signals
+                ; or, which is still better, all signals may be considered as numerary signals ; and
+                those which we have just now called single flat signals may be set down opposite to,
+                or as expressing the largest numbers of the code.</p>
+        </body>
+    </text>
+</TEI>

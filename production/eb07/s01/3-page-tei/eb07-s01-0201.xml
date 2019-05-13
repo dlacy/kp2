@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:14:09Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SCRUTINY <hi rend="italic">(Scrutinium),</hi> in the primitive church, was an
+                examination or probation practised in the last week of Lent, upon the catechumens,
+                who were to receive baptism on Easter-day. The scrutiny was performed with a great
+                many ceremonies. Exorcisms and prayers were made over the heads of the catechumens ;
+                and upon Palm Sunday the Lord’s Prayer and Creed were given them, which they were
+                afterwards made to rehearse. This custom was more in use in the Church of Rome than
+                anywhere else, though it appears, by some missals, to have been likewise used, at a
+                much later period, in the Gallican church. It is supposed to have ceased about the
+                year 860.</p>
+            <p><hi rend="smallcaps">Scrutiny</hi> is also used, in the <hi rend="italic">canon
+                    Law,</hi> for a ticket or a little paper billet, in which, at elections, the
+                electors write their votes privately, so that it may not be known for whom they
+                vote. Among us the term <hi rend="italic">scrutiny</hi> is chiefly used for a strict
+                perusal and examination of the several votes hastily taken at an election, in order
+                to find out any irregularities committed therein by unqualified voters.</p>
+            <p>SCRUTORE, or <hi rend="smallcaps">Scrutoir</hi> (from the French <hi rend="italic"
+                    >escritoire),</hi> a kind of cabinet, with a door or lid opening downwards.</p>
+            <p>SCRY, in falconry, denotes a large flock of fowl.</p>
+            <p>SCUDDING, the movement by which a ship is carried precipitately before a tempest. As
+                a ship flies with amazing rapidity through the water whenever this expedient is put
+                in practice, it is never attempted in a contrary wind,</p>
+            <p>unless when her condition renders her incapable of sustaining the mutual effort of
+                the wind and waves any longer on her side, without being exposed to the most
+                imminent danger of being overset.</p>
+            <p>A ship either scuds with a sail extended on her foremast, or, if the storm is
+                excessive, without any sail at all ; which, in the sea-phrase, is called <hi
+                    rend="italic">scudding under bare poles.</hi> In sloops and schooners, and other
+                small vessels, the sail employed for this purpose is called the <hi rend="italic"
+                    >square sail.</hi> In large ships, it is either the foresail at large, reefed,
+                or with its goose-wings extended, according to the degree of the tempest ; or it is
+                the fore-top sail., close reefed, and lowered on the cap ; which last is
+                particularly used when the sea runs so high as to becalm the foresail occasionally,
+                a circumstance which exposes the ship to the danger of broaching to. The principal
+                hazards incident to scudding are generally a pooping sea ; the difficulty of
+                steering, which exposes the vessel perpetually to the risk of broaching to ; and the
+                want of sufficient sea-room. A sea striking the ship violently on the stern may dash
+                it inwards, by which she must inevitably founder. In broaching to, that is,
+                inclining suddenly to windward, she is threatened with being immediately overturned,
+                and, for want of sea-room, she is endangered by shipwreck on a lee-shore.</p>
+            <p>SCULPONEÆ, among the Romans, a kind of shoes worn by slaves of both sexes. These
+                shoes consisted only of blocks of wood made hollow, like the French sabots.</p>
+        </body>
+    </text>
+</TEI>

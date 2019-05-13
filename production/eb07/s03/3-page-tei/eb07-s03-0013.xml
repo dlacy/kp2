@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:14:29Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>the centre of gravity of the displacement when the ship is inclined. Draw OM
+                perpendicular to <hi rend="italic">ac.</hi> Then, after the inclination, the line OM
+                will be vertical. From F and G draw FT and GV, perpendicular to OM, and from G draw
+                GZ parallel to MO, cutting FT in Z.</p>
+            <p>Now, when the ship has inclined so that the point O becomes the centre of gravity of
+                the displacement, the upward pressure of the water acts on the then vertical line
+                OM, with a force equal to the weight of the ship, because it supports that weight ;
+                that is to say, with a force equal to the displacement, which we will represent by
+                D. But the axis of revolution is the point G the centre of gravity, and GV being
+                drawn from this point perpendicular to the direction OM in which the force acts, D
+                the displacement multiplied by GV, its perpendicular distance from the axis of
+                rotation, will be the force exerted to right the ship, or make it resume its upright
+                position. But, by the construction, D × GV = D × FT — D × FZ.</p>
+            <p>Now D × FT is the horizontal moment of the displacement produced by the transfer of
+                the solid from the weather to the lee side of the middle line ; it is therefore
+                equal to the horizontal moment <hi rend="italic">bl,</hi> and consequently we have
+                the effort to right the ship, or the moment of stability, as it is called, <hi
+                    rend="italic">= b</hi>I — D × FZ.</p>
+            <p>But if <hi rend="italic">s</hi> be taken = sin. of inclination,</p>
+            <p>FZ = s × rad. FG, or if FG = d, then moment of stability = <hi rend="italic">bl —
+                    D∙d∙s.</hi></p>
+            <p>Hence, in order to calculate the actual moment of stability of a vessel at a given
+                angle of inclination,</p>
+            <list type="instructions" rend="numbered">
+                <item>Assume an inclined load water-section, cutting the horizontal load
+                    water-section at an angle of which <hi rend="italic">s</hi> is the sine ; and
+                    suppose the assumed inclined and the horizontal load water-sections to intersect
+                    each other in their common intersection with the longitudinal vertical section
+                    of the ship.</item>
+                <item>Find, by the methods of approximation, the solid contents of the two prismatic
+                    solids of immersion and emersion, intercepted between the segments of the
+                    inclined and the horizontal load water-sections.</item>
+                <item>Find, by the method of approximating to the area of plane surfaces, the area
+                    of the above-mentioned assumed inclined section.</item>
+                <item>Find the value of DS (fig. 1), which has been shown to l&gt;e equal to the
+                    difference between the contents of the prismatic solids of immersion and
+                    emersion, already found, divided by the product of the area of the assumed
+                    inclined section, into <hi rend="italic">s,</hi> the sine of the angle of
+                    inclination.</item>
+                <item>Through the point S draw a section parallel to the assumed inclined section;
+                    find in each vertical transverse section the areas of each of the sections of
+                    the true prismatic solids of immersion and emersion ; and also find the
+                    horizontal moments of these areas from the point S.</item>
+                <item>Find the horizontal distance of the centre of gravity of the whole emerged
+                    solid from S, assuming the emerged solid to be equal to half the sum of the two
+                    solids of immersion and emersion, which are intercepted between the segments of
+                    the assumed inclined load water-section and the horizontal load
+                    water-section.</item>
+                <item>Find also the horizontal distance of the centre of gravity of the whole
+                    immersed solid from S, assuming the immersed solid to be equal to half the sum
+                    of the same two solids of immersion and emersion.</item>
+                <item>Add these two distances together ; their sum will be the horizontal distance
+                    between the centres of gravity of the solids of immersion and emersion. Take the
+                    product of this distance multiplied into half the sum of the solids of immersion
+                    and emersion, and we shall have the value of the positive part of the expression
+                    for the moment of stability, or the value of <hi rend="italic">bl.</hi></item>
+                <item>The product of three quantities, the displacement, the distance between the
+                    centres of gravity of the ship and of the displacement, and the sine of the
+                    angle of inclination, will give the value of the negative part of the
+                    expression.</item>
+                <item>10. Subtract the value of the negative part of the expression from that of the
+                    positive part, and the remainder will be the value of the expression for the
+                    moment of stability of the ship at the given angle of inclination.</item>
+            </list>
+            <p>It will be seen that the calculation of the moment of stability of a ship is very
+                laborious. Several of the steps above enumerated in order, will, however, have been
+                already taken for other purposes. The calculations may be considerably shortened by
+                assuming a value for the distance DS, or the distance that the point S is from the
+                middle line of the ship. We have already described the method of ascertaining this
+                distance correctly, but generally it may be assumed to be about two or three tenths
+                of a foot at first ; and if the solids of immersion and emersion arc not found to he
+                equal, or very nearly so, with that assumption, another point must be taken, either
+                within or without the former, according as the solid of immersion or emersion is the
+                lesser. If <hi rend="italic">e</hi> be the difference between the two solids, and
+                    <hi rend="italic">a</hi> the area of the first assumed inclined section, if <hi
+                    rend="italic">x</hi> be the perpendicular distance between the true inclined
+                section and the section we have assumed, <hi rend="italic">ax</hi> will cqual <hi
+                    rend="italic">c</hi> nearly, or <hi rend="italic">x = </hi>which distance must
+                be set off perpendicularly to the assumed section, and we obtain the correct
+                position of the point S.</p>
+            <p>In order to determine the distance <hi rend="italic">d</hi> between the centre of
+                gravity of the ship and the centre of gravity of the displacement, the distance of
+                the centre of gravity of the ship above or below the load water-line must be
+                ascertained. To avoid the labour attendant on obtaining the position of this point
+                by calculation, it may be determined experimentally in each class of ships of war
+                when fully stowed and equipped.</p>
+            <p><hi rend="italic">Method of ascertaining the centre of Gravity of a Ship by
+                    Experiment.</hi></p>
+            <p>We shall describe two methods of performing this experiment. The first of these was
+                proposed by Chapman, and he strongly recommended that it should be made on ships of
+                all classes. The principle on which it is founded is as follows. Various weights on
+                board are removed in a transverse direction, so as to cause the ship to incline ;
+                and the momentum of the total weight so removed will necessarily be equal to the
+                moment of stability. Now the momentum of the weight removed will be equal to the
+                product of the weights, the distance they are removed in a transverse direction, and
+                the cosine of the angle of inclination ; which quantity, therefore, is equal to the
+                moment of stability. If W represent the weights, <hi rend="italic">a</hi> the
+                distance they are removed, and <hi rend="italic">c</hi> the cosine of the angle of
+                inclination ; then, <hi rend="italic">bl — Dds </hi>being the expression for the
+                moment of stability, we have this equation,</p>
+            <p>W∙<hi rend="italic">a· c = b</hi>I<hi rend="italic"> —</hi> Dds,</p>
+            <p>therefore<hi rend="italic"> d = </hi><hi rend="italic superscript">b</hi><hi
+                    rend="superscript">I - W ∙ </hi><hi rend="italic superscript">a ∙ e</hi><hi
+                    rend="italic"> / </hi><hi rend="italic subscript">Ds</hi></p>
+            <p>in which <hi rend="italic">d,</hi> the distance between the centre of gravity of the
+                ship and the centre of gravity of the displacement, is the only unknown quantity,
+                and may therefore easily be found.</p>
+            <p>We shall now describe the method by which this experiment was applied to determine
+                the centre of gravity of her majesty’s ship sl∞p Scylla, of eighteen guns, and which
+                was originally an eighteen-gun brig. She was lying in Portsmouth harbour in May
+                1830, under the command of Captain Hindmarsh, at whose request the experiment was
+                performed, by the late Mr Morgan of the School of Naval Architecture, then a foreman
+                of her majesty’s dock-yard at Portsmouth, assisted by the writer of the present
+                article.</p>
+        </body>
+    </text>
+</TEI>

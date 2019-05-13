@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:22:14Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ther as belonging to his separate class <hi rend="smallcaps">Αμρηιβιλ,</hi> which,
+                after the example of Blainville and Latreille, he constitutes by means of the entire
+                Batrachian order.@@<hi rend="superscript">1</hi> Thus also <hi rend="italic">Lacerta
+                    apoda</hi> of Pallas, though furnished on each side with a small bone analogous
+                to the femur, and pertaining to an actual pelvis concealed beneath the skin, is yet
+                classed by the great French anatomist with the Ophidians, being, so to say, the “
+                very head and front of their offending ;”@@<hi rend="superscript">s</hi> while
+                several systematic writers range our <hi rend="italic">Anguis fragilis,</hi> and
+                other snakes commonly so called, among the lizards. An American reptile, <hi
+                    rend="italic">Anguis ventralis</hi> of Linn., now forms Daudin’s genus <hi
+                    rend="italic">Ophisaurus,</hi> the name of which (derived from ὄφις<hi
+                    rend="italic">, serpent,</hi> and σαυϑoς, <hi rend="italic">lizard)</hi> implies
+                the peculiar combination now referred to. The Saurian genus <hi rend="italic">Seps,
+                </hi>described at the conclusion of our former treatise, is characterized by Cuvier
+                as having an elongated body, “ tout- à-fait semblable à celui d’un orvet’’ (<hi
+                    rend="italic">Anguis)</hi> ; and, on the other hand, the same author enters upon
+                his Ophidian order by means of the <hi rend="italic">Anguidæ,</hi> or slow-worms,
+                which he simply describes as “ des seps sans pieds.” These, and other examples which
+                it would be easy to adduce, demonstrate the close connection which subsists between
+                the Saurian and Ophidian orders.</p>
+            <p>It has indeed been customary to class among serpents whatever reptiles combined the
+                absence of limbs with an extremely lengthened form of body ; but a more rigorous
+                observation will demonstrate that several species which, in accordance with that
+                principle, will take their place as serpents, are yet in their prevailing organic
+                structure removed from them in most essential points, the chief resemblance being
+                that of the external and extremely lengthened form. Now this attenuated aspect, and
+                absence of all the ordinary locomotive members, are likewise exhibited by several
+                Saurian reptiles, and of course in an increased degree as they actually approach the
+                serpent or Ophidian tribes ; but the two characters just mentioned do not convert
+                them from one order to another, being still held, as it were, in subordination to
+                the general structure.@@<hi rend="superscript">3</hi></p>
+            <p>We bring forward these observations at present, chiefly that the reader may
+                understand why we commence our treatise on serpents by <hi rend="italic">a</hi>
+                brief sketch of several species which in truth we can scarcely regard as serpents at
+                all, however raised “ to that bad eminence” by many noted writers. We might have
+                placed them at the termination of the Saurian order of our former article <hi
+                    rend="smallcaps">Reptilia</hi> ; but the fact being that we did not do so, we
+                feel it incumbent on us, before proceeding to the serpents properly so called, to
+                present a short notice of their names and nature. In doing this we shall follow for
+                a space the arrangement of Baron Cuvier, presuming that the reader will now
+                understand our views regarding the doubtful nature of all those genera which precede
+                the true serpents, of the advent of which due notice will be given.</p>
+            <p>The French anatomist defines serpents as,—reptiles without feet, which advance by
+                means of sinuous movements of</p>
+            <p>the body. He divides them into three great groups,—the Anguidæ or slow-worms,—the
+                true serpents (subdivided into, 1st, double movers, <hi rend="italic">i</hi>. <hi
+                    rend="italic">e</hi>. the genera <hi rend="italic">Amphisbæna</hi> and <hi
+                    rend="italic">Typhlοps ;</hi> 2dly, serpents properly so called, containing all
+                the actually Ophidian species),—and the naked serpents, composed of the single genus
+                    <hi rend="italic">Cacilia.</hi></p>
+            <p>We commence, then, with the</p>
+            <p>ANGUIDÆ, OR SLOW-WORMS.</p>
+            <p>These still exhibit the bony head, the teeth, the tongue of <hi rend="italic"
+                    >Seps,</hi> and the eye is furnished with three eyelids. They correspond to the
+                ancient unrestricted genus <hi rend="smallcaps">Anguis</hi> of Linnæus, and are
+                characterized externally by imbricated scales covering the whole body. The species
+                now form four minor genera, of which the first three still exhibit beneath the skin
+                certain small bones corresponding to those of the shoulder and pelvis.</p>
+            <p><hi rend="smallcaps">Genus Pseudopus,</hi> Merrem. Tympanum visible externally. A
+                prominence on each side of the anus, containing a small bone analogous to the femur,
+                and appertaining to a true pelvis hid beneath the skin. Rudiments of the anterior
+                extremities barely manifested by an inconspicuous fold, containing no interior
+                humerus. One of the lungs is a quarter less than the other. The scales are thick and
+                imbricated, and between those of the back and belly are some smaller scales, which
+                produce a longitudinal furrow on either side.</p>
+            <p>Of the species, the earliest known is <hi rend="italic">P. Pallasii,</hi> Cuv,, <hi
+                    rend="italic">Laceτta apοda,</hi> Pallas,—discovered in the south of Russia by
+                the naturalist last named.@@* It measures from one to two feet in length, and the
+                colours are ferruginous above, pale yellow beneath. The scales of the back are
+                smooth, those of the tail carinated. This species occurs also in Hungary and
+                Dalmatia, and the specimen figured by Dr Shaw@@<hi rend="superscript">s</hi> was
+                procured in Greece by Dr John Sibthorpe, the professor of botany in the university
+                of Oxford. M. Dur- ville discovered another species (which bears his name) in the
+                    Archipelago.@@<hi rend="superscript">8</hi> See Plate CCCCXLIII. fig. 1.</p>
+            <p><hi rend="smallcaps">Genus Ophisaurus,</hi> Daudin. No external appearance even of
+                the hinder extremities, but the tympanum is still apparent, and the scales exhibit a
+                plication or folding upon each side of the trunk. The smaller lung only equals a
+                third of the greater.@@<hi rend="superscript">7</hi></p>
+            <p>The best known species is <hi rend="italic">Oph. ventralis,—Anguis ventralis,</hi>
+                Linn.,—an American reptile, common in the southern states of the union. It is of a
+                greenish yellow, spotted above with black. Its tail is longer than its body, and the
+                creature itself is so brittle and easily broken, even in the living state, as to be
+                known by the name of glass serpent. According to Catesby, “ a small blow of a stick
+                causes the body to separate, not only at the place struck, but at two or three other
+                places, the muscles being articulated quite through the vertebrae.”@@·</p>
+            <p><hi rend="italic superscript">@@@1</hi><hi rend="italic"> Encyclopedia of Anatomy and
+                    Physiology,</hi> part i. p. 91. These amphibian orders are as follows : 1st, <hi
+                    rend="italic">Anιpl∣ipneurta,</hi> containing the Sirens and Proteans; 2d, <hi
+                    rend="italic">Anoura,</hi> the frogs and toads ; 3d, <hi rend="italic"
+                    >Urodela,</hi> tbe salamanders; 4th, <hi rend="italic">Abranchia,</hi> the
+                genera Menopoma and Ampbiuma; and, 5th, <hi rend="italic">Apoda,</hi> the genus
+                Crecilia. “ It is easy,” adds Mr Swainson, “ to perceive that this last passes into
+                the first by means of the dipod Sirens, and thus the whole form a circular group
+                more or less perfect in its connecting links.” (<hi rend="italic">Cabinet
+                    Cydopœdia,</hi> vol. cxvi. p. 86.)</p>
+            <p><hi rend="superscript">@@@s</hi> See <hi rend="italic">Règne Animat,</hi> ii. 69.</p>
+            <p><hi rend="superscript">@@@s</hi> “ Lin examen comparatif,” observes M. Schlegel, “
+                des objets m’a démontré que ces Sauriens anomaux, c’est-à-dire, à formes alongées et
+                à extrémités rudimentaires, appartiennent toujours par l’ensemble de leur
+                organisation à quelque espèce de l’une ou l’autre des familles de cet ordre, parmi
+                lesquelles ils doivent être distribués. On ne peut nier, par exemple, qu’il y a un
+                passage graduel des Scinques à l’Anguis et aux Acontias, par l'intermède des
+                Scinques brachypus, decreensis, serpens, seps, du Pygodactyle et du Bipes,—êtres
+                moins différons entre eux par leur organisation que par leurs formes, et qui ne
+                composent qu’une seule famille, celle des Scincoïdes, de laquelle on ne saurait
+                exclure ui les Ablephares ni les Gymnophthalmes. Le mime passage graduel existe dans
+                la famille des Lézards, des genres Lacerta et Tachydromus au Monodactyle ; on y peut
+                ajouter comme espèce anomale le Pygopus. On pourrait rapprocher dans la méthode le
+                Tetradactyle, le Chalcis, le Pseudopus, et l’Ophisaurus. Viennent enfin la famille
+                des Amphisbènes,—Chirotes, Leposternon, Amphisbaena, et celle des
+                Typhlops,—Typhlops, Rhinophis, Uropeltis.” <hi rend="italic">{Physiognomie des
+                    Serpens,</hi> i. p. 2.)</p>
+            <p><hi rend="italic">@@@• Non. Com. Petrop.</hi> zïx. plate 9, fig. 1. </p>
+            <p><hi rend="italic">@@@* General Zoology,</hi> iii. plate 86. </p>
+            <p><hi rend="superscript">@@@,</hi> Griffith’s <hi rend="italic">Animat Kingdom,</hi>
+                ix. 307.</p>
+            <p><hi rend="superscript">@@@j</hi> Of the cranium of this genus, Cuvier has remarked, “
+                C’est une vraie tête de Saurien.” <hi rend="italic">Règne Animal,</hi> iii. 430.</p>
+            <p><hi rend="italic">@@@• Curotina,</hi> ii. plate 59.</p>
+        </body>
+    </text>
+</TEI>

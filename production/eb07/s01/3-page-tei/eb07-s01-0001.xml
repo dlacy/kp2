@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:09:14Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SS or s, the eighteenth letter and fourteenth consonant of our alphabet. The sound of
+                it is formed by driving the breath through a narrow passage between the palate and
+                the tongue elevated near it, together with a motion of the lower jaw and teeth
+                towards the upper, the lips being a little way open, with such a configuration of
+                every part of the mouth and larynx as renders the voice somewhat sibilous and
+                hissing. Its sound, however, varies, being strong in some words, as <hi
+                    rend="italic">this, thus,</hi> and soft in words which have a final <hi
+                    rend="italic">e,</hi> as <hi rend="italic">muse, wise.</hi> It is generally
+                doubled at the end of words, by which they become hard and harsh, as in <hi
+                    rend="italic">kiss, loss.</hi> In some words it is silent, as <hi rend="italic"
+                    >isle, island, viscount.</hi></p>
+            <p>In abbreviation, S. stands for <hi rend="italic">societas</hi> or <hi rend="italic"
+                    >socius ;</hi> as R. S. S. for <hi rend="italic">regiœ societatis socius,</hi>
+                fellow of the royal society. In medicinal prescriptions, S. A. signifies <hi
+                    rend="italic">secundum artem,</hi> according to the rules of art. And in the
+                notes of the ancients, S. stands for <hi rend="italic">Sextus ;</hi> S. P. for <hi
+                    rend="italic">Spurius ;</hi> S. C. for <hi rend="italic">senatus consultum
+                    ;</hi> S. P. Q. R. for <hi rend="italic">senatus populusque Romanns ; </hi>S. S.
+                S. for <hi rend="italic">stratum superstrαtum,</hi> one layer above another
+                alternately ; S. V. B. E. E. Q. V. for <hi rend="italic">si vales bene est, ego
+                    quoque valeo,</hi> a form used in Cicero’s time in the beginning of letters.
+                Used as a numeral, S. anciently denoted seven ; in the Italian music, S. signifies
+                    <hi rend="italic">solo ;</hi> and in books of navigation, S. stands for south,
+                S. E. for south-east, S. W. for south-west, S. S. E. for south-south-east, S. S. W.
+                for south- south-west, &amp;c.</p>
+            <p>SAADE, a town of the mountainous district of Yemen, in Arabia, and the most important
+                in the district. It is the residence of an imam or chief, whose power is limited,
+                and his territories small ; and he is often so hard pressed by his highland
+                neighbours that he finds it difficult to maintain his ground. He imposes a duty on
+                all goods passing from Yemen into the interior of Arabia, and from this source his
+                revenue chiefly arises. It is 368 miles north-north-east of Mocha.</p>
+            <p>SAARBRUCK, a city of the Prussian government of</p>
+            <p>Treves, the capital of a circle of the same name, and 215 square miles in extent. It
+                stands on the river Saar, over which is a bridge connecting it with the large suburb
+                of St John’s. It is old and strongly built, and the suburb contains 1070 houses,
+                with 6740 inhabitants, who carry on some iron-works, and have barges navigating the
+                river, which is navigable up to the bridge.</p>
+            <p>SAAR-LOUIS, a city of the Prussian government of Treves, and the capital of a circle
+                of the same name, of 189 square miles in extent. It is situated on the river Saar,
+                and celebrated for the strength of its fortifications, which were constructed by
+                Vauban, under Louis XIV. It is well and regularly built, and contains three
+                churches, 550 houses, and 5800 inhabitants, who are employed in iron-works, chiefly
+                in making weapons. Long. 6. 43. E. Lat. 49.14. N.</p>
+            <p>SAASA, a village of Palestine, in the district which is said, on the authority of
+                tradition, to have been the burial-place of Nimrod. It is forty miles north-west of
+                Sarchad.</p>
+            <p>SAATZ, a city of the Austrian kingdom of Bohemia, the capital of a circle of the same
+                name, which extends over 921 square miles, and contains 126,500 inhabitants. The
+                river Eger runs by the town. It has a collegiate church, a gymnasium, and 640
+                houses, with 4180 inhabitants. Long. 14.10. E. Lat. 50. 18. 35. N.</p>
+            <p>SAAVEDRA, <hi rend="smallcaps">Michael de Cervantes,</hi> a celebrated Spanish
+                writer, and the inimitable author of Don Quixote, was born at Madrid in the year
+                1541. From his infancy he was very fond of books ; but he applied himself wholly to
+                books of entertainment, such as novels and poetry of all kinds, especially Spanish
+                and Italian authors. From Spain he went to Italy, either to serve Cardinal Aquaviva,
+                to whom he was chamberlain at Rome, or else to follow the profession of a soldier,
+                as he did for some years under the victorious banners of Marco Antonio Colonna. He
+                was present at the battle of Lepanto, in the year 1571 ; in which he cither lost his
+                left hand by the shot of an harquebus, or had it so maimed that he lost the use of
+                it. After this he</p>
+        </body>
+    </text>
+</TEI>

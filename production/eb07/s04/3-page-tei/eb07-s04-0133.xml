@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T17:37:07Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <cell><p>Temperature.</p></cell>
+                    <cell><p>Observed</p><p>Elasticities.</p></cell>
+                    <cell><p>Calculated</p><p>Elasticities.</p></cell>
+                    <cell>Differences.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>Inches.</cell>
+                    <cell>Inches.</cell>
+                    <cell>Inches.</cell>
+                </row>
+                <row>
+                    <cell>32o</cell>
+                    <cell/>
+                    <cell>0.18</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>42</cell>
+                    <cell/>
+                    <cell>0.25</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>52</cell>
+                    <cell/>
+                    <cell>0.35</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>62</cell>
+                    <cell>0.52</cell>
+                    <cell>050</cell>
+                    <cell>—0.02</cell>
+                </row>
+                <row>
+                    <cell>72</cell>
+                    <cell>0.73</cell>
+                    <cell>0.71</cell>
+                    <cell>—0.02</cell>
+                </row>
+                <row>
+                    <cell>82</cell>
+                    <cell>1.02</cell>
+                    <cell>1.01</cell>
+                    <cell>—0.01</cell>
+                </row>
+                <row>
+                    <cell>92</cell>
+                    <cell>1.42</cell>
+                    <cell>1.42</cell>
+                    <cell>0.00</cell>
+                </row>
+                <row>
+                    <cell>102</cell>
+                    <cell>1.95</cell>
+                    <cell>1.96</cell>
+                    <cell>+ 001</cell>
+                </row>
+                <row>
+                    <cell>112</cell>
+                    <cell>2.65</cell>
+                    <cell>2 67</cell>
+                    <cell>+ 0.02</cell>
+                </row>
+                <row>
+                    <cell>122</cell>
+                    <cell>3.57</cell>
+                    <cell>358</cell>
+                    <cell>+ 0.01</cell>
+                </row>
+                <row>
+                    <cell>132</cell>
+                    <cell>4.68</cell>
+                    <cell>4.74</cell>
+                    <cell>+ 0.06</cell>
+                </row>
+                <row>
+                    <cell>142</cell>
+                    <cell>6.06</cell>
+                    <cell>6.20</cell>
+                    <cell>+ 0.14</cell>
+                </row>
+                <row>
+                    <cell>152</cell>
+                    <cell>7∙85</cell>
+                    <cell>7.99</cell>
+                    <cell>+ 0.14</cell>
+                </row>
+                <row>
+                    <cell>162</cell>
+                    <cell>9∙99</cell>
+                    <cell>10.19</cell>
+                    <cell>+ 0.20</cell>
+                </row>
+                <row>
+                    <cell>172</cell>
+                    <cell>12.64</cell>
+                    <cell>12.86</cell>
+                    <cell>+ 0.22</cell>
+                </row>
+                <row>
+                    <cell>182</cell>
+                    <cell>15.91</cell>
+                    <cell>1608</cell>
+                    <cell>+ 0.17</cell>
+                </row>
+                <row>
+                    <cell>192</cell>
+                    <cell>• ∙ ∙</cell>
+                    <cell>19∙91</cell>
+                    <cell>. ∙ .</cell>
+                </row>
+                <row>
+                    <cell>202</cell>
+                    <cell>• . .</cell>
+                    <cell>24.45</cell>
+                    <cell>. . .</cell>
+                </row>
+                <row>
+                    <cell>212</cell>
+                    <cell>29.80</cell>
+                    <cell>29.80</cell>
+                    <cell>0.00</cell>
+                </row>
+                <row>
+                    <cell>250.3</cell>
+                    <cell>59.60</cell>
+                    <cell>59.69</cell>
+                    <cell>+ 0.09</cell>
+                </row>
+                <row>
+                    <cell>293.4</cell>
+                    <cell>119.20</cell>
+                    <cell>118.32</cell>
+                    <cell>—0.88</cell>
+                </row>
+                <row>
+                    <cell>343.6</cell>
+                    <cell>238.40</cell>
+                    <cell>2.3760</cell>
+                    <cell>—0.80</cell>
+                </row>
+            </table>
+            <p>“ I believe it is now generally considered that the temperature 212° is that of water
+                boiling when the barometer is at 30 inches instead of 29∙8 ; and if, in the above
+                algebraic expressions, the following alterations be made, the results from the
+                formulæ will correspond with the adjustment of that point, and fully as well with
+                the experiments generally.</p>
+            <p>“ Let T=∕ + 51.3 ; the index of the power and of the root be 5.13, instead of 5.14 ;
+                and <hi rend="italic">m=</hi> 87344,000000. So the two last equations will be : 5.13
+                LT—10.94123=LE;</p>
+            <p>and <hi rend="superscript">LE+10.94123</hi>/<hi rend="subscript">5.13</hi> = LT.</p>
+            <p>“ The table will stand as follows, supposing the thermo meter had been graduated for
+                212° to correspond with 30 inches of the barometer :—</p>
+            <table>
+                <row>
+                    <cell>Γemp.</cell>
+                    <cell><p>Observd</p><p>Elastici</p><p>ties.</p></cell>
+                    <cell><p>Calcul.</p><p>Elastici</p><p>ties.</p></cell>
+                    <cell><p>Differ</p><p>ences.</p></cell>
+                    <cell>Temp.</cell>
+                    <cell><p>Observd. Elastici</p><p>ties.</p></cell>
+                    <cell><p>Calcul</p><p>Elastici</p><p>ties.</p></cell>
+                    <cell><p>Differ</p><p>ences.</p></cell>
+                </row>
+                <row>
+                    <cell>32</cell>
+                    <cell>Inches@@*0.16</cell>
+                    <cell><p>Inches.</p><p>0.18</p></cell>
+                    <cell><p>Inches.</p><p>+ 0.02</p></cell>
+                    <cell>142°</cell>
+                    <cell><p>Inches.</p><p>6.10</p></cell>
+                    <cell><p>Inches.</p><p>6 22</p></cell>
+                    <cell>Inches + 0.12</cell>
+                </row>
+                <row>
+                    <cell>42</cell>
+                    <cell>*0.23</cell>
+                    <cell>0.25</cell>
+                    <cell>+0.02</cell>
+                    <cell>152</cell>
+                    <cell>7∙90</cell>
+                    <cell>8 03</cell>
+                    <cell>+ 0.13</cell>
+                </row>
+                <row>
+                    <cell>52</cell>
+                    <cell>*035</cell>
+                    <cell>0.35</cell>
+                    <cell>0.00</cell>
+                    <cell>162</cell>
+                    <cell>10 05</cell>
+                    <cell>10.25</cell>
+                    <cell>+ 0.20</cell>
+                </row>
+                <row>
+                    <cell>62</cell>
+                    <cell>052</cell>
+                    <cell>0.50</cell>
+                    <cell>—0.02</cell>
+                    <cell>172</cell>
+                    <cell>12.72</cell>
+                    <cell>1294</cell>
+                    <cell>+ 0.22</cell>
+                </row>
+                <row>
+                    <cell>72</cell>
+                    <cell>0.73</cell>
+                    <cell>0.71</cell>
+                    <cell>—0 01</cell>
+                    <cell>182</cell>
+                    <cell>16.01</cell>
+                    <cell>16.17</cell>
+                    <cell>+ 0.16</cell>
+                </row>
+                <row>
+                    <cell>82</cell>
+                    <cell>1.02</cell>
+                    <cell>1.01</cell>
+                    <cell>—0 01</cell>
+                    <cell>192</cell>
+                    <cell>. . .</cell>
+                    <cell>20 04</cell>
+                    <cell>. . .</cell>
+                </row>
+                <row>
+                    <cell>92</cell>
+                    <cell>1.42</cell>
+                    <cell>1.42</cell>
+                    <cell>0.00</cell>
+                    <cell>202</cell>
+                    <cell>. . .</cell>
+                    <cell>24.61</cell>
+                    <cell>• ∙ .</cell>
+                </row>
+                <row>
+                    <cell>102</cell>
+                    <cell>1.96</cell>
+                    <cell>1.97</cell>
+                    <cell>+ 0.01</cell>
+                    <cell>212</cell>
+                    <cell>30.00</cell>
+                    <cell>30.00</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>112</cell>
+                    <cell>2.66</cell>
+                    <cell>2 68</cell>
+                    <cell>+ 0 02</cell>
+                    <cell>250.3</cell>
+                    <cell>60.00</cell>
+                    <cell>60.11</cell>
+                    <cell>+ 0.11</cell>
+                </row>
+                <row>
+                    <cell>122</cell>
+                    <cell>3.58</cell>
+                    <cell>3.60</cell>
+                    <cell>+ 0.02</cell>
+                    <cell>293.4</cell>
+                    <cell>120.00</cell>
+                    <cell>119.17</cell>
+                    <cell>—0.3</cell>
+                </row>
+                <row>
+                    <cell>132</cell>
+                    <cell>4.71 1</cell>
+                    <cell>4.76</cell>
+                    <cell>+ 0.05</cell>
+                    <cell>143.6</cell>
+                    <cell>240.00</cell>
+                    <cell>239.28</cell>
+                    <cell>—02</cell>
+                </row>
+            </table>
+            <p>“ I remain, with the greatest esteem and respect, Dear</p>
+            <p>Sir, Your very obedient Servant,</p>
+            <p><hi rend="italic">“ Oakhill, 20th March,</hi> 1811." « <hi rend="smallcaps">John</hi>
+                SOUTHERN.</p>
+            <p>“ To <hi rend="smallcaps">James Watt,</hi> Esq., Heathfield.”</p>
+            <p>28. In the <hi rend="italic">Memoirs of the Royal Academy of Berlin</hi></p>
+            <p>for 1782, there is an account of some experiments made by M. Achard on the elastic
+                force of steam, from the temperature 32° to 212°. They agree extremely well with
+                those mentioned here, rarely differing more than two or three-tenths of an inch. He
+                also examined the elasticity of the vapour produced from alcohol, and when the
+                elasticity was equal to that of the vapour of water, he found that the temperature
+                was about 35° lower. Thus, when the elasticity of both was measured by 28.1
+                inches</p>
+            <p>of mercury, the temperature of the watery vapour was 209°, and that of the spirituous
+                vapour was 173°. When the elasticity was 18.5, the temperature of the water was
+                    189.5<hi rend="superscript">o</hi>, and that of the alcohol 154.6°. When the
+                elasticity was 11.05, the water was 168°, and the alcohol 134.4° Observing the
+                difference between the temperature of equaIly elastic vapours of water and alcohol
+                not to be con stant, but gradually to diminish, in M. Achard’s experi ments, along
+                with the elasticity, it became interesting to discover whether, and at what
+                temperature, this difference would vanish altogether. Experiments were accordingly
+                made by the writer of this article, similar to those made with water. They were not
+                made with the same scrunulous care, nor repeated as they deserved, but they
+                furnished rather an unexpected result. The following table will give the reader a
+                distinct notion of them.</p>
+            <table>
+                <row>
+                    <cell>Temperature.</cell>
+                    <cell/>
+                    <cell>Temperature.</cell>
+                    <cell>Elasticity.</cell>
+                </row>
+                <row>
+                    <cell>32°</cell>
+                    <cell>0.0</cell>
+                    <cell>140</cell>
+                    <cell>12 2</cell>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>0.1</cell>
+                    <cell>160</cell>
+                    <cell>21.3</cell>
+                </row>
+                <row>
+                    <cell>60</cell>
+                    <cell>0.8</cell>
+                    <cell>180</cell>
+                    <cell>34.</cell>
+                </row>
+                <row>
+                    <cell>80</cell>
+                    <cell>1.8</cell>
+                    <cell>200</cell>
+                    <cell>524</cell>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>3.9</cell>
+                    <cell>220</cell>
+                    <cell>78.5</cell>
+                </row>
+                <row>
+                    <cell>120</cell>
+                    <cell>69</cell>
+                    <cell>240</cell>
+                    <cell>115.</cell>
+                </row>
+            </table>
+            <p>29. Dr Dalton appears to have been the first to escape from the natural enough error
+                of assuming that the vapour of water at 32° would be = 0. His apparatus is the most
+                simple and refined of any that have been employed for temperatures below 212°, and
+                his experiments are those which, to the present day, have the greatest authority. Dr
+                Dalton’s first experiments were published in 1793, in his <hi rend="italic"
+                    >Meteorological Essays ;</hi> afterwards, when more extended, in the <hi
+                    rend="italic">Manchester Memoirs,</hi> 1802 ; then in the first volume of his
+                    <hi rend="italic">System of Chemistry,</hi> 1808; and finally in the second
+                volume of the same work, 1827. The following is the account given by himself, of his
+                early experiments, in the <hi rend="italic">Manchester Memoirs.</hi></p>
+            <p>“ My method is this : I take a barometer tube AB, (Fig. 13,) perfectly dry, and fill
+                it with mercury just boiled, marking the place (30) where it is stationary ; then,
+                having graduated the tube, I pour a little water, or any other liquid, the subject
+                of experiment, into it, so as to moisten the whole inside : after this I again pour
+                in mercury, and carefully inverting the tube, exclude all air ; the barometer, by
+                standing some time, exhibits a portion of water of <hi rend="superscript">1</hi>/<hi
+                    rend="subscript">8</hi> or <hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >10</hi>th of an inch, W, on the top of the mercurial column ; because, being
+                lighter, it ascends by the side of the tube, which may now be inclined, and the
+                mercury will rise to the top, manifesting a perfect vacuum from air. I next take a
+                cylindrical glass tube CD,</p>
+            <p>open at both ends, of two inches diameter and fourteen inches in length,</p>
+            <p>to each end of which a cork is adapted,</p>
+            <p>perforated in the middle, so as to admit a barometer tube to be put through,</p>
+            <p>and to be held fast by them ; the upper cork, C, is fixed two or three inches below
+                the top of the tube, and is one-half cut away, so as to admit water, &amp;c., to
+                pass by, its service being merely to keep the tube steady. Things being thus
+                circumstanced ; water of any temperature may be poured into the wide tube, and thus
+                made to surround the upper part or vacuum of the barometer, and the effect of
+                temperature in the production of vapour within can be observed from the depression
+                of the mercurial column at the top. In this way I have had water as high as 155°
+                surrounding the vacuum ; but as the higher temperatures might endanger a glass
+                apparatus, instead of it I used the following :—</p>
+            <p>@@@* These are inserted from numerous experiments made by Mr W. Creighton.</p>
+        </body>
+    </text>
+</TEI>

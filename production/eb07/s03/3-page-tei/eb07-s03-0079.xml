@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:16:08Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>and glen, thrown promiscuously together, present the grandest of savage landscapes,
+                which, as the field of wild adventure, cast into shade what Mr. Scrope calls “ the
+                tame and hedge-bound country of the south.”</p>
+            <p><hi rend="smallcaps">Τηε Fowling-piece.</hi> Before making choice of a gun, the
+                shooter should determine what weight he can conveniently carry. The heaviest gun, as
+                regards shooting, will be most effective, but he should recollect that unless he be
+                a very robust person, a light gun will, on the whole, bring him more game, as a few
+                additional pounds in the weight of a gun makes a deal of difference in the distance
+                a person can travel in a day. and, moreover, he cannot shoot as well when
+                fatigued.</p>
+            <p>The most approved guns under the system which prescribes a heavy charge of powder,
+                and a light one of very small shot, are double barrels, weighing, according to the
+                fancy of the shooter, from six to nine pounds, and bearing the following relative
+                proportions of length to guage : fourteen guage, thirty-four inches long; seventeen
+                guage, thirty-two inches long ; twenty guage, thirty inches long. Taking the season
+                throughout, we are convinced, that the most effective gun is a short, wide-bored
+                one, each barrel being charged with rather less than 1<hi rend="superscript"
+                    >1</hi>/<hi rend="subscript">2</hi> drams avoirdupois weight of powder, and full
+                2 oz. of No. 2 shot, containing 220 pellets. This is the general charge, but it may
+                be varied according to circumstances. When game is wild, we would charge the reserve
+                barrel, and, on some occasions, both barrels, with 2<hi rend="superscript"
+                    >1</hi>/<hi rend="subscript">2</hi> drams of powder, and a No. 5 blue cartridge
+                for partridges, and with a No. 4 or 5 red cartridge for grouse shooting. No. 7 shot
+                is best for snipe shooting. Small shot may be used for partridge sh∞ting in
+                September, though we do not see any reason for not adhering to No. 2, except that
+                birds very near the gun are liable to be more disfigured by it.</p>
+            <p>Barrels twenty-six or twenty-eight inches long, and fourteen or sixteen guage, are of
+                convenient size. We think it will not be questioned that these barrels are as
+                efficient as long narrow-bored ones for short distances, viz. under thirty-five
+                yards, and nine-tenths of game brought to the bag is killed within that distance.
+                And for making long shots, the wire-cartridge has obviated the necessity of using
+                long guns. A most material advantage attending the use of a short gun is, the
+                comparative ease with which it may be carried. A pound additional weight at the
+                breech is not so fatiguing to the arm as half that weight added to the end of the
+                barrel ; it is the top-heavy gun that distresses the shooter.</p>
+            <p>Different proportions of powder and shot are required for different sizes of shot.
+                The following may be the proper proportions for a gun not exceeding eight pounds
+                :</p>
+            <p>Size of shot. Weight of shot. Weight of powder.</p>
+            <p>No. oz. drams.</p>
+            <list type="ordered">
+                <item>2 1<hi rend="superscript">4</hi>/<hi rend="subscript">10</hi></item>
+            </list>
+            <p><hi rend="superscript">3</hi> 1<hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >2</hi></p>
+            <list type="ordered">
+                <item>1<hi rend="superscript">1</hi>/<hi rend="subscript">2</hi> 1<hi
+                        rend="superscript">3</hi>/<hi rend="subscript">4</hi></item>
+                <item>1<hi rend="superscript">3</hi>/<hi rend="subscript">8 </hi> 2</item>
+                <item>1<hi rend="superscript">1</hi>/<hi rend="subscript">4</hi> 2<hi
+                        rend="superscript">1</hi>/<hi rend="subscript">4</hi></item>
+                <item>1<hi rend="superscript">1</hi>/<hi rend="subscript">8</hi> 2<hi
+                        rend="superscript">1</hi>/<hi rend="subscript">2</hi></item>
+            </list>
+            <p>These proportions cannot be materially deviated from without destroying the effect.
+                If the powder is decreased, the discharge is weakened ; if the powder is increased,
+                the shot spreads ; if the weight of shot is decreased, there will not be a
+                sufficient number of pellets for effective shooting; if the weight of shot is
+                increased, the discharge is weakened.</p>
+            <p>The usual objection to large shot is, that after it has travelled thirty yards it
+                becomes dispersed ; but let the powder be reduced to less than 1<hi
+                    rend="superscript">1</hi>/<hi rend="subscript">2</hi> dram, and that objection
+                fails. If</p>
+            <p>it is not overcharged with powder, a gun will shoot No. 2 shot close enough to kill
+                at from thirty-five to fifty yards, with more certainty than if charged with small
+                shot, and two or three drams of powder.</p>
+            <p>It is not so much the velocity as the momentum of a shot that renders it effective.
+                The momentum of a shot increases in a direct ratio with its weight. The momentum of
+                a No. 2 shot much more than compensates for the diminished weight of powder and
+                additional weight of lead that we have recommended. Large shot droops more than
+                small, and sooner comes to the ground, as it is not carried with the same velocity.
+                It is the momentum, and not the velocity, that the shooter must look to.</p>
+            <p>We do not suppose that feathers or fur of game present any serious obstacle to either
+                large or small shot ; but if they did, the fact that large shot is most effective
+                for shooting wild fowl armed with down, at once tells that it must be so for
+                shooting game which is not so protected. Another advantage of large shot is, that
+                when the aim taken is not quite correct, a single outside pellet will often bring
+                down a bird, when it would require many small shots to do so.</p>
+            <p>The shooting of barrels depends mainly on three things, viz., the metal of which they
+                are made, the boring, and the breeching. The quality of the metal is of much
+                importance. All barrels expand when fired ; and those made of inferiormetal expand
+                more than those made of stub-twist. Mr. Greener, in his excellent treatise on the “
+                    Gun,”@@<hi rend="superscript">1</hi> says, “ that a barrel is a spring on an
+                extended scale, and the more we can make it partake of the nature of a spring, the
+                better. If we must have expansion, let us have it in its most beneficial form ; an
+                expansion that will aid the powder in expelling the lead. This cannot be entirely
+                obtained, nor can the quantity of expansion be entirely destroyed, though you were
+                to make your barrels of the weight of a twenty-four pounder. We must, therefore,
+                decrease it, by making our iron as elastic and tenacious as possible. The qualities
+                of elasticity and tenacity can only be obtained by hammer-hardening the iron.
+                Barrels hammer-hardened will shoot as well without any artificial friction, as those
+                whose friction is extreme, yet have not yet been benefited by the process.”</p>
+            <p>The term friction implies a gradual contraction of the barrel towards the muzzle,
+                which retards the progress of th∣ shot, that more time may be allowed to the powder
+                to burn. “The shooting of all barrels,” says Mr. Greener, “ depends on a certain
+                degree of friction. The degree of friction necessary varies according to the nature
+                and substance of the metal. Those metals that requiro least shoot best. The object
+                of the friction is to create a greater force, by detaining the charge longer in the
+                barrel. If, then, there should not be an extra quantity of powder to consume, the
+                friction would be a decided evil." A greater degree of friction is generally allowed
+                to a short barrel than to a long one. A gradual expansion of the barrel towards the
+                muzzle is termed relief. Relief accelerates the progress of shot through the
+                barrels. What is the proper degree of relief or friction for different descriptions
+                of barrels, is a subject fruitful of much controversy ; as is also the form of the
+                breech. The best breech is that which will cause the greatest quantity of powder to
+                consume in the barrel.</p>
+            <p>Mr. Greener would not prevent the barrel expanding when fired, by increasing its
+                thickness, but by improving the quality of the metal. When the barrel expands much,
+                or is held loosely when fired, a loss of strength is induced, as that power which,
+                if possible, should be exerted on the shot, is uselessly expended in a contrary
+                direction, whereas, when the barrel is firmly fixed, and made of metal that only</p>
+            <p><hi rend="superscript">@@@,</hi> The Gun, by William Greener. London. 1835</p>
+        </body>
+    </text>
+</TEI>

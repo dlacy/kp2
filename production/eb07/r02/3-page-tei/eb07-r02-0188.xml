@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>transformed from HTML to TEI by eb-html2tei</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>&amp;c., 16 per cent.; post-office, 60 per cent.; lotteries, 69 per cent. The
+                interest on the national debt absorbs about ’ 38 per cent, of the net revenue.</p>
+            <p>If the population of the Roman states be estimated at</p>
+            <p>2,800,000,and theaverage expenditure at 9,000,000 crowns, the amount of taxation per
+                individual would be about 12s. 10d. per annum.</p>
+            <p>The principal taxes levied are,—</p>
+            <p>1.    Tax on consumption (exclusive of that on flour) which, if estimated on the
+                whole of the male population above the the age of 16, would give 60 bajocchi per
+                head, (2s. 6d. sterling.)</p>
+            <p>2.    The personal tax which is levied according to the classification of the payers,
+                with a reference to their wealth. If averaged upon the males above 16 years, its
+                amount would be 40 bajocchi each, (Is. 7d. sterling.)</p>
+            <p>3.    Additional impost on the value of the cadastral survey.</p>
+            <p>4.    Various taxes of localities, markets, offices, <hi rend="italic">Sιc<hi
+                        rend="sub">n</hi></hi> as on weights and measures ; on fishing and hunting,
+                &amp;c.</p>
+            <p>The papal troops consist of</p>
+            <p>Polizia.....................4000</p>
+            <p>Custom-house officers....1500</p>
+            <p>Armed functionaries 5500</p>
+            <p>Artillery....................1000</p>
+            <p>Cavalry.....................1000</p>
+            <p>Infantry..................12000</p>
+            <p>Regulars............14000</p>
+            <p>And about 15,000 militia, who are not in active service. It is a boast of the Romans
+                that in no city is so large a</p>
+            <p>* sum devoted to public charity in proportion to the population. The proportional
+                payments of Rome for charitable purposes are about double those of Paris. Rome has
+                a yearly revenue from charitable funds of 1,900,000 francs; and the state grants
+                annually 2,200,000, making a yearly revenue of 4,100,000 francs. But of the immense
+                number of benevolent establishments in Rome, a great proportion</p>
+            <p>are of doubtful, ill-directed, and even pernicious charity ; and in spite of the
+                liberality with which money is scattered, nowhere is more mendicity, wretchedness,
+                idleness, and' want.</p>
+            <p>Besides the foundling hospitals, which are very numerous, there are thirteen
+                societies for giving dowries to girls on their marrying, and pecuniary gifts on
+                their taking the veil. Of 1400 women who are married at Rome annually, no less than
+                1000 receive dowries from the public purse, the annual payment for this object being
+                32,000 crowns, or L.8000 sterling. Independently of public institutions, there is
+                much private almsgiving. There are in Rome twenty-two establishments for the
+                diseased, the insane, and the convalescent, of which eight are public, eleven are
+                private hospitals, two are institutions for visiting the sick in their houses,
+                and one is for the burial of the dead. These hospitals can accommodate about 4000
+                persons. The maximum of deaths is 11.60 per cent, the minimum 5.43. The average cost
+                of ordinary patients is two pauls per day, (10d.)</p>
+            <p>Rome is one of the great recipients for abandoned children, which are brought thither
+                from remote provinces, and even from the kingdom of Naples. In St. Spirito 800
+                boys are annually received ; the Conservatory receives ordinarily 800 girls ; five
+                other hospitals have 544 boys and 670 girls. At the end of 1838, there were 1672
+                children in the St. Spirito asylum ; 804 were deposited in that year, 684
+                had departed, and 1552 remained from the former year. No less than 5S0 children died
+                in the year, being a mortality of 72 per cent</p>
+            <p>The latest official document respecting the administration of justice is that of 1832
+                The number of condemned persons in that year was 2708, but about 8000 more must
+                be added to these for criminals already in prison, so that the number of prisoners
+                is generally about 6000. Criminal proceedings in the Papal States are very dilatory.
+                The prisons receive all offenders, whether of correctional or criminal police ; and
+                as there is no liberation of the accused on bail, there is necessarily a
+                considerable aggregation of offenders.    (b. q.)</p>
+            <lb/>
+            <table>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p><hi rend="italic">Statement of the</hi></p></cell>
+                    <cell cols="22" rows="1"><p><hi rend="italic">Criminals in the different places
+                                of Detention, with the Classification of their Crimes and Punishment
+                                in December</hi> 1832.</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="5" rows="1"><p>Length of Punishment.</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="6" rows="1"><p>NATURE OF OFFENCES.</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>No.</p></cell>
+                    <cell cols="1" rows="1"><p>Places of Punishment.</p></cell>
+                    <cell cols="1" rows="1"><p>Will</p><p>hold.</p></cell>
+                    <cell cols="1" rows="1"><p>ber of Criminals actually detained.</p></cell>
+                    <cell cols="1" rows="1"><p>«2</p><p>□</p></cell>
+                    <cell cols="1" rows="1"><p>i</p><p>8</p><p>&gt;</p><p>S</p></cell>
+                    <cell cols="1" rows="1"><p>i</p><p>8</p><p>&gt;</p><p>o</p></cell>
+                    <cell cols="1" rows="1"><p>&lt;z</p><p>S</p><p>&gt;</p><p><hi rend="sup"
+                            >2</hi>O</p></cell>
+                    <cell cols="1" rows="1"><p>■§8</p></cell>
+                    <cell cols="1" rows="1"><p>«3</p><p>∙σ</p><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>∙⅛</p><p>1</p><p>o</p><p>£</p></cell>
+                    <cell cols="1" rows="1"><p>03</p></cell>
+                    <cell cols="1" rows="1"><p>I</p></cell>
+                    <cell cols="1" rows="1"><p>1</p><p>J</p></cell>
+                    <cell cols="1" rows="1"><p>√3</p></cell>
+                    <cell cols="1" rows="1"><p>ώ</p><p>α</p><p>'2</p><p>'S</p><p>u</p></cell>
+                    <cell cols="1" rows="1"><p>8 .</p><p>⅞≡</p><p>≈</p></cell>
+                    <cell cols="1" rows="1"><p>d</p><p>8⅛</p></cell>
+                    <cell cols="1" rows="1"><p>to</p><p>5⅛</p><p>P</p></cell>
+                    <cell cols="1" rows="1"><p>£</p><p>■</p><p>«</p></cell>
+                    <cell cols="1" rows="1"><p>i</p><p><hi rend="italic">⅛</hi></p></cell>
+                    <cell cols="1" rows="1"><p>.g</p><p>O</p><p>o</p></cell>
+                    <cell cols="1" rows="1"><p>-8</p><p>S a 5∙g o£</p></cell>
+                    <cell cols="1" rows="1"><p>Total.</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>1</p><p>2</p></cell>
+                    <cell cols="1" rows="1"><p>Cività Vecchia,...</p></cell>
+                    <cell cols="1" rows="4"
+                            ><p>1200</p><p>450</p><p>200</p><p>500</p><p>200</p><p>30</p></cell>
+                    <cell cols="1" rows="4"
+                            ><p>1146</p><p>408</p><p>191</p><p>436</p><p>80</p><p>21</p></cell>
+                    <cell cols="1" rows="1"><p>220</p><p>3</p></cell>
+                    <cell cols="1" rows="3"><p>556</p><p>25</p><p>14</p></cell>
+                    <cell cols="1" rows="4"
+                        ><p>210</p><p>80</p><p>100</p><p>30</p><p>25</p><p>4</p></cell>
+                    <cell cols="1" rows="4"
+                        ><p>117</p><p>72</p><p>43</p><p>158</p><p>35</p><p>4</p></cell>
+                    <cell cols="1" rows="4"><p>43</p><p>228</p><p>48</p><p>234</p><p>20</p></cell>
+                    <cell cols="1" rows="3"><p>357</p><p>48</p><p>63</p><p>59</p><p>g</p></cell>
+                    <cell cols="1" rows="4"><p>43</p><p>58</p><p>18</p><p>66</p><p>11</p></cell>
+                    <cell cols="1" rows="4"><p>212</p><p>40</p><p>3 24</p><p>4 3</p></cell>
+                    <cell cols="1" rows="1"><p>35</p><p>2</p></cell>
+                    <cell cols="1" rows="3"><p>119</p><p>44</p><p>9</p><p>32</p><p>4</p></cell>
+                    <cell cols="1" rows="6"
+                            ><p>213</p><p>161</p><p>79</p><p>181</p><p>42</p><p>8</p><p>7</p><p>112</p></cell>
+                    <cell cols="1" rows="2"><p>5</p><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>5</p></cell>
+                    <cell cols="1" rows="1"><p>1</p><p>4</p></cell>
+                    <cell cols="1" rows="1"><p>12</p><p>2</p></cell>
+                    <cell cols="1" rows="3"><p>40</p><p>10</p><p>8</p><p>10</p><p>g</p></cell>
+                    <cell cols="1" rows="2"><p>14</p><p>6</p><p>2</p><p>2</p></cell>
+                    <cell cols="1" rows="1"><p>2</p><p>6</p></cell>
+                    <cell cols="1" rows="3"><p>93</p><p>21</p><p>7</p><p>41</p><p>6</p></cell>
+                    <cell cols="1" rows="7"
+                            ><p>1146</p><p>408</p><p>191</p><p>436</p><p>80</p><p>21</p><p>36</p><p>309</p><p>58</p><p>23</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>3</p><p>4</p></cell>
+                    <cell cols="1" rows="1"><p>Porto d’Anzio,...</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>6</p></cell>
+                    <cell cols="1" rows="2"><p>1</p><p>8</p></cell>
+                    <cell cols="1" rows="4"><p>1</p><p>1</p><p>1</p></cell>
+                    <cell cols="1" rows="2"><p>1</p><p>6</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>5</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="2"><p>1</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>6</p></cell>
+                    <cell cols="1" rows="1"><p>St. Leo,............</p></cell>
+                    <cell cols="1" rows="1"><p>2</p></cell>
+                    <cell cols="1" rows="2"><p>ÏÏ</p></cell>
+                    <cell cols="1" rows="1"><p>2</p></cell>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="2"><p>1</p><p>5</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>5</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>7</p><p>8</p></cell>
+                    <cell cols="1" rows="1"><p>Roma, Fort St) Angelo,......j^</p></cell>
+                    <cell cols="1" rows="2"><p>150</p><p>250</p><p>130</p></cell>
+                    <cell cols="1" rows="2"><p>36</p><p>309</p><p>58</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>5</p></cell>
+                    <cell cols="1" rows="2"><p>9</p><p>57</p><p>2</p></cell>
+                    <cell cols="1" rows="2"><p>27</p><p>247</p><p>55</p></cell>
+                    <cell cols="1" rows="2"><p>7</p><p>38</p></cell>
+                    <cell cols="1" rows="2"><p>17</p><p>60</p></cell>
+                    <cell cols="1" rows="2"><p>9</p></cell>
+                    <cell cols="1" rows="2"><p>1</p></cell>
+                    <cell cols="1" rows="2"><p>1</p></cell>
+                    <cell cols="1" rows="2"><p>17</p></cell>
+                    <cell cols="1" rows="1"><p>2</p><p>2</p></cell>
+                    <cell cols="1" rows="2"><p>16</p></cell>
+                    <cell cols="1" rows="2"><p>1</p></cell>
+                    <cell cols="1" rows="3"><p>5</p><p>58</p></cell>
+                    <cell cols="1" rows="2"><p>3</p><p>42</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>9</p></cell>
+                    <cell cols="1" rows="1"><p>Cività Castellana, Political,........</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="2"><p>1</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>Criminal.......</p></cell>
+                    <cell cols="1" rows="1"><p>15</p></cell>
+                    <cell cols="1" rows="1"><p>23</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>...</p></cell>
+                    <cell cols="1" rows="1"><p>13</p></cell>
+                    <cell cols="1" rows="1"><p>10</p></cell>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>4</p></cell>
+                    <cell cols="1" rows="1"><p>...</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>8</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>...</p></cell>
+                    <cell cols="1" rows="1"><p>1</p></cell>
+                    <cell cols="1" rows="1"><p>2</p></cell>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>5</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"/>
+                    <cell cols="1" rows="1"><p>Total,......</p></cell>
+                    <cell cols="1" rows="1"><p>3125</p></cell>
+                    <cell cols="1" rows="1"><p>2708</p></cell>
+                    <cell cols="1" rows="1"><p>225</p></cell>
+                    <cell cols="1" rows="1"><p>606</p></cell>
+                    <cell cols="1" rows="1"><p>455</p></cell>
+                    <cell cols="1" rows="1"><p>510</p></cell>
+                    <cell cols="1" rows="1"><p>912</p></cell>
+                    <cell cols="1" rows="1"><p>580</p></cell>
+                    <cell cols="2" rows="1"><p>277,295</p></cell>
+                    <cell cols="2" rows="1"><p>46215</p></cell>
+                    <cell cols="1" rows="1"><p>811</p></cell>
+                    <cell cols="1" rows="1"><p>7</p></cell>
+                    <cell cols="1" rows="1"><p>32</p></cell>
+                    <cell cols="1" rows="1"><p>8</p></cell>
+                    <cell cols="1" rows="1"><p>26</p></cell>
+                    <cell cols="2" rows="1"><p>91∣26</p></cell>
+                    <cell cols="1" rows="1"><p>76</p></cell>
+                    <cell cols="1" rows="1"><p>218</p></cell>
+                    <cell cols="1" rows="1"><p>2708</p></cell>
+                    <cell cols="1" rows="1"/>
+                </row>
+                <row>
+                    <cell cols="25" rows="1"><p>Burgess’s <hi rend="italic">Antiquities of Rome;
+                                Rome in the Nineteenth Century;</hi> Eustace’s <hi rend="italic"
+                                >Classical Tour;</hi> Forsyth’s <hi rend="italic">Italy;
+                            </hi>chiorri, <hi rend="italic">Guide Méthodique de Rome;</hi> Dr.
+                            Bowring’s <hi rend="italic">Report of the Statistics of the Pontifical
+                                States.</hi></p></cell>
+                    <cell cols="1" rows="1"><p>Mel-</p></cell>
+                </row>
+            </table>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-26T17:33:57Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>From that time, however, a change, introduced by the literary taste of Pisistratus,
+                had gradually prepared the way for establishing a school of philosophy at
+                    Athens.@@<hi rend="superscript">1</hi> Pericles, too, had given a great stimulus
+                to the literary spirit by his own fondness for intellectual pursuits, and the
+                society of intellectual men. In the midst of his active political life, he could
+                find time and thought for the elaborate disquisitions of the ingenious persons whom
+                he invited to him. He could spend a whole day in disputing with Protagoras on so
+                subtile a question as the theory of causation;@@<hi rend="superscript">3</hi> such
+                was the intense interest which he displayed in every thing tending to the
+                development of mental energy, and such the encouragement he gave to the change of
+                taste then in progress by his own example. In the person of Socrates was found the
+                genius formed to preside over the growing taste for literary and philosophical
+                refinement, and to give it the form of an established institution. What, therefore,
+                were merely indefinite fears at the time of the exhibition of “ The Clouds,” assumed
+                a more distinct character of alarm to ancient prejudices within a quarter of a
+                century afterwards. The rapidity and violence of several successive revolutions of
+                the government during the latter part of that interval, further prepared the minds
+                of the people for any sudden outbreaks of party spirit, and made every man an object
+                of suspicion to his neighbour. A democracy of an hundred years’ existence@@’ had
+                been overthrown, and first an oligarchy of four hundred, then a tyranny of thirty,
+                established by foreign arms, in its place. Nor, as it had not been without fraud and
+                bloodshed that the people had been spoiled of their “ ancient liberty,”@@* were they
+                disposed to surrender it in quiet; or were those who seized on the government able
+                to retain it long on the same footing. A struggle ensued ; in which the individuals
+                of contending parties only sought to provide, each for his own aggrandizement and
+                interest, or at least his own safety, under the constant expectation of some
+                    counter-revolution.@@<hi rend="superscript">5</hi> The people had found that
+                some of those very pcrsons who would never have been suspected of oligarchical
+                views, had in the late changes taken part against the popular government, so that
+                they knew not, at last, whom to trust even of themselves.@@® We are not to wonder
+                that an accusation of Socrates should have succeeded before an Athenian jury at this
+                period of morbid sensitiveness of the public mind.</p>
+            <p>An accusation of impiety was, we must remember, too, an accusation of a political
+                offence. A change of the popular religion was a change of the fundamental
+                constitution of a Greek state. And as in the absolute rule of a single despot, so in
+                the tyranny of a multitude, the reputation of zeal for religion is studiously
+                maintained from policy, if from no higher motive, to throw around its arbitrary acts
+                the reverence and fear due to the religious character. The teaching of Socrates was
+                indeed eminently religious, but it differed from what the state regarded as such. He
+                proved the existence of an invisible divine power, wisely designing and governing
+                all things, and inculcated the duties of piety and morality as flowing from the
+                belief of such an agency. Such clearly was not the state-religion.@@<hi
+                    rend="superscript">7</hi> This was no system of truth or morality. It was
+                tradition and legend, and immemorial usage, and ritual observance.@@<hi
+                    rend="superscript">8</hi> And it was enough for a charge of impiety that
+                Socrates rested religion on other</p>
+            <p>grounds. A pious Athenian, and yet not pious after the manner of the Athenians, was,
+                in their view, an introducer of new gods. He might well be believed to be a
+                worshipper of the clouds and the air, when he pointed out to them, that the gods
+                would not receive the sacrifice offered by wicked men,@@<hi rend="superscript">3
+                </hi>that even their silent counsels were not concealed from the divine cognizance,
+                and that justice was an indispensable duty of the worshipper of the gods.@@<hi
+                    rend="superscript">10</hi></p>
+            <p>That the accusation further should be credible, as brought in this form, is not
+                strange, when it is known that, during the Peloponnesian war, the worship of new
+                gods had been introduced into the city; as at Rome during the depression of its
+                fortunes in the first years of the second Punic war. So greatly had the vicissitudes
+                of fortune influenced the minds of men, observes Livy, describing this effect,—so
+                great was the influx of religion, and that chiefly foreign, into the state,—that
+                either the men or the gods appeared to have suddenly become different.@@<hi
+                    rend="superscript">11</hi> So at Athens, it appears, the forms of superstition
+                had been multiplied, under the pressure of civil and domestic calamity acting on the
+                fears and credulity of the people. The strong reproof which Euripides puts into the
+                mouth of Theseus, of the austere life of Hippolytus, would seem to point at some
+                ascetic devotees among the Athenians themselves, practising a more refined and
+                scrupulous religion, distinct from that of the vulgar ;</p>
+            <p>"Ηδη rt⅛ <hi rend="italic">aυ%eι, xa∣ iι</hi> ά·ψό;/οο <hi rend="italic">βog3,i
+                </hi>2iτB∕ς xαtr⅞λευ, <hi rend="italic">t)ξf&gt;ιa</hi> r âraxr’ sχu&gt;r,</p>
+            <p>Baxjrrvs, τολλϊν <hi rend="italic">γgaμψMm&gt; npΛt</hi> ζασνούί·@@<hi
+                    rend="superscript">12</hi></p>
+            <p>In Aristophanes@@<hi rend="superscript">13</hi> we find still more evident allusion
+                to the introduction of new objects of worship, new fanatical rites, in which the
+                women chiefly officiated, and in which a gross licentiousness mingled with the gloom
+                and solemnities of barbaric superstition.</p>
+            <p>Again, education was intimately connected with politics in a Grecian state. The state
+                took in hand its youthful citizens, and trained them according to its peculiar
+                institutions, and in its own spirit. At least, in all the early constitutions, great
+                attention was paid to education. Lycurgus made Sparta a constant school of war to
+                his citizens. So too Solon, though he had, with greater knowledge of human nature
+                than Lycurgus, adapted his institutions to the people for whom he legislated,
+                provided that the people should be trained to the system of laws prescribed to them.
+                But this care of the early legislators had begun to be lost sight of in
+                    practice.@@<hi rend="superscript">H</hi> In Aristotle’s day it had disappeared
+                    everywhere.@@<hi rend="superscript">15 </hi>In Sparta it was still nominally
+                reverenced. In Athens, an entire relaxation of the educational discipline had taken
+                place already in the time of Socrates. Pericles, flattering the democratic spirit of
+                the Athenians of his day, could boast of their ease from labours and the obligation
+                of exercises, and congratulate them on the courage which they could display at the
+                time of action, without being inured beforehand by a course of hardy
+                    discipline.@@<hi rend="superscript">10</hi> But now, whilst the state was remiss
+                in not enforcing education according to its ancient system, a new system had grown
+                up, the offspring of the luxury and refinement of its days of imperial greatness.
+                This new and unauthorized education was diffused throughout the mass of the
+                inhabitants beyond the pale of the citizens. Solon’s law imposed the duties of</p>
+            <p><hi rend="superscript">@@@I</hi> Aul. Gell. vi. 17. Libros Athenis disciplinarum
+                liberalium publice ad legendum præbendos primus posuisse dicitur Pisistratus
+                tyrannus, &amp;c.</p>
+            <p>@@@• Plutarch iu Pericl. Op. i. p. 665.</p>
+            <p>@@@» Thucyd. viii. 68.</p>
+            <p>@@@* Thucyd. viii. 71, 72. </p>
+            <p>@@@’ Thucyd. iii. 82. <hi rend="italic superscript">ι</hi><hi rend="italic">rarrωr
+                    i'aùrùn</hi> a'rar, x.r.λ. </p>
+            <p><hi rend="superscript">@@@β</hi> Thucyd. viii. 66.</p>
+            <p>@@@’ Aristotle, Pol. v. 9. </p>
+            <p>@@@’ Cic. de Legib. ii. 16. </p>
+            <p>@@@<hi rend="superscript">9</hi> Xenoph. Mem. i. 3. </p>
+            <p>@@@<hi rend="superscript">10</hi> Xenoph. i. 6.</p>
+            <p><hi rend="superscript">@@@II</hi> Liv. XXV. I. Quo diutius trahebatur bellum et
+                variabant secundæ adversæq. res non fortunam magis quam animos hominum; tanta
+                religio, et ea magna ex parte externa, civitatem incessit, ut aut homines aut Dii
+                repente alii viderentur facti, &amp;c.</p>
+            <p>@@@&gt;· Euripid. Hippolyt. 952. </p>
+            <p><hi rend="superscript">@@@15</hi> See Pax. 410, 428. Lysist. 389.</p>
+            <p><hi rend="superscript">@@@14</hi> Lysimachus, in the Laches, complains of their
+                fathers having neglected their education, &lt;iπ <hi rend="italic">i&gt;fuit
+                    ∕∙&lt;∙&lt;&gt; t"ut rζvφS.,</hi> p. 182. See this dialogue of Plato throughout,
+                on the subject of Athenian education.</p>
+            <p><hi rend="superscript">@@@15</hi> Aristot. Pol. v. 7. Jλ&lt;yaP∙5v∕ τaim(. </p>
+            <p><hi rend="superscript">@@@16</hi> Thucyd. ii. 39.</p>
+        </body>
+    </text>
+</TEI>

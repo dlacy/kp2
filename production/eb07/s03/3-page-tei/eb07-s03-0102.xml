@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:16:41Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>thick woods, torrents and precipices, without a human habitation, except a few sheds
+                erected by hunters when they are in pursuit of game. In approaching the eastern
+                ocean, these mountains decline in elevation, and turning to the north, run parallel
+                to the sea, leaving a narrow space between them. The mountains of Okhotsk run
+                northward down the Lena to Yakutsk ; one runs eastward to the sea of Okhotsk, whilst
+                another continues its course with the peninsula of Kamtschatka, which consists of a
+                rocky chain of mountains, about which little information has ever been acquired.</p>
+            <p>The surface of Siberia comprises every variety of soil. The tracts which are called
+                steppes are dry, elevated, and extensive plains, which are not inhabited, and some
+                of them, which are uninhabitable, are destitute both of food and water. Others have
+                shrubs growing on them or a stunted herbage, and are watered by streams or wells,
+                though without inhabitants, and thus afford pasture to the herds and flocks of the
+                shepherds who range over these desolate plains, ln regard to the soil on these
+                steppes, great variety prevails, none being fruitful and proper for meadow or arable
+                land, or indiscriminately for both ; in others the soil is unfruitful, whether it be
+                sand or salt, or in some cases of a rocky formation.</p>
+            <p>Siberia is well watered by numerous and large rivers, an account of which may be
+                found in the articde <hi rend="smallcaps">Russia.</hi> It may merely be mentioned
+                here, that those great rivers are the Ir- tysch, the Obi, the Jenesei, and the Lena,
+                which have all their sources in the frontier range of mountains, and roll onwards to
+                the Frozen Ocean. All the other numerous rivers which rise in Siberia, are
+                tributaries of those main rivers.</p>
+            <p>The cold and mountainous regions of Siberia are great depositories of those vast
+                stores of mineral wealth by which the Russian empire is encircled. The elevated
+                districts of this vast country abound in the most precious ores of all the different
+                metals.</p>
+            <p>An official account of the produce of the mines of gold, silver, and platina, in
+                Russia, has been published at St. Petersburg ; it embraces a period of sixteen
+                years, from 1823 to 1838 inclusive, and shews the following results :—</p>
+            <table cols="4"> <row><cell/><cell>Gold. Poods.</cell> <cell>Silver. Poods.</cell> <cell>Platina. Poods.</cell></row>
+            <row><cell>Produce of the Imperial mines—</cell><cell cols="3"/></row>
+            <row><cell>   In Ural,</cell> <cell>1,592</cell><cell>...</cell><cell>29</cell></row>
+            <row><cell>   In Altai,</cell> <cell>538½</cell> <cell>14,704¼</cell><cell>...</cell></row>
+            <row><cell>   In Nertshinskoi,</cell><cell> 9¾</cell> <cell>3,301¾</cell><cell>...</cell></row>
+            <row><cell>Produce of mines belonging to individuals,</cell>
+             <cell>3,009¾</cell> <cell>...</cell>
+                <cell>1,230</cell></row>
+            <row><cell/><cell>5,150½</cell> <cell>18,006</cell> <cell>1,259</cell></row></table>
+            <p>Value in Sterling about L.12,000,000 and L.6,000,000.</p>
+            <p>During the same period, the value of money coined at the Imperial Mint at St.
+                Petersburg, from Russian and foreign bullion, was about L.14,000,000 in gold,
+                L.8,000,000 in silver, and L.400,000 in platina.</p>
+            <p>The population of Siberia consists of numerous tribes, who differ in their origin and
+                their manners, and have been gradually subjected to the Russian authority, paying a
+                stated tribute, which is not oppressive, and following their own pursuits
+                unmolested. The Mongols, who withdrew from the Chinese dominion during the last
+                century, and voluntarily placed themselves under the dominion of Russia, inhabit the
+                regions about the Selenga, in the government of Irkutsk, from the 122d to the l25th
+                degree of longitude, and between the 50th and 53d degree of north latitude They
+                consist of seven stems, or twenty families, which were estimated to compose 6918
+                males in 1766. The Burats inhabit Daouria, the banks of the Selenga, of the lake
+                Baikal, and of the Upper Jenesei. They are remarkably industrious, and are chiefly
+                employed in pastoral pursuits. The Tartars form a very numerous race, and are found
+                scattered over Siberia, under the different appellations of Tobolskian Tartars, from
+                the river Tobol, on which they dwell ; the Tom- skian Tartars, who inhabit both
+                sides of the river Tom, above and below the city of Tomsk ; the Krasnayarskian and
+                the Kusneretskian Tartars, who greatly resemble the Mongolian tribes; the Tartars of
+                the Obi, who are partly agricultural and partly pastoral in their habits ; the
+                Tartar tribe, which dwelt formerly between the Obi and the Jenesei, but which now
+                inhabit the whole country along the river Tschulym ; other tribes, of which it would
+                serve little purpose to give the barbarous appellatious, inhabit the country between
+                the Obi and the Irtysch, which is called the steppe of Baraba. There are others on
+                the left shore of the Jenesei, upon which they follow their pastoral occupations
+                amongst the Sayome mountains. Certain districts in the governments of Tobolsk and
+                Kolhyvan, and partly in the eastern half of that of Perm, beyond the Ural mountains,
+                are to be regarded as the peculiar home and seat of the Siberian Tartars. The
+                northern districts of Siberia are possessed by twenty tribes, peculiar to itself.
+                The principal are the Tungouses on the Jenesei, the Ostiaks, the Yakantes, the
+                Samoiedes, and the Tchantchis. The extensive deserts on which roam the pastoral
+                tribe of the Tungouses, extend eastward across the Lena, as far as the Amoor and the
+                Eastern Ocean. They extend northward from the 53d to the 65th degree. The history of
+                the Samoiedes is little known. Their present abodes are on the coasts of the Frozen
+                Ocean, from about the 65th degree of north latitude, quite to the sea shore. They
+                swarm up to the 75th degree of north latitude, dwelling on the coldest and most
+                desolate regions of the earth, from the White Sea to the other side of the Jenesei,
+                and almost up to the Lena, and, therefore, being both in Europe and in Siberia.
+                There are the Ostiaks of the Obi, of the Narym, and of the Jenesei. The Ostiaks are
+                not numerous ; but they include many subordinate tribes, which it is unnecessary to
+                specify by name, as they all resemble each other in manners. Giorgi gives the
+                following statement of the population in 1801. In the government of Tobolsk, 622,422
+                ; in the government of Irkutsk, 451,937.</p>
+            <p>The religion generally diffused amongst these wild tribes, if it deserve the name, is
+                a rude superstition, or idolatry, congenial to the state of barbarism which
+                generally prevails. The system of Boodh, or of the Lamas, is the creed of the
+                Mongols and Tartars ; and the residence of the Lama, the chief of that religion, is
+                on the Upper Selenga, to the south of Baikal. The great temple was entered by a late
+                traveller, who found there about a hundred priests, clothed in red, and seated in
+                successive rows. The high-priest was seated upon a lofty and splendid throne, behind
+                which was an altar, upon which were placed the images of their gods, the inferior
+                ones being arranged in rows along the wall. Offerings were presented to them of
+                rice, brandy, and sometimes a hen or sheep roasted whole. Their worship consists in
+                a great measure of noise, the most formidable sounds being produced by a combination
+                of the most noisy instruments, such as bells, kettle-drums, trumpets, shells, and
+                other instruments. Those superstitious rites are, however, denounced by the pure
+                followers of the genuine Lamas. They practise other vile and bloody rites, by way of
+                expiating the anger of their gods ; such as leaping, and howling in a frightful
+                mannner, and pretending to wound their backs with knives. Amongst the rude wanderers
+                in the northern regions of Siberia complete paganism prevails, consisting of the
+                ignorant arts of sorcery, and the worship of deformed stone images. The light of
+                Christianity has hardly yet penetrated into these benighted regions. By the recent
+                enterprising and active efforts, however, of the missionary societies of Britain,
+                aided by the countenance of the Russian government, a beginning has been made in the
+                great work of civilizing and of converting these barbarous tribes.</p>
+        </body>
+    </text>
+</TEI>

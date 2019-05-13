@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:13:13Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>the Roman law is well known. Accordingly in 1503, the court of daily council., which
+                was essentially a revival of the former court of the session, was established by
+                means of Bishop Elphinstone. And at length, whilst the kingdom was yet in a state of
+                distraction from the fatal losses at Flodden, the present Court of Session or
+                College of Justice was instituted ; and of the numerous attempts of the clergy to
+                establish the Roman law as the common law of the land, this was the last and most
+                successful.</p>
+            <p>According to the simple principles of our old law, all suits originated by plaint,
+                claim, or summary application to the judge, setting forth the cause of action; and
+                the judge was bound of common right to administer justice therein. But afterwards, a
+                maxim was introduced that the judges were substitutes of the crown, and consequently
+                should take cognisance only of what was specially referred to them. Brieves or
+                mandatory letters from the king to the judges were then invented ; and the chancel
+                of the royal chapel became the great <hi rend="italic">officina justitiæ,</hi> the
+                shop or mint where the king’s writs were framed, and sold out to parties injured,
+                according to the exigency of the case. These writs issued out from the chancel or
+                chancery until the institution of the College of Justice, when the chancellor and
+                clergy, who were the principal judges there, began a mint or shop of their own in
+                the <hi rend="italic">Bill chamber</hi> of the court, so called because the brieves,
+                or, as they are here termed <hi rend="italic">letters,</hi> issue out, not on the
+                oral application of the party, but on his “ bill” or written supplication. This
+                course of proceeding was adopted from the court of Rome ; and it is observable, that
+                in both cases the language employed is sometimes identical. Thus, when the request
+                or prayer of the bill is granted, the judgment is, <hi rend="italic">Fiat ut
+                    petitur,</hi> which are the very words used by the Pope in the like case ; and
+                tire odd phrase, “Finds the letters orderly proceeded,” is but a verbal translation
+                of the <hi rend="italic">Male appellatum et bene processum</hi> of the papal court.
+                The names of the letters are also the same, letters of advocation ion, suspension,
+                and reduction, being equally well known in both places ; and letters of horning,
+                caption, and relaxation, have their papal origin impressed upon them. The comparison
+                might be carried through our whole process to its minutest technicality, and also to
+                the style and habit of the judges. After the manner of the ecclesiastical tribunals,
+                too, the judges deliberated in secret conclave with shut doors, parties and their
+                counsel, and all others being removed (1537, c. 66); and there was no report of the
+                judges’ opinions, or of the reasons of the judgment, but only of the vote or
+                sentence. At the Revolution, however, the court was thrown open ; but so powerful is
+                custom over all men, that to this day the great body of the practitioners continue
+                to walk the Outer House.</p>
+            <p>In modem times the court has been altered in almost every particular; its
+                constitution and jurisdiction, the number of the judges, the distribution of the
+                business, and the forms of proceeding. The machinery was indeed bad, but the spirit
+                which pervaded it was worse ; and the best antidote to this would perhaps be the
+                full force of public opinion, that is, perfect publicity, not merely of hearing and
+                judgment, but of every step in the administration of justice.</p>
+            <p>According to its first institution, the court consisted of a president and fourteen
+                ordinary lords, half of the temporal estate and half spiritual, of which the
+                president likewise was one. The Lord Chancellor, who was also an ecclesiastic, was
+                made principal of the college, as it was termed, and as such had a vote with the
+                judges; and there was a</p>
+            <p>reserved power to the king to appoint, at his pleasure, three or four extraordinary
+                lords, a power which the crown always exercised, and also sometimes greatly abused.
+                It was the Reformation which gave the first blow to the court. From that event it
+                began to lose its ecclesiastical, which had been its earliest and most
+                distinguishing feature. The Revolution followed, and opened up to the public eye the
+                heretofore secret tribunal. And at the union with England it ceased to be supreme,
+                though this last peculiarity, and that by which <hi rend="italic">the Lords</hi>
+                became so formidable in the country, was long struggled for, and is yet perhaps but
+                imperfectly given up by the court. These important changes, however, affected the
+                spirit and character of the court, rather than its external form, which remained
+                much as it was before. But they prepared the way for alterations there too ; and
+                during the last thirty years, a great number of public statutes have been passed,
+                altering the details of the court, and otherwise regulating the administration of
+                justice throughout the kingdom.</p>
+            <p>In 1808, the commencement of the period just referred to, the court was formed into
+                two divisions; or, in effect, two communicating but equal and independent courts.
+                The reason assigned for this change, was the greatly increased number of lawsuits
+                from the great extension of agriculture, commerce, manufactures, and population, and
+                the consequent multiplication of transactions in Scotland. There is every ground to
+                believe, however, that much of the supposed business was caused by the tedious
+                methods of proof and written pleadings adopted by the court, and its endless
+                judgments and rehearings; for in the degree in which these have been abolished, the
+                court has been able to absorb and dispatch the business of the other superior
+                courts, and still to allow a decrease in the number of its judges. These are now
+                only thirteen in all. Each division is composed of four judges ; the Lord President,
+                who is properly head of the whole court, presiding in the First Division, and the
+                Lord Justice-Clerk presiding in the Second. The remaining judges sit separately in
+                the Outer House, as Lords Ordinary. This term was originally given to all the judges
+                under the president, and they served in the Outer House by rotation; but amongst
+                other recent changes, the five junior judges were at first made permanent Lords
+                Ordinary, as attached to a particular division of the Inner House, but now without
+                any such relation. The junior or youngest Lord Ordinary of all is Ordinary on the
+                Bills, and has a peculiar class of cases assigned to him. But it is to be observed,
+                that from him, and from the other Ordinaries, an appeal lies, or a proceeding in the
+                nature of an appeal, to the Inner House; which, besides this appellate, has also
+                some original jurisdiction. It is not necessary to add, that there is much
+                imperfection in this whole system of judicature. There appears to have been little
+                unity of design in its formation ; there is considerable complexity in its actual
+                working, and there is no great satisfaction in its results.@@<hi rend="superscript"
+                    >1</hi></p>
+            <p>Let us now turn our attention to the local courts throughout the kingdom.</p>
+            <p>In early times the realm was divided into provinces, clanships, or counties, in each
+                of which was a maormor, maor, mayor or mair, as the king’s executive and ministerial
+                officer; and in every county or province there were divers judges, each exercising
+                judicial functions. The provinces and judicial districts of those times, however,
+                are now but imperfectly known; and, as might be expected, the series of mayors and
+                judges cannot by any means be made out. With re-</p>
+            <p><hi rend="superscript">@@@1</hi> In the year 1800, the number of causes enrolled in
+                the Outer House, was 2413 ; in 1810, it was 2643 ; in 1820, it was 2069 ; and in
+                1831, it was 1056. In the years 1836 and 1837, the business stood thus :—</p>
+            <table>
+                <row>
+                    <cell>Year.</cell>
+                    <cell>Causes Enrolled.</cell>
+                    <cell>Decrees in Absence.</cell>
+                    <cell>Decrees in force by Lords Ordinary.</cell>
+                    <cell>Reclaiming Notes to Inner House.</cell>
+                    <cell>Decrees in force by Inner House.</cell>
+                    <cell>Average Number of Appeals to House of Lords.</cell>
+                </row>
+                <row>
+                    <cell>1836.</cell>
+                    <cell>1.770</cell>
+                    <cell>546</cell>
+                    <cell>710</cell>
+                    <cell>456</cell>
+                    <cell>382</cell>
+                    <cell rows="2"> 45</cell>
+                </row>
+                <row>
+                    <cell>1837,</cell>
+                    <cell>1,565</cell>
+                    <cell>564</cell>
+                    <cell>600</cell>
+                    <cell>356</cell>
+                    <cell>375</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

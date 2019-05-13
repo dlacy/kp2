@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:18:56Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>so much on account of any apprehended injury to his literary 'reputation from the
+                publication of such unfinished works, as from an anxiety lest the progress of truth
+                should be retarrded by the statement of doctrines of which the principles were not
+                fully developed.</p>
+            <p>The following observations on the private character and habits of Dr. Smith proceed
+                from the pen of Mr. Stewart, who knew him well, and who was the last survivor of
+                that galaxy of illustrious men who shed, during the last century, so imperishable a
+                glory over the literature of Scotland. “ The more delicate and characteristical
+                features of his mind,” Mr. Stewart observes, “ it is perhaps impossible to trace.
+                That there were many peculiarities, both in his manners and in his intellectual
+                habits, was manifest to the most superficial observer ; but although, to those who
+                knew him, these peculiarities detracted nothing from the respect which his abilities
+                commanded ; and although, to his intimate friends, they added an inexpressible charm
+                to his con- versation, while they displayed, in the most interesting light, the
+                artless simplicity of his heart; yet it would require a very skilful pencil to
+                present them to the public eye. He was certainly not fitted for the general commerce
+                of the world, or for the business of active life. The comprehensive speculations
+                with which he had been occupied from his youth, and the variety of materials which
+                his own invention continually supplied to his thoughts, rendered him habitually
+                inattentive to familiar objects, and to common occurrences ; and he frequently
+                exhibited instances of absence, which had scarcely been surpassed by the fancy of La
+                Bruyere. Even in company he was apt to he engrossed with his studies ; and appeared
+                at times, by the motion of his lips, as well as by his looks and gestures, to be in
+                the fervour of composition. I have often, however, been struck, at the distance of
+                years, with his accurate memory of the most trifling particulars ; and am inclined
+                to believe, from this and some other circumstances, that he possessed a power, not
+                perhaps uncommon among absent men, of re- collecting, in consequence of subsequent
+                efforts of reflection, many occurrences which, at the time when they happened, did
+                not seem to have sensibly attracted his notice.</p>
+            <p>“ To the defect now mentioned, it was probably owing, in part, that he did not fall
+                in easily with the common dialogue of conversation, and that he was somewhat apt to
+                convey his own ideas in the form of a lecture. When he did so, however, it never
+                proceeded from a wish to engross the discourse, or to gratify his vanity. His own
+                inclination disposed him so strongly to enjoy in silence the gaiety of those around
+                him, that his friends were often led to concert little schemes, in order to engage
+                him in the discussions most likely to interest him. Nor do I think I shall be
+                accused of going too far when I say, that he was scarcely ever known to start a new
+                topic himself, or to appear un- prepared upon those topics that were introduced by
+                others. Indeed, his conversation was never more amusing than when he gave a loose to
+                his genius upon the very few branches of knowledge of which he only possessed the
+                outlines.</p>
+            <p>“ The opinions he formed of men, upon a slight acquaintance, were frequently
+                erroneous ; but the tendency of his nature inclined him much more to blind
+                partiality than to ill-founded prejudice. The enlarged views of human affairs, on
+                which his mind habitually dwelt, left him neither time nor inclination to study, in
+                detail, the uninteresting peculiarities of ordinary characters ; and accordingly,
+                though intimately acquainted with the capacities of the intellect, and the workings
+                of the heart, and accustomed, in his theories, to mark, with the most delicate hand,
+                the nicest shades, both of genius and of the passions ; yet, in judging of indi-
+                viduals, it sometimes happened that his estimates were, in a surprising degree, wide
+                of the truth.</p>
+            <p>“ In his external form and appearance there was nothing uncommon. When perfectly at
+                ease, and when warmed</p>
+            <p>with conversation, his gestures were animated, and not un- graceful ; and, in the
+                society of those he loved, his features were often brightened with a smile of
+                inexpressible benig- nity. In the company of strangers, his tendency to absence, and
+                perhaps still more his consciousness of this tendency, rendered his manner somewhat
+                embarrassed ;—an effect which was probably not a little heightened by those
+                speculative ideas of propriety, which his recluse habits tended at once to perfect
+                in his conception, and to diminish his power of realizing.”</p>
+            <p>The following is a list of the published works of Dr. Smith.</p>
+            <list type="ordered">
+                <item>Two articles in the <hi rend="italic">Edinburgh Review</hi> for 1755, being,
+                    (1) a Review of Johnson’s <hi rend="italic">English Dictionary,</hi> and (2) <hi
+                        rend="italic">A Letter to the Editors.</hi></item>
+                <item><hi rend="italic">The Theory Of Moral Sentiments.</hi> The first edition of
+                    this work was published in 8vo, early in 1759. The sixth edition was published a
+                    short time before the author’s death. It contains several additions, most of
+                    which were executed during his last illness.</item>
+                <item><hi rend="italic">Considerations concerning the first Formation of Languages,
+                        and the different Genius of Original and Compounded Languages.</hi> This
+                    essay was originally subjoined to the first edition of the <hi rend="italic"
+                        >Moral Sentiments. It</hi> is an ingenious and pretty successful attempt to
+                    explain the for- mation and progress of language, by means of that species of
+                    investigation to which Dugald Stewart has given the ap- propriate name of <hi
+                        rend="italic">Theoretical</hi> or <hi rend="italic">Conjectural History
+                        ;</hi> and which consists in endeavouring to trace the progress anti
+                    vicissitudes of any art or science, partly from such historical facts as have
+                    reference to it, and, where facts are wanting, from inferences derived from
+                    considering what would be the most natural and probable conduct of mankind un-
+                    der the circumstances supposed.</item>
+                <item><hi rend="italic">An Inquiry into the Nature and Causes of the Wealth of
+                        Nations.</hi> The first edition was published at London in 1776, in two
+                    volumes 4to. The fourth edition, which was the last revised by the author,
+                    appeared in three volumes 8vo, in 1786.</item>
+                <item><hi rend="italic">Essays on Philosophical Subjects.</hi> Lond. 1795, 4to.
+                    These are the fragments which he exempted from the general destruction of his
+                    manuscripts, and which were published by his friends, Dr. Black and Dr. Hutton.
+                    In an advertisement prefixed to the publication, the editors state that, when
+                    the papers which Dr. Smith had left in their hands were examined, “ the greater
+                    number ap- peared to be parts of a plan he once had formed for giving a
+                    connected history of the liberal sciences and elegant arts.” “ It is long,” they
+                    add, “ since he found it necessary to abandon that plan as far too extensive ;
+                    and these parts of it lay beside him neglected until his death. The reader will
+                    find in them that happy connection, that full and ac- curate expression, and
+                    that clear illustration, which are con- spicuous in the rest of his works; and
+                    though it is difficult to add much to the great fame he so justly acquired by
+                    his other writings, these will be read with satisfaction and pleasure.” The
+                    papers in question comprise, I. fragments of a great work <hi rend="italic">On
+                        the Principles which lead and direct Philosophical Inquiries,
+                        illustrated</hi> (1) <hi rend="italic">by the History of Astronomy;</hi> (2)
+                        <hi rend="italic">by the History of the Ancient Physics; and</hi> (3) <hi
+                        rend="italic">by the History of the Ancient Logics and Metaphysics.</hi> II.
+                    An essay entitled. <hi rend="italic">Of the Nature of that Imitation which takes
+                        place in what are called the imitative Arts.</hi> III. A short tract, <hi
+                        rend="italic">Of the Affinity between certain English and Italian
+                        Verses.</hi> IV. A disquisition. <hi rend="italic">Of the External
+                        Senses.</hi></item>
+            </list>
+            <p>Of the historical dissertations, the first only, on the <hi rend="italic">History of
+                    Astronomy,</hi> seems to be nearly complete. They are all written on the plan of
+                the dissertation on the <hi rend="italic">Formation of Languages,</hi> being partly
+                theoretical and partly founded on fact. In the essay on the <hi rend="italic"
+                    >History of Astronomy,</hi></p>
+        </body>
+    </text>
+</TEI>

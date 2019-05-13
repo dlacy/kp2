@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:22:31Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>at 263,@@<hi rend="superscript">l</hi> we do not find above fifty-seven of these
+                endowed with injurious attributes,—that is, the proportion is not much more than one
+                to five. This proportion, however, is not maintained throughout the various
+                countries of the globe,— the venomous kinds seeming to be comparatively more
+                numerous in open sterile countries. Of this, Africa and New Holland furnish
+                examples,—the venomous species of the former continent being to the innocuous kinds
+                as one to two or three, while of the ten species (or thereabouts) of ascertained New
+                Holland species, not fewer than seven are venomous. In general, the number of
+                individuals of each species is much more limited among the venomous kinds, as these
+                live in an isolated manner, and rarely multiply so as to become abundant. Local
+                circumstances sometimes favour an exception to this rule, as in the case of the <hi
+                    rend="italic">Trigo- noeephalus lanceοlarus</hi> of Martinique and St Lucia, and
+                that of the Dalmatian <hi rend="italic">Viperus ammodytes.</hi> The sea-snakes, all
+                of which are poisonous, are likewise of a gregarious nature.</p>
+            <p>Excepting the anomalous group called <hi rend="italic">Tortrix,</hi> there does not
+                seem to exist any genus of serpents which is spread over all countries capable of
+                maintaining reptile life ; and this restriction seems to illustrate the intimate
+                relation which subsists between the organization of these beings, and the countries
+                they inhabit. For example, the Colubers properly so called, which are destined to
+                dwell in countries which are either well wooded, or marshy with abundant vegetation,
+                have not yet been observed in New Holland, and are so rare in South Africa that only
+                a single species has been found there, and that of a somewhat anomalous nature, in
+                so far as its characters exhibit an approach to those of species which dwell by
+                preference in sandy deserts.</p>
+            <p>A similar observation applies nearly to the genus <hi rend="italic">Corοnella,
+                </hi>composed of species which inhabit marshy plains, or such as are covered by
+                brushwood. None of these occur in New Holland (which is noted for its frequent want
+                of water), while the South African kinds differ from the typical species of the
+                genus. The <hi rend="italic">tree-serpents</hi> are characteristic of equatorial
+                countries, inhabiting of course only those portions which fulfil the conditions of
+                their existence, that is, are well wooded. The three genera which compose the family
+                are found both in the Old and New World ; but it is noticeable that the species of
+                the genus <hi rend="italic">Dipsas</hi> of America do not attain to so great a size
+                as the majority of those of India ; while the genus <hi rend="italic">Dryophis</hi>
+                in America forms a true geographical division of the group, in so far as the dental
+                system and muzzle are less developed, and the pupil of the eye is orbicular. The
+                fresh-water snakes, comprised in the genera <hi rend="italic">Tropidonotus</hi> and
+                    <hi rend="italic">Homalopsis,</hi> occur abundantly in countries rich in
+                permanent lakes, and watered by continuous rivers. They are thus well known in Asia,
+                America, and even Europe, but are extremely rare in Africa, and unknown in New
+                Holland. The genus <hi rend="italic">Homalopsis,</hi> indeed, which contains the
+                essentially aquatic species, does not occur in Africa, but predominates in the New
+                World, so rich and unrivalled in its mighty reservoirs of water.</p>
+            <p>The geographical distribution of the <hi rend="italic">Boas</hi> exhibits some facts
+                worthy of record. The whole are peculiar to warm countries. The genuine species are
+                confined to South America ; their analogues in the ancient world being the <hi
+                    rend="italic">Pythons</hi> of India, although in the latter country we also find
+                several serpents very similar to Boas, but of very small size, and of which none
+                exists in the western world, except a single representative in the island of Cuba.
+                The genus <hi rend="italic">Acrοchordus</hi> forms a limited group, entirely
+                confined to the East Indies. Of the venomous serpents, it is chiefly the vipers, and
+                perhaps a few rattle-snakes, which make their way into temperate or colder
+                countries, the majority of the genera occurring in intertropical regions. Of the
+                colubriform venomous serpents, the genus <hi rend="italic">Elaps</hi> is the only
+                one which occurs in both worlds; and it is not improbable that the American species
+                will be found to constitute a geographical group, distinguished by their peculiar
+                coloration, and certain small distinctions even in form. The Indian species of the
+                genus last named are longitudinally striped, instead of being ringed with red and
+                black, while those of New Holland present some anomalous features. The genus <hi
+                    rend="italic">Bungarus</hi> is proper to the East Indies, where also are found
+                certain <hi rend="italic">Najas,</hi> although the majority of these prefer a drier
+                and more sandy soil,—a circumstance which explains their greater predominance in
+                Africa and New Holland. The fact does not seem to admit of easy explanation, that
+                    <hi rend="italic">salt-water serpents</hi> should be found almost exclusively in
+                the Indian seas, from Malabar to the great Pacific Ocean. In regard to the venomous
+                kinds properly so called, of the three genera of which that division is composed, it
+                may be observed, that one, <hi rend="italic">Viperus,</hi> is proper to the ancient
+                world ; that another, <hi rend="italic">Crotalus,</hi> is confined to the new ;
+                while a third, <hi rend="italic">Trigonocephalus,</hi> occurs in both. These
+                last-named reptiles dwell in great forests, or in well-w∞ded countries, and for that
+                reason are not observed either in Africa or New Holland, where they are replaced by
+                vipers ; but it may be mentioned, that the viper of New Holland is an anomalous
+                species, while such as inhabit Europe equally depart from the typical form, and tend
+                towards that of <hi rend="italic">Trigonοcephalus. </hi>In the genus just named two
+                divisions may be established, one composed of species with the head clothed with
+                scales, and which inhabit more particularly tropical countries; another formed of
+                species with the head covered by scaly plates, and which extend into temperate
+                regions.</p>
+            <p>The preceding are a few of the most general facts in the distribution of Ophidian
+                reptiles. We shall now notice some of those peculiarities which distinguish
+                particular continents,—and, first, of Europe. We here find no species of the genera
+                    <hi rend="italic">calamaria, Heterodon,</hi> or <hi rend="italic">Lycodοn,</hi>
+                no genuine tree-serpents, no species of <hi rend="italic">Homalopsis</hi> or <hi
+                    rend="italic">Boa.</hi> We never meet in Europe with any salt-water serpents,
+                nor with any of the colubriform venomous kinds ; and the poisonous tribes in general
+                are represented merely by a few vipers. That the entire order of Ophidian reptiles
+                has its great centre of dominion in sultry regions, is made manifest by the
+                fact,</p>
+            <p><hi rend="superscript">@@@,</hi> We here follow the computation of M. Schlegel, who
+                probably proceeds upon the idea that the actual species have been nominally
+                multiplied by the misapplication (and duplication) of various names. The amount must
+                have been considerably greater in M. Humboldt's opinion, as that illustrious writer
+                incidentally states that equatorial America produces 115 serpents out of the 320
+                which form the Ophidian order. Daudin, even in his time, described about 313
+                supposed species, of which eighty were regarded as venomous and 233 as innocuous,
+                which gives a greater proportion to the former than they are at present entitled to.
+                Nearly 400 different kinds of serpents are believed to exist in the Paris Museum,
+                although we know not with what degree of critical accuracy that enumeration has been
+                made.</p>
+            <p>We do not ourselves possess the means of ascertaining the total number of reptiles
+                now known to naturalists; but the following table exhibits the amount (as in 1834)
+                in the National Museum of Paris, compared with the number described in the works of
+                three principal writers on the class in question :—</p>
+            <table>
+                <row>
+                    <cell/>
+                    <cell>Lacépède, 1790.</cell>
+                    <cell>Daudin, 1805.</cell>
+                    <cell>Merτem, 1820.</cell>
+                    <cell>French Museum, 1834.</cell>
+                </row>
+                <row>
+                    <cell>Chelonians </cell>
+                    <cell> 24</cell>
+                    <cell>62</cell>
+                    <cell>62</cell>
+                    <cell>97</cell>
+                </row>
+                <row>
+                    <cell>Saurians </cell>
+                    <cell> 56</cell>
+                    <cell>86</cell>
+                    <cell>S3</cell>
+                    <cell>168</cell>
+                </row>
+                <row>
+                    <cell>Ophidians </cell>
+                    <cell> 172</cell>
+                    <cell>315</cell>
+                    <cell>348</cell>
+                    <cell>391</cell>
+                </row>
+                <row>
+                    <cell>Batrachians </cell>
+                    <cell> 40</cell>
+                    <cell>91</cell>
+                    <cell>87</cell>
+                    <cell>190</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>292</cell>
+                    <cell>556</cell>
+                    <cell>580</cell>
+                    <cell>846</cell>
+                </row>
+            </table>
+            <p>We may conclude this note by observing, that the unfortunate Wagler, in his <hi
+                    rend="italic">Naturliches System der Amphibien,</hi> four vols. Munich, 1830,
+                with folio Atlas of plates, has described no fewer than 248 <hi rend="italic"
+                    >genera</hi> of the reptile race.</p>
+        </body>
+    </text>
+</TEI>

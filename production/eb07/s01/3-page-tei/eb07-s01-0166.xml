@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:13:16Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>country, but in England. There can be no doubt, however, that they had their origin
+                in Scotland.@@<hi rend="superscript">1</hi></p>
+            <p>The courts we have now adverted to comprehend the public and general courts of the
+                kingdom, which have a public and general jurisdiction ; but besides these, there
+                are, or rather were, some whose jurisdiction was limited to particular sorts of
+                causes only. We allude to the Court of Exchequer, and the ecclesiastical and
+                maritime courts.</p>
+            <p>With respect to the first of these, the old Scotch court, composed of the treasurer
+                and lords auditors of exchequer, was superseded at the union by a Court of
+                Exchequer, composed of a lord chief-baron and four puisne barons ; and in addition
+                to certain ministerial powers continued from the old court, it had the like
+                authority, jurisdiction, and course of procedure as the Court of Exchequer in
+                England, after which generally it was modelled. It was an absurdly large and
+                expensive establishment. It had comparatively nothing to do ; and as the judges
+                might be, and some of them commonly were, English barristers, it never could be
+                opened up, like the exchequer of England, to the ordinary law business of the
+                country. Accordingly the barons were gradually reduced, and the business is now
+                transacted by a lord of session sitting as a judge in exchequer.</p>
+            <p>The Commission of Teinds, which was first erected at the Reformation, was in like
+                manner remodelled at the Union. It was formerly vested with powers for the planting
+                of churches, assigning and modifying stipends, and the valuation and sale of teinds.
+                But by a recent statute, all actions for the valuation or sale of teinds, all
+                actions of suspension or reduction of localities, and all actions of declarator or
+                reduction connected with teinds, must be brought and decided in the Court of
+                Session.</p>
+            <p>In times of popery, causes ecclesiastical were tried by the archdeacon’s official,
+                the bishop’s commissary, and the auditor or official principal of the province ;
+                from which last an appeal lay to the pope, who generally determined the matter by
+                commission. But at the Reformation, commissaries named by tne crown were appointed
+                in every commissariat ; and a Commissary Court, with original and appellate
+                jurisdiction, was also established at Edinburgh, of which Sir James Balfour, the
+                former official of St. Andrews, within the archdeaconry of Lothian, was the first
+                chief- judge. The commissary courts continued till recent times, when the office of
+                the local commissaries was abolished, and soon afterwards the Commissary Court of
+                Edinburgh, their powers and jurisdiction being transferred to the Court of</p>
+            <p>Session, and, in as far as regards confirmation pf testaments, to the sheriff or
+                county courts.</p>
+            <p>The jurisdiction of the Admiralty cannot perhaps be traced to an earlier period than
+                the beginning of the sixteenth century, when the office of lord justiciar, who was
+                of old the supreme judge in all manner of causes, became hereditary in the noble
+                family of Argyll, and the authority of the Admiralty was also long very limited. It
+                was confined to seafaring causes, and in these it had no exclusive
+                    jurisdiction.@@<hi rend="superscript">2</hi> The earliest collection of maritime
+                laws in Scotland, is that contained in Balfour’s <hi rend="italic">Practicks,</hi>
+                and entitled “ The Sea Laws, collectit furth of the Actis of Parliament, the prac-
+                tiques and lawis of Oberon, and the lawis of Wisbeig, and the constitutions of
+                Francois, king of France, 1543, 1557.” This we conceive was the <hi rend="italic"
+                    >Lib. Kintor.</hi> referred to by Balfour, and the work of David Kintore, then
+                judge of the Admiralty. Towards the end of the same century, Alexander King,
+                advocate, filled the same office ; and from the date of his <hi rend="italic"
+                    >Treatise on Maritime Law,</hi> apparently the first regular treatise on that
+                branch of jurisprudence in Great Britain, the court of Admiralty rose into
+                importance. By the act 1609, c. 15, it was declared a sovereign judicatory, and
+                letters of homing were allowed on its decrees ; and the reputation of the court
+                being afterwards sustained by a succession of eminent judges, such as Acheson of
+                Glencairney, Roberton of Beidlay, and Lyon of Carse, all of whom became lords of
+                Session, it began to extend its jurisdiction generally to mercantile, and not, as
+                before, to mere seafaring causes. The above act was then ratified by that of 1681,
+                c. 16, by which the ground of the court was farther cleared and enlarged ; the
+                admiral being now also styled the high admiral, and declared the king’s lieutenant
+                and justice-general on the high seas. By a later statute, provision was made for a
+                stated salary of L.100 to the judge of the Admiralty. This was renewed by the act
+                1704, c. 8; and by 26 Geo. III. c. 47, the salary was made L.400, which was
+                afterwards raised to L.800 a-year. The court, however, did not long enjoy this flow
+                of prosperity By the 6 Geo. IV. c. 120, jurisdiction in prize and capture was
+                withdrawn, and vested in the Admiralty of England ; and by a later statute the court
+                was altogether abolished, and its remaining jurisdiction transferred to the Court of
+                Session, and Sheriff courts ; the High Court of Justiciary having also previously
+                re-acquired, as of old, a co-ordinate jurisdiction in crimes at sea.</p>
+            <p>An ancient species of exempt territory was that of <hi rend="italic">sanctuary.</hi>
+                The first of the sort were probably churches ; and</p>
+            <p>@@@ The following table, from official returns, of causes brought for the five years
+                preceding 1882, will give an idea of the working of the ordinary civil courts of the
+                sheriffs in some of the principal counties.</p>
+            <table cols="6">
+                <row>
+                    <cell/>
+                    <cell>Actions brought.</cell>
+                    <cell>Decreets in Absence.</cell>
+                    <cell>Litigated.</cell>
+                    <cell>Appealed to Sheriff-Depute.</cell>
+                    <cell>Taken to Court of Session or Justiciary.</cell>
+                </row>
+                <row>
+                    <cell>Edinburgh </cell>
+                    <cell> 6,782</cell>
+                    <cell>2,322</cell>
+                    <cell>2,248</cell>
+                    <cell>611</cell>
+                    <cell>91</cell>
+                </row>
+                <row>
+                    <cell>Lanark, </cell>
+                    <cell> 10,227</cell>
+                    <cell>4,320</cell>
+                    <cell>5,907</cell>
+                    <cell>1,725</cell>
+                    <cell>181 </cell>
+                </row>
+                <row>
+                    <cell>Perth </cell>
+                    <cell> 6,823</cell>
+                    <cell>3,377</cell>
+                    <cell>2,971</cell>
+                    <cell>887</cell>
+                    <cell>85</cell>
+                </row>
+                <row>
+                    <cell>Aberdeen, </cell>
+                    <cell> 6,033</cell>
+                    <cell>3,777</cell>
+                    <cell>2,256</cell>
+                    <cell>543</cell>
+                    <cell>71</cell>
+                </row>
+                <row>
+                    <cell>Forfar </cell>
+                    <cell> 3.531</cell>
+                    <cell>1,636</cell>
+                    <cell>1,823</cell>
+                    <cell>298</cell>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell>Argyle </cell>
+                    <cell> 3,033</cell>
+                    <cell>1,580</cell>
+                    <cell>679</cell>
+                    <cell>No return.</cell>
+                    <cell>9</cell>
+                </row>
+                <row>
+                    <cell>Ayr, </cell>
+                    <cell> 2,764</cell>
+                    <cell>938</cell>
+                    <cell>1,826</cell>
+                    <cell>1,461</cell>
+                    <cell>54</cell>
+                </row>
+                <row>
+                    <cell>Dumfries, </cell>
+                    <cell> 2,653</cell>
+                    <cell>1,420</cell>
+                    <cell>1,233</cell>
+                    <cell>No return.</cell>
+                    <cell>47</cell>
+                </row>
+                <row>
+                    <cell>Fife </cell>
+                    <cell> 2,442</cell>
+                    <cell>1,1083</cell>
+                    <cell>1,596</cell>
+                    <cell>382</cell>
+                    <cell>34</cell>
+                </row>
+                <row>
+                    <cell>Inverness, </cell>
+                    <cell> 2,385</cell>
+                    <cell>1,413</cell>
+                    <cell>801</cell>
+                    <cell>232</cell>
+                    <cell>28</cell>
+                </row>
+            </table>
+            <p>The following table, from official returns, will show the working of the small debt
+                courts, and at the same time point out the preference given to the sheriff, or to
+                the justices of the peace, in the counties named.</p>
+            <p><hi rend="italic">Number of Small Debt Causes decided in the year</hi> 1832.</p>
+            <table cols="7">
+                <row>
+                    <cell/>
+                    <cell>By the Justices.</cell>
+                    <cell>By the Sheriff. </cell>
+                    <cell rows="6"/>
+                    <cell/>
+                    <cell>By the Justices.</cell>
+                    <cell>By the Sheriff.</cell>
+                </row>
+                <row>
+                    <cell>Edinburgh,..</cell>
+                    <cell> 9,254</cell>
+                    <cell>4,055</cell>
+                    <cell>Argyle, </cell>
+                    <cell>338</cell>
+                    <cell> 1,133</cell>
+                </row>
+                <row>
+                    <cell>Lanark, </cell>
+                    <cell> 9,001</cell>
+                    <cell>11,182</cell>
+                    <cell>Ross </cell>
+                    <cell> 190</cell>
+                    <cell>1,320</cell>
+                </row>
+                <row>
+                    <cell>Aberdeen,...</cell>
+                    <cell> 2,322</cell>
+                    <cell>2,769</cell>
+                    <cell>Inverness</cell>
+                    <cell> 141</cell>
+                    <cell>1,531</cell>
+                </row>
+                <row>
+                    <cell>Forfar, </cell>
+                    <cell> 1,767</cell>
+                    <cell>2,093</cell>
+                    <cell>Clackmannan,</cell>
+                    <cell> 21</cell>
+                    <cell>224</cell>
+                </row>
+                <row>
+                    <cell>Perth, </cell>
+                    <cell> 993</cell>
+                    <cell>1,543</cell>
+                    <cell>Haddington, </cell>
+                    <cell> 2</cell>
+                    <cell>282</cell>
+                </row>
+            </table>
+            <p>@@@* See Leg. Burg. c. 27; Pitcairn's Criminal Trials, vol. i. part i. p. 129, and
+                part ii. p. 83; and A. S., 16th January 1554.</p>
+        </body>
+    </text>
+</TEI>

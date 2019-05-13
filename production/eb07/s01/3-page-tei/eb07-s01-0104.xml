@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:11:46Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>HISTORY OF SCOTLAND.</p>
+            <p><hi rend="smallcaps">Sect.</hi> I.—<hi rend="italic">Homan Period.</hi></p>
+            <p><hi rend="smallcaps">It</hi> will not be expected that in such <hi rend="italic"
+                    >a</hi> sketch of the history of Scotland as is alone suited to this work, we
+                should enter into the great controversy concerning the origin of the Scottish
+                people, a subject upon which much needless acrimony, and many unprofitable volumes,
+                have been thrown away.@@<hi rend="superscript">1</hi> It will be more suitable to
+                mark the progress of the great events in our national history, and to pass over its
+                minor features ; to fix the attention upon results rather than to perplex it with
+                details ; to establish a series of points by which an intelligent reader may guide
+                his memory and direct his studies ; and occasionally to note those authors from
+                whose pages he may fill up the picture.</p>
+            <p>It is well known, that our first authentic knowledge of Britain comes from Julius
+                Cæsar. Fifty-five years before the Christian era, this extraordinary man invaded the
+                island from Gaul ; but his operations were attended with little success, his stay
+                was brief, and it is certain that he knew nothing of Scotland. It was not till
+                nearly a century and a half after Caesar’s descent, and during the reign of the
+                emperor Vespasian, that Julius Agricola, at the head of a Roman army, penetrated
+                into the northern parts of Britain. The details of his various campaigns, the
+                resistance which he encountered, and the vestiges of his progress which yet remain,
+                have furnished matter of laborious investigation to our antiquaries. Among their
+                conflicting accounts, it seems certain that he first pushed his conquests as far as
+                the Friths of Forth and Clyde ; that in succeeding campaigns he penetrated
+                northwards ; and that in his last great expedition, during which his army was
+                accompanied by a numerous fleet, which sailed along the coast, he was opposed by a
+                barbarian chief named Galgacus. A sanguinary battle was fought between this leader
+                and Agricola, the exact site of which has been keenly disputed. There seems to be
+                little doubt, however, that previously to its occurrence the Roman general hail
+                passed the Frith of Tay, and that although victorious over the fierce and
+                undisciplined multitudes which opposed him, he experienced a check which compelled
+                him to desist from any further aggression. Two great events marked the last years of
+                the government of Agricola. He explored the northern coasts of Scotland by his fleet
+                ; and to him the Roman world, in all probability, owed its first certain knowledge
+                that Britain was an island. He endeavoured, in the second place, to secure his
+                conquests from future attack by a chain of forts connecting the Friths of Forth and
+                Clyde. Having completed these defences, he was recalled by the jealousy of Domitian,
+                and left Britain in the year 85.</p>
+            <p>From this time till the reign of Hadrian, a period of thirty- six years, we hear
+                little of the Romans, either in southern or northern Britain. Early in the second
+                century, <hi rend="smallcaps">(a.D.</hi> 121), this emperor in person made an
+                expedition into Scotland ;</p>
+            <p>and about twenty years later, Lollius Urbicus, the Roman governor under the emperor
+                Antoninus, distinguished himself by the courage and ability which he displayed
+                against the turbident and warlike tribes which inhabited the northern parts of the
+                island. Two facts, however, are admitted by the Roman writers, which demonstrate how
+                uncertain was the tenure by which these masters of the world held their northern
+                possessions in Britain. The emperor Hadrian, apparently distrusting the sufficiency
+                of the line of forts already formed by Agricola, constructed a wall or fortified
+                rampart from the Tyne to the Solway. It has been supposed by some antiquaries, that
+                the emperor entirely abandoned to the barbarians the wide country between this new
+                defence and the more ancient <hi rend="italic">Vallum</hi> which united the Friths
+                of Forth and Clyde ; but the discovery of a succession of coins along the line of
+                this last rampart, belonging to the intermediate emperors, appears to indicate the
+                    contrary.@@<hi rend="superscript">2</hi> From the adoption of this measure it is
+                however evident, that the courage and successes of the barbarians had given much
+                annoyance to the Romans ; and this is corroborated by the second fact to which we
+                allude, namely, that between the period of Hadrian’s death and the succession of
+                Antoninus Pius, <hi rend="smallcaps">(a.</hi> D. 138), the wall between the Forth
+                and Clyde had been so completely destroyed, that Lollius Urbicus entirely
+                reconstructed it. This fact is proved by inscriptions, which the reader may consult
+                in Horsley’s <hi rend="italic">Britannia Homana.@@</hi><hi rend="italic superscript"
+                    >3</hi> During the remaining years of his government, this able officer devoted
+                himself to opening up the country by roads ; to the construction of various camps
+                and fortalices, of which the site has been traced with much industry and success by
+                the latest writer on the subject ; and to the introduction of those useful arts
+                which were best calculated to raise and humanize the character of the northern
+                barbarians.@@ His administration in Britain appears to have terminated with the death
+                of his master, Antoninus Pius, <hi rend="smallcaps">a.d.</hi> 161.</p>
+            <p>From this period till the beginning of the third century, all is dark in Britain. But
+                in the year 207, the emperor Severus received intelligence that the Caledonians had
+                invaded the Roman provinces ; and with a vigour and alacrity which, considering the
+                distance of the seat of war, and the barren prize to be contested, is not easily
+                explained, he hastened in person to reduce the insurgent Caledonians. This
+                expedition, making every allowance for the exaggeration with which the exploits of
+                an emperor were usually recorded, must have been an extraordinary one. In the
+                comparatively civilized country which extended between the walls of Hadrian and
+                Antoninus, he could meet with little opposition ; but when he left this last line of
+                defence, and conducted his army into the wild regions beyond the Frith of Forth,
+                ultimately penetrating into Moray, we must suppose him to have encountered very
+                formidable obstacles. The savage and uncleare d state of the country, the extent of
+                the forests, the unhealthy and</p>
+            <p>@@@* The reader is referred to Innes’s Critical Essay on the ancient Inhabitants of
+                Scotland, as the best work yet written on this subject. Its arrangement is defective
+                ; but its good sense, and the authenticity of the documents upon which its
+                deductions are founded, are highly praiseworthy. Pinkerton’s Dissertation on the
+                Scythians or Goths, Dr. Jamieson's Dissertation on the Origin of the Scottish
+                Language, and the first volume of the laborious work of Chalmers, entitled
+                Caledonia, may be consulted with the greatest advantage. In their pages, the
+                critical student who may desire to pursue the subject, will find ample references to
+                all the noted works upon this question.</p>
+            <p>@@@- Chalmers’s Caledonia, p. 116.</p>
+            <p>@@@» Horsley’s Britannia, Rom. I. i. c. 10; Innes’s Critical Essay, vol. i. p. 12.
+                The remains of the wall are popularly called Grim’s Dyke. Grym in Welsh and Cornish,
+                signifies strung, and is used perhaps metaphorically, as Chalmers conjectures, for a
+                “ strength or a rampart." Caledonia, vol. i. p. 129.</p>
+            <p>@@@ We may here refer the critical reader to Chalmers's dissertation on the actions of
+                Lollius Urbicus, contained in the first volume of his Caledonia.</p>
+        </body>
+    </text>
+</TEI>

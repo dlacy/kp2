@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:10:55Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SAVINGS BANKS are institutions established by act of parliament, for the safe custody
+                of small sums deposited by the industrious classes, and for the accumulation of such
+                sums at compound interest. The origin of savings banks is comparatively recent.
+                Attempts at instituting such banks were made, on a small scale, at various places in
+                England towards the end of last century and the beginning of the present : attempts
+                of a private and isolated nature, without the benevolent individuals by whom they
+                were made entertaining any idea of the institution ever becoming general ; and it
+                was reserved for an individual yet living to have the honour of founding an
+                institution which served as a model for such banks, and thus of conferring an
+                unspeakable blessing on the operative classes. We refer to the Rev. Dr Duncan,
+                minister of Ruthwell in Dumfriesshire. In 1810 he established “the Parish Bank
+                Friendly Society of Ruthwell and during the same year published a pamphlet on the
+                subject, entitled “ An Essay on the Nature and Advantages of Parish Banks.” This
+                pamphlet, in which the nature and advantages of these institutions are ably
+                developed, had so great an effect, and the success of the Ruthwell institution had
+                been so remarkable, that “ Parish Banks,” as Dr Duncan called them, but which are
+                now described as Savings Banks, speedily sprung up, not only in most of the
+                principal towns and boroughs of Scotland, but in several remote parishes.</p>
+            <p>Savings banks in England and Ireland were first taken under the protection of
+                government by the act of 57th Geo.</p>
+            <p>III. cap. 62, passed in 1817 ; but the first act in support of these institutions in
+                Scotland did not pass till two years afterwards. A savings bank in Scotland,
+                established under the latter act, is an institution formed by any number of persons
+                who may choose to unite for the purpose of receiving deposits of small sums, and
+                who, upon enrolling their rules at the quarter-sessions, acquire the privilege of
+                suing and being sued in the name of trustees. The money and effects of the
+                institution are vested in the trustees, for behoof of the depositors. Receipts and
+                other documents used by the bank are exempted from stamp-duties ; and provision is
+                made by the act for a summary mode of settling disputes that may arise between the
+                trustees and depositors. These were all the advantages which the act conferred on
+                savings banks in Scotland. Hence these institutions did not flourish ; the aggregate
+                sums deposited in them at the period (1835) when the privileges of the English
+                system were extended to Scotland not being estimated higher than L.100,000.</p>
+            <p>Various acts were meanwhile passed for the support of these institutions in England
+                and Ireland ; but all these statutes were consolidated in the existing English
+                Savings Bank Act of 9th Geo. IV. cap. 92, passed in 1828, which was amended in a few
+                particulars by the act of 3d Will.</p>
+            <p>IV. cap. 14. These acts, as previously stated, were extended to Scotland in 1835.</p>
+            <p>By this statute the whole deposits may be invested in the Bank of England on account
+                with the Commissioners for the Reduction of the National Debt, at the rate of L.3.
+                l6s. 0<hi rend="superscript">1</hi>/<hi rend="subscript">2</hi>d. per cent. of
+                interest. The savings banks are thus enabled to give a comparatively high rate of
+                interest, which is generally L.3. 6s. 8d., or 3i per cent. Each individual is
+                allowed to deposit any sum from one shilling up to L.30 in a year, and L.150 in all,
+                exclusive of interest; and, including interest, L.200. The bank is obliged to allow
+                compound interest; and this interest must be made up by law at the end of every year
+                (20th November), and added to the amount belonging to each depositor, even though he
+                does not appear to get his book balanced. The bank is also authorized to receive the
+                funds of friendly societies without limitation, and of benevolent and charitable
+                institutions to the amount of L.300 in all. By this statute the whole funds are
+                required to be invested with the Na</p>
+            <p>tional Debt Commissioners, and nowhere else ; and any part of these funds, when
+                required, is repaid by the Bank of England, without regard to fluctuations in the
+                value of the public stocks. It likewise requires security to be given by every
+                person—the treasurer, the actuary, the cashier, the clerks, the
+                office-keeper—intrusted with the receipt or custody of any sum of money belonging to
+                a savings bank ; while neither these functionaries, nor the managers or trustees,
+                nor any person having a control or direction in the management, can become
+                depositors in the bank, or derive, directly or indirectly, any benefit from the
+                institution. Annual returns must be made to the National Debt Office, and likewise
+                suspended in the office of the bank, and exhibited to depositors ; the manager and
+                trustees being thus directly responsible both to the government and to the public.
+                In short, while the greatest facilities are afforded for the increase of the funds,
+                every possible precaution has been taken to insure their safe custody, and the
+                direct responsibility of the managers. Nay, so liberal is the system, that the
+                annual general meeting is open by law to depositors of the amount of L.10 ; but,
+                practically speaking, every depositor who chooses is allowed to attend. Besides, the
+                rules and regulations of every savings bank require to be approved by the
+                Commissioners of the National Debt, and certified by the barrister-at-law appointed
+                for the purpose, and enrolled at the quarter-sessions of the justices of the peace
+                for the county in which the bank is situated. It may here be mentioned, that, to
+                prevent an abuse of the institution, no person is allowed by law to be a depositor
+                in two savings banks at the same time ; and on joining a savings bank, every person
+                is required to sign a declaration to that effect.</p>
+            <p>The act 2d and 3d Will. IV. enables depositors in savings banks, and others, to
+                purchase government annuities, for life or for a given number of years, and either
+                immediate or deferred. At present these annuities are limited to L.20 a year. The
+                money advanced is returned (but without interest), provided the contracting party
+                does not live to the age at which the annuity is to become payable, or is unable to
+                continue the monthly or annual instalments. The transactions under the act are to be
+                carried on through the medium of savings banks, or by societies established for the
+                purpose. But of this scheme, the classes for whose benefit it was intended have not
+                availed themselves to any great extent.</p>
+            <p>Since their establishment in 1817, the increase of savings banks has been beyond all
+                expectation. The total sum of money invested by these institutions in England,
+                Wales, and Ireland, amounts at this moment (1841) to upwards of L.22,000,000
+                sterling; while in Scotland, since 1835, when the English law on the subject was
+                extended to that part of the united kingdom, the progress has also been very
+                considerable ; savings banks having been established in most of the principal towns
+                ; while, in many places, such institutions still exist, and are flourishing, under
+                the meagre and defective statute of 1819. The National Security Savings Bank of
+                Edinburgh was founded in April 1836; and on the 20th November 1841, after the lapse
+                of only five years and a half, it had accumulated L.22l,816. l9s. 0d., including
+                interest ; while the aggregate number of depositors was no fewer than 19,130, of
+                whom 16,149 had balances (including interest) in their favour not exceeding L.20
+                each. Of this bank, 107 charitable societies, whose united deposits amounted to
+                L.5215. 1s. 2d., had availed themselves ; and sixty-two friendly societies, whose
+                gross deposits amountcd to L.2l6,585. l3s. 5d.</p>
+            <p>The object and principle of this great national institution cannot be too highly
+                commended. In London, and many other parts of England, public banks do not receive
+                small deposits, and upon none do they pay any interest. And even in Scotland, where
+                the public banks allow interest on</p>
+        </body>
+    </text>
+</TEI>

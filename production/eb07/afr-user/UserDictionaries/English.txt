@@ -1,0 +1,15 @@
+DICTIONARY_PROPERTIES=USE_CONFIDENCE
+aristocratical 100
+circar 100
+conjunctly 100
+dropt 100
+fellow-men 100
+hypothenuse 100
+joyousness 100
+lettres 100
+perfidiousness 100
+Ruddiman 100
+runnet 100
+unrepublican 100
+wantonness 100
+zanyism 100

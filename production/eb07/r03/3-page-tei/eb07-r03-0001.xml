@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>transformed from HTML to TEI by eb-html2tei</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ROTATION CONTINUED,  Comparing these with the above equations, we have</p>
+            <p>M ⅛ =/ΡΛ», M ⅛ <hi rend="italic">zzfGtdm,</hi> M⅛ =∕R√τz<hi rend="sub">i</hi>.</p>
+            <p>Now, the first members of these equations denote respectively the
+                quantities of motion in the direction of the axes <hi rend="italic">x, y, z,</hi> of
+                a material point whose mass = M, and the integrals <hi rend="italic">f</hi>P<hi
+                    rend="italic">dm, f</hi>Q<hi rend="italic">dm, f</hi>R<hi rend="italic">dm</hi>
+                denote the quantities of motion of the body or rigid system under consideration,
+                subjected to the accelerating forces P, Q, R ; it follows, therefore, that during
+                the whole continuance of the motion the centre of gravity moves as if the whole of
+                the matter of the body were concentrated there, and the forces which act on the body
+                were all applied at that point.</p>
+            <p>63.    Having thus given the equations which enable us to determine the motion of the
+                centre of gravity of a free system under the action of given forces, we now proceed
+                to consider the rotatory movement of the system, and to investigate the position of
+                any point of it with respect to the centre of gravity at the end of any given
+                interval of time. The investigation of this problem is greatly facilitated by means
+                of the following elegant theorem respecting the composition of rotatory motion,
+                discovered by Frisi.</p>
+            <p><hi rend="smallcaps">Proposition. If a solid body revolve round an axis O A (fig. 13)
+                    passing through its centre of gravity with an angular velocity </hi><hi
+                    rend="italic">— w,</hi> and if a force be impressed upon it which alone would
+                cause it to revolve about an axis OB also passing through its centre of gravity with
+                an angular velocity = <hi rend="italic">w'</hi>, then the body will not revolve
+                about either OA or OB, but about a third axis OC lying in the plane of the other
+                two, and inclined to each of the former axes in angles whose sines are inversely as
+                the angular velocities round those axes, or so that sin. AOC : sin. BOC :: <hi
+                    rend="italic">w' </hi>:<hi rend="italic"> w' ;</hi> and the angular velocity <hi
+                    rend="italic">u</hi> round the new axis is to that round one of the primitive
+                axes as the sine of inclination of the two primitive axes is to the sine of the
+                inclination of the new axis to the other primitive axis, that is, <hi rend="italic"
+                    >u : w</hi> : : sin. AOB : sin. COB, or <hi rend="italic">u : id</hi> : : sin.
+                AÔB : sin. AOC.</p>
+            <p>64.    In order to prove this proposition, it is necessary to show, lst, that any
+                point in the line OC is at rest while the two motions are taking place ; 2d, that
+                every particle of the body not situated in AC revolves about the axis AC ; and 3d,
+                to assign the velocity of rotation.</p>
+            <p>(1.) Let the angular motion about the axis OA be supposed to be in the direction by
+                which every point in the angle AOB would be raised above the plane of the paper, and
+                that about OB to be in the direction by which every point within the same
+                angle wouldbe depressed below theplane of the paper, and take any point E in OC, and
+                draw EH and EK respectively perpendicular to OA and OB. The absolute velocity with
+                which the point E moves in consequence of the rotation about OA is HE· w, and the
+                absolute velocity with which it moves about OB is KE ∙ κ∕. But HF=OE sin. AOC, anil
+                KE = OE sin. BOC ; and by hypothesis <hi rend="italic">id : w</hi> : : sin. AOC :
+                sin. BOC, whence <hi rend="italic">id</hi> sin. BOC = <hi rend="italic">w</hi> sin.
+                AOC, therefore the two velocities HE ∙ <hi rend="italic">w</hi> and KE ∙ <hi
+                    rend="italic">id</hi> are equal ; and they are in opposite directions,
+                consequently the point E remains at rest. In the same manner, it is shown that every
+                other point in OC remains at rest.</p>
+            <p>(2.) Let P be the place of any particle of the body, and conceive the surface of a
+                sphere to pass through P, intersecting the axes in A and B, and join PA and PB by
+                arcs of great circles. Draw PM perpendicular to AP, and make PM = <hi rend="italic"
+                    >w ∙</hi> sin. AP = absolute velocity of the particle P about the axis OA in 1"
+                of time ; also draw PN perpendicular to BP, and make PN = <hi rend="italic">id
+                    ∙</hi> sin. BP = absolute velocity of P about OB in 1" (the radius being unity),
+                and complete the parallelogram PMRN.</p>
+            <p>Since the particle <hi rend="italic">dm,</hi> in virtue of the rotation about OA, has
+                a motion which would cause it to describe the line PM in a second, and in virtue of
+                the rotation about OB has also a motion which would cause it to describe PN in a
+                second, the particle will describe PR the diagonal of the parallelogram PMRN.
+                Through P let an arc of a great circle be described perpendicular to PR, and
+                produced to meet the plane AOB in the point C, which at present we
+                suppose indeterminate, and join OC ; then OC is the straight line in which a plane
+                passing through P, perpendicular to PR. intersects the plane AOB.</p>
+            <p>Because APM and CPR are equal, being right angles, take from each the common angle
+                APR, and there remains RPM = APC; and because BPN and CPR are right angles, add to
+                each NPC, and we have RPN = BPC. Now PM = <hi rend="italic">w</hi> sin. AP, and PN =
+                RM = <hi rend="italic">id ∙</hi> sin. BP, therefore</p>
+            <p>PM : RM : : <hi rend="italic">w</hi> sin. AP : <hi rend="italic">id</hi> sin. BP ;
+                but PM : RM : : sin. MRP (= sin. RPN) : sin. RPM, or PM : RM : : sin. BPC : sin. APC
+                ; therefore sin. BPC : sin. APC : : <hi rend="italic">to</hi> sin. AP : <hi
+                    rend="italic">id</hi> sin. BP, whence <hi rend="italic">id</hi> sin. BP ∙ sin.
+                BPC = <hi rend="italic">w</hi> sin. AP ∙ sin. APC. Now in the spherical triangles
+                BPC and APC we have sin BP ∙ sin. BPC = sin. CB ∙ sin. PCB, and sin. AP ∙ sin.</p>
+            <p>APC = sin. AC ∙ sin. ACP ; therefore</p>
+            <p><hi rend="italic">id</hi> sin. CB ∙ PCB = <hi rend="italic">w</hi> sin. AC ∙ sin.
+                ACP.</p>
+            <p>But sin. PCB = sin. ACP (the one angle being the supplement of the other) ; also sin.
+                CB — sin. BOC, sin. AC = sin. AOC, therefore <hi rend="italic">id</hi> sin. BOC =
+                    <hi rend="italic">w</hi> sin. AOC, and consequently</p>
+            <p><hi rend="italic">w : id</hi> : : sin. BOC : sin. AOC.</p>
+            <p>From this it follows that OC divides the angle AOB into parts having a given ratio,
+                and is therefore given in position ; and as it may be shown in like manner that the
+                plane passing through every other particle of the body perpendicular to the
+                direction of the motion of that point intersects the plane AOB in OC, OC is
+                therefore the axis of rotation.</p>
+            <p>(3.) To find «, the angular velocity about OC. In the triangle RPM we have RP : PM :
+                : sin. RMP : sin. MRP ; but sin. RMP = sin. MPN = sin. APB, and sin. MRP = sin. RPN
+                = sin. CPB, therefore RP : PM : : sin. APB : sin. CPD. Now RP = « sin. CP = absolute
+                velocity about OC in 1", and PM = <hi rend="italic"><hi rend="smallcaps"
+                    >id</hi></hi> sin. AP — absolute velocity about OA in 1". Substituting these
+                expressions therefore in the last proportion, and multiplying extremes and means, we
+                get</p>
+            <p><hi rend="italic">u</hi> sin. CP ∙ sin. CPB = <hi rend="italic">w</hi> sin. AP ∙ sin.
+                APB.</p>
+            <p>But the spherical triangles CPB and APB give sin. CP sin. CPB = sin. CB sin. CBP, and
+                sin. AP sin. APB = sin. AB sin. ABP. Therefore, substituting, and leaving out the
+                common term, we have <hi rend="italic">u</hi> sin. CB = <hi rend="italic">w</hi>
+                sin. AB, or « sin. COB = <hi rend="italic"><hi rend="smallcaps">id</hi></hi> sin.
+                AOB, that is,</p>
+            <p><hi rend="italic">u : w</hi> : : sin. AOB : sin. COB.</p>
+            <p>In like manner, it may bc shown that</p>
+            <p><hi rend="italic">u : id</hi> : : sin. AOB : sin. AOC, whence the proposition is
+                demonstrated.</p>
+            <p>65.    When the two primitive axes OA and OB are at right angles, sin. AOB = 1, sin.
+                COB = cos. AOC, and the above two proportions give <hi rend="italic">u : id</hi> : :
+                1 : cos. AOC, <hi rend="italic">u : id : : I</hi> : sin. AOC, whence « cos. AOC =
+                    <hi rend="italic">u&gt;,</hi> and <hi rend="italic">u</hi> sin. AOC = <hi
+                    rend="italic">id,</hi> and consequently <hi rend="italic">u</hi><hi rend="sup"
+                    >2</hi> =<hi rend="italic">w<hi rend="sup">i</hi> + id*,</hi> or M = <hi
+                    rend="italic">√(w<hi rend="sup">2</hi></hi> + w'<hi rend="sup">2</hi>).</p>
+            <p>66.    Suppose a third axis OD at right angles to OA and OB, and that a force is
+                impressed on the body, which alone would cause it to revolve about OD with an
+                angular velocity = <hi rend="italic">id' ;</hi> then, as the body is revolving about
+                OC with the velocity <hi rend="italic">u,</hi> the effect of this new force will be
+                to cause it to revolve about an axis in the plane DOC ; and if we make ∙ψ = the
+                angle which this new axis makes with the line OC, and W = the velocity about the new
+                axis, we</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:18:14Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>tion ; and, on the first of August 1838, there was not a slave left in any British
+                colony, except the Mauritius alone, in which instructions from the home government
+                have since carried the enfranchisement into effect. The act of the Assembly of
+                Jamaica for putting an end to the apprenticeship was accompanied by a protest,
+                which, in its tone of mingled sullenness and pertness, is assuredly the strangest
+                document that ever emanated from any legislative body.</p>
+            <p>Of the results of this mighty change, we are not yet in a condition to speak. From
+                Jamaica the accounts have been of various complexions ; from the other islands
+                almost universally favourable. The negroes have scarcely anywhere</p>
+            <p>shown a disinclination to work, except during the few weeks immediately succeeding
+                their complete manumission ; and we look forward with a confident hope to
+                improvement both of society and statistics, believing firmly that the planters have
+                now fairer prospects before them than they have enjoyed at any time during the last
+                half century. If the event shall be otherwise, justice has at least been done ; and
+                some atonement has been made for the most heinous crime which our nation ever
+                committed. Nay more, a revolution has been averted, which, before many generations,
+                would assuredly have repeated in our Caribbean Islands all the horrors of Saint
+                Domingo. <hi rend="smallcaps">(b. l.)</hi></p>
+            <p><hi rend="italic">Of the Twenty Millions voted by Parliament as compensation to the
+                    owners of slaves, the following Table shews the proportions assigned to each
+                    colony by the commissioners appointed by the Act for the Abolition of Slavery,
+                    with the value and numbers of slaves in each.</hi></p>
+            <table>
+                <row>
+                    <cell>COLONY.</cell>
+                    <cell>Average Value of a Slave from 1822 to 1830.</cell>
+                    <cell>Number of Slaves by the last registration in this country.</cell>
+                    <cell>Relative Value of the Slaves.</cell>
+                    <cell>Proportion of the L.20,000,000, to which the colony is entitled.</cell>
+                </row>
+                <row>
+                    <cell>Bermuda </cell>
+                    <cell><p><hi rend="italic">£ ». d.</hi></p><p>27 4 11<hi rend="superscript"
+                                >3</hi>/<hi rend="subscript">4</hi></p><p>29 18 9<hi
+                                rend="superscript">3</hi>/<hi rend="subscript">4</hi></p><list
+                            type="ordered">
+                            <item>15 2<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >4</hi></item>
+                        </list><p>120 4 7<hi rend="superscript">1</hi>/<hi rend="subscript"
+                            >2</hi></p><list type="ordered">
+                            <item>16 1<hi rend="superscript">3</hi>/<hi rend="subscript"
+                                >4</hi></item>
+                            <item>12 10<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >2</hi></item>
+                        </list><p>36 17 10<hi rend="superscript">3</hi>/<hi rend="subscript"
+                            >4</hi></p><p>39 3 11<hi rend="superscript">3</hi>/<hi rend="subscript"
+                                >4</hi></p><p>36 6 10<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">4</hi></p><p>43 8 7<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">2</hi></p><p>47 1 3<hi
+                                rend="superscript">1</hi>/<hi rend="subscript">2</hi></p><p>59 6
+                            0</p><p>58 6 8</p><list type="ordered">
+                            <item>12 0<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >4</hi></item>
+                        </list><p>56 18 7</p><p>105 4 5<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">4</hi></p><p>114 11 5<hi rend="superscript"
+                                >3</hi>/<hi rend="subscript">4</hi></p><p>73 9 11</p><p>69 14
+                        3</p></cell>
+                    <cell><p>4,203</p><p>9,705</p><p>311,692</p><p>1,920</p><p>5,192</p><p>29,537</p><p>6,355</p><p>8,722</p><p>20,660</p><p>14,384</p><p>82,807</p><p>23,556</p><p>22,997</p><p>11,621</p><p>13,348</p><p>22,359</p><p>84,915</p><p>38,427</p><p>68,613</p></cell>
+                    <cell><p><hi rend="italic">£ s. d.</hi></p><p>114,527 7 5<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">4</hi></p><p>290,573 15 3<hi
+                                rend="superscript">3</hi>/<hi rend="subscript"
+                            >4</hi></p><p>13,951,139 2 3</p><p>230,844 0 0</p><p>165,143 9
+                            3</p><p>964,198 8 10<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >2</hi></p><p>234,466 8 0<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">4</hi></p><p>341,893 6 3<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">2</hi></p><p>750,840 7 1</p><p>624,715
+                            2 0 3,897,276 19 0<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >2</hi> 1,395,784 16 0 1,341,491 13 4</p><p>529,941 16 2<hi
+                                rend="superscript">1</hi>/<hi rend="subscript">2</hi></p><p>759,890
+                            10 4</p><p>2,352,655 18 0<hi rend="superscript">3</hi>/<hi
+                                rend="subscript">4</hi></p><p>9,729,047 13 5<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">4</hi> 2,824,224 7 9 4,783,183 15
+                        3</p></cell>
+                    <cell><p><hi rend="italic">£ s. d.</hi></p><p>50,584 7 0<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">2</hi> .<hi rend="subscript"
+                            >41</hi></p><p>128,340 7 5<hi rend="superscript">3</hi>/<hi
+                                rend="subscript">4 ·47 </hi>6,161,927 5 10<hi rend="superscript"
+                                >3</hi>/<hi rend="subscript">4 ·58</hi></p><p>101,958 19 7<hi
+                                rend="superscript">1</hi>/<hi rend="subscript">2 ·92 </hi>72,940 8
+                                5<hi rend="superscript">1</hi>/<hi rend="subscript">4
+                            ·76</hi></p><p>425,866 7 0<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">4 ·13</hi></p><p>103,558 18 5<hi rend="superscript"
+                                >0</hi>/<hi rend="subscript">0 ·38</hi> 151,007 2 11<hi
+                                rend="superscript">3</hi>/<hi rend="subscript">4
+                            ·35</hi></p><p>331,630 10 7<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">4 ·82</hi></p><p>275,923 12 8<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">2 ·30 </hi>1,721,345 19 7<hi
+                                rend="superscript">0</hi>/<hi rend="subscript">0
+                            ·87</hi></p><p>616,444 17 7<hi rend="superscript">0</hi>/<hi
+                                rend="subscript">0 ·03</hi></p><p>592,508 18 0<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">4 ·93</hi></p><p>234,064 4 11<hi
+                                rend="superscript">3</hi>/<hi rend="subscript">4
+                            ·55</hi></p><p>335,627 15 11<hi rend="superscript">3</hi>/<hi
+                                rend="subscript">4 ·19 </hi>1,039,119 1 3<hi rend="superscript"
+                                >1</hi>/<hi rend="subscript">2 ·11 </hi>4,297,117 10 6<hi
+                                rend="superscript">1</hi>/<hi rend="subscript">2 ·30</hi> 1,247,401
+                            0 7<hi rend="superscript">3</hi>/<hi rend="subscript">4 ·76</hi>
+                            2,112,632 10 11<hi rend="superscript">3</hi>/<hi rend="subscript">4
+                                ·06</hi></p><p>∙08</p></cell>
+                </row>
+                <row>
+                    <cell>Bahamas </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell><p>Jamaica </p><p>Honduras </p><p>Virgin Islands </p></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell><p>Antigua </p><p>Montserrat </p></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Nevis </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>St. Christopher’s </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Dominica </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Barbadoes </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Grenada </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>St. Vincent’s </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Tobago </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>St. Lucia </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Trinidad </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>British Guiana </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Cape of Good Hope </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Mauritius </cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell cols="2">780,993 1 45,281,738 15 10<hi rend="superscript">1</hi>/<hi
+                            rend="subscript">4</hi></cell>
+                    <cell>20,000,000 0 0</cell>
+                </row>
+            </table>
+            <p>SLEAFORD, a town in the hundred of Fleswell, part of Kesleven of the county of
+                Lincoln, 116 miles from London. It was once the residence of the bishops of Lincoln.
+                It has a fine ancient Gothic church, adorned with many monuments. It has a good
+                market on Fridays. The inhabitants were, in 1801, 1596; in 1811, 1904; in 1821,
+                2220; and in 1831, 2587.</p>
+            <p>SLEBEZE, a small island in the straits of Sunda. Long. 105. 24. E. Lat. 5.54. S.</p>
+            <p>SLEDGE, a kind of carriage without wheels, for the conveyance of weighty things, as
+                stones, bells, and the like. The sledge for carrying criminals, condemned for high
+                treason, to execution, is called a hurdle. The Dutch have a kind of sledge on which
+                they can carry a vessel of any burden by land. It consists of a plank of the length
+                of the keel of a moderate ship, raised a little behind, and hollow in the middle; so
+                that the sides go a little aslope, and are furnished with holes to receive pins. The
+                rest is quite even.</p>
+            <p><hi rend="smallcaps">Sledge</hi> is a large smith’s hammer, to be used with both
+                hands. Of this there are two sorts, the up-hand sledge, which is used by under
+                workmen, when the work is not of the largest sort. The other, which is called the
+                about sledge, and which is used for battering or drawing out the largest work, is
+                held by the handle with both hands, and swung round over their heads, at their arm’s
+                end, to strike as hard a blow as they can.</p>
+            <p>SLEEP, that state of the body, in which, though the vital functions continue, the
+                senses are not affected by the ordinary impressions of external objects. See <hi
+                    rend="smallcaps">Dreams, Phisiology, </hi>and <hi rend="smallcaps"
+                    >Somnambulism.</hi></p>
+            <p>SLEEPERS, in <hi rend="italic">Natural History,</hi> a name given to those animals
+                which sleep all winter, such as bears, marmots, dormice, bats, hedgehogs, swallows,
+                and the like. These do not feed in winter, have no sensible evacuations, breathe
+                little or none at all, and most of the viscera cease from their functions. Some of
+                these animals seem to be dead, and others return to a state like that of the fœtus
+                before birth. In this state they continue, till, by an increase of heat, the animal
+                is restored to its former functions.</p>
+            <p>SLEIDAN, <hi rend="smallcaps">John</hi>, an excellent German historian, born of
+                obscure parents, in 1506, at Sleidan, a small town on the confines of the duchy of
+                Juliers. After studying some time in his own country, together with his townsman,
+                the learned John Sturmius, he went to France, and in</p>
+        </body>
+    </text>
+</TEI>

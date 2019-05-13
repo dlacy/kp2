@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:16:58Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>This method requires the signal of advertisement, the annulling signal, the signal of
+                address to the particular ship or division, the signa) of acknowledgment, the signal
+                of indistinctness, of distress, of danger, and one or two more, which in every
+                method must be employed.</p>
+            <p>Another method of expressing numbers with fewer colours is as follows : Let the flags
+                be A, B, C, D, E, F, and arrange them as follows :</p>
+            <table>
+                <row>
+                    <cell/>
+                    <cell><p>A</p><p>1</p></cell>
+                    <cell><p>B</p><p>2</p></cell>
+                    <cell><p>C</p><p>3</p></cell>
+                    <cell><p>D</p><p>4</p></cell>
+                    <cell><p>E</p><p>5</p></cell>
+                    <cell><p>F</p><p>6</p></cell>
+                </row>
+                <row>
+                    <cell>A</cell>
+                    <cell>7</cell>
+                    <cell>8</cell>
+                    <cell>9</cell>
+                    <cell>10</cell>
+                    <cell>11</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>B</cell>
+                    <cell>13</cell>
+                    <cell>14</cell>
+                    <cell>15</cell>
+                    <cell>16</cell>
+                    <cell>17</cell>
+                    <cell>18</cell>
+                </row>
+                <row>
+                    <cell>C</cell>
+                    <cell>19</cell>
+                    <cell>20</cell>
+                    <cell>21</cell>
+                    <cell>22</cell>
+                    <cell>23</cell>
+                    <cell>24</cell>
+                </row>
+                <row>
+                    <cell>D</cell>
+                    <cell>25</cell>
+                    <cell>26</cell>
+                    <cell>27</cell>
+                    <cell>28</cell>
+                    <cell>29</cell>
+                    <cell>30</cell>
+                </row>
+                <row>
+                    <cell>E</cell>
+                    <cell>31</cell>
+                    <cell>32</cell>
+                    <cell>33</cell>
+                    <cell>34</cell>
+                    <cell>35</cell>
+                    <cell>36</cell>
+                </row>
+                <row>
+                    <cell>F</cell>
+                    <cell>37</cell>
+                    <cell>38</cell>
+                    <cell>39</cell>
+                    <cell>40</cell>
+                    <cell>41</cell>
+                    <cell>42</cell>
+                </row>
+            </table>
+            <p>The number expressed by any pair of flags is found in the intersection of the
+                horizontal and perpendicular columns. Thus the flag D, hoisted along with and above
+                the flag F, expresses the number 40, &amp;c. In order to express a greater number,
+                (but not exceeding 84), suppose 75, hoist the flag C</p>
+            <p>E, which expresses 33, or 75 wanting 42, and above them a flag or signal G, which
+                alone expresses 42.</p>
+            <p>This method may be still farther improved by arranging the flags thus :</p>
+            <table>
+                <row>
+                    <cell/>
+                    <cell><p>A</p><p>1</p></cell>
+                    <cell><p>B</p><p>2</p></cell>
+                    <cell><p>c</p><p>3</p></cell>
+                    <cell><p>D</p><p>4</p></cell>
+                    <cell><p>E</p><p>5</p></cell>
+                    <cell><p>F</p><p>6</p></cell>
+                </row>
+                <row>
+                    <cell>A</cell>
+                    <cell>7</cell>
+                    <cell>8</cell>
+                    <cell>9</cell>
+                    <cell>10</cell>
+                    <cell>11</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>B</cell>
+                    <cell>—</cell>
+                    <cell>13</cell>
+                    <cell>14</cell>
+                    <cell>15</cell>
+                    <cell>16</cell>
+                    <cell>17</cell>
+                </row>
+                <row>
+                    <cell>C</cell>
+                    <cell>—</cell>
+                    <cell>—</cell>
+                    <cell>18</cell>
+                    <cell>19</cell>
+                    <cell>20</cell>
+                    <cell>21</cell>
+                </row>
+                <row>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell>—</cell>
+                    <cell>—</cell>
+                    <cell>22</cell>
+                    <cell>23</cell>
+                    <cell>24</cell>
+                </row>
+                <row>
+                    <cell>E</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>25</cell>
+                    <cell>26</cell>
+                </row>
+                <row>
+                    <cell>F</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>27</cell>
+                </row>
+            </table>
+            <p>In this last method the signification of the signal is totally independent of the
+                position of the flags. In whatever parts of the ship the flags D and E are seen,
+                they express the number 23. This would suit battle signals.</p>
+            <p>Another method still may be taken. Flags hoisted anywhere on the foremast may be
+                accounted units, those on the mainmast tens, and those on the mizenmast hundreds.
+                Thus numeral signals may be made by a ship dismasted, or having only poles in their
+                place. Many other ways may be contrived for expressing numbers by colours, and there
+                is great room for exercising the judgment of the contriver. For it must always be
+                remembered, that these signals must be accompanied with a signal by which it is
+                addressed to some particular ship or division of the fleet, and it may be difficult
+                to connect the one with the other, which is perhaps shewn in another place, and
+                along with other executive signals.</p>
+            <p>One great advantage of these numeral signals is, that they may be changed in their
+                signification at pleasure. Thus, in the first method, it can be settled, that on
+                Sundays the colours A, B, C, D, &amp;c., express the cyphers</p>
+            <list type="ordered">
+                <item>2, 3, 4, &amp;c., but that on Mondays they express the cyphers 0, 1,2, 3,
+                    &amp;c., and on Tuesdays the cyphers 9, 0, 1,</item>
+                <item>&amp;c., and so on through all the days of the week. This mean of secrecy is
+                    mentioned by Dr. Hooke for the coast and alarm signals, where, by the bye, he
+                    shews a method for conveying intelligence over land very similar to what is now
+                    practised by the French with their telegraph.</item>
+            </list>
+            <p>It is equally easy to express numbers by night signals. Thus M. de la Bourdonnais
+                proposes that one discharge of a great gun shall express 7, and that 1, 2, 3, 4, 5.
+                6, shall be expressed by lights. Therefore to express 24, we must fire three guns,
+                and shew three lights. This iβ the most perfect of all forms of night and fog
+                signals. For both the manner of firing guns and of exhibiting lights may be va ried
+                to a sufficient extent with very few guns or lights, and with great
+                distinctness.</p>
+            <p>Thus, for guns. Let F mark the firing of a single gun at moderate intervals, and <hi
+                    rend="italic">ff</hi> a double gun, that is, two discharged at the interval of a
+                second. We may express numbers thus :</p>
+            <list type="ordered">
+                <item>F.</item>
+                <item>F, F.</item>
+                <item>F, F, F.</item>
+                <item>F, F, F, F.</item>
+                <item><hi rend="superscript">F,</hi><hi rend="italic superscript">f,f.</hi></item>
+                <item>F, F, <hi rend="italic">ff.</hi></item>
+                <item>F,<hi rend="italic">ff,</hi> F.</item>
+                <item>F,<hi rend="italic">ff,</hi> FF.</item>
+                <item>F,<hi rend="italic">ff, F,ff.</hi></item>
+            </list>
+            <p>10<hi rend="italic"> ff.</hi></p>
+            <p>100, &amp;c.,<hi rend="italic"> ff,ff,</hi> or <hi rend="italic">fff.</hi></p>
+            <p>It might be done with fewer guns if the <hi rend="italic">ff</hi> were admitted as
+                the first firing. But it seems better to begin always with the single gun, and thus
+                the double gun beginning a signal distinguishes the tens, &amp;c.</p>
+            <p>In like manner, a small number of lights will admit of a great variety of very
+                distinct positions, which may serve for all signals to ships not very remote from
+                the commander-in- chief. For orders to be understood at a very great distance, it
+                will be proper to appropriate the numbers which are indicated by signals made with
+                rockets. These can be varied in number and kind to a sufficient extent, so as to be
+                very easily distinguished and understood. It is sufficient to have shewn how the
+                whole, or nearly the whole notation of signals, may be limited to the expression of
+                numbers.</p>
+            <p>We have taken little notice of the signals made by private ships to the
+                commander-in-chief. This is a very easy business, because there is little risk of
+                confounding them with other signals. Nor have we spoken of signals from the flag
+                ships whose ultimate interpretation is number, as when ships are directed to change
+                their course so many points. Those also are easily contrived in any of the methods
+                already described ; also when a private ship wishes to inform the commander-in-chief
+                that soundings are found at so many fathoms. In like manner, by numbering the points
+                of the compass, the admiral can direct to chace to any one of them, or may be
+                informed of strange ships being seen in any quarter, and what is their number. <hi
+                    rend="smallcaps">(b. b. b.)</hi></p>
+            <p>Of late years, that is, within this century, a great improvement has taken place in
+                the signal department of the Royal Navy. The following brief memorandum on the
+                subject will give as general an idea on the subject as could be given without the
+                introduction of coloured plates, and more copious explanations than are consistent
+                with the plan of this work.</p>
+            <p>There are three volumes of signals in use in the navy ; one is called “ General
+                Signals,” the other “ Night and Fog Signals,” the other “Vocabulary Signals, for the
+                use of her Majesty’s fleet.” The <hi rend="italic">General Signals</hi> consist of a
+                set of numerical references, from 1 to 999, and contain all the most general orders
+                relating to action, sailing, manœuvring, and every other evolution in use, either at
+                sea or at anchor. All these signals are made by means of a set of numeral flags,
+                from 1 to 9, with the addition of zero ; a set of divisional flags, to distinguish
+                the different parts of a fleet ; flags to affirm signals, to annul them, and to
+                prepare measures; interrogative, answering, compass, geographical, and horary
+                pendants. These, with the union jack, compose the flags in use when the general
+                signal-book is employed. All these flags and pendants depend upon their form and
+                colour for their distinction, and are hoisted at the most conspicuous places for
+                being seen, but seldom more than three at a time. Besides these, distant signals are
+                made with square and tri-</p>
+        </body>
+    </text>
+</TEI>

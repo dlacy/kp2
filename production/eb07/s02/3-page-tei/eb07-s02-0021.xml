@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:19:43Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>volving red and white lights revolving in equal periods. The utility of all these
+                distinctions is chiefly to be imputed to their at once striking the eye of an
+                observer and being instantaneously obvious to strangers.</p>
+            <p>@@Before entering upon the subject of the dioptric lights, the writer of this article
+                embraces with pleasure the opportunity afforded to him, of acknowledging the
+                liberality of M. Léonor Fresnel, the present Secretary of the Lighthouse Commission
+                of France. It was entirely owing to the readi ness with which M. Fresnel afforded
+                him access to every avenue of information on the subject of lighthouses, that he was
+                enabled to effect the object of a mission to France, on which he was sent in the
+                year 1834, by the Commissioners of Northern Lights.</p>
+            <p>The first proposal of applying lenses to lighthouses, is recorded by Smeaton in his
+                account of the Eddystone Lighthouse, where he mentions that, in 1759, an optician in
+                London proposed grinding the glass of the lantern to a radius of seven feet six
+                inches ; but the description is too vague to admitof even a conjecture regarding the
+                proposed arrangement of the apparatus. Above forty years ago, however, lenses were
+                actually tried in several lighthouses in the south of England ; but their imperfect
+                figure, and the quantity of light absorbed by the glass, which was of inferior
+                quality and of considcrable thickness, rendered their effect so much inferior to
+                that of the parabolic reflectors then in use, that, after trying some strange
+                combinations of lenses and reflectors, the former were finally abandoned.</p>
+            <p>The object to be attained by the use of lenses in a lighthouse, is, of course,
+                identical with that which is answered by employing reflectors ; and both instruments
+                effect the same end by different means, collecting the rays which diverge from a
+                point called the <hi rend="italic">focus,</hi> and projecting them forward in a
+                beam, whose axis coincides with the produced axis of the instrument. The actions by
+                which these similar results are effected, have been termed <hi rend="italic"
+                    >reflection</hi> and <hi rend="italic">refraction.</hi> In the one case, the
+                light, as has been already said, merely impinges on the reflecting surface, and is
+                thrown back ; whilst in the other, the rays pass through the refracting medium, and
+                are bent or refracted from their natural course.</p>
+            <p>The celebrated Buffon, to prevent the great absorption of light by the thickness of
+                the material, which would necessarily result from giving to a lens of great
+                dimensions a figure continuously spherical, proposed to grind out of a solid piece
+                of glass, a lens in steps or concentric zones. This suggestion of Buffon regarding
+                the construction of large burning glasses, was first executed, with tolerable
+                success, about the year 1780, by the Abbé Rochon; but such are the difficulties
+                attending the process of working a solid piece of glass into the necessary form,
+                that it is believed the only other instrument ever constructed in this manner, is
+                that which was made by Messrs. Cookson of Newcastle-upon- Tyne, for the
+                Commissioners of Northern Lighthouses.</p>
+            <p>The merit of having first suggested the building of these lenses in separate pieces,
+                seems to be due to Condorcet, who in his <hi rend="italic">Eloge de Buffon,</hi>
+                published so far back as 1773, enumerates the advantages to be derived from this
+                    method.@@<hi rend="superscript">2 </hi>Sir David Brewster also described this
+                mode of building lenses in 1811, in the <hi rend="italic">Edinburgh
+                    Encyclopædia;</hi> and in 1822, the late eminent Fresnel, alike unacquainted
+                with the suggestions of Condorcet, or the description by Sir David Brewster,
+                explained with many ingenious and interesting details, the same mode of constructing
+                these instruments.</p>
+            <p>To Fresnel belongs the additional merit of having first followed up his invention, by
+                the construction of a lens, and in conjunction with MM. Arago and Mathieu of placing
+                a powerful lamp in its focus, and indeed of finally applying it to the practical
+                purposes <hi rend="italic">of a</hi> lighthouse. The fertile genius of the French
+                Academician has produced many ingenious combi nations of dioptric instruments for
+                lighthouses, which we shall have occasion to notice in the sequel.</p>
+            <p>The great advantages which attend the mode of construction proposed by Condorcet,
+                are, the ease of execution, by which a more perfect figure may be given to each
+                zone, and spherical aberration almost entirely corrected, and the power of forming a
+                lens of larger dimensions than could easily be made from a solid piece. Both Buffon
+                and Condorcet, however, chiefly speak of reducing the thickness of the material, and
+                do not seem to have thought of determining the radius and centre of the curvature of
+                the generating arcs of each zone, having contented themselves with simply depressing
+                the spherical surface in separate portions. Fresnel, on the other hand, determined
+                these centres, which constantly recede from the axis of the lens in proportion as
+                the zones to which they refer are removed from its centre ; and the surfaces of the
+                zones of the annular lens, consequently, are not parts of concentric spheres, as in
+                Buffon’s lens. It deserves notice, that the first lenses constructed for Fresnel by
+                M. Soleil had their zones polygonal, so that the surfaces were not annular, a form
+                which Fresnel considered less accommodated to the ordinary resources of the
+                optician. He also, with his habitual penetration, preferred the plano-convex to the
+                double-convex form, as more easily executed. After mature consideration, he finally
+                adopted crown glass, which, notwithstanding its greenish colour, he considered more
+                suitable than flint glass, as being less liable to <hi rend="italic">strife.</hi>
+                All his calculations were made in reference to an index of refraction of l∙5l, which
+                he had verified by repeated experiments, conducted with that patience and accuracy
+                for which, amidst his higher qualities, he was so remarkably distinguished. These
+                instruments have received the name <hi rend="italic">of annular</hi> lenses, from
+                the figure of the surface of the zones.</p>
+            <p>Fig. 6, Plate II, exhibits a plan and section of an annular lens of the largest size,
+                whose focal distance is 92 centimètres, or about 36∙22 inches, and which subtends a
+                luminous pyramid of 46° of inclination, having its apex in the flame.</p>
+            <p>Having once contemplated the possibility of illuminating lighthouses by dioptric
+                means, Fresnel quickly perceived the advantage of employing for fixed lights a lamp
+                placed in the centre of a polygonal hoop, consisting of a series of cylindric
+                refractors, <hi rend="italic">infinitely small</hi> in their length, and having
+                their axes in planes parallel to the horizon.</p>
+            <p>Such a continuation of vertical cylindric sections of various curvatures, by
+                refracting the rays proceeding from the focus only in a direction perpendicular to
+                the vertical sections of the cylindric parts, must distribute a zone of light <hi
+                    rend="italic">equally brilliant</hi> in every point of the horizon. This effect
+                will be easily understood, by considering the middle vertical section of one of the
+                great annular lenses or burning glasses, already described, abstractly from its
+                relation to the rest of the instrument. It will readily be perceived that this
+                section possesses the property of simply refracting the rays at right angles to the
+                line of the section, or in a direction parallel to the horizon, and cannot collect
+                the rays from either side of the vertical line ; and if this section, by its
+                revolution about a vertical axis, becomes the generating line</p>
+            <p>@@@[mu] <note anchored="true" place="margin" type="authorial">In all probability
+                        directly derived from the Greek <hi rend="italic">διόπτρα,</hi> an optical
+                        instrument with holes for looking through, which is a compound of διὰ, <hi
+                            rend="italic">through,</hi> and ὄ<hi rend="italic">πτoμαι, l
+                        see.</hi></note>Dioptic system of Fresnel.</p>
+            <p>@@@<hi rend="superscript">2</hi> On pourrait même composer de plusieurs pièces ces
+                loups à échelons ; on y gagnerait plus de facilité dans la construction, une grande
+                diminution de dépense, l'avantage de pouvoir leur donner plus d'étendue, et celui
+                d'employer suivant le besoin un nombre des cercles plus ou moins grand, et d'obtenir
+                ainsi du même instrument differens dégrès de force· <hi rend="italic">Eloge de
+                    Βuffon,</hi> p. 35. <hi rend="italic">Œuvres de Condorcet,</hi> tom. iv. Pana,
+                1804</p>
+        </body>
+    </text>
+</TEI>

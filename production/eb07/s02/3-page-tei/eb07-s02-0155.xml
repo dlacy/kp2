@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:23:03Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>bones in the buckler of the cranium. The auricle of the heart is not sufficiently
+                divided to be described as double ; but the second lung is rudimentary, as among the
+                genuine Ophidians. The liver is divided into many transverse foliations.</p>
+            <p>We know nothing of the natural history or habits of the animals of this genus. They
+                are said to dwell in marshy ground, several feet below the surface. They probably
+                prey on worms and insects, although vegetable matters, mould, and sand, have been
+                found in their intestines.</p>
+            <p>In certain species the muzzle is obtuse, the skin loose, the folds conspicuous, and
+                there are two small hairs near the nostrils. To this section belongs <hi
+                    rend="italic">Cæc</hi>. <hi rend="italic">annulata</hi> of Spix, a Brazilian
+                species, of subterranean habits. It is of a blackish hue, with upwards of eighty
+                annular folds, and</p>
+            <p>circularly marked with white. The teeth are conical. Others have the folds more
+                numerous, or rather in the form of serrated transverse striæ. Such is <hi
+                    rend="italic">Cæc. glutinosa, </hi>Linn., from Ceylon, a blackish-coloured
+                reptile, marked by a longitudinal band of white on either side, and characterized by
+                350 folds, which unite beneath in an acute angle. We have figured a nearly allied
+                species from America, <hi rend="italic">Cæc</hi>. <hi rend="italic">bivittata</hi>
+                of the French naturalists (see Plate CCCCXLIV. fig. 3). Finally, a few have the
+                folds almost effaced, the body long and slender, and the muzzle projecting. <hi
+                    rend="italic">Cæc</hi>. <hi rend="italic">lumbricoides,</hi> Daudin,@@<hi
+                    rend="superscript">1</hi> is entirely blind, of a blackish colour, two feet
+                long, and not thicker than a quill. Baron Cuvier possessed the skeleton of a Cæcilia
+                more than six feet long.@@* There were 225 vertebræ, but the external characters
+                were unknown. (τ.)</p>
+            <p>SERPENT, a powerful bass musical instrument of the wind kind, invented by a French
+                priest at Auxerre in 1590. See the article Music.</p>
+            <p><hi rend="smallcaps">Serpent,</hi> in <hi rend="italic">Mythology,</hi> was a common
+                symbol of the sun, and he is represented biting his tail, and with his body formed
+                into a circle, in order to indicate the ordinary course of this luminary. The
+                serpent was also the symbol of Medicine, and of the gods which presided over it, as
+                of Apollo and Æsculapius ; and this animal was the object of very ancient and
+                general worship, under various appellations and characters. In most of the ancient
+                rites we find some allusion to the serpent, under the several titles of Ob, Ops,
+                Python, and the like. This idolatry is alluded to by Moses. The woman at Endor who
+                had a familiar spirit is called Oub, or Ob, which is interpreted Pythonissa. The
+                place where she resided, says Bryant, seems to have been named from the worship
+                there instituted ; for Endor is compounded of <hi rend="italic">En-adοr,</hi> and
+                signifies <hi rend="italic">fons Pythonis,</hi> “ the fountain of light,” the oracle
+                of the god Ador, which oracle was probably founded by the Canaanites, and had never
+                been totally suppressed. His pillar was also called <hi rend="italic">Abbadir</hi>
+                or <hi rend="italic">Abadir,</hi> compounded of <hi rend="italic">ab</hi> and <hi
+                    rend="italic">adir,</hi> and meaning the serpent deity Addir, the same as
+                Adorns.</p>
+            <p>In the orgies of Bacchus, the persons who partook of the ceremony used to carry
+                serpents in their hands, and with horrid screams call upon Eva, being, according to
+                the writer just mentioned, the same as epha or opha, which the Greeks</p>
+            <p>rendered <hi rend="italic">ophis,</hi> and by it denoted a serpent. These ceremonies
+                and this symbolical worship began among the Magi, who were the sons of Chus ; and by
+                them they were propagated in various parts. Wherever the Ammonians founded any
+                places of worship, and introduced their rites, there was generally some story of a
+                serpent. There was a legend about a serpent at Colchis, at Thebes, at Delphi, and at
+                other places. The Greeks called Apollo himself Python, which is the same as Opis,
+                Oupis, and Oub.</p>
+            <p>In Egypt there was a serpent named Thermuthis, which was looked upon as sacred ; and
+                the natives arc said to have made use of it as a royal tiara, with which they
+                ornamented the statues of Isis. The kings of Egypt wore high bonnets, terminating in
+                a round ball, and surrounded with figures of asps ; and the priests had likewise the
+                representation of serpents upon their bonnets.</p>
+            <p>Abadon, or Abaddon, mentioned in the Revelations (xx. 2), is supposed by Bryant to
+                have been the name of the Ophite god, with whose worship the world had been so long
+                infected. This worship began among the people of Chaldæa, who built the city of
+                Ophis upon the Tigris, and were greatly addicted to divination and to the worship of
+                the serpent. From Chaldæa the worship passed into Egypt, where the serpent deity was
+                called Canoph, Can-eph, and C-neph. It had also the name of Ob or Oub, and was the
+                same as the Basiliscus or royal serpent, the same as the Thermuthis, and made use of
+                by way of ornament to the statues : of</p>
+            <p><hi rend="italic superscript">@@@,</hi><hi rend="italic"> Reptiles,</hi> viii. D2, 2. </p>
+            <p><hi rend="italic">@@@* Règnt Animal,</hi> ii. 10l, notc.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:13:15Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>spect to the latter, viz., the Celtic judge, we have not traced him to a later period
+                than the beginning of the fourteenth century. He was in all probability extinguished
+                during king Edward’s invasion of Scotland in the unhappy times which followed on the
+                death of king Alexander the Third. The sheriff was then universally established ;
+                and as that officer engrossed to himself the functions both of the judge and mair,
+                the former disappeared entirely from our annals, whilst the latter gradually
+                degenerated into the sheriff's officer, with whom, accordingly, he is, to the
+                present day, found mixed up in some of the northern counties.</p>
+            <p>The most ancient sheriff was certainly the <hi rend="italic">comes</hi> or earl.
+                There is no direct evidence to that effect, however ; and from a remote time, the
+                officer so called was the <hi rend="italic">vice-cornes. </hi>The office was not a
+                century in existence amongst us, when, falling into the hands of the great local
+                proprietors, it began to descend to heirs with the paternal estate. The sheriffship
+                of Ayr, which was erected in the year 1221, out of the bailiaries of Kyle, Carrick,
+                and Cuningham, was from the first hereditary. It is not surprising that the
+                hereditary <hi rend="italic">vice-cornes</hi> should soon cense to perform in person
+                the duties of his office; these were accordingly devolved on a deputy or <hi
+                    rend="italic">sub-vice-comes.</hi> The earliest officer of this sort we have met
+                with, is <hi rend="italic">Alan de Pilch,</hi> or Alan of the hairy garment,
+                sub-vice-comes de Inverness, temp. Robert I.;@@<hi rend="superscript">1</hi> but
+                sheriff- deputes are mentioned much earlier,@@<hi rend="superscript">1</hi> and to
+                such an extent was the abuse of deputation carried, that in some counties, that of
+                Cromarty for instance, the district was partitioned into various
+                deputy-sheriffships, and individuals appointed, such as officers of the army,
+                medical men, and others, in situations of life perfectly incompatible with the due
+                discharge of the office. The office also in many instances became hereditary; and
+                another was required to execute the active duties of the place, or <hi rend="italic"
+                    >pro-sub-vice-cornes.</hi> Thus, at the time of the jurisdiction act in 1747,
+                there were in most or all of the counties, omitting the <hi rend="italic"
+                    >comes,</hi> count or earl, a sheriff-principal or high sheriff, and
+                sheriff-depute, and a sheriff-substitute. All these were continued by the above act;
+                but the judicial powers were confined to the two last, whose duties and
+                qualifications have also been repeatedly regulated. It would undoubtedly have been
+                more agreeable to principle, however, to have abolished offices which grew out of
+                the abuses of the times, and assigned to every sheriff a reasonable district in
+                respect of extent and population, with constant residence therein, and the exercise
+                of judicial functions only. In determining the number, character, and situation of
+                courts in a country, the great problem evidently is, so to distribute them as to
+                secure two things, namely, to bring justice home to every man’s door, and to mature
+                a sound and fixed system of jurisprudence. In England, the latter object appears to
+                have been principally regarded since the days of Edward the First, before whose time
+                England and Scotland were equally distinguished for their local courts. But what, we
+                may ask, avails the best system of law, if it be remote or difficult of access ? The
+                end is in such case sacrificed to the means; and a multitude of petty courts, with a
+                few practitioners in each, would prove the ruin not only of the legal profession,
+                but of the law itself.</p>
+            <p>The sheriff-principal, or high sheriff, is lord lieutenant of his county, and
+                appointed at pleasure by the crown. The sheriff-depute, so called, is also appointed
+                by the crown ; but he is quite independent of the high sheriff. He must be an
+                advocate of at least three years’ standing; he holds his office during life, or good
+                behaviour; and he receives a salary, varying, according to the shire, from L.350 to
+                L.1200 a-year. The sheriff-substitute must be of the profession of the law,</p>
+            <p>though not necessarily a member of the bar. He is named by the sheriff-depute of the
+                shire, but paid by the crown, and is otherwise an independent officer. In every
+                county there is a high sheriff or lord lieutenant. The same may be said of the
+                sheriff-depute, except as to the united shires of Clackmannan and Kinross, Elgin and
+                Nairn, Ross and Cromarty. Ross, Sutherland, and Caithness, were originally parts of
+                the great shire of Inverness; but in the seventeenth century they became disjoined,
+                and were erected into separate shires. By the jurisdiction act, however, Ross was
+                put under the same sheriff with the ancient shire of Cromarty, and has continued so
+                ever since. Sutherland and Caithness were then also re-united; but in 1806 these
+                were again separated. Kinross was originally part of Fife; but it was afterwards
+                separated, then re-united, and in 1807 disjoined again, and united to Clackmannan.
+                With respect to the sheriff-substitute, in every shire there is at least one ; but
+                Edinburgh, Fife, Forfar, Perth, Renfrew, and Sutherland, have each two,
+                Kirkcudbright and Argyle have each three, Lanark and Inverness have each four, and
+                in one of the districts of Ross there is a sort of assistant substitute.</p>
+            <p>The jurisdiction of the county courts was originally most extensive ; and as to civil
+                suits in particular, there seems to have been scarcely any limitation. It was the
+                policy of the Court of Session, however, to make itself the great law court of the
+                kingdom ; and as it gradually absorbed the civil jurisdiction of the justiciary, so,
+                by a bold stratagem, it stripped the sheriff of all power to decide upon questions
+                of real property. Such questions were formerly tried under the brieve of right, a
+                judicial writ so named, because issued to try what was esteemed the highest right,
+                that of property in land ; and it is clear that this brieve was <hi rend="italic">in
+                    viridi observantia,</hi> and competent to sheriffs, till within a very few years
+                of the institution of the Court of Session. This is clear from the act 1503, c. 95,
+                which was passed to regulate it; and it is familiarly referred to by the poet
+                Dunbar, in his Dance of the Seven Deadly Sins, where, speaking of the occupations of
+                the damned, he says,</p>
+            <lg>
+                <l>“ Nae minstrels playit to them bot doubt,</l>
+                <l>For glee-men there were holden out</l>
+                <l>Be day and eik be night,</l>
+                <l>Except a minstrel that slew a man :</l>
+                <l>Swa tith his heritage be wan,</l>
+                <l>Entering be <hi rend="italic">brieve of right !”</hi></l>
+            </lg>
+            <p>Yet the Court of Session was scarcely established, when it boldly adjudged this
+                brieve “ nocht to have bene, nor yet to be thir mony yeires in use ;”@@<hi
+                    rend="superscript">3</hi> and having thus, by repressing the writ, ousted the
+                sheriff of his real jurisdiction, Boon took it to itself exclusively,@@<hi
+                    rend="superscript">4</hi> by letters prepared for the court in its own
+                Bill-chamber. The sheriff, however, still continued competent to possessory actions
+                ; and by a recent statute, his jurisdiction has even extended to all actions and
+                proceedings relative to nuisance or damages, arising from an undue exercise of the
+                right of property, and also to questions touching the constitution or exercise of
+                real or judicial servitudes, which is so far a restoration of his ancient powers.
+                Besides the ordinary jurisdiction, civil and criminal, of the county court, the
+                sheriff is empowered to decide summarily in questions of debt, when the sum in
+                dispute does not exceed eight pounds. These small debt courts were instituted in
+                1825, with a view to extend and improve the like jurisdiction, which had been
+                conferred upon justices of the peace about thirty years before. The summary redress
+                which such courts afford is of the greatest benefit to trade and to good
+                neighbourhood, in consequence of the little sacrifice of time, money, and feeling
+                they require ; and they are accordingly now extensively established, not only in
+                this</p>
+            <p><hi rend="superscript">@@@1</hi> Robertson’s Index, p. 29. </p>
+            <p><hi rend="superscript">@@@,</hi> Stat. Will. c. 14. Stat. Alex. II. c. 14.</p>
+            <p>@@@» Skene <hi rend="italic">voce</hi> Breve de recto. </p>
+            <p><hi rend="superscript">@@@4 </hi>Bishop of Aberdeen <hi rend="italic">v</hi>. Ogilvy,
+                3d July 1563.</p>
+        </body>
+    </text>
+</TEI>

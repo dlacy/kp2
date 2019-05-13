@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-19T20:13:07Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ployed Mr. James Walker, engineer, to institute a minute investigation of the entire
+                works, and to report. The report was presented to the House of Commons in 1838; and
+                a select Committee was appointed to take the whole subject into consideration. The
+                result of their investigations was, a recommendation that steam tugs should be
+                employed in the locks, so as to ensure a speedy navigation, and that a sum not
+                exceeding L.200,000 be placed at the disposal of the government, to be expended in
+                the repair and improvement of the canal, under the authority of an act of
+                Parliament, which should be procured for the purpose.@@’ This recommendation will,
+                it is hoped, be acted upon. (<hi rend="smallcaps">Navigation, Inland</hi>). The
+                Crinan canal is situated in Argyleshire, and is intended to afford a communication
+                between Loch Gi!p and the Western Ocean, so as to avoid the difficult and circuitous
+                passage round the Mull of Cantyre. It was originally undertaken in 1793 by
+                subscription of share-holders; but the sum subscribed(L.108,000) being quite
+                insufficient for the completion of the work, the government advanced the money, and
+                the canal was transferred on mortgage to the Barons of Exchequer in Scotland. The
+                management has since 1817 been lodged in the hands of the Commissioners of the
+                Caledonian Canal. It is nine miles long, and twelve feet deep, admitting vessels of
+                200 tons burden. The income scarcely covers the expenditure.@@<hi rend="superscript"
+                    >3 </hi>The Forth and Clyde Canal, sometimes called the Great Canal, though
+                begun in 1768, was not finally completed till 1790. The length from Grangemouth on
+                the Forth to Bowling Bay on the Clyde, is 35 miles, and, including the lateral
+                branch to Port-Dundas, Glasgow, 38<hi rend="superscript">1</hi>/<hi rend="subscript"
+                    >2</hi>. Its depth is ten feet; and it has in all thirty-nine locks. Though iron
+                swift boats and other lighters ply upon it, its staple trade consists in the transit
+                of sailing vessels of 120 tons and under. The Edinburgh and Glasgow Union Canal,
+                which was finished in 1822, stretches from Port-Hopetoun, Edinburgh, until it joins
+                the Forth and Clyde Canal at Port-Downie, near Falkirk, a distance of 31<hi
+                    rend="superscript">1</hi>/<hi rend="subscript">2</hi> miles. Its depth is only
+                five feet, so that its traffic is quite limited. The Monkland Canal stretches from
+                Glasgow to Woodhall, about two miles south-east of Airdrie, a distance of twelve
+                miles, and communicates by a lateral branch with the Forth and Clyde Canal at
+                Port-Dundas. The Glasgow, Paisley, and Ardrossan Canal has not been completed ;
+                indeed it is not now intended to complete it. The progress of railways seems
+                partially to supersede the use of canal communication. The canal in question has
+                been constructed from Port-Eglinton, near Glasgow, to the village of Johnstone, a
+                distance of eleven miles, and was opened in 1811. It was on this canal that the
+                experiment was made in rapid travelling by canals, demonstrating that it was
+                practicable for a properly constructed boat, carrying passengers and goods along a
+                canal, to go at a rate of nine or ten miles an hour, without injury to the banks.
+                These light boats are now common on canals suited for such travelling. The
+                Aberdeenshire Canal, completed in 1807, stretches from the harbour of Aberdeen to
+                Inventury. The length is 18<hi rend="superscript">1</hi>/<hi rend="subscript">4</hi>
+                miles, and the number of locks is seventeen.</p>
+            <p>The first act obtained, in 1808, for a railway in Scotland, was for that between
+                Kilmarnock and Troon, a distance of 9<hi rend="superscript">1</hi>/<hi
+                    rend="subscript">2</hi> miles. The Monkland and Kirkintilloch railway connects
+                the rich coal and ironstone district of New and Old Monkland, and, within fourteen
+                miles of the city of Glasgow, with the Forth and Clyde Canal, near Kirkintilloch.
+                The Ballochney railway, which has been in operation for about ten years, is merely
+                an elongation of the last mentioned line, four miles eastward into the interior. The
+                Glasgow and Garnkirk railway stretches eight miles west from Glasgow, till it
+                communicates with the Monkland and Kirkintilloch line, forming a direct
+                communication with Glasgow, and avoiding</p>
+            <p>the circuitous route of that line. The Wishaw and Coltness railway, which is meant to
+                connect the Monkland and Kirkintilloch branch with the rich coal and ironstone beds
+                of Wishaw, Coltness, and Allanton, has not yet been completed, though the act was
+                passed in 1829. The Slamannan railway, which is in progress of construction, is to
+                extend from the eastern termination of the Ballochney line to the Union Canal,
+                within a mile of Linlithgow, a distance of 12<hi rend="superscript">1</hi>/<hi
+                    rend="subscript">2</hi> miles. An act has been passed (1837) for forming a
+                branch to the town of Bathgate. The Pollock and Govan railway, which was meant to
+                connect these two places, which lye on the south of Glasgow, with that city, an
+                interval of three miles, is in the same unfinished state. The Paisley and Renfrew
+                railway, which extends from Paisley to the river Clyde at Renfrew ferry, a distance
+                of 3<hi rend="superscript">1</hi>/<hi rend="subscript">2</hi> miles, was opened in
+                1837. The Glasgow, Paisley, and Greenock railway is meant to connect Glasgow and
+                Greenock by way of Paisley. It runs nearly parallel with the Clyde, and is meant to
+                be completed in 1840. The Glasgow, Paisley, Kilmarnock, and Ayr railway is intended
+                to connect these towns and the adjacent districts. The line from Glasgow to Paisley
+                is declared to be common to the latter line, and that of the Glasgow, Paisley, and
+                Greenock railway, and to be executed at the joint expense of both companies. The
+                Glasgow and Paisley railway is to send branches out to the different towns in the
+                district through which it passes. An act was obtained in 1838 for constructing a
+                railway between Edinburgh and Glasgow. The line is to run nearly on a parallel with
+                the Union Canal, past Ratho, Winchburgh, Linlithgow, and Falkirk, to pass that canal
+                near Port-Downie, and to proceed onward to Glasgow by a line nearly parallel to the
+                Great Canal. The distance will be forty-six miles. The capital of the company is
+                L.900,000. Twenty-nine miles of the line have already been contracted for, and the
+                work will be completed at farthest in 1842. The Edinburgh and Dalkeith railway was
+                opened in 1832. It extends to Dalhousie Mains on the South Esk, but a private branch
+                has been carried over that river by a viaduct, and extends southwards for upwards of
+                a mile. The Dalkeith line is about to be carried over the North Esk, in order to
+                connect extensive coal fields in that quarter with the city of Edinburgh. There are
+                also branches to Leith and Fisherrow. On this railway upwards of 100,000 tons of
+                goods, and 300,000 passengers are annually conveyed. The Edinburgh, Leith, and
+                Newhaven railway is only meant to extend 2<hi rend="superscript">1</hi>/<hi
+                    rend="subscript">2</hi> miles. It is to commence at Canal Street, at the cast
+                end of Princes Street gardens, and proceed by a tunnel of 2800 feet, or rather more
+                than a fifth of the whole line, under St. Andrews Street, St. Andrews Square, Duke
+                Street, Drummond Place, &amp;c. to the foot of Scotland Street, and thence to
+                Newhaven in nearly a straight line, with a branch along the north side of the Water
+                of Leith, to the wet docks at Leith. The work has been begun, but when it will be
+                completed is uncertain. If the terminus of the line were to be united with that of
+                the Edinburgh and Glasgow railway, much advantage would accrue to both speculations.
+                But, according to act of Parliament, a mile intervenes at present between the dépôts
+                of the two. The Dundee and Newtyle railway is eleven miles in length, but branches
+                are in progress to Cupar-Angus and to Glammis. There are on the line three inclined
+                planes, and a tunnel of 340 yards. The Dundee and Forfar railway was opened in</p>
+            <p>1838. Its length is 16<hi rend="superscript">3</hi>/<hi rend="subscript">4</hi>
+                miles. The Arbroath and Forfar railway is just completed. The distance is 15<hi
+                    rend="superscript">1</hi>/<hi rend="subscript">4</hi> miles.</p>
+            <p>About the middle of the seventeenth century, the lands of Scotland were valued, with
+                a view to ascertain what proportion of the land-tax and others should be paid by
+                each county ; and this valuation, called the “valued rent,” which had been
+                undertaken by the authority of Cromwell, was afterwards</p>
+            <p><hi rend="superscript">@@@,</hi> See Thirty fourth Report of the Canal Commission,
+                Mr. Walker’s Report, and Report of Secret Committee.</p>
+            <p>@@@* Ibid.</p>
+        </body>
+    </text>
+</TEI>

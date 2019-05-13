@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:19:07Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>valley of the Leven, in which Smollett first saw the light, is surpassed by no other
+                spot in our island, either for the grandeur of its scenery, or for the venerable
+                associations with which it is connected. Nor was the ground which had been dignified
+                by the tread of Wallace, Bruce, Napier, and Buchanan, dishonoured by the steps of
+                Smollett.</p>
+            <p>From the grammar-school of Dunbarton, in which he had imbibed the rudiments of
+                classical learning, Smollett was transferred to the University of Glasgow, where he
+                prosecuted his more advanced studies with application and success. He was afterwards
+                bound an apprentice to Mr. John Gordon, an eminent medical practitioner in that
+                city. His elder brother James had adopted the profession of arms, an example which
+                he was ambitious of following; but the old knight probably illustrated the
+                advantages of the study of physic by reasoning which it would have been vain to
+                controvert. When the young student had attained his eighteenth year, his grandfather
+                died, without having made any adequate provision for the children of bis youngest
+                son. For this omission, his descendant furnished him with a niche in <hi
+                    rend="italic">Roderick Random,</hi> more conspicuous than desirable.</p>
+            <p>The term of his apprenticeship having expired in his nineteenth year, and being now
+                thrown upon his own resources, Smollett proceeded to London, where he attracted the
+                notice of Lord Lyttelton. He had carried with him his tragedy of <hi rend="italic"
+                    >The Regicide,</hi> a juvenile performance of uncommon merit, but indifferently
+                adapted to the purpose of representation. The various efforts which he ineffectually
+                used to bring his play upon the stage, are detailed with indignant prolixity in the
+                preface to that production, which he sent to the press some years afterwards, with a
+                view of heaping confusion upon the lukewarm patronage of Lyttelton, and upon the
+                shuffling evasions of Garrick. The patron and the manager were visited with many
+                other tokens of his displeasure ; but he lived to repent of the severe retribution
+                which he had exacted for trivial wrongs, and made honourable mention of both in his
+                History of England.</p>
+            <p>Thwarted in his expectations of earning fame and profit as a writer for the stage,
+                Smollett was glad to accept the situation of surgeon’s mate on board the Cumberland.
+                That vessel, an eighty-gun ship, belonged to the armament which was bound to the
+                West Indies, to join the fleet under the command of Admiral Vernon. Of the
+                disastrous expedition against Carthagena, Smollett inserted an animated narrative in
+                    <hi rend="italic">Roderick Random,</hi> and afterwards published a more detailed
+                account in the <hi rend="italic">compendium of Voyages. </hi>When the discomfited
+                squadrons returned to Jamaica, he quitted the service in disgust, and fixed his
+                residence on the island. With Miss Lascelles, a fascinating West Indian, he there
+                formed an acquaintance, which afterwards ripened into a matrimonial union. In 1746
+                he returned to London, which then resounded with acclamations occasioned by the
+                victory at Culloden. With these were mingled some expressions of indignation at the
+                atrocities inflicted by the royal army upon the helpless families of the insurgents.
+                The voice of Smollett swelled the weaker cry, and he produced his pathetic ode, <hi
+                    rend="italic">The Tears of Scotland. </hi>During the same year was published,
+                    <hi rend="italic">Advice, a Satire.</hi> His next literary effort was <hi
+                    rend="italic">Alceste, an Opera,</hi> which he wrote at the suggestion of Mr.
+                Rich of Covent Garden Theatre. In consequence of some dispute with that patentee,
+                the piece was withdrawn, and has never appeared in print. In 1747 he published <hi
+                    rend="italic">Reproof,</hi> a second part of his former satirical production.
+                The versification of these poems is sufficiently harmonious, and they abound with
+                impetuous</p>
+            <p>invective ; but the rage of the satirist is without dignity, and rabid, without being
+                infectious to readers of the present day. About this period he married Miss
+                Lascelles, who was possessed of a small estate in the island of Jamaica ; a
+                precarious species of property, from which her husband appears to have derived
+                little or no ultimate benefit.</p>
+            <p>In the year 1748, appeared <hi rend="italic">The Adventures of Roderick Random.</hi>
+                Fielding had already evinced himself a noble follower of Cervantes, and Smollett now
+                stood forth, a no less worthy disciple of Le Sage. It must be owned that in this,
+                and in all the other novels of Smollett, humour frequently appears in very loose
+                attire. These scenes, however, like sheet-lightning, are alarming, but perfectly
+                innocuous. The solemn depravity of Rousseau is more dangerous than the ludicrous
+                indecorum of Smollett. In 1749, <hi rend="italic">The Regicide</hi> was published by
+                subscription. During the same year Smollett took the degree of M.D., in what
+                University has not been ascertained. In 1750 he went to Paris, where he is supposed
+                to have occupied himself in composing <hi rend="italic">The Adventures of Peregrine
+                    Pickle,</hi> which were published in</p>
+            <list type="ordered">
+                <item>This admirable novel is disfigured by the introduction of an impertinent
+                    episode, in which are detailed, with unrelenting minuteness, the tedious
+                    intrigues of Lady Vane ; who is said to have rewarded Smollett handsomely for
+                    the drudgery of compiling that durable record of her infamy. To compensate for
+                    this blemish, and for some rash sallies of humour, <hi rend="italic">Peregrine
+                        Pickle</hi> is an absolute mine of character and adventure. The
+                    entertainment prepared by the learned physician, in the manner of the ancients,
+                    is perhaps the most irresistible piece of pleasantry that w as ever devised by a
+                    ludicrous fancy. In his heroes and heroines, Smollett is not happy. For Random
+                    we have no respect; for Pickle we have no esteem ; and Narcissa and Emilia are
+                    only the objects of appetite. Since the days of Tom Bowling and the Commodore,
+                    we have seen many sailors in print, who display an accurate and profound
+                    knowledge of technical <hi rend="italic">minutiae;</hi> but their humour, if
+                    they have any, will not pass muster ashore, the medium through which it is
+                    conveyed being to uninstructed ears a mere succession of unintelligible
+                    gibberish. And these modem tars have all a striking family likeness to each
+                    other, with the exception of some sentimental rope-haulers of the American
+                    school, who are evidently monsters of the imagination. But each of Smollett’s
+                    seamen, though drawn to the life, exhibits the strongest idiosyncrasy of
+                    character, and converses in a dialect which can be readily understood by those
+                    who have never seen a ship.@@<hi rend="superscript">1</hi></item>
+            </list>
+            <p>The next production of Smollett’s pen was “ An Essay on the External Use of Water, in
+                a letter to Dr.—;</p>
+            <p>with particular remarks upon the present method of using the Mineral Waters at Bath,
+                in Somersetshire ; and a plan for rendering them more safe, agreeable, and
+                efficacious.”</p>
+            <list type="ordered">
+                <item>4to. At the period of this publication, Smollett resided at Bath, where he
+                    solicited professional employment ; but the reputation of the satirist
+                    effectually marred the prospects of the physician. Despairing of success in bis
+                    profession, Dr. Smollett now hired a house at Chelsea, where he entirely devoted
+                    himself to literary pursuits. The first fruits of his retirement were, <hi
+                        rend="italic">The Adventures of Ferdinand count Fathom,</hi> which appeared
+                    in 1753. The author’s object in this production is, to set up the principal
+                    character “ as a beacon for the benefit of the inexperienced and unwary.” This
+                    personage is as much below, as one of Richardson’s heroes is above, the standard
+                    of general nature. Few men are so virtuous or depraved as to have much sympathy
+                    with either ; and it may very reasonably be ques-</item>
+            </list>
+            <p><hi rend="superscript">@@@1</hi> The incident of Tom Pipes’s concealing in his shoe
+                his master’s letter to Emilia, it is curious to trace to the following passage in
+                Ovid’s Art of Love ; which has not escaped ιhe laborious research of Hugo, <hi
+                    rend="italic">De prima Scribendi Origine,</hi> p. 154.</p>
+            <p>Cum possit solea chartas celare ligatae,</p>
+            <p>Et vincto blandas sub pede ferre nous.</p>
+        </body>
+    </text>
+</TEI>

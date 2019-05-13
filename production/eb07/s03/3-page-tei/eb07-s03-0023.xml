@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-03-25T20:14:44Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>According to the present positions of the masts of a ship, the sails on the fore-mast
+                are generally not capable of being so sharply braced as those on the main-mast ; but
+                as theory and practice, as may be instanced in fore-and-aft rigged vessels, concur
+                in fixing the limits to which it would be desirable to brace the yards, within even
+                what can generally be attained on the main-mast, much of the force of the wind on
+                the sails of the fore-mast must be lost ; and as this less sharpness of bracing,
+                common for the yards on the fore-mast, is even found to be necessary in many ships,
+                to enable them to carry their helm sufficiently a-weather, it would appear that the
+                position of the fore-mast is too far forward, and that moving it aft would be
+                advantageous ; besides the good effect it would have, as has been showm, in
+                diminishing the violence of the pitching motion.</p>
+            <p>The position of the fore-mast appears to have remained nearly the same as it was
+                determined in the early part of the last century, although many of the reasons which
+                then fixed it at about one ninth the length of the ship from the stem have ceased to
+                exist. Our ships are now longer, and there is consequently room for working the
+                sails, without those of one mast coming in contact with, or destroying the effect of
+                the wind on, those of the other. The after-parts of the hull above water are very
+                considerably reduced, and do not therefore render so great a proportion of head-sail
+                necessary to counterbalance the effect of the wind on them. The bodies of the ships
+                are, from the increase of the dimensions, much finer abaft, and consequently the
+                resultant of the resistance is farther aft. From these considerations, and from the
+                fact that it is found that complaints are made of ships carrying lee helms, it
+                appears not improbable that the generality of our ships would be improved by an
+                alteration in the position of their fore-masts.</p>
+            <p>The forms of our ships, and indeed those of some of the more modern French vessels of
+                which we are possessed, have approximated more to that recommended by Chapman, and
+                since his time adopted by the Swedes and Danes, than to that of the old French
+                bodies, which were for such a series of years the chief guides of the English
+                ship-builder. The marked characteristics of the old French body were, a flat floor,
+                with a sharp and, beneath the water, hollow fore-part, and a comparatively very full
+                after-part. The character of the Swedish construction is, the rising floor, full
+                fore-body, and extremely fine after-body. The generality of the English ships of the
+                present day are built with the rising floor, and approximating more, towards the
+                extremities, to the Swedish than to the old French characteristics. It seems
+                therefore but reasonable that the positions of the masts of our ships should partake
+                of the principle which appears to have dictated the alteration in the form of their
+                bodies. With this view, and for a general example as to the positions of ships’
+                masts, and of the ideas of various constructors, the following table has been
+                formed, of the positions of the masts of the vessels contained in Chapman’s “ large
+                work,” of some of the present Swedish ships, of the various classes of English
+                ships, and of several other vessels which have either some peculiarity in this
+                feature of their construction, or are remarkable for an excess of any good or bad
+                quality dependent on it. The other data in the table are necessary for completing
+                the comparisons which may be made.</p>
+
+            <p>Table of the Stations of Masts in Ships.</p>
+            <table>
+                <row>
+                    <cell>Ships' Names.</cell>
+                    <cell>No. of Guru.</cell>
+                    <cell>Length on the Load Water-line.</cell>
+                    <cell cols="3">Distances of the Masts abaft the foremost extremity of the Load
+                        Water-line.</cell>
+                    <cell cols="3">Ratio of the Distance of the Masts from forward, to the length of
+                        the Load Water-line.</cell>
+                    <cell>Ratio of Difference of Draught of Water to the Mean Draught of
+                        Water.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>Fore-mast.</cell>
+                    <cell>Main-mast.</cell>
+                    <cell>Mizen-mast.</cell>
+                    <cell cols="2">Fore-matt. Main-mast.</cell>
+                    <cell>Mizen-mast.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Swedish ships, from Chapman's large
+                        work......................................{</cell>
+                    <cell/>
+                    <cell>Feet.</cell>
+                    <cell>Feet.</cell>
+                    <cell>Feet.</cell>
+                    <cell>Feet.</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>110</cell>
+                    <cell>205∙2</cell>
+                    <cell>28∙8</cell>
+                    <cell>118∙5</cell>
+                    <cell>174·0</cell>
+                    <cell>·1398</cell>
+                    <cell>·579</cell>
+                    <cell>·848</cell>
+                    <cell>·094</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>94</cell>
+                    <cell>190∙1</cell>
+                    <cell>27∙0</cell>
+                    <cell>112∙2</cell>
+                    <cell>164·1</cell>
+                    <cell>·1402</cell>
+                    <cell>·880</cell>
+                    <cell>·857</cell>
+                    <cell>·085</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>80</cell>
+                    <cell>182∙1</cell>
+                    <cell>25∙7</cell>
+                    <cell>105∙5</cell>
+                    <cell>154∙2</cell>
+                    <cell>·1402</cell>
+                    <cell>·578</cell>
+                    <cell>·845</cell>
+                    <cell>·089</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>74</cell>
+                    <cell>177∙9</cell>
+                    <cell>24∙8</cell>
+                    <cell>102∙7</cell>
+                    <cell>150·0</cell>
+                    <cell>·1398</cell>
+                    <cell>·576</cell>
+                    <cell>·848</cell>
+                    <cell>·083</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>66</cell>
+                    <cell>174∙0</cell>
+                    <cell>24∙3</cell>
+                    <cell>100∙0</cell>
+                    <cell>146·8</cell>
+                    <cell>·1400</cell>
+                    <cell>·578</cell>
+                    <cell>·844</cell>
+                    <cell>·082</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>52</cell>
+                    <cell>164∙1</cell>
+                    <cell>22∙9</cell>
+                    <cell>93∙2</cell>
+                    <cell>138·4</cell>
+                    <cell>·1390</cell>
+                    <cell>·569</cell>
+                    <cell>·845</cell>
+                    <cell>·103</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>40</cell>
+                    <cell>149∙6</cell>
+                    <cell>23∙3</cell>
+                    <cell>86∙5</cell>
+                    <cell>125·2</cell>
+                    <cell>·1570@@<hi rend="superscript">1</hi></cell>
+                    <cell>·580</cell>
+                    <cell>·840</cell>
+                    <cell>·100</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>32</cell>
+                    <cell>125∙3</cell>
+                    <cell>19∙5</cell>
+                    <cell>72∙5</cell>
+                    <cell>104·4</cell>
+                    <cell>·1550<hi rend="superscript">1</hi></cell>
+                    <cell>·578</cell>
+                    <cell>·831</cell>
+                    <cell>·093</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>20</cell>
+                    <cell>113∙6</cell>
+                    <cell>17∙5</cell>
+                    <cell>65∙5</cell>
+                    <cell>94·6</cell>
+                    <cell>·1540<hi rend="superscript">1</hi></cell>
+                    <cell>·578</cell>
+                    <cell>·837</cell>
+                    <cell>·142</cell>
+                </row>
+                <row>
+                    <cell>Carl XIII., Swedish </cell>
+                    <cell>80</cell>
+                    <cell>177∙9</cell>
+                    <cell>24∙3</cell>
+                    <cell>102∙0</cell>
+                    <cell>148·6</cell>
+                    <cell>·1380</cell>
+                    <cell>∙578</cell>
+                    <cell>·858</cell>
+                    <cell>·108</cell>
+                </row>
+                <row>
+                    <cell>Corvette, Swedish </cell>
+                    <cell>20</cell>
+                    <cell>108∙5</cell>
+                    <cell>15∙6</cell>
+                    <cell>61∙7</cell>
+                    <cell>90·8</cell>
+                    <cell>·1440</cell>
+                    <cell>·570</cell>
+                    <cell>·835</cell>
+                    <cell>·120</cell>
+                </row>
+                <row>
+                    <cell>The Chapman, Swedish </cell>
+                    <cell/>
+                    <cell>149∙8</cell>
+                    <cell>28∙0</cell>
+                    <cell>89∙5</cell>
+                    <cell>124·2</cell>
+                    <cell>∙187@@<hi rend="superscript">2</hi></cell>
+                    <cell>·598</cell>
+                    <cell>·835</cell>
+                    <cell>·000@@<hi rend="superscript">3</hi></cell>
+                </row>
+                <row>
+                    <cell>President, French </cell>
+                    <cell>46</cell>
+                    <cell>159∙5</cell>
+                    <cell>24∙0</cell>
+                    <cell>87∙5</cell>
+                    <cell>132·2</cell>
+                    <cell>·150</cell>
+                    <cell>·550</cell>
+                    <cell>·831</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Do. altered to the Piedmontaise </cell>
+                    <cell>46</cell>
+                    <cell>159∙5</cell>
+                    <cell>21∙0</cell>
+                    <cell>87∙5</cell>
+                    <cell>132∙2</cell>
+                    <cell>·132</cell>
+                    <cell>·550</cell>
+                    <cell>·831</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Comet, bomb </cell>
+                    <cell/>
+                    <cell>109∙0</cell>
+                    <cell>13∙4</cell>
+                    <cell>61∙7</cell>
+                    <cell>90∙5</cell>
+                    <cell>·123</cell>
+                    <cell>·565</cell>
+                    <cell>·831</cell>
+                    <cell>·000<hi rend="superscript">3</hi></cell>
+                </row>
+                <row>
+                    <cell>Do. as altered </cell>
+                    <cell/>
+                    <cell>109∙0</cell>
+                    <cell>17∙4</cell>
+                    <cell>61∙7</cell>
+                    <cell>90∙5</cell>
+                    <cell>·162</cell>
+                    <cell>·565</cell>
+                    <cell>·831</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Pearl, Mr Sainty </cell>
+                    <cell>18</cell>
+                    <cell>114∙7</cell>
+                    <cell>18∙7</cell>
+                    <cell>64∙0</cell>
+                    <cell>97∙4</cell>
+                    <cell>·163</cell>
+                    <cell>·557</cell>
+                    <cell>·850</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Do. altered by his request </cell>
+                    <cell>18</cell>
+                    <cell>114∙7</cell>
+                    <cell>18∙7</cell>
+                    <cell>66∙5</cell>
+                    <cell>99·4</cell>
+                    <cell>·163</cell>
+                    <cell>·577</cell>
+                    <cell>·863</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Caledonia </cell>
+                    <cell>120</cell>
+                    <cell>205∙25</cell>
+                    <cell>25∙0</cell>
+                    <cell>113∙0</cell>
+                    <cell>171·7</cell>
+                    <cell>·122</cell>
+                    <cell>·552</cell>
+                    <cell>·835</cell>
+                    <cell>·057</cell>
+                </row>
+                <row>
+                    <cell>Asia </cell>
+                    <cell>84</cell>
+                    <cell>192∙25</cell>
+                    <cell>22∙3</cell>
+                    <cell>109∙0</cell>
+                    <cell>160·2</cell>
+                    <cell>·116</cell>
+                    <cell>·568</cell>
+                    <cell>·832</cell>
+                    <cell>·053</cell>
+                </row>
+                <row>
+                    <cell>Southampton </cell>
+                    <cell>60</cell>
+                    <cell>174∙0</cell>
+                    <cell>20∙7</cell>
+                    <cell>97∙2</cell>
+                    <cell>146·7</cell>
+                    <cell>·119</cell>
+                    <cell>·560</cell>
+                    <cell>·845</cell>
+                    <cell>·048</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>46</cell>
+                    <cell>159∙7</cell>
+                    <cell>21∙2</cell>
+                    <cell>85∙6</cell>
+                    <cell>132·3</cell>
+                    <cell>·133</cell>
+                    <cell>·535</cell>
+                    <cell>·832</cell>
+                    <cell>·076</cell>
+                </row>
+                <row>
+                    <cell>Leda </cell>
+                    <cell>46</cell>
+                    <cell>16∙0</cell>
+                    <cell>18∙8</cell>
+                    <cell>85∙3</cell>
+                    <cell><p>128·7</p><p>123·8</p></cell>
+                    <cell>·124</cell>
+                    <cell>·565</cell>
+                    <cell>·854</cell>
+                    <cell>·089</cell>
+                </row>
+                <row>
+                    <cell>Euryalus </cell>
+                    <cell>42</cell>
+                    <cell>146∙0</cell>
+                    <cell>17∙7</cell>
+                    <cell>82∙2</cell>
+                    <cell/>
+                    <cell>·124</cell>
+                    <cell>·503</cell>
+                    <cell>·848</cell>
+                    <cell>·104</cell>
+                </row>
+                <row>
+                    <cell>Sapphire </cell>
+                    <cell>28</cell>
+                    <cell>120∙2</cell>
+                    <cell>14∙7</cell>
+                    <cell>68∙7</cell>
+                    <cell>102·4</cell>
+                    <cell>·122</cell>
+                    <cell>·508</cell>
+                    <cell>·850</cell>
+                    <cell>·066</cell>
+                </row>
+                <row>
+                    <cell>Orestes. </cell>
+                    <cell>18</cell>
+                    <cell>111∙25</cell>
+                    <cell>14∙5</cell>
+                    <cell>64∙7</cell>
+                    <cell>97·4</cell>
+                    <cell>·129</cell>
+                    <cell>·573</cell>
+                    <cell>·864</cell>
+                    <cell>∙060</cell>
+                </row>
+                <row>
+                    <cell>Queen </cell>
+                    <cell>110</cell>
+                    <cell>202∙2</cell>
+                    <cell>24∙33</cell>
+                    <cell>118∙0</cell>
+                    <cell>175∙84</cell>
+                    <cell>·121</cell>
+                    <cell>·585</cell>
+                    <cell>·870</cell>
+                    <cell>∙085</cell>
+                </row>
+                <row>
+                    <cell>Vanguard </cell>
+                    <cell>80</cell>
+                    <cell>188∙2</cell>
+                    <cell>25∙7</cell>
+                    <cell>110∙9</cell>
+                    <cell>164∙3</cell>
+                    <cell>·137</cell>
+                    <cell>·584</cell>
+                    <cell>·823</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Vernon </cell>
+                    <cell>52</cell>
+                    <cell>176∙7</cell>
+                    <cell>27∙6</cell>
+                    <cell>104∙5</cell>
+                    <cell>154∙7</cell>
+                    <cell>·156</cell>
+                    <cell>·590</cell>
+                    <cell>·874</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Pique </cell>
+                    <cell>36</cell>
+                    <cell>160∙6</cell>
+                    <cell>23∙5</cell>
+                    <cell>94∙4</cell>
+                    <cell>139∙5</cell>
+                    <cell>·146</cell>
+                    <cell>·587</cell>
+                    <cell>∙867</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Vestal </cell>
+                    <cell>26</cell>
+                    <cell>131∙0</cell>
+                    <cell>20∙3</cell>
+                    <cell>77∙3</cell>
+                    <cell>114∙6</cell>
+                    <cell>·155</cell>
+                    <cell>·590</cell>
+                    <cell>·874</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Rover </cell>
+                    <cell>18</cell>
+                    <cell>109∙8</cell>
+                    <cell>15∙1</cell>
+                    <cell>64∙8</cell>
+                    <cell>96∙2</cell>
+                    <cell>·138</cell>
+                    <cell>·590</cell>
+                    <cell>·874</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>Inconstant </cell>
+                    <cell>36</cell>
+                    <cell>160∙0</cell>
+                    <cell>20∙0</cell>
+                    <cell>90∙33</cell>
+                    <cell>138∙0</cell>
+                    <cell>·125</cell>
+                    <cell>·504</cell>
+                    <cell>·860</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>465 tons </cell>
+                    <cell/>
+                    <cell>115∙0</cell>
+                    <cell>16∙6</cell>
+                    <cell>65∙0</cell>
+                    <cell>99∙2</cell>
+                    <cell>·145</cell>
+                    <cell>·565</cell>
+                    <cell>·861</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>450 tons</cell>
+                    <cell/>
+                    <cell>116∙6</cell>
+                    <cell>16∙8</cell>
+                    <cell>66∙0</cell>
+                    <cell>98∙0</cell>
+                    <cell>·144</cell>
+                    <cell>∙570</cell>
+                    <cell>·840</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>435 tons </cell>
+                    <cell>...</cell>
+                    <cell>114∙8</cell>
+                    <cell>16∙2</cell>
+                    <cell>67∙1</cell>
+                    <cell>96∙4</cell>
+                    <cell>·142</cell>
+                    <cell>·584</cell>
+                    <cell>·840</cell>
+                    <cell>...</cell>
+                </row>
+                <row>
+                    <cell>400 tons </cell>
+                    <cell>...</cell>
+                    <cell>108∙5</cell>
+                    <cell>16∙9</cell>
+                    <cell>66∙2</cell>
+                    <cell>92∙7</cell>
+                    <cell>·156</cell>
+                    <cell>·610</cell>
+                    <cell>·800</cell>
+                    <cell>...</cell>
+                </row>
+            </table>
+            <p>@@@1 An increase in the rakes of the stems. </p>
+            <p><hi rend="italic">@@@3</hi> The fore-mast raked four inches in ten feet. </p>
+            <p>@@@a On an even keel.</p>
+        </body>
+    </text>
+</TEI>
