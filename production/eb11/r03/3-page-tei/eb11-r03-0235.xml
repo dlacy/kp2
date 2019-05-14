@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>. The present article, embracing all the Romance languages, aims at tracing on the
+                one hand their common origin and their common development, on the other hand at
+                pointing out the peculiarities of the individual languages and the
+                possible explanations of the growth of these peculiarities. Thcir common development
+                is mainly dealt with under <hi rend="smallcaps">Latin Language.</hi> The relation of
+                the early vulgar Latin to the literary language, the spread of Latin following the
+                spread of Roman rule, the prevalence of Latin over Oscan, Umbrian, Etruscan, and
+                late Iberian and Gallic—all thesematters concern rather the history of Latin than of
+                the Romance languages. But we may say broadly that the language spoken throughout
+                the Roman Empire at the. time of Augustus was fairly uniform, and that naturally
+                differentiations took place (varying according to regions) which were not, however,
+                strongly marked, and which even tended to be obliterated in later times.</p>
+            <p>The main causes, of these variations were twofold, (i) The process of Romanizing the
+                various districts took place at epochs far remote one from the other, and between
+                the earliest and the latest of these epochs Latin itself was modified.@@<hi
+                    rend="sup">1</hi> (2) We have the reaction on Latin of the languages of the
+                pre-Roman populations.</p>
+            <p>Applying this first point of view, we should find that the oldest form of Latin
+                (oldest, that is, for our present purposes) was introduced into Sardinia (238 B.c.);
+                next comes Spain (197 B.c.), Hlyria (167 B.c.), South Gaul (120 <hi rend="smallcaps"
+                    >b.c.),</hi> North Gaul (50 B.c.), Raetia (15 <hi rend="smallcaps">b.c.),</hi>
+                Dacia <hi rend="smallcaps">(a.d.</hi> 107).. And we can actually trace some of
+                the results of these differences in date, chiefly perhaps in the vocabulary and
+                morphology of the Romance languages. When, for example, we find the dative <hi
+                    rend="italic">illui</hi> (Ital., Fr., Rum. Zwi) missing in the
+                Iberian peninsula, we may infer that it was unknown to the Latin introduced there,
+                and conversely that Latin still used the ancient <hi rend="italic">cova </hi>(Sp.
+                    <hi rend="italic">cueva,</hi> “ cava ") and not the more recent <hi
+                    rend="italic">cava</hi> (ltal. <hi rend="italic">cava),</hi> also <hi
+                    rend="italic">demagis</hi> or <hi rend="italic">gumia,</hi> which we only know
+                from Lucilius, Sp. <hi rend="italic">dem as, gomia.</hi></p>
+            <p>We may be justified in assigning to these historic causes the beginnings of the
+                divergence from the original uniformity. Neither active intercourse, nor the
+                dislocations of tribes and populations brought about by the exigencies of military
+                or colonizing enterprise, ever effected a complete fusion of these divergences. To
+                this we must add, as a second element, ethnic considerations.</p>
+            <p>To begin with, we seem to find in Italy itself, among the Italic population in
+                country districts,.the survival of isolated forms which had been discarded by the
+                literary language with its levelling tendencies, and in consequence also by what may
+                be called “ Average Latin " <hi rend="italic">(Durchschnittslatein).</hi> In early
+                Latin <hi rend="italic">d</hi> becomes r before labials, <hi rend="italic">e.g. ar
+                    me OAvenias</hi> occurs in Plautus; <hi rend="italic">arvorsus, arger</hi>
+                    from <hi rend="italic">*arfger</hi> are the ancient forms. Only <hi
+                    rend="italic">arbiter</hi> has survived as a word of the official language and
+                because in general feeling the noun was consciously connected with the verb <hi
+                    rend="italic">baetere,</hi> though it was soon discarded. <hi rend="italic"
+                    >Arger,</hi> under the influence of <hi rend="italic">aggerere, aggestus,</hi>
+                became <hi rend="italic">agger, </hi>and <hi rend="italic">arvorsus</hi> was
+                displaced by <hi rend="italic">aAvorsus.</hi> In Abruz. we have <hi rend="italic"
+                    >arbendâ, </hi>“ to repose," beside SiciI. <hi rend="italic">abbintari</hi>
+                which suppose <hi rend="italic">*arventare</hi> beside <hi rend="italic"
+                    >adventari;</hi> Abruz. <hi rend="italic">armuri,</hi> "to put out the fire,"
+                represents Lat. <hi rend="italic">★</hi><hi rend="italic"> armor iri</hi> instead of
+                    <hi rend="italic">OAmoriri', arbukkd</hi> is found beside Ital. <hi
+                    rend="italic">abboccare.</hi></p>
+            <p>All these forms are only attested in Italy, and they might by reason of their prefix
+                be classed as Umbrian, since in. Umbnan <hi rend="italic">ar</hi> for <hi
+                    rend="italic">ad</hi> is even commoner, cf. the place-name <hi rend="italic"
+                    >Arestaffele</hi> in Molise, which in Latin would be <hi rend="italic">ad
+                    Stabula,</hi> save that the limitation to the cases that are in line with the
+                Latin rule prove precisely that this is not a case of Umbrian influence, but of a
+                preservation of ancient and popular forms. Beyond the limits of Italy <hi
+                    rend="italic">arger</hi> has been preserved, <hi rend="italic">e.g.</hi> Sp. <hi
+                    rend="italic">arcen,</hi> and not only ItaI. <hi rend="italic">argine;</hi>
+                    further <hi rend="italic">armissarius,</hi> “ stallion," in the Lex Salica and
+                in Rum. <hi rend="italic">armesariu; </hi>perhaps Sp. <hi rend="italic"
+                    >almuerzo,</hi> “ breakfast,” for <hi rend="italic">*armuerzo</hi> beside
+                    Lat. <hi rend="italic">adrnorsus.</hi></p>
+            <p>ln the second place we have, especially in Italy, clearly Umbro-Oscan forms. Contrary
+                to Latin use, these two dialects, the most important ln ancient Italy, have /
+                between vowels from an early <hi rend="italic">bh, dh,</hi> as against Latin <hi
+                    rend="italic">b, d;</hi> and Umbrian, Paelignan, &amp;c.<hi rend="sub">;</hi><hi
+                    rend="italic">e, o, </hi>from an early <hi rend="italic">ei, ou,</hi> as against
+                Latin ï, <hi rend="italic">ü.</hi> Thus <hi rend="italic">crefrat</hi> (in
+                the glosses), as against Latin <hi rend="italic">cribrat,</hi> is both by right of
+                its vowel and consonant, an Umbrian form. And with this we must compare ItaI. <hi
+                    rend="italic">bifolco</hi> beside Lat. <hi rend="italic">bubulcus;</hi> ItaI.
+                    <hi rend="italic">taffiari,</hi> “to feast," beside <hi rend="italic">tabular i;
+                    tafano,</hi> “horsefly," beside Lat. <hi rend="italic">tabanus; bufalo,</hi>
+                beside Lat. <hi rend="italic">bubalus.</hi> Further, Neap. <hi rend="italic"
+                    >Ottufro,</hi> “ October," <hi rend="italic">rnorfende,“</hi> eyeteeth," Lat.
+                    <hi rend="italic">rnordente,</hi> &amp;c. There is a special interest in cases
+                like the French <hi rend="italic">mandrin</hi> beside Ital. <hi rend="italic"
+                    >manfano.</hi> What has come down to U9 is <hi rend="italic">manphur,</hi> which
+                is not Greek, its <hi rend="italic">ph</hi> notwithstanding, but which owing to its
+                / we must take to be Osco-Umbrian; while the corresponding Latin form would be <hi
+                    rend="italic">*mandar.</hi> The Latin supplies the French, the Osco-Umbrian the
+                    <hi rend="underline">Italian form. As to the other</hi></p>
+            <lb/>
+            <p>instance, Varro points to <hi rend="italic">vella</hi> beside <hi rend="italic"
+                    >villa</hi> as rustic, and to this we must add Iul. <hi rend="italic"
+                    >stegola,</hi> Sardin. <hi rend="italic">isteva,</hi> Sp. and Port, <hi
+                    rend="italic">esteva (*steva</hi> for <hi rend="italic">stiva),</hi> "plough
+                tail"; lui. <hi rend="italic">elce,</hi> Sardm. <hi rend="italic">elige,</hi> Fr.
+                    <hi rend="italic">yeuse,</hi> “holly" <hi rend="italic">(*elex</hi> for <hi
+                    rend="italic">ilex),</hi> or ltal. <hi rend="italic">pornmice,</hi> Fr. <hi
+                    rend="italic">ponce,</hi> Sp. <hi rend="italic">pornez,</hi> " pumice-stone "
+                    <hi rend="italic">(*pomice</hi> for <hi rend="italic">pumice).</hi></p>
+            <p>It must not be overlooked that the last word denotes an object found chiefly in
+                Sicily and near Naples, that is, in the ancient scat of the Oscans. It will be clear
+                that we are dealing chiefly with words connected with agriculture, and it is
+                remarkable that those of our second category spread all over the empire, while those
+                of the first were entirely, or almost entirely, limited to Italy.</p>
+            <p>As a parallel we may cite the vocabulary of North and South Gaul, which yields a
+                number of Gallic elements, and one may safely infer that in the first few centuries
+                after the Roman conquest these elements were more numerous than at a later stage,
+                and there is in fact a definite justification for this inference. The so-called
+                Endlichere glossary of the 5th century is a compilation, by a native of South Gaul,
+                of Gallic words which were clearly at that time still current in the south of
+                France@@? And in this we have not only <hi rend="italic">dunum, “ montem,’’
+                    cambiare, “ pro re dare</hi> " (Fr. <hi rend="italic">changer)*, caio, “ breialo
+                    sive bigardio</hi> " (Fr. <hi rend="italic">quai); nanto " volle’’</hi> Savoy,
+                    <hi rend="italic">nä, </hi>“ stream," but also <hi rend="italic">avallo, “
+                    poma,’’</hi> which was lost in later times but is preserved in its derivative
+                    <hi rend="italic">amelanche,</hi> " medlar."</p>
+            <p>Another Gallic word recorded by ancient tradition—<hi rend="italic">tegia,</hi> “ hut
+                " —still exists to-day with this meaning in the Venetian and Raetic Alps, and
+                moreover plays an important part in toponomy—Fr. <hi rend="italic">Arthies</hi> from
+                Gall, <hi rend="italic">are Tegias,</hi> “ at the huts,” N. lui. <hi rend="italic"
+                    >Tezze;</hi> but in the oldest GaIIo-Romance it may have been in use as an
+                appellative, and thence have passed into Basque—<hi rend="italic">e.g.</hi> Basq.
+                    <hi rend="italic">tegi,</hi> " hut." The permeation of the Latin vocabulary by
+                Gallic elements dates from the time of the contact of Gauls and Roman forces. Many
+                of these elements—<hi rend="italic">e.g. bracae, camisia—</hi>were wddely used at so
+                early a stage as to have penetrated into Rumania (Rum. <hi rend="italic"
+                    >tmbrâcâ,</hi> “ put on," <hi rend="italic">cämea$ä,</hi> "chemise"); others
+                again have scarcely, if at all, passed beyond their ancient limits, even those that
+                Roman literature has preserved for us. It is true that Martial says—</p>
+            <p>“ Barbara de pictis veni bascauda Britannis Sed me jam mavult dicere Roma sibi,"</p>
+            <p>but only in France has <hi rend="italic">bochoue</hi> been preserved up to the
+                present, while so far no traces of <hi rend="italic">bascauda</hi> have been
+                established for Italy.</p>
+            <p>Glancing over the Gallic contributions to the GaIIo-Romance vocabulary, we see at
+                once that they belong to a considerable extent to the sphere of agriculture, and
+                that among the implements mentioned it is chiefly vehicles of all kinds which have
+                Gallic names. The record of Roman times supplies us with <hi rend="italic"
+                    >benna, carpenturn, carrum, caruca, agredurn, petorritum, rheda,</hi> but <hi
+                    rend="italic">carrum </hi>alone gained a firm footing; <hi rend="italic"
+                    >caruca</hi> in the form of <hi rend="italic">charrue, “</hi> plough," survives
+                in France, and <hi rend="italic">bewqa</hi> (Fr. <hi rend="italic">banne,</hi> ltal.
+                    <hi rend="italic">benna)</hi> in its ancient home. Under this heading we may
+                perhaps add <hi rend="italic">taratrum,</hi> “ gimlet," in Isidore, Fr. <hi
+                    rend="italic">tarière,</hi> Engad. <hi rend="italic">tareder,</hi> Sp. <hi
+                    rend="italic">taladro,</hi> Port, <hi rend="italic">trado; </hi>Fr. <hi
+                    rend="italic">jante,</hi> " felloe of a wheel " (Bret. Kammed), Fr. <hi
+                    rend="italic">taranche, </hi>Gall, <hi rend="italic">tarinca.</hi> With <hi
+                    rend="italic">caruca</hi> we may class <hi rend="italic">soc,</hi> "
+                plough-share," and O. Fr. <hi rend="italic">raie.</hi> Mod. Fr. <hi rend="italic"
+                    >rayon,</hi> “ furrow," Gallic <hi rend="italic">*rica</hi> (cf. Cymr. <hi
+                    rend="italic">rhych).</hi></p>
+            <p>. A further group is formed by <hi rend="italic">cervoise,</hi> “ beer," from Gall,
+                    <hi rend="italic">cere· visia,</hi> O. Fr. <hi rend="italic">braiz,</hi> Mod.
+                Fr. <hi rend="italic">brai,</hi> “ malt," <hi rend="italic">brasser, “</hi> to
+                brew," Gall, <hi rend="italic">brace; lie,</hi> "yeast." Among the names of plants
+                    Gallic <hi rend="italic">betulla</hi> has survived wherever the tree is common.
+                Within narrower bounds we find Fr. <hi rend="italic">if,</hi> " yew," Gall. <hi
+                    rend="italic">*ivum</hi> (cf. Ir. <hi rend="italic">eo);</hi> probably also <hi
+                    rend="italic">★</hi><hi rend="italic">cassanus,</hi> “oak," Fr. <hi
+                    rend="italic">chêne,</hi> Prov. <hi rend="italic">casser;</hi> Fr. <hi
+                    rend="italic">verne,</hi> "alder" (cf. Ir. <hi rend="italic">fern</hi> and the
+                Gall, place-name Vernodubrum, " alderwater "); <hi rend="italic">beloce, **</hi>
+                sloe," <hi rend="italic">bulluca,</hi> and S. Fr. <hi rend="italic">aranhon,</hi> “
+                sloe " (Ir. <hi rend="italic">aime). </hi>Pliny mentions <hi rend="italic"
+                    >marga,</hi> “ marl," as being in use among the Gauls as manure for soil, from
+                the diminutive <hi rend="italic">★</hi><hi rend="italic">margila,</hi> Fr. <hi
+                    rend="italic">marne.</hi> An agricultural measure was called <hi rend="italic"
+                    >arepennis,</hi> Fr. <hi rend="italic">arpent.</hi> Fields were separated by a
+                hedge—Prov. <hi rend="italic">gorce</hi> (cf. O. Fr. <hi rend="italic">gort,</hi> “
+                fence ") ; a hedged-round piece of land is called in French <hi rend="italic"
+                    >lande,</hi> Ir. <hi rend="italic">land. </hi>Another method of demarcation was
+                by means of hurdles, Fr. <hi rend="italic">claie,</hi> Piedm. <hi rend="italic"
+                    >eia</hi> (cf. Ir. <hi rend="italic">cliath);</hi> or of barricades, Fr. <hi
+                    rend="italic">cornbre</hi> (whence the verbs <hi rend="italic">encombrer,
+                    'décombrer),</hi> w’hich corresponds to a Gallic <hi rend="italic">★</hi><hi
+                    rend="italic">comboros.</hi> Inside the hurdles the sheep and cows were kept
+                whose milk yielded <hi rend="italic">mègues,</hi> “whey" (Ir. <hi rend="italic"
+                    >medg).</hi> The wood needed for the erection of fences was cut with the “
+                wood-knife," Gall, <hi rend="italic">vidu-bium,</hi> Fr. <hi rend="italic"
+                    >vouge.</hi> We may notice further the group <hi rend="italic">broga,</hi> “
+                enclosure," “ preserve," Prov. <hi rend="italic">brogo</hi> and the diminutive <hi
+                    rend="italic">brogilo, </hi>Fr. <hi rend="italic">breuil.</hi></p>
+            <p>In north Italy we <hi rend="italic">had fruda,</hi> “ torrent " (cf. Cymr. <hi
+                    rend="italic">frtvth),</hi> which is a parallel to <hi rend="italic">na</hi>
+                mentioned above; also Comasc. <hi rend="italic">dren,</hi> " blackberry," Ir. <hi
+                    rend="italic">dren, “</hi> thorn," and (over a large part of north Italy) <hi
+                    rend="italic">bar,</hi> “ bunch," “ tuft,” O. Ir. <hi rend="italic">barr.</hi>
+                To single out a few words, there is Prov. <hi rend="italic">ban,</hi> “ horn," Cymr.
+                    <hi rend="italic">ban;</hi> Piedm. <hi rend="italic">vinverra,</hi> from a word
+                that has come down to us as Latin, but is really Gallic: w-<hi rend="italic"
+                    >verra,</hi> Cymr. <hi rend="italic">gwywer,</hi> Gaelic <hi rend="italic"
+                    >feoragh,</hi> “ weasel," and in the Rhaeto-Rom. dialect in Switzerland <hi
+                    rend="italic">carmun,</hi> from a Gallic <hi rend="italic">carmon,</hi> which is
+                cognate with O.H.G. <hi rend="italic">harmo,</hi> Mod. H.G. <hi rend="italic"
+                    >hermelin,</hi> " ermine."</p>
+            <lb/>
+            <div>
+                <p>@@@ Cf. G.<hi rend="italic">Grober<hi rend="sub">f</hi>-Archivfur lot.
+                        Lexicographie,</hi> i. 35 ff.</p>
+                <lb/>
+                <p>@@@ Cf. H. Zimmer Kuhn’s <hi rend="italic">Zeitsch.für vergl.
+                        Sprachforschung,</hi> 32, 230.</p>
+                <lb/>
+            </div>
+        </body>
+    </text>
+</TEI>
