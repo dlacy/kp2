@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:18:37Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>lar lyrics that was accessible to the collectors, or seemed to them worthy of being
+                preserved. The question as to the exact period when the hymns were collected cannot
+                be answered with any approach to accuracy. For many reasons, however, which cannot
+                be detailed here, scholars have come to fix on the year 1000 B.C. as an approximate
+                date for the collection of the Vedic hymns. From that time every means that human
+                ingenuity could suggest was adopted to secure the sacred texts against the risks
+                connected with oral transmission. But, as there is abundant evidence to show that
+                even then not only had the text of the hymns suffered corruption, but their language
+                had become antiquated to a considerable extent, and was only partly understood, the
+                period during which the great mass of the hymns were composed must have lain
+                considerably further back, and may very likely have extended over the earlier half
+                of the second millenary, or from about 2000 to 1500 B.C.</p>
+            <p>As regards the people which raised for itself this imposing monu- ment, the hymns
+                exhibit it as settled in the regions watered by the mighty Sindhu (Indus), with its
+                eastern and western tributaries. The land of the five rivers forms the central home
+                of the Vedic people ; but, while its advanced guard has already debouched upon the
+                plains of the upper Gangâ and Yamuna, those who bring up the rear are still found
+                loitering far behind in the narrow glens of the Kubhâ (Cabul) and Gomati (Gomal).
+                Scattered over this tract of land, in hamlets and villages, the Vedic Aryas are
+                leading chiefly the life of herdsmen and husbandmen. The numerous clans and tribes,
+                ruled over by chiefs and kings, have still constantly to vindicate their right to
+                the land but lately wrung from an inferior race of darker hue ; just as in these
+                latter days their kinsmen in the Far West are ever on their guard against the fierce
+                attacks of the dispossessed red-skin. Not unfrequently, too, the light-coloured
+                Aryas rage internecine war with one another,—as when the Bliaratas, with allied
+                tribes of the Panjab, goaded on by the royal sage Visvamitra, invade the country of
+                the Tritsu king Sudas, to be defeated in the “ten kings’ battle,” through the
+                inspired power of the priestly singer Vasishtha. The priestly office has already
+                become one of high social importance by the side of the political rulers, and to a
+                large extent an hereditary profession; but it does not yet present the baneful
+                features of an exclusive caste. The Aryan housewife shares with her husband the
+                daily toil and joy, the privilege of worshipping the national gods, and even the
+                triumphs of song-craft, some of the finest hymns being attributed to female
+                seers.</p>
+            <p>The religious belief of the people consists in a system of natural symbolism, a
+                worship of the elementary forces of nature, regarded as beings endowed with reason
+                and power superior to those of man. In giving utterance to this simple belief, the
+                priestly spokesman has, however, frequently worked into it his own speculative and
+                mystic notions. Indra, the stout-hearted ruler of the cloud-region, receives by far
+                the largest share of the devout attentions of the Vedic singer. His ever-renewed
+                battle with the malicious demons of darkness and drought, for the recovery of the
+                heavenly light and the rain-spending cows of the sky, forms an inexhaustible theme
+                of spirited song. Next to him, in the affections of the people, stands Agni (ignis),
+                the god of fire, invoked as the genial inmate of the Aryan household, and as the
+                bearer of oblations, and mediator between gods and men. Indra and Agni are thus, as
+                it were, the divine representatives of the king (or chief) and the priest of the
+                Aryan community ; and if, in the arrangement of the Sarnhitâ, the Brahmanical
+                collectors gave precedence to Agni, it was but one of many avowals of their own
+                hierarchical pretensions. Hence also the hymns to Indra are mostly followed, in the
+                family collections, by those addressed to the Viśve Devâh (the “all-gods”) or to the
+                JIaruts (Mavors, Mars), the warlike storm-gods and faithful companions of Indra, as
+                the divine impersonation of the Aryan free- men, the <hi rend="italic">viś</hi> or
+                clan. But, while Indra and Agni are undoubtedly the favourite figures of the Vedic
+                pantheon, there is reason to believe that these gods had but lately supplanted
+                another group of deities who play a less prominent part in the hymns, viz., Father
+                Heaven (Dyaus Pitar, Zϵύς πατήρ<hi rend="italic">,</hi> Jupiter); Varuna (ουρανος),
+                the all- embracing firmament; Mitra (Zend. Mithra), the genial light of day; and
+                Savitar (Saturnus) or Sfirya <hi rend="italic">(ήϵλιος),</hi> the vivifying sun.</p>
+            <p>Of the Brahmanas that were handed down in the schools of the <hi rend="italic"
+                    >Bahvrichas (i.e.,</hi> “possessed of many verses”), as the followers of the
+                Rigveda are called, two have come down to us, viz., those of the Aitareyins and the
+                Kaushitakins. The <hi rend="italic">Aitarcya-brdhmana @@</hi><hi
+                    rend="italic superscript">1 </hi>and the <hi rend="italic">Kaushîtaki-</hi> (or
+                    <hi rend="italic">Sânkhâyana-) brâhmana</hi> evidently have for their groundwork
+                the same stock of traditional exegetic matter. They differ, however, considerably as
+                regards both the arrange- ment of this matter and their stylistic handling of it,
+                with the exception of the numerous legends common to both, in which the discrepancy
+                is comparatively slight. There is also a certain amount of material peculiar to each
+                of them. The Kaushîtaka is, upon the whole, far more concise in its style and more
+                systematic in its arrangement—merits which would lead one to infer that it</p>
+            <p>is probably the more modern work of the two. It consists of thirty chapters <hi
+                    rend="italic">(adhyâya)</hi>; while the Aitareya has forty, divided into eight
+                books (or pentads, <hi rend="italic">panchakd,</hi> of five chapters each). The last
+                ten adhyayas of the latter work are, however, clearly a later addition,—though they
+                must have already formed part of it at the time of Pânini (c. 400 B.C. ?), if, as
+                seems probable, one of his grammatical sfitras, regulating the formation of the
+                names of Brahmanas, consisting of thirty and forty adhyayas, refers to these two
+                works. In this last portion occurs the well-known legend (also found in the
+                Śânkhâyana-sûtra, but not in the Kaushitaki- brahmana) of Śunahśepa, whom his father
+                Ajigarta sells and offers to slay, the recital of which formed part of the
+                inauguration of kings. While the Aitareya deals almost exclusively with the Soma
+                sacrifice, the Kaushitaka, in its first six chapters, treats of the several kinds of
+                    <hi rend="italic">haviryajna,</hi> or offerings of rice, milk, ghee, &amp;c.,
+                whereupon follows the Soma sacrifice in this way, that chapters 7-10 contain the
+                practical ceremonial and 11-30 the recitations <hi rend="italic">(śastra)</hi> of
+                the hotar. Sayana, in the introduction to his commentary on the work, ascribes the
+                Aitareya to the sage Mahidâsa Aitareya (son of Itara), also mentioned elsewhere as a
+                philosopher ; and it seems likely enough that this person arranged the Brahmana and
+                founded the school of the Aitareyins. Regarding the authorship of the sister work we
+                have no information, except that the opinion of the sage Kaushîtaki is frequently
+                referred to in it as authoritative, and generally in opposition to the Paingya—the
+                Brahmana, it would seem, of a rival school, the Paingins.</p>
+            <p>Each of these two Brahmanas is supplemented by a “ forest-portion,” or Aranyaka. The
+                    <hi rend="italic">Aitareyâranyaka</hi>@@2 is not a uniform production. It
+                consists of five books <hi rend="italic">(âranyaka),</hi> three of which, the first
+                and the last two, are of a liturgical nature, treating of the ceremony called <hi
+                    rend="italic">mahâvrata</hi> or great vow. The second and third books, on the
+                other hand, are purely speculative, and are also styled the <hi rend="italic"
+                    >Bahvricha-brâhmana-upanishad.</hi> Again, the last four chapters of the second
+                book are usually singled out as <hi rend="italic">the Aitareyopanishad,@@</hi><hi
+                    rend="italic superscript">3 </hi>ascribed, like its Brahmana (and the first
+                book), to Mahidasa Aitareya ; and the third book is also referred to as the <hi
+                    rend="italic">Samhitâ- upanishad.</hi> The fourth and fifth books are doubtless
+                of later origin, being composed in sutra-form. Even native authorities exclude them
+                from the sacred canon, and ascribe them to Asva layana and Saunaka respectively, of
+                whom more further on. As regards the <hi rend="italic">Kaushîtaki-dranyaka,</hi> our
+                MS. material is not yet sufficient to enable us to determine its exact extent and
+                arrangement. It would, however, seem that there are two different recensions of this
+                treatise, a shorter one, consisting of nine, and a longer one of fifteen,
+                adhy&amp;yas. Four of these, variously placed at the beginning or end, or after the
+                second adhyaya, constitute the highly interesting <hi rend="italic">Kaushîtaki-
+                    (brâhmana·) upanishad,@@4</hi> of which we possess two different recensions. The
+                remaining portions of the Aranyaka seem to correspond, to some extent, to the
+                ceremonial sections of the Aitareya-âranyaka.</p>
+            <p>Of <hi rend="italic">Kalpa-sûtras,</hi> or manuals of sacrificial ceremonial,
+                composed for the use of the liotar prjest, two different sets are in existence, the
+                    <hi rend="italic">Âśvaldiyana-</hi> and the <hi rend="italic"
+                    >Sânkhâyana-sûtra.</hi> Each of these works follows one of the two Brahmanas of
+                the Rik as its chief authority, viz., the Aitareya and Kaushitaka respectively. Both
+                consist of a <hi rend="italic">Śrauta</hi>- and a <hi rend="italic"
+                    >Grihya-sûtra.</hi> Âśvalâyana seems to have lived about the same time as
+                Pânini,—his own teacher, Saunaka, who com- pleted the Rik-prâtiśâkhya, being
+                probably intermediate between the great grammarian and Yâska, the author of the
+                Nirukta. Saunaka himself is said to have been the author of a Srauta-sfitra (which
+                was, however, more of the nature of a Brahmana) and to have destroyed it on seeing
+                his pupil’s work. A Grihya-sfitra is still quoted under his name by later writers.
+                The Asvalayana Srauta-sûtra<hi rend="superscript"
+                    >@@5</hi> consists of twelve, the Grihya<hi rend="superscript"
+                    >@@5</hi> of four, adhyayas.</p>
+            <p>Regarding Śankhayana still less is known; but he, too, was doubtless a comparatively
+                modern writer, who, like Asvalâyana, founded a new school of ritualists. Hence the
+                Kausliitaki-brahmana, adopted (and perhaps improved) by him, alsogoes under his
+                name, just as the Aitareya is sometimes called Asvalayana-bralimana. The Śankhayana
+                Śrauta-sûtra consists of eighteen adhyayas. The last two chapters of the work are,
+                however, a later addition, @@<hi rend="superscript">6 </hi>while the two preceding
+                chapters, on the contrary, present a com- paratively archaic, brahmana-like
+                appearance. The Grihya-sûtra<hi rend="superscript">@@7 </hi>consists of six chapters,
+                the last two of which are likewise later appendages. The <hi rend="italic">Sâmbavya
+                    Grihya-sûtra,</hi> of which a single MS.</p>
+            <p><hi rend="superscript">@@@1</hi> Edited, with an English translation, by M. Haug, 2
+                vols., Bombay, 18G3. An edition in Roman transliteration, with extracts from the
+                commentary, has been published by Th. Aufrecht, Bonn, 1879.</p>
+            <p><hi rend="superscript">@@@2</hi> Edited, with Säyana’s commentary, by Räjcndralftla
+                Mitra, in the <hi rend="italic">Bibliotheca Indica,</hi> 1875-76. The first three
+                books have been translated by F. Max Miiller in <hi rend="italic">Sacred Books of
+                    the East,</hi> vol. i.</p>
+            <p><hi rend="superscript">@@@3</hi> Edited and translated by Dr Röer, in the <hi
+                    rend="italic">Bibl. Ind.</hi> The last chapter of the second book, not being
+                commented upon by Sâyana, is probably a later addition.</p>
+            <p><hi rend="superscript">@@@4</hi> Text, commentary', and translation published by E.
+                B. Cowell, in the <hi rend="italic">Bibl</hi>. <hi rend="italic">Ind. </hi>Also a
+                translation bv F. Max Müller in <hi rend="italic">Sacred Books of the East,</hi>
+                vol. i.</p>
+            <p><hi rend="superscript">@@@5</hi> Both works have been published with the commentary
+                of Gftrgya Nârâyana, by native scholars, in the <hi rend="italic">Bibl. Ind.</hi>
+                Also the text of the Grihya, with a German translation by A. Stenzler.</p>
+            <p><hi rend="superscript">@@@5</hi> Both works have been published with the commentary
+                of Gftrgya Nârâyana, by native scholars, in the <hi rend="italic">Bibl. Ind.</hi>
+                Also the text of the Grihya, with a German translation by A. Stenzler.</p>
+            <p><hi rend="superscript">@@@6</hi> See A. Weber’s analysis, <hi rend="italic">Ind.
+                    Studien,</hi> ii. p. 288 <hi rend="italic">sq.</hi> This work, with its
+                commentaries, is only accessible in manuscript.</p>
+            <p><hi rend="superscript">@@@7</hi> Edited, with a German translation, by H. Oldenberg
+                    <hi rend="italic">(Ind. Stud.,</hi> vol. xv.), who also gives an account of the
+                S&amp;mbavya Grihya.</p>
+        </body>
+    </text>
+</TEI>

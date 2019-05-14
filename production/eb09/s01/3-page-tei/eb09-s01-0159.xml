@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:18:43Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>the <hi rend="italic">Vamśa-brâhmana,</hi> a mere list of the Sâmaveda teachers. To '
+                these works has to be added the <hi rend="italic">Jaiminîya-</hi> or <hi
+                    rend="italic">Talavakâra- brâhmana,</hi> discovered by the late Dr A. Burnell,
+                but as yet only known by a few extracts. From Prof. Whitney’s account of it, @@<hi
+                    rend="superscript">1</hi> the work stands much on a level with the Brâhmanas of
+                the Rik and Yajurveda. A portion of it is the well-known <hi rend="italic">Kcna·
+                </hi>(or <hi rend="italic">Talavakâra-) upanishad,</hi> on the nature of Brahman, as
+                the supreme of deities.</p>
+            <p>If the Sâmaveda has thus its ample share of Brâhmana-literature, though in part of a
+                somewhat questionable character, it is not less richly supplied with
+                siltra-treatises, some of which probably belong to the oldest works of that class.
+                There are three Śrauta- sûtras, which attach themselves more or less closely to the
+                Panchavimśa-brâhmana:—Masaka’s <hi rend="italic">Ârsheya-kalpa,</hi> which gives the
+                beginnings of the sâmans in their sacrificial order, thus supplementing the
+                Ârsheya-brahmana, which enumerates their technical names; and the Śrauta-sûtras of
+                    <hi rend="italic">Lâtyâyana @@2</hi> and <hi rend="italic">Drâhyâyana, </hi>of
+                the Kauthuma and Raniiyaniya schools respectively, which differ but little from each
+                other, and form complete manuals of the duties of the udgatars. Another sûtra, of an
+                exegetic character, the <hi rend="italic">Anupada-sûtra,</hi> likewise follows the
+                Panchavimsa, the difficult passages of which it explains. Besides these, there are a
+                con- sideralde number of sûtras and kindred technical treatises bearing on the
+                prosody and phonetics of the sama-texts. The more important of them are—the <hi
+                    rend="italic">Biktantra,</hi> apparently intended to serve as a Pratisakhya of
+                the Samaveda ; the <hi rend="italic">Nidâna-sûtra, @@</hi><hi
+                    rend="italic superscript">3</hi> a treatise on prosody ; the <hi rend="italic"
+                    >Pushpa-</hi> or <hi rend="italic">Phulla-sútra,</hi> ascribed either to Gobhila
+                or to Vararuchi, and treating of the phonetic modifications of the rich in the
+                samans ; and the <hi rend="italic">Sâmatantra,</hi> a treatise on chants, of a very
+                technical nature. Further, two <hi rend="italic">Grihya-sûtras, </hi>belonging to
+                the Samaveda, are hitherto known, viz., the <hi rend="italic">Drâhyâ-
+                    yana-grihya,</hi> ascribed to Khâdira, and that of Gobhila @@<hi
+                    rend="superscript">4</hi> (who is also said to have composed a śrauta-sûtra),
+                with a supplement, entitled <hi rend="italic">Karmapradîpa,</hi> by Katyayana. To
+                the Samaveda seems further , to belong the <hi rend="italic">Gautama-dharmaśâstra,
+                    @@</hi><hi rend="italic superscript">5</hi> composed in sûtras, and apparently
+                the oldest existing compendium of Hindu law.</p>
+            <p>C. <hi rend="italic">Yajur-veda.—</hi>This, the sacrificial Veda of the Adhvaryu
+                priests, divides itself into an older and a younger branch, or, as they are usually
+                called, the Black <hi rend="italic">(krishna)</hi> and the White <hi rend="italic"
+                    >(śukla) </hi>Yajurveda. Tradition ascribes the foundation of the Yajurveda to
+                the sage Vaiśampâvana. Of his disciples three are specially named, viz., Katha,
+                Kalapin, and Yaska Paingi, the last of whom again is stated to have communicated the
+                sacrificial science to Tittiri.</p>
+            <p>How far this genealogy of teachers may be authentic cannot now be determined ; but
+                certain it is that in accordance therewith we have three old collections of
+                Yajus-texts, viz., the <hi rend="italic">Kâthaka,</hi> the <hi rend="italic"
+                    >Kâlâpaka</hi> or <hi rend="italic">Maitrâyanî Samhitâ, @@</hi><hi
+                    rend="italic superscript">6</hi> and the <hi rend="italic">Taittirîya-samhitâ.
+                    @@</hi><hi rend="italic superscript">7 </hi>The Kathaka and Kâlapaka are
+                frequently mentioned together ; and the author of the “ great commentary ” on Panini
+                once remarks that these works were taught in every village. The Kathas and Kâlapas
+                are often referred to under the collective name of Charakas, which apparently means
+                “wayfarers” or itinerant scholars; but according to a later writer (Hemachandra)
+                Charaka is no other than Vaiśimpâyana himself, after whom his followers would have
+                been thus called. From the Kathas proper two schools seem early to have branched
+                off, the Prâchya- (eastern) and Kapishthala- Kathas, the text-recension of the
+                latter of whom lias recently been discovered in the <hi rend="italic"
+                    >Kapishthala-katha-samhitâ.</hi> The Kalapas also soon became subdivided into
+                numerous different schools. Thus from one of Kalapin’s immediate disciples, Haridru,
+                the Haridraviyas took their origin, whose text-recension, the <hi rend="italic"
+                    >Hâri- dravika,</hi> is quoted together with the Kathaka as early as in Yaska’s
+                Nirukta ; but we do not know whether it differed much from the original Kalapa
+                texts. As regards the Taittiriya-saiphita, that collection, too, in course of time
+                gave rise to a number of different schools, the text handed down being that of the
+                Apastambas; while the contents of another recension, that of the Atrcyas, are known
+                from their Anukramani, which has been preserved.</p>
+            <p>The four collections of old Yajus texts, so far known to us, while differing more or
+                less considerably in arrangement and verbal points, have the main mass of their
+                textual matter in common. This common matter consists of both sacrificial prayers
+                (yajus) in verse and prose and exegetic or illustrative prose portions (brahmana). A
+                prominent feature of the old Yajus texts, as compared with the other Vedas, is the
+                constant intermixture of textual and exegetic portions. The Charakas and Taittiriyas
+                thus do not recognize the distinction between Samhita and Brahmana in the sense of
+                two separate collections of texts, but they have only a Samhitâ, or collection,
+                which includes likewise the exegetic or Brahmana portions. The Taittiriyas seem at last to have been impressed with their
+                want of a separate Brahmana and to have set about supplying the deficiency in rather
+                an awkward fashion : instead of separating from each other the textual and exegetic
+                portions of their Samhitä, they merely added to the latter a supplement (in three
+                books), which shows the same mixed condition, and applied to it the title of <hi
+                    rend="italic">Taittirlya-brâhmanaa. @@8</hi> But, though the main body of this
+                work is manifestly of a supplementary nature, a portion of it may perhaps be old,
+                and may once have formed part of the Samhita, considering that the latter con-,
+                sists of seven ashtakas, instead of eight, as this term requires, and that certain
+                essential parts of the ceremonial handled in the Brahmana are entirely wanting in
+                the Saiphitä. Attached to this work is the <hi rend="italic"
+                    >Taittirtya-âranyaka,</hi><hi rend="italic superscript">@@2</hi> in ten books, the
+                first six of which are of a ritualistic nature, while of the remaining books the
+                first three (7-9) form the <hi rend="italic">Taittirîya-panishad</hi> (consisting of
+                three parts, viz., the Sikshavalli or Samhitopanishad, and the Anandavalli and
+                Bhriguvalli, also called together the Varuni- upanishad), and the last book forms
+                the Närayaniya- (or Yäjßiki-) upanishad.</p>
+            <p>The <hi rend="italic">MaitrAyant Samhitâ,</hi> the identity of which with the
+                original Kaläpaka has been proved pretty conclusively by Dr L. V. Schröder, who
+                attributes the change of name of the Käläpa- Maiträyanîyas to Buddhist influences,
+                consists of four books, attached to which is the <hi rend="italic">Maitri-</hi> (or
+                    <hi rend="italic">Maitrîyanî) upanishad. @@</hi><hi rend="italic superscript"
+                    >9</hi> The <hi rend="italic">KAthaka,</hi> on the other hand, consists of five
+                parts, the last two of which, however, are perhaps later additions, containing
+                merely the prayers of the hotar priest, and those used at the horse-sacrifice. There
+                is, moreover, the beautiful <hi rend="italic">Katha- or KAthaka-upanishad,
+                    @@</hi><hi rend="italic superscript">10 </hi>which is also ascribed to the
+                Atharvaveda, and in which Dr Röer would detect allusions to the Sänkhya philosophy,
+                and even to Buddhist doctrines.</p>
+            <p>The defective arrangement of the Yajus texts was at last remedied by a different
+                school of Adhvaryus, the Väjasaneyins. The reputed originator of this school and its
+                text-recension is Yâjnavalkya Vâjasaneya (son of Väjasani). The result of the re-
+                arrangement of the texts was a collection of sacrificial mantras, the <hi
+                    rend="italic">Vâjasaneyi-samhitâ,</hi> and a Brâhmana, the <hi rend="italic"
+                    >Śatapatha.</hi> On account of the greater lucidity of this arrangement, the
+                Väjasaneyins called their texts the White (or clear) Yajurveda,—the name of Black
+                (or obscure) Yajus being for opposite reasons applied to the Charaka texts. Both the
+                Samhita and Brahmana of the Väjasaneyins have come down to us in two different
+                recensions, viz., those of the <hi rend="italic">MAdhyandina</hi> and <hi
+                    rend="italic">KAnva</hi> schools ; and we find besides a considerable number of
+                quotations from a Väjasaneyaka, from which we cannot doubt that there must have been
+                at least one other recension of the Satapatha-brâhmana. The difference between the
+                two extant recensions is, on the whole, but slight as regards the subject-matter;
+                but in point of diction it is quite sufficient to make a comparison especially
+                interesting from a philological point of view. Which of the two versions may be the
+                more original cannot as yet be determined ; but the phonetic and grammatical
+                differences will probably have to be accounted for by a geographical separation of
+                the two schools rather than by a difference of age. In several points of difference
+                the Känva recension agrees with the practice of the Rik-samhitä, and there probably
+                was some connexion between the Yajus school of Känvas and the famous family of
+                risliis of that name to which the eighth mandala of the Rik is attributed.</p>
+            <p>The <hi rend="italic">VAjasaneyi-samhitâ @@</hi><hi rend="superscript">11</hi>
+                consists of forty adhyâyas, the first eighteen of which contain the formulas of the
+                ordinary sacrifices. The last fifteen adhyäyas are doubtless a later addition,—as
+                may also be the case as regards the preceding seven chapters. The last adhyâya is
+                commonly known under the title of Vajasaneyi-sarphita- (or Isâvâsya-) upanishad.
+                    @@<hi rend="superscript">12</hi> Its object seems to be to point out the
+                fruitlessness of mere works, and to insist on the necessity of man’s acquiring a
+                knowledge of the supreme spirit. The sacrificial texts of the Adhvaryus consist, in
+                about equal parts, of verses (rich) and prose formulas (yajus). The majority of the
+                former occur likewise in the Rik-samhitâ, from which they were doubtless extracted.
+                Not unfrequently, however, they show considerable discrepancies of reading, which
+                may bo explained partly from a difference of recension and partly as the result of
+                the adaptation of these verses to their special sacrificial purpose. As regards the
+                prose formulas, though only a few of them are actually referred to in the Rik, it is
+                quite possible that many of them may be of high antiquity.</p>
+            <p>The <hi rend="italic">Satapatha-brAhmana, @@</hi><hi rend="italic superscript"
+                    >13</hi> or Brahmana of a hundred paths, derives its name from the fact of its
+                consisting of 100 lectures (adhyâya), which are divided by the Mâdhyandinas into
+                fourteen, by</p>
+            <p><hi rend="italic superscript">@@@1</hi><hi rend="italic"> Proceedings of Am. Or.
+                    Soc.,</hi> May 1883.</p>
+            <p><hi rend="superscript">@@@2</hi> Edited with AgnisvAmin's commentary, and the v. 11.
+                of the Drâhyâyana- sûtra, by Anandachandra Vedântavâgisa, <hi rend="italic">hibl.
+                    Ind.,</hi> 1872.</p>
+            <p><hi rend="superscript">@@@3</hi> Two chapters published by A. weber, <hi
+                    rend="italic">Ind. St.,</hi> viii.</p>
+            <p><hi rend="superscript">@@@4</hi> Edited with a commentary, by ChandrakAnta
+                Tarkalankâra, <hi rend="italic">Bibl. Ind.</hi></p>
+            <p><hi rend="superscript">@@@3</hi> Edited by A. Stenzler; translated by G. Buhler, <hi
+                    rend="italic">Sacred Books,</hi> vol. ii.</p>
+            <p><hi rend="superscript">@@@6</hi> In process of publication by L. v. Schroeder.</p>
+            <p><hi rend="superscript">@@@7</hi> Partly published, with Sayana's commentary, by E.
+                Roer, E. B. Cowell, &lt;fec., in <hi rend="italic">Bibt. Ind.</hi></p>
+            <p><hi rend="superscript">@@@8</hi> Edited, with Sâyana’s commentary, by Râjendralâla
+                Mitra, <hi rend="italic">Bibl. Ind.</hi></p>
+            <p><hi rend="superscript">@@@2</hi> Edited with AgnisvAmin's commentary, and the v. 11.
+                of the Drâhyâyana- sûtra, by Anandachandra Vedântavâgisa, <hi rend="italic">hibl.
+                    Ind.,</hi> 1872.</p>
+            <p><hi rend="superscript">@@@9</hi> Text and translation published by E. B. Cowell, <hi
+                    rend="italic">Bibl. Ind.</hi></p>
+            <p><hi rend="superscript">@@@10</hi> Text, commentary, and translation published by E.
+                Röer, <hi rend="italic">Bibl. Ind.</hi></p>
+            <p><hi rend="superscript">@@@11</hi> Edited, in the Mâdhyandina recension, with the
+                commentary of Mahldhara, and the v. 11. of the Kânva text, by A. Weber, 1849.</p>
+            <p><hi rend="superscript">@@@12</hi> Translation by E. Röer, <hi rend="italic">Bibl.
+                    Ind.</hi>; by F. M. Müller, <hi rend="italic">Sacred Books of the East,</hi>
+                i.</p>
+            <p><hi rend="superscript">@@@13</hi> Edited by A. Weber, who also translated the first
+                chapter into German. In <hi rend="italic">Sacred Books of the East,</hi> a
+                translation, by J. Eggeling, is being published,—2 vols., containing the first four
+                books, having appeared.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:11:03Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SAIL, SAILCLOTH, SAILMAKING. A sail is a sheet of canvas (or other material of the
+                requisite flexibility and strength) by the action of the wind on which, when spread
+                out or extended, a vessel is moved through the water. Sails are supported and
+                extended by means of masts, yards, gaffs, booms, bowsprit—all technically termed
+                “spars”—and stays or slanting ropes. In the first experiments for impelling vessels
+                by sails the least complicated form, that of a single square sail erected on a
+                single mast, was no doubt adopted. To the quadrangular the triangular sail would
+                soon be added; and single sails of both these forms are known to have been used at
+                very early periods. Subsequently the trapeziform and trapezoidal sails also came
+                into use. As vessels increased in size, thereby requiring a greater surface of
+                canvas to impel them, it became necessary to use not only more sails but also an
+                increased number of masts; and the number and disposition of the several kinds of
+                sails could be almost indefinitely varied according to the ideas of navigators, the
+                services required of the vessels, the places in which they were employed, and the
+                size of the crews. Thus a great variety of rig naturally arose. Leaving out of
+                account the many nondescript styles adopted in the case of boats and small craft,
+                all modern vessels may, for general purposes, be considered as belonging to one or
+                other of the following categories—cutter, schooner, three-masted schooner,
+                brigantine, brig, barquetine, barque, or full square-rigged ship; but the cardinal
+                distinction is that by which they are classified as <hi rend="italic"
+                    >square-rigged</hi> or <hi rend="italic">fore-and-aft-rigged</hi> (compare <hi
+                    rend="smallcaps">Seamanship</hi> and <hi rend="smallcaps">Ship).</hi> These
+                expressions can be easily explained by reference to any three-masted ship. The mast
+                nearest the bow or head is known as the fore-mast, the next abaft or nearest the
+                middle of the ship as the main-mast, and the third or that nearest the stern as the
+                mizzen-mast. Each mast consists of several sections, that attached to the hull being
+                called the lower or standing- mast, the next above that the top-mast, the next the
+                topgallant-mast, above which may rise a pole or royal-mast. On each of these masts,
+                and at right angles with it, is a yard denominated “ square,” which is hung (slung)
+                by the middle and balanced. These yards are named according to their situation,
+                those placed on the fore and main standing-masts being called respectively the fore
+                and main lower-yards, that on the mizzen the cross-jack-yard; the yards on the
+                top-masts are called the top-sail-yards, those on the top-gallant-masts the
+                top-gallant-yards, and those on the royal-masts the royal-yards. To each of these
+                yards a sail is <hi rend="italic">bent</hi> or attached, taking its name from the
+                yard; thus the principal sail upon the fore-lower-yard is called the fore-course or
+                fore-sail; the next above, upon the fore-top-sail-yard, is the fore-top-sail; above
+                which, upon the fore-top-gallant-yard, is the fore-top-gallant-sail; and above all,
+                upon the fore-royal-yard, is the fore-royal. In like manner on the main-mast we have
+                the main-course or main-sail, main-top-sail, main-top-gallant-sail, and the
+                main-royal. Similar appellations are given to those on the mizzen-mast; in large
+                merchant-ships, by means of a sky-sail-pole, a sail termed “sky-scraper” is
+                sometimes set above the royals, but not so frequently as formerly. Such square sails
+                can be placed at right angles to the direction of the keel of the ship, a position
+                given to them when going before the wind ; the same sails can also, by means of
+                braces, be placed obliquely to the keel with a side wind, commonly termed by seamen
+                “ on a wind ” or “ by the wind.” In addition to these there are sails between the
+                masts, set either on gaffs (unbalanced) or on stays, also others beyond the
+                extremities of the ship, extended principally by means of the bowsprit, which, in
+                addition to supporting the fore-mast by a stay, also supports the jib and
+                flying-jib-booms for extending the sails still farther</p>
+            <p>forwards ; the means for extending the after-sail are the driver or spanker-boom and
+                the gaff. Sails extended or set on gaffs and on stays are called “fore-and-aft,” and
+                are generally or approximately in a vertical plane passing through the keel ; but a
+                certain degree of obliquity can be given them by easing off the sheet or aft lower
+                corner of the sail. A ship fitted as above described would be termed
+                “square-rigged,” the square sails predominating both in importance and in number. A
+                square-rigged line- of-battle ship would be supplied with the following descriptions
+                of sails @@<hi rend="superscript">1</hi> :—</p>
+            <table>
+                <row>
+                    <cell><hi rend="italic">Square.</hi></cell>
+                    <cell><hi rend="italic">Fore-and-Aft.</hi></cell>
+                </row>
+                <row>
+                    <cell>Fore-course or fore-sail.</cell>
+                    <cell>Flying-jib.</cell>
+                </row>
+                <row>
+                    <cell>,, top-sail.</cell>
+                    <cell>Jib.</cell>
+                </row>
+                <row>
+                    <cell>,, top-gallant-sail.</cell>
+                    <cell>Second jib.</cell>
+                </row>
+                <row>
+                    <cell>,, royal.</cell>
+                    <cell>Fore-gaff-sail.</cell>
+                </row>
+                <row>
+                    <cell>Main-course or main-sail.</cell>
+                    <cell>,, try-sail (storm-sail).</cell>
+                </row>
+                <row>
+                    <cell>,, top-sail.</cell>
+                    <cell>Main-gaff-sail.</cell>
+                </row>
+                <row>
+                    <cell><p>,, top-gallant-saiL ,, royal.</p><p>Mizzen-top-sail.</p></cell>
+                    <cell>„ try-sail (storm-sail).</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>Mizzen-try-sail (storm-sail).</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>Spanker.</cell>
+                </row>
+                <row>
+                    <cell>„ top-gallant-sail.</cell>
+                    <cell>Stay-sail-fore (storm-sail).</cell>
+                </row>
+                <row>
+                    <cell><p>,, royal. Studding-sail-fore.</p><p>,, ,, top.</p><p>,, „
+                            top-gallant.</p><p>,, sail-main-top-gallant.</p></cell>
+                    <cell>„ „ top.</cell>
+                </row>
+                <row>
+                    <cell cols="2">In the fore-and-aft-rig the principal sails are of course</cell>
+                </row>
+                <row>
+                    <cell>fore-and-aft ; a cutter (vessel</cell>
+                    <cell>with one mast) when fully</cell>
+                </row>
+                <row>
+                    <cell cols="2">equipped carries the following :—</cell>
+                </row>
+                <row>
+                    <cell><hi rend="italic">Fore-and-Aft.</hi></cell>
+                    <cell><hi rend="italic">Square.</hi></cell>
+                </row>
+                <row>
+                    <cell><p>Jib-top-sail.</p><p>Jib.</p><p>Fore-sail.</p><p>Boom-main-sail.</p><p>Gaff-top-sail.</p></cell>
+                    <cell>Square-sail (set flying).</cell>
+                </row>
+            </table>
+            <p>The several sides of a sail have separate names applied to them, the upper part or
+                side being known as the “ head,” the lower part as the “ foot ”; the sides in
+                general are called “ leeches,” but the weather or side edge where the wind enters
+                the sail, of any but a square-sail, is called the “luff,” and the other edge the
+                “after-leech.” The two top corners are “earings,” but the top corner of a jib,
+                &amp;c. (triangular, one corner only), is the “head”; the two bottom corners are in
+                general “ clews ”; and the weather clew of a fore- and-aft-sail or of a course while
+                set is the “ tack.”</p>
+            <p>The relative importance of particular sails in the working of a ship varies according
+                to conditions of weather, and is a matter for the judgment of the officer in
+                command. The following table, however, shows approximately what sails are commonly
+                set “ by the wind,” presuming that the effect on the ship in relation to her
+                stability is safe :—</p>
+            <table>
+                <row>
+                    <cell/>
+                    <cell>winds as commonly distinguished.</cell>
+                    <cell>Sails commonly set “by the wind.”</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell><p>Light airs </p><p>Light winds </p><p>Light breezes ... Moderate breezes
+                            Fresh breezes ...</p><p>Strong breezes ...</p><p>Moderate
+                            gales...</p><p>Fresh gales </p><p>Strong gales </p><p>Heavy gales
+                            </p><p>Storms.</p></cell>
+                    <cell><p> Courses, top-sails, top-gallant-sails, royals,</p><p>spanker, jib,
+                            flying-jib, and all light sails.</p><p>Royals and flying-jib taken in,
+                            in a sea way, to two reefs in the top-sails.</p><p>Single-reefed
+                            top-sails, and top-gallant-sails, in much sea, two reefs in the
+                            top-sails to taking in top-gallant-sails.</p><p>Double-reefed top-sails
+                            to treble-reefed topsails, reefed spanker, and jib.</p><p>Close-reefed
+                            top-sails, reefed courses, to tak- ing in spanker, jib, fore and mizzen
+                            top- sail.</p><p>Reefed courses, close-reefed main-top-sail,
+                            fore-stay-sail, mizzen-try-sail, to taking in the
+                            main-sail.</p><p>Close-reefed main-top-sail, storm stay-sails, to storm
+                            stay-sails or close-reefed main-topsail only.</p></cell>
+                </row>
+            </table>
+            <p><hi rend="superscript">@@@1</hi> Some ships (merchant-liners) have two jibs, inner
+                and outer, and <pb n="35"/>their top-sails also in two parts, upper and lower or cap-top-sails, an arrangement
+                    which makes it easier to reduce or shorten sail; they also have a mizzen course
+                    (cross-jack), and carry several light stay-sails so as to catch every breath of
+                    wind.</p>
+        </body>
+    </text>
+</TEI>

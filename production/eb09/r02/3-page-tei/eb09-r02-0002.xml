@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>transformed from HTML to TEI by eb-html2tei</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>distinct types of Chelonians were soon recognized, and appear also in Cuvier’s <hi
+                    rend="italic">Règne Animal,</hi> viz., <hi rend="italic">Testudo, Emys, Chelys,
+                    Trionyx, Chelonia</hi> with <hi rend="italic">Sphargis.</hi> These types were at
+                first recognized as genera, and raised by the subsequent authors to the rank of
+                families, in which many more genera were distinguished, the arrangements
+                merely differing in the various methods of subordination of the different
+                families.</p>
+            <p>The anatomy of Tortoises was investigated chiefly by C. Perrault, who gave a detailed
+                description of one of the Gigantic Land Tortoises in <hi rend="italic">Mem. Ac. Sc.
+                    Paris,</hi> iii. (1666-69) ; by Cuvier in the <hi rend="italic">Ossemens
+                    fossiles ;</hi> by Wiedemann in <hi rend="italic">Arch. f. Zool. und Zoot,</hi>
+                1802 ; by Geoffroy St Hilaire in <hi rend="italic">Ann. Mus.,</hi> xiv.; and
+                especially by L. H. Bojanus,@@<hi rend="sup">1</hi> who published an anatomical
+                monograph of<hi rend="italic">Emys europæa,</hi> in which all parts are illustrated
+                in detail, the plates being accompanied by an explanatory text. H. Rathke@@<hi
+                    rend="sup">2</hi> studied their development, and L. Agassiz@@<hi rend="sup"
+                    >3</hi> and W. K. Parker@@<hi rend="sup">4 </hi>that of the Turtles.</p>
+            <p>The most complete systematic and descriptive work is that by J. E. Gray. He engaged
+                in the study of Tortoises at various times, subdividing the principal groups, as
+                the materials grew under his hands, at first principally on the ground of external
+                characters, and afterwards of such Craniological features as seemed to him of
+                generic value.@@<hi rend="sup">5 </hi><hi rend="smallcaps">Alexander Strauch
+                    contributed two painstaking memoirs,@@</hi><hi rend="sup">6 </hi>the second of
+                which is especially valuable as it contains a collection of all the published facts
+                concerning the distribution of Tortoises over the globe. The authors mentioned
+                    associated<hi rend="italic">Sphargis</hi> with <hi rend="italic">Chelonia,</hi>
+                the later ones generally as the type of a distinct family, all the marine Turtles
+                being comprised in a section <hi rend="italic">Pinnata</hi> or <hi rend="italic"
+                    >Euereta </hi>(Stannius) ; and it was only Cope who recognized in the want of
+                specialization of the skeleton of the Leathery Turtle sufficient grounds for
+                separating it into a distinct section, <hi rend="italic">Athecæ.</hi></p>
+            <p><hi rend="italic">c. Faunistic Works.</hi></p>
+            <p>In noticing the principal faunistic works, we omit the majority of the older and
+                antiquated publications, and almost all treatises which appeared in periodicals, as
+                their existence can be readily ascertained by reference to works of more modern date
+                or of a more general scope.</p>
+            <p>Europe.—(1) T. Bell, A History of British Reptiles ; 2d ed., London, 1849, 8vo. (2)
+                S. Nilsson, Scandinavisk Fauna,, pt. iii. ; Amfibierne, 2d ed., London, 1860, 8vo.
+                (3) A. Strauch, “Die Schlangen des Russischen Reichs,” Mém. Ac. Se. St Rétersburg,
+                xxi. 1873, 4to. (4) H. Schlegel, De Dieren van Nederland : Kruipende Dieren,
+                Haarlem, 1862, 8vo. (5) F. Leydig, Die in Deutschland lebenden Arten der Saurier,
+                Tübingen, 1872, 4to ; and Ueber die einheimischen Schlangen, Frankfort, 1883, 8vo.
+                (6) E. Schreiber, Herpetologia Europæa, Brunswick, 1875, 8vo. (7) V. Fatio,
+                Faune des Vertèbres de la Suisse, vol. iii. of Hist. nat. des Reptiles et
+                des Batraciens, Geneva, 1872, 8vo. (8) C. L. Bonaparte, Iconografia della Fauna
+                italien, νol. ii., "Amfibi, ” Rome, 1832-41, fol. (9) E. de Betta, Erpetologia delle
+                provincie Venete e del Tirolo meridionale, Verona, 1857, 8vo. (10) A. Strauch, <hi
+                    rend="sup">11</hi> Essai d’une Erpétologie de l’Algérie,” Mém. Acad. Sci. St
+                Pétersburg, 1862, 4to. (11) F. Lataste, Essai d'une Faune Herpétologique de la
+                Gironde, Bordeaux, 1876, 8vo. (12) J. von Bedriaga, Die Amphibien und
+                Reptilien Griechenlands, Moscow, 1882, 8vo.</p>
+            <p>Persia.—W. T. Blanford, Eastern Persia, vol. ii., London, 1876, 8vo.</p>
+            <p>Catalogue, Ac., 1872.</p>
+            <lb/>
+            <p>and 1865.</p>
+            <lb/>
+            <p>kröten über den Erdball,” in Mémoires de l'Acad, de St Petersb., 1862</p>
+            <lb/>
+ 
+            <p>Japan.—H. Schlegel, Fauna Japonica—Reptiles, Leyden, fol.</p>
+            <p>East Indies.—(1) P. Russel, Account of Indian Serpents, collected on the coast of
+                Coromandel, containing Descriptions and Drawings of each Species, London, 1796,
+                fol., and A Continuation of an Account of Indian Serpents, London, 1801-3, fol. (2)
+                H. Schlegel, Abbildungen neuer oder unvollständig bekannter Amphibien, Düsseldorf,
+                1837-44, text 8vo, atlas fol. (3) J. E. Gray and Hardwicke, Illustrations of Indian
+                Zoology, London, 1830-32, fol. (4) T. Cantor, Catalogue of Reptiles inhabiting the
+                Malayan Peninsula and Islands, Calcutta, 1847, 8vo. (5) A. Gunther, Reptiles of
+                British India, London, 1864, fol. (6) W. Theobald, Catalogue of the Reptiles of
+                British India, Calcutta, 1876, 8vo. (7) J. Fayrer, The Thanatophidia of
+                India, London, 1874, fol. (8) J. Anderson, Anatomical and Zoological Researches,
+                comprising an account of the Zoological Results of the two Expeditions to Western
+                Yunnan, London, 1878, 4to.</p>
+            <p>Africa.—(1) Description de IEgypte—Histoire naturelle—Reptiles, Paris, fol., 1809,
+                &amp;c.    (2) A. Smith, Hhistrations of the Zoology of</p>
+            <p>South Africa, London, 8vo, 1849.    (3) W. Peters, Naturwissen</p>
+            <p>schaftliche Reise nach Mossambique—Zoologie, iii., “Amphibien,” Berlin, 1882,
+                4to.</p>
+            <p>North America.—(1) R. Harlan, American Herpetology, or Genera of the North American
+                Reptilia, with a Synopsis of the Species, Philadelphia, 1827, 8vo. (2) J. E.
+                Holbrook, North American Herpetology, or a Description of the Reptiles inhabiting
+                the United States, 5 vols., with numerous col. plates, Philadelphia, 1836-43, 4to.
+                (3) D. H. Storer, “Report on the Reptiles of Massachusetts,” in Boston Jour. Nat.
+                Hist., iii., 1841, pp. 1-65. (4) J. E. De Kay, Zoology of New York, vol. iii., “
+                Reptiles and Amphibia,” Albany, 1842, 4to. (5) S. F. Baird and S. Girard, Catalogue
+                of North American Reptiles in the Museum of the Smithsonian Institution, pt. i.
+                “Serpents,” Washington, 1853, 8vo. (6) Id., Reports upon Reptiles in Reports of
+                Explorations for a Railroad from the Mississippi to the Pacific Ocean, Washington,
+                1859, 4to. (7) L. Agassiz, Contributions to the Natural History of the United States
+                of America, vol. ii., “North American Teshidisiata,'' Boston, 1857, 4to. (8) S.
+                Garman, “On the Reptiles and Batrachians,” Mem. Mus. Comp. Zool., Cambridge, 1883,
+                4to. (9) H. C. Yarrow, Check-List of the North American Reptiles and Batrachians,
+                with Catalogue of the Specimens in the U. S. National Museum, Washington, 1883, 8vo.
+                (10) E. D. Cope is the author of numerous memoirs and papers in the various
+                North American periodicals.</p>
+            <p>Tropical America. —(1) Prince Maximilian von Wied, Abbildungen zur Naturgeschichte
+                Brasiliesis, Weimar, 1822-31, fol., and Beiträge zur Naturgeschichte von Brasilien,
+                i. “Amphibien,” Weimar, 1825, 8vo. (2) J. B. Spix, Serpesitum Brasiliesisium species
+                novæ, Munich, 1824, fol.; Id., Ranæ et Testudinis Brasiliensis species siovæ,
+                Munich, 1825, fol.; Id., Asiimalia siova sive species novæ Lacertarum quas in
+                itinere per Brasiliam ansiis 1817-20, jussu et auspiciis Maxisniliani Josephi I.,
+                Bavariæ regis, suscepto collegit et deseripsit, &amp;c., Munich, 1825, fol. (3) A.
+                F. A. Wiegmann, Herpeto-logia mexicasιa, pars i., Saurorum species amplectens,
+                Berlin, 1834, fol. (4) J. J. v. Tschudi, Untersuchungen über die Faunaperuasia auf
+                eisier Reise in Peru während der Jahre 1838-42, St Gall, 1846, fol. (5) Guichenot,
+                in C. Gay’s Historia fisica y politica de Chile, ii., “Reptiles,” Paris, 1848, 8vo,
+                atlas fol. (6) Cocteau and Bibron, in Ramon de la Sagra’s Histoire physique,
+                politique, et naturelle de l'ile de Cuba—Reptiles, Paris, text 8vo, atlas fol. (7)
+                F. de Castelnau’s Expédition dans les parties centrales de l'Amérique
+                du Sud—Zoologie—Reptiles, by A. Guichenot, Paris, 1855, 4to. (8) C. Girard, Reptiles
+                (from Chili) in U. S. Naval Astronomical Expedition to the Southern Hesnisphere,
+                vol. ii., Washington, 1855, 4to. (9) S. F. Baird, U. S. Exploring Expedition, vol.
+                xx., “ Herpetology, ” Philadelphia, 1858, atlas fol. (10) Duméril and Bocourt,
+                Mission scientifique au Mexique et dans l'Amérique Centrale—Études sur les Reptiles
+                et les Batraeiesis, Paris, 1870, 4to (in progress). (11) A. Günther, in Salvin and
+                Godman’s Biologia Centrali-Americana— Reptiles, London, 1885, 4to (in progress).
+                (12) E. D. Cope, numerous papers in the various North American periodicals.</p>
+            <p>Australia.—(1) J. E. Gray and A. Günther treat of the Lizards in Zoology of the
+                Voyage of H.M.S. “ Erebus ” and “ Terror," London, 1844, 1875, 4to. (2) G. Krefft,
+                The Snakes of Australia, Sydney, 1869, 4to. (3) W. Peters and J. Doria, in Ann. Mus.
+                Genov., xiii., 1878, 8vo.</p>
+            <p><hi rend="smallcaps">General Characters of the Class </hi><hi rend="italic"><hi
+                        rend="smallcaps">Reptiliα.</hi></hi></p>
+            <p>Reptiles are vertebrate animals, the skin of which is covered with horny or bony
+                plates (scales or scutes). The heart has two auricles, but with the ventricular
+                chamber generally incompletely divided ; two arterial trunks emerge from the right
+                portion of the ventricle ; the blood of the arterial and venous systems mixes either
+                in the heart or at the origin of the aortic arches. Respiration takes place
+                by lungs, never by bronchiæ ; portions of the lungs are simple without minute
+                subdivision of the cavity ; and the respira-</p>
+            <p>@@@<hi rend="sup"/>    Ueber die Entwicklung der Schildkröten, Brunswick, 1848,
+                4to.</p>
+            <lb/>
+            <p>Museum,—part 1, Testudinata, London, 1855, 4to ; followed by</p>
+            <lb/>
+            <p>@@@<hi rend="sup">6 </hi>“Chelonologische Studien” and “Die Verbreitung der
+                Schild</p>
+            <lb/>
+            <p>Supplement to the Catalogue, Ac., 1870, and by Appendix to the</p>
+            <lb/>
+            <p>@@@<hi rend="sup"/>    Anatome Testudinis europææ, Vilηa, 1819-21, fol.</p>
+            <lb/>
+            <p>@@@<hi rend="sup"/>    Catalogue of Shield-Reptiles in the Collection of the
+                British</p>
+            <lb/>
+            <p>@@@<hi rend="sup">   </hi>“The Development of the Green Turtle,” in Voy.
+                “Challenger," Zoology, vol. i., London, 1880, 4to.</p>
+            <lb/>
+            <p>@@@<hi rend="sup"/>    “Embryology of the Turtle,” in Contributions to the
+                Natural History of the United States of America, vol. i., Boston, 1857, 4to.</p>
+            <lb/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:11:05Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>To the casual observer sails when spread and in use appear merely as so many large
+                pieces of cloth; but some of them are of very considerable size: it is not at all
+                unusual in full square-rigged ships for a main-course or main-sail to contain 1000
+                yards of canvas (24 inches wide), and a main-top-sail nearly as much,—the single
+                suit for such a vessel comprising upwards of 10,000 yards. Courses and top-sails are
+                made reducible ; in the British navy they are reduced by means of reefs (two in
+                courses, four in top-sails), each fitted with spilling, slab, and reef lines and
+                becket, and toggles on the yard (reef-points throughout being now obsolete). In the
+                merchant service double top-sails—upper and lower—are much in use on account of
+                handiness in reducing sail; there is also “ patent reefing gear,” such as
+                Cunningham’s, which allows reefing to be done as much as possible from deck. The
+                dimensions of masts and yards, quantity of canvas or area of sail, centre of gravity
+                of each sail (from which the moment of sail is obtained and compared with the moment
+                of stability), centre of effort of the sails, and other important calculations
+                necessary in relation to the body of the vessel are made by constructors and naval
+                architects.</p>
+            <p><hi rend="italic">Sailcloth</hi> is obtainable from any description of fibrous
+                material capable of being woven into cloth, having sufficient compactness and
+                closeness of texture, and possessing the requisite strength for sustaining the heavy
+                pressure which sails often have to bear in severe weather. Several descriptions of
+                fibre might be enumerated which would to a certain extent serve for sailcloth but
+                for the absence of quality of endurance or resistance; hemp has been and is now
+                occasionally used, as also a mixture of cotton and linen yarn, or cotton
+                only,—especially in America; but in the United Kingdom <hi rend="smallcaps">Flax
+                    </hi><hi rend="italic">(q.v.)</hi> is the usual staple material, since, when
+                well manufactured, it possesses the qualities of flexibility and lightness, and,
+                what is still more important, the element of strength in a very large degree.</p>
+            <p>The following points may be regarded as of primary importance for securing sailcloth
+                or canvas of a superior quality and durability. Whatever flax is used, it is
+                absolutely necessary that the “warp” and “weft ” of the canvas be spun wholly from
+                the “ longs,” be free from blacks and any mixture of short flax, well dressed or
+                heckled, and that the yarn be well and evenly spun and properly twisted. Both warp
+                and weft yarn should be twice boiled with the best American pot and pearl ashes, and
+                carefully and thoroughly washed and cleansed. No acid chloride of lime or other
+                preparation of chlorine, nor any deleterious substance, should be used in any stage
+                of the process, otherwise the integrity of the fibre will most probably be
+                interfered with ; the only advantage got is that the cloth looks much whiter, which
+                for yachts and pleasure-boats is perhaps desirable, but for naval and mercantile
+                uses is not at all necessary. The yarns are first boiled a sufficient length of time
+                in a solution of the best American potash, in fixed proportions of ashes, green
+                yarn, and water, then mill-washed (beating process), and subsequently carefully
+                washed in a considerable stream of clear running water, and wrung. They are again
+                boiled for a sufficient length of time in a solution of American pearl ashes, in due
+                proportions of ashes, green yarn, and water, then carefully rinsed, or washed in a
+                clear stream of water, carefully dried, and frequently shaken in the course of
+                drying, so that the fibres of the flax may be equally stretched. These repeated
+                boilings, &amp;c., have the effect of cleansing, bleaching, softening, and removing
+                all vegetable impurities which may be hanging about; no starch, tallow, paste, or
+                weaver’s dressing of any description should be used, otherwise the fabric will tend
+                to mildew if allowed to remain damp for any time. Sail- cloth is made in bolts,
+                mostly 24 inches wide, but also 18 inches wide, and for yachting purposes frequently
+                still less wide, upon the ground that the narrower the cloth the flatter and better
+                will the sail stand to its work. It is generally made of eight different qualities
+                in respect of thickness, numbered 1 to 8 accordingly ; the heavier numbers—Nos. 1,
+                2, and 3—are used for storm and other sails that have to do heavy work, the
+                remaining numbers for the lighter descriptions of sail. The weight of each bolt of
+                canvas 24 inches wide, from Nos. 1 to 6 inclusive for 39 yards in length and for
+                Nos. 7 and 8 for 40 yards in length, is about as follows, viz., No. 1, 46 lb ; No.
+                2, 43 ; No. 3, 40 ; No. 4, 36; No. 5, 33 ; No. 6, 30 ; No. 7, 27 ; No. 8, 25 lb. The
+                weight of each bolt of narrower canvas is in proportion. The warp (or lengthwise)
+                should consist of the following proportions of clean unstarched yarn, viz.:—</p>
+            <table>
+                <row>
+                    <cell cols="2">No. 1 not less than 26 lb...</cell>
+                    <cell><p>...16<hi rend="superscript">1</hi>/<hi rend="subscript"
+                                >2</hi></p><p>...16<hi rend="superscript">1</hi>/<hi
+                                rend="subscript">2</hi></p></cell>
+                    <cell>score reed..</cell>
+                    <cell>... 660 double threads. ...660</cell>
+                </row>
+                <row>
+                    <cell>2 »</cell>
+                    <cell>24 „...</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>3 „</cell>
+                    <cell>22 „...</cell>
+                    <cell>...164</cell>
+                    <cell/>
+                    <cell>...660 ,,</cell>
+                </row>
+                <row>
+                    <cell>4 ,,</cell>
+                    <cell>21 „..·</cell>
+                    <cell>...17</cell>
+                    <cell/>
+                    <cell>...680 „</cell>
+                </row>
+                <row>
+                    <cell>5 ,,</cell>
+                    <cell>19 „...</cell>
+                    <cell>...17</cell>
+                    <cell/>
+                    <cell>...680 ,,</cell>
+                </row>
+                <row>
+                    <cell>6 ,,</cell>
+                    <cell>18 „...</cell>
+                    <cell>. ..17</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>1.5 „...</cell>
+                    <cell>... 20</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>8 „</cell>
+                    <cell>14„...</cell>
+                    <cell>...20</cell>
+                    <cell>,,</cell>
+                    <cell>...800 „</cell>
+                </row>
+            </table>
+            <p>As a rule about 40 yards in length may be considered as the average content of each
+                bolt. Particular attention should be paid to the weaving, that the texture be struck
+                sufficiently close, and the selvages be evenly and well manufactured; what is termed
+                a slack selvage (that is, one selvage longer than the other) is not only awkward for
+                the sailmaker but unsatisfactory both in wear and appearance, the slack side showing
+                itself puckered. Sailcloth made upon these conditions is very likely to be a good
+                article ; tests, however, can be applied, generally to strips 1 inch wide from Nos.
+                1 to 6 inclusive, and 1<hi rend="superscript">1/</hi><hi rend="subscript">2</hi>
+                inch wide from Nos. 7 and 8. Weft and warp (24 inches in length) in each case are
+                placed in a small testing machine, which has a dial plate with a spring underneath ;
+                vices are attached to grip the strips, one vice to the spring, the other in
+                connexion with a long screw’ with a handle ; by turning this handle the vices are
+                drawn asunder until the strip breaks, and the hands on the dial-plate indicate the
+                strain in pounds. The following is a fair test of strength for the various numbers
+                of good sailcloth :—</p>
+            <table>
+                <row>
+                    <cell>No. 1....</cell>
+                    <cell><p><hi rend="italic">Weft.</hi></p><p>...,480 lb....</p></cell>
+                    <cell><hi rend="italic">Warp. </hi>....340 lb</cell>
+                    <cell>No. 5....</cell>
+                    <cell>....370 lb....</cell>
+                    <cell><p><hi rend="italic">Warp.</hi></p><p>....260 lb</p></cell>
+                </row>
+                <row>
+                    <cell>2...</cell>
+                    <cell>....460 ....</cell>
+                    <cell>.. ..320</cell>
+                    <cell>6....</cell>
+                    <cell>....350 ....</cell>
+                    <cell>....250</cell>
+                </row>
+                <row>
+                    <cell>3...</cell>
+                    <cell>....440 ....</cell>
+                    <cell>....300</cell>
+                    <cell>7....</cell>
+                    <cell>.... 390 ....</cell>
+                    <cell>....330</cell>
+                </row>
+                <row>
+                    <cell>4.. ..</cell>
+                    <cell>....400 ....</cell>
+                    <cell>....280</cell>
+                    <cell>8....</cell>
+                    <cell>....380 ....</cell>
+                    <cell>....310</cell>
+                </row>
+            </table>
+            <p>It is not at all unusual, however, to find some sailcloth stand a strain considerably
+                in excess of this. Freedom from blacks, twist and spun of the yarn, stiffening,
+                calendering, &amp;c., can be discovered by observation and a magnifying glass,
+                excessive dressing by a little tincture of iodine.</p>
+            <p><hi rend="italic">Sailmaking</hi> is a very old branch of industry in connexion with
+                the navy and commerce, and it still continues to be important notwithstanding the
+                enormous extent to which steam is now employed in navigation.</p>
+            <p>The operations of the sailmaker may be stated as follows. The dimensions of mast and
+                yards and sail plan being supplied, the master sailmaker is enabled to determine the
+                dimensions of each sail—after due allowance for stretching—in terms of cloths and
+                depth in yards—if a square sail, the number of cloths in the head, number in the
+                foot, and the depth in yards ; if a fore-and-aft sail (triangular), the number of
+                cloths in the foot, and the depth in yards of the luff or stay and of leech or
+                after-leech ; if a fore-and- aft sail (trapezium form), the number of cloths in the
+                head, number in foot, and the depth of mast or luff and of after-leech. These
+                particulars obtained, there is got out what is technically termed a “casting,” which
+                simply means the shape, length, &amp;c., of each individual cloth in the sail. These
+                figures are given to the cutter, who proceeds to cut out the sail cloth by cloth in
+                consecutive order, numbering them 1, 2, 3, 4, &amp;c. ; the series of cloths thus
+                cut out are handed over to the workman, who joins them together by carefully made
+                double flat seams, sewn with twine specially prepared for the purpose, with about
+                120 stitches in a yard. In the heavy sails the seam is about an inch and a half in
+                width and in the British navy stuck or stitched in the middle of the seam to give
+                additional strength ; the seams in the lighter sails are about an inch wide. The
+                whole of the cloths are then brought together, and spread out, and the tabling (or
+                hemming, so to speak) is turned in and finished off with about 72 stitches to a
+                yard. Strengthening pieces or “linings” are affixed where considered necessary, in
+                courses and top-sails such pieces as reef-bands, middle-bands, foot- bands,
+                leech-linings, bunt-line cloths ; in top-sails (only) a top- lining or brim ; in
+                other and lighter sails such pieces as mast-lining clew and head, tack, and corner
+                pieces ; holes, such as head, reef, stay (luff), mast, cringle, bunt-line, &amp;c.,
+                are also made where re- quired, a grommet of line of suitable size being worked in
+                them to prevent their being cut through. The next thing to be done is to secure the
+                edges of the sail,—an important operation, as much depends upon this whether the
+                sail will stand well and do its work efficiently. Bolt-rope, a comparatively soft
+                laid rope made from the finer hemp yarn (Italian) is used for this purpose ; in the
+                British navy it ranges from 1 inch (increasing in size by quarter inches) up to 8
+                inches inclusive, the size selected for each part of a sail being determined by the
+                amount of strain it will have to bear; it is then neatly sewn on with roping twine
+                specially prepared, the needle and twine passing between and clear of every two
+                strands of the rope in roping. Where slack sail has to be taken in, it is the
+                practice to leave it to the judgment of the sail</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:15:15Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>nervous system occurring for the most part in children, and characterized mainly by
+                involuntary jerking movements of the muscles throughout almost the entire body. It
+                is to be regarded as a functional nervous disorder of wide extent, the
+                manifestations of which appear not merely in disturbance affecting the motor
+                apparatus but in various associated morbid phenomena of cerebral origin. Among the
+                predisposing causes age is important, chorea being essentially an ailment of
+                childhood and more particularly of the period in which the second dentition is
+                taking place. The greater number of the cases occur between the ages of nine and
+                twelve. It is not often seen in very young children nor after puberty; but there are
+                many exceptions to this rule. It is twice as frequent with girls as with boys.
+                Hereditary predisposition to nervous troubles is apt to find expression in this
+                malady in youth, more especially if the general health becomes lowered. Of exciting
+                causes strong emotions, such as fright, ill-usage or hardship of any kind,
+                insufficient feeding, overwork or anxiety, are among the most common; while, again,
+                some distant source of irritation, such as teething or intestinal worms, appears
+                capable of giving rise to an attack. It is an occasional but rare complication of
+                pregnancy. The connexion of chorea with rheumatism is now universally recognized,
+                and is shown not merely by its frequent occurrence before, after, or during the
+                course of attacks of rheumatic fever in young persons, but even independently of
+                this by the liability of the heart to suffer in a similar way in the two
+                diseases.</p>
+            <p>The symptoms of St Vitus’s dance are in some instances developed suddenly as the
+                result of fright, but much more frequently they come on insidiously. They are
+                usually preceded by changes in the temper and disposition, the child becoming sad,
+                irritable, and emotional, while at the same time the general health is somewhat
+                impaired. The first thing indicative of the disease is a certain awkwardness or
+                fidgetiness of manner together with restlessness, the child being evidently unable
+                to continue quiet, but frequently moving the limbs into different positions. In
+                walking, too, slight dragging of one limb may be noticed. The convulsive muscular
+                movements usually first show themselves in one part, such as an arm or a leg, and in
+                some instances they may remain localized to that limited extent, while in all cases
+                there is a tendency for the disorderly symptoms to be more marked on one side than
+                on the other. When fully developed the phenomena of the disease are very
+                characteristic. The child when standing or sitting is never still, but is constantly
+                changing the position of the body or limbs in consequence of the sudden and
+                incoordinate action of muscles or groups of them. The shoulder is jerked up, the
+                head and trunk twisted about, the limbs crossed suddenly and changed again, the
+                fingers keep moving restlessly, while the face is distorted with grimaces, frowning
+                and smiling irregularly. These symptoms are aggravated when purposive movements are
+                attempted or when the child is watched. Speech is affected both from the
+                incoordinate movements of the tongue and from phonation sometimes taking place
+                during an act of inspiration. The taking of food becomes a matter of difficulty,
+                since much of it is lost in the attempts to convey it to the mouth, while swallowing
+                is also interfered with owing to the irregular action of the pharyngeal muscles.
+                When the tongue is protruded it comes out in a jerky manner and is immediately
+                withdrawn, the jaws at the same time closing suddenly and sometimes with con</p>
+            <p>siderable force. In locomotion the muscles of the limbs act incoordinately and there
+                is a marked alteration of the gait, which is now halting and now leaping, and the
+                child may be tripped by one limb being suddenly jerked in front of the other. In
+                short, whether at rest or in motion the whole muscular system is seen to be deranged
+                in its operations, and the term “ insanity of the muscles ” not inaptly expresses
+                the condition, for they no longer act in harmony or with purpose, but seem, as
+                Trousseau expresses it, each to have a will of its own and to be exercising this for
+                different objects at one time. The muscles of organic life (involuntary muscles)
+                appear scarcely, if at all, affected in this disease, as, for example, the heart,
+                the rhythmic movements of which are not as a rule impaired. But the heart may suffer
+                in other ways, especially from inflammatory conditions similar to those which attend
+                upon rheumatism and which frequently lay the foundation of permanent heart disease.
+                In severe cases of St Vitus’s dance the child comes to present a distressing
+                appearance from the constant restlessness and disorderly movement, and the physical
+                health declines. Usually, however, there is a remission of the symptoms during
+                sleep. The mental condition of the patient is more or less affected, as shown in
+                emotional tendencies, irritability, and a somewhat fatuous expression and bearing,
+                but this change is in general of transient character and ceases with
+                convalescence.</p>
+            <p>This disease occasionally assumes a very acute and aggravated form, in which the
+                disorderly movements are so violent as to render the patient liable to be injured
+                and to necessitate forcible control of the limbs or the employment of anaesthetics
+                to produce unconsciousness. Such cases are of very grave character, if, as is
+                common, they are accompanied with sleeplessness, and they may prove rapidly fatal by
+                exhaustion. In the great majority of cases of St Vitus’s dance, however, complete
+                recovery is to be anticipated sooner or later, the symptoms usually continuing for
+                from one to two months, or even sometimes much longer.</p>
+            <p>The nature of this disease has given rise to much discussion and there still remains
+                considerable difference of opinion as to its true pathology. The fact that the vast
+                majority of cases recover would seem to show that there could have been no profound
+                change in the structural integrity of the nerve-centres, while in those instances
+                where a fatal result takes place <hi rend="italic">post-mortem</hi> examination
+                reveals no constant morbid condition. A theory supported by high authority has
+                referred the cause of the malady to the plugging up of minute blood-vessels in the
+                motor centres of the brain (a condition not unlikely to occur in rheumatic
+                inflammation affecting the lining membrane of the heart), and such a change has been
+                seen in a few instances. In a still larger number, however, no appearances of this
+                kind have been observed, but simply vascular changes of a congestive character
+                widely diffused throughout the central nervous system, accompanied with evidences of
+                slight inflammatory action. Dr Dickinson, whose views, founded upon carefully
+                conducted investigations, are those most widely accepted, concludes as follows: “We
+                see in chorea a widely distributed hyperaemia [<hi rend="italic">i.e.,</hi>
+                congestion] of the nervous centres, not due to any mechanical mischance, but
+                produced mainly by causes of two kinds,—one a morbid, probably a humoral influence,
+                which may affect the nervous centres as it affects other organs and tissues; the
+                other, irritation in some mode usually mental but sometimes what is called reflex,
+                which especially belongs to and disturbs the nervous system, and affects persons
+                differently, according to the inherent mobility of their nature.”</p>
+            <p>For the treatment of St Vitus’s dance the remedies proposed have been innumerable,
+                but it is doubtful whether any of them have much control over the disease, which</p>
+        </body>
+    </text>
+</TEI>

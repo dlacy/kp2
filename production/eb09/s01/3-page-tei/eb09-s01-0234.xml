@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:22:04Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>did not like his countrymen to be behind other nations through the want of an
+                historian, and because he washed to perpetuate the record of the exploits of the
+                Danes. His sources are partly Danish traditions and old songs, partly the statements
+                of Archbishop Absalon, partly the accounts of Icelanders, and, lastly, some few
+                earlier, but scanty, sources, being lists of Danish kings and short chronicles,
+                which furnished him with some reliable chronological dates. He considered traditions
+                as history, and therefore made it his chief business to recount and arrange these,
+                by the help of the lists of the kings, into a connected whole. His work, therefore,
+                is a loosely connected series of biographies of Danish kings and heroes; he dwells
+                with predilection on those periods during which Danish kings were said to have made
+                great conquests, and he represents these conquerors as the paragons of their
+                times.</p>
+            <p>The first nine books comprise “Antiquity,” that is, traditions of kings and heroes of
+                the half-mythical time up to about 950. Here we have traditions about Fredfrode,
+                about Amleth (Hamlet) and Fenge, about Rolf Krake, Hadding, the giant Starkather,
+                Harald Hildetann, and Ragnar Lodbrok. In this earlier history Saxo has also embodied
+                myths of national gods who in tradition had become Danish kings, for instance,
+                Balder and Hother, and of foreign heroes, likewise incorporated in Danish history,
+                as the Gothic Jarmunrik (A. S. Eormenríc), the Anglian Vermund (A. S. Garmund) and
+                Uffe (A. S. Offa), the German Hedin and Hild, &amp;c. Frequently the narrative is
+                interrupted by translations of poems, which Saxo has used as authentic sources,
+                although they are often only a few generations older than himself. In the later
+                books (x.-xvi.) of his work he follows to a greater extent historical accounts, and
+                the more he approaches his own time the fuller and the more trustworthy his relation
+                becomes ; especially brilliant is his treatment of the history of King Valdemar and
+                of Absalon. But his patriotism often makes him partial to his countrymen, and his
+                want of critical sense often blinds him to the historical truth.</p>
+            <p>Saxo’s work was widely read during the Middle Ages, and several extracts of it were
+                made for smaller chronicles. It was published for the first time, from a MS.
+                afterwards lost, in Paris, 1514, by the Danish humanist Christiern Pedersen ; this
+                edition was reprinted at Basel, 1534, and at Frankfort, 1576. Of later editions may
+                be mentioned that of Stephen Stephanius, Sorö, 1644, that of C. A. Klotz, Leipsic,
+                1771, and that of P. E. Müller and J. M. Velschow, Copenhagen, 1839. No complete MS.
+                any longer exists; yet of late small fragments have been found of three MSS. The
+                most remarkable of these is the fragment found at Angers, in France, written shortly
+                after 1200, perhaps by Saxo himself or under his superintendence ; here several
+                corrections are found above the lines, showing how the author varied and polished
+                his Latin style.</p>
+            <p>SAXON DUCHIES. For the four Saxon duchies, <hi rend="smallcaps">Saxe- Altenburg,
+                    Saxe-Coburg-Goth a, Saxe-Meiningen, </hi>and <hi rend="smallcaps"
+                    >Saxe-Weimar-Eisenach,</hi> see those headings.</p>
+            <p>SAXONS, <hi rend="smallcaps">Law of the.</hi> See <hi rend="smallcaps">Salic
+                    Law.</hi></p>
+            <p>SAXONY is the name successively given in German history to a mediaeval duchy in
+                northern Germany, to a later electorate which afterwards became the present kingdom
+                of Saxony (described below), and to a ducal province of Prussia. The last was formed
+                directly out of part of the second in 1815, but the connexion between the first and
+                second, as will be seen from the present article, is neither local nor
+                ethnographical but political.</p>
+            <p>The Saxons (Lat. <hi rend="italic">Saxones,</hi> Ger. <hi rend="italic"
+                    >Sachsen),</hi> a tribe of the Teutonic stock, are first mentioned by Ptolemy as
+                occupying the southern part of the Cimbrian peninsula between the Elbe, Eider, and
+                Trave, the district now known as Holstein. The name is most commonly derived from “
+                sahs,” a short knife, though some authorities explain it as meaning “settled,” in
+                contrast to the Suevi or “ wandering” people. By the end of the 3d century, when we
+                hear of a “Saxon Confederation” embracing the Cherusci, Chauci, and Angrivarii, and
+                perhaps corresponding to the group of tribes called Ingsevones by Tacitus, the chief
+                seat of the nation had been transferred south of the Elbe to the lands on both sides
+                of the Weser now occupied by Oldenburg and Hanover. The Saxons were one of the most
+                warlike and adventurous of the Teutonic peoples,</p>
+            <p>and they not only steadily extended the borders of their home, but made colonizing
+                and piratical excursions by sea far and wide. In 287 they assisted the Menapian
+                Carausius to make himself master of Romanized Britain, where he assumed the title of
+                Augustus; and on the Continent they came into collision with the Roman empire under
+                both Julian and Valentinian, the latter of whom defeated them in 373 so far south as
+                Deutz, opposite Cologne. Their settlements along the coast of France extended to the
+                mouth of the Loire, and, though these were soon absorbed by the Franks, their
+                expeditions to England finally resulted in the foundation of lasting kingdoms
+                (Essex, Sussex, Wessex) (see <hi rend="smallcaps">England,</hi> vol. viii. pp. 268
+                    <hi rend="italic">sq.).@@1</hi> About the beginning of the 5th century part of
+                the Flemish coast became known as the <hi rend="italic">Litus Saxonium,</hi> from
+                the settlements of this people. The Saxons who remained in Germany (Alt-Sachsen or
+                Old Saxons) gradually pushed their borders further and further until they approached
+                the Rhine, and touched the Elbe, the North Sea, and the Harz Mountains. In 531 they
+                joined their neighbours the Franks in a successful expedition against the
+                Thuringians, and received as their spoil the conquered territory between the Harz
+                and the Unstrut. Their settlements here were, however, forced to acknowledge the
+                supremacy of the Franks, and from this period may be dated the beginning of the long
+                strife between these two peoples which finally resulted in the subjugation of the
+                Saxons. During the reigns of the weak Merovingian kings who succeeded Lothair I. on
+                the Frankish throne, the Saxons pushed into northern Thuringia, afterwards known as
+                the Alt-Mark. Pippin the Short obtained a temporary advantage over them in 753 and
+                imposed a tribute of three hundred horses, but their final conquest was reserved for
+                Charlemagne. At this time the Saxons did not form a single state under one ruler,
+                but were divided into the four districts of Westphalia to the west of the Weser,
+                Eastphalia chiefly to the east of that river, Engern or Angria along both banks, and
+                Nordalbingia in Holstein. The gaus were independent, each having an ealdorman of its
+                own; and they only combined in time of war or other emergency to choose a herzog, or
+                common leader. The people were divided into the “ frilinge ” or “frone,” who
+                possessed the land, the “liti” or “lazzi,” a semi-freed class, and the serfs, who
+                had no rights. The “edilinge” were the chiefs, but had no political advantages over
+                the “ frilinge.” Their religion was a simple type of northern heathenism. See <hi
+                    rend="smallcaps">Germany,</hi> vol. x. pp. 473 and 477 <hi rend="italic"
+                    >sq.</hi></p>
+            <p>In 772 Charlemagne, induced partly by a desire to protect his kingdom from the
+                incursions of hostile neighbours and partly by a proselytizing spirit, began the
+                subjugation of the Saxons. The war, waged on both sides with the utmost ferocity,
+                lasted in a series of campaigns with but brief intervals for thirty-one years.
+                Repeatedly conquered and baptized, the Saxons rose again and again in revolt as soon
+                as Charlemagne withdrew his troops, threw off their forced allegiance to
+                Christianity, and under various leaders, of whom Wittekind or Widukind is the most
+                famous, struggled fiercely to regain their independence. Charlemagne was too strong
+                and his measures too relentless. On one occasion he butchered 4500 captives in cold
+                blood, as a revenge and a warning. Wittekind surrendered and was baptized in 785;
+                and after what is called the Second Saxon War, which broke out in 792, resistance
+                died away about 803. The Saxons were allowed</p>
+            <p><hi rend="superscript">@@@1</hi> Though the Saxons were not the first to effect the
+                foundation of a Teutonic kingdom in England, they were the first to attempt it ; and
+                hence their name was applied (as it still is) by the Celtic inhabitants of the
+                British islands to all Teutonic settlers. A similar general use of the name survives
+                in Transylvania, where the German inhabitants are called “Saxons,” although only a
+                small proportion of them trace their descent from the Saxon branch of the Teutonic
+                family.</p>
+        </body>
+    </text>
+</TEI>

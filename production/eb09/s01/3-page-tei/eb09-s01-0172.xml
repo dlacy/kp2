@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:19:20Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>mind. Invested with this subtile frame, they, for the sake of fruition, connect
+                themselves ever anew with Nature, thus, as it were, creating for themselves ever new
+                forms of material existence; and it is only on his attaining perfect knowledge,
+                whereby the ever-changing modes of intelligence cease to be reflected on him, that
+                the Purusha is liberated from the miseries of Samsara.</p>
+            <p>The reputed founder of this school is the sage Kapila, to whom tradition ascribes the
+                composition of the fundamental text-book, the <hi rend="italic">(Sânkhya-sûtra,</hi>
+                or) <hi rend="italic">Sânkhya-pravachana, @@</hi><hi rend="italic superscript"
+                    >1</hi> as well as the <hi rend="italic">Tattva-samAsa,</hi> a mere catalogue of
+                the principles. That the Sutras have undergone subsequent modifications might be
+                inferred from the fact that they twice refer to the opinion of Pahchaśikha, who
+                elsewhere is stated to have received his instruction from Asuri, the disciple of
+                Kapila, as well as from the sage himself, of the commentaries on the Sutras, that by
+                Vijnâna Bhikshu, @@<hi rend="superscript">2</hi> a writer probably of the 16th
+                century, is the most approved. An independent treatise by the same author, the <hi
+                    rend="italic">Sânkhya-sâra, @@</hi><hi rend="italic superscript">2
+                </hi>consisting of a prose and a verse part, is probably the most valuable
+                compendium of Sânkhya doctrines. Another admirable and highly-esteemed treatise is
+                Iśvara-krishna’s <hi rend="italic">Sârikhya-kârikâ,@@</hi><hi
+                    rend="italic superscript">3 </hi>which gives, in the narrow compass of
+                seventy-five ślokas, a lucid and complete sketch of the system. Though nothing
+                certain is known regarding its author, @@<hi rend="superscript">4</hi> this work
+                must be of tolerable antiquity, considering that it was commented upon by Gaudapada,
+                    @@<hi rend="superscript">5 </hi>the preceptor of Govinda, who, on his part, is
+                said to have been the teacher of Sankaracharya.</p>
+            <list type="ordered">
+                <item>The <hi rend="italic">Yoga</hi> system is merely a schismatic branch of the
+                    preceding school, holding the same opinions on most points treated in common in
+                    their Sûtras, with the exception of one important point, the existence of God.
+                    To the twenty-five principles <hi rend="italic">(tattva) </hi>of the Nirîśvara
+                    Sânkhya, the last of which was the <hi rend="italic">Purusha,</hi> the Yoga
+                    adds, as the twenty-sixth, the <hi rend="italic">Nirguna Purusha,</hi> or Self
+                    devoid of qualities, the Supreme God of the system. Hence the Yoga is called the
+                        <hi rend="italic">Seśvara</hi> (theistical) <hi rend="italic">Sânkhya.</hi>
+                    But over and above the purely speculative part of its doctrine, which it shares
+                    with the sister school, the theistic Sankhya has developed a complete system of
+                    mortification of the senses—by means of prolonged apathy and abstraction,
+                    protracted rigidity of posture, and similar practices, —many of which are
+                    already alluded to in the Upanishads,—with the view of attaining to an ecstatic
+                    vision of, and reunion <hi rend="italic">(yoga)</hi> with, the Supreme Spirit.
+                    It is from this portion of the system that the school derives the name by which
+                    it is more generally known. The authoritative Sutras of the Yoga, bearing the
+                    same title as those of the sister school, viz., <hi rend="italic"
+                        >Sânkhya-pravachana,</hi> but more commonly called <hi rend="italic"
+                        >Yoga-śâstra,</hi> are ascribed to Patanjali, who is perhaps identical with
+                    the author of the “great commentary” on Pânini. The oldest commentary on the
+                    Sutras, the <hi rend="italic">Pâtahjala-bhâshya,</hi> is attributed to no other
+                    than Vyâsa, the mythic arranger of the Veda and founder of the Vedânta. Both
+                    works have again been commented upon by Vâchaspati-miśra, Vijnâna-bhikshu, and
+                    other writers.</item>
+                <item>(6) The <hi rend="italic">Nyâya @@6</hi> and <hi rend="italic">Vaiśeshika</hi>
+                    are but separate branches of one and the same school, which supplement each
+                    other and the doctrines of which have virtually become amalgamated into a single
+                    system of philosophy. The special part taken by each of the two branches in the
+                    elaboration of the’system may be briefly stated in Dr Röer’s words :—“ To the
+                    Nyâya belong the logical doctrines of the forms of syllogisms, terms, and
+                    propositions; to the Vaiśeshikas the systematical explanation of the categories
+                    (the simplest metaphysical ideas) of the metaphysical, physical, and psychical
+                    notions, — which notions are hardly touched upon in the Nyaya-sutras. They
+                    differ in their statement of the several modes of proof,—the Nyaya asserting
+                    four modes of proof (from perception, inference, analogy, and verbal
+                    communication), the Vaiseshikas admitting only the two first ones.” The term
+                    Nyaya <hi rend="italic">(ni-âya,</hi> “in-going,” entering), though properly
+                    meaning “analytical investigation,” as applied to philosophical inquiry
+                    generally, has come to be taken more commonly in the narrower sense of “logic,”
+                    because this school has entered more thoroughly than any other into the laws and
+                    processes of thought, and has worked out a formal system of reasoning which
+                    forms the Hindu standard of logic.</item>
+            </list>
+            <p>The followers of these schools generally recognize seven categories <hi rend="italic"
+                    >(padârtha)</hi>:—substance <hi rend="italic">(dravya),</hi> quality <hi
+                    rend="italic">(guna),</hi> action <hi rend="italic">(karma), </hi>generality <hi
+                    rend="italic">(sâmânya),</hi> particularity <hi rend="italic">(viśesha),</hi>
+                intimate relation <hi rend="italic">(sarnavâya),</hi> and non-existence or negation
+                    <hi rend="italic">(abhâva).</hi> Substances, forming the substrata of qualities
+                and actions, are of two kinds:— eternal (without a cause), viz., space, time, ether,
+                soul, and the atoms of mind, earth, water, fire, and air; and non-eternal, com</p>
+            <p>prising all compounds, or the things we perceive, and which must have a cause of
+                their existence. Causality is of three kinds :— that of intimate relation (material
+                cause); that of non-intimate relation (between parts of a compound); and
+                instrumental causality (effecting the union of component parts). Material things are
+                thus composed of atoms <hi rend="italic">(anu), i.e.,</hi> ultimate simple
+                substances, or units of space, eternal, unchangeable, and without dimension,
+                character- ized only by “ particularity <hi rend="italic">(viśesha). ” </hi>It is
+                from this predication of ultimate “ particulars ” that the Vaiseshikas, the
+                originators of the atomistic doctrine, derive their name. The Nyâya draws a clear
+                line between matter and spirit, and has worked out a careful and ingenious system of
+                psychology. It distinguishes between individual or living souls <hi rend="italic"
+                    >(jîvâtman),</hi> which are numerous, infinite, and eternal, and the Supreme
+                Soul <hi rend="italic">(Paramâtman),</hi> which is one only, the seat of eternal
+                knowledge, and the maker and ruler <hi rend="italic">(Îśvara)</hi> of all things. It
+                is by his will and agency that the unconscious living souls (soul-atoms, in fact)
+                enter into union with the (material) atoms of mind, &amp;c., and thus partake of the
+                pleasures and sufferings of mundane existence. On the Hindu syllogism compare Prof.
+                Cowell’s notes to Colebrooke’s <hi rend="italic">Essays,</hi> i. p. 314.</p>
+            <p>The original collection of <hi rend="italic">Nyâya-sâtras</hi> is ascribed to Gotama,
+                and that of the <hi rend="italic">Vaiśeshika-sûtras</hi> to Kanada. The etymological
+                meaning of the latter name seems to be “little-eater, particle- eater,” whence in
+                works of hostile critics the synonymous terms <hi rend="italic">Kana-bhuj</hi> or
+                    <hi rend="italic">Kana-bhaksha</hi> are sometimes derisively applied to him,
+                doubtless in allusion to his theory of atoms. He is also occasionally referred to
+                under the name of Kâśyapa. Both sutra-works have been interpreted and supplemented
+                by a number of writers, the commentary of Viśvanâtha on the Nyâya and that of
+                Śankara-miśra on the Vaiśeshika Sûtras being most generally used. There are,
+                moreover, a vast number of separate works on the doctrines of these schools,
+                especially on logic. Of favourite elementary treatises on the subject may be
+                mentioned Ke^ava- misra’s <hi rend="italic">Tarka-bhâshâ,</hi> the <hi rend="italic"
+                    >Tarka-sangraha, @@</hi><hi rend="italic superscript">7</hi> and the <hi
+                    rend="italic">Bhâshâ- parichheda. @@8</hi> A large and important book on logic
+                is Ganges’s <hi rend="italic">Chintâmani,</hi> which formed the text-book of the
+                celebrated Nuddea school of Bengal, founded by Raghunatha-śiromani about the
+                beginning of the 16th century. An interesting little treatise is the <hi
+                    rend="italic">Kuswmâhjali, @@</hi><hi rend="italic superscript">9</hi> in which
+                the author, Udayana Acharya (about the 12th century, according to Prof. Cowell)
+                attempts, in 72 couplets, to prove the existence of a Supreme Being on the
+                principles of the Nyâya system.</p>
+            <p>As regards the different heretical systems of Hindu philosophy, there is no occasion,
+                in a sketch of Sanskrit literature, to enter into the tenets of the two great
+                anti-Brahmanical sects, the Jainas and Buddhists. While the original works of the
+                former are written entirely in a popular (the Ardha-mâgadhi) dialect, the northern
+                Buddhists, it is true, have produced a considerable body of literature, @@<hi
+                    rend="superscript">10</hi> composed in a kind of hybrid Sanskrit, but only a few
+                of their sacred books have as yet been published; @@<hi rend="superscript">11</hi>
+                and it is, moreover, admitted on all hands that for the pure and authentic Bauddha
+                doctrines we have rather to look to the Pali scriptures of the southern branch. Nor
+                can we do more here than briefly allude to the theories of a few of the less
+                prominent heterodox systems, however interesting they may be for a history of human
+                thought.</p>
+            <p>The <hi rend="italic">Chârvâkas,</hi> an ancient sect of undisguised materialism, who
+                deny the existence of the soul, and consider the human person <hi rend="italic"
+                    >(purusha)</hi> to be an organic body endowed with sensibility and with thought,
+                resulting from a modification of the component material elements, ascribe their
+                origin to Brihaspati; but their authoritative text-book, the <hi rend="italic"
+                    >Bârhaspatya-sûtra,</hi> is only known so far from a few- quotations.</p>
+            <p>The <hi rend="italic">Pâncharâtras,</hi> or <hi rend="italic">Bhâgavatas,</hi> are an
+                early Vaishnava sect, in which the doctrine of faith, already alluded to, is
+                strongly developed. Hence their tenets are defended by Ramanuja, though they are
+                partly condemned as heretical in the Brahma-sutras. Their recognized text-book is
+                the <hi rend="italic">Nârada-Pahcharâtra. @@</hi>12 According to their theory the
+                Supreme Being (Bhagavat, Vâsudeva, Vishnu) became four separate persons by
+                successive production. While the Supreme Being himself is indued with the six
+                qualities of knowledge, power, strength, absolute sway, vigour, and energy, the
+                three divine persons successively emanating from him and from one another represent
+                the living soul, mind, and consciousness respectively.</p>
+            <p>The <hi rend="italic">Pâśupatas,</hi> one of several Saiva (Mâheśvara) sects, hold
+                the Supreme Being <hi rend="italic">(Îśvara),</hi> whom they identify with Śiva, to
+                be the creator and ruler of the world, but not its material cause. With the Sânkhyas
+                they admit the notion of a plastic material cause, the <hi rend="italic"
+                    >Pradhâna</hi>; while they follow Patanjali in maintaining the existence of a
+                Supreme God.</p>
+            <p><hi rend="superscript">@@@1</hi> Transl. by J. R. Ballantyne ; 2d ed. by F. Hall.</p>
+            <p>@@@<hi rend="superscript">2</hi> Edited by F. Hall.</p>
+            <p>@@@<hi rend="superscript">2</hi> Edited by F. Hall.</p>
+            <p><hi rend="superscript">@@@3</hi> Edited by C. Lassen, 1832. Translations by II. T.
+                Colebrooke and J<hi rend="subscript">z</hi> Davies.</p>
+            <p><hi rend="superscript">@@@4</hi> One writer makes him the pupil of Panchaśkha, whilst
+                another even identifies him with Kalidasa ; <hi rend="italic">cf.</hi> F. Hall, <hi
+                    rend="italic">Sankhyasdra,</hi> p. 29.</p>
+            <p><hi rend="superscript">@@@5</hi> Transl. by II. H. wilson. A Chinese translation of a
+                commentary resembling that of Gaudapada is said to have been made during the Ch’en
+                dynasty, 557-583 <hi rend="smallcaps">A.d.</hi> (M. Muller, <hi rend="italic"
+                    >India,</hi> p. 360).</p>
+            <p><hi rend="superscript">@@@6</hi> Besides Colebrooke’s <hi rend="italic">Essay,</hi>
+                with Cowell’s notes, see Ballantyne's translation of the <hi rend="italic"
+                    >Tarka-Sangraha</hi> anil the introduction to Roer’s translation of the <hi
+                    rend="italic">Bhâshaparichheda,</hi> and his article, <hi rend="italic">Z. D. M.
+                    O.,</hi> xxi.</p>
+            <p><hi rend="superscript">@@@7</hi> Edited and translated by J. R. Ballantyne.</p>
+            <p><hi rend="superscript">@@@8</hi> Edited and translated, with commentary, by E.
+                Röer.</p>
+            <p><hi rend="superscript">@@@9</hi> Edited and translated, with commentary, by E. B.
+                Cowell.</p>
+            <p><hi rend="superscript">@@@10 </hi>See B. H. Hodgson, <hi rend="italic">The Languages,
+                    Literature, and Religion of Nepal and Tibet.</hi></p>
+            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">11</hi><hi rend="italic"
+                    > Lalita-vistara,</hi> edited and partly translated by Râjendralâla Mitra; <hi
+                    rend="italic">Mahâ- vastu,</hi> edited E. Senart; <hi rend="italic"
+                    >Vajra-parichheda,</hi> edited M. Müller; <hi rend="italic">Saddharma-
+                    pundarîka,</hi> translated by E. Burnouf (“Lotus de la bonne loi”); and II.
+                Kern, <hi rend="italic">Sacred Books of the East.</hi></p>
+            <p>@@@<hi rend="superscript">12</hi> Edited by K. M. Banerjea.</p>
+        </body>
+    </text>
+</TEI>

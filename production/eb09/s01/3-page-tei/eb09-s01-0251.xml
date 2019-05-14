@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-10T23:22:49Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>oldest Eastern Scandinavian runic inscriptions, dating from a period before the
+                beginning of the literature, as well as in many modern Eastern Scandinavian
+                dialects. For, having regard to the Scandinavian dialects generally, we must adopt
+                quite a different classification from that indicated by the dialects which are
+                represented in the literature. We now pass on to review the latter and their
+                history.</p>
+            <p>I. <hi rend="smallcaps">Icelandic.</hi>—In ancient times Icelandic was by far the
+                most important of the Scandinavian languages, in form as well as in literature. To
+                avoid ambiguity, the language before the Reformation (about 1530-40) is often called
+                old Icelandic.</p>
+            <p>1. <hi rend="italic">Old Icelandic</hi> was spoken not only in Iceland, but also in
+                Greenland, where Icelandic colonists lived for a lengthened period (983- about
+                1400). Our knowledge of its character is almost exclusively derived from the
+                remarkably voluminous literature, @@<hi rend="superscript">1</hi> dating from the
+                middle of the 12th century, and written in the Latin alphabet, adapted to the
+                special requirements of this language. Nothing is preserved of older runic
+                literature.@@2 Indeed, Old Icelandic possesses only very few runic monuments (about
+                forty), all of them almost worthless from a philological point of view. The oldest,
+                the inscription on the church door of Valpjofstaðr, dates from the beginning of the
+                13th century,@@<hi rend="superscript">3</hi> and is consequently later than the
+                oldest preserved manuscripts @@<hi rend="superscript">4</hi> in the Latin alphabet,
+                some of which are as old as the end of the 12th century. A small fragment (Cod. AM.
+                237, fob) of a <hi rend="italic">Book of Homilies</hi> (of which a short specimen is
+                given below) is considered the oldest of all. About contemporary with this is the
+                oldest part of an inventory entitled <hi rend="italic">Reykjaholts máldage.</hi>
+                From about 1200 we possess a fragment (Cod. Reg. old sign. 1812) of the only
+                existing Old Icelandic <hi rend="italic">glossary, </hi>and from the first years of
+                the 13th century the <hi rend="italic">Stockholm Book of Homilies</hi> (Cod. Holm.
+                15, 4to), which from a philological point of view is of the greatest importance,
+                chiefly on account of its very accurate orthography, which is especially noticeable
+                in the indication of quantity; from the early part of the same century comes the
+                fragment (Cod. AM. 325, 2, 4to) entitled <hi rend="italic">Agrip</hi> (“abridgment”
+                of the history of Norway), probably a copy of a Norwegian original, also
+                orthographically important. Among later manuscripts we may mention, as
+                philologically interesting, the <hi rend="italic">Annales Regii</hi> (Cod. Reg.
+                2087) from the beginning of the 14th century, orthographically of great value; the
+                rich manuscript of miscellanies, <hi rend="italic">Hauksbók</hi> (Codd. AM. 371,
+                544, 675, 4to), a great part of which is written with Haukr Erlendsson’s (+1334) own
+                hand; and, above all, three short essays, in which some Icelanders have tried to
+                write a grammatical and orthographical treatise on their own mother-tongue, all
+                three appearing as an appendix to the manuscripts of the <hi rend="italic">Prose
+                    Edda. </hi>The oldest and most important of these essays (preserved in the Cod.
+                Worm, from about 1330) is by an unknown author of about 1150, and is probably
+                intended to be a continuation of a lost work of the first grammarian of Iceland,
+                Póroddr Rúnameistari (who flourished at the beginning of the 12th century); the
+                second (the oldest known manuscript of which is preserved in the Cod. Ups., c. 1290)
+                is perhaps the work of the famous Snorri Sturloson (+1241); the third (the oldest
+                manuscript in Cod. AM. 748, 4to, of the beginning of the 14th century) is by
+                Snorri’s nephew Ólafr Hvítaskáld (+1259), and is no doubt based partly upon pórodd’s
+                work above mentioned, partly and chiefly upon Priscian and Donatus.@@<hi
+                    rend="superscript">5</hi></p>
+            <p>The oldest form of the Icelandic language is, however, not preserved in the
+                above-mentioned earliest manuscripts of the end of the 12th century, which are
+                written in the language of their own age, but in far later ones of the 13th century,
+                which contain poems by the oldest Icelandic poets, such as the renowned Egill
+                Skallagrimson (about 930) and the unknown authors of the so-called Edda-songs. In
+                spite of the late date of the manuscripts, the metrical form has been the means of
+                preserving a good deal of the ancient language. But, as already remarked, during the
+                10th and 11th centuries this dialect differs but little from Norwegian, though in
+                the 12th this is no longer the case.</p>
+            <p>We may here contrast a specimen of the above-mentioned oldest Icelandic manuscript
+                (from the end of the 12th century) with an almost contemporary Norwegian one (Cod.
+                AM. 619; see below):—</p>
+            <p><hi rend="italic">Icel. —</hi>En pat es vitanda, at allt ma andlega merkiasc oc
+                fyllasc i oss, pat es til kirkio bunings epa pionosto parf at haua, cf ver liuom sva
+                hreinlega at ver sem verper at callasc gops mustere.</p>
+            <p><hi rend="italic">Norw.—</hi>En pat er vitanda, at allt ma andlega merkiasc oc
+                fyllasc i os, pat er til kirkiu bunings eða til pionasto parf at hafa, ef ver lifum
+                sva rseinlega, at ver sein voröir at kallasc guös mysteri.</p>
+            <p><hi rend="italic">Engl. —</hi>And that is to be known that all that is needed for the
+                decoration of the church or the service may, spiritually, be found and imitated
+                within us, if we live so cleanly that we are worthy to be called God’s temple.</p>
+            <p>Apart from the fact that the language is, generally speaking, archaic, we find in the
+                Icelandic text two of the oldest and most essential characteristics of Icelandic as
+                opposed to Norwegian, viz., the more complete vowel assimilation (pionosto, <hi
+                    rend="italic">tyonasto ; cf.</hi> also, <hi rend="italic">e.g., </hi>Icel. <hi
+                    rend="italic">kollokom,</hi> Norw. <hi rend="italic">kallaðum,</hi> we called)
+                and the retention of initial <hi rend="italic">h</hi> before <hi rend="italic">r
+                    (hreinlcga, rasinlega), I,</hi> and <hi rend="italic">n.</hi> other differences,
+                some of which occur at this period, others a little later, are— in Icel. lengthening
+                of <hi rend="italic">a, o, u</hi> before <hi rend="italic">If, Ig, Ik, Im,</hi> and
+                    <hi rend="italic">Ip</hi> (as Icel. <hi rend="italic">halfr,</hi> Norw. and
+                oldest Icel. <hi rend="italic">halfr,</hi> half); later still, also of <hi
+                    rend="italic">a, i,</hi> ii, and <hi rend="italic">y</hi> before <hi
+                    rend="italic">ng</hi> and <hi rend="italic">nk</hi>; Icel. <hi rend="italic"
+                    >di</hi> and <hi rend="italic">ey</hi> for older and (ϕy (as in Icel. <hi
+                    rend="italic">daema, heyra,</hi> Norw. and oldest Icel. <hi rend="italic"
+                    >dϕma,</hi> to deem, <hi rend="italic">hϕyra,</hi> to hear); Icel. termination
+                of 2nd plur. of verbs in -8 (p) or <hi rend="italic">-t,</hi> but Norw. often in <hi
+                    rend="italic">-r</hi> (as Icel. <hi rend="italic">taktið, -t,</hi> Norw. <hi
+                    rend="italic">takir,</hi> you take). These points may be sufficient to
+                characterize the language of the earlier ‘classical” period of Icelandic (about
+                1190-1350). At the middle of the 13th century the written language undergoes
+                material changes, owing in a great measure, no doubt, to the powerful influence of
+                Snorri Sturloson. Thus in unaccented syllables <hi rend="italic">i</hi> now appears
+                for older <hi rend="italic">e,</hi> and <hi rend="italic">u</hi> (at first only when
+                followed by one or more consonants belonging to the same syllable) for <hi
+                    rend="italic">o</hi> ; the passive ends in <hi rend="italic">-z</hi> for <hi
+                    rend="italic">-sk.</hi> The other differences from Norwegian, mentioned above as
+                occurring later, are now completely established. With the beginning of the 14th
+                century there appear several new linguistic phenomena : a <hi rend="italic">u</hi>
+                is inserted between final <hi rend="italic">r</hi> and a preceding consonant (as in
+                    <hi rend="italic">ríkur,</hi> mighty); <hi rend="italic">o</hi> (pronounced as
+                an open <hi rend="italic">o)</hi> passes into <hi rend="italic">ö</hi> (the
+                character <hi rend="italic">ö</hi> was not introduced till the 16th century), or
+                before <hi rend="italic">ng, nk</hi> into <hi rend="italic">au</hi> (as <hi
+                    rend="italic">long, fioll,</hi> pronounced <hi rend="italic">laung, fiöll)</hi>;
+                c before <hi rend="italic">ng, nk</hi> passes into <hi rend="italic">ei</hi>; a
+                little later <hi rend="italic">e</hi> passes into <hi rend="italic">ie,</hi> and the
+                passive changes its termination from -z, oldest <hi rend="italic">-sk,</hi> into <hi
+                    rend="italic">-zt</hi> (or <hi rend="italic">-zst)</hi> (as in <hi rend="italic"
+                    >kallazt,</hi> to be called). The post-classical period of old Icelandic
+                (1350-1530), which is, from a literary point of view, of but little importance,
+                already shows marked differences that are characteristic of Modern Icelandic ; as
+                early as the 15th century we find <hi rend="italic">ddl </hi>for <hi rend="italic"
+                    >ll</hi> and <hi rend="italic">rl</hi> (as <hi rend="italic">falla,</hi>
+                pronounced <hi rend="italic">faddla,</hi> to fall), <hi rend="italic">ddn</hi> for
+                    <hi rend="italic">nn</hi> and <hi rend="italic">rn</hi> (as <hi rend="italic"
+                    >horn,</hi> pron. <hi rend="italic">hoddn,</hi> horn); about the year 1500 <hi
+                    rend="italic">ve</hi> after <hi rend="italic">h </hi>passes into <hi
+                    rend="italic">vo,</hi> in other positions to <hi rend="italic">vo</hi> (as <hi
+                    rend="italic">hvelpr,</hi> pron. <hi rend="italic">xvolpur, </hi>whelp; <hi
+                    rend="italic">kvern,</hi> pron. <hi rend="italic">kvöm,</hi> mill), etc.</p>
+            <p>Although dialectical differences are not altogether wanting, they do not occur to any
+                great extent in the Old Icelandic literary language. Thus, in some manuscripts we
+                find <hi rend="italic">ft</hi> replaced by <hi rend="italic">fst (oft, ofst,</hi>
+                often); in manuscripts from the western part of the island there appears in the 13th
+                and 14th centuries a tendency to change <hi rend="italic">If, rf</hi> into <hi
+                    rend="italic">lb, rb (tolf, tolb,</hi> twelve ; <hi rend="italic">porf,
+                    porb,</hi> want), &amp;c. To what extent the language of Greenland differed from
+                that of Iceland we cannot judge from the few runic monuments which have come down to
+                us from that colony.</p>
+            <p>Apart from the comparatively inconsiderable attempts at a grammatical treatment of
+                old Icelandic in the Middle Ages which we have mentioned above, grammar as a science
+                can only be said to have commenced in the 17 th century. The first grammar, written
+                by the Icelander Runolphus Jonas (+1654), dates from 1651. His contemporary and
+                compatriot Gudmund Andreae (+1654) compiled the first dictionary, which was not,
+                however, edited till 1683 (by the Dane Petrus Resenius, +1688). The first scholars
+                who studied old Icelandic systematically were H. K. Rask (1787-1832), whose works
+                    @@<hi rend="superscript">6</hi> laid the foundation to our knowledge of the
+                language, and his great contemporary Jac. Grimm, in whose <hi rend="italic">Deutsche
+                    Grammatik </hi>(1819 <hi rend="italic">sq.)</hi> particular attention is paid to
+                Icelandic. Those who since the time of Rask and Grimm have principally deserved well
+                of Icelandic grammar are—the ingenious and learned Norwegian P. A. Munch, 1863,
+                    @@<hi rend="superscript">7</hi> to whom we really owe the normalized orthography
+                that has hitherto been most in use in editing Old Icelandic texts; the learned
+                Icelander K. Gíslason, whose works are chiefly devoted to phonetic researches ;
+                    @@<hi rend="superscript">8</hi> the Danish scholars</p>
+            <p>K. J. Lyngby (+1871), the author of an essay @@<hi rend="superscript">9</hi> which is
+                of fundamental importance in Icelandic orthography and phonetics, and</p>
+            <list type="ordered">
+                <item>F. A. Wimmer, who has rendered great services to the study of the etymology.
+                        @@<hi rend="superscript">10</hi> The latest Icelandic grammar is by the
+                    Swede Ad. Noreen. @@<hi rend="superscript">11</hi> As lexicographers the first
+                    rank is held by the</item>
+            </list>
+            <p><hi rend="superscript">@@@1</hi> A complete catalogue of the literature edited
+                hitherto is given by Th. Möbius, <hi rend="italic">Catalogus Librorum Islandicorum
+                    et Noreegicorum AEtatis</hi> Mediae, 1856, and <hi rend="italic">Verzeichnis»
+                    der . . . altisländischen und alt norwegischen . . . von 1855 bis 1879
+                    erschienenen Schriften,</hi> 1880. Compare <hi rend="smallcaps"
+                >Iceland.</hi></p>
+            <p><hi rend="superscript">@@@2</hi> See B. Magndsson Ölsen, <hi rend="italic">Runeme i
+                    den Oldislandske literatur,</hi> 1883.</p>
+            <p><hi rend="superscript">@@@3</hi> See Kr. Kalund, “Islands fortidslevninger" (in <hi
+                    rend="italic">the Aarbϕger for Nordist Oldkyndighed,</hi> 1882).</p>
+            <p><hi rend="superscript">@@@4</hi> An account of all the oldest Icelandic manuscripts
+                (to about 1230) is given by J. Hoffory in the <hi rend="italic">Gott. Gel. Am.,</hi>
+                1884, p. 478 <hi rend="italic">sq.</hi></p>
+            <p><hi rend="superscript">@@@5</hi> A short review of the most important old Icelandic
+                manuscripts (and their editions), classed according to subjects, is given by O.
+                Brenner, <hi rend="italic">Altnordisches Handbuch,</hi> pp. 13 <hi rend="italic"
+                    >sq.</hi> The principal collections of manuscripts are—1, the Arnamagnaean (AM.)
+                in Copenhagen, founded by Ami Magnusson (+ 1730); 2, tile collection of the Royal
+                Library (Reg.) in Copenhagen, founded by Th. Torfaeus (f 1719) and Brynjdlfr
+                Sveinsson (+ 1674); 3, the Delagardian collection (Delag. or Ups.) at Upsala,
+                founded in 1651 by Magnus Gabriel de la Gardie; 4, the Stockholm collection (Holm.),
+                founded by Jón Rugman (in 1662) and Jón Eggertson (in 1682).</p>
+            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">6</hi><hi rend="italic">
+                    E.g., Veiledning til det Islandske sprog,</hi> 1811 ; in a new, much Improved
+                Swedish edition, <hi rend="italic">Anvisning til Isländskan,</hi> 1818.</p>
+            <p><hi rend="superscript">@@@7</hi>
+                <hi rend="italic">Fomswenskans och Fornnorskans sprakbyggnad,</hi> 1849, and (along
+                with C. R. Unger) <hi rend="italic">Norrönasprogets grammatik,</hi> 1847.</p>
+            <p><hi rend="superscript">@@@8</hi> Especially <hi rend="italic">Urn frumparta Islemkrar
+                    tüngu ifornöld,</hi> 1846.</p>
+            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">9</hi><hi rend="italic">
+                    Den Oldnordiske udtale,</hi> 1861. </p>
+            <p><hi rend="superscript">@@@10</hi><hi rend="italic"> Fomnordisk formtära,</hi>
+                1874.</p>
+            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">11</hi>
+                <hi rend="italic">Altisländische und altnorwegische Grammatik unter Berücksichtigung
+                    des Umordischen,</hi> 1884.</p>
+        </body>
+    </text>
+</TEI>
