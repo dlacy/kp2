@@ -1,8 +1,931 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml"><teiHeader><fileDesc><titleStmt><title/><author/></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p>TEI-page files converted by Python to TEI-entry file</p></sourceDesc></fileDesc></teiHeader><text><body><div facs="chi.28490924-1526168109_Page_0681.jpf" type="entry" xml:id="eb07-20-s04-0600-02" xmlns="http://www.tei-c.org/ns/1.0"><p><label>STEAM, ITS DENSITY AND VOLUME AT DIFFERENT TEMPERATURES, AND ITS GENERATION AND CONDENSATION</label>
-.</p><p>57. Having now ascertained the force that may he given to steam by heating water in a confined space, so that we can always obtain any force we desire by raising it to the proper temperature, we have next to enquire what quantity of heat is necessary to produce steam of that temperature and force. The answer to this question is, to determine the quantity of fuel necessary to generate steam of a given power, and direct the economic application of that power.</p><p>The quantity of caloric necessary to transform a given quantity of water into steam of the same temperature, is called the <hi rend="italic">caloric of elasticity</hi> of that substance. The quantity of heat which it will contain at any given temperature is called its <hi rend="italic">capacity</hi> for heat ; and the relation which subsists between the quantity of heat which some well known body, such as water or air, gives out or ac quires, in a given change of temperature, and that which any other substance will give out or acquire in the same circumstances, is called the <hi rend="italic">specific caloric</hi> of that sub stance.</p><p>58. Of the quantity of the caloric of elasticity of any sub stance, of its capacity for containing heat, and of its specific caloric, the <hi rend="italic">thermometer</hi> gives us no information. An instrument for doing so may be called, as a distinction, the <hi rend="italic">calorimeter.</hi> Thus the thermometer measures the in tensity of heat—the calorimeter its quantity.</p><p>If in three several vessels there be contained, at the temperature of 32°, a pound weight of three different fluids, water in one, mercury in the second, and oil in the third ; and if the heat of an alcohol lamp be applied, first of all to the mercury, then to the water, and next to the oil, a thermometer being inserted in each, it will re quire much longer time to heat the water to 212° of the thermometer than the mercury, twenty-five times as much alcohol being burnt in the process ; whereas the oil will be wanned to the same temperature on the thermo meter, by half the quantity of calorie which is necessary to heat the water to 212°. Therefore, the capacity of water for heat is said to be twenty-five times as great as that of mercury, and twice as great as the capacity of oil ; and the specific heats of these substances, in relation to water, are thus represented :</p><p>Water, 1.000; oil, 0.520; mercury, 0.040 nearly.</p><p>If, instead of taking equal weights of these substances, wo had filled equal vessels with them, and then applied the quantity of water necessary to heat them to equal temperatures, we should have had the capacities and specific heat of equal volumes, instead of equal masses as formerly ; and it would have been found, that the quantity of alcohol required to heat them to the same temperature, was only half as much for the mercury as the water, and greater for the water than the oil, in the proportion of 20 to 9 ; showing that the capacity of water was still the</p><p>greatest, and that the specific caloric, in equal volumes of these substances, are nearly</p><p>Water, 1.000 ; oil, 0.450; mercury, 0.550.</p><p>The capacities for heat, and the specific caloric of different substances, may be determined by cooling as well as heating them. An ounce of ice thrown upon a pound of mercury will cool it or an equal weight of oil much more than water ; and, in general, the quantity of ice, or of cold water, or of cold air, or any other fluid required to cool a body, will exactly correspond to the quantity of caloric required to heat it to the same degree of temperature. A calorimeter measures the quantity of ice which must be melted in cooling different substances, and is de scribed in our article “ <hi rend="smallcaps">Ηεατ.”</hi> The following are the results of such of the most valuable experiments upon this subject as are appropriate to our present enquiry :</p><p>Table of the specific Calorie in different substances.</p><table> <row> <cell/> <cell>Equal</cell> <cell>Equal</cell> <cell/> </row> <row> <cell/> <cell>Weights.</cell> <cell>Volumes.</cell> <cell/> </row> <row> <cell>Water, ....</cell> <cell>1.000</cell> <cell>1.000</cell> <cell/> </row> <row> <cell>Mercury, ....</cell> <cell>0.033</cell> <cell cols="2">0.470 Dulong and Petit.</cell> </row> <row> <cell>Alcohol, ....</cell> <cell>0.700</cell> <cell>0.570 Dalton.</cell> <cell/> </row> <row> <cell>Sulphuric ether, .</cell> <cell>0.660</cell> <cell>0.500 Dalton.</cell> <cell/> </row> <row> <cell>Spermaceti oil,</cell> <cell>0.520</cell> <cell>0.450 Dalton.</cell> <cell/> </row> <row> <cell>Olive oil, ....</cell> <cell>0.309</cell> <cell cols="2"/> </row> <row> <cell>Sulphuric acid,</cell> <cell>0.350</cell> <cell>0.650 Dalton.</cell> <cell/> </row> <row> <cell>Nitric acid, . . .</cell> <cell>0.620</cell> <cell>0.870 Dalton.</cell> <cell/> </row> <row> <cell>Muriatic acid, . .</cell> <cell>0.600</cell> <cell>0.700 Dalton.</cell> <cell/> </row> <row> <cell>Sol. of salt (1.197)</cell> <cell>0.780</cell> <cell>0.930 Dalton.</cell> <cell/> </row> <row> <cell cols="2">Sol. of sugar (1.117) 0.770</cell> <cell>0.900 Dalton.</cell> <cell/> </row> <row> <cell>Ice,</cell> <cell>0.900</cell> <cell>0.830 Dalton.</cell> <cell/> </row> <row> <cell>Coal,</cell> <cell>0.280</cell> <cell>0.360 Dalton.</cell> <cell/> </row> <row> <cell>Flint glass, . . .</cell> <cell>0.190</cell> <cell>0.550 Dalton.</cell> <cell/> </row> <row> <cell>Iron,</cell> <cell>0.110</cell> <cell cols="2">0.880 Dulong and Petit.</cell> </row> <row> <cell>Copper, . . . .</cell> <cell>0.095</cell> <cell cols="2">0.850 Dulong and Petit.</cell> </row> <row> <cell>Lead, . . . . .</cell> <cell>0.040</cell> <cell>0.450 Dalton.</cell> <cell/> </row> <row> <cell>Tin,</cell> <cell>0.070</cell> <cell>0.510 Dalton.</cell> <cell/> </row> <row> <cell>Zine,</cell> <cell>0.100</cell> <cell>0.690 Dalton.</cell> <cell/> </row> <row> <cell>Silver</cell> <cell>0.055</cell> <cell cols="2">Dulong and Petit.</cell> </row> <row> <cell>Gold,</cell> <cell>0.029</cell> <cell cols="2">Dulong and Petit.</cell> </row> <row> <cell>Platina, . . . .</cell> <cell>0.335</cell> <cell cols="2">Dulong and Petit.</cell> </row> <row> <cell>Atmospheric air,</cell> <cell cols="2">. . 0.267 1.000* 1.000*</cell> <cell/> </row> <row> <cell>Hydrogen gas, .</cell> <cell cols="2">. . 3.294 12.340 8.903</cell> <cell/> </row> <row> <cell>Oxygen gas. . .</cell> <cell cols="2">. . 0.236 0.885 0.976</cell> <cell/> </row> <row> <cell>Nitrogen gas,</cell> <cell cols="2">. . 0.275 1.032 1.000</cell> <cell/> </row> <row> <cell>Nitrous oxide gas,</cell> <cell cols="2">. . 0.237 0.888 1.350</cell> <cell/> </row> <row> <cell>Olefiant gas, . .</cell> <cell cols="2">. . 0.420 1.576 1.553</cell> <cell/> </row> <row> <cell>Carbonic oxide gas,</cell> <cell cols="2">. 0.288 1.080 1.034</cell> <cell/> </row> <row> <cell>Carbonic acid gas,</cell> <cell cols="2">. . 0.221 0.828 1.258</cell> <cell/> </row> </table><p>69. Besides the capacity of different bodies for heat, and the specific heat of each at given temperatures, there is another condition of heat still more striking, and of which the thermometer gives no indication. It is this : that the same substance, at different times, may contain different quantities of caloric, and yet the thermometer in both cases give the same indication of temperature. Ice at 32°, which is in the process of melting, and while its bulk is diminishing by one-tenth part, receives as much caloric as would raise its temperature, when melted, to 172°; and after having received it all, remains still at the same temperature as before, indicating 32° on the thermo meter. In like manner, when the particles of the water have acquired so much sensible heat os to raise its temperature to 212°, it may receive as much more heat as would have raised its temperature 950° or 960°, if it had continued to be shown by the thermometer; but the water now assuming the state of steam, the thermometer indicates no accession, but remains in the water or in the steam still at the temperature of 212°. In these two conditions, there</p><p>* In these two columns air is assumed as unity, the first being the specific heat under equal weights, and tile second under equal volumes.<pb facs="chi.28490924-1526168109_Page_0682.jpf" xml:id="eb07-20-s04-0601"/>
-fore, when the particles of ice are leaving the solid and taking the liquid form, and again passing out of the liquid into the vaporous state, a large accession of caloric passes into the substance without being detected by the thermo meter ; this heat, <hi rend="italic">insensible</hi> to the thermometer, and manifested only by the calorimeter, is called LATENT HEAT. The doctrine of latent heat was discovered by Dr Black.</p><p>The quantity of heat thus latent in the mass of a solid, when it assumes the liquid state, is called the <hi rend="italic">caloric of fluidity.</hi> The latent caloric of a liquid passing into va pour is called the caloric of elasticity or vaporization.</p><p>Caloric of Fluidity. Caloric of Vaporization.</p><p>Sulphur, . . 144° Water, . . 967°</p><p>Spermaceti, . 145 Alcohol, . , 442</p><p>Lead, . . 162 Ether, , . 302</p><p>Bees’ wax, . . 175 Petroleum, . . 178</p><p>Zinc, . , . 493 Oil of turpentine, 178</p><p>Tin, . ∙ ∙ 500 Nitric acid, . 532</p><p>Bismuth, . . 550 Liquid ammonia, 837</p><p>Ice, . . . 140 Vinegar, . . 875</p><p>60. The determination of the latent heat of ordinary steam is a problem of considerable practical difficulty. It may be obtained rudely by very simple contrivances. If a lamp, which burns with tolerable uniformity, be applied to a vessel containing cold water, at the temperature of 32°, so long as to heat it to 212°, the boiling point, and if the lamp be then weighed and the consumption of oil ascertained by the loss of weight ; and if the lamp be still applied to the boiling water so as to keep it constantly in ebullition until the whole has been converted into steam ; the steam passing off at the same temperature as the water, it will be found, when the whole water has been boiled away, or converted into steam, that 6 times as much oil has been consumed, or that 6 times as much heat has been employed in the conversion of the water into steam as was required formerly to heat the water from 32° to 212°, or to give it 180° of temperature ; so that 6 times 180° or 1080°, will appear to have been absorbed or carried off in the steam of 212°—that is, the latent heat of steam is 1080°.</p><p>Otherwise, the same determination may be obtained, if the steam, when passing off from the boiling water, be led carefully in a pipe to a vessel of cold water, so as to take from it the heat which it has thus carried off ; if the water to which the heat of the steam is given out be at a temperature of 32° and of 6 times the quantity of the water from which the steam was formed, the whole of it will be heated by the caloric of the steam to 212°, showing that the quantity of caloric of the steam amounts to what gives 180° to 6 times the quantity of water ; giving, as formerly, 6 times 180° or 1080° ns the amount of the latent heat of the steam.</p><p>It is to Mr Watt that we owe the earliest determination of the latent heat of steam. Dr Black endeavoured to ascertain this point by the first of the methods we have pointed out, by comparing the time of raising the temperature of water a certain number of degrees, with the time of boiling it off a certain number of degrees ; but his result was not correct, being only 800° Mr Watt’s result for the latent heat of steam was 1006° 79.</p><p>Mr Southern’s experiments were made in 1803 ; and he was assisted in them by Mr William Creighton, and communicated them to Mr Watt for an appendix to this article. He obtained the number 950°. The thermometers employ ed in his experiments were made and graduated with the greatest care, the tubes having been accurately measured as to the proportional capacity of their different parts.</p><p>A similar series of experiments was afterwards made by M. Schmidt, who determined the heat latent in steam to be about 5.33 times that necessary to heat water from 32° to 212° = 5.33 times 180 <hi rend="superscript"> o</hi> or 960 nearly.</p><p>Count Rumford determined the latent heat of steam by condensing it in a calorimeter formed by pushing a long spiral steam pipe through a vessel of cold water, by which he obtained 1040.8 as the latent heat of steam of water.</p><p>M. Despretz in the <hi rend="italic">Annales de Chimie et Physique,</hi> gives 955.8° as the result of his experiments on the latent heat of steam.</p><p>Lavoisier and Laplace make the latent heat of steam 1000. <hi rend="superscript"> o</hi></p><p>From the experiments of Gay Lussac and of MM. Clement and Desormes, the number 990° is generally used by the French to represent the latent heat of steam. The diversity of the results obtained from experiments made by so many excellent experimenters, with so much precaution, is remarkable—to eliminate from them the precise truth with certainty is not within our present resources of analysis. There is high probability in favour of the numbers 990. or 1000., as representing nearly enough the latent heat of steam, being 5.555 times the caloric of boiling water, its whole caloric reckoned from 32° being 6.666 times that of boiling water.</p><p>61. A doctrine of great simplicity is now pretty gene rally held as expressing with an accuracy quite within the limits of experimental precision, the result of our knowledge of the heat latent in steam. It is found that in steam of great elasticity and of corresponding high temperature, the heat latent is in quantity less ; and that, on the contrary, when steam is of lower elastic force and of lower temperature that at 212°, its latent heat is greater than at 212°. And it appears that we are warranted in the conclusion first suggested by Mr Watt and afterwards by Dr Dalton, that the whole amount of caloric in a given quantity of elastic vapour remains the same at all temperatures and under all pressures. When the volume of the vapour is great the greater is its capacity and the less its temperature ; while, by compressing it into smaller space, its elasticity is encreased and its temperature raised. The doctrine is thus expressed, <hi rend="italic">that the sum of the sensible and latent heat of vapour is a constant quantity.</hi> M. Despretz has extended this to the vapours of several other fluids.</p><p>There is another expression for the law of the constitutional heat of the vapour, which is, in the language of the Atomic Theory, <hi rend="italic">that every atom of a fluid in the state of vapour possesses, under every degree of elasticity and pressure, the same quantity of caloric.</hi> This doctrine leads to very important consequences both of a theoretical and practical nature.</p><p>It follows immediately from this doctrine, that if a quantity of vapour have once been formed by adding to the liquid the quantity of caloric necessary to the constitution of the vapour, the same particles of matter surrounded by the same spheres of caloric may pass through all gradations of density, and through all gradations of tempera ture, without either parting with caloric or obtaining fresh supplies. Vapour of the temperature of 212°, ns it rises from water boiling in the open air, may he collected in a vessel and compressed by the force of 30 inches of mercury into half, its bulk, it will become steam of a higher temperature,, viz., 250° from the increased quantity of caloric in the diminished volume, and in this case the latent heat will only be 970° instead of 1000°. If corn pressed still further into again one half of that bulk, the temperature will rise to 292°, and leave only 920° latent. Compressed still further into half of the lastmentioned space, that is into <hi rend="superscript"> 1</hi> / <hi rend="subscript"> 8</hi> of its original bulk, the temperature is raised to 339°, leaving only 873° latent; and another step would raise the temperature to 392°, leaving only 820° latent ; less than seven steps more would bring the steam into less than its original bulk of water, with a temperature of between 900° and 1000° of sensible heat, and<pb facs="chi.28490924-1526168109_Page_0683.jpf" xml:id="eb07-20-s04-0602"/>
-an amount of latent heat not much greater than its original proportion of sensible heat, or 212°. In this case, we should have steam as heavy as water and as hot as flame.</p><p>If, on the contrary, this process were reversed, and the steam produced at 212° under the pressure of an atmo sphere permitted to expand in vacuo to double its bulk, a portion of the sensible heat would become absorbed into the spheres of caloric around the atoms of water, increasing the latent heat by 32°, and diminishing the sensible heat to 180°. The bulk being again doubled, and the steam expanded to four times its original bulk, the temperature would sink to 150°, and three more repetitions of the <hi rend="italic">expansion</hi> would give a vapour of 71° temperature, and 1141° of latent heat.</p><p>This expansion and contraction of the steam, accompanied by diminished temperature, is exactly what would exist if our atmosphere, instead of oxygen and nitrogen, were wholly composed of vapour of water. Suppose the temperature of the ocean to be 1000 , an atmosphere of vapour would be raised of 2000 times the weight of the present atmosphere : the under part of this atmosphere, compressed by the superincumbent weight, would be of great density, but in ascending, the diminished pressure would be attended with diminished temperature, until at last a cloud of white ice would be seen floating on the surface. Must not the sun, from his intense heat, be a body of this nature, having an atmosphere of enormous depth, on the summit of which the beautifully crystalline and sparkling crust is continually preserved by its diminished temperature in a state of renewed whiteness ?</p><p>62. The specific gravity, density, and volume occupied by steam at different temperatures, have been correctly determined by experiment ; and it has been ascertained that the expansion of vapour follows the law of the expansion of other gases by heat ; viz., the law of Dalton and Gay Lussac, that all gases expand from 1. to 1.375 in bulk, by 180° of temperature, or <hi rend="superscript"> 1</hi> / <hi rend="subscript"> 480</hi> for each degree of Fahrenheit; and, secondly, that steam obeys the law of Boyle and Mariotte, contracting in volume proportionally to pressure. It is first of all necessary to know what bulk a given quantity of water converted into steam will occupy at a given pressure, and the application of these laws will determine the specific gravity, density, and volume at all other pressures and temperatures.</p><p>63. The experiments of Gay Lussac upon this subject are simple, elegant, and satisfactory. His apparatus is as follows :—A chauffer, F, contains burning fuel, by which heat is communicated to B C, a bath of mercury. A spherule A, of thin glass, hermetically closed, contains a given weight of water. G is a glass tube of considerable diameter, filled with pure dry mercury, and inserted in the bath, after which the spherule, A, containing the water, is allowed to ascend to the top of the mercury, and is then broken by concussion, so that a given quantity of water is thus placed in the Torricellian vacuum at the top of the mercury. By the fuel in F heat is then communicated upwards, by the fluids, to the whole apparatus, and to the water in the summit of the tube G; and the mercury descends until the whole of the water is converted into steam, after which it ceases to descend in the same rapid proportion to the increase of tempera ture. This change shows that the whole of the water is evaporated, and the heat must again be allowed gradually to diminish, until the depression of the mercury corresponds to the temperature indicated in our table of Elastic</p><p>Force. The capacity of the tube, G, is shown by divisions on its surface previously fixed, and the height of the mercurial column by a graduated rule and vernier <hi rend="italic">r</hi> r, supported on the edge of the bath. The thermometers, A <hi rend="italic">h,</hi> indicate the temperature of the fluids.</p><p>By means of this apparatus, Gay Lussac has determined the specific gravity of steam, to be .625, air being 1000.; that is to say, steam from boiling water is lighter than common air in the proportion of 5. to 8.</p><p>64. Dr Dalton’s recent experiments make the weight of a cubic foot of air at 60° = 535.68 grains ; therefore a cubic foot of common steam weighs 334.8 grains at 60°, under a pressure of 30 inches of mercury; but as this pressure would convert it into water, the true weight will be found, by the law of Mariotte, thus :</p><p>30 in. : .065 : : 334.8 : 7254</p><p>the true weight, in grains, of a cubic foot of steam at, 60°, and under the former pressure due to its own elasticity in vacuo ; but if we wish to know the weight of a cubic foot of steam at 212°, we must use the Iaw of Gay Lussac and Dalton, thus :</p><p><hi rend="superscript"> (212°-60°) or 152°</hi> / <hi rend="subscript"> 480</hi> + 1 : 1 : : 334.8 : 254.3</p><p>254.3 grains is, therefore, the weight of a cubic foot of steam, as it passes off from water boiling in the air at 212°.</p><p>But the weight of one cubic inch of water at 60° is 253 grains ; therefore, the weight of a cubic inch of water at 60° is almost exactly equal to one cubic foot, or 1728 cubic inches, of steam.</p><p>Hence we find, that the particles of water, when they form steam, are so much repelled by their spheres of ca 1oric, as to be kept at twelve times their original distance from each other ; that, in this gaseous state, water is 1728 times rarer than when liquid ; and that one gallon of wa ter, with the requisite supply of caloric, will make 1728 gallons of steam.</p><p>65. The source from which caloric is obtained for the conversion of water into steam, is either the heat of the sun, the central heat of the earth, or of artificial fires. It is upon the intensity and quantity of this heat that the elastic force, temperature, density, and volume of the steam obtained for any particular purpose must depend ; and it is therefore an important point to determine how it is to be obtained.</p><p>The most important and common sources of heat for the production of steam, are the combustion of coal, char coal, wood, resin, and oil. Many experiments have been made upon the quantities of caloric given out during their combustion ; but the results vary much with the methods of applying the heat. The six following are some of the results of Dr Dalton’s experiments ; the rest are selected from the best authorities :</p><p>One lb. of Hydrogen, burnt with 7 lbs. oxygen, produces</p><p>8 lbs. of water, and raises 250 lbs. of water 180°. Charcoal, 2.8 3.8 carbon, acid, 31 lbs.</p><p>Oil, wax, tallow, 3.5 4.5 water and carb, ac., 81</p><p>Oil of turpentine, 46.4</p><p>Carburettedhydrogen,4. 5. water and carb. ac. 66 Olefiant gas, 35 4.5 water and carb. ac.67</p><p>Naphtha, 3.20 73</p><p>Rape oil, 90</p><p>Caking coal, 54</p><p>Olive oil, 76</p><p>Charcoal, 57</p><p>Coke, 51</p><p>Peat, 22</p><p>Newcastle coal, 55.5</p><p>Culm, 11</p><p>The numbers in the last column represent the number of pounds of water at 32°, which will be heated to 212°, when the fuel is applied in the most economical manner ; and hence the quantity of fuel to heat any other quantity<pb facs="chi.28490924-1526168109_Page_0684.jpf" xml:id="eb07-20-s04-0603"/>
-of water any number of degrees, can be found by the common arithmetical rules of proportion.</p><p>The quantity of water at 212°, which will be converted into steam, may be found, by dividing the number of pounds of water in the table by 5.55. Thus, from the table—</p><p>1 lb. of Newcastle coal gives 180° to 55.5 lbs. of water. Therefore, 1 lb. of Newcastle coal converts into steam, } <hi rend="superscript"> 55.5</hi> / <hi rend="subscript"> 5.5</hi> = 10lbs. of water</p><p>This is to be taken as the effect that may be produced if there be no material loss of heat ; and in the Cornish engines I find that even 10.5 lbs. are actually accomplished.</p><p>In general, however, for the purposes of ordinary manufactures, in Lancashire, Staffordshire, and the vicinity of London, it appears that not more than 6.6 lbs. of water are converted into steam by one pound of coal ; so that not more than 33.8 lbs. of water are heated with ordinary boilers from 32° to 212°. The following table may be taken as the numbers usually given to represent the actual state of practice. But a late investigation by Mr Parkes shows, that in the best constructions of boilers now used in Cornwall, Warwickshire, and elsewhere, these effects are nearly doubled :</p><p>1 lb. of the best coal is generally required to heat</p><p>33.3 lbs. of water from 32° to 212°.</p><p>1 lb 6.6 lbs. of water at 212° into steam.</p><p>and 1 lb 5.5 lbs. of water at 32° into steam.</p><p>2 lbs. nearly one cubic foot of water from 32° to</p><p>212</p><p>11 lbs. nearly one cubic foot of water at 212° into</p><p>steam.</p><p>13 lbs. nearly one cubic foot of water at 32° into</p><p>steam.</p><p>Now, as a gallon contains ten pounds of water, it follows that</p><p>1 lb. of coal will raise 3½ gallons of water from 32° to the boiling point.</p><p>5 lbs. of coal will convert 3 <hi rend="superscript"> 1</hi> / <hi rend="subscript"> 3</hi> gallons of water at 212° into steam.</p><p>6 lbs. of coal will convert 3 <hi rend="superscript"> 1</hi> / <hi rend="subscript"> 3</hi> gallons of water at 32° into steam.</p><p>We have given these approximate numbers for practical use, in the application of steam to some of the ordinary purposes and processes of art and domestic use, upon which we are about to enter ; and they are such as may, with very ordinary care, be safely calculated on. But for a full exposition of the processes, and principles, and mechanical arrangements connected with the best methods of generating steam from fuel, we must refer to the article " <hi rend="smallcaps">Steam-Engine</hi> ” where the generation and condensation of steam find their most important uses.</p><p>It may perhaps be proper to remark, that a boiler, which is there called a boiler of one, two, or three horses’ power, is one which is capable of raising one, two, or three cubic feet of water into steam in an hour. Whatever, therefore, be the application for which steam is wanted, if twenty cubic feet of water per hour are required to be converted into steam, a twenty horsepower boiler is that</p><p>Dr Dalton’s Table of the Density of Air and Steam.</p><table> <row> <cell cols="12">100 cubical inches of air under 30 in Barom. and 60° Fahrenheit, being 31 grs.</cell> </row> <row> <cell><p>Tempe</p><p>rature.</p></cell> <cell>Vol. Air. under 30 in.</cell> <cell>Weight of 100 cubic inches of steam.</cell> <cell><p>Elasticity</p><p>of steam.</p></cell> <cell>Temperature.</cell> <cell>Vol. Air. under 30 in.</cell> <cell>Weight of 100 cubic inches of steam.</cell> <cell>Elasticity of steam.</cell> <cell><p>Tempe</p><p>rature.</p></cell> <cell>Vol. Air. under 30 in.</cell> <cell><p>Weight of 100 cubic inches</p><p>of steam.</p></cell> <cell>Elasticity of steam.</cell> </row> <row> <cell><p>Fahr</p><p>32°</p></cell> <cell>480</cell> <cell>.178 grs.</cell> <cell>0.26</cell> <cell><p>Fahr.</p><p>48°</p></cell> <cell>496</cell> <cell>.303 grs.</cell> <cell>0.46</cell> <cell><p>Fahr..</p><p>64°</p></cell> <cell>512</cell> <cell>.468</cell> <cell>0.73</cell> </row> <row> <cell>34</cell> <cell>482</cell> <cell>.191</cell> <cell>0.28</cell> <cell>50</cell> <cell>498</cell> <cell>.323</cell> <cell>0.49</cell> <cell>66</cell> <cell>514</cell> <cell>.492</cell> <cell>0.77</cell> </row> <row> <cell>36</cell> <cell>484</cell> <cell>.203</cell> <cell>0.30</cell> <cell>5?</cell> <cell>500</cell> <cell>.341</cell> <cell>0.52</cell> <cell>68</cell> <cell>516</cell> <cell>.521</cell> <cell>0.82</cell> </row> <row> <cell>38</cell> <cell>486</cell> <cell>.206</cell> <cell>0.32</cell> <cell>54</cell> <cell>502</cell> <cell>.366</cell> <cell>0.56</cell> <cell>70</cell> <cell>518</cell> <cell>.551</cell> <cell>0.87</cell> </row> <row> <cell>40</cell> <cell>488</cell> <cell>229</cell> <cell>0.34</cell> <cell>56</cell> <cell>504</cell> <cell>.384</cell> <cell>0.59</cell> <cell>72</cell> <cell>520</cell> <cell>.560</cell> <cell>0.92</cell> </row> <row> <cell>42</cell> <cell>490</cell> <cell>.245</cell> <cell>0.37</cell> <cell>58</cell> <cell>506</cell> <cell>.402</cell> <cell>0.62</cell> <cell>74</cell> <cell>522</cell> <cell>.610</cell> <cell>0.97</cell> </row> <row> <cell>44</cell> <cell>492</cell> <cell>.267</cell> <cell>0.40</cell> <cell>60</cell> <cell>508</cell> <cell>.420</cell> <cell>0.65</cell> <cell>76</cell> <cell>524</cell> <cell>.645</cell> <cell>1.03</cell> </row> <row> <cell>46</cell> <cell>494</cell> <cell>.284</cell> <cell>0.43</cell> <cell>62</cell> <cell>510</cell> <cell>.444</cell> <cell>0.69</cell> <cell>78</cell> <cell>526</cell> <cell>.680</cell> <cell>1.09</cell> </row> <row> <cell/> <cell/> <cell/> <cell/> <cell/> <cell/> <cell/> <cell/> <cell>80</cell> <cell>528</cell> <cell>.721</cell> <cell>1.16</cell> </row> </table><p>Gay Lussαc's Table of the Density and Volume of Steam.</p><table> <row> <cell cols="12">Water at 32° being the unit of Density and Volume.</cell> </row> <row> <cell>Temp</cell> <cell>Density.</cell> <cell>Volume</cell> <cell>Temperat.</cell> <cell>Density</cell> <cell>Vol.</cell> <cell>Temperat.</cell> <cell>Density.</cell> <cell>Vol.</cell> <cell>Temperat.</cell> <cell>Density</cell> <cell>Volume.</cell> </row> <row> <cell>Fah. cent. 32.° 0°</cell> <cell>0.00000540</cell> <cell>182323</cell> <cell>Fah. cent. 89.6° 32°</cell> <cell>000003263</cell> <cell>30650</cell> <cell>Fahr. cent. 147.2° 64°</cell> <cell>0.00015010</cell> <cell>6662</cell> <cell><p>Fah. cent.</p><p>204.8° 96°</p></cell> <cell>0.00051613</cell> <cell>1938</cell> </row> <row> <cell>35.6 2</cell> <cell>609</cell> <cell>164332</cell> <cell>93.2 34</cell> <cell>3619</cell> <cell>27636</cell> <cell>150.8 66</cell> <cell>16356</cell> <cell>6114</cell> <cell>208.4 98</cell> <cell>65191</cell> <cell>1812</cell> </row> <row> <cell>39.2 4</cell> <cell>686</cell> <cell>145886</cell> <cell>96.8 36</cell> <cell>4017</cell> <cell>24897</cell> <cell>154.4 68</cell> <cell>17797</cell> <cell>5619</cell> <cell>212. 100</cell> <cell>58955</cell> <cell>1696</cell> </row> <row> <cell>42.8 6</cell> <cell>772</cell> <cell>129587</cell> <cell>100.4 38</cell> <cell>4442</cell> <cell>22513</cell> <cell>158. 70</cell> <cell>19355</cell> <cell>5167</cell> <cell>2505 121.4</cell> <cell>0.0011147</cell> <cell>897.09</cell> </row> <row> <cell>46.4 8</cell> <cell>869</cell> <cell>115305</cell> <cell>104. 40</cell> <cell>4910</cell> <cell>20343</cell> <cell>101.6 72</cell> <cell>21013</cell> <cell>4759</cell> <cell>275 2 135.1</cell> <cell>16150</cell> <cell>61919</cell> </row> <row> <cell>50.0 10</cell> <cell>974</cell> <cell>102670</cell> <cell>107.6 42</cell> <cell>5418</cell> <cell>18659</cell> <cell>1652 74</cell> <cell>22794</cell> <cell>4387</cell> <cell>293.7 145 4</cell> <cell>20997</cell> <cell>476.26</cell> </row> <row> <cell>53.6 12</cell> <cell>0.00001092</cell> <cell>91564</cell> <cell>111.2 44</cell> <cell>6023</cell> <cell>16805</cell> <cell>1088 76</cell> <cell>24702</cell> <cell>4048</cell> <cell>30754 153.8</cell> <cell>25763</cell> <cell>388.16</cell> </row> <row> <cell>57.2 14</cell> <cell>1224</cell> <cell>81686</cell> <cell>114.8 46</cell> <cell>6585</cell> <cell>15185</cell> <cell>172.4 78</cell> <cell>26739</cell> <cell>3741</cell> <cell>320.3 160.2</cell> <cell>30402</cell> <cell>328.83</cell> </row> <row> <cell>60.8 16</cell> <cell>1372</cell> <cell>72913</cell> <cell>118.4 48</cell> <cell>7242</cell> <cell>13809</cell> <cell>176. 80</cell> <cell>28889</cell> <cell>3462</cell> <cell>331 9 166.5</cell> <cell>34911</cell> <cell>286.12</cell> </row> <row> <cell>64∙4 18</cell> <cell>1534</cell> <cell>65201</cell> <cell>122. 50</cell> <cell>7970</cell> <cell>12546</cell> <cell>179.0 82</cell> <cell>31195</cell> <cell>3206</cell> <cell>341.7 172 1</cell> <cell>39434</cell> <cell>253 59</cell> </row> <row> <cell>68. 20</cell> <cell>1718</cell> <cell>53224</cell> <cell>125 6 52</cell> <cell>8753</cell> <cell>11424</cell> <cell>183.2 84</cell> <cell>33637</cell> <cell>2973</cell> <cell>358.8 181.6</cell> <cell>48226</cell> <cell>207.36</cell> </row> <row> <cell>71.6 22</cell> <cell>1914</cell> <cell>52260</cell> <cell>129 2 54</cell> <cell>9606</cell> <cell>10410</cell> <cell>186∙8 86</cell> <cell>36237</cell> <cell>2760</cell> <cell>418 4 214.7</cell> <cell>89863</cell> <cell>111.28</cell> </row> <row> <cell>75.2 24</cell> <cell>2133</cell> <cell>46877</cell> <cell>132 8 56</cell> <cell>0.00010525</cell> <cell>0501</cell> <cell>190.4 88</cell> <cell>38984</cell> <cell>2585</cell> <cell>457 1 2362</cell> <cell>0.0129030</cell> <cell>77 50</cell> </row> <row> <cell>78.8 26</cell> <cell>2.176</cell> <cell>42084</cell> <cell>130 4 58</cell> <cell>11523</cell> <cell>8680</cell> <cell>194. 90</cell> <cell>41891</cell> <cell>2387</cell> <cell>478 0 265.9</cell> <cell>203060</cell> <cell>49.315</cell> </row> <row> <cell>82.4 28 86. 30</cell> <cell><p>2643</p><p>2938</p></cell> <cell><p>37838</p><p>34041</p></cell> <cell>140. 60 143.6 62</cell> <cell><p>12599</p><p>13760</p></cell> <cell><p>7937</p><p>7267</p></cell> <cell>197.6 92 201.2 94</cell> <cell><p>44956</p><p>48201</p></cell> <cell><p>2224</p><p>2075</p></cell> <cell/> <cell/> <cell/> </row> </table>
-<pb facs="chi.28490924-1526168109_Page_0685.jpf" xml:id="eb07-20-s04-0604"/>
-<p>which must be procured for the purpose—and of course from 220 to 260 pounds of the best coal will be consumed in that time.</p></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="chi.28490924-1526168109_Page_0681.jpf" type="entry"
+                xml:id="eb07-20-s04-0600-02" xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>STEAM, ITS DENSITY AND VOLUME AT DIFFERENT TEMPERATURES, AND ITS
+                        GENERATION AND CONDENSATION</label> .</p>
+                <p>57. Having now ascertained the force that may he given to steam by heating water
+                    in a confined space, so that we can always obtain any force we desire by raising
+                    it to the proper temperature, we have next to enquire what quantity of heat is
+                    necessary to produce steam of that temperature and force. The answer to this
+                    question is, to determine the quantity of fuel necessary to generate steam of a
+                    given power, and direct the economic application of that power.</p>
+                <p>The quantity of caloric necessary to transform a given quantity of water into
+                    steam of the same temperature, is called the <hi rend="italic">caloric of
+                        elasticity</hi> of that substance. The quantity of heat which it will
+                    contain at any given temperature is called its <hi rend="italic">capacity</hi>
+                    for heat ; and the relation which subsists between the quantity of heat which
+                    some well known body, such as water or air, gives out or ac quires, in a given
+                    change of temperature, and that which any other substance will give out or
+                    acquire in the same circumstances, is called the <hi rend="italic">specific
+                        caloric</hi> of that sub stance.</p>
+                <p>58. Of the quantity of the caloric of elasticity of any sub stance, of its
+                    capacity for containing heat, and of its specific caloric, the <hi rend="italic"
+                        >thermometer</hi> gives us no information. An instrument for doing so may be
+                    called, as a distinction, the <hi rend="italic">calorimeter.</hi> Thus the
+                    thermometer measures the in tensity of heat—the calorimeter its quantity.</p>
+                <p>If in three several vessels there be contained, at the temperature of 32°, a
+                    pound weight of three different fluids, water in one, mercury in the second, and
+                    oil in the third ; and if the heat of an alcohol lamp be applied, first of all
+                    to the mercury, then to the water, and next to the oil, a thermometer being
+                    inserted in each, it will re quire much longer time to heat the water to 212° of
+                    the thermometer than the mercury, twenty-five times as much alcohol being burnt
+                    in the process ; whereas the oil will be wanned to the same temperature on the
+                    thermo meter, by half the quantity of calorie which is necessary to heat the
+                    water to 212°. Therefore, the capacity of water for heat is said to be
+                    twenty-five times as great as that of mercury, and twice as great as the
+                    capacity of oil ; and the specific heats of these substances, in relation to
+                    water, are thus represented :</p>
+                <p>Water, 1.000; oil, 0.520; mercury, 0.040 nearly.</p>
+                <p>If, instead of taking equal weights of these substances, wo had filled equal
+                    vessels with them, and then applied the quantity of water necessary to heat them
+                    to equal temperatures, we should have had the capacities and specific heat of
+                    equal volumes, instead of equal masses as formerly ; and it would have been
+                    found, that the quantity of alcohol required to heat them to the same
+                    temperature, was only half as much for the mercury as the water, and greater for
+                    the water than the oil, in the proportion of 20 to 9 ; showing that the capacity
+                    of water was still the</p>
+                <p>greatest, and that the specific caloric, in equal volumes of these substances,
+                    are nearly</p>
+                <p>Water, 1.000 ; oil, 0.450; mercury, 0.550.</p>
+                <p>The capacities for heat, and the specific caloric of different substances, may be
+                    determined by cooling as well as heating them. An ounce of ice thrown upon a
+                    pound of mercury will cool it or an equal weight of oil much more than water ;
+                    and, in general, the quantity of ice, or of cold water, or of cold air, or any
+                    other fluid required to cool a body, will exactly correspond to the quantity of
+                    caloric required to heat it to the same degree of temperature. A calorimeter
+                    measures the quantity of ice which must be melted in cooling different
+                    substances, and is de scribed in our article “ <hi rend="smallcaps">Ηεατ.”</hi>
+                    The following are the results of such of the most valuable experiments upon this
+                    subject as are appropriate to our present enquiry :</p>
+                <p>Table of the specific Calorie in different substances.</p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Equal</cell>
+                        <cell>Equal</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Weights.</cell>
+                        <cell>Volumes.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Water, ....</cell>
+                        <cell>1.000</cell>
+                        <cell>1.000</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mercury, ....</cell>
+                        <cell>0.033</cell>
+                        <cell cols="2">0.470 Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Alcohol, ....</cell>
+                        <cell>0.700</cell>
+                        <cell>0.570 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sulphuric ether, .</cell>
+                        <cell>0.660</cell>
+                        <cell>0.500 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Spermaceti oil,</cell>
+                        <cell>0.520</cell>
+                        <cell>0.450 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Olive oil, ....</cell>
+                        <cell>0.309</cell>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>Sulphuric acid,</cell>
+                        <cell>0.350</cell>
+                        <cell>0.650 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nitric acid, . . .</cell>
+                        <cell>0.620</cell>
+                        <cell>0.870 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Muriatic acid, . .</cell>
+                        <cell>0.600</cell>
+                        <cell>0.700 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sol. of salt (1.197)</cell>
+                        <cell>0.780</cell>
+                        <cell>0.930 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell cols="2">Sol. of sugar (1.117) 0.770</cell>
+                        <cell>0.900 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ice,</cell>
+                        <cell>0.900</cell>
+                        <cell>0.830 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Coal,</cell>
+                        <cell>0.280</cell>
+                        <cell>0.360 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Flint glass, . . .</cell>
+                        <cell>0.190</cell>
+                        <cell>0.550 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Iron,</cell>
+                        <cell>0.110</cell>
+                        <cell cols="2">0.880 Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Copper, . . . .</cell>
+                        <cell>0.095</cell>
+                        <cell cols="2">0.850 Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Lead, . . . . .</cell>
+                        <cell>0.040</cell>
+                        <cell>0.450 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tin,</cell>
+                        <cell>0.070</cell>
+                        <cell>0.510 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Zine,</cell>
+                        <cell>0.100</cell>
+                        <cell>0.690 Dalton.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Silver</cell>
+                        <cell>0.055</cell>
+                        <cell cols="2">Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Gold,</cell>
+                        <cell>0.029</cell>
+                        <cell cols="2">Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Platina, . . . .</cell>
+                        <cell>0.335</cell>
+                        <cell cols="2">Dulong and Petit.</cell>
+                    </row>
+                    <row>
+                        <cell>Atmospheric air,</cell>
+                        <cell cols="2">. . 0.267 1.000* 1.000*</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hydrogen gas, .</cell>
+                        <cell cols="2">. . 3.294 12.340 8.903</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Oxygen gas. . .</cell>
+                        <cell cols="2">. . 0.236 0.885 0.976</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nitrogen gas,</cell>
+                        <cell cols="2">. . 0.275 1.032 1.000</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nitrous oxide gas,</cell>
+                        <cell cols="2">. . 0.237 0.888 1.350</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Olefiant gas, . .</cell>
+                        <cell cols="2">. . 0.420 1.576 1.553</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Carbonic oxide gas,</cell>
+                        <cell cols="2">. 0.288 1.080 1.034</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Carbonic acid gas,</cell>
+                        <cell cols="2">. . 0.221 0.828 1.258</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>69. Besides the capacity of different bodies for heat, and the specific heat of
+                    each at given temperatures, there is another condition of heat still more
+                    striking, and of which the thermometer gives no indication. It is this : that
+                    the same substance, at different times, may contain different quantities of
+                    caloric, and yet the thermometer in both cases give the same indication of
+                    temperature. Ice at 32°, which is in the process of melting, and while its bulk
+                    is diminishing by one-tenth part, receives as much caloric as would raise its
+                    temperature, when melted, to 172°; and after having received it all, remains
+                    still at the same temperature as before, indicating 32° on the thermo meter. In
+                    like manner, when the particles of the water have acquired so much sensible heat
+                    os to raise its temperature to 212°, it may receive as much more heat as would
+                    have raised its temperature 950° or 960°, if it had continued to be shown by the
+                    thermometer; but the water now assuming the state of steam, the thermometer
+                    indicates no accession, but remains in the water or in the steam still at the
+                    temperature of 212°. In these two conditions, there</p>
+                <p>* In these two columns air is assumed as unity, the first being the specific heat
+                    under equal weights, and tile second under equal volumes.<pb
+                        facs="chi.28490924-1526168109_Page_0682.jpf" xml:id="eb07-20-s04-0601"/>
+                    fore, when the particles of ice are leaving the solid and taking the liquid
+                    form, and again passing out of the liquid into the vaporous state, a large
+                    accession of caloric passes into the substance without being detected by the
+                    thermo meter ; this heat, <hi rend="italic">insensible</hi> to the thermometer,
+                    and manifested only by the calorimeter, is called LATENT HEAT. The doctrine of
+                    latent heat was discovered by Dr Black.</p>
+                <p>The quantity of heat thus latent in the mass of a solid, when it assumes the
+                    liquid state, is called the <hi rend="italic">caloric of fluidity.</hi> The
+                    latent caloric of a liquid passing into va pour is called the caloric of
+                    elasticity or vaporization.</p>
+                <p>Caloric of Fluidity. Caloric of Vaporization.</p>
+                <p>Sulphur, . . 144° Water, . . 967°</p>
+                <p>Spermaceti, . 145 Alcohol, . , 442</p>
+                <p>Lead, . . 162 Ether, , . 302</p>
+                <p>Bees’ wax, . . 175 Petroleum, . . 178</p>
+                <p>Zinc, . , . 493 Oil of turpentine, 178</p>
+                <p>Tin, . ∙ ∙ 500 Nitric acid, . 532</p>
+                <p>Bismuth, . . 550 Liquid ammonia, 837</p>
+                <p>Ice, . . . 140 Vinegar, . . 875</p>
+                <p>60. The determination of the latent heat of ordinary steam is a problem of
+                    considerable practical difficulty. It may be obtained rudely by very simple
+                    contrivances. If a lamp, which burns with tolerable uniformity, be applied to a
+                    vessel containing cold water, at the temperature of 32°, so long as to heat it
+                    to 212°, the boiling point, and if the lamp be then weighed and the consumption
+                    of oil ascertained by the loss of weight ; and if the lamp be still applied to
+                    the boiling water so as to keep it constantly in ebullition until the whole has
+                    been converted into steam ; the steam passing off at the same temperature as the
+                    water, it will be found, when the whole water has been boiled away, or converted
+                    into steam, that 6 times as much oil has been consumed, or that 6 times as much
+                    heat has been employed in the conversion of the water into steam as was required
+                    formerly to heat the water from 32° to 212°, or to give it 180° of temperature ;
+                    so that 6 times 180° or 1080°, will appear to have been absorbed or carried off
+                    in the steam of 212°—that is, the latent heat of steam is 1080°.</p>
+                <p>Otherwise, the same determination may be obtained, if the steam, when passing off
+                    from the boiling water, be led carefully in a pipe to a vessel of cold water, so
+                    as to take from it the heat which it has thus carried off ; if the water to
+                    which the heat of the steam is given out be at a temperature of 32° and of 6
+                    times the quantity of the water from which the steam was formed, the whole of it
+                    will be heated by the caloric of the steam to 212°, showing that the quantity of
+                    caloric of the steam amounts to what gives 180° to 6 times the quantity of water
+                    ; giving, as formerly, 6 times 180° or 1080° ns the amount of the latent heat of
+                    the steam.</p>
+                <p>It is to Mr Watt that we owe the earliest determination of the latent heat of
+                    steam. Dr Black endeavoured to ascertain this point by the first of the methods
+                    we have pointed out, by comparing the time of raising the temperature of water a
+                    certain number of degrees, with the time of boiling it off a certain number of
+                    degrees ; but his result was not correct, being only 800° Mr Watt’s result for
+                    the latent heat of steam was 1006° 79.</p>
+                <p>Mr Southern’s experiments were made in 1803 ; and he was assisted in them by Mr
+                    William Creighton, and communicated them to Mr Watt for an appendix to this
+                    article. He obtained the number 950°. The thermometers employ ed in his
+                    experiments were made and graduated with the greatest care, the tubes having
+                    been accurately measured as to the proportional capacity of their different
+                    parts.</p>
+                <p>A similar series of experiments was afterwards made by M. Schmidt, who determined
+                    the heat latent in steam to be about 5.33 times that necessary to heat water
+                    from 32° to 212° = 5.33 times 180 <hi rend="superscript"> o</hi> or 960
+                    nearly.</p>
+                <p>Count Rumford determined the latent heat of steam by condensing it in a
+                    calorimeter formed by pushing a long spiral steam pipe through a vessel of cold
+                    water, by which he obtained 1040.8 as the latent heat of steam of water.</p>
+                <p>M. Despretz in the <hi rend="italic">Annales de Chimie et Physique,</hi> gives
+                    955.8° as the result of his experiments on the latent heat of steam.</p>
+                <p>Lavoisier and Laplace make the latent heat of steam 1000. <hi rend="superscript">
+                        o</hi></p>
+                <p>From the experiments of Gay Lussac and of MM. Clement and Desormes, the number
+                    990° is generally used by the French to represent the latent heat of steam. The
+                    diversity of the results obtained from experiments made by so many excellent
+                    experimenters, with so much precaution, is remarkable—to eliminate from them the
+                    precise truth with certainty is not within our present resources of analysis.
+                    There is high probability in favour of the numbers 990. or 1000., as
+                    representing nearly enough the latent heat of steam, being 5.555 times the
+                    caloric of boiling water, its whole caloric reckoned from 32° being 6.666 times
+                    that of boiling water.</p>
+                <p>61. A doctrine of great simplicity is now pretty gene rally held as expressing
+                    with an accuracy quite within the limits of experimental precision, the result
+                    of our knowledge of the heat latent in steam. It is found that in steam of great
+                    elasticity and of corresponding high temperature, the heat latent is in quantity
+                    less ; and that, on the contrary, when steam is of lower elastic force and of
+                    lower temperature that at 212°, its latent heat is greater than at 212°. And it
+                    appears that we are warranted in the conclusion first suggested by Mr Watt and
+                    afterwards by Dr Dalton, that the whole amount of caloric in a given quantity of
+                    elastic vapour remains the same at all temperatures and under all pressures.
+                    When the volume of the vapour is great the greater is its capacity and the less
+                    its temperature ; while, by compressing it into smaller space, its elasticity is
+                    encreased and its temperature raised. The doctrine is thus expressed, <hi
+                        rend="italic">that the sum of the sensible and latent heat of vapour is a
+                        constant quantity.</hi> M. Despretz has extended this to the vapours of
+                    several other fluids.</p>
+                <p>There is another expression for the law of the constitutional heat of the vapour,
+                    which is, in the language of the Atomic Theory, <hi rend="italic">that every
+                        atom of a fluid in the state of vapour possesses, under every degree of
+                        elasticity and pressure, the same quantity of caloric.</hi> This doctrine
+                    leads to very important consequences both of a theoretical and practical
+                    nature.</p>
+                <p>It follows immediately from this doctrine, that if a quantity of vapour have once
+                    been formed by adding to the liquid the quantity of caloric necessary to the
+                    constitution of the vapour, the same particles of matter surrounded by the same
+                    spheres of caloric may pass through all gradations of density, and through all
+                    gradations of tempera ture, without either parting with caloric or obtaining
+                    fresh supplies. Vapour of the temperature of 212°, ns it rises from water
+                    boiling in the open air, may he collected in a vessel and compressed by the
+                    force of 30 inches of mercury into half, its bulk, it will become steam of a
+                    higher temperature,, viz., 250° from the increased quantity of caloric in the
+                    diminished volume, and in this case the latent heat will only be 970° instead of
+                    1000°. If corn pressed still further into again one half of that bulk, the
+                    temperature will rise to 292°, and leave only 920° latent. Compressed still
+                    further into half of the lastmentioned space, that is into <hi
+                        rend="superscript"> 1</hi> / <hi rend="subscript"> 8</hi> of its original
+                    bulk, the temperature is raised to 339°, leaving only 873° latent; and another
+                    step would raise the temperature to 392°, leaving only 820° latent ; less than
+                    seven steps more would bring the steam into less than its original bulk of
+                    water, with a temperature of between 900° and 1000° of sensible heat, and<pb
+                        facs="chi.28490924-1526168109_Page_0683.jpf" xml:id="eb07-20-s04-0602"/> an
+                    amount of latent heat not much greater than its original proportion of sensible
+                    heat, or 212°. In this case, we should have steam as heavy as water and as hot
+                    as flame.</p>
+                <p>If, on the contrary, this process were reversed, and the steam produced at 212°
+                    under the pressure of an atmo sphere permitted to expand in vacuo to double its
+                    bulk, a portion of the sensible heat would become absorbed into the spheres of
+                    caloric around the atoms of water, increasing the latent heat by 32°, and
+                    diminishing the sensible heat to 180°. The bulk being again doubled, and the
+                    steam expanded to four times its original bulk, the temperature would sink to
+                    150°, and three more repetitions of the <hi rend="italic">expansion</hi> would
+                    give a vapour of 71° temperature, and 1141° of latent heat.</p>
+                <p>This expansion and contraction of the steam, accompanied by diminished
+                    temperature, is exactly what would exist if our atmosphere, instead of oxygen
+                    and nitrogen, were wholly composed of vapour of water. Suppose the temperature
+                    of the ocean to be 1000 , an atmosphere of vapour would be raised of 2000 times
+                    the weight of the present atmosphere : the under part of this atmosphere,
+                    compressed by the superincumbent weight, would be of great density, but in
+                    ascending, the diminished pressure would be attended with diminished
+                    temperature, until at last a cloud of white ice would be seen floating on the
+                    surface. Must not the sun, from his intense heat, be a body of this nature,
+                    having an atmosphere of enormous depth, on the summit of which the beautifully
+                    crystalline and sparkling crust is continually preserved by its diminished
+                    temperature in a state of renewed whiteness ?</p>
+                <p>62. The specific gravity, density, and volume occupied by steam at different
+                    temperatures, have been correctly determined by experiment ; and it has been
+                    ascertained that the expansion of vapour follows the law of the expansion of
+                    other gases by heat ; viz., the law of Dalton and Gay Lussac, that all gases
+                    expand from 1. to 1.375 in bulk, by 180° of temperature, or <hi
+                        rend="superscript"> 1</hi> / <hi rend="subscript"> 480</hi> for each degree
+                    of Fahrenheit; and, secondly, that steam obeys the law of Boyle and Mariotte,
+                    contracting in volume proportionally to pressure. It is first of all necessary
+                    to know what bulk a given quantity of water converted into steam will occupy at
+                    a given pressure, and the application of these laws will determine the specific
+                    gravity, density, and volume at all other pressures and temperatures.</p>
+                <p>63. The experiments of Gay Lussac upon this subject are simple, elegant, and
+                    satisfactory. His apparatus is as follows :—A chauffer, F, contains burning
+                    fuel, by which heat is communicated to B C, a bath of mercury. A spherule A, of
+                    thin glass, hermetically closed, contains a given weight of water. G is a glass
+                    tube of considerable diameter, filled with pure dry mercury, and inserted in the
+                    bath, after which the spherule, A, containing the water, is allowed to ascend to
+                    the top of the mercury, and is then broken by concussion, so that a given
+                    quantity of water is thus placed in the Torricellian vacuum at the top of the
+                    mercury. By the fuel in F heat is then communicated upwards, by the fluids, to
+                    the whole apparatus, and to the water in the summit of the tube G; and the
+                    mercury descends until the whole of the water is converted into steam, after
+                    which it ceases to descend in the same rapid proportion to the increase of
+                    tempera ture. This change shows that the whole of the water is evaporated, and
+                    the heat must again be allowed gradually to diminish, until the depression of
+                    the mercury corresponds to the temperature indicated in our table of Elastic</p>
+                <p>Force. The capacity of the tube, G, is shown by divisions on its surface
+                    previously fixed, and the height of the mercurial column by a graduated rule and
+                    vernier <hi rend="italic">r</hi> r, supported on the edge of the bath. The
+                    thermometers, A <hi rend="italic">h,</hi> indicate the temperature of the
+                    fluids.</p>
+                <p>By means of this apparatus, Gay Lussac has determined the specific gravity of
+                    steam, to be .625, air being 1000.; that is to say, steam from boiling water is
+                    lighter than common air in the proportion of 5. to 8.</p>
+                <p>64. Dr Dalton’s recent experiments make the weight of a cubic foot of air at 60°
+                    = 535.68 grains ; therefore a cubic foot of common steam weighs 334.8 grains at
+                    60°, under a pressure of 30 inches of mercury; but as this pressure would
+                    convert it into water, the true weight will be found, by the law of Mariotte,
+                    thus :</p>
+                <p>30 in. : .065 : : 334.8 : 7254</p>
+                <p>the true weight, in grains, of a cubic foot of steam at, 60°, and under the
+                    former pressure due to its own elasticity in vacuo ; but if we wish to know the
+                    weight of a cubic foot of steam at 212°, we must use the Iaw of Gay Lussac and
+                    Dalton, thus :</p>
+                <p><hi rend="superscript"> (212°-60°) or 152°</hi> / <hi rend="subscript"> 480</hi>
+                    + 1 : 1 : : 334.8 : 254.3</p>
+                <p>254.3 grains is, therefore, the weight of a cubic foot of steam, as it passes off
+                    from water boiling in the air at 212°.</p>
+                <p>But the weight of one cubic inch of water at 60° is 253 grains ; therefore, the
+                    weight of a cubic inch of water at 60° is almost exactly equal to one cubic
+                    foot, or 1728 cubic inches, of steam.</p>
+                <p>Hence we find, that the particles of water, when they form steam, are so much
+                    repelled by their spheres of ca 1oric, as to be kept at twelve times their
+                    original distance from each other ; that, in this gaseous state, water is 1728
+                    times rarer than when liquid ; and that one gallon of wa ter, with the requisite
+                    supply of caloric, will make 1728 gallons of steam.</p>
+                <p>65. The source from which caloric is obtained for the conversion of water into
+                    steam, is either the heat of the sun, the central heat of the earth, or of
+                    artificial fires. It is upon the intensity and quantity of this heat that the
+                    elastic force, temperature, density, and volume of the steam obtained for any
+                    particular purpose must depend ; and it is therefore an important point to
+                    determine how it is to be obtained.</p>
+                <p>The most important and common sources of heat for the production of steam, are
+                    the combustion of coal, char coal, wood, resin, and oil. Many experiments have
+                    been made upon the quantities of caloric given out during their combustion ; but
+                    the results vary much with the methods of applying the heat. The six following
+                    are some of the results of Dr Dalton’s experiments ; the rest are selected from
+                    the best authorities :</p>
+                <p>One lb. of Hydrogen, burnt with 7 lbs. oxygen, produces</p>
+                <p>8 lbs. of water, and raises 250 lbs. of water 180°. Charcoal, 2.8 3.8 carbon,
+                    acid, 31 lbs.</p>
+                <p>Oil, wax, tallow, 3.5 4.5 water and carb, ac., 81</p>
+                <p>Oil of turpentine, 46.4</p>
+                <p>Carburettedhydrogen,4. 5. water and carb. ac. 66 Olefiant gas, 35 4.5 water and
+                    carb. ac.67</p>
+                <p>Naphtha, 3.20 73</p>
+                <p>Rape oil, 90</p>
+                <p>Caking coal, 54</p>
+                <p>Olive oil, 76</p>
+                <p>Charcoal, 57</p>
+                <p>Coke, 51</p>
+                <p>Peat, 22</p>
+                <p>Newcastle coal, 55.5</p>
+                <p>Culm, 11</p>
+                <p>The numbers in the last column represent the number of pounds of water at 32°,
+                    which will be heated to 212°, when the fuel is applied in the most economical
+                    manner ; and hence the quantity of fuel to heat any other quantity<pb
+                        facs="chi.28490924-1526168109_Page_0684.jpf" xml:id="eb07-20-s04-0603"/> of
+                    water any number of degrees, can be found by the common arithmetical rules of
+                    proportion.</p>
+                <p>The quantity of water at 212°, which will be converted into steam, may be found,
+                    by dividing the number of pounds of water in the table by 5.55. Thus, from the
+                    table—</p>
+                <p>1 lb. of Newcastle coal gives 180° to 55.5 lbs. of water. Therefore, 1 lb. of
+                    Newcastle coal converts into steam, } <hi rend="superscript"> 55.5</hi> / <hi
+                        rend="subscript"> 5.5</hi> = 10lbs. of water</p>
+                <p>This is to be taken as the effect that may be produced if there be no material
+                    loss of heat ; and in the Cornish engines I find that even 10.5 lbs. are
+                    actually accomplished.</p>
+                <p>In general, however, for the purposes of ordinary manufactures, in Lancashire,
+                    Staffordshire, and the vicinity of London, it appears that not more than 6.6
+                    lbs. of water are converted into steam by one pound of coal ; so that not more
+                    than 33.8 lbs. of water are heated with ordinary boilers from 32° to 212°. The
+                    following table may be taken as the numbers usually given to represent the
+                    actual state of practice. But a late investigation by Mr Parkes shows, that in
+                    the best constructions of boilers now used in Cornwall, Warwickshire, and
+                    elsewhere, these effects are nearly doubled :</p>
+                <p>1 lb. of the best coal is generally required to heat</p>
+                <p>33.3 lbs. of water from 32° to 212°.</p>
+                <p>1 lb 6.6 lbs. of water at 212° into steam.</p>
+                <p>and 1 lb 5.5 lbs. of water at 32° into steam.</p>
+                <p>2 lbs. nearly one cubic foot of water from 32° to</p>
+                <p>212</p>
+                <p>11 lbs. nearly one cubic foot of water at 212° into</p>
+                <p>steam.</p>
+                <p>13 lbs. nearly one cubic foot of water at 32° into</p>
+                <p>steam.</p>
+                <p>Now, as a gallon contains ten pounds of water, it follows that</p>
+                <p>1 lb. of coal will raise 3½ gallons of water from 32° to the boiling point.</p>
+                <p>5 lbs. of coal will convert 3 <hi rend="superscript"> 1</hi> / <hi
+                        rend="subscript"> 3</hi> gallons of water at 212° into steam.</p>
+                <p>6 lbs. of coal will convert 3 <hi rend="superscript"> 1</hi> / <hi
+                        rend="subscript"> 3</hi> gallons of water at 32° into steam.</p>
+                <p>We have given these approximate numbers for practical use, in the application of
+                    steam to some of the ordinary purposes and processes of art and domestic use,
+                    upon which we are about to enter ; and they are such as may, with very ordinary
+                    care, be safely calculated on. But for a full exposition of the processes, and
+                    principles, and mechanical arrangements connected with the best methods of
+                    generating steam from fuel, we must refer to the article " <hi rend="smallcaps"
+                        >Steam-Engine</hi> ” where the generation and condensation of steam find
+                    their most important uses.</p>
+                <p>It may perhaps be proper to remark, that a boiler, which is there called a boiler
+                    of one, two, or three horses’ power, is one which is capable of raising one,
+                    two, or three cubic feet of water into steam in an hour. Whatever, therefore, be
+                    the application for which steam is wanted, if twenty cubic feet of water per
+                    hour are required to be converted into steam, a twenty horsepower boiler is
+                    that</p>
+                <p>Dr Dalton’s Table of the Density of Air and Steam.</p>
+                <table>
+                    <row>
+                        <cell cols="12">100 cubical inches of air under 30 in Barom. and 60°
+                            Fahrenheit, being 31 grs.</cell>
+                    </row>
+                    <row>
+                        <cell><p>Tempe</p><p>rature.</p></cell>
+                        <cell>Vol. Air. under 30 in.</cell>
+                        <cell>Weight of 100 cubic inches of steam.</cell>
+                        <cell><p>Elasticity</p><p>of steam.</p></cell>
+                        <cell>Temperature.</cell>
+                        <cell>Vol. Air. under 30 in.</cell>
+                        <cell>Weight of 100 cubic inches of steam.</cell>
+                        <cell>Elasticity of steam.</cell>
+                        <cell><p>Tempe</p><p>rature.</p></cell>
+                        <cell>Vol. Air. under 30 in.</cell>
+                        <cell><p>Weight of 100 cubic inches</p><p>of steam.</p></cell>
+                        <cell>Elasticity of steam.</cell>
+                    </row>
+                    <row>
+                        <cell><p>Fahr</p><p>32°</p></cell>
+                        <cell>480</cell>
+                        <cell>.178 grs.</cell>
+                        <cell>0.26</cell>
+                        <cell><p>Fahr.</p><p>48°</p></cell>
+                        <cell>496</cell>
+                        <cell>.303 grs.</cell>
+                        <cell>0.46</cell>
+                        <cell><p>Fahr..</p><p>64°</p></cell>
+                        <cell>512</cell>
+                        <cell>.468</cell>
+                        <cell>0.73</cell>
+                    </row>
+                    <row>
+                        <cell>34</cell>
+                        <cell>482</cell>
+                        <cell>.191</cell>
+                        <cell>0.28</cell>
+                        <cell>50</cell>
+                        <cell>498</cell>
+                        <cell>.323</cell>
+                        <cell>0.49</cell>
+                        <cell>66</cell>
+                        <cell>514</cell>
+                        <cell>.492</cell>
+                        <cell>0.77</cell>
+                    </row>
+                    <row>
+                        <cell>36</cell>
+                        <cell>484</cell>
+                        <cell>.203</cell>
+                        <cell>0.30</cell>
+                        <cell>5?</cell>
+                        <cell>500</cell>
+                        <cell>.341</cell>
+                        <cell>0.52</cell>
+                        <cell>68</cell>
+                        <cell>516</cell>
+                        <cell>.521</cell>
+                        <cell>0.82</cell>
+                    </row>
+                    <row>
+                        <cell>38</cell>
+                        <cell>486</cell>
+                        <cell>.206</cell>
+                        <cell>0.32</cell>
+                        <cell>54</cell>
+                        <cell>502</cell>
+                        <cell>.366</cell>
+                        <cell>0.56</cell>
+                        <cell>70</cell>
+                        <cell>518</cell>
+                        <cell>.551</cell>
+                        <cell>0.87</cell>
+                    </row>
+                    <row>
+                        <cell>40</cell>
+                        <cell>488</cell>
+                        <cell>229</cell>
+                        <cell>0.34</cell>
+                        <cell>56</cell>
+                        <cell>504</cell>
+                        <cell>.384</cell>
+                        <cell>0.59</cell>
+                        <cell>72</cell>
+                        <cell>520</cell>
+                        <cell>.560</cell>
+                        <cell>0.92</cell>
+                    </row>
+                    <row>
+                        <cell>42</cell>
+                        <cell>490</cell>
+                        <cell>.245</cell>
+                        <cell>0.37</cell>
+                        <cell>58</cell>
+                        <cell>506</cell>
+                        <cell>.402</cell>
+                        <cell>0.62</cell>
+                        <cell>74</cell>
+                        <cell>522</cell>
+                        <cell>.610</cell>
+                        <cell>0.97</cell>
+                    </row>
+                    <row>
+                        <cell>44</cell>
+                        <cell>492</cell>
+                        <cell>.267</cell>
+                        <cell>0.40</cell>
+                        <cell>60</cell>
+                        <cell>508</cell>
+                        <cell>.420</cell>
+                        <cell>0.65</cell>
+                        <cell>76</cell>
+                        <cell>524</cell>
+                        <cell>.645</cell>
+                        <cell>1.03</cell>
+                    </row>
+                    <row>
+                        <cell>46</cell>
+                        <cell>494</cell>
+                        <cell>.284</cell>
+                        <cell>0.43</cell>
+                        <cell>62</cell>
+                        <cell>510</cell>
+                        <cell>.444</cell>
+                        <cell>0.69</cell>
+                        <cell>78</cell>
+                        <cell>526</cell>
+                        <cell>.680</cell>
+                        <cell>1.09</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>80</cell>
+                        <cell>528</cell>
+                        <cell>.721</cell>
+                        <cell>1.16</cell>
+                    </row>
+                </table>
+                <p>Gay Lussαc's Table of the Density and Volume of Steam.</p>
+                <table>
+                    <row>
+                        <cell cols="12">Water at 32° being the unit of Density and Volume.</cell>
+                    </row>
+                    <row>
+                        <cell>Temp</cell>
+                        <cell>Density.</cell>
+                        <cell>Volume</cell>
+                        <cell>Temperat.</cell>
+                        <cell>Density</cell>
+                        <cell>Vol.</cell>
+                        <cell>Temperat.</cell>
+                        <cell>Density.</cell>
+                        <cell>Vol.</cell>
+                        <cell>Temperat.</cell>
+                        <cell>Density</cell>
+                        <cell>Volume.</cell>
+                    </row>
+                    <row>
+                        <cell>Fah. cent. 32.° 0°</cell>
+                        <cell>0.00000540</cell>
+                        <cell>182323</cell>
+                        <cell>Fah. cent. 89.6° 32°</cell>
+                        <cell>000003263</cell>
+                        <cell>30650</cell>
+                        <cell>Fahr. cent. 147.2° 64°</cell>
+                        <cell>0.00015010</cell>
+                        <cell>6662</cell>
+                        <cell><p>Fah. cent.</p><p>204.8° 96°</p></cell>
+                        <cell>0.00051613</cell>
+                        <cell>1938</cell>
+                    </row>
+                    <row>
+                        <cell>35.6 2</cell>
+                        <cell>609</cell>
+                        <cell>164332</cell>
+                        <cell>93.2 34</cell>
+                        <cell>3619</cell>
+                        <cell>27636</cell>
+                        <cell>150.8 66</cell>
+                        <cell>16356</cell>
+                        <cell>6114</cell>
+                        <cell>208.4 98</cell>
+                        <cell>65191</cell>
+                        <cell>1812</cell>
+                    </row>
+                    <row>
+                        <cell>39.2 4</cell>
+                        <cell>686</cell>
+                        <cell>145886</cell>
+                        <cell>96.8 36</cell>
+                        <cell>4017</cell>
+                        <cell>24897</cell>
+                        <cell>154.4 68</cell>
+                        <cell>17797</cell>
+                        <cell>5619</cell>
+                        <cell>212. 100</cell>
+                        <cell>58955</cell>
+                        <cell>1696</cell>
+                    </row>
+                    <row>
+                        <cell>42.8 6</cell>
+                        <cell>772</cell>
+                        <cell>129587</cell>
+                        <cell>100.4 38</cell>
+                        <cell>4442</cell>
+                        <cell>22513</cell>
+                        <cell>158. 70</cell>
+                        <cell>19355</cell>
+                        <cell>5167</cell>
+                        <cell>2505 121.4</cell>
+                        <cell>0.0011147</cell>
+                        <cell>897.09</cell>
+                    </row>
+                    <row>
+                        <cell>46.4 8</cell>
+                        <cell>869</cell>
+                        <cell>115305</cell>
+                        <cell>104. 40</cell>
+                        <cell>4910</cell>
+                        <cell>20343</cell>
+                        <cell>101.6 72</cell>
+                        <cell>21013</cell>
+                        <cell>4759</cell>
+                        <cell>275 2 135.1</cell>
+                        <cell>16150</cell>
+                        <cell>61919</cell>
+                    </row>
+                    <row>
+                        <cell>50.0 10</cell>
+                        <cell>974</cell>
+                        <cell>102670</cell>
+                        <cell>107.6 42</cell>
+                        <cell>5418</cell>
+                        <cell>18659</cell>
+                        <cell>1652 74</cell>
+                        <cell>22794</cell>
+                        <cell>4387</cell>
+                        <cell>293.7 145 4</cell>
+                        <cell>20997</cell>
+                        <cell>476.26</cell>
+                    </row>
+                    <row>
+                        <cell>53.6 12</cell>
+                        <cell>0.00001092</cell>
+                        <cell>91564</cell>
+                        <cell>111.2 44</cell>
+                        <cell>6023</cell>
+                        <cell>16805</cell>
+                        <cell>1088 76</cell>
+                        <cell>24702</cell>
+                        <cell>4048</cell>
+                        <cell>30754 153.8</cell>
+                        <cell>25763</cell>
+                        <cell>388.16</cell>
+                    </row>
+                    <row>
+                        <cell>57.2 14</cell>
+                        <cell>1224</cell>
+                        <cell>81686</cell>
+                        <cell>114.8 46</cell>
+                        <cell>6585</cell>
+                        <cell>15185</cell>
+                        <cell>172.4 78</cell>
+                        <cell>26739</cell>
+                        <cell>3741</cell>
+                        <cell>320.3 160.2</cell>
+                        <cell>30402</cell>
+                        <cell>328.83</cell>
+                    </row>
+                    <row>
+                        <cell>60.8 16</cell>
+                        <cell>1372</cell>
+                        <cell>72913</cell>
+                        <cell>118.4 48</cell>
+                        <cell>7242</cell>
+                        <cell>13809</cell>
+                        <cell>176. 80</cell>
+                        <cell>28889</cell>
+                        <cell>3462</cell>
+                        <cell>331 9 166.5</cell>
+                        <cell>34911</cell>
+                        <cell>286.12</cell>
+                    </row>
+                    <row>
+                        <cell>64∙4 18</cell>
+                        <cell>1534</cell>
+                        <cell>65201</cell>
+                        <cell>122. 50</cell>
+                        <cell>7970</cell>
+                        <cell>12546</cell>
+                        <cell>179.0 82</cell>
+                        <cell>31195</cell>
+                        <cell>3206</cell>
+                        <cell>341.7 172 1</cell>
+                        <cell>39434</cell>
+                        <cell>253 59</cell>
+                    </row>
+                    <row>
+                        <cell>68. 20</cell>
+                        <cell>1718</cell>
+                        <cell>53224</cell>
+                        <cell>125 6 52</cell>
+                        <cell>8753</cell>
+                        <cell>11424</cell>
+                        <cell>183.2 84</cell>
+                        <cell>33637</cell>
+                        <cell>2973</cell>
+                        <cell>358.8 181.6</cell>
+                        <cell>48226</cell>
+                        <cell>207.36</cell>
+                    </row>
+                    <row>
+                        <cell>71.6 22</cell>
+                        <cell>1914</cell>
+                        <cell>52260</cell>
+                        <cell>129 2 54</cell>
+                        <cell>9606</cell>
+                        <cell>10410</cell>
+                        <cell>186∙8 86</cell>
+                        <cell>36237</cell>
+                        <cell>2760</cell>
+                        <cell>418 4 214.7</cell>
+                        <cell>89863</cell>
+                        <cell>111.28</cell>
+                    </row>
+                    <row>
+                        <cell>75.2 24</cell>
+                        <cell>2133</cell>
+                        <cell>46877</cell>
+                        <cell>132 8 56</cell>
+                        <cell>0.00010525</cell>
+                        <cell>0501</cell>
+                        <cell>190.4 88</cell>
+                        <cell>38984</cell>
+                        <cell>2585</cell>
+                        <cell>457 1 2362</cell>
+                        <cell>0.0129030</cell>
+                        <cell>77 50</cell>
+                    </row>
+                    <row>
+                        <cell>78.8 26</cell>
+                        <cell>2.176</cell>
+                        <cell>42084</cell>
+                        <cell>130 4 58</cell>
+                        <cell>11523</cell>
+                        <cell>8680</cell>
+                        <cell>194. 90</cell>
+                        <cell>41891</cell>
+                        <cell>2387</cell>
+                        <cell>478 0 265.9</cell>
+                        <cell>203060</cell>
+                        <cell>49.315</cell>
+                    </row>
+                    <row>
+                        <cell>82.4 28 86. 30</cell>
+                        <cell><p>2643</p><p>2938</p></cell>
+                        <cell><p>37838</p><p>34041</p></cell>
+                        <cell>140. 60 143.6 62</cell>
+                        <cell><p>12599</p><p>13760</p></cell>
+                        <cell><p>7937</p><p>7267</p></cell>
+                        <cell>197.6 92 201.2 94</cell>
+                        <cell><p>44956</p><p>48201</p></cell>
+                        <cell><p>2224</p><p>2075</p></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <pb facs="chi.28490924-1526168109_Page_0685.jpf" xml:id="eb07-20-s04-0604"/>
+                <p>which must be procured for the purpose—and of course from 220 to 260 pounds of
+                    the best coal will be consumed in that time.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
