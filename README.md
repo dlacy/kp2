@@ -1,7 +1,6 @@
 # kp2
 ## Introduction
-This repository contains working files for the _Nineteenth-Century Knowledge Project_. The project is creating standards-compliant digital editions of four historical editions of the _Encyclopedia Britannica_. For further information, see the GitHub pages site
-[the GitHub pages site](http://TU-plogan.github.io).
+This repository contains working files for the _Nineteenth-Century Knowledge Project_. The project is creating standards-compliant digital editions of four historical editions of the _Encyclopedia Britannica_. For further information, see [the GitHub pages site](http://TU-plogan.github.io).
 
 ## Organization
 
