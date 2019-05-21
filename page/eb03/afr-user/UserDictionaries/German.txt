@@ -1,4 +1,0 @@
-DICTIONARY_PROPERTIES=USE_CONFIDENCE
-Krystallographischen 100
-Mineralchemie 100
-Porphyry 100
