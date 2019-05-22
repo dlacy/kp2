@@ -31,8 +31,8 @@
     </teiHeader>
     <text>
         <body>
-            <p>STATISTICAL TABLES OF THE EVAPORATION AND COMBUSTION OF STEAM BOILERS.</p>
-            <table rows="32">
+            <table cols="32">
+                <row><cell cols="32">STATISTICAL TABLES OF THE EVAPORATION AND COMBUSTION OF STEAM BOILERS.</cell></row>
                 <row>
                     <cell>No. of experiment.</cell>
                     <cell>Place of experiment.</cell>
@@ -122,7 +122,7 @@
                 <row>
                     <cell><p>I</p><p>II.</p></cell>
                     <cell>Cornwall, Huel Towan United Mines</cell>
-                    <cell><p>@@*W.</p><p>W.</p></cell>
+                    <cell>@@*W.  W.</cell>
                     <cell>Cyl. Cyl.</cell>
                     <cell/>
                     <cell><p>36</p><p>2, i 36</p><p>1.1 40</p></cell>
