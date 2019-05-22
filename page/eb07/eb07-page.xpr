@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>s06/2-page-docx/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>eb-docx2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>ANT</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>s03/2-page-docx/</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -26,21 +41,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>v01/2-page-docx/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>eb-docx2tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>ANT</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>s06/2-page-docx/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -105,21 +105,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>eb-docx2tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>ANT</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../eb11/afr-user_mh/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DOCX TEI P5 - Copy</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -963,7 +948,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="eb07-pages.xpr">
+    <projectTree name="eb07-page.xpr">
         <folder path="."/>
     </projectTree>
 </project>
