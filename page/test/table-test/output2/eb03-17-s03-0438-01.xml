@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-page files converted by Python to TEI-entry file</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div facs="gri_33125011196363_0444.tif" type="entry" xml:id="eb03-17-s03-0438-01"
+                xmlns="http://www.tei-c.org/ns/1.0">
+                <p><label>SHOOTING</label>, in the military art. See <hi rend="smallcaps">Artillery,
+                        Gunnery,</hi> and <hi rend="smallcaps">Projectiles.</hi></p>
+                <p><hi rend="smallcaps">Shooting,</hi> in sportsmanſhip, the killing of game by the
+                    gun, with or without the help of dogs.</p>
+                <p>Under this article we ſhall lay down all the rules which are neceſſary to be
+                    obſerved in order to render one accompliſhed and ſucceſsful in the art of
+                    ſhooting.</p>
+                <p>The firſt thing which the ſportſman ought to attend to is the choice of his
+                    fowling-piece. Conveniency requires that the barrel be as light as poſſible, at
+                    the same time it ought to posseſs that degree of ſtrength which will make it not
+                    liable to burst. Experience has proved, that a thin and light barrel, which is
+                    of equal thickneſs in every part oſ its circumference, is much less liable to
+                    burst than one which is conſiderably thicker and heavier, but which, from being
+                    badly filed or bored, is of unequal ſtrength in different places.</p>
+                <p>It is alſo of importance to determine of what length the barrel ought to be, in
+                    order to acquire that range which the ſportſman has occasion for. On this
+                    ſubject we have received the following information from an experienced
+                    ſportſman. We have, at different times, compared barrels of all the intermediate
+                    lengths between 28 and 40 inches, and of nearly the same caliber, that is to
+                    ſay, from 22 to 26 ; and theſe trials were<pb facs="gri_33125011196363_0445.tif"
+                        xml:id="eb03-17-s03-0439"/> made both by firing the pieces from the
+                    ſhoulder, and from a firm block, at an equal diſtance, and with equal weights of
+                    the ſame powder and of the ſame ſhot.</p>
+                <p>To avoid every poſſibility of error, the quires of paper at which we fired were
+                    fixed againſt planks instead of being placed againſt the wall. From theſe trials
+                    frequently repeated, we found that the ſhot pierced an equal number of ſheets,
+                    whether it was fired from a barrel of 28, 30, 32, 34, 36, 38, or 40, inches in
+                    length. Nay more, we have compared two barrels of the ſame caliber, but one of
+                    them 33, and the other 66 inches long, by repeatedly firing them in the ſame
+                    manner as the others, at different diſtances, from 45 to 100 paces, and the
+                    reſults have always been the ſame, <hi rend="italic">i. e.</hi> the barrel of 33
+                    inches drove its ſhot through as many ſheets of paper as that of 66 did. The
+                    concluſion from all this is, that the difference of 10 inches in the length of
+                    the barrel, which ſeems to be more than is ever inſiſted upon among ſportſmen,
+                    produces no ſensible difference in the range of the piece ; and therefore, that
+                    every one may pleaſe himſelf in the length of his barrel, without either
+                    detriment or advantage to the range.</p>
+                <p>It may appear as an objection to this, that a duck- gun which is five or six feet
+                    long kills at a greater diſtance than a fowling-piece ; but this is not owing to
+                    its length, but to its greater weight and thickneſs, which give it ſuch
+                    additional ſtrength, that the ſhot may be increaſed, and the charge of powder
+                    doubled, trebled, and even quadrupled. But a barrel of five or six feet length
+                    would be very inconvenient for fowling. Thoſe who conſult the appearance of the
+                    piece, lightneſs, and the eaſe with which it is managed, will find that a barrel
+                    from 32 to 38 inches will anſwer beſt.</p>
+                <p>The next thing to be conſidered is, of what dimenſions the caliber or bore of a
+                    fowling-piece ought to be. This matter has been ſubjected to experiment, and it
+                    has been found, that a barrel of 22 or 24, which is the largeſt caliber uſually
+                    employed in fowling-pieces, throws its ſhot as cloſely as one of the ſmalleſt
+                    caliber, viz. of 30 or 32<note anchored="true" n="1" place="bottom"
+                        type="authorial"><p><hi rend="smallcaps">(a)</hi> In ſpeaking of the ſize of
+                            the caliber, we mean by 22 or 24, that ſo many balls exactly fitting it
+                            weigh juſt one pound ; and every caliber is marked in the ſame
+                        way.</p></note>
+                    <hi rend="smallcaps">(a).</hi></p>
+                <p>As to the length and form of the ſtock, it may be laid down as a principle, that
+                    a long ſtock is preferable to a ſhort one, and at the ſame time rather more bent
+                    than uſual ; for a long ſtock fits firmer to the ſhoulder than a ſhort one, and
+                    particularly ſo when the ſhooter is accuſtomed to place his left hand, which
+                    principally ſupports the piece, near to the entrance of the ramrod into the
+                    ſtock.</p>
+                <p>It is certain, however, that the ſtock may be ſo formed as to be better ſuited to
+                    one man than another. For a tall, long-armed man, the ſtock of a gun ſhould be
+                    longer than for one of a leſs ſtature and ſhorter arm. That a ſtraight ſtock is
+                    proper for him who has high ſhoulders and a ſhort neck ; for, if it be much
+                    bent, it would be very difficult for him, eſpecially in the quick motion
+                    required in ſhooting at a flying or running object, to place the butt of the
+                    gun-ſtock firmly to the ſhoulder, the upper part alone would in general be fixed
+                    ; which would not only raiſe the muzzle, and conſequently ſhoot high, but make
+                    the recoil much more ſenſibly felt, than if the whole end of the ſtock were</p>
+                <p>firmly placed on his ſhoulder. Beſides, ſuppoſing the ſhooter to bring the butt
+                    home to his ſhoulder, he would ſcarcely be able to level his piece at the
+                    object. On the contrary, a man with low ſhoulders, and a long neck, requires a
+                    ſtock much beat ; for if it is ſtraight, he will, in the act of lowering his
+                    head to that place of the ſtock at which his cheek ſhould rest in taking aim,
+                    feel a conſtraint which he never experiences, when by the effect of the proper
+                    degree of bent, the ſtock lends him ſome aſſiſtance, and, as it were, meets his
+                    aim half way.</p>
+                <p>Having now deſcribed the fowling-piece which has been found to anſwer beſt, it
+                    will next be proper to give ſome inſtructions for the choice of gunpowder, ſhot,
+                    and wadding.</p>
+                <p>The various kinds of gunpowder are well known ; but, in the opinion of ſome
+                    experienced ſportſmen, Hervey’s battle-powder is the beſt. Thoſe who wiſh to
+                    examine the ſtrength of powder, may determine it by drying ſome of it very well,
+                    and then trying how many ſheets of paper it will drive the ſhot through, at the
+                    diſtance of 10 or 12 yards. In this trial we ſhould be careful to employ the
+                    same ſized ſhot in each experiment, the quantity both of the ſhot and the powder
+                    being regulated by exact weight ; otherwiſe we cannot, even in this experiment,
+                    arrive to any certainty in comparing the ſtrength of different powders, or of
+                    the ſame powder at different times.</p>
+                <p>Powder ought to be kept very dry, for every degree of moiſture injures it ; and
+                    if considerable, the ſaltpetre is dissolved, and the intimate combination of the
+                    ſeveral ingredients is entirely deſtroyed. It is obſerved, that after firing
+                    with damp powder the piece becomes very foul, which ſeems to ariſe from the
+                    diminution of the activity of the fire in the exploſion. Flasks of copper or tin
+                    are much better for keeping powder in than thoſe made of leather, or than ſmall
+                    caſks. Their necks ought to be ſmall and well ſtopped with cork.</p>
+                <p>The <hi rend="italic">patent milled ſhot</hi> is now very generally uſed, and is
+                    reckoned ſuperior to any other. The ſize of the ſhot muſt vary according to the
+                    particuliar ſpecies of game which is the object of the ſportſman’s purſuit, as
+                    well as be adapted to the ſeaſon. In the firſt month of partridge ſhooting, <hi
+                        rend="smallcaps">N⁰ 1.</hi> is most proper; for since at this time the birds
+                    ſpring near at hand, and we ſeldom fire at more than the diſtance of 40 paces,
+                    if the ſhooter takes his aim but tolerably well, it is almoſt impoſſible for a
+                    bird at this diſtance to eſcape in the circle which the ſhot forms.</p>
+                <p>As hares fit cloſer, and are thinly covered with fur at this ſeaſon, they may
+                    eaſily be killed with this ſhot at 30 or 35 paces. N <hi rend="superscript">
+                        o</hi> 1. is equally proper for ſhooting ſnipes or quails. About the
+                    beginning of October, when the partridges are ſtronger, <hi rend="smallcaps"
+                        >N⁰</hi> 3. is the moſt proper ſhot to be uſed. Many ſportſmen uſe no other
+                    during the whole ſeaſon. The directions which have now been given refer only to
+                    the patent ſhot.</p>
+                <p>We ſhall now ſubjoin a table, which will show at one view the number of pellets
+                    compoſing an ounce weight of each sort of ſhot, the patent and the common,
+                    beginning with the ſmalleſt ſize.</<pb facs="gri_33125011196363_0446.tif"
+                        xml:id="eb03-17-s03-0440"/>
+                    <table>
+                        <row>
+                            <cell cols="4">
+                                <hi rend="smallcaps">Patent Shot.</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell> N⁰ 8. </cell>
+                            <cell> I ounce </cell>
+                            <cell> </cell>
+                            <cell> 620 </cell>
+                        </row>
+                        <row>
+                            <cell> 7 </cell>
+                            <cell> id. </cell>
+                            <cell> . </cell>
+                            <cell> 480 </cell>
+                        </row>
+                        <row>
+                            <cell> × <hi rend="smallcaps">(b)</hi> ** </cell>
+                            <cell> id. </cell>
+                            <cell> </cell>
+                            <cell> 300 </cell>
+                        </row>
+                        <row>
+                            <cell> 1 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 220 </cell>
+                        </row>
+                        <row>
+                            <cell> 2 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 180 </cell>
+                        </row>
+                        <row>
+                            <cell> 3 </cell>
+                            <cell> id. </cell>
+                            <cell> </cell>
+                            <cell> 157 </cell>
+                        </row>
+                        <row>
+                            <cell> 4 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 105 </cell>
+                        </row>
+                        <row>
+                            <cell> 5 </cell>
+                            <cell> id. </cell>
+                            <cell> </cell>
+                            <cell> 83 </cell>
+                        </row>
+                        <row>
+                            <cell cols="4">
+                                <hi rend="smallcaps">Common Shot.</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell> N⁰ 7. </cell>
+                            <cell> 1 ounce </cell>
+                            <cell> </cell>
+                            <cell> 350 </cell>
+                        </row>
+                        <row>
+                            <cell> 6 </cell>
+                            <cell> id. </cell>
+                            <cell> . </cell>
+                            <cell> 260 </cell>
+                        </row>
+                        <row>
+                            <cell> 5 </cell>
+                            <cell> id. </cell>
+                            <cell> </cell>
+                            <cell> 235 </cell>
+                        </row>
+                        <row>
+                            <cell> 4 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 190 </cell>
+                        </row>
+                        <row>
+                            <cell> 3 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 140 </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <hi rend="italic">2</hi>
+                            </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 110 </cell>
+                        </row>
+                        <row>
+                            <cell> 1 </cell>
+                            <cell> id. </cell>
+                            <cell> - </cell>
+                            <cell> 95 </cell>
+                        </row>
+                    </table><p>For a fowling-piece of a common caliber, which is from 24 to 30 balls
+                        to the pound weight, a dram and a quarter, or at moſt a dram and a half, of
+                        good powder ; and an ounce, or an ounce and a quarter of ſhot, is
+                        ſufficient. But when ſhot of a larger ſize is uſed, ſuch as N⁰ 5. the charge
+                        of ſhot may be increaſed one- fourth, for the purpoſe of counterbalancing in
+                        ſome degree what the ſize of the ſhot loses in the number of pellets, and
+                        alſo to enable it to garniſh the more. For this purpoſe the ſportſman will
+                        find a meaſure marked with the proper gauges very convenient to him. An
+                        inſtrument of this nature has been made by an ingenious artiſt of London,
+                        Egg, of the Haymarket.</p><p>A conſequence of overloading with ſhot, is the
+                        powder has not ſufficient ſtrength to throw it to its proper diſtance ; for
+                        if the object fired at be diſtant, one-half of the pellets compoſing the
+                        charge, by their too great quantity and weight, will ſtrike againſt each
+                        other, and fall by the way ; and thoſe which reach the mark will have ſmall
+                        force, and will produce but little or no effect.</p><p>The uſe of the <hi
+                            rend="italic">wadding</hi> is to carry the ſhot in a body to a certain
+                        diſtance from the muzzle of the piece. It ought to be of ſoft and pliable
+                        materials. The beſt kind of wadding, in the opinion of an experienced
+                        fowler, is a piece of an old hat ; but this cannot be obtained in ſufficient
+                        quantity. Next to it nothing is better than ſoft brown paper, which combines
+                        ſuppleneſs with conſiſtence, moulds itſelf to the barrel, and never falls to
+                        the ground within 12 or 15 paces from the muzzle of the piece. Tow anſwers
+                        very well, and cork has been extolled for poſſeſſing the peculiar virtue of
+                        increaſing the range and cloſeneſs of the ſhot.</p><p>The wadding ought to
+                        be quite cloſe in the barrel, but not rammed too hard ; for if it be rammed
+                        too cloſe, or be of a rigid ſubſtance, the piece will recoil, and the ſhot
+                        will ſpread too much. On the other hand, if the wadding be very looſe, or is
+                        compoſed of too ſoft materials, ſuch as wool or cotton, the diſcharge will
+                        not poſſeſs proper force.</p><p>In loading a piece, the powder ought to be
+                        ſlightly rammed down by only preſſing the ramrod two or three times on the
+                        wadding, and not by drawing up the ramrod and then returning it into the
+                        barrel with a jerk of</p><p>the arm ſeveral times. For when the powder is
+                        violently compreſſed, ſome of the grains muſt be bruiſed, which will prevent
+                        the exploſion from being quick, and will ſpread the ſhot too wide. In pourin
+                        the powder into the barrel, the meaſure ought to be held ſo as that the
+                        powder may fall moſt readily to the bottom. That no grains may adhere to the
+                        ſides of the barrel, the butt-end of the piece may be ſtruck against the
+                        ground. The ſhot ought never to be rammed down with force : it is ſufficient
+                        to ſtrike the butt-end of the gun againſt the ground as before. Then the
+                        wadding is to be put down gently. A ſportſman ought never to carry his gun
+                        under his arm with the muzzle inclined downwards, for this practice looſens
+                        the wadding and charge too much.</p><p>Immediately after the piece is fired
+                        it ought to be reloaded ; for while the barrel is ſtill warm, there is no
+                        danger of any moiſture lodging in it to hinder the powder from falling to
+                        the bottom. As it is found that the coldneſs of the barrel, and perhaps the
+                        moiſture condenſed in it, diminishes the force of the powder in the firſt
+                        ſhot ; it is proper to fire off a little powder before the piece is loaded.
+                        Some prime before loading, but this is not proper unleſs the touch-hole be
+                        very large. After every diſcharge the touch-hole ought to be pricked, or a
+                        ſmall feather may be inſerted to clear away any humidity or foulneſs that
+                        has been contracted.</p><p>The ſportſman having loaded his piece, muſt next
+                        prepare to fire. For this purpoſe he ought to place his hand near the
+                        entrance of the ramrod, and at the ſame time graſp the barrel firmly. The
+                        muzzle ſhould be a little elevated, for it is more uſual to ſhoot low than
+                        high. This direction ought particularly to be attended to when the object is
+                        a little diſtant ; becauſe ſhot as well as ball only moves a certain
+                        diſtance point blank, when it begins to deſcribe the curve of the
+                        parabola.</p><p>Practice ſoon teaches the ſportſman the proper distance at
+                        which he ſhould ſhoot. The diſtance at which he ought infallibly to kill any
+                        kind of game with patent ſhot, N <hi rend="superscript"> o</hi> 3. provided
+                        the aim be well taken, is from 25 to 35 paces for the footed, and from 40 to
+                        45 paces for the winged, game. Beyond this diſtance even to 50 or 55 paces,
+                        both partridges and hares are ſometimes killed ; but in general the hares
+                        are only ſlightly wounded, and carry away the ſhot ; and the partridges at
+                        that diſtance preſent ſo ſmall a ſurface, that they frequently eſcape
+                        untouched between the ſpaces of the circle. Yet it does not follow that a
+                        partridge may not be killed with N⁰ 3 patent ſhot at 60 and even 70 paces
+                        diſtance, but then theſe ſhots are very rare.</p><p>In ſhooting at a bird
+                        flying, or a hare running acroſs, it is neceſſary to take aim before the
+                        object in proportion to its diſtance at the time of firing. If a partridge
+                        flies acroſs at the diſtance of 30 or 35 paces, it will be ſufficient to aim
+                        at the head, or at moſt but a ſmall ſpace before it. If it be 50, 60, or 70
+                        paces distant, it is then requiſite to aim at leaſt half a foot before the
+                        head. The ſame practice ought to be obſerved in ſhooting at a hare, rabbit,
+                        or fox, when running in a croſs direction ; at the ſame time making due
+                            allowance<pb facs="gri_33125011196363_0447.tif"
+                            xml:id="eb03-17-s03-0441"/> for the diſtance and ſwiftneſs of the pace.
+                        Another thing to be attended to is, that the ſhooter ought not involuntarily
+                        to ſtop the motion of the arms at the moment of pulling the trigger ; for
+                        the inſtant the hand stops in order to fire, however inconſiderable the time
+                        be, the bird gets beyond the line of aim, and the ſhot will miss it. A
+                        ſportſman ought therefore to accustom his hand while he is taking aim to
+                        follow the object. When a hare runs in a straight line from the ſhooter, he
+                        ſhould take his aim between the ears, otherwiſe he will run the hazard
+                        either of missing, or at leaſt not of killing dead, or as it is ſometimes
+                        called <hi rend="italic">clean.</hi></p><p>A fowling-piece ſhould not be
+                        fired more than 20 or 25 times without being waſhed ; a barrel when foul
+                        neither ſhoots ſo ready, nor carries the ſhot ſo far as when clean. The
+                        flint, pan, and hammer, ſhould be well wiped after each ſhot ; this
+                        contributes greatly to make the piece go off quick, but then it ſhould be
+                        done with ſuch expedition, that the barrel may be reloaded whilſt warm, for
+                        the reaſons we have before advanced. The flint ſhould be frequently changed,
+                        without waiting until it miſſes fire, before a new one is put in. Fifteen or
+                        eighteen ſhots, therefore, ſhould only be fired with the same flint ; the
+                        expence is too trifling to be regarded, and by changing it thus often much
+                        vexation will be prevented.</p><p>A gun alſo ſhould never be fired with the
+                        prime of the preceding day ; it may happen that an old priming will
+                        ſometimes go off well, but it will more frequently contract moiſture and
+                        fuze in the firing ; then the object will moſt probably be missed, and that
+                        becauſe the piece was not freſh primed.</p><p>For the information of the
+                        young ſportſman we ſhall add a few more general directions. In warm weather
+                        he ought to ſeek for game in plains and open grounds, and in cold weather he
+                        may ſearch little hills expoſed to the ſun, along hedges among heath, in
+                        stubbles, and in paſtures where there is much furze and fern. The morning is
+                        the beſt time of the day, before the dew is exhaled, and before the game has
+                        been disturbed. The colour of the ſhooters dreſs ought to be the same with
+                        that of the fields and trees ; in summer it ought to be green, in winter a
+                        dark grey. He ought to hunt as much as poſſible with the wind, not only to
+                        prevent the game from perceiving the approach of him and his dog, but alſo
+                        to enable the dog to ſcent the game at a greater diſtance.</p><p>He ſhould
+                        never be diſcouraged from hunting and ranging the same ground over and over
+                        again, eſpecially in places covered with heath, brambles, high graſs, or
+                        yoiιng coppide wood. A hare or rabbit will frequently ſuffer him to paſs
+                        ſeveral times within a few yards of its form without getting up. He ſhould
+                        be still more patient when he has marked partridges into ſuch places, for it
+                        often happens, that after the birds have been ſprung many times, they lie ſo
+                        dead that they will ſuffer him almoſt to tread upon them before they will
+                        rise. Pheaſants, quails, and woodcocks do the ſame.</p><p>He ought to look
+                        carefully about him, never paſſing a buſh or tuft of graſs without
+                        examination ; but he ought never to strike them with the muzzle of his gun
+                        for it will looſen his wadding. He who patiently beats and ranges his ground
+                        over again, without being diſ</p><p>courages, will always kill the greateſt
+                        quantity of game ; and if he is ſhooting in company, he will find game where
+                        others have passed without diſcovering any.</p><p>When he has fired he
+                        ſhould call in his dog, that he may not have the mortification to ſee game
+                        rise which he cannot ſhoot. When he has killed a bird, inſtead of being
+                        anxious about picking it up, he ought to follow the rest of the covey with
+                        his eye till he ſee them settle.</p><p>Three ſpecies of dogs are capable of
+                        receiving the proper inſtruction, and of being trained. Theſe are the ſmooth
+                        pointer, the ſpaniel, and the rough pointer. The laſt is a dog with long
+                        curled hair, and ſeems to be a mixed breed of the water-dog and the ſpaniel.
+                        The ſmooth pointer is active and lively enough in his range, but in general
+                        is proper only for an open country.</p><p>The greateſt part of theſe dogs
+                        are afraid of water, brambles, and thickets ; but the ſpaniel and the rough
+                        pointer are eaſily taught to take the water, even in cold weather, and to
+                        range the woods and rough places as well as the plain. Greater dependence
+                        may therefore be had on theſe two laſt ſpecies of dogs than on the ſmooth
+                        pointer.</p><p>The education of a pointer may commence when he is only five
+                        or six months old. The only leſſons which he can be taught at this time are
+                        to <hi rend="italic">fetch</hi> and <hi rend="italic">carry</hi> any thing
+                        when deſired ; to come in when he runs far off, and to go behind when he
+                        returns ; uſing, in the one caſe, the words <hi rend="italic">here, come
+                            in,</hi> and in the other <hi rend="italic">back</hi> or <hi
+                            rend="italic">behind.</hi> It is alſo neceſſary at this period to
+                        accuſtom him to be tied up in the kennel or stable ; but he ought not at
+                        first to be tied too long. He ſhould be let looſe in the morning, and
+                        faſtened again in the evening. When a dog is not early accuſtomed to be
+                        chained, he diſturbs every perſon in the neighbourhood by howling. It is
+                        alſo of importance that the perſon who is to train him ſhould give him his
+                        food.</p><p>When the dog has attained the age of 10 or 12 months, he may be
+                        carried into the field to be regularly trained. At firſt he may be allowed
+                        to follow his own inclination, and to run after every animal he fees. His
+                        indiſcriminating eagerneſs will ſoon abate, and he will purſue only
+                        partridges and hares. He will ſoon become tired of following partridges in
+                        vain, and will content himſelf after having fluſhed them to follow them with
+                        his eyes. It will be more difficult to prevent him from following
+                        hares.</p><p>All young dogs are apt to <hi rend="italic">rake ;</hi> that
+                        is, to hunt with their noſes cloſe to the ground, to follow birds rather by
+                        the track than by the wind. But partridges lie much better to dogs that <hi
+                            rend="italic">wind</hi> them, than to thoſe that follow them by the
+                        track. The dog that winds the ſcent approaches the birds by degrees and
+                        without diſturbing them ; but they are immediately alarmed when they ſee a
+                        dog tracing their footſteps. When you perceive that your dog is committing
+                        this fault, call to him in an angry tone <hi rend="italic">hold up:</hi> he
+                        will then grow uneaſy and agitated, going firſt to the one side and then to
+                        the other, until the wind brings him the ſcent of the birds. After finding
+                        the <hi rend="italic">game</hi> four or five times in this way, he will take
+                        the wind of himſelf, and hunt with his noſe high. If it be difficult to
+                        correct this fault, it will be neceſſary to put the <hi rend="italic">puzzle
+                            peg</hi> upon him. This is of very ſimple conſtruction, conſisting<pb
+                            facs="gri_33125011196363_0448.tif" xml:id="eb03-17-s03-0442"/> only of a
+                        piece of oak or deal inch board, one foot in length, and an inch and a half
+                        in breadth, tapering a little to one end ; at the broader end are two holes
+                        running longitudinally, through which the collar of the dog is put, and the
+                        whole is buckled round his neck ; the piece of wood being projected beyond
+                        his noſe, is then faſtened with a piece of leather thong to his under jaw.
+                        By this means the peg advancing ſeven or eight inches beyond his ſnout, the
+                        dog is prevented front putting his noſe to the ground and raking.</p><p>As
+                        ſoon as the young dog knows his game you muſt bring him under complete
+                        ſubjection. If he is tractable, this will be eaſy; but if he is ſtubborn, it
+                        will be neceſsary to uſe the <hi rend="italic">trash cord,</hi> which is a
+                        rope or cord of 20 or 25 fathoms in length faſtened to his collar. If he
+                        refuſe to come back when called upon, you muſt check him ſmartly with the
+                        cord, which will often bring him upon his haunches. But be sure you never
+                        call to him except when you are within reach of the cord. After repeating
+                        this ſeveral times he will not fail to come back when called ; he ought then
+                        to be careſſed, and a bit of bread ſhould be given him. He ought now
+                        conſtantly to be tied up, and never unchained, except when you give him his
+                        food, and even then only when he has done ſomething to deserve it.</p><p>The
+                        next ſtep will be to throw down a piece of bread on the ground, at the ſame
+                        moment taking hold of the dog by the collar, calling out to him, “ take
+                        heed,—ſoftly.” After having held him in this manner for ſome space of time,
+                        ſay to him, “ ſeize—lay hold.” If he is impatient to lay hold of the piece
+                        of bread before the ſignal is given, correct him gently with a ſmall whip.
+                        Repeat this leſſon until he “ takes heed” well, and no longer requires to be
+                        held fast to prevent him from laying hold of the bread. When he is well
+                        accuſtomed to this manège, turn the bread with a ſtick, holding it in the
+                        manner you do a fowling-piece, and having done ſo, cry seize <hi
+                            rend="italic">.</hi> Never ſuffer the dog to eat either in the houſe or
+                        field without having first made him take heed in this manner.</p><p>Then, in
+                        order to apply this leſſon to the game, fry ſmall pieces of bread in hogs
+                        lard, with the dung of partridge ; take theſe in a linen bag into the
+                        fields, Hubbles, ploughed grounds, and paſtures, and there put the pieces in
+                        ſeveral different places, marking the ſpots with little cleft pickets of
+                        wood, which will be rendered more diſtinguiſhable by putting pieces of card
+                        in the nicks. This being done, caſt off the dog and conduct him to theſe
+                        places, always hunting in the wind. After he has caught the ſcent of the
+                        bread, if he approaches too near, and ſeems eager to fall upon it, cry to
+                        him in a menacing tone, “ take heed ,” and if he does not ſtop immediately,
+                        correct him with the whip. He will ſoon comprehend what is required of him,
+                        and will ſtand.</p><p>At the next leſſon, take your gun charged only with
+                        powder, walk gently round the piece of bread once or twice, and fire inſtead
+                        of crying seize. The next time of practiſing this leſſon, walk round the
+                        bread four or five times, but in a greater circle than before, and continue
+                        to do this, until the dog is conquered of his impatience, and will ſtand
+                        without moving until the ſignal is given him. When he keeps his point well,
+                        and ſtands ſteady in this leſſon, you may carry him to the birds ; if he
+                        runs in upon them, or barks when they ſpring up, you muſt cor</p><p>rect him
+                        ; and if he continues to do ſo, you muſt return to the fried bread ; but
+                        this is ſeldom neceſſary.</p><p>When the dog has learned by this uſe of the
+                        bread to take heed, he may be carried to the fields with the traſh-cord
+                        dragging on the ground. When he ſprings birds for the firſt time, if he runs
+                        after them or barks, check him by calling out to him, <hi rend="italic">take
+                            heed.</hi> If he point properly, careſs him ; but you ought never to
+                        hunt without the cord until he point staunch.</p><p>If the dog runs after
+                        ſheep, and it be difficult to cure him, couple him with a ram, and their
+                        whip the dog as long as you can follow him. His cries will at firſt alarm
+                        the ram ; he will run with all his ſpeed, and drag the dog along with him ;
+                        but he will at length take courage, turn upon the dog, and butt him ſeverely
+                        with his horns. When you think the dog is ſuſſiciently chastiſed, untie him
+                        : he will never run at ſheep again.</p><p>Having now given a lew general
+                        inſtructions concerning the beſt method of training pointers, we ſhall
+                        ſubjoin a few obſervations reſpecting the moſt common ſpecies of game, the
+                        partridge, pheaſant, grouſe, woodcock, ſnipe, and wild
+                        duck.</p><p>Partridges pair in the ſpring, and lay their eggs (generally
+                        from 15 to 20) during May and part of June. The young begin to fly about the
+                        end of June, and their plumage is complete in the beginning of October. The
+                        male has a conspicuous horſeſhoe upon his breaſt, an obtuſe ſpur on the
+                        hinder part of the leg, which diſtinguiſhes him from the female. He is also
+                        rather larger.</p><p>When a ſportſman is ſhooting in a country where the
+                        birds are thin, and he no longer chooſes to range the field for the bare
+                        chance of meeting with them, the following method will ſhow him where to
+                        find them on another day. In the evening, from ſun-ſet to nightfall, he
+                        ſhould poſt himſelf in a field, at the foot of a tree or a buſh, and there
+                        wait until the partridge begin to call or juck, which they always do at that
+                        time ; not only for the purpoſe of drawing together when ſeparated, but alſo
+                        when the birds compoſing the covey are not diſperſed. After calling in this
+                        manner for ſome little ſpace of time, the partridges will take to flight ;
+                        then, if he mark the place where they alight. he may be aſſured they will
+                        lie there the whole night, unleſs diſturbed. Let him return to the ſame poſt
+                        tire next morning by break of day, and there watch a while; being careful to
+                        keep his dog in a firing, it he is not under perfect command.</p><p>As soon
+                        as the dawn begins to peep, the partridges will begin to call, and ſoon
+                        afterwards will perform the ſame manœuvre as on the preceding evening ; that
+                        is, after having called a while, they will take their flight, and will moſt
+                        commonly ſettle at a little diſtance. There in a few minutes they will call
+                        again, and ſometimes take a ſecond flight, but that will be to no great
+                        diſtance. Then as ſoon as the ſun is riſen, and the ſportſman can ſee to
+                        ſhoot, he may caſt off his dog and purſue them.</p><p>The <hi rend="italic"
+                            >pheaſant</hi> is of the ſize of a common dunghill cock, and lays its
+                        eggs generally in the woods, the number of which is 10 or
+                        12.</p><p>Pheaſants are accounted ſtupid birds ; for when they are ſurpriſed
+                        they will frequently ſquat down like a rabbit, ſuppoſing themſelves to be in
+                        ſafety as ſoon as their<pb facs="gri_33125011196363_0449.tif"
+                            xml:id="eb03-17-s03-0443"/> heads are concealed ; and in this way they
+                        will ſometimes ſuffer themſelves to be killed with a ſtick. They love low
+                        and moiſt places, and haunt the edges of thoſe pools which are found in
+                        woods, as well as the high grass of marſhes that are near at hand ; and
+                        above all, places where there are clumps of alders.</p><p><hi rend="italic"
+                            >Grouſe,</hi> or muir-game, are found in Wales, in the northern counties
+                        of England, and in great abundance in Scotland. They chiefly inhabit thoſe
+                        mountains and muirs which are covered with heath, and ſeldom deſcend to the
+                        low grounds. They fly in companies of four or five braces, and love to
+                        frequent moſſy places, particularly in the middle of the day or when the
+                        weather is warm. In purſuing this game, when the pointer ſets, and the
+                        ſportſman perceives the birds running with their heads erect, he muſt run
+                        after them as fall as he can, in the hope that he may get near enough to
+                        ſhoot when they rise upon the wing ; for he may be pretty certain they will
+                        not lie well that day. As theſe birds are apt to grow ſoon putrid, they
+                        ought to be drawn carefully the inſtant they are ſhot and stuffed with any
+                        heath, and if the feathers happen to be wetted they muſt be wiped
+                        dry.</p><p>The <hi rend="italic">woodcock</hi> is a bird of paſſage ; it
+                        commonly arrives about the end of October, and remains until the middle of
+                        March. Woodcocks are fatteſt in December and January, but from the end of
+                        February they are lean. At their arrival they drop anywhere, but afterwards
+                        take up their residence in copſes of nine or ten years growth. They ſeldom,
+                        however, ſtay in one place longer than 12 or 15 days. During the day they
+                        remain in thoſe parts of the woods where there are void ſpaces or glades,
+                        picking up earth-worms and grubs from the fallen leaves. In the evening they
+                        go to drink and waſh their bills at pools and ſprings, after which they
+                        repair to the open fields and meadows for the night. It is remarkable, that
+                        when a woodcock ſprings from a wood to go into the open country, he always
+                        endeavours to find ſome glade or opening, which he follows to the boundaries
+                        of the wood. At his return he purſues the ſame path a good way, and then
+                        turns to the right or left oppoſite to ſome glade, in order to drop into a
+                        thick part of the wood, where he may be ſheltered from the wind. He may
+                        therefore be watched with advantage in theſe narrow passes and little alleys
+                        on the edges of woods which lead to a pool or ſpring, or he may be watched
+                        in the dusk of the evening near the pools which he frequents.</p><p>The snip
+                            <hi rend="italic">e</hi> is a bird of paſſage as well as the woodcock.
+                        This bird is ſcarcely worth ſhooting till the froſt commences. In the month
+                        of November they begin to grow fat. Snipes, like woodcocks, frequent
+                        ſprings, bogs, and marſhy places, and generally fly against the wind. The
+                        ſlant and croſs ſhots are rather difficult, as the birds are ſmall and fly
+                        very quickly. The ſportſman ought to look for them in the direction of the
+                        wind ; becauſe then they will fly towards him, and preſent a fairer
+                        mark.</p><p>The <hi rend="italic">wild duck</hi> is alſo a bird of paſſage,
+                        and arrives " here in great flocks from the northern countries in the
+                        beginning of winter. Still, however, a great many remain in our marſhes and
+                        fens during the whole year,</p><p>and breed.</p><p>The wild duck differs
+                        little in plumage from the tame duck, but is eaſily diſtinguiſhed by its
+                        ſize, which is leſs ; by the neck, which is more ſlender ; by the
+                        foot,</p><p>which is ſmaller ; by the nails, which are more black ; and
+                        above all, by the web of the foot, which is much finer and ſofter to the
+                        touch.</p><p>In tire ſummer ſeaſon, when it is known that a team of young
+                        ducks are in a particular piece of water, and juſt beginning to fly, the
+                        ſportſman is ſure to find them early in the morning dabbling at the edges of
+                        the pool, and amongſt the long graſs, and then he may get very near to them
+                        : it is uſual alſo to find them in thoſe places at noon.</p><p>In the
+                        beginning of autumn almoſt every pool is frequented by teams of wild ducks,
+                        which remain there during the day, concealed in the ruſhes. If theſe pools
+                        are of ſmall extent, two ſhooters, by going one on each ſide, making a noiſe
+                        and throwing ſtones into the ruſhes, will make them fly up ; and they will
+                        in this way frequently get ſhots, eſpecially if the pool is not broad, and
+                        contracts at one end. But the ſureſt and most ſucceſsful way, is to launch a
+                        ſmall boat or trow on the pool, and to traverſe the ruſhes by the openings
+                        which are found ; at the same time making as little noiſe as poſſible. In
+                        this manner the ducks will ſuffer the ſportſmen to come ſufficiently near
+                        them to ſhoot flying ; and it often happens that the ducks, after having
+                        flown up, only make a circuit, return in a little time, and again alight
+                        upon the pool. Then the ſportſmen endeavour a second time to come near them.
+                        If ſeveral ſhooters are in company, they ſhould divide, two ſhould go in the
+                        boat, whilſt the others ſpread themſelves about the edge of the pool, in
+                        order to ſhoot the ducks in their flight. In pools which will not admit a
+                        trow, water-ſpaniels are abſolutely neceſſary for this ſport.</p><p>In
+                        winter they may be found on the margins of little pools ; and when pools and
+                        rivers are frozen up, they muſt be watched for in places where there are
+                        ſprings and waters which do not freeze. The ſport is then much more certain,
+                        becauſe the ducks are confined to theſe places in order to procure aquatic
+                        herbs, which are almoſt their only food at this period.</p><p><hi
+                            rend="smallcaps">SHOP-lifters,</hi> are thoſe that steal goods privately
+                        out of ſhops ; which, being to the value of 5s. though no perſon be in the
+                        ſhop, is felony without the benefit of clergy by the 10 and I 1 W. III. c.
+                        23.</p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

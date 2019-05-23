@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>translated from HTML to TEI</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="lcsh" matchPattern="([a-z\s]+)"
+                    replacementPattern="http://id.loc.gov/authorities/subjects/$1">
+                    <p>In the context of this project, private URIs with the prefix "lcsh" point to
+                        subject terms in the Library of Congress Subject Headings.</p>
+                </prefixDef>
+                <prefixDef ident="usgs" matchPattern="([a-z\s]+)"
+                    replacementPattern="http://www.usgs.gov/science/USGSThesaurus/$1">
+                    <p>In the context of this project, private URIs with the prefix "usgs" point to
+                        subject terms in the US Geological Survey Thesaurus.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="http://id.loc.gov/authorities/subjects.html">
+                    <term ref="lcsh:sh85144900">walking</term>
+                    <term ref="lcsh:sh85115383">rope</term>
+                    <term ref="lcsh:sh85136095">tops</term>
+                    <term ref="lcsh:sh00006398">number</term>
+                    <term ref="lcsh:sh2001008686">stranding</term>
+                    <term ref="lcsh:sh85126713">spinning></term>
+                    <term ref="lcsh:sh85149022">yarn</term>
+                    <term ref="lcsh:sh85146412">wheels</term>
+                    <term ref="lcsh:sh2002006558">wheels</term>
+                </keywords>
+                <keywords scheme="http://www.usgs.gov/science/USGSThesaurus/">
+                    <term ref="usgs:methods">methods</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11-23-r04-0713-01"
+                facs="encyclopaediabri23chisrich_0762.jp2" type="entry">
+
+                <p><label>ROPE</label> and ROPE-MAKING. All varieties of cordage having a
+                    circumference of an inch or more are known by the general name of “ rope.”
+                    Twisted cordages of smaller dimensions are called cords, twines and lines, and
+                    when the sectional area is still smaller, the article is known as thread or
+                    doubled yarn. All these varieties of cordage are composed of a number of
+                    separate yarns, each of which is made from some kind of textile fibre by
+                    preparing and spinning machinery. The number of separate yarns which ultimately
+                    form the rope or cord depends upon the fineness of the yam, and also upon the
+                    circumference of the finished article. From thread and fine twine upwards the
+                    whole art of manufacture is that of twisting together fibres and yams; but the
+                    comparative heaviness and coarseness of the materials operated on in rope-making
+                    render necessary the adoption of heavy machinery and modified processes which
+                    clearly define this manufacture as a distinct calh’ng. The modem trade of
+                    rope-making is again divided into two distinct branches dealing with vegetable
+                    fibres and metallic wire.</p>
+                <p>Many different vegetable fibres are used for rope-making, but for the combined
+                    qualities of strength, flexibility and durability, none can compete yvith the
+                    common hemp, which is consequently the staple of the rope-maker. Cotton ropes
+                    are, however, much more flexible, and in addition are strong and durable; they
+                    are, therefore, much preferred for power transmission in textile and other
+                    works. Manila hemp is a fibre of remarkable tenacity, of unapproached value for
+                    heavy cordage, but too stiff for small cords and twines. After these in utility
+                    come Sisal hemp of Central America <hi rend="italic">(Agava Sisalana),</hi>
+                    Phormium hemp of New Zealand <hi rend="italic">(Phormium tenax}</hi> and Sunn
+                    hemp of the East Indies <hi rend="italic">(Crotalaria juncea)—</hi> all fibres
+                    of great strength, and largely used by rope-makers. Jute <hi rend="italic"
+                        >(q.v.)</hi> of India <hi rend="italic">(Corchorus capsularis</hi> and <hi
+                        rend="italic">C. olitorus)</hi> is now largely used by rope-makers on
+                    account of its cheapness. When used alone it is deficient in strength and
+                    durability, but when used in conjunction with proper proportions of hemp it
+                    makes a very satisfactory and useful rope. Among fibres more rarely seen in
+                    rope-works are Jubbulpore hemp <hi rend="italic">(Crotalaria tenuifolia),</hi>
+                    boxstring hemp <hi rend="italic">(Sanseviera zeylanica),</hi> and other hemps of
+                    the East Indies, plantain fibre <hi rend="italic">(Musa paradisica),</hi> and
+                    agave fibre <hi rend="italic">(Agave americana)</hi> of America. Coir and many
+                    other fibres are used, but principally in the locab’ties of their
+                    production.</p>
+                <p>A rope is composed of a certain number of <hi rend="sup">a</hi> strands,” the
+                    strand itself being made up of a number of single threads or yarns. Three
+                    strands laid or twisted together form a “ hawser-laid ” rope, and three | such
+                    hawsers similarly laid make a “ cable-laid ” rope or “ cable.” A “ shroud-laid ”
+                    rope usually consists of four strands laid around a central strand or core. The
+                    prepared fibre is twisted or spun to the right hand to form yarn; the required
+                    numher of yams receive a left-hand twist to make a strand; three strands twisted
+                    to the right make a hawser; and three hawsers twisted to the left form a cable.
+                    Thus the twist in each operation is in a different direction from that of the
+                    preceding one, and this alternation of direction serves, to some extent, to
+                    preserve the parallelism of the fibres.</p>
+                <p>The primary object of twisting fibres together in a rope is that by mutual
+                    friction they may [be held together when a strain is applied to the whole. Hard
+                    twisting has the further advantage of compacting the fibres and preventing, to
+                    some extent, the penetration of moisture when the ropes are exposed to water;
+                    but the yield of rope from a given length of yam diminishes in proportion to the
+                    increase of twist. The proper degree of twist given to ropes is generally such
+                    that the rope is from three-fourths to two-thirds the length of yarn composing
+                    it.</p>
+                <p><hi rend="italic">Rope-walk Spinning.</hi> —The sequence of operations in this
+                    method of working is as follows: (i) hackling the fibre; (2) spinning the yarn;
+                    (3) tarring the yam when necessary; (4) forming the strands; (5) laying the
+                    strands into ropes.</p>
+                <p>Hackling differs but slightly from the hand-hackling process used in the
+                    preparation of flax. The hackle board consists of a wooden block studded with
+                    strong, tapered and sharp-pointed steel prongs. A series of such hackle boards
+                    is used in the progressive hackling operation, the prongs diminishing</p>
+                <pb xml:id="eb11-23-r04-0714" facs="encyclopaediabri23chisrich_0763.jp2"/>
+                <p>in size and being more closely set together. For the commoner kinds of ropes,
+                    however, hackling through the coarsest board is found to be sufficient, while in
+                    most other cases two hacklings are adopted.</p>
+                <p>The hackler takes up a handful or “streak” <note anchored="true" place="bottom"
+                        type="authorial" n="1"> See note in the article on <hi rend="smallcaps"
+                            >Jute</hi> for variations of spelling. </note> of hemp from the bundle,
+                    wraps one end firmly round his hand, and with his fingers distributes a little
+                    oil over the hemp. The oil softens the material, keeps the hackle pins in good
+                    condition, and facilitates generally the splitting up of the fibre as the streak
+                    is drawn through the pins. In the first place, only the'ends of the streak are
+                    hackled; they are dashed into the pins and drawn through them in order to
+                    separate the fibres and to lay them parallel; but as the operation proceeds a
+                    gradually increasing length of the streak is thrown on and drawn through the
+                    pins. The process is indeed very similar to the combing out of a head of human
+                    hair. When half the length of the streak is thoroughly combed, the other half is
+                    treated in precisely the same manner. The hackled streak is then weighed,
+                    doubled up to prevent any entanglement, and laid aside for the process of
+                    spinning. During the hackling process a large quantity of comparatively short
+                    fibres are retained in the pins; the longest of these are separated, and the
+                    remainder used for tow yams. The above description refers entirely to hand
+                    hackling; machine hackling of hemp is very similar to flax hackling.</p>
+                <p>The spinning is done in what is, termed the “ rope-walk,” and from the nature of
+                    hand-spinning, and the length of the rope required, it is necessary that this
+                    walk should be from 300 to 400 yds. in length. It is sometimes completely
+                    covered in with walls and roof; at other times only a roof is built; while in
+                    exceptional cases the whole of the walk, with the exception of a small hut at
+                    each end, is without shelter of any kind. The operation of spinning is very
+                    important, as the weight of the yarn and the appearance of the finished product
+                    depend upon it. A description of spinning and laying as performed by the aid of
+                    the hand-wheel will perhaps be the best means of giving an idea of this useful
+                    branch of manufacture.</p>
+                <p>The front and end elevations of one variety of spinning-wheel are shown in figs.
+                    1 and 2. The apparatus is fixed to some convenient part of the building, or to
+                    special supports. The wheel A, which is turned by hand, and always in the same
+                    direction, communicates motion to the rotating hooks or “ whirls ” B, C, D and E
+                    by means of a listing band or strap F. The arrangement of the listing shows
+                    clearly that the hook E will revolve in the opposite direction to hooks B, C,
+                    and D. The spinner takes two streaks of the hackled hemp, wraps them round his
+                    waist with the ends at his back, and keeps the fibre in position by adjusting
+                    his apron partly round it. From the middle of the streak—that is, midway between
+                    the two ends —he takes hold of a quantity of fibre and hangs it on to one of the
+                    hooks B, C or D ; the assistant at the wheel begins to turn, and thus a certain
+                    amount of twist is imparted to the material between the spinner and the hook.
+                    The spinner now walks backwards down the walk, drawing out the fibre with his
+                    left hand and adjusting it with his right. A piece of flannel or woollen cloth
+                    held in his right hand aids in the formation of the thread and protects his
+                    fingers from the rough fibre. In some cases two threads are spun simultaneously;
+                    when this is done, two of the hooks, say B and C, are used at the same time.
+                    Since the revolutions of the hook divided by the length of yarn spun give the
+                    amount of twist per inch or foot, it follows that the ratio of the walking pace
+                    of the spinner to the revolutions of the wheel A should be constant, otherwise
+                    the yarn will not be uniform. The spinner calls to the assistant when there is
+                    any irregularity in speed, or when, from any cause, he is obliged to stop
+                    walking.</p>
+                <p>At convenient intervals in the length of the walk, and projecting from posts, are
+                    short horizontal bars; the top of each bar is provided with wires or pegs to
+                    form a number of vertical partitions something like a very coarse comb. As the
+                    spinner proceeds down the walk, he throws the spun yarn into one of these
+                    partitions, thus relieving himself of the weight and keeping the yarn off the
+                    ground. When a sufficient length of yarn has been spun, he breaks off the fibres
+                    and fastens the yarn to a convenient peg or hook until he has spun a sufficient
+                    number (usually three) to form a small rope or cord. The person at the wheel
+                    hangs these three yarns one on each of the three hooks B, G and D, while the
+                    spinner attaches the other ends to a revolving hook termed a “ looper.” All is
+                    now ready for “ laying ” the yarns. For small cords, this may be done, with or
+                    without a “ top.” This top is a conical-shaped piece of hard wood provided with
+                    three equidistant grooves which merge towards each other at the thin end, and
+                    into which the yarns arc laid. The thick end of the top is nearest the wheel, so
+                    that the yarns may be kept separate on that side. As the hooks twist the three
+                    threads, the spinner goes up the walk with the top; the twist in the yarns
+                    causes the looping hook to revolve in the opposite direction to the other hooks,
+                    and thus it twists the three threads in the opposite direction to the original
+                    twist.</p>
+                <p>Fig. 3 shows one form of top, the three yarns being shown in distinctive marks so
+                    that the path of each may be more easily followed by the reader ; a plan of the
+                    thick end of the top appears to the left of the figure. If four yarns of strands
+                    are required, the top would contain four grooves, as well as a hole .through the
+                    centre to admit of a core when such a thing is required. As soon as the spinner,
+                    who carries the top, arrives at the wheel, the assistant takes the yarns off
+                    hooks B, C and D (figs. I and 2), and puts them all on hook E. The other ends of
+                    the strands are removed from the looper and attached to a block of wood called a
+                    “ drag.” The wheel is then rotated as before, which puts more twist into the
+                    cord. While this operation, which is termed hardening, proceeds, a shrinkage in
+                    the length of the cord takes place, and the drag is consequently drawn up the
+                    walk. The drag, however, holds the cord taut, and serves to retain the twist
+                    which is imparted by the hook E.</p>
+                <p>If the strands require tarring before they are laid, they are separately taken
+                    off the hooks, after they have been spun, and tied at both ends to pegs to keep
+                    them taut until a sufficient number has collected to be conveniently handled at
+                    the tarring tank. The tar is heated to about 220° F., and the strands are then
+                    passed through it at a speed not greater than 15 ft. per minute. Before emerging
+                    from the tank, the strands pass between squeezing rollers which remove all
+                    superfluous tar. In a short time the strands are dry, while in the space of a
+                    few days the tar is hard enough to allow the strands to be formed into
+                    ropes.</p>
+                <p>Such is, in general, the hand process of forming ropes when they are composed of
+                    only three or four single yarns. It very often happens, however, that a number
+                    of single yarns are required to form each strand of the rope. The single yarns
+                    may be spun by hand, as described above, or by machinery. In the former case a
+                    group of yarns is usually termed a “ haul,” while the machine-spun yarns are
+                    formed into what is known as a “ warp ” or “ chain?’ In any case, the group of
+                    yarns is stretched down the rope-walk, at each end of which is a “ jack ”
+                    twister. A few of the yarns taken from the group—the number depending upon the
+                    size of the yarn and also upon the required diameter of the strand—are then
+                    placed on a hook of the jack twister and twisted together. .When three such
+                    strands are made they are laid into a rope in a similar manner to that explained
+                    above. A simple form of hand jack twister is illustrated in figs. 4 and 5. The
+                    wheel A gears with pinions B on the shafts of the hooks or whirls, and this
+                    imparts the necessary motion to the latter. At the other end of the walk is a
+                    similar machine which moves upon rails as the twist is put into the strands.
+                    When the hooks are empty, pinions B and wheel A (fig. 4) are out of gear, but
+                    those hooks carrying yarn are drawn out, as shown at C, until the pinion B gears
+                    with wheel A, when the hooks are rotated. The</p>
+                <pb xml:id="eb11-23-r04-0715" facs="encyclopaediabri23chisrich_0766.jp2"/>
+                <p>sequence of operations is very similar to that described for the simple
+                    hand-wheel.</p>
+                <p><hi rend="italic">Machine or Factory Rope-Making.—</hi> The most modern methods
+                    of rope-making are far superior to the foregoing, which, as stated, have been
+                    introduced to show the principle. One of the greatest drawbacks in the formation
+                    of a strand from a haul or chain, even for a small number of yarns, is the
+                    irregularity of the tension of the yarns at different parts of the strand. If a
+                    large number of yarns be required for each strand, it would be almost impossible
+                    to make a satisfactory rope by the above system. If, however, the strand be made
+                    from bobbins, each yarn bears its proper share of the tension, and an almost
+                    perfect rope is obtained.</p>
+                <p>Two mechanical methods are in use for the spinning of long vegetable fibres—the
+                    ordinary and the special. When flax or jute yarns are required, they are almost
+                    invariably spun on the ordinary spinning frames, and the yarn rewound from the
+                    spinning bobbins on warping bobbins, or else rewound in the shape of rolls or
+                    cheeses. Hemp yarns, especially the finer kinds, are sometimes treated in the
+                    same manner, but Manila hemp, New Zealand hemp <hi rend="italic"
+                        >(Phormium),</hi> and similar fibres, are invariably spun on bobbins by
+                    special machinery. The strands for light ropes may then be made on the twisting
+                    frames, and the rope finished on what is called a “ house machine.”</p>
+                <p>• When a large rope is desired, a slightly different method is usually employed.
+                    The bobbins from the automatic spinner, or the rolls from the winding frame, are
+                    placed upon pegs in a frame which answers the same purpose as a bank or creel
+                    used in conjunction with a warping machine. If the rope is to be say 31 in. in
+                    ^circumference, there may be, with fine yams, 300 or more individual threads in
+                    its composition. Suppose that 300 threads are to be used, then 300 bobbins would
+                    be placed on the pegs of the bobbin bank or creel, and divided into three sets
+                    of 100* threads each for . a three-strand rope. The threads are passed
+                    separately through a register* plate, which is simply a plate containing a
+                    sufficient number of holes for the maximum quantity required, and arranged in a
+                    series of concentric circles. There are. three sets of concentric rings used in
+                    the plate for a three-strand rope, and four sets for one of four strands. As the
+                    threads emerge from the register plate they are grouped together and passed
+                    through a tapered tube, the sectional area of the smaller end of the tube being
+                    equal to the sectional area of the strand. This operation is done for each group
+                    of 100 threads, and finally the three or four groups arc attached to separate
+                    rotating hooks of the forming machine or “ traveller.” As the latter moves down
+                    the walk on rails, it</p>
+                <p>draws the threads from the bobbins in the bank, and through</p>
+                <p>the register plate and tubes, while the hooks put in the twist. A perfectly
+                    circular strand, without slack threads, is thus formed; and, at the same time, a
+                    uniform strand is obtained, since the ratio of the speed of the traveller to the
+                    number of turns per inch of the hooks is constant. The process is continued
+                    until the desired length of strand is made—about 150 fathoms (300 yds.) of each
+                    of the three strands are required for 100 to 120 fathoms of rope—then a little
+                    more twist is introduced. Afterwards, all three strands are placed on one hook
+                    of the traveller, and the ends from the shaping tubes are cut off and put on the
+                    hooks of the fixed machine, called the “ fore-turn.” The carriage containing the
+                    “ top ” is now brought close to the traveller, and the strands are placed in the
+                    grooves of the top as explained under hand-laying. Similar means to those used
+                    in hand-spinning are adopted for keeping the rope off the ground. The two
+                    machines are now started, the three hooks of the fore-turn machine revolving in
+                    one direction and the single hook of the traveller revolving in the opposite
+                    direction. Simultaneously the carriage with the laying top moves forward towards
+                    the head of the walk.</p>
+                <p>Fig- 9» Plate I., shows many stages in the process of rope-making. The most
+                    prominent part shows the carriage with the top in position approaching the
+                    fore-turn machine at the head of the walk. The person on the right of the
+                    carriage is holding a top in his left hand, while the top in the carriage is
+                    laying a rope of four strands. At other parts of the figure appear three or four
+                    travellers, some twisting the strands, others moving up the walk as the laying
+                    proceeds, while on the extreme right one machine is laying two ropes, of three
+                    strands each, at the same time.</p>
+                <p>We have already stated that the yarns for the above machine may be prepared by
+                    two systems. When the hemp fibte is spun on the ordinary frame, the method of
+                    preparation for such a frame is somewhat similar to that employed for flax,, but
+                    since the fibre is harsher than flax, it invariably requires softening. The
+                    softening machines crush the streaks as m the case of jute, but the fluted
+                    rollers are arranged to form part of a circle. The coarser fibres receive a
+                    somewhat different treatment; the first process in the preparation of Manila
+                    hemp and similar fibres used for rope yarn is illustrated in fig. io, Plate I.
+                    The streaks are clearly shown as being led between fluted rollers on to the pins
+                    of the hackling and spreading machine; the lanterns or skeleton rollers,, seen
+                    on the extreme right, press the fibres into the pins. A little oil is made to
+                    drop on t cut he fibre in order to soften it and to facilitate the operation.
+                    The oiling apparatus is usually of a simple character, and consists of a
+                    revolving roller partly immersed in an oil bath. The roller is driven as shown
+                    in the figure, and the oil which it draws up is scraped off its surface by a
+                    knife-edge, and led, by means of a sheet, upon the fibre between the fluted
+                    rollers and the gill-pins. A view of a similar machine is shown in fig. 11,
+                    Plate II., from which it will be seen that there are two sheets of revolving
+                    gill-pins. The sheet nearest the feed-cloth revolves slightly quicker than the
+                    surface speed of the fluted feed rollers, while the second sheet moves at a much
+                    higher rate. The difference in the speeds of the gill-pins results in the fibre
+                    being combed out and straightened, while the delivery rollers, the surface speed
+                    of which is slightly greater than that of the second sheet of gill-pins, help
+                    further to complete the process, and finally deliver the fibre in the form of a
+                    broad ribbon, termed a sliver.</p>
+                <p>In general, three such machines are used for the process; the pins in the
+                    gill-sheets are graded, those in the second machine being finer and more closely
+                    set than those in the first machine, while a still finer and closer arrangement
+                    obtains in the third machine. The slivers from the third hackling and spreading
+                    machine are now placed at the back of the first drawing frame, one type of which
+                    appears in fig. 12, Plate II. Each sliver is passed separately over a guide
+                    pulley, led upon the pins, drawn out and joined by others, and finally delivered
+                    as a sliver ready for the second drawing frame. A similar process is carried on
+                    in this machine, from which the sliver emerges ready for the spinning frame. It
+                    will thus be seen that a system of doubling, as well as of drawing, obtains in
+                    these processes as in flax-preparing; such a system is adopted in order to
+                    obtain uniformity of sliver and the correct weight.</p>
+                <p>The slivers are taken from the drawing frame to the automatic spinner—a beautiful
+                    piece of mechanism. Fig. 13, Plate II., illustrates the machine as it leaves the
+                    makers. Two sliver cans from the second drawing frame are placed behind the
+                    machine, and the slivers passed between the rollers. They are then deflected and
+                    made to enter a trumpet-mouthed conductor which guides them on to the pins of
+                    the chain-sheet. As the two slivers emerge from these pins, each enters a
+                    separate self-feeding and adjusting apparatus, the function of which is, as its
+                    name implies, to regulate the delivery of the sliver to the nippers.. The
+                    delivery is increased or decreased according as the sliver is. thin.or thick.
+                    Consequently, a very even yarn results; indeed, it is claimed that for
+                    uniformity of yarn this system of spinning has no equal. The bobbins, which</p>
+                <pb xml:id="eb11-23-r04-0716" facs="encyclopaediabri23chisrich_0767.jp2"/>
+                <p>are placed in a horizontal position, have' a lateral movement, so that the
+                    finished yarn may be wound on evenly. This machine is made for ordinary rope
+                    yarn, and for binder twine for self-reaping machines. When all three spreading
+                    machines arc used in conjunction with the spiral drawing frames, the automatic
+                    feeding arrangement is sometimes considered unnecessary, because of the
+                    uniformity of the slivers when delivered from the finishing drawing</p>
+                <p>. frame.</p>
+                <p>Whence / = *536 ft., say -54 ft. per lb; that is to say, 1 lb of Manila fibre,
+                    approximately 6 in. in length, spread on the feed-table of No. 1 spreading and
+                    hackling machine, and subjected to the above drafts and doublings, would produce
+                    yarn No. 22" of 330 ft. per lb from the automatic spinner.</p>
+                <p>The bobbins from these automatic spinners may be used in the bank at the
+                    rope-walk as already indicated, or they may be taken to what is termed a “ house
+                    machine.” These machines are of two distinct kinds—vertical and horizontal. They
+                    perform the same work as the machines in the rope-walk, but take up much less
+                    space.</p>
+                <p>’ Figs. 16 and 17, Plate IV., illustrate two types of horizontal machines, each
+                    of which is capable of completing a rope in one operation. The process is pretty
+                    clear in fig. 17, which shows that eighteen threads are treated at once. On the
+                    right, and driven by spur gearing, arc three revolving carriages or creels, each
+                    containing six bobbins. Each group revolves as the yarns are drawn off the
+                    bobbins, and thus the threads are formed into three strands.’ As the strands
+                    emerge from the guides, they converge towards three other guides, are laid
+                    together, and finally the finished rope is wound on to the reel.</p>
+                <p>In principle the vertical machine is the same as the horizontal machine, and the
+                    rope is, consequently, made in one operation. Any number of bobbins, from 24 to
+                    128, may be twisted at the same time; the machine in fig. 18, Plate IV., is for
+                    making a rope of three strands, each with 12 threads, or 36 threads in all.
+                    These machines are also made to make ropes of four strands. The strands are
+                    formed by the rotation of the carriages, from the top of which each strand
+                    passes. The three strands then converge to, and pass through, the top of the
+                    machine, where they are laid into a rope. The latter passes over a series of
+                    guide pulleys, and is ultimately wound on the large drum shown In front of the
+                    machine. Such a machine for making a 128-thread, four-strand rope, occupies only
+                    about 125 sq. ft.—8 ft. 9 in.Xi4 ft. 4 in.</p>
+                <p>In addition to the heavy rope there are many varieties of cord and twine made by
+                    means of the preparing, spinning and doubling machines. The fishing industry
+                    takes many different types for lines and nets, while the variety of cord and
+                    twine for other industrial and for household purposes is almost unlimited. All
+                    yarn from long vegetable fibre is more or less rough as it leaves the spinning
+                    frame, even after two or more threads have been twisted together. It is
+                    therefore necessary, for many uses, to impart a polish to the cord or twine.
+                    Special machines are used for this purpose. A certain number of bobbins,
+                    depending upon the capacity of the machine, are placed in a bank, and the ends
+                    are collected and passed under a roller which is immersed in hot starch. The
+                    yarns become saturated</p>
+                <p>with this starch, but, as they emerge from the starch-box, the superfluous starch
+                    is removed by passing the yarns between two rollers. The yarns now pass over a
+                    series of drying cylinders and polishing rollers, and are finally rewound by the
+                    same machine on bobbins. These machines are termed bobbin-to-bobbin polishing
+                    machines. In some cases the hot drying cylinders are replaced by a system of hot
+                    air drying. The finished yarns are now made up by machinery into hanks, balls or
+                    cheeses, according to which happens to be the best state for future use and for
+                    transport.</p>
+                <p><hi rend="italic">Driving Ropes.—</hi> It has already been stated that cotton
+                    driving ropes are extensively applied in the transmission of motive power.
+                    Although the mechanical efficiency of transmission.by ropes is less than that
+                    obtained by wheel gearing, rope driving has several compensating
+                    advantages:—</p>
+                <p>1. It is practically noiseless.</p>
+                <p>2. It occupies less space than belt driving, and the slip is not</p>
+                <p>so great.</p>
+                <p>3. The turning movement is better; machines therefore run more</p>
+                <p>steadily and production is increased.</p>
+                <p>4. Shafts may be run at higher speeds.</p>
+                <p>5. Greater range of drives; anything from IO ft. to over 80 ft.,</p>
+                <p>and much greater distances when carrier pulleys are used.</p>
+                <p>6. The drive is usually obtained by a number of ropes; if one</p>
+                <p>should break, the rope, may be removed and the machinery run, in most cases,
+                    until stopping-time.</p>
+                <p>The number of ropes to be used depends upon the power to be transmitted and upon
+                    the surface speed of the driving pulley. The speed of the rope may vary from
+                    2000 ft. to 6000 ft. or over per minute. .In some few exceptional cases 60 ropes
+                    have been used on one pulley; the number usually varies between 15 and 40. (See
+                    also <hi rend="smallcaps">Power Transmission, §</hi>
+                    <hi rend="italic">Mechanical.)</hi> Fig. 6 shows the</p>
+                <p>application of these ropes, which pass direct from the main driving pulley to the
+                    different flats of the mill. Fig. 7 shows the construction of the Lambeth</p>
+                <p>four - strand cotton</p>
+                <p>rope. There are two</p>
+                <p>distinct systems of ar</p>
+                <p>ranging . the ropes on</p>
+                <p>the driver and the</p>
+                <p>driven pulleys. In the</p>
+                <p>United Kingdom each</p>
+                <p>rope is independent of</p>
+                <p>all . the others, and, as</p>
+                <p>it is unlikely for more</p>
+                <p>than one rope to break at a time, the stoppages are reduced to a minimum. In
+                    America, where hemp ropes are largely employed,</p>
+                <pb xml:id="eb11-23-r04-0717" facs="encyclopaediabri23chisrich_0770.jp2"/>
+                <p>the continuous system is mostly used; here the rope is wound round and round over
+                    driver and driven, and, except in rare cases, is joined only at one place.
+                    Although the system has the great advantage of the minimum number of joinings,
+                    it requires tension pulleys to keep the ropes taut. It is also clear that when
+                    the rope breaks at any point the machinery must stand until the repair is
+                    completed.</p>
+                <p><hi rend="italic">Wire Ropes.—</hi> Although the manufacture of ropes is of
+                    ancient origin, the practice of making ropes from wire on a large scale is of
+                    comparatively recent date. Since 1874, however, great developments have taken
+                    place in the manufacture of ropes from different kinds of wire, and the uses to
+                    which they can be put have enormously increased. This is owing almost entirely
+                    to the introduction of flexible wire ropes which were invented about this time
+                    by Messrs Bullivant &amp; Co. Ltd., of 72 Mark Lane, London, E.C. Prior to that
+                    date the uses at which wire ropes were put were limited to winding ropes for
+                    collieries and hauling, and to cases in which flexibility was not a great
+                    desideratum. The introduction of flexibility,, however, made possible the use of
+                    wire rope for ships’ hawsers and rigging, for cranes, derricks and other
+                    purposes for which hempen ropes were formerly employed—indeed it has almost
+                    entirely superseded hemp for marine uses. The reason is that it is much stronger
+                    for the same size than rope made from any other material, whilst for the same
+                    strength its size and weight are only about one-third that, of hempen rope.
+                    Consequently, the required power may be obtained with a wire rope of
+                    comparatively small bulk.</p>
+                <p>Wire rope is specially suited for aerial’ ropeways which provide a means of
+                    conveying ore, metals, merchandise, &amp;e., over ground where it would be
+                    difficult to arrange transport by ordinary means. Messrs Bullivant &amp; Co.
+                    Ltd., to whom we are indebted for the table of strengths and other particulars,
+                    as well as for the sectional illustration of wire ropes, construct seven
+                    different systems of aerial ropeways:—</p>
+                <p>1. The endless running rope, with carriers hanging therefrom</p>
+                <p>and moving with it.through frictional contact.</p>
+                <p>2. An endless rope, with the carriers hanging therefrom and</p>
+                <p>moving with it, being rigidly fixed in position on the rope.</p>
+                <p>3. The fixed rope, in which the carriers are drawn along and</p>
+                <p>hang from a fixed rope which acts also as a rail, returning on a parallel
+                    rope.</p>
+                <p>4. The single fixed rope, in which* one carrier, hanging from a</p>
+                <p>fixed rope, is drawn to and fro by means of an endless hauling rope.</p>
+                <p>5. The use of two fixed ropes with an endless hauling rope, in</p>
+                <p>which one carrier travels in one direction, while the other travels on a parallel
+                    rope in the opposite direction. This is a serviceable type of ropeway, capable
+                    of being used over extremely long spans, and of carrying loads up to 5 tons.</p>
+                <p>6. The use of one fixed rope placed on an incline, on which the</p>
+                <p>carriers (uncontrolled by hauling ropes) with their suspended loads are allowed
+                    to run down at a high speed. This is generally called a “ shoot.”</p>
+                <p>7. Bullivant’s system of aerial ropeway for raising, lowering,</p>
+                <p>and transporting heavy loads, by means of which a load can be hoisted, traversed
+                    in either direction and deposited at one. operation. . •</p>
+                <p>The flexibility of a wire rope depends upon the number of wires of which it is
+                    formed; consequently the use to. which a rope is to be put will partly determine
+                    the number of wires used in its construction. In some cases nearly 400
+                    individual wires are employed in making one rope. Fig. 8 shows in section ten
+                    different types of construction, the particulars of which appear below:—</p>
+                <p>1. Laid rope made of 6 strands of 7 wires each. This is the</p>
+                <p>class of rope most frequently used for hauling, ropes where the size of the
+                    barrel and sheave will permit; it is also the make of rope in general use for
+                    standing rigging, and is such as is required by Lloyd’s regulations.</p>
+                <p>2. Hauling rope made of 6 strands, each strand being of 7 wires</p>
+                <p>covering 7 smaller ones.</p>
+                <p>3. Hauling rope made of 6 strands, each of 8 wires covering</p>
+                <p>7 smaller ones.</p>
+                <p>4. Hauling rope made of 6 strands, each of 10 wires covering</p>
+                <p>7 smaller ones.</p>
+                <p>5. Formed rope made of 6. strands of 19 wires each. In larger</p>
+                <p>sizes this make of rope is used for standing rigging on vessels. In smaller sizes
+                    it is sometimes used for running rigging, and it is the usual make of rope for
+                    trawl warps.</p>
+                <p>6. Flexible steel wire rope, made of 6 strands each of 12 wires,</p>
+                <p>with hemp heart and hemp centre in each strand. This is the usual make of
+                    flexible steel wire rope, 4I in. in circumference and smaller; used for hawsers,
+                    running lifts, hoists, &amp;c.</p>
+                <p>7. Extra flexible steel wire rope made of 6 strands each of</p>
+                <p>24 wires.</p>
+                <p>8. Special extra flexible steel wire rope made of 6 strands each of</p>
+                <p>37 wires.</p>
+                <p>9. Special extra flexible steel wire rope made of 6 strands each of</p>
+                <p>61 wires. This is the make of rope usually adopted for large ropes—say over io*
+                    in. in circumference—which are largely used for slipway and salvage
+                    purposes.</p>
+                <p>10. Cable-laid rope. This is an obsolete form of rope, which is composed of six
+                    complete ropes twisted together.</p>
+                <p>The diameter of drums and sheaves should be about thirty times the circumference
+                    of the rope.</p>
+                <p>For shaft winding at high speed one-tenth of the breaking strain of a rope is
+                    sometimes taken as a fair working load. For inclines, the proportion of load to
+                    breaking strain varies according to gradient conditions, and friction should be
+                    allowed for.</p>
+                <p>The first requisite in the manufacture of wire ropes is the selection and
+                    blending of the different iron ores. The different processes through which the
+                    metal passes, and the hammering and drawing into rods, require great experience,
+                    and give to it the peculiar properties that are essential for the finished
+                    article. The same remarks apply to the annealing and hardening processes, during
+                    which the rods are drawn through dies to the required gauge. The wire is now
+                    subjected to special processes of galvanizing in order to make it proof against
+                    atmospheric and other influences. Afterwards it is wound on bobbins of suitable
+                    size, a definite number of which are mounted on the forks or frames of the
+                    stranding machine. These forks are swung or pivoted between disks, which are
+                    keyed on a hollow main shaft, through which the wires or other material</p>
+                <pb xml:id="eb11-23-r04-0718" facs="encyclopaediabri23chisrich_0771.jp2"/>
+                <p>intended for the core pass. This core is of such a size that the aggregate number
+                    of wires that are mounted in the machine exactly cover it in a spiral
+                    direction.</p>
+                <p>All the wires, including the centre core, are passed through their individual
+                    hollow spindles, then led to the nose or head of the machine, and finally passed
+                    through a stationary compression block to drawoff wheels. The speed of these
+                    wheels is regulated in proportion to the speed of the machine by means of
+                    suitable gearing. During the revolutions of the machine each bobbin and fork is
+                    kept in a vertical position, and floats thus, by means of an eccentric ring
+                    behind the back disk. This ring is connected to the spindles of the bobbin forks
+                    by means of small cranks, thus preventing any torsional movement that would
+                    otherwise be imparted to the individual wires.</p>
+                <p>Each bobbin is controlled by a brake which acts as a tensioning device so that
+                    equal strain can be applied to each, allowing the wires to unwind uniformly. The
+                    finished strands are wound in turn upon large bobbins, and mounted in the flyers
+                    or disks.of the rope closing machine. These machines are similar in design to
+                    the stranding machine, but are naturally much heavier in construction, and
+                    therefore revolve at a proportionate speed. The speed of the machines varies
+                    according to the weight of material, the size of the strands and the
+                    construction of the finished rope. The modern machine, or the type most
+                    generally used, makes about fifty revolutions per.minute, whilst three times
+                    this speed is often obtained when spinning the strands.</p>
+                <p>The rapid strides made by electricity have furnished another large branch of what
+                    may be termed wire rope manufacture. The ropes used for electrical purposes are
+                    almost invariably termed cables, and there are many different kinds and sizes of
+                    them. The wire must necessarily possess good conducting power, and be
+                    comparatively cheap. Up to the present, copper has proved to be the chief
+                    material possessing these two important properties in combination ; hence it is
+                    the metal <hi rend="italic">par excellence</hi> for electrical conduction.
+                    Aluminium and alloys have been tried with varying degrees of success.</p>
+                <p>The conductor itself consists of a strand of soft copper wires, around which the
+                    dielectric or non-conducting material is placed. The methods of forming the
+                    strands do not differ essentially from those described above. The dielectric is
+                    usually paper, spun jute fibre, vulcanized india-rubber or vulcanized bitumen.
+                    If the first two dielectrics are used, a lead sheath is necessary to enclose the
+                    insulated strand and so exclude moisture; if the cable is likely to get damaged,
+                    it is further enclosed by steel tapes or steel wires, and finally covered with,
+                    yarn or braid. Vulcanized bitumen is not only a dielectric, but is also
+                    absolutely impervious to moisture. Hence in many instances where paper or fibre
+                    is employed.as the principal dielectric, a sheath of vulcanized bitumen is used
+                    instead of lead to exclude moisture. Cables are also made with a single central
+                    stand of copper wires in addition to one or more concentric layers of copper
+                    wires, the layers being separated by some dielectric material; or there may be
+                    two or more strands, separately insulated, and more or less elaborately clothed
+                    with the above-mentioned substances. (T. Wo.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

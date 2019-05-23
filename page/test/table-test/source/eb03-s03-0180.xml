@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:07Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>foreſide oſ the after bits be the aft part of the foremoſt magazine, drawing the
+                bulkhead thereof, which will come to the aft side of the sixth beam ; therefore,
+                from the sixth beam to the foremoſt end of the orlop, the plank and beams will be
+                repreſented juſt in the ſame manner as before mentioned for the after part of the
+                orlop : then the midſhip part of the deck will be repreſented by letting the upper
+                line be the upper side of the plank, and likewiſe the upper side of the beams ; and
+                the lower line will repreſent the lower edge of the plank, only drawing it from beam
+                to beam, and obſerving not to let it paſs through them.</p>
+            <p>The hatchways, &amp;c. may now be repreſented on the orlop, letting the main, fore,
+                and after hatchway, be exactly under thoſe of the gun-deck : there muſt be one over
+                the fiſh room, and one over the spirit room. There muſt be two ſcuttles over the
+                after magazine for the passage to the magazine and light room. There ſhould alſo be
+                one afore the fourth beam from forward for the passage to the fore magazine, and one
+                abaft the ſecond beam for the paſſage to the light room.</p>
+            <p>The bulkheads for the fore and after parts of the well may be drawn from the lower
+                deck beams to the orlop, and from thence to the limber ſtrake in the hold. The ſhot
+                lockers may alſo be repreſented, having one afore and one abaft the well : there
+                ſhould alſo be one abaft the foremoſt magazine, the ends of which may be formed by
+                the after bits. The ſteps of the masts may be drawn in by continuing their centres
+                down to the limber ſtrake ; and likewiſe two crutches abaft the mizen ſtep divided
+                equally between that and the after part of the cutting down : the breaſt hooks may
+                alſo be drawn letting them be five in number below the lower deck hook, and all
+                equally divided between that and the fore ſtep. Hence every part of the inboard is
+                decribed as far as neceſtary.</p>
+            <p><hi rend="smallcaps">Chap.</hi> V. <hi rend="italic">Of the Method of
+                    Whole-moulding.</hi></p>
+            <p><hi rend="smallcaps">Having</hi> now finiſhed the methods of laying down the ſeveral
+                plans of a ſhip, any farther addition on this ſubject might appear unnecessary. We
+                cannot, however, with propriety, omit to deſcribe the method called <hi
+                    rend="italic">whole-moulding,</hi> uſed by the ancients, and which still
+                continues in uſe among thoſe unacquainted with the more proper methods already
+                explained. This method will be illuſtrated by laying down the ſeveral plans of a
+                longboat; the length of the keel being 29 feet, and breadth moulded nine ſeet.</p>
+            <p>Draw the ſtraight line PO (fig. 37.) equal to 29 feet, the extreme length oſ the
+                boat, and alſo to repreſent the upper edge of the keel. Let ⊕ be the ſtation of the
+                midſhip frame. From the points P, ⊕, and O, draw the lines PT, ⊕M, and OS,
+                perpendicular to PO. Make ⊕M, ⊕N, equal to the upper and lower heights of breadth
+                reſpectively at the main frame, PT the height of breadth at the tranſom, and OS the
+                height at the ſtem. Deſcribe the curve TMS to repreſent the ſheer or extreme height
+                of the side, which in a ſhip would be called the <hi rend="italic">upper height oſ
+                    breadth line,</hi> or upper edge of the wale. Through the point N draw a curve
+                parallel to TMS, to repreſent the breadth of the upper ſtrake of a boat, or lower
+                edge of the wale if in</p>
+            <p>a ſhip. The dotted line TNS may alſo be drawn to repreſent the lower height of
+                breadth.</p>
+            <p>Set off the rake of the port from P to <hi rend="italic">p,</hi> and draw the line
+                    <hi rend="italic">p t</hi> to repreſent the aft side of the port ; then T <hi
+                    rend="italic">t</hi> will repreſent the round up of the tranſom. Set off the
+                breadth of the port from <hi rend="italic">p</hi> to r, and from T to s, and draw
+                the line <hi rend="italic">r</hi> s to repreſent the foreside of the port, which may
+                either be a curve or a ſtraight line at pleaſure. Set up the height of the tuck from
+                    <hi rend="italic">p</hi> to <hi rend="italic">k. </hi>Let <hi rend="italic"
+                    >k</hi> X be the thickneſs of the tranſom, and draw the line ZX to repreſent the
+                foreside of the tranſom.</p>
+            <p>There is given the point S, the height of the ſheer on the foreside of the ſtem ; now
+                that side of the ſtem is to be formed either by ſweeps or some other contrivance.
+                Set off the breadth of the ſtem, and form the aft side of it.</p>
+            <p>Set up the dead-rising from ⊕ to d, and form the rising line r i s. Draw the line KL
+                parallel to PO to repreſent the lower edge of the keel, and another to repreſent the
+                thickneſs of the plank or the rabbet. The rabbet on the poſt and ſtem may also be
+                repreſented ; and the ſtations of the timbers aſſigned, as⊗, ( 1 ), 1, 2, 3, 4, 5,
+                6, 7, 9 ; and ⊕, (A), A, B, C, D, E, F, G, H ; and the ſheer plan will be completed.</p>
+            <p>The half-breadth plan is to be formed next ; for this purpoſe the perpendiculars TP,
+                9, 8, &amp;c. muſt be produced. Upon M⊕ produced ſet off the half breadth from the
+                line KL to R (fig. 38.) ; ſet off alſo the half breadth at the tranſom from K to <hi
+                    rend="italic">b,</hi> and deſcribe the extreme half breadth line <hi
+                    rend="italic">b</hi> RX, making the forepart of the curve agreeable to the
+                propoſed round of the tranſom.</p>
+            <p>We may next proceed to form the timbers in the body plan. Let AB (fig. 39.) be the
+                breadth moulded at ⊕. Erect the perpendicular CD in the middle of the line AB ; draw
+                the line <hi rend="italic">m n</hi> diſtant therefrom the half thickneſs of the
+                poſt, and <hi rend="italic">x y</hi> the half thickneſs of the ſtern. Then take off
+                the ſeveral portions of the perpendiculars®, 1, 2, &amp;c. intercepted between the
+                upper edge of the keel and the rising line in the ſheer plan, and ſet them up from C
+                upon the line CD ; through theſe points draw lines parallel to AC ; take off alſo
+                the ſeveral lower heights of breadth at⊗ , 1, 2, &amp;c. from the sheer plan ; and
+                ſet them up from C upon the middle line in the body plan; and draw lines parallel to
+                AC through theſe points : Then take off the ſeveral half breadths correſponding to
+                each from the floor plan ; and ſet them off on their proper half-breadth lines from
+                the middle line in the body plan.</p>
+            <p>Conſtruct the midſhip frame by Problem V. the form of which will in ſome meaſure
+                determine the form of the rest. For if a mould be made on any side of the middle
+                line to fit the curve part of it, and the rising line, or that marked <hi
+                    rend="italic">bend mould</hi> (fig. 40.), and laid in ſuch a manner that the
+                lower part it, which is ſtraight, may be ſet upon the ſeveral rising lines, and the
+                upper part juſt touch the point of the half breadth in the breadth line
+                correſponding to that rifing upon which the mould is placed, a curve may then be
+                drawn by the mould to the rising line. In this manner we may proceed ſo far as the
+                rising line is parallel to the lower height oſ the breadth line. Then a hollow mould
+                muſt be made, the upper end of which is left ſtraight, as</p>
+        </body>
+    </text>
+</TEI>

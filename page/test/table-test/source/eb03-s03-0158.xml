@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:35Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>mixtilineal ſpace D N Y. Hence the capacity of the main frame formed by the ſtraight
+                lines MN, NY will be equal to that of the frame formed by the curve <hi
+                    rend="italic">Ma </hi>D Y ; and the frame formed by the ſtraight lines will for
+                the moſt part be always more ſuſceptible of receiving a bow that will eaſily divide
+                the fluid. It is alſo evident, that the cargo or ballaſt, being lower in the frame
+                formed of ſtraight lines than in the other, it will therefore be more advantageouſly
+                placed, and will enable the ſhip to carry more ſail @@(c); ſo that having a bow
+                equally well or better formed, ſhe will ſail faſter.</p>
+            <p><hi rend="smallcaps">Prob.</hi> VI. To deſcribe a ſtern having aſquaretuck.</p>
+            <p>Let AB (fig. <hi rend="smallcaps">ii.)</hi> be the middle line of the poſt, and let
+                CD be drawn parallel thereto at a diſtance equal to half the thickneſs of the poſt.
+                Make CE equal to the height of the lower part of the ſaſhion- piece above the keel :
+                make CT equal to the height of the extremity G of the tranſom above the plane of the
+                keel produced, and CH equal to the height of the tranſom bn the poſt, HT being equal
+                to above one-ninth or one-tenth of GT, and deſcribe the arch GH, the centre of which
+                will be in BA produced : make EK equal to five-twelfths of ET ; through K draw KL
+                perpendicular to CD, and equal to EK ; and with an extent equal to EL deſcribe the
+                arch EL. Make GI equal to the half of ET, and from the centre I deſcribe the arch
+                GM, and draw the reconciling curve ML.— Let the curve of the faſhion-piece be
+                produced upwards to the point repreſenting the upper height of breadth, as at O.
+                Make ON equal to the height of the top- timber, and BN equal to the half breadth at
+                that place, and join ON. Through N and the upper part of the counter, let arches be
+                deſcribed parallel to GH, The tafferel, windows, and remaining part of the ſtern,
+                may be finiſhed agreeable to the fancy of the artiſt.</p>
+            <p>In fig. 12. the projection of the ſtern on the plane of elevation is laid down, the
+                method of doing which is obvious from inſpection.</p>
+            <p>If the tranſom is to round aft, then ſince the ſaſhion pieces are always ſided
+                ſtraight, their planes will interſect the ſheer and floor planes in a ſtraight line.
+                Let G <hi rend="italic">g</hi> (fig. 14.) be the interſection of the plane of the
+                faſhion-piece with the floor plane. From the point <hi rend="italic">g </hi>draw <hi
+                    rend="italic">g</hi> W perpendicular to <hi rend="italic">g</hi> M : make <hi
+                    rend="italic">y k</hi> equal to the height of the tuck, and W <hi rend="italic"
+                    >k</hi> being joined v. ill be the interſection of the plane of the
+                faſhion-piece with the ſheer plane. Let the water lines in the sheer plane produced
+                meet the line <hi rend="italic">k W</hi> in the points a, <hi rend="italic">s,
+                    b,</hi> and draw the perpendiculars aa, ss, hh<hi rend="italic">.</hi> From the
+                points <hi rend="italic">a,s,</hi> a, s, h (fig.14.) draw lines parallel to Gg to
+                interſect each corresponding water line in the floor plane in the points 3, 2, 1.
+                From the points G, 3, 2, 1 in the floor plane draw lines perpendicular to <hi
+                    rend="italic">g</hi> M, interſecting the water lines (fig. 13.) in the points G,
+                3, 2, 1 ; and through theſe points deſcribe the curve G 3 2 1 <hi rend="italic"
+                    >k</hi> ; and WG 3 2, 1 <hi rend="italic">k</hi> will be the projection of the
+                plane of the faſhion- piece on the ſheer plane. Through the points G, 3, 2,</p>
+            <p>1 (fig. 13.) draw the lines GF, 3 A, 2 S, 1 H, perpendicular to W <hi rend="italic"
+                    >k</hi> ; and make the lines WF, <hi rend="italic">a</hi> A, <hi rend="italic"
+                    >s</hi> S,</p>
+            <p>h H, equal to the lines <hi rend="italic">g</hi> G, <hi rend="italic">a</hi> 3, <hi
+                    rend="italic">s 2, h</hi> 1 (fig. 14.) reſpectively, and WFASH <hi rend="italic"
+                    >k</hi> will be the true form of the plane of the aft side of the faſhion-piece.
+                When it is in its proper poſition, the line WF will be in the ſame plane with the
+                ſheer line ; the line <hi rend="italic">a</hi> A in the same plane with the water
+                line <hi rend="italic">a</hi> 3 ; the line <hi rend="italic">s</hi> S in the ſame
+                plane with the water line s 2 ; and the line h H in the ſame plane with the water
+                line <hi rend="italic">k</hi> 1. If lines be drawn from the ſeveral points of
+                interſection of the water lines with,· the rabbet of the port (fig. 13),
+                perpendicular to <hi rend="italic">g</hi> M, and curved lines being drawn from theſe
+                points to G, 3, 2, 1 (fig. 14.) reſpectively, will give the form and dimenſions of
+                the tuck at the ſeveral water lines.</p>
+            <p><hi rend="smallcaps">Prob.</hi> VII. To bevel the faſhion-piece of a ſquare tuck by
+                water-lines-</p>
+            <p>As the faſhion-piece both rakes and cants, the planes of the water-lines will
+                therefore interſect it higher on the aft than on the fore-ſide : but before the
+                heights on the fore-side can be found, the breadth of the timber muſt be determined
+                ; which let be <hi rend="italic">bn</hi> (fig. 15.) Then, as it cants, the breadth
+                in the direction of the waterline will exceed the true breadth. In order to find the
+                true breadth, form the aft-ſide of the faſhion-piece as directed in the laſt
+                problem.</p>
+            <p>Let <hi rend="italic">t</hi> 5 (fig. 13.) be the aft-ſide of the rabbet on the
+                outſide of the poſt, WM the common section of the plan of the faſhion-piece and the
+                ſheer-plan. Before this laſt line can be determined, the ſeveral water-lines 1, 2,
+                3, 4, and 5, muſt be drawn parallel to the keel, which may repreſent ſo many
+                tranſoms.— Let theſe water lines be formed and ended at the aft- ſide of the rabbet,
+                as in ſig. 14. where the rounds aft of the ſeveral tranſoms are deſcribed, limiting
+                the curves of the water lines. Now the line WM muſt rake ſo as to leave room for
+                half the thickneſs of the poſt, at the tuck : in order to which, produce Wg to <hi
+                    rend="italic">r</hi> ; make <hi rend="italic">rg </hi>half the thickneſs of the
+                poſt ; through <hi rend="italic">r</hi> draw a line parallel to <hi rend="italic"
+                    >g</hi> M to intersect G in <hi rend="italic">b</hi> : then with the radius <hi
+                    rend="italic">r b,</hi> from .v the point of the tuck as a centre, deſcribe an
+                arch, and draw the line WM juſt to touch the back of that arch.</p>
+            <p>The linc WM being drawn, let any point <hi rend="italic">k</hi> in it be aſſumed at
+                pleaſure : from <hi rend="italic">k</hi> draw <hi rend="italic">k</hi> y
+                perpendicular to gM : through y draw y <hi rend="italic">f</hi> (fig. 14.) parallel
+                to g G, intersecting the line M f drawn perpendicular to <hi rend="italic">g</hi> M
+                in the point f<hi rend="italic">.</hi> From M draw M <hi rend="italic">i</hi>
+                perpendicular to <hi rend="italic">yf,</hi> and from y draw y <hi rend="italic"
+                    >n</hi> perpendicular to WM (rig. 13.) Make Μ n (fig. 15.) equal to Mi (fig.
+                14.) ; then MI (fig. 15. ) being equal toy <hi rend="italic">k</hi> (fig. 13 ), join
+                    <hi rend="italic">n</hi> 1, and the angle 1 n M will be the bevelling to the
+                horizontal plane. Again, make Mz, Mf(fig. 15. ) reſpectively equal to yn (fig. 13.)
+                and Mf (fig. 14.), and join <hi rend="italic">z J</hi> ; and the angle Mzf will be
+                the bevelling to the ſheer plane.</p>
+            <p>The bevelling being now found, draw the line <hi rend="italic">a b </hi>(fig. 15.)
+                parallel to <hi rend="italic">z n, a z</hi> or <hi rend="italic">b n</hi> being the
+                ſcantling of the timber. Then <hi rend="italic">n x</hi> will be the breadth of the
+                timber on the horizontal plane, and <hi rend="italic">z e</hi> its breadth on the
+                ſheer plane, and <hi rend="italic">a c</hi> what it is within a ſquare.</p>
+            <p>Now as the lines <hi rend="italic">g G, a 3, s 2, h 1, yi,</hi> repreſent</p>
+            <p>@@@(c) It is not a general rule, that lowering the cargo of a ſhip augments her
+                ſtability. This is demouſtrated by the Chevalier de Borda, in a work publiſhed by M.
+                de Goimpy upon this ſubject. See alſo L'A<hi rend="italic">rchitecture Navale par M.
+                    Rial du Clairbois,</hi> p. 23.</p>
+        </body>
+    </text>
+</TEI>

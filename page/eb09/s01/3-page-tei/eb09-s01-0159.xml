@@ -1,36 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>unknown title</title>
-                <author>unknown author</author>
-            </titleStmt>
-            <editionStmt>
-                <edition><date>unknown date</date></edition>
-            </editionStmt>
-            <publicationStmt>
-                <p>unknown</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Converted from a Word document with eb-docx2tei.</p>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
-                    <label>Knowledge Project: DOCX to TEI</label>
-                </application>
-            </appInfo>
-        </encodingDesc>
-        <revisionDesc>
-            <listChange>
-                <change><date>2019-02-10T23:18:43Z</date><name>unknown author</name></change>
-            </listChange>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>unknown title</title><author>unknown author</author></titleStmt><editionStmt><edition><date>unknown date</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document with eb-docx2tei.</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>Knowledge Project: DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2019-05-23T18:48:14Z</date><name>unknown author</name></change></listChange></revisionDesc></teiHeader><text><body>
             <p>the <hi rend="italic">Vamśa-brâhmana,</hi> a mere list of the Sâmaveda teachers. To '
                 these works has to be added the <hi rend="italic">Jaiminîya-</hi> or <hi
                     rend="italic">Talavakâra- brâhmana,</hi> discovered by the late Dr A. Burnell,
@@ -105,7 +73,8 @@
                 constant intermixture of textual and exegetic portions. The Charakas and Taittiriyas
                 thus do not recognize the distinction between Samhita and Brahmana in the sense of
                 two separate collections of texts, but they have only a Samhitâ, or collection,
-                which includes likewise the exegetic or Brahmana portions. The Taittiriyas seem at last to have been impressed with their
+                which includes likewise the exegetic or</p>
+            <p>Brahmana portions. The Taittiriyas seem at last to have been impressed with their
                 want of a separate Brahmana and to have set about supplying the deficiency in rather
                 an awkward fashion : instead of separating from each other the textual and exegetic
                 portions of their Samhitä, they merely added to the latter a supplement (in three
@@ -116,8 +85,8 @@
                 sists of seven ashtakas, instead of eight, as this term requires, and that certain
                 essential parts of the ceremonial handled in the Brahmana are entirely wanting in
                 the Saiphitä. Attached to this work is the <hi rend="italic"
-                    >Taittirtya-âranyaka,</hi><hi rend="italic superscript">@@2</hi> in ten books, the
-                first six of which are of a ritualistic nature, while of the remaining books the
+                    >Taittirtya-âranyaka,</hi>@@<hi rend="italic superscript">2</hi> in ten books,
+                the first six of which are of a ritualistic nature, while of the remaining books the
                 first three (7-9) form the <hi rend="italic">Taittirîya-panishad</hi> (consisting of
                 three parts, viz., the Sikshavalli or Samhitopanishad, and the Anandavalli and
                 Bhriguvalli, also called together the Varuni- upanishad), and the last book forms
@@ -207,6 +176,4 @@
                 chapter into German. In <hi rend="italic">Sacred Books of the East,</hi> a
                 translation, by J. Eggeling, is being published,—2 vols., containing the first four
                 books, having appeared.</p>
-        </body>
-    </text>
-</TEI>
+        </body></text></TEI>

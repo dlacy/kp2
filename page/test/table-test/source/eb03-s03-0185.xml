@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:15Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row cols="5">
+                    <cell> </cell>
+                    <cell> </cell>
+                    <cell cols="3"><hi rend="italic">Value.</hi></cell>
+                </row>
+                <row>
+                    <cell> </cell>
+                    <cell>Brought over</cell>
+                    <cell>L. 344</cell>
+                    <cell>5</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>Breadthning</cell>
+                    <cell>2 loads 7 feet, Dantzic fir timber.</cell>
+                    <cell>11</cell>
+                    <cell>1</cell>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell>Cheeks</cell>
+                    <cell>4 loads 2 feet,</cell>
+                    <cell>20</cell>
+                    <cell>18</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell cols="2">Iron, 5 cwt. 2 qrs 24 lb.</cell>
+                    <cell>8</cell>
+                    <cell>0</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell cols="2">Knees, elm timber, 13 feet,</cell>
+                    <cell>0</cell>
+                    <cell>15</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell cols="2">Iron, 2 qrs. 14 lb.</cell>
+                    <cell>0</cell>
+                    <cell>17</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell cols="2">Hoops and bolts on the body, 13 cwt. 1 qr. 16 lb.</cell>
+                    <cell>18</cell>
+                    <cell>15</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell cols="2">Treſſel trees, ſtraight oak timber, second fort, 2 loads 10
+                        feet,</cell>
+                    <cell>10</cell>
+                    <cell>2</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell cols="2">Iron, 3 qrs. 10 lb.</cell>
+                    <cell>1</cell>
+                    <cell>3</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell cols="2">Croſs trees, ſtraight oak timber, second fort, 1 load 12
+                        feet,</cell>
+                    <cell> 5</cell>
+                    <cell>14</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell cols="2">Iron, 2 qrs. 2 lb.</cell>
+                    <cell>0</cell>
+                    <cell>14</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell cols="2">Cap, elm timber, 1 load 24 feet,</cell>
+                    <cell>4</cell>
+                    <cell>6</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell cols="2">Iron, 2 cwt. 14 lb.</cell>
+                    <cell>2</cell>
+                    <cell>19</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell cols="2">Fullings, bolſters, bollins, and Dantzic fir, 1 load 2
+                        feet,</cell>
+                    <cell>5</cell>
+                    <cell>7</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell cols="2">Workmanſhip</cell>
+                    <cell>78</cell>
+                    <cell>6</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell cols="2"> </cell>
+                    <cell>L. 513</cell>
+                    <cell>6</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell cols="2">Main-topmaſt of a 74 gun ſhip,</cell>
+                    <cell>50</cell>
+                    <cell>16</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell cols="2">Main top-gallant-maſt,</cell>
+                    <cell>8</cell>
+                    <cell>11</cell>
+                    <cell>0</cell>
+                </row>
+            </table>
+            <p>In order to leſſen the enormous expence of masts, a propoſal was made ſome years ago
+                to conſtruct them hollow; and the author having premiſed ſeveral experiments which
+                he had made, proceeds as follows:@@</p>
+            <p>“ Galileo taught us, that the reſiſtance or ſtrength of a hollow cylinder is to that
+                of a full cylinder, containing the ſame quantity of matter, as the total diameter of
+                the hollow one is to the diameter of the full one; and theſe experiments ſhow us,
+                that the ſtrength or reſiſtance of two or more pieces of wood, faſtened together at
+                each end, and connected by a pillar, pillars, or framing, increaſes, at leaſt to a
+                certain degreee, caeteris paribus, as the diſtance between them and number of
+                pillars, provided the force is applied in the line or direction of the pillars.</p>
+            <p>“ It is ſurprising that this diſcovery of Galileo has not been made ſubſervient to
+                more uſeful purpoſes. It is particularly applicable to the construction of maſts, as
+                not requiring that the hollow cylinder ſhould be made of one solid piece of wood
+                @@(g).</p>
+            <p>“ However, the foregoing experiments teach us, that the ſame advantages may be
+                obtained by other forms beſides that of a cylinder ; and that perhaps not only in a
+                ſuperior degree, but likewiſe with greater facility of execution ; as by adopting a
+                ſquare figure, but more particularly by eonſtructing them of ſeparate pieces of
+                wood, placed at proper diſtances from each other, in the following or any other
+                manner that may be found moſt convenient. Fig. 44, 45, and 46, exhibit each the
+                tranſverſe ſection of a maſt, in which the ſmall circles repreſent the trees or
+                upright pieces of wood, and</p>
+            <p>the lines the beams or framing of wood, which are employed at proper places and at
+                proper diſtances from each other, for connecting them together. Perhaps ſolid frames
+                of wood, placed at proper diſtances from each other, and filling up the whole dotted
+                ſpace, would anſwer better ; in which event, the maſt could be ſtrongly hooped with
+                iron at thoſe places, and the upright trees formed ſquare, or of any other
+                convenient form.</p>
+            <p>“ It will be evident to thoſe acquainted with this ſubject, that ſuch maſts would be
+                greatly ſtronger than common ones containing the ſame quantity of materials. It is
+                likewiſe evident that they would be leſs apt to ſpring, as being ſupported on a more
+                extended baſe, and affording many conveniences for being better ſecured ; and that
+                they might be conſtructed of ſuch wood as at preſent would be deemed altogether
+                improper for maſts : a circumſtance of importance to Britain at all times, but more
+                particularly now, when there is ſuch difficulty in procuring wood proper for the
+                kind of maſts in common uſe.”</p>
+            <p>An improvement in the rudder has lately taken place in ſeveral ſhips, particularly in
+                ſome of thoſe in the ſervice of the Eaſt India company. It will, however, be
+                neceſſary previouſly to deſcribe the uſual form of the rudder, in order to ſhow the
+                advantages it poſſeſſes when conſtructed agreeable to the improved method.</p>
+            <p>N⁰ I. (fig. 47) repreſents the rudder according to the common method of conſtruction
+                ; in which AB is the axis of rotation. It is hence evident that a ſpace conſiderably
+                greater than the tranſverſe ſection of the rudder at the counter muſt be left in the
+                counter for the rudder to revolve in. Thus, let CAB (n⁰ 3.) be the ſection of the
+                rudder at the counter ; then there muſt be a ſpace ſimilar to CDE in the counter, in
+                order that the rudder may be moveable as required. Hence, to prevent the water from
+                waſhing up the rudder caſe, a rudder coat, that is, a piece of tarred canvas, is
+                nailed in ſuch a manner to the rudder and counter as to cover the intermediate ſpace
+                : but the canvas being continually waſhed by the ſea, ſoon becomes brittle, and
+                unable to yield to the various turns of the rudder without breaking ; in which caſe
+                the ſhip is of courſe left pervious to the waves, even of three or four feet high ;
+                in fact, there are few men bred to the ſea who have not been witneſſes to the bad
+                effects of ſuch a ſpace being left ſo ill guarded againſt the ſtroke of the waves ;
+                and many ſhips have, with great probability, been ſuppoſed to founder at ſea from
+                the quantity of water ſhipped between the rudder and counter.</p>
+            <p>It was to remedy this defect that the alteration above alluded to took place ; which
+                conſiſts in making the upper part AEG (fig. 48, n⁰ 1.) of the rudder ABD
+                cylindrical, and giving that part at the ſame time a caſt forward, ſo that the axis
+                of rotation may by that means be the line AD, palling as uſual from E to E), through
+                the centres of the braces which attach the rudder to the ſtern-poſt, and from E to A
+                through the</p>
+            <p>@@@[mu] <hi rend="italic">Princples of Naval Architecture,</hi> p. 50.</p>
+            <p>@@@(g) The ſtrength of theſe cylinders would be ſtill further augmented by having
+                ſolid pieces of wood placed within them at proper diſtances, and ſecurely faſtened
+                to them, in the ſame manner, and on the ſame principles, that nature has furniſhed
+                reeds with joints ; and for anſwering, in ſome reſpects, the same purpoſe as the
+                pillars in the experiments alluded to.</p>
+        </body>
+    </text>
+</TEI>

@@ -25,7 +25,7 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2019-02-10T23:11:03Z</date><name>unknown author</name></change>
+                <change><date>2019-05-23T18:45:04Z</date><name>unknown author</name></change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -141,14 +141,7 @@
                     <cell>„ „ top.</cell>
                 </row>
                 <row>
-                    <cell cols="2">In the fore-and-aft-rig the principal sails are of course</cell>
-                </row>
-                <row>
-                    <cell>fore-and-aft ; a cutter (vessel</cell>
-                    <cell>with one mast) when fully</cell>
-                </row>
-                <row>
-                    <cell cols="2">equipped carries the following :—</cell>
+                    <cell cols="2">In the fore-and-aft-rig the principal sails are of course fore-and-aft ; a cutter (vessel with one mast) when fully equipped carries the following :—</cell>
                 </row>
                 <row>
                     <cell><hi rend="italic">Fore-and-Aft.</hi></cell>
@@ -172,36 +165,61 @@
                 command. The following table, however, shows approximately what sails are commonly
                 set “ by the wind,” presuming that the effect on the ship in relation to her
                 stability is safe :—</p>
-            <table>
+            <table cols="2">
                 <row>
-                    <cell/>
-                    <cell>winds as commonly distinguished.</cell>
+                    <cell>Winds as commonly distinguished.</cell>
                     <cell>Sails commonly set “by the wind.”</cell>
                 </row>
+
                 <row>
-                    <cell/>
-                    <cell><p>Light airs </p><p>Light winds </p><p>Light breezes ... Moderate breezes
-                            Fresh breezes ...</p><p>Strong breezes ...</p><p>Moderate
-                            gales...</p><p>Fresh gales </p><p>Strong gales </p><p>Heavy gales
-                            </p><p>Storms.</p></cell>
-                    <cell><p> Courses, top-sails, top-gallant-sails, royals,</p><p>spanker, jib,
-                            flying-jib, and all light sails.</p><p>Royals and flying-jib taken in,
-                            in a sea way, to two reefs in the top-sails.</p><p>Single-reefed
-                            top-sails, and top-gallant-sails, in much sea, two reefs in the
-                            top-sails to taking in top-gallant-sails.</p><p>Double-reefed top-sails
-                            to treble-reefed topsails, reefed spanker, and jib.</p><p>Close-reefed
-                            top-sails, reefed courses, to tak- ing in spanker, jib, fore and mizzen
-                            top- sail.</p><p>Reefed courses, close-reefed main-top-sail,
-                            fore-stay-sail, mizzen-try-sail, to taking in the
-                            main-sail.</p><p>Close-reefed main-top-sail, storm stay-sails, to storm
-                            stay-sails or close-reefed main-topsail only.</p></cell>
+                    <cell>Light airs</cell><cell rows="4">Courses, top-sails, top-gallant-sails, royals, spanker, jib, flying-jib,
+                        and all light sails.</cell>
                 </row>
+                <row>
+                    <cell>Light winds</cell>
+                </row>
+                <row>
+                    <cell>Light breezes</cell>
+                </row>
+                <row>
+                    <cell>Moderate breezes</cell>
+                </row>
+                <row>
+                    <cell>Fresh breezes</cell><cell>Royals and flying-jib taken in, in a sea way, to
+                        two reefs in the top-sails.</cell>
+                </row>
+                <row>
+                    <cell>Strong breezes</cell><cell>Single-reefed top-sails, and
+                        top-gallant-sails, in much sea, two reefs in the top-sails to taking in
+                        top-gallant-sails.</cell>
+                </row>
+                <row>
+                    <cell>Moderate gales</cell><cell>Double-reefed top-sails to treble-reefed topsails,
+                        reefed spanker, and jib.</cell>
+                </row>
+                <row>
+                    <cell>Fresh gales</cell><cell>Close-reefed top-sails, reefed courses, to
+                        tak- ing in spanker, jib, fore and mizzen top- sail.</cell>
+                </row>
+                <row>
+                    <cell>Strong gales</cell><cell>Reefed courses,
+                        close-reefed main-top-sail, fore-stay-sail, mizzen-try-sail, to taking in
+                        the main-sail.</cell>
+                </row>
+                <row>
+                    <cell>Heavy gales</cell><cell>Close-reefed main-top-sail, storm stay-sails, to storm
+                        stay-sails or close-reefed main-topsail only.</cell>
+                </row>
+                <row>
+                    <cell>Storms.</cell><cell></cell>
+                </row>
+                
             </table>
             <p><hi rend="superscript">@@@1</hi> Some ships (merchant-liners) have two jibs, inner
-                and outer, and <pb n="35"/>their top-sails also in two parts, upper and lower or cap-top-sails, an arrangement
-                    which makes it easier to reduce or shorten sail; they also have a mizzen course
-                    (cross-jack), and carry several light stay-sails so as to catch every breath of
-                    wind.</p>
+                and outer, and<pb n="154"/> their top-sails also in two parts, upper and lower or
+                cap-top-sails, an arrangement which makes it easier to reduce or shorten sail; they
+                also have a mizzen course (cross-jack), and carry several light stay-sails so as to
+                catch every breath of wind.</p>
         </body>
     </text>
 </TEI>

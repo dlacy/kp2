@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:05:26Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>ſhould have a great breadth and depth in proportion to its length, a full bottom, and
+                a long and flat floor. But a ſhip of this conſtruction will neither ſail faſt, nor
+                carry much ſail.</p>
+            <p>If a ſhip be filled out much towards the line of floatation, together with low upper
+                works, ſhe will require little ballaſt : and that ſhip which is ſtiff from
+                conſtruction is much better adapted for failing faſt than one which, in order to
+                carry the ſame quantity of canvas, is obliged to be loaded with a much greater
+                weight : for the reſiſtance is as the quantity of water to be removed, or nearly as
+                the area of a tranſverſe ſection of the immerſed part of the body at the midship
+                frame ; and a body that is broad and ſhallow is much ſtiffer than one of the ſame
+                capacity that is narrow and deep. “ The advantages (ſays Mr Gordon**) are numerous,
+                important, and obvious. For it is evident, that by enlarging, perhaps doubling, the
+                breadth of veſſels, and forming their bottoms flat and well furniſhed with keels,
+                they muſt, in the firstplace, become much ſteadier, roll little, if any, and be
+                enabled to carry greatly more ſail, and that in a better direction, at the ſame time
+                that they would be in no danger of being diſmaſted or overſet, unleſſs the maſts
+                were of a moſt extraordinary height indeed. <hi rend="italic">Secondly,</hi> They
+                would have little or no occaſion for ballaſt, and if any was uſed, could incur leſs
+                danger from its ſhifting. <hi rend="italic">Thirdly,</hi> That there would be much
+                more room upon deck, as well as accommodation below ; the breadth being ſo much
+                increaſed without any diminution of the height above the load-water line. <hi
+                    rend="italic">Fourthly,</hi> That they would deviate much leſs from the intended
+                courſe, and penetrate the water much eaſier in the proper direction : for doubling
+                the breadth, without any increaſe of weight, would diminiſh the depth or draught of
+                water one half ; and though the extent of the directly oppoſmg ſurface would be the
+                ſame as before, yet the veſſel in moving would meet with half the former reſiſtance
+                only : for so great is the difference between the pressure, force, or reaction, of
+                the upper and the under water. <hi rend="italic">Fifthly, </hi>That they would by
+                this means be adapted for lying unſupported in docks and harbours when dry, be
+                rendered capable of being navigated in ſhallow water, and of being benefited by all
+                the advantages attending that very important circumſtance ; and it is particularly
+                to he obſerved, that making veſſels which may be navigated in ſhallow water, may, in
+                many reſpects, juſtly be regarded as a matter of equal importance with increaſing
+                the number of harbours, and improving them, as having identically the ſame effects
+                with regard to navigation ; at the ſame time, that the benefits which would result
+                from ſuch circumſtances are obtained by this means without either expence, trouble,
+                or inconveniency : beſides, it would not only enable veſſels to enter many rivers,
+                bays, and creeks, formerly inacceſſible to ſhips of burden, but to proceed to ſuch
+                places as are moſt land locked, where they can lie or ride moſt ſecure, and with
+                leaſt expence of men and ground tackle. As ſhips of war would carry their guns well
+                by being ſo Ready, there could be but little occaſion for a high topside, or much
+                height of hull above water ; and as little or no ballaſt would be required, there
+                would be no neceſſity, as in other veſſels, for increaſing their weight on that
+                account, and thereby pressing them deeper into the water. Theſe are very important
+                circum</p>
+            <p>ſtances, and would contribute much to improve the sailing of ſuch veſſels.” From
+                whence it appears, that there would be united, what has hitherto been deemed
+                irreconcileable, the greateſt poſſible ſtability, which is nearly as the area of a
+                tranverſe lection of the immerſed part of the body at the midſhip frame : and a body
+                that is broad and ſhallow is much ſtiffer than one of the ſame capacity that is
+                narrow and deep. A ſhip of this conſtruction may take in a conſiderable cargo in
+                proportion to her ſize ; but if deeply loaded will not ſail fast, for then the area
+                of a ſection of the immerſed part at the midſhip frame will be very conſiderable,
+                and as the sails of ſuch a ſhip muſt neceſſarily be large, more hands will therefore
+                be required.</p>
+            <p>The leſs the breadth of a ſhip, the fewer hands will be neceſſary to work her ; as in
+                that caſe the quantity of ſail will be leſs, and the anchors alſo of leſs weight. We
+                ſhall gain much (ſays M. Bouguer) by making the extreme breadth no more than the
+                fifth or ſixth part of the length, if, at the ſame time, we diminish the depth
+                proportionally ; and likewise this moſt ſurpriſing circumſtance, that by diminiſhing
+                these two dimenſions, or by increaſing the length, a ſhip may be made to go
+                ſometimes as fall as the wind.</p>
+            <p>In order to obtain the preceding properties, very oppoſite rules muſt be followed ;
+                and hence it appears to be impoſſible to conſtruct a ſhip ſo as to be posſeſsed of
+                them all. The body, however, muſt be ſo formed, that as many of theſe properties may
+                be retained as poſſible, always obſerving to give the preference to thoſe which are
+                moſt required. If it is known what particular trade the ſhip is to be employed in,
+                thoſe qualities are then principally to be adhered to which are moſt eſſentially
+                neceſſary for that employment.</p>
+            <p>It may easily be demonſtrated that ſmall ſhips will not have the ſame advantages as
+                large ones of a similar form, when employed in the ſame trade : for a large ſhip
+                will not only ſail faster than a ſmall one of a similar form, but will alſo require
+                fewer hands to work her. Hence, in order that a ſmall ſhip may poſſeſs the ſame
+                advantages as a large one, the correſponding dimenſions will not be proportional to
+                each other. The reader will ſee in Chapman’s Architect<hi rend="italic">ura Navalis
+                    Mercatoria </hi>ample tables of the ſeveral dimenſions of ſhips, of different
+                claſſes and sizes, deduced from theory combined with experiment. Tables of the
+                dimenſions of the principal ſhips of the Britiſh navy, and or other ſhips, are
+                contained in the Ship builder’s Repository, and in Murray’s Treatiſe on
+                Ship-building.</p>
+            <p><hi rend="smallcaps">Chap.</hi> II. <hi rend="italic">Of the different Plans of a
+                    Ship.</hi></p>
+            <p><hi rend="smallcaps">When</hi> it is propoſed to build a ſhip, the proportional ſize
+                of every part of her is to be laid down ; from whence the form and dimenſions of the
+                timbers, and of every particular piece of wood that enters into the conſtruction, is
+                to be found. As a ſhip has length, breadth, and depth, three different plans at
+                leaſt are neeceſſary to exhibit the form of the ſeveral parts of a ſhip : theſe are
+                uſually denominated the <hi rend="italic">Jheer plan,</hi> the <hi rend="italic"
+                    >half breadth</hi> and lody <hi rend="italic">plans.</hi></p>
+            <p>The sheer<hi rend="italic"> plan</hi> or <hi rend="italic">draught,</hi> otherwiſe
+                called the <hi rend="italic">plan oſ elevation,</hi> is that ſection of the ſhip
+                which is made by a vertical plane paſſing through the keel. Upon this plan are laid
+                down the length of the keel ; the height and rake of the item and ſternpoſt ; the
+                situation</p>
+            <p>@@@[mu] <hi rend="italic">Principles of Naval Architecture,</hi> p. 100.</p>
+        </body>
+    </text>
+</TEI>

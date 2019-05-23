@@ -25,7 +25,7 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2019-02-10T23:11:05Z</date><name>unknown author</name></change>
+                <change><date>2019-05-23T18:45:05Z</date><name>unknown author</name></change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -87,16 +87,16 @@
                 in respect of thickness, numbered 1 to 8 accordingly ; the heavier numbers—Nos. 1,
                 2, and 3—are used for storm and other sails that have to do heavy work, the
                 remaining numbers for the lighter descriptions of sail. The weight of each bolt of
-                canvas 24 inches wide, from Nos. 1 to 6 inclusive for 39 yards in length and for
-                Nos. 7 and 8 for 40 yards in length, is about as follows, viz., No. 1, 46 lb ; No.
-                2, 43 ; No. 3, 40 ; No. 4, 36; No. 5, 33 ; No. 6, 30 ; No. 7, 27 ; No. 8, 25 lb. The
-                weight of each bolt of narrower canvas is in proportion. The warp (or lengthwise)
-                should consist of the following proportions of clean unstarched yarn, viz.:—</p>
+                canvas 24 inches wide, from Nos. 1 to 6 inclusive for 39 yards in length and</p>
+            <p>for Nos. 7 and 8 for 40 yards in length, is about as follows, viz., No. 1, 46 lb ;
+                No. 2, 43 ; No. 3, 40 ; No. 4, 36; No. 5, 33 ; No. 6, 30 ; No. 7, 27 ; No. 8, 25 lb.
+                The weight of each bolt of narrower canvas is in proportion. The warp (or
+                lengthwise) should consist of the following proportions of clean unstarched yarn,
+                viz.:—</p>
             <table>
                 <row>
                     <cell cols="2">No. 1 not less than 26 lb...</cell>
-                    <cell><p>...16<hi rend="superscript">1</hi>/<hi rend="subscript"
-                                >2</hi></p><p>...16<hi rend="superscript">1</hi>/<hi
+                    <cell><p>...16½</p><p>...16<hi rend="superscript">1</hi>/<hi
                                 rend="subscript">2</hi></p></cell>
                     <cell>score reed..</cell>
                     <cell>... 660 double threads. ...660</cell>

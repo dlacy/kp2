@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-01-20T22:37:11Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>food starches being <hi rend="smallcaps">Arrowroot, Sago, Tapioca </hi><hi
+                    rend="italic">(qq.v.) </hi>and corn-flour, the starch of the <hi
+                    rend="smallcaps">Maize </hi><hi rend="italic">(q.v.).</hi> In its combined
+                condition, in cereals, &amp;c., starch is certainly the greatest and foremost of all
+                the elements of nutrition (compare <hi rend="smallcaps">Dietetics</hi> and <hi
+                    rend="smallcaps">Nutrition).</hi> In its other industrial relations starch is
+                used—(1) directly, as a thickening material in calico printing, for the dressing and
+                finishing of many textiles, for laundry purposes, adhesive paste, and powder ; and
+                (2) indirectly, for the preparation of dextrin and British gum and starch sugar.
+                Maize, wheat, and rice starch are principally employed for the direct applications ;
+                and for the dextrin and starch-sugar manufacture potato starch is almost exclusively
+                selected.</p>
+            <table> <row> <cell>test table.</cell><cell>hello world</cell></row>
+            <row><cell>test</cell><cell>test</cell></row></table>
+            <p>In the preparation of starch the object of the manufacturer is to burst the vegetable
+                cell walls, to liberate the starch granules, and to free them from the other cell
+                contents with which they are associated. When, as in the case of the potato, the
+                associated cell contents, &amp;c., are readily separated by solution and levigation
+                the manufacture is exceedingly simple. Potato starch is prepared principally by
+                carefully washing the potatoes and in a kind of rasping machine reducing them to a
+                fine pulp, which is deposited in water as raw starch. The impurities of this
+                starch—cellulose, albuminoids, fragments of potato, &amp;c.—are separated by washing
+                it in fine sieves, through the meshes of which the pure starch alone passes. The
+                sieves are variously formed, some revolving, others moving horizontally or in such
+                manner as to keep the material in agitation. The starch is then received in tanks,
+                in which it settles, and so separates from the soluble albuminoids and salts of the
+                potatoes. The settling of the starch is much retarded by the dissolved albuminoids,
+                and to hasten the separation small quantities either of alum or of sulphuric acid
+                are employed. Alum coagulates the albumen and to that extent contaminates the
+                starch, while the acid acts on the starch itself and is difficult of neutralization.
+                After the starch has settled, the brown-coloured supernatant liquor is drawn off and
+                the starch again washed either in tanks or in a centrifugal machine. Finally it is
+                dried by spreading it in layers over porous bricks (a process not required in the
+                case of starch washed in a centrifugal machine) and by exposure to the air, after
+                which it still retains a large proportion of water, but is in a condition for making
+                dextrin or starch-sugar. For further drying it is ground to a rough powder, and
+                dried thoroughly in a hot chamber, then reduced to a powder and sifted. A method of
+                reducing potatoes to a pulp by slicing and heaping them up till fermentation takes
+                place is said to give a large yield of starch, but it is not much practised.</p>
+            <p>In dealing with the starches of the cereals, there is greater difficulty, owing to
+                the presence of gluten, which with water forms a tough elastic body difficult of
+                solution and removal. The difficulty is experienced in greatest measure in dealing
+                with wheat, which contains a large proportion of gluten. Wheat starch is separated
+                in two different ways—(1) the fermentation method, which is the original process,
+                and (2) by mechanical means without preliminary fermentation. In the fermentation
+                process whole wheat or wheaten meal is softened and swollen by soaking in water.
+                Wheat grains are, in this condition, ground, and the pulp, mixed to a thickish fluid
+                with water, is placed in tanks, where it ferments, developing acetic and volatile
+                acids which dissolve the gummy constituents of the wheat, with part of the gluten,
+                and render the whole less tenacious. After full fermentation, the period of which
+                varies with the weather and the process employed, the starch is separated in a
+                washing drum. It is subsequently washed with water, which dissolves out the gluten,
+                the starch settling in two layers,—one comparatively pure, the other mixed with
+                gluten and some branny particles. These layers are separated, the second undergoing
+                further washing to remove the gluten, &amp;c., and the remaining operations are
+                analogous to those employed in the preparation of potato-starch. By the mechanical
+                process wheaten flour is kneaded into a stiff paste, which, after resting for an
+                hour or two, is washed over a fine sieve so long as the water passing off continues
+                milky, whereby the starch is liberated and the greater part of the gluten retained
+                as a gluey elastic mass in the sieve. The starch is subsequently purified by
+                fermentation, washing, and treatment in centrifugal machines. The gluten thus
+                preserved is a useful food for diabetic patients, and is made with flour into
+                artificial macaroni and pastes, besides being valuable for other industrial
+                purposes.</p>
+            <p>Maize starch is obtained by analogous processes, but, the proportion of gluten in the
+                grain being smaller, and less tenacious in its nature, the operations, whether
+                chemical or mechanical, present fewer difficulties. Under one method the separation
+                of maize starch is facilitated by steeping, swelling, and softening the grain in a
+                weak solution of caustic soda, and favourable results are also obtained by a process
+                in which the pulp from the crushing mill is treated with water acidulated with
+                sulphurous acid.</p>
+            <p>In the preparation of rice-starch a weak solution of caustic soda is also employed
+                for softening and swelling the grain. It is then washed with pure water, dried,
+                ground, and sifted, and again treated with alkaline water, by which the whole of the
+                nitrogenous constituents are taken up in soluble form. An acid process for obtaining
+                rice-starch is also employed, under which the grain, swollen and ground, is treated
+                repeatedly with a solution of hydrochloric acid, which also dissolves away the
+                non-starchy constituents of the grain. The laundry starches now in use are
+                principally made from rice and from pulse. (J. PA.)</p>
+            <p>STAR-CHAMBER, the name given in the 15th, 16th, and 17th centuries to an English high
+                court of justice, consisting of the members of the ordinary council, or of the privy
+                council only, with the addition of certain judges, and exercising jurisdiction,
+                mainly criminal, in certain cases. The origin and early history of the court are
+                somewhat obscure. The Curia Regis of the 12th century, combining judicial,
+                deliberative, and administrative functions, had thrown off several offshoots in the
+                Court of King’s Bench and other courts, but the crown never parted with the supreme
+                jurisdiction whence the subsidiary courts had emanated. When in the 13th century the
+                council became a regular and permanent body, practically distinct from the
+                parliament of estates, this jurisdiction continued to be exercised by the king in
+                council. As the ordinary law- courts became more systematic and important, the
+                indefinite character of the conciliar jurisdiction gave rise to frequent complaints
+                ; and efforts, for the most part fruitless, were made by the parliaments of the 14th
+                century <hi rend="italic">(e.g.,</hi> in 15 Edw. II. and 2 Edw. III.) to check it.
+                The equitable jurisdiction of the chancellor, which grew up during the reign of
+                Edward III., flowed from this supreme judicial power, like the common law- courts
+                under Henry II, but without drying up the original source. It is in the reign of
+                Edward III. that we first hear of the “chancellor, treasurer, justices, and others”
+                exercising jurisdiction in the “star-chamber” or “chambre de estoiles” at
+                Westminster. In Henry VI.’s reign one Danvers was acquitted of a certain charge by
+                the king’s council “ in camera stellata.” Hitherto such Acts of Parliament as had
+                recognized this jurisdiction had done so only by way of limitation or prohibition,
+                but in 1453, about the time when the distinction between the ordinary and the privy
+                council first became apparent, an Act was passed by which the chancellor was
+                empowered to enforce the attendance of all persons summoned by the privy seal before
+                the king and his council in all cases not determinable by common law. At this time,
+                then, the jurisdiction of the council was recognized as supplementary to that of the
+                ordinary law-courts. But the anarchy of the Wars of the Roses, and the decay of
+                provincial justice owing to the influence of great barons and the turbulence of the
+                lower classes, obliged parliament to entrust wider powers to the council. This was
+                the object of the famous Act of 3 Hen. VII., which was quoted by the lawyers of the
+                Long Parliament as creating the court of star- chamber. This, however, as is shown
+                above, it was far from doing. The Act of 3 Hen. VII. empowered a committee of the
+                council, consisting of the chancellor, treasurer, privy seal, or any two of them,
+                with the chief justices, or in their absence two other justices, a bishop, and a
+                temporal lord, to act as a court of justice for enforcing the law in cases where it
+                was thwarted by bribery, intimidation, or partiality. The jurisdiction thus
+                entrusted to a committee of the council was not, therefore, like that granted in
+                1453, supplementary, but superseded the ordinary law-courts in cases where they were
+                too weak to act. The Act simply supplied machinery for the exercise under special
+                circumstances of that extraordinary penal jurisdiction which the council had never
+                ceased to possess. This jurisdiction, Bacon tells us, was still further developed
+                aud organized by Wolsey. The court established by thø</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-18T21:06:16Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>axis the cylinder AFG, in order that the tranſverſe ſection KH (n<hi
+                    rend="superscript">o</hi> 2.) at the counter may be a circle revolving upon its
+                centre ; in which caſe the ſpace of halt an inch is more than ſufficient between the
+                rudder and the counter, and conſequently the neceſſity of a rudder coat entirely
+                done away. But as it was fore- ſeen, that if the rudder by any accident was
+                unſhipped, this alteration might endanger the tearing away of the counter, the hole
+                is made much larger than the tranſverſe ſection of the cylindric part of the rudder,
+                and the ſpace between filled up with pieces of wood ſo fitted to the counter as to
+                be capable of withſtanding the ſhock of the ſea, but to be easily carried away with
+                the rudder, leaving the counter, under ſuch circumſtances, in as ſafe a ſtate as it
+                would be agreeable in the preſent form of making rudders in the navy.</p>
+            <p><hi rend="smallcaps">Chap.</hi> VIII. <hi rend="italic">Upon the Positiοn of the Load
+                    water Line, and the Capacity of a Ship.</hi></p>
+            <p><hi rend="smallcaps">The</hi> weight of the quantity of water diſplaced by the bottom
+                of a ſhip is equal to the weight of the ſhip with its rigging, provisions, and every
+                thing on board. If therefore the exact weight of the ſhip when ready for ſea be
+                calculated, and alſo the number of cubic feet in the ſhip’s bottom below the
+                load-water line, and hence the weight of the water she diſplaces ; it will be known
+                if the load-water line is properly placed in the draught.</p>
+            <p>The poſition of the ſhip in the draught may be either on an even keel, or to draw
+                moſt water abaft ; but an even keel is judged to be the beſt poſition in point of
+                velocity, when the ſhip is conſtructed ſuitable thereto, that is, when her natural
+                poſition is ſuch. For when a ſhip is conſtructed to ſwim by the ſtern, and when
+                brought down to her load-water made to ſwim on an even keel (as is the caſe with
+                moſt ships that are thus built), her velocity is by that means greatly retarded, and
+                alſo her ſtrength greatly diminiſhed : for the forepart being brought down lower
+                than it ſhould be, and the middle of the ſhip maintaining its proper depth in the
+                water, the after part is by that means lifted, and the ſhip is then upon an even
+                keel : but in conſequence of her being out of her natural poſition, the after part
+                is always preſſing downwards with a conſiderable ſtrain, which will continue till
+                the ſhip’s ſheer is entirely broke, and in time would fall into its natural poſition
+                again : for which reaſon we ſee ſo many ſhips with broken backs, that is, with their
+                ſheers altered in ſuch a manner that the ſheer rounds up, and the highest part is in
+                the midſhips.</p>
+            <p>Such are the diſadvantages ariſing from not paying a due attention to thoſe points in
+                the conſtruction of a draught ; therefore, when the load-water line is found to be
+                ſo situated at a proper height on the draught, according to the weight given for
+                ſuch a ſhip, and alſo drawn parallel to the keel, as ſuppoſing that to be the beſt
+                ſailing trim, the next thing is to examine whether the body is conſtructed ſuitable
+                thereto, in order to avoid the above-mentioned ill conſequences.</p>
+            <p>In the firſt place, therefore, we muſt divide the ſhip equally in two lengthwiſe
+                between the fore and after perpendiculars; and the exact number of cubic feet in the
+                whole bottom beneath the load-water line being</p>
+            <p>known, we muſt find whether the number of cubic feet in each part ſo divided are the
+                ſame ; and if they are found to be equal, the body of the ſhip may then he ſaid to
+                be conſtructed in all reſpects ſuitable to her ſwimming on an even keel, let the
+                ſhape of the body be whatever it will ; and which will be found to be her natural
+                poſition at the load-water line. But if either of the parts ſhould contain a greater
+                number of cubic feet than the other, that part which contains the greatest will ſwim
+                the moſt out of the water, and consequently the other will ſwim deepeſt, ſuppoſing
+                the ſhip in her natural poſition for that conſtruction. In order, therefore, to
+                render the ſhip ſuitably conſtructed to the load-water line in the draught, which is
+                parallel to the keel, the number of cubic feet in the leſs part muſt be ſubtracted
+                from the number contained in the greater part, and that part of the body is to be
+                filled out tilt it has increaſed half the difference of their quantities, and the
+                other part is to be drawn in as much : hence the two parts will be equal, that is,
+                each will contain the ſame number of cubic feet, and the ſhip’s body will be
+                conſtructed in a manner ſuitable to her ſwimming on an even keel.</p>
+            <p>If it is propoſed that the ſhip laid down on the draught ſhall not ſwim on an even
+                keel, but draw more water abaft than afore, then the fore and after parts of the
+                ſhip’s body below the load-water line are to be compared ; and if theſe parts are
+                unequal, that part which is leaſt is to be filled out by half the difference, and
+                the other part drawn in as much as before.</p>
+            <p>It will be neceſſary, in the firſt place, to calculate the weight of a ſhip ready
+                equipped for ſea, from the knowledge of the weight of every ſeparate thing in her
+                and belonging to her, as the exact weight of all the timber, iron, lead, maſts,
+                sails, rigging, and in ſhort all the materials, men, proviſions, and every thing
+                elſe on board of her, from which we ſhall be able afterwards to judge of the truth
+                of the calculation, and whether the load-water line in the draught be placed
+                agreeable thereto. This is indeed a very laborious taſk, upon account of the ſeveral
+                pieces of timber, &amp;c. being of ſo many different figures, and the ſpecific
+                gravity of some of the timber entering the conſtruction not being preciſely
+                determined.</p>
+            <p>In order to aſcertain the weight of the hull, the timber is the firſt thing which
+                comes under conſideration : the number of cubic feet of timber contained in the
+                whole fabric muſt be found ; which we ſhall be able to do by help of the draught and
+                the principal dimensions and ſcantlings ; obſerving to diſtinguiſh the different
+                kinds of timber from each other, as they differ considerably in weight ; then the
+                number of cubic feet contained in the different forts of timber being reduced into
+                pounds, and added, will be the weight of the timber. In like manner proceed to find
+                the weight of the iron, lead, paint, &amp;c. and the true weight of the whole will
+                be found.</p>
+            <p>In reducing quantity to weight, it may be obſerved that a cubic foot of oak is equal
+                to 66 pounds, and the ſpeciſic gravity of the other materials are as follow :</p>
+            <table>
+                <row>
+                    <cell>Water being</cell>
+                    <cell>10000</cell>
+                    <cell>Oak is</cell>
+                    <cell>891.89</cell>
+                </row>
+                <row>
+                    <cell>Lead is</cell>
+                    <cell>11345</cell>
+                    <cell>Dry elm</cell>
+                    <cell><p>702.70</p></cell>
+                </row>
+                <row>
+                    <cell>Iron</cell>
+                    <cell>7643</cell>
+                    <cell>Dry fir</cell>
+                    <cell> 648.64</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

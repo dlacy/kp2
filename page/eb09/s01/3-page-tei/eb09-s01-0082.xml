@@ -25,7 +25,7 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2019-02-10T23:13:13Z</date><name>unknown author</name></change>
+                <change><date>2019-05-23T18:46:15Z</date><name>unknown author</name></change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -137,11 +137,12 @@
             <p><hi rend="superscript">@@@1</hi> This name was originally employed in connexion with
                 those remarkable epidemic outbursts of combined mental and physical excitement which
                 for a time prevailed among the inhabitants of some parts of Germany in the Middle
-                Ages. It is stated that sufferers from <pb n="202"/>this dancing mania were wont to resort to the
-                chapels of St Vitus (more than one in Swabia), the saint being believed to possess
-                the power of curing them. The transference of the name to the disease now under
-                consideration was a manifest error, but so closely has the association now become
-                that the original application of the term has been comparatively obscured.</p>
+                Ages. It is stated that sufferers from<pb n="202"/> this dancing mania were wont to
+                resort to the chapels of St Vitus (more than one in Swabia), the saint being
+                believed to possess the power of curing them. The transference of the name to the
+                disease now under consideration was a manifest error, but so closely has the
+                association now become that the original application of the term has been
+                comparatively obscured.</p>
         </body>
     </text>
 </TEI>

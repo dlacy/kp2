@@ -25,7 +25,7 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2019-02-10T23:22:49Z</date><name>unknown author</name></change>
+                <change><date>2019-05-23T18:50:36Z</date><name>unknown author</name></change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -94,15 +94,22 @@
             <p>We may here contrast a specimen of the above-mentioned oldest Icelandic manuscript
                 (from the end of the 12th century) with an almost contemporary Norwegian one (Cod.
                 AM. 619; see below):—</p>
-            <p><hi rend="italic">Icel. —</hi>En pat es vitanda, at allt ma andlega merkiasc oc
-                fyllasc i oss, pat es til kirkio bunings epa pionosto parf at haua, cf ver liuom sva
-                hreinlega at ver sem verper at callasc gops mustere.</p>
-            <p><hi rend="italic">Norw.—</hi>En pat er vitanda, at allt ma andlega merkiasc oc
-                fyllasc i os, pat er til kirkiu bunings eða til pionasto parf at hafa, ef ver lifum
-                sva rseinlega, at ver sein voröir at kallasc guös mysteri.</p>
-            <p><hi rend="italic">Engl. —</hi>And that is to be known that all that is needed for the
-                decoration of the church or the service may, spiritually, be found and imitated
-                within us, if we live so cleanly that we are worthy to be called God’s temple.</p>
+            <table>
+                <row>
+                    <cell><hi rend="italic">Icel. —</hi>En pat es vitanda, at allt ma andlega
+                        merkiasc oc fyllasc i oss, pat es til kirkio bunings epa pionosto parf at
+                        haua, cf ver liuom sva hreinlega at ver sem verper at callasc gops
+                        mustere.</cell>
+                    <cell><hi rend="italic">Norw.—</hi>En pat er vitanda, at allt ma andlega
+                        merkiasc oc fyllasc i os, pat er til kirkiu bunings eða til pionasto parf at
+                        hafa, ef ver lifum sva rseinlega, at ver sein voröir at kallasc guös
+                        mysteri.</cell>
+                    <cell><hi rend="italic">Engl. —</hi>And that is to be known that all that is
+                        needed for the decoration of the church or the service may, spiritually, be
+                        found and imitated within us, if we live so cleanly that we are worthy to be
+                        called God’s temple.</cell>
+                </row>
+            </table>
             <p>Apart from the fact that the language is, generally speaking, archaic, we find in the
                 Icelandic text two of the oldest and most essential characteristics of Icelandic as
                 opposed to Norwegian, viz., the more complete vowel assimilation (pionosto, <hi
@@ -187,7 +194,7 @@
                     Swede Ad. Noreen. @@<hi rend="superscript">11</hi> As lexicographers the first
                     rank is held by the</item>
             </list>
-            <p><hi rend="superscript">@@@1</hi> A complete catalogue of the literature edited
+            <p><hi rend="superscript">@@@1 </hi>A complete catalogue of the literature edited
                 hitherto is given by Th. Möbius, <hi rend="italic">Catalogus Librorum Islandicorum
                     et Noreegicorum AEtatis</hi> Mediae, 1856, and <hi rend="italic">Verzeichnis»
                     der . . . altisländischen und alt norwegischen . . . von 1855 bis 1879
@@ -212,14 +219,14 @@
             <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">6</hi><hi rend="italic">
                     E.g., Veiledning til det Islandske sprog,</hi> 1811 ; in a new, much Improved
                 Swedish edition, <hi rend="italic">Anvisning til Isländskan,</hi> 1818.</p>
-            <p><hi rend="superscript">@@@7</hi>
-                <hi rend="italic">Fomswenskans och Fornnorskans sprakbyggnad,</hi> 1849, and (along
-                with C. R. Unger) <hi rend="italic">Norrönasprogets grammatik,</hi> 1847.</p>
-            <p><hi rend="superscript">@@@8</hi> Especially <hi rend="italic">Urn frumparta Islemkrar
+            <p><hi rend="superscript">@@@7 </hi><hi rend="italic">Fomswenskans och Fornnorskans
+                    sprakbyggnad,</hi> 1849, and (along with C. R. Unger) <hi rend="italic"
+                    >Norrönasprogets grammatik,</hi> 1847.</p>
+            <p><hi rend="superscript">@@@8 </hi>Especially <hi rend="italic">Urn frumparta Islemkrar
                     tüngu ifornöld,</hi> 1846.</p>
-            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">9</hi><hi rend="italic">
-                    Den Oldnordiske udtale,</hi> 1861. </p>
-            <p><hi rend="superscript">@@@10</hi><hi rend="italic"> Fomnordisk formtära,</hi>
+            <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">9 </hi><hi rend="italic"
+                    >Den Oldnordiske udtale,</hi> 1861. </p>
+            <p><hi rend="superscript">@@@10 </hi><hi rend="italic">Fomnordisk formtära,</hi>
                 1874.</p>
             <p><hi rend="italic superscript">@@@</hi><hi rend="superscript">11</hi>
                 <hi rend="italic">Altisländische und altnorwegische Grammatik unter Berücksichtigung

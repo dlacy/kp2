@@ -1,0 +1,8 @@
+REGEX
+
+1) To cleanup tei files generated from docx:
+
+Find:
+<p rend="Body text\s?(\(\d\))?"( style="text-align:left;")?\s*>
+Replace:
+<p>

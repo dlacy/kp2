@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>s01/2-page-docx/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>eb-docx2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>ANT</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>s07/2-page-docx/</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -86,36 +101,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>s02/2-page-docx/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>eb-docx2tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>ANT</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>s01/2-page-docx/eb09-s01-0182.docx</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>eb-docx2tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>ANT</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>s01/2-page-docx/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -734,7 +719,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="eb09-pages.xpr">
+    <projectTree name="eb09-page.xpr">
         <folder path="../../code/xslt/oxygenframeworks/tei/xml/tei/stylesheet/docx/"/>
         <folder path="."/>
     </projectTree>
