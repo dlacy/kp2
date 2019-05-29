@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-05-29T16:48:43Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>SAINTE-CLAIRE DEVILLE, ÉTIENNE HENRI (1818-1881), French chemist, was born on the
+                11th of March 1818 in the island of St Thomas, West Indies, where his father was
+                French consul. Together with his elder brother Charles he was educated in Paris at
+                the Collège Rollin. In 1844, having graduated as doctor of medicine and doctor of
+                science, he was appointed to organize the new faculty of science at Besançon, where
+                he acted as dean and professor of chemistry from 1845 to 1851. Returning to Paris in
+                the latter year he succeeded A. J. Balard at the École Normale, and in 1859 became
+                professor at the Sorbonne in place of J. B. A. Dumas, for whom he had begun to
+                lecture in 1853. He died at Boulogne-sur-Seine on the 1st of July 1881.</p>
+            <p>He began his experimental work in 1841 with investigations of oil of turpentine and
+                tolu balsam, in the course of which he discovered toluene. But his most important
+                work was in inorganic and thermal chemistry. In 1849 he discovered anhydrous nitric
+                acid (nitrogen pentoxide), a substance interesting as the first obtained of the
+                so-called “ anhydrides ” of the monobasic acids. In 1855, ignorant of what Wöhler
+                had done ten years previously, he succeeded in obtaining metallic aluminium, and
+                ultimately he devised a method by which the metal could be prepared on a large scale
+                by the aid of sodium, the manufacture of which he also developed. With H. J. Debray
+                (1827-1888) he worked at the platinum metals, his object being on the one hand to
+                prepare them pure, and on the other to find a suitable metal for the standard metre
+                for the International Metric Commission then sitting at Paris. With L. J. Troost (b.
+                1825) he devised a method for determining vapour densities at temperatures up to
+                1400° C., and, partly with F. Wöhler, he investigated the allotropic forms of
+                silicon and boron. The artificial preparation of minerals, especially of apatite and
+                isomor- phous minerals and of crystalline oxides, was another subject in which he
+                made many experiments. But his best known contribution to general chemistry is his
+                work on the phenomena of reversible reactions, which he comprehended under a general
+                theory of “ dis- sociation.” He first took up the subject about 1857, and it was in
+                the course of his investigations on it that he devised the apparatus known as the “
+                Deville hot and cold tube.”</p>
+            <p>His brother, <hi rend="smallcaps">Charles Joseph Sainte-Claire Deville
+                </hi>(1814-1876), geologist and meteorologist, was born in St Thomas on the 26th of
+                February 1814. Having attended at the École des Mines in Paris, he assisted Elie de
+                Beaumont in the chair of geology at the Collège de France from 1855 until he
+                succeeded him in 1874. He made researches on volcanic phenomena, especially on the
+                gaseous emanations. He investigated also the variations of temperature in the
+                atmosphere and ocean. He died at Paris on the 10th of October 1876.</p>
+            <p>His published works include: <hi rend="italic">Études géologiques sur les îles de
+                    Ténériffe et de Fogo</hi> (1848); <hi rend="italic">Voyage géologique aux
+                    Antilles et aux Îles de Tênêriffe et de Fogo</hi> (1848-1859); <hi rend="italic"
+                    >Recherches sur les principaux phénomènes de météorologie et de physique
+                    générale aux Antilles </hi>(1849); <hi rend="italic">Sur les variations
+                    périodiques de la température</hi> (1866), and <hi rend="italic">Coup d'œil
+                    historique sur la géologie</hi> (1878).</p>
+            <p>ST ELMO’S FIRE, the glow accompanying the slow discharge of electricity to earth from
+                the atmosphere. This discharge, which is identical with the “ brush ” discharge of
+                laboratory experiments, usually appears as a tip of fight on the extremities of
+                pointed objects such as church towers, the masts of ships, or even the fingers of
+                the outstretched hand: it is commonly accompanied by a crackling or fizzing noise.
+                St Elmo’s fire is most frequently observed at low levels through the winter season
+                during and after snowstorms.</p>
+            <p>The name St Elmo is an Italian corruption through <hi rend="italic">Sant'Ermo</hi> of
+                St Erasmus, a bishop, during the reign of Domitian, of Formiae, Italy, who was
+                broken on the wheel about the 2nd of June 304. He has ever been the patron saint of
+                Mediterranean sailors, who regard St Elmo’s fire as the visible sign of his
+                guardianship. The phenomenon was known to the ancient Greeks, and Pliny in his <hi
+                    rend="italic">Natural History</hi> states that when there were two lights
+                sailors called them Castor and Pollux and invoked them as gods. To English sailors
+                St Elmo’s fires were known as “ corposants ” (Ital. <hi rend="italic">corpo
+                    sαnlo).</hi></p>
+            <p>See Hazlitt’s edition of Brand’s <hi rend="italic">Antiquities</hi> (1905) under “
+                Castor and Pollux.” </p>
+            <p>ST EMILION, a town of south-western France, in the department of Gironde, 2½ m. from
+                the right bank of the Dordogne and 27 m. E.N.E. of Bordeaux by rail. Pop. (1906),
+                town, 1091; commune, 3546. The town derives its name from a hermit who lived here in
+                the 7th and 8th centuries. Picturesquely situated on the slope of a hill, the town
+                has remains of ramparts of the 12th and 13th centuries, with ditches hewn in the
+                rock, and several medieval buildings. Of these the chief is the parish, once
+                collegiate, church of the 12th and 13th centuries. A Gothic cloister adjoins the
+                church. A fine belfry (12th, 13th and 15th centuries) commanding the town is built
+                on the terrace, beneath which are hollowed in the rock the ora- tory and hermitage
+                of St Emilion, and adjoining them an ancient monolithic church of considerable
+                dimensions. Remains of a monastery of the Cordeliers (15th and 17th centuries), of a
+                building (13th century)known as the Palais Cardinal, and a square keep (the chief
+                relic of a stronghold founded by Louis YIII.) are also to be seen. Disused stone
+                quarries in the side of the hill are used as dwellings by the inhabitants. St
+                Emilion is celebrated for its wines. Its medieval importance, due to the pilgrimages
+                to the tomb of the saint and to the commerce in its wines, began to decline towards
+                the end of the 13th century owing to the foundation of Libourne. In 1272 it was the
+                first of the towns of Guyenne to join the confederation headed by Bordeaux.</p>
+        </body>
+    </text>
+</TEI>
