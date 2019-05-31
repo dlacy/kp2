@@ -1,4 +1,4 @@
-1    eb03-16-s01-0579-01.xml                                     SS, 0579                    
+﻿1    eb03-16-s01-0579-01.xml                                     SS, 0579                    
 2    eb03-16-s01-0579-02.xml                                SAAVEDRA 0579                    
 3    eb03-16-s01-0580-01.xml                                   SABA, 0580         footnote(s)
 4    eb03-16-s01-0580-02.xml                                 SABÆANS 0580                    
@@ -96,7 +96,7 @@
 96   eb03-16-s01-0629-03.xml   SALTING MEAT FOR THE USE OF THE NAVY, 0629                    
 97   eb03-16-s01-0630-01.xml                               SALTPETRE 0630                    
 98   eb03-16-s01-0630-02.xml                              SALTSBURG, 0630                    
-99   eb03-16-s01-0630-03.xml                             SALVADOR A, 0630                    
+99   eb03-16-s01-0630-03.xml                             SALVADORA, 0630                    
 100  eb03-16-s01-0631-01.xml                              SALVATION, 0631                    
 101  eb03-16-s01-0631-02.xml                          SALVATOR rosa. 0631                    
 102  eb03-16-s01-0631-03.xml                           SALVE regina, 0631                    
@@ -203,7 +203,7 @@
 203  eb03-16-s01-0661-02.xml                                 SASHES, 0661                    
 204  eb03-16-s01-0661-03.xml                                 SASINE, 0661                    
 205  eb03-16-s01-0661-04.xml                                   SASSA 0661                    
-206  eb03-16-s01-0661-05.xml                                SAT A N, 0661                    
+206  eb03-16-s01-0661-05.xml                                  SATAN, 0661                    
 207  eb03-16-s01-0661-06.xml                              SATELLITE, 0661                    
 208  eb03-16-s01-0661-07.xml                                  SATIRE 0661                    
 209  eb03-16-s01-0661-08.xml                                SATRAPA, 0661                    
@@ -315,7 +315,7 @@
 315  eb03-16-s01-0702-01.xml                                 SCHOOL, 0702                    
 316  eb03-16-s01-0703-01.xml                               SCHOONER, 0703                    
 317  eb03-16-s01-0703-02.xml                                 SCHORL, 0703                    
-318  eb03-16-s01-0704-01.xml                               SCHOTI A, 0704                    
+318  eb03-16-s01-0704-01.xml                               SCHOTIA, 0704                    
 319  eb03-16-s01-0704-02.xml                              SCHREBERA, 0704                    
 320  eb03-16-s01-0704-03.xml                             SCHREVELIUS 0704                    
 321  eb03-16-s01-0704-04.xml                               SCHULTENS 0704                    
