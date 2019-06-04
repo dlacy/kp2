@@ -1,1 +1,489 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>unknown title</title><author>unknown author</author></titleStmt><editionStmt><edition><date>unknown date</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document with eb-docx2tei.</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>Knowledge Project: DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2019-02-12T18:12:03Z</date><name>unknown author</name></change></listChange></revisionDesc></teiHeader><text><body><p>Continental wars, and, although periods of occasional severe depression have occurred since then, not only has the science of agriculture continued rapidly to advance but the position of the large farmer has until within recent years been one of increasing prosperity. The system of nineteen years’ lease had proved, as regards both agricultural progress and the interests of the farmer, a much superior arrangement to the system of yearly tenancy so largely prevailing in England ; but it was conjoined with customs and modified by conditions which during the period of agricultural distress prevailing since 1872 have caused the relations between landlord and tenant to become severely strained. The more prominent grievances of the farmer were the difficulty of obtaining sufficient compensation for improvements, the inconveniences resulting from the law of hypothec (see <hi rend="smallcaps">Hypothec,</hi> vol. xii. p. 598), and the hardships suffered from the existence of the game laws. Hypothec was abolished in 1879, except as regards the Act of Sederunt ; a ground game Act was passed in 1880 ; and, succeeding the report of the duke of Richmond’s commission in 1882, the Agricultural Holdings Act was passed in 1883, containing provisions for securing to the tenant control in the disposition of his lease, and also compensation for improvements ; but already it is evident that these reforms have failed to meet the difficulties created by the altered conditions of things, due to the increasing scarcity of land and the importation of foreign produce.</p><p>While the relations between the landlord and the large farmer cannot be regarded as satisfactory, the difficulties of the crofters— small holders now chiefly to be found in the western Highlands and the islands to the north and west of Scotland—have reached a more acute stage. The crofter system prevailing in Orkney and Shetland—described in the article on those islands—has a totally different origin from that prevailing in the Highlands. On account of the ancient relations between the Highlander and his chief, the inheritance is claimed by the Highland crofters of an inalienable</p><p>right to security of tenure ; but when the old feudal system of the Highlands was suddenly abolished after the Rebellion of 1745 no legal steps were taken for the recognition of this right, and from the beginning of the 19th century wholesale clearances of tenants were carried out in many districts even by the heirs of the old Highland chiefs. In the words of the report of the crofters commission of 1884 :—“The crofter of the present time has through past evictions been confined within narrow limits, sometimes on inferior land and exhausted soil. He is subject to arbitrary augmentations of money rent, he is without security of tenure, and has only recently received the concession of compensation for improvements.” The crofters in Scotland are now estimated to number 40,000 families or 200,000 persons, and many of them support themselves partly by fishing. In the struggle for existence they have had to contend against the tendency towards the creation of large farms, the demand for sporting estates, the desire of landlords to escape the burden of poor rates, and the fact that they have absolutely no choice as regards the conditions imposed on them by the landlord. In March 1883 a commission was appointed to inquire into the condition of the cotters and crofters in the Highlands and islands of Scotland ; this commission gave in its report in 1884, and an Act based on their recommendations was passed in 1886.</p><p>Notwithstanding the unsatisfactory condition of agricultural affairs in Scotland at present, there is no country in the world where farming is prosecuted with more skill and enterprise. On account of the great variety of soil and climate the methods in operation differ greatly in different districts, and for special details the reader is referred to the articles on the several counties. The following table (XI1I. ) shows the cultivated area and the areas under each kind of crop in different years, with the proportion of the acreage under each kind of crop, &amp;c., to every 1000 acres of cultivated land for 1885 in Scotland, England, and Ireland :—</p><table><row><cell/><cell cols="2">Yearly Averages.</cell><cell>1880.</cell><cell>1885.</cell><cell cols="3">Average per 1000 Acres 1885.</cell></row><row><cell/><cell>1867-70.</cell><cell>1871-75.</cell><cell/><cell/><cell>Scotland.</cell><cell>England.</cell><cell>Ireland.</cell></row><row><cell><p>Total acreage under crops, bare fallow, and grass</p><p>Permanent pasture 	</p></cell><cell><p>Acres.</p><p>4,420,375</p></cell><cell><p>Acres.</p><p>4,560,825</p></cell><cell><p>Acres.</p><p>4,738,127</p></cell><cell><p>Acres.</p><p>4,845,805</p></cell><cell><p>Acres.</p><p>1000</p></cell><cell><p>Acres.</p><p>1000</p></cell><cell><p>Acres.</p><p>1000</p></cell></row><row><cell/><cell><p>1,036,844</p><p>3,383,531</p></cell><cell><p>1,084,983</p><p>3,475,842</p></cell><cell><p>1,159,353</p><p>3,578,774</p></cell><cell><p>1,220,000</p><p>3,625,805</p></cell><cell><p>252</p><p>748</p></cell><cell><p>492</p><p>508</p></cell><cell><p>673</p><p>327</p></cell></row><row><cell>Arable land	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell><p>Corn crops—</p><p>Wheat 	</p></cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell><p>124,296</p><p>227,988</p><p>1,011,480</p><p>8,135</p><p>23,711</p><p>2,367</p></cell><cell><p>122,513</p><p>252,105</p><p>1,007,339</p><p>10,480</p><p>26,746</p><p>2,332</p></cell><cell><list type="ordered"><item> 264,120</item></list><p>1,037,254</p><p>7,333</p><list type="ordered"><item> 1,227</item></list></cell><cell><p>55,155</p><p>237,472</p><p>1,046,285</p><p>7,095</p><p>23,135</p><p>1,750</p></cell><cell><p>11</p><p>49</p><p>216</p><p>2</p><p>5</p></cell><cell><p>95</p><p>76</p><p>66</p><p>2</p><p>16</p><p>9</p></cell><cell><p>5</p><p>11</p><p>87</p><p>1</p></cell></row><row><cell>Barley or here 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Oats '.	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Rye 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Beans 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Pease	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Total under com crops 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell>1,397,977</cell><cell>1,421,515</cell><cell>l,403,887</cell><cell>1,370,892</cell><cell>283</cell><cell>264</cell><cell>104</cell></row><row><cell><p>Green crops—</p><p>Potatoes 	</p></cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell><p>170,978</p><p>490,598</p><p>944</p><p>964	·</p><p>3,441 14,529</p></cell><cell><p>167,880</p><p>503,709</p><p>1,748</p><p>1,048</p><p>4,656</p><p>14,780</p></cell><cell><p>187,061</p><p>485,987</p><p>1,822</p><p>1,393</p><p>5,478</p><p>15,705</p></cell><cell><p>148,994</p><p>484,213</p><p>1,495</p><p>1,296</p><p>5,S33</p><p>18,088</p></cell><cell><p>31</p><p>100</p><p>1</p><p>4</p></cell><cell><p>14</p><p>59</p><p>14</p><p>1</p><p>6</p><p>16</p></cell><cell><p>53</p><p>20</p><p>2</p><p>"3</p><p>2</p></cell></row><row><cell>Turnips and swedes	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Mangold<hi rend="superscript">1</hi>	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Carrots	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Cabbage, kohl-rabi, and rape 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Vetches, &amp;c	*	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Total under green crops	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell>681,454</cell><cell>693,821</cell><cell>697,446</cell><cell>659,919</cell><cell>136</cell><cell>110</cell><cell>80</cell></row><row><cell>Grasses under rotation 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell><p>1,248,747</p><p>1,417</p><p>1</p><p>54,289</p></cell><cell><p>1,338,106</p><p>731</p><p>21,669</p></cell><cell><p>1,455,745</p><p>182</p><p>21,514</p></cell><cell><p>1,571,745</p><p>41</p><p>23,208</p></cell><cell><p>324</p><p>5</p></cell><cell><p>110</p><p>"3</p><p>21</p></cell><cell><p>134</p><p>7</p><p>1</p></cell></row><row><cell>Flax 	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Hops	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell>Fallow	</cell><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/></row></table><p>The earliest year included in this table (1867) is the date at which the agricultural statistics began to be collected and published by the Board of Trade. The work previous to this had been undertaken by the Highland and Agricultural Society of Scotland, but their returns were necessarily less complete and accurate. The return for 1857, for example, gives the arable acreage (“acreage under a rotation of crops”) as 3,776,572 ; but this is clearly too much, as it exceeds that of 1885, and since 1867 there has been a gradual increase. Only a little over one-fourth of the area of Scotland is cultivated, while in England only one-fourth is left uncultivated. It must, however, be taken into consideration that in the agricultural returns “permanent pasture” does not include the mountainous districts which form such a large portion of the surface of Scotland, where heaths and natural grasses occupy the soil and yield a scanty herbage for sheep and cattle. In the return “ permanent pasture ” is represented as occupying an area little more than a third as large as that occupied by arable land, while in England the two areas are pretty nearly equal, but as a matter of fact pasturage plays a much more important part in the economy of the Scottish than of the English farmer. It will be observed that as regards the main divisions of arable land the total areas under both corn crops and green crops have been slightly decreasing, while there has been a considerable increase in the area under rotation grasses. The following table (XIV.) shows the yield of the principal crops in</p><p>1857, 1884, and 1885, with the average yield per acre in the last two years :—</p><table><row><cell/><cell>1857.</cell><cell>1884.</cell><cell>1885.</cell><cell cols="2">Average per Acre</cell></row><row><cell/><cell/><cell/><cell/><cell>1884.</cell><cell>1885.</cell></row><row><cell>Wheat .. Bushels</cell><cell>6,154,986</cell><cell>2,348,261</cell><cell>1,893,501</cell><cell>34∙17</cell><cell>34∙33</cell></row><row><cell>Barley ..	,,</cell><cell>7,236,207</cell><cell>7,901,209</cell><cell>8,245,820</cell><cell>34∙27</cell><cell>34∙72</cell></row><row><cell>Oats ....	„</cell><cell>32,750,763</cell><cell>36,713,321</cell><cell>33,407,127</cell><cell>35·10</cell><cell>31∙93</cell></row><row><cell>Beans </cell><cell>- ΛOT κnΛ</cell><cell>( 705,398</cell><cell>709,577</cell><cell>32∙23</cell><cell>30·67</cell></row><row><cell>Pease	”</cell><cell/><cell>38,551</cell><cell>37,404</cell><cell>24∙74</cell><cell>21·41</cell></row><row><cell>Turnips .. Tons</cell><cell>6,690,109</cell><cell>7,532,779</cell><cell>6,496,189</cell><cell>15∙53</cell><cell>15·39</cell></row><row><cell>Potatoes.. „</cell><cell>430,468</cell><cell>986,808</cell><cell>803,523</cell><cell>6·02</cell><cell>5·39</cell></row></table><p>This table being founded on estimates can, of course, only be regarded as approximately correct. The average yield of both wheat and barley is higher than that of England, while the average yield of both oats and potatoes is lower, which may be accounted for by the fact that the first two crops occupy the best soils of Scotland, while the last two occupy every variety of soil in the country. Wheat is grown chiefly in the sea-coast districts and the fertile river-valleys. The area under wheat has declined more than a half since 1867, the combined causes of this being wet seasons and increased foreign competition. Barley, for which the distilleries keep up a steady demand, and oats, the staple crop of the country, have rather increased in area since 1867. The area under potatoes— a very uncertain crop—has rather declined within recent years, and</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document with eb-docx2tei.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>Knowledge Project: DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-02-12T18:12:03Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Continental wars, and, although periods of occasional severe depression have occurred
+                since then, not only has the science of agriculture continued rapidly to advance but
+                the position of the large farmer has until within recent years been one of
+                increasing prosperity. The system of nineteen years’ lease had proved, as regards
+                both agricultural progress and the interests of the farmer, a much superior
+                arrangement to the system of yearly tenancy so largely prevailing in England ; but
+                it was conjoined with customs and modified by conditions which during the period of
+                agricultural distress prevailing since 1872 have caused the relations between
+                landlord and tenant to become severely strained. The more prominent grievances of
+                the farmer were the difficulty of obtaining sufficient compensation for
+                improvements, the inconveniences resulting from the law of hypothec (see <hi
+                    rend="smallcaps">Hypothec,</hi> vol. xii. p. 598), and the hardships suffered
+                from the existence of the game laws. Hypothec was abolished in 1879, except as
+                regards the Act of Sederunt ; a ground game Act was passed in 1880 ; and, succeeding
+                the report of the duke of Richmond’s commission in 1882, the Agricultural Holdings
+                Act was passed in 1883, containing provisions for securing to the tenant control in
+                the disposition of his lease, and also compensation for improvements ; but already
+                it is evident that these reforms have failed to meet the difficulties created by the
+                altered conditions of things, due to the increasing scarcity of land and the
+                importation of foreign produce.</p>
+            <p>While the relations between the landlord and the large farmer cannot be regarded as
+                satisfactory, the difficulties of the crofters— small holders now chiefly to be
+                found in the western Highlands and the islands to the north and west of
+                Scotland—have reached a more acute stage. The crofter system prevailing in Orkney
+                and Shetland—described in the article on those islands—has a totally different
+                origin from that prevailing in the Highlands. On account of the ancient relations
+                between the Highlander and his chief, the inheritance is claimed by the Highland
+                crofters of an inalienable</p>
+            <p>right to security of tenure ; but when the old feudal system of the Highlands was
+                suddenly abolished after the Rebellion of 1745 no legal steps were taken for the
+                recognition of this right, and from the beginning of the 19th century wholesale
+                clearances of tenants were carried out in many districts even by the heirs of the
+                old Highland chiefs. In the words of the report of the crofters commission of 1884
+                :—“The crofter of the present time has through past evictions been confined within
+                narrow limits, sometimes on inferior land and exhausted soil. He is subject to
+                arbitrary augmentations of money rent, he is without security of tenure, and has
+                only recently received the concession of compensation for improvements.” The
+                crofters in Scotland are now estimated to number 40,000 families or 200,000 persons,
+                and many of them support themselves partly by fishing. In the struggle for existence
+                they have had to contend against the tendency towards the creation of large farms,
+                the demand for sporting estates, the desire of landlords to escape the burden of
+                poor rates, and the fact that they have absolutely no choice as regards the
+                conditions imposed on them by the landlord. In March 1883 a commission was appointed
+                to inquire into the condition of the cotters and crofters in the Highlands and
+                islands of Scotland ; this commission gave in its report in 1884, and an Act based
+                on their recommendations was passed in 1886.</p>
+            <p>Notwithstanding the unsatisfactory condition of agricultural affairs in Scotland at
+                present, there is no country in the world where farming is prosecuted with more
+                skill and enterprise. On account of the great variety of soil and climate the
+                methods in operation differ greatly in different districts, and for special details
+                the reader is referred to the articles on the several counties. The following table
+                (XI1I. ) shows the cultivated area and the areas under each kind of crop in
+                different years, with the proportion of the acreage under each kind of crop,
+                &amp;c., to every 1000 acres of cultivated land for 1885 in Scotland, England, and
+                Ireland :—</p>
+            <table>
+                <row>
+                    <cell/>
+                    <cell cols="2">Yearly Averages.</cell>
+                    <cell>1880.</cell>
+                    <cell>1885.</cell>
+                    <cell cols="3">Average per 1000 Acres 1885.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>1867-70.</cell>
+                    <cell>1871-75.</cell>
+                    <cell/>
+                    <cell/>
+                    <cell>Scotland.</cell>
+                    <cell>England.</cell>
+                    <cell>Ireland.</cell>
+                </row>
+                <row>
+                    <cell>Total acreage under crops, bare fallow, and grass</cell>
+                    <cell><p>Acres.</p><p>4,420,375</p></cell>
+                    <cell><p>Acres.</p><p>4,560,825</p></cell>
+                    <cell><p>Acres.</p><p>4,738,127</p></cell>
+                    <cell><p>Acres.</p><p>4,845,805</p></cell>
+                    <cell><p>Acres.</p><p>1000</p></cell>
+                    <cell><p>Acres.</p><p>1000</p></cell>
+                    <cell><p>Acres.</p><p>1000</p></cell>
+                </row>
+                <row>
+                    <cell>Permanent pasture </cell>
+                    <cell>1,036,844</cell>
+                    <cell>1,084,983</cell>
+                    <cell>1,159,353</cell>
+                    <cell>1,220,000</cell>
+                    <cell>252</cell>
+                    <cell>492</cell>
+                    <cell>673</cell>
+                </row>
+                <row>
+                    <cell>Arable land </cell>
+                    <cell>3,383,531</cell>
+                    <cell>3,475,842</cell>
+                    <cell>3,578,774</cell>
+                    <cell>3,625,805</cell>
+                    <cell>748</cell>
+                    <cell>508</cell>
+                    <cell>327</cell>
+                </row>
+                <row>
+                    <cell>Corn crops—</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        Wheat 
+                    </cell>
+                    <cell><p>124,296</p></cell>
+                    <cell><p>122,513</p></cell>
+                    <cell>73,976</cell>
+                    <cell><p>55,155</p></cell>
+                    <cell><p>11</p></cell>
+                    <cell><p>95</p></cell>
+                    <cell><p>5</p></cell>
+                </row>
+                <row>
+                    <cell>Barley or here </cell>
+                    <cell>227,988</cell>
+                    <cell>252,105</cell>
+                    <cell>264,120</cell>
+                    <cell>237,472</cell>
+                    <cell>
+                        <p>49</p>
+                    </cell>
+                    <cell>76</cell>
+                    <cell>11</cell>
+                </row>
+                <row>
+                    <cell>Oats  </cell>
+                    <cell>1,011,480</cell>
+                    <cell>1,007,339</cell>
+                    <cell>1,037,254</cell>
+                    <cell>1,046,285</cell>
+                    <cell>216</cell>
+                    <cell>66</cell>
+                    <cell>87</cell>
+                </row>
+                <row>
+                    <cell>Rye </cell>
+                    <cell>8,135</cell>
+                    <cell>10,480</cell>
+                    <cell>7,333</cell>
+                    <cell>7,095</cell>
+                    <cell>2</cell>
+                    <cell>2</cell>
+                    <cell>
+                        <p>1</p>
+                    </cell>
+                </row>
+                <row>
+                    <cell>Beans </cell>
+                    <cell>23,711</cell>
+                    <cell>26,746</cell>
+                    <cell>19,977</cell>
+                    <cell>23,135</cell>
+                    <cell>5</cell>
+                    <cell>16</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Pease </cell>
+                    <cell>2,367</cell>
+                    <cell>2,332</cell>
+                    <cell>1,227</cell>
+                    <cell>1,750</cell>
+                    <cell/>
+                    <cell>9</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Total under corn crops </cell>
+                    <cell>1,397,977</cell>
+                    <cell>1,421,515</cell>
+                    <cell>l,403,887</cell>
+                    <cell>1,370,892</cell>
+                    <cell>283</cell>
+                    <cell>264</cell>
+                    <cell>104</cell>
+                </row>
+                <row>
+                    <cell><p>Green crops—</p></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <p>Potatoes </p>
+                    </cell>
+                    <cell><p>170,978</p></cell>
+                    <cell><p>167,880</p></cell>
+                    <cell><p>187,061</p></cell>
+                    <cell><p>148,994</p></cell>
+                    <cell><p>31</p></cell>
+                    <cell><p>14</p></cell>
+                    <cell><p>53</p></cell>
+                </row>
+                <row>
+                    <cell>Turnips and swedes </cell>
+                    <cell>490,598</cell>
+                    <cell>503,709</cell>
+                    <cell>
+                        <p>485,987</p>
+                    </cell>
+                    <cell>484,213</cell>
+                    <cell>100</cell>
+                    <cell>59</cell>
+                    <cell>20</cell>
+                </row>
+                <row>
+                    <cell>Mangold<hi rend="superscript">1</hi>
+                    </cell>
+                    <cell>
+                        <p>944</p>
+                    </cell>
+                    <cell>1,748</cell>
+                    <cell>1,822</cell>
+                    <cell>1,495</cell>
+                    <cell/>
+                    <cell>
+                        <p>14</p>
+                    </cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>Carrots </cell>
+                    <cell>964</cell>
+                    <cell>1,048</cell>
+                    <cell>
+                        <p>1,393</p>
+                    </cell>
+                    <cell>1,296</cell>
+                    <cell/>
+                    <cell>1</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Cabbage, kohl-rabi, and rape </cell>
+                    <cell>3,441</cell>
+                    <cell>4,656</cell>
+                    <cell>5,478</cell>
+                    <cell>
+                        <p>5,888</p>
+                    </cell>
+                    <cell>1</cell>
+                    <cell>6</cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>Vetches, &amp;c * </cell>
+                    <cell>14,529</cell>
+                    <cell>14,780</cell>
+                    <cell>
+                        <p>15,705</p>
+                    </cell>
+                    <cell>
+                        <p>18,088</p>
+                    </cell>
+                    <cell>4</cell>
+                    <cell>
+                        <p>16</p>
+                    </cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>Total under green crops </cell>
+                    <cell>681,454</cell>
+                    <cell>693,821</cell>
+                    <cell>697,446</cell>
+                    <cell>659,919</cell>
+                    <cell>136</cell>
+                    <cell>110</cell>
+                    <cell>80</cell>
+                </row>
+                <row>
+                    <cell>Grasses under rotation </cell>
+                    <cell>1,248,747</cell>
+                    <cell>1,338,106</cell>
+                    <cell>1,455,745</cell>
+                    <cell>1,571,745</cell>
+                    <cell>
+                        <p>324</p>
+                    </cell>
+                    <cell>110</cell>
+                    <cell>134</cell>
+                </row>
+                <row>
+                    <cell>Flax </cell>
+                    <cell>
+                        <p>1,417</p>
+                    </cell>
+                    <cell>
+                        <p>731</p>
+                    </cell>
+                    <cell>182</cell>
+                    <cell>
+                        <p>41</p>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell>Hops </cell>
+                    <cell>1</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>3</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Fallow </cell>
+                    <cell>54,289</cell>
+                    <cell>21,669</cell>
+                    <cell>
+                        <p>21,514</p>
+                    </cell>
+                    <cell>
+                        <p>23,208</p>
+                    </cell>
+                    <cell>5</cell>
+                    <cell>
+                        <p>21</p>
+                    </cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+            </table>
+            <p>The earliest year included in this table (1867) is the date at which the agricultural
+                statistics began to be collected and published by the Board of Trade. The work
+                previous to this had been undertaken by the Highland and Agricultural Society of
+                Scotland, but their returns were necessarily less complete and accurate. The return
+                for 1857, for example, gives the arable acreage (“acreage under a rotation of
+                crops”) as 3,776,572 ; but this is clearly too much, as it exceeds that of 1885, and
+                since 1867 there has been a gradual increase. Only a little over one-fourth of the
+                area of Scotland is cultivated, while in England only one-fourth is left
+                uncultivated. It must, however, be taken into consideration that in the agricultural
+                returns “permanent pasture” does not include the mountainous districts which form
+                such a large portion of the surface of Scotland, where heaths and natural grasses
+                occupy the soil and yield a scanty herbage for sheep and cattle. In the return “
+                permanent pasture ” is represented as occupying an area little more than a third as
+                large as that occupied by arable land, while in England the two areas are pretty
+                nearly equal, but as a matter of fact pasturage plays a much more important part in
+                the economy of the Scottish than of the English farmer. It will be observed that as
+                regards the main divisions of arable land the total areas under both corn crops and
+                green crops have been slightly decreasing, while there has been a considerable
+                increase in the area under rotation grasses. The following table (XIV.) shows the
+                yield of the principal crops in</p>
+            <p>1857, 1884, and 1885, with the average yield per acre in the last two years :—</p>
+            <table>
+                <row>
+                    <cell rows="2"/>
+                    <cell rows="2">1857.</cell>
+                    <cell rows="2">1884.</cell>
+                    <cell rows="2">1885.</cell>
+                    <cell cols="2">Average per Acre</cell>
+                </row>
+                <row>
+                    <cell>1884.</cell>
+                    <cell>1885.</cell>
+                </row>
+                <row>
+                    <cell>Wheat  Bushels</cell>
+                    <cell>6,154,986</cell>
+                    <cell>2,348,261</cell>
+                    <cell>1,893,501</cell>
+                    <cell>34∙17</cell>
+                    <cell>34∙33</cell>
+                </row>
+                <row>
+                    <cell>Barley ,,</cell>
+                    <cell>7,236,207</cell>
+                    <cell>7,901,209</cell>
+                    <cell>8,245,820</cell>
+                    <cell>34∙27</cell>
+                    <cell>34∙72</cell>
+                </row>
+                <row>
+                    <cell>Oats  „</cell>
+                    <cell>32,750,763</cell>
+                    <cell>36,713,321</cell>
+                    <cell>33,407,127</cell>
+                    <cell>35·10</cell>
+                    <cell>31∙93</cell>
+                </row>
+                <row>
+                    <cell>Beans „</cell>
+                    <cell rows="2">1,037,760</cell>
+                    <cell>705,398</cell>
+                    <cell>709,577</cell>
+                    <cell>32∙23</cell>
+                    <cell>30·67</cell>
+                </row>
+                <row>
+                    <cell>Pease „</cell>
+                    <cell>38,551</cell>
+                    <cell>37,404</cell>
+                    <cell>24∙74</cell>
+                    <cell>21·41</cell>
+                </row>
+                <row>
+                    <cell>Turnips  Tons</cell>
+                    <cell>6,690,109</cell>
+                    <cell>7,532,779</cell>
+                    <cell>6,496,189</cell>
+                    <cell>15∙53</cell>
+                    <cell>15·39</cell>
+                </row>
+                <row>
+                    <cell>Potatoes  „</cell>
+                    <cell>430,468</cell>
+                    <cell>986,808</cell>
+                    <cell>803,523</cell>
+                    <cell>6·02</cell>
+                    <cell>5·39</cell>
+                </row>
+            </table>
+            <p>This table being founded on estimates can, of course, only be regarded as
+                approximately correct. The average yield of both wheat and barley is higher than
+                that of England, while the average yield of both oats and potatoes is lower, which
+                may be accounted for by the fact that the first two crops occupy the best soils of
+                Scotland, while the last two occupy every variety of soil in the country. Wheat is
+                grown chiefly in the sea-coast districts and the fertile river-valleys. The area
+                under wheat has declined more than a half since 1867, the combined causes of this
+                being wet seasons and increased foreign competition. Barley, for which the
+                distilleries keep up a steady demand, and oats, the staple crop of the country, have
+                rather increased in area since 1867. The area under potatoes— a very uncertain
+                crop—has rather declined within recent years, and</p>
+        </body>
+    </text>
+</TEI>
